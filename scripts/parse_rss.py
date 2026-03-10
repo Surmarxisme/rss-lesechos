@@ -9,14 +9,21 @@ RSS_URL = "https://services.lesechos.fr/rss/les-echos-economie.xml"
 OUTPUT_DIR = "output"
 
 HEADERS = {
-    "User-Agent": "Mozilla/5.0 (compatible; RSSFetcher/2.0; +https://github.com)",
-    "Accept": "application/rss+xml, application/xml, text/xml, */*",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "Accept-Language": "fr-FR,fr;q=0.9,en;q=0.8",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Cache-Control": "no-cache",
+    "Pragma": "no-cache",
+    "Referer": "https://www.lesechos.fr/",
 }
 
 
 def fetch_feed():
     try:
-        r = requests.get(RSS_URL, headers=HEADERS, timeout=30)
+        session = requests.Session()
+        session.headers.update(HEADERS)
+        r = session.get(RSS_URL, timeout=30, allow_redirects=True)
         r.raise_for_status()
         return r.content
     except requests.RequestException as e:
