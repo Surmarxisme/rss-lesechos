@@ -1,34 +1,34 @@
 import json
 import os
 import sys
-import requests
 import feedparser
 from datetime import datetime, timezone
 
 RSS_URL = "https://services.lesechos.fr/rss/les-echos-economie.xml"
 OUTPUT_DIR = "output"
 
-HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
-    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-    "Accept-Language": "fr-FR,fr;q=0.9,en;q=0.8",
-    "Accept-Encoding": "gzip, deflate, br",
-    "Cache-Control": "no-cache",
-    "Pragma": "no-cache",
-    "Referer": "https://www.lesechos.fr/",
-}
+# feedparser envoie ses propres headers HTTP qui passent mieux les protections
+feedparser.USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
 
 
-def fetch_feed():
-    try:
-        session = requests.Session()
-        session.headers.update(HEADERS)
-        r = session.get(RSS_URL, timeout=30, allow_redirects=True)
-        r.raise_for_status()
-        return r.content
-    except requests.RequestException as e:
-        print(f"Erreur reseau : {e}", file=sys.stderr)
-        sys.exit(1)
+def fetch_and_parse():
+    feed = feedparser.parse(
+        RSS_URL,
+        request_headers={
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+            "Accept-Language": "fr-FR,fr;q=0.9,en;q=0.8",
+            "Referer": "https://www.lesechos.fr/",
+            "Cache-Control": "no-cache",
+        }
+    )
+    if feed.bozo and not feed.entries:
+        exc = feed.get("bozo_exception", "unknown error")
+        print(f"Erreur RSS : {exc}", file=sys.stderr)
+        # Si 403 ou erreur reseau, on sort avec code 1
+        if hasattr(exc, 'code') and exc.code in (403, 401, 429):
+            print(f"HTTP {exc.code} - le serveur bloque les requetes automatisees", file=sys.stderr)
+            sys.exit(1)
+    return feed
 
 
 def parse_entry(entry):
@@ -93,10 +93,13 @@ def save_markdown(data, path):
 
 def main():
     os.makedirs(OUTPUT_DIR, exist_ok=True)
-    content = fetch_feed()
-    feed = feedparser.parse(content)
+    feed = fetch_and_parse()
 
     articles = [parse_entry(e) for e in feed.entries]
+
+    if not articles:
+        print("Aucun article recupere - le flux est peut-etre vide ou inaccessible", file=sys.stderr)
+        sys.exit(1)
 
     output = {
         "source": feed.feed.get("title", "Les Echos - Economie"),
