@@ -1,6 +1,6 @@
 # Les Echos - Economie (via Google News)
 
-> Derniere mise a jour : `2026-03-10T21:54:53.297683+00:00`  
+> Derniere mise a jour : `2026-03-10T21:55:52.634444+00:00`  
 > Source : [https://www.lesechos.fr/economie-france](https://www.lesechos.fr/economie-france)
 > 100 articles indexes
 
@@ -83,14 +83,6 @@
 `Tue, 10 Mar 2026 12:33:49 GMT` | **
 
 <a href="https://news.google.com/rss/articles/CBMi4gFBVV95cUxPUlRkQzV0VEp5aEFnQS1NRnd2ZE5xc01wMTNBLUZvVTcwdlFKX2hsMWZzRnlIQWk5VlpQUU5id0tPdHBpOXdKdkJjZDc4NFlDcU9sRGx6NzBSZ09mZ2F4T0lUVEpuMWZsUWhfYkN6UkNYclQ3bGpOWnZTWUVILWhVa2tsYVlXMHQzQkw1OTNhcHg3RFRzbUU5NGFMVmxXWHdrWUZKRy1JTkJQZWZnSnJkTEI2Rm5YekhsNDVrM0d2RU50dUhaT2dNdVZrS3h3a2dHNF94QTZ2Y3RmMllzWTZFMUVn?oc=5" target="_blank">Private equity : quand les particuliers fortunés s'invitent dans la vague de consolidation des fonds</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Pourquoi Trump n'est pas encore au bout de sa guerre en Iran - Les Echos](https://news.google.com/rss/articles/CBMirAFBVV95cUxPY3NfN25wNmxmMXBGRVA4WjNiYWlIT1JGckw2alVqUnpUcEhLSnY3MnJMQXBGaXNFaC1xdkFxU1ltZVRhQV9CQ1N5WUdmaldCdW1QaEYwNXNSNzEwd2c0cUlMQXVscHFWVjBORDVKN0dfNmR4eUdoMFd1S19uMXpCdFlIa0p6MkdCRTRRSjlwZDROZEpqd05hbEhPVXBvWG5BajBTNlhlc3F6SXp6?oc=5)
-
-`Tue, 10 Mar 2026 16:10:22 GMT` | **
-
-<a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxPY3NfN25wNmxmMXBGRVA4WjNiYWlIT1JGckw2alVqUnpUcEhLSnY3MnJMQXBGaXNFaC1xdkFxU1ltZVRhQV9CQ1N5WUdmaldCdW1QaEYwNXNSNzEwd2c0cUlMQXVscHFWVjBORDVKN0dfNmR4eUdoMFd1S19uMXpCdFlIa0p6MkdCRTRRSjlwZDROZEpqd05hbEhPVXBvWG5BajBTNlhlc3F6SXp6?oc=5" target="_blank">Pourquoi Trump n'est pas encore au bout de sa guerre en Iran</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -803,5 +795,13 @@
 `Fri, 06 Mar 2026 12:30:08 GMT` | **
 
 <a href="https://news.google.com/rss/articles/CBMijAJBVV95cUxPeklRcjlIdXZHa0JMbTJtYzdkQW5sNDhvQmwyb2pmNnlXTlBHQU5nclJjUklhMXFiRkpDNklDYUhCYmVSTWQzd2lnTVM4cEVzc2JvNWVuVUt3eG51OUtBZ2RkMERtaHFZdFZTek5OaDVaVEExaUM5cGJybjRZTUxpN2UtZEhyQVZCZ3NNX1RMR1dkRnJnbEhYOUlsNUFCQ2tzSTdrOGFmXzk2b2VoNGNGY1lpV2tSMWhLaHFvSTRlZ0VOb1ZBcEZMdVJBQ1ZES1dPbHNseHVYVmVDX3FsQmlFYWc1UFFoLVZaNnNleFNqaVZEOUt3elJudnREMmlQWXZmQmZWMlBVZnFMaW9G?oc=5" target="_blank">Apprentissage : « Les arbitrages budgétaires doivent être progressifs, lisibles et cohérents avec l'ambition affichée pour la jeunesse</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Au sein des institutions scientifiques, face à un monde incertain, l'excellence et l'équité doivent rester non négociables - Les Echos](https://news.google.com/rss/articles/CBMi_wFBVV95cUxORldUd1Z2NHlJUk5aVlVLTWVwTTZoNnhrZXhaLVBKd3V2Tnc4VmNoR1FNNThtTjlRZ0ZDbzIzLXlYNUQtQThhbDJsUEwzZ0lyWHpROUdQTDFheVZwbDNOS3BnRi1Zelk0ZjhMRFFubWdjV1pjWUJRbXhBbjZwYmczOGdfQ0toVW5XZGFKTjI2ejFXRzQxeUxfS2ROUUVHR3FETlNSU2JyNWxEZEI0c3ZGODdSZXFScEFkUm1BZGdPQi03MWZZNnZSam9lM1E1bDNuV043TVlsemZDY2s5WlpuV18zR1ZXQjNKRnRlUXdJVnVrZFNpTHBDemtaTkNTaTA?oc=5)
+
+`Sat, 07 Mar 2026 11:22:08 GMT` | **
+
+<a href="https://news.google.com/rss/articles/CBMi_wFBVV95cUxORldUd1Z2NHlJUk5aVlVLTWVwTTZoNnhrZXhaLVBKd3V2Tnc4VmNoR1FNNThtTjlRZ0ZDbzIzLXlYNUQtQThhbDJsUEwzZ0lyWHpROUdQTDFheVZwbDNOS3BnRi1Zelk0ZjhMRFFubWdjV1pjWUJRbXhBbjZwYmczOGdfQ0toVW5XZGFKTjI2ejFXRzQxeUxfS2ROUUVHR3FETlNSU2JyNWxEZEI0c3ZGODdSZXFScEFkUm1BZGdPQi03MWZZNnZSam9lM1E1bDNuV043TVlsemZDY2s5WlpuV18zR1ZXQjNKRnRlUXdJVnVrZFNpTHBDemtaTkNTaTA?oc=5" target="_blank">Au sein des institutions scientifiques, face à un monde incertain, l'excellence et l'équité doivent rester non négociables</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
