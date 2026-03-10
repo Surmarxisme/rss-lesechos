@@ -7,20 +7,21 @@ from xml.etree.ElementTree import Element, SubElement, ElementTree, indent
 
 OUTPUT_DIR = "output"
 
-# Deux flux Google News cibles sur les rubriques exactes de Les Echos
+# Deux flux Google News cibles sur les rubriques exactes de Les Echos.
+# Google News renvoie des URLs de redirection (news.google.com/...) donc
+# le ciblage se fait par la requete de recherche, pas par filtrage d'URL.
 RSS_FEEDS = [
     {
         "url": "https://news.google.com/rss/search?q=site:lesechos.fr/economie-france&hl=fr&gl=FR&ceid=FR:fr",
         "section": "economie-france",
+        "label": "Economie France",
     },
     {
         "url": "https://news.google.com/rss/search?q=site:lesechos.fr/idees-debats&hl=fr&gl=FR&ceid=FR:fr",
         "section": "idees-debats",
+        "label": "Idees & Debats",
     },
 ]
-
-# Seuls les liens pointant vers ces chemins sont gardes
-ALLOWED_PATHS = ("/economie-france", "/idees-debats")
 
 feedparser.USER_AGENT = "Mozilla/5.0 (compatible; FeedFetcher/1.0)"
 
@@ -34,18 +35,16 @@ def fetch_section(feed_cfg):
     return feed.entries
 
 
-def parse_entry(entry, section):
+def parse_entry(entry, section, label):
     media_list = entry.get("media_content") or []
     media_item = media_list[0] if media_list else {}
-    tags = entry.get("tags") or []
-    category = tags[0].get("term", section) if tags else section
     return {
         "id":                entry.get("id", ""),
         "title":             (entry.get("title") or "").strip(),
         "description":       (entry.get("summary") or "").strip(),
         "link":              entry.get("link", ""),
         "section":           section,
-        "category":          category,
+        "label":             label,
         "pub_date":          entry.get("published", ""),
         "image_url":         media_item.get("url", ""),
         "image_width":       media_item.get("width", ""),
@@ -53,12 +52,6 @@ def parse_entry(entry, section):
         "image_description": entry.get("media_description", ""),
         "image_credit":      entry.get("media_credit", ""),
     }
-
-
-def is_allowed(article):
-    """Filtre : garde uniquement les liens economie-france ou idees-debats."""
-    link = article.get("link", "")
-    return any(path in link for path in ALLOWED_PATHS)
 
 
 def save_json(data, path):
@@ -78,11 +71,10 @@ def save_markdown(data, path):
         "",
     ]
     for a in data["articles"]:
-        badge = "Economie" if "economie" in a.get("section", "") else "Idees & Debats"
         lines += [
             f"### [{a['title']}]({a['link']})",
             "",
-            f"`{a['pub_date']}` | **{badge}**",
+            f"`{a['pub_date']}` | **{a['label']}**",
             "",
         ]
         if a["image_url"]:
@@ -94,7 +86,6 @@ def save_markdown(data, path):
 
 
 def save_xml(data, path):
-    """Genere un fichier RSS 2.0 valide, lisible par tous les lecteurs RSS."""
     rss = Element("rss", version="2.0")
     rss.set("xmlns:atom", "http://www.w3.org/2005/Atom")
     channel = SubElement(rss, "channel")
@@ -118,7 +109,7 @@ def save_xml(data, path):
         SubElement(item, "description").text = a["description"]
         SubElement(item, "pubDate").text = a["pub_date"]
         SubElement(item, "guid", isPermaLink="false").text = a["id"] or a["link"]
-        SubElement(item, "category").text = a["section"]
+        SubElement(item, "category").text = a["label"]
         if a["image_url"]:
             enclosure = SubElement(item, "enclosure")
             enclosure.set("url", a["image_url"])
@@ -134,17 +125,13 @@ def save_xml(data, path):
 def main():
     os.makedirs(OUTPUT_DIR, exist_ok=True)
 
-    # Fetch les deux sections en parallele
     all_articles = []
     seen_ids = set()
 
     for feed_cfg in RSS_FEEDS:
         entries = fetch_section(feed_cfg)
         for entry in entries:
-            parsed = parse_entry(entry, feed_cfg["section"])
-            # Filtre strict sur le chemin du lien
-            if not is_allowed(parsed):
-                continue
+            parsed = parse_entry(entry, feed_cfg["section"], feed_cfg["label"])
             # Deduplication par id
             uid = parsed["id"] or parsed["link"]
             if uid in seen_ids:
@@ -153,10 +140,10 @@ def main():
             all_articles.append(parsed)
 
     if not all_articles:
-        print("Aucun article recupere apres filtrage", file=sys.stderr)
+        print("Aucun article recupere", file=sys.stderr)
         sys.exit(1)
 
-    # Trier par date de publication (plus recent en premier)
+    # Plus recent en premier
     all_articles.sort(key=lambda a: a["pub_date"], reverse=True)
 
     output = {
