@@ -32,6 +32,7 @@ jobs:
 
       - name: Parse RSS feed
         run: python scripts/parse_rss.py
+        continue-on-error: false
 
       - name: Auto-commit output
         uses: stefanzweifel/git-auto-commit-action@v5
