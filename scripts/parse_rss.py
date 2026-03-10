@@ -4,52 +4,37 @@ import sys
 import feedparser
 from datetime import datetime, timezone
 
-RSS_URL = "https://services.lesechos.fr/rss/les-echos-economie.xml"
+# Google News RSS - Economie France (pas de blocage IP AWS)
+# Filtre sur les sources Les Echos via Google News
+RSS_URL = "https://news.google.com/rss/search?q=site:lesechos.fr+economie&hl=fr&gl=FR&ceid=FR:fr"
 OUTPUT_DIR = "output"
 
-# feedparser envoie ses propres headers HTTP qui passent mieux les protections
-feedparser.USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
+# User-Agent standard
+feedparser.USER_AGENT = "Mozilla/5.0 (compatible; FeedFetcher/1.0)"
 
 
 def fetch_and_parse():
-    feed = feedparser.parse(
-        RSS_URL,
-        request_headers={
-            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-            "Accept-Language": "fr-FR,fr;q=0.9,en;q=0.8",
-            "Referer": "https://www.lesechos.fr/",
-            "Cache-Control": "no-cache",
-        }
-    )
+    feed = feedparser.parse(RSS_URL)
     if feed.bozo and not feed.entries:
-        exc = feed.get("bozo_exception", "unknown error")
+        exc = feed.get("bozo_exception", "erreur inconnue")
         print(f"Erreur RSS : {exc}", file=sys.stderr)
-        # Si 403 ou erreur reseau, on sort avec code 1
-        if hasattr(exc, 'code') and exc.code in (403, 401, 429):
-            print(f"HTTP {exc.code} - le serveur bloque les requetes automatisees", file=sys.stderr)
-            sys.exit(1)
+        sys.exit(1)
     return feed
 
 
 def parse_entry(entry):
-    media_list = entry.get("media_content") or []
-    media_item = media_list[0] if media_list else {}
-
-    tags = entry.get("tags") or []
-    category = tags[0].get("term", "") if tags else ""
-
     return {
         "id": entry.get("id", ""),
         "title": (entry.get("title") or "").strip(),
         "description": (entry.get("summary") or "").strip(),
         "link": entry.get("link", ""),
-        "category": category,
+        "category": "",
         "pub_date": entry.get("published", ""),
-        "image_url": media_item.get("url", ""),
-        "image_width": media_item.get("width", ""),
-        "image_height": media_item.get("height", ""),
-        "image_description": entry.get("media_description", ""),
-        "image_credit": entry.get("media_credit", ""),
+        "image_url": "",
+        "image_width": "",
+        "image_height": "",
+        "image_description": "",
+        "image_credit": "",
     }
 
 
@@ -74,13 +59,8 @@ def save_markdown(data, path):
         lines += [
             f"### [{a['title']}]({a['link']})",
             "",
-            f"`{a['pub_date']}` | *{a['category']}*",
+            f"`{a['pub_date']}`",
             "",
-        ]
-        if a["image_url"]:
-            lines.append(f"![{a['title']}]({a['image_url']})")
-            lines.append("")
-        lines += [
             a["description"],
             "",
             "---",
@@ -98,16 +78,14 @@ def main():
     articles = [parse_entry(e) for e in feed.entries]
 
     if not articles:
-        print("Aucun article recupere - le flux est peut-etre vide ou inaccessible", file=sys.stderr)
+        print("Aucun article recupere", file=sys.stderr)
         sys.exit(1)
 
     output = {
-        "source": feed.feed.get("title", "Les Echos - Economie"),
-        "source_url": feed.feed.get(
-            "link", "https://www.lesechos.fr/economie-france"
-        ),
-        "language": feed.feed.get("language", "fr-FR"),
-        "copyright": feed.feed.get("rights", "Les Echos 2026"),
+        "source": "Les Echos - Economie (via Google News)",
+        "source_url": "https://www.lesechos.fr/economie-france",
+        "language": "fr-FR",
+        "copyright": "Les Echos",
         "last_fetched": datetime.now(timezone.utc).isoformat(),
         "last_build": feed.feed.get("updated", ""),
         "total_items": len(articles),
