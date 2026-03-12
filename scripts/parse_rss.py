@@ -1,12 +1,16 @@
 import json, os, sys, requests, feedparser
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
+from email.utils import parsedate_to_datetime
 
-# Google News RSS - cible la rubrique economie-france de lesechos.fr
-# La requete site:lesechos.fr/economie-france est deja le meilleur filtre disponible
+# Google News RSS - rubrique economie-france de lesechos.fr
 RSS_URL = "https://news.google.com/rss/search?q=site:lesechos.fr/economie-france&hl=fr&gl=FR&ceid=FR:fr"
 OUTPUT_DIR = "output"
 
-# Domaines a exclure (sous-domaines non voulus)
+# Ne garder que les articles des 30 derniers jours
+# (comportement d'un vrai flux RSS)
+MAX_AGE_DAYS = 30
+
+# Sous-domaines a exclure
 EXCLUDE_DOMAINS = ["investir.lesechos.fr", "business.lesechos.fr"]
 
 HEADERS = {
@@ -28,9 +32,29 @@ def fetch_feed():
         sys.exit(1)
 
 
+def parse_pub_date(entry):
+    """Parse la date de publication, retourne None si invalide."""
+    pub = entry.get("published", "")
+    if not pub:
+        return None
+    try:
+        return parsedate_to_datetime(pub).astimezone(timezone.utc)
+    except Exception:
+        return None
+
+
+def is_recent(entry):
+    """Retourne True si l'article a moins de MAX_AGE_DAYS jours."""
+    pub_date = parse_pub_date(entry)
+    if pub_date is None:
+        # Si pas de date, on garde l'article par defaut
+        return True
+    cutoff = datetime.now(timezone.utc) - timedelta(days=MAX_AGE_DAYS)
+    return pub_date >= cutoff
+
+
 def should_exclude(entry):
     """Retourne True si l'article provient d'un sous-domaine exclu."""
-    # On cherche dans le titre, le summary et la source
     text = " ".join([
         entry.get("title", ""),
         entry.get("summary", ""),
@@ -41,6 +65,7 @@ def should_exclude(entry):
 
 
 def parse_entry(entry):
+    pub_date = parse_pub_date(entry)
     return {
         "id":          entry.get("id", ""),
         "title":       entry.get("title", "").strip(),
@@ -48,6 +73,7 @@ def parse_entry(entry):
         "link":        entry.get("link", ""),
         "source":      entry.get("source", {}).get("value", "Les Echos") if entry.get("source") else "Les Echos",
         "pub_date":    entry.get("published", ""),
+        "pub_date_iso": pub_date.isoformat() if pub_date else "",
     }
 
 
@@ -61,7 +87,7 @@ def save_markdown(data, path):
         f"# {data['source']}",
         "",
         f"> Derniere mise a jour : `{data['last_fetched']}`",
-        f"> {data['total_items']} articles - rubrique Economie France",
+        f"> {data['total_items']} articles recents (30 derniers jours)",
         "",
         "---",
         "",
@@ -88,12 +114,17 @@ def main():
     feed = feedparser.parse(content)
     total_raw = len(feed.entries)
 
-    # Exclure seulement les sous-domaines indesirables
-    filtered = [e for e in feed.entries if not should_exclude(e)]
+    # Filtre 1 : exclure sous-domaines indesirables
+    # Filtre 2 : ne garder que les articles des 30 derniers jours
+    filtered = [
+        e for e in feed.entries
+        if not should_exclude(e) and is_recent(e)
+    ]
     articles = [parse_entry(e) for e in filtered]
     total_kept = len(articles)
 
-    print(f"Recuperes : {total_raw} | Gardes apres exclusions : {total_kept}")
+    cutoff_str = (datetime.now(timezone.utc) - timedelta(days=MAX_AGE_DAYS)).strftime("%Y-%m-%d")
+    print(f"Recuperes : {total_raw} | Apres filtre (< {MAX_AGE_DAYS}j, depuis {cutoff_str}) : {total_kept}")
 
     output = {
         "source":       "Les Echos - Economie France",
