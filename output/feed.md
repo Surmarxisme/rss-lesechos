@@ -1,6 +1,6 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `2026-03-12T16:19:17.103588+00:00`
+> Derniere mise a jour : `2026-03-12T17:40:48.341362+00:00`
 > 21 articles recents (30 derniers jours)
 
 ---
@@ -93,19 +93,19 @@
 
 ---
 
+### [Hausse de la taxe foncière : le dossier qui embarrasse le gouvernement renvoyé après les municipales - Les Echos](https://news.google.com/rss/articles/CBMizAFBVV95cUxOX1VyNDlVOUZJZ0ZUbDJmY0RLalJRc0RXd1JkR01BSHhzM1BJaGNGVFlTeXZUb1c0REI1TmxMUVBxZWJ5ZnctSl94MEZVVzFtdndGRlNsNFBhLVFOaXI1aUpxbElhckpra3RtLVRfUm5wdjN2cDZUSTl2WXRHREh5SHNjUUs5ZUtGekVvMmJYdzY2cFBZVE0zV2NQdjlfVE1VNWhMZjE5MUN2c2plaEhsRDRoRkQwU29aeVlPRC0wSW9RcUYteTBlZk1KSjY?oc=5)
+
+`Tue, 10 Mar 2026 14:04:08 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMizAFBVV95cUxOX1VyNDlVOUZJZ0ZUbDJmY0RLalJRc0RXd1JkR01BSHhzM1BJaGNGVFlTeXZUb1c0REI1TmxMUVBxZWJ5ZnctSl94MEZVVzFtdndGRlNsNFBhLVFOaXI1aUpxbElhckpra3RtLVRfUm5wdjN2cDZUSTl2WXRHREh5SHNjUUs5ZUtGekVvMmJYdzY2cFBZVE0zV2NQdjlfVE1VNWhMZjE5MUN2c2plaEhsRDRoRkQwU29aeVlPRC0wSW9RcUYteTBlZk1KSjY?oc=5" target="_blank">Hausse de la taxe foncière : le dossier qui embarrasse le gouvernement renvoyé après les municipales</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
 ### [Emploi : les ruptures conventionnelles pérennisées dans la fonction publique - Les Echos](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeUxLNXNuWXA3M3VBMDR5dV9sYjJrbjdHQ3ExbndMR3FENkV6Q0FyVDBNQk9CVHd5aTNsdU1YanhySm56ZEVDZHEyVTZvVkIyUkFhSmtuN2U5UUgyMVZ3WmJPV0UwTXFHSW0yc1JXZ0Z5MmtrODdZYlJDZ2ZhRm9vV3VzenB1M1JZWHNnek9EUnp0UVpIYS1QaldLWGJfYVdWZmhicUJ2dUxjX3RWYnJOOGI1c3A0cHA0ZzB0R3k0ZXp3ek5NaDlPMQ?oc=5)
 
 `Tue, 10 Mar 2026 14:31:20 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeUxLNXNuWXA3M3VBMDR5dV9sYjJrbjdHQ3ExbndMR3FENkV6Q0FyVDBNQk9CVHd5aTNsdU1YanhySm56ZEVDZHEyVTZvVkIyUkFhSmtuN2U5UUgyMVZ3WmJPV0UwTXFHSW0yc1JXZ0Z5MmtrODdZYlJDZ2ZhRm9vV3VzenB1M1JZWHNnek9EUnp0UVpIYS1QaldLWGJfYVdWZmhicUJ2dUxjX3RWYnJOOGI1c3A0cHA0ZzB0R3k0ZXp3ek5NaDlPMQ?oc=5" target="_blank">Emploi : les ruptures conventionnelles pérennisées dans la fonction publique</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Hausse de la taxe foncière : le dossier renvoyé après les municipales - Les Echos](https://news.google.com/rss/articles/CBMizAFBVV95cUxOX1VyNDlVOUZJZ0ZUbDJmY0RLalJRc0RXd1JkR01BSHhzM1BJaGNGVFlTeXZUb1c0REI1TmxMUVBxZWJ5ZnctSl94MEZVVzFtdndGRlNsNFBhLVFOaXI1aUpxbElhckpra3RtLVRfUm5wdjN2cDZUSTl2WXRHREh5SHNjUUs5ZUtGekVvMmJYdzY2cFBZVE0zV2NQdjlfVE1VNWhMZjE5MUN2c2plaEhsRDRoRkQwU29aeVlPRC0wSW9RcUYteTBlZk1KSjY?oc=5)
-
-`Tue, 10 Mar 2026 14:04:08 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMizAFBVV95cUxOX1VyNDlVOUZJZ0ZUbDJmY0RLalJRc0RXd1JkR01BSHhzM1BJaGNGVFlTeXZUb1c0REI1TmxMUVBxZWJ5ZnctSl94MEZVVzFtdndGRlNsNFBhLVFOaXI1aUpxbElhckpra3RtLVRfUm5wdjN2cDZUSTl2WXRHREh5SHNjUUs5ZUtGekVvMmJYdzY2cFBZVE0zV2NQdjlfVE1VNWhMZjE5MUN2c2plaEhsRDRoRkQwU29aeVlPRC0wSW9RcUYteTBlZk1KSjY?oc=5" target="_blank">Hausse de la taxe foncière : le dossier renvoyé après les municipales</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
