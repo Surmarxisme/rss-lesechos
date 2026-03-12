@@ -1,6 +1,8 @@
 import json, os, sys, requests, feedparser
 from datetime import datetime, timezone, timedelta
 from email.utils import parsedate_to_datetime
+from xml.etree.ElementTree import Element, SubElement, tostring
+from xml.dom import minidom
 
 # Google News RSS - rubrique economie-france de lesechos.fr
 RSS_URL = "https://news.google.com/rss/search?q=site:lesechos.fr/economie-france&hl=fr&gl=FR&ceid=FR:fr"
@@ -19,7 +21,6 @@ HEADERS = {
 }
 
 def load_seen_ids():
-    """Charge les IDs deja vus depuis le fichier de persistance."""
     if os.path.exists(SEEN_IDS_FILE):
         try:
             with open(SEEN_IDS_FILE, "r", encoding="utf-8") as f:
@@ -30,8 +31,6 @@ def load_seen_ids():
     return set()
 
 def save_seen_ids(seen_ids):
-    """Sauvegarde les IDs vus dans le fichier de persistance."""
-    # On garde les IDs des 60 derniers jours max pour eviter un fichier trop grand
     with open(SEEN_IDS_FILE, "w", encoding="utf-8") as f:
         json.dump({"ids": list(seen_ids), "updated": datetime.now(timezone.utc).isoformat()}, f, ensure_ascii=False, indent=2)
 
@@ -48,7 +47,6 @@ def fetch_feed():
         sys.exit(1)
 
 def parse_pub_date(entry):
-    """Parse la date de publication, retourne None si invalide."""
     pub = entry.get("published", "")
     if not pub:
         return None
@@ -58,7 +56,6 @@ def parse_pub_date(entry):
         return None
 
 def is_recent(entry):
-    """Retourne True si l'article a moins de MAX_AGE_DAYS jours."""
     pub_date = parse_pub_date(entry)
     if pub_date is None:
         return True
@@ -66,7 +63,6 @@ def is_recent(entry):
     return pub_date >= cutoff
 
 def should_exclude(entry):
-    """Retourne True si l'article provient d'un sous-domaine exclu."""
     text = " ".join([
         entry.get("title", ""),
         entry.get("summary", ""),
@@ -91,12 +87,36 @@ def save_json(data, path):
     with open(path, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
+def save_rss_xml(articles, path, last_fetched):
+    """Genere un vrai fichier RSS 2.0 lisible par NetNewsWire et tous les lecteurs RSS."""
+    rss = Element("rss", version="2.0")
+    channel = SubElement(rss, "channel")
+
+    SubElement(channel, "title").text = "Les Echos - Economie France"
+    SubElement(channel, "link").text = "https://www.lesechos.fr/economie-france"
+    SubElement(channel, "description").text = "Flux RSS Les Echos - rubrique Economie France"
+    SubElement(channel, "language").text = "fr-FR"
+    SubElement(channel, "lastBuildDate").text = last_fetched
+
+    for a in articles:
+        item = SubElement(channel, "item")
+        SubElement(item, "title").text = a["title"]
+        SubElement(item, "link").text = a["link"]
+        SubElement(item, "description").text = a["description"]
+        SubElement(item, "pubDate").text = a["pub_date"]
+        SubElement(item, "guid", isPermaLink="false").text = a["id"]
+
+    raw = tostring(rss, encoding="unicode")
+    pretty = minidom.parseString(raw).toprettyxml(indent="  ", encoding="utf-8")
+    with open(path, "wb") as f:
+        f.write(pretty)
+
 def save_markdown(data, path):
     lines = [
         f"# {data['source']}",
         "",
         f"> Derniere mise a jour : `{data['last_fetched']}`",
-        f"> {data['total_items']} nouveaux articles (non deja vus, 30 derniers jours)",
+        f"> {data['total_items']} articles (30 derniers jours)",
         "",
         "---",
         "",
@@ -118,7 +138,6 @@ def save_markdown(data, path):
 def main():
     os.makedirs(OUTPUT_DIR, exist_ok=True)
 
-    # Charger les IDs deja vus
     seen_ids = load_seen_ids()
     print(f"IDs deja vus : {len(seen_ids)}")
 
@@ -126,9 +145,6 @@ def main():
     feed = feedparser.parse(content)
     total_raw = len(feed.entries)
 
-    # Filtre 1 : exclure sous-domaines indesirables
-    # Filtre 2 : ne garder que les articles des 30 derniers jours
-    # Filtre 3 : exclure les articles deja vus
     new_entries = []
     for e in feed.entries:
         if should_exclude(e):
@@ -142,19 +158,15 @@ def main():
 
     articles = [parse_entry(e) for e in new_entries]
     total_new = len(articles)
+    print(f"Recuperes : {total_raw} | Nouveaux : {total_new}")
 
-    cutoff_str = (datetime.now(timezone.utc) - timedelta(days=MAX_AGE_DAYS)).strftime("%Y-%m-%d")
-    print(f"Recuperes : {total_raw} | Nouveaux (non vus, < {MAX_AGE_DAYS}j) : {total_new}")
-
-    # Mettre a jour les IDs vus avec les nouveaux articles
     for e in feed.entries:
         entry_id = e.get("id", "")
         if entry_id:
             seen_ids.add(entry_id)
-
     save_seen_ids(seen_ids)
 
-    # On charge le feed existant et on PREPEND les nouveaux articles
+    # Charger le feed existant et fusionner
     feed_path = os.path.join(OUTPUT_DIR, "feed.json")
     existing_articles = []
     if os.path.exists(feed_path):
@@ -165,11 +177,8 @@ def main():
         except Exception:
             pass
 
-    # Fusion : nouveaux en premier, puis anciens (en evitant les doublons par id)
-    existing_ids = {a["id"] for a in existing_articles}
     merged = articles + [a for a in existing_articles if a["id"] not in {a["id"] for a in articles}]
 
-    # On ne garde que les articles des 30 derniers jours dans le feed final
     cutoff_dt = datetime.now(timezone.utc) - timedelta(days=MAX_AGE_DAYS)
     def is_recent_article(a):
         iso = a.get("pub_date_iso", "")
@@ -182,20 +191,22 @@ def main():
 
     merged = [a for a in merged if is_recent_article(a)]
 
+    last_fetched = datetime.now(timezone.utc).strftime("%a, %d %b %Y %H:%M:%S +0000")
+
     output = {
         "source": "Les Echos - Economie France",
         "source_url": "https://www.lesechos.fr/economie-france",
         "language": "fr-FR",
-        "last_fetched": datetime.now(timezone.utc).isoformat(),
-        "last_build": feed.feed.get("updated", ""),
+        "last_fetched": last_fetched,
         "total_items": len(merged),
         "new_items_this_run": total_new,
         "articles": merged,
     }
 
     save_json(output, feed_path)
+    save_rss_xml(merged, os.path.join(OUTPUT_DIR, "feed.xml"), last_fetched)
     save_markdown(output, os.path.join(OUTPUT_DIR, "feed.md"))
-    print(f"OK : {total_new} nouveaux articles ajoutes, {len(merged)} articles au total dans le feed")
+    print(f"OK : {total_new} nouveaux, {len(merged)} au total | feed.xml et feed.json mis a jour")
 
 if __name__ == "__main__":
     main()
