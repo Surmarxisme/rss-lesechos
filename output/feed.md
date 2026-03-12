@@ -1,15 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `2026-03-12T09:53:17.360460+00:00`
+> Derniere mise a jour : `2026-03-12T12:40:22.643612+00:00`
 > 100 articles - rubrique Economie France
 
 ---
 
-### [Carburants : Lecornu crée la surprise en mettant sur la table un plafonnement des marges des distributeurs - Les Echos](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPZTRXQ0FhUFdLYWhIUERYaFQtbWxURHBMWTBXcklMeWwtZDI5dHI1NFEyM0o2VnR2RjV1emJZSjA1ZGNsYzV2dFJ5T2NHbzFhc0VJbkk1MlR2V2JKNmZtOGhsb05QSS1uN1NicUNsRldLcVpzSGs1WVhwSWRHdEFQNFNCZ01nLU5HNTdsbDFjYmpkZTVvLUxkY0JMVF9xa3d0ei1lM3VIT3kwSjd5Y2lDR3M1Zjg5TnJ4bHh5VHNnQ25VaWE0VWl0X0czRmRkWERHVmFYakZYd0FBNkVTWVE?oc=5)
+### [Aides à la décarbonation de l'industrie : une cible partiellement atteinte - Les Echos](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOWnZ4TVd6ZFZJOVhtWXNUSFJuZ2pIOVhqTWlBVktWbllHaDV3eTZpTTh4VjdPYjNzZm5oWjB3ajJOaVZ3Zzk2TDg4cXNndjhJdDRoWEUybnhGUlp3UjNWZUd6VHVkMTFqQVZWdGFfOEo0ejJRNC1qYURuNGt3VkVPb09DbjNKVG4wQ2xiSjJEX0t6ZFB6M3haSDkxYmk0TmpsYUU2QVA5alBGNm5nNGdDMmNDWGt0SHVQdHFWWFhfbVAyNEwtX3dXLVl0WnBfUGh5U0E?oc=5)
 
-`Wed, 11 Mar 2026 12:19:36 GMT`
+`Wed, 11 Mar 2026 11:00:01 GMT`
 
-<a href="https://news.google.com/rss/articles/CBMi3gFBVV95cUxPZTRXQ0FhUFdLYWhIUERYaFQtbWxURHBMWTBXcklMeWwtZDI5dHI1NFEyM0o2VnR2RjV1emJZSjA1ZGNsYzV2dFJ5T2NHbzFhc0VJbkk1MlR2V2JKNmZtOGhsb05QSS1uN1NicUNsRldLcVpzSGs1WVhwSWRHdEFQNFNCZ01nLU5HNTdsbDFjYmpkZTVvLUxkY0JMVF9xa3d0ei1lM3VIT3kwSjd5Y2lDR3M1Zjg5TnJ4bHh5VHNnQ25VaWE0VWl0X0czRmRkWERHVmFYakZYd0FBNkVTWVE?oc=5" target="_blank">Carburants : Lecornu crée la surprise en mettant sur la table un plafonnement des marges des distributeurs</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+<a href="https://news.google.com/rss/articles/CBMi0gFBVV95cUxOWnZ4TVd6ZFZJOVhtWXNUSFJuZ2pIOVhqTWlBVktWbllHaDV3eTZpTTh4VjdPYjNzZm5oWjB3ajJOaVZ3Zzk2TDg4cXNndjhJdDRoWEUybnhGUlp3UjNWZUd6VHVkMTFqQVZWdGFfOEo0ejJRNC1qYURuNGt3VkVPb09DbjNKVG4wQ2xiSjJEX0t6ZFB6M3haSDkxYmk0TmpsYUU2QVA5alBGNm5nNGdDMmNDWGt0SHVQdHFWWFhfbVAyNEwtX3dXLVl0WnBfUGh5U0E?oc=5" target="_blank">Aides à la décarbonation de l'industrie : une cible partiellement atteinte</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -34,6 +34,14 @@
 `Fri, 06 Mar 2026 17:58:50 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi8gFBVV95cUxQM1c2akpVNTA1OTRRODNpUWQ0SUY0V2t0eVFfTXFkMnlUYmxVb0dHd2RxdC1lY0Q0OU51VkV4Y09od0pyYUNiOTNoWDdaN3pISUZ4UVNVUDF5UUJYQ1FPenhTNWdQTUc5OGJXVUQtY29sbDFvTXNtX1lFMXlaSEE1dXphaUJ4UlVaV0R3VkRMekxQcWhucFF5SmhLeEFaai0xeVdtTlNIQS1YNk1QTHVTV252MjBUYU1lQU00LVJ1M2lKMThqRnB5dnNtNVE4WnloNU5jVk1qNTBrUU5jbElhTWhxV29LVmNIQXRnTVFZRnBFQQ?oc=5" target="_blank">Transparence salariale : la transposition de la directive concernera les entreprises de 50 salariés et plus</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Carburants : Lecornu crée la surprise en mettant sur la table un plafonnement des marges des distributeurs - Les Echos](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPZTRXQ0FhUFdLYWhIUERYaFQtbWxURHBMWTBXcklMeWwtZDI5dHI1NFEyM0o2VnR2RjV1emJZSjA1ZGNsYzV2dFJ5T2NHbzFhc0VJbkk1MlR2V2JKNmZtOGhsb05QSS1uN1NicUNsRldLcVpzSGs1WVhwSWRHdEFQNFNCZ01nLU5HNTdsbDFjYmpkZTVvLUxkY0JMVF9xa3d0ei1lM3VIT3kwSjd5Y2lDR3M1Zjg5TnJ4bHh5VHNnQ25VaWE0VWl0X0czRmRkWERHVmFYakZYd0FBNkVTWVE?oc=5)
+
+`Wed, 11 Mar 2026 12:19:36 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi3gFBVV95cUxPZTRXQ0FhUFdLYWhIUERYaFQtbWxURHBMWTBXcklMeWwtZDI5dHI1NFEyM0o2VnR2RjV1emJZSjA1ZGNsYzV2dFJ5T2NHbzFhc0VJbkk1MlR2V2JKNmZtOGhsb05QSS1uN1NicUNsRldLcVpzSGs1WVhwSWRHdEFQNFNCZ01nLU5HNTdsbDFjYmpkZTVvLUxkY0JMVF9xa3d0ei1lM3VIT3kwSjd5Y2lDR3M1Zjg5TnJ4bHh5VHNnQ25VaWE0VWl0X0czRmRkWERHVmFYakZYd0FBNkVTWVE?oc=5" target="_blank">Carburants : Lecornu crée la surprise en mettant sur la table un plafonnement des marges des distributeurs</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -82,14 +90,6 @@
 `Wed, 11 Mar 2026 05:05:08 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi7wFBVV95cUxNSkdzN29xdmpoRGpGMGpuTFNtN0wtckllczhUTVRjWDZ3WGJ2c2EzTHhsWFROMkhEN3JtdVpwLTU2OUdHS2Z4cDFWSVpYMGd1MDFEbEZDVmVFRHdMYzZrWGxPWEd4NDFyVHp6TUpaZDhEZHFRTnROTlVBNjc4eXQ1ek9zalR1VWVwaVlWRmRCd1ZrUV9vQlVNOFB3QUsxVm9LeGc1eG5qSHB1UzhjTmdYT3RUdWlHZUVOZHZJd1h6YlloVWNTbF9sdWx6eWRnZ2hCVFJUMTVPS2VCTmFsNmtCN0FxTHdldjFzSzFueHoxRQ?oc=5" target="_blank">Négociation sur les CDD : patronat et syndicats entrent dans le vif du sujet, les réformes Macron menacées</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Aides à la décarbonation de l'industrie : une cible partiellement atteinte - Les Echos](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOWnZ4TVd6ZFZJOVhtWXNUSFJuZ2pIOVhqTWlBVktWbllHaDV3eTZpTTh4VjdPYjNzZm5oWjB3ajJOaVZ3Zzk2TDg4cXNndjhJdDRoWEUybnhGUlp3UjNWZUd6VHVkMTFqQVZWdGFfOEo0ejJRNC1qYURuNGt3VkVPb09DbjNKVG4wQ2xiSjJEX0t6ZFB6M3haSDkxYmk0TmpsYUU2QVA5alBGNm5nNGdDMmNDWGt0SHVQdHFWWFhfbVAyNEwtX3dXLVl0WnBfUGh5U0E?oc=5)
-
-`Wed, 11 Mar 2026 11:00:01 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi0gFBVV95cUxOWnZ4TVd6ZFZJOVhtWXNUSFJuZ2pIOVhqTWlBVktWbllHaDV3eTZpTTh4VjdPYjNzZm5oWjB3ajJOaVZ3Zzk2TDg4cXNndjhJdDRoWEUybnhGUlp3UjNWZUd6VHVkMTFqQVZWdGFfOEo0ejJRNC1qYURuNGt3VkVPb09DbjNKVG4wQ2xiSjJEX0t6ZFB6M3haSDkxYmk0TmpsYUU2QVA5alBGNm5nNGdDMmNDWGt0SHVQdHFWWFhfbVAyNEwtX3dXLVl0WnBfUGh5U0E?oc=5" target="_blank">Aides à la décarbonation de l'industrie : une cible partiellement atteinte</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -226,6 +226,14 @@
 `Thu, 18 Aug 2022 07:00:00 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxOdERJaW5JUkpZRldTUnIzX19CZUN4NExPa1A3UnVCNlNnNlp0WHBLZnZsWGNDay1xUkJCLTQ3aGxuYi16WnJwNkZidG9OTDBJNjJGOXRPMHljVGJiZWV0bVhkUFFkaWNqdXg4ZGwxSWZIblpPZVZnbzNQOUdtQWt0NlFxYXNjT1hUWFZ3Qmx0MFhnM1lsQ3FjeXEzazU2UkZHQ0N5YkJDUkF6dUM2cEFyam9mVnZZRXZHRGc?oc=5" target="_blank">Emploi : la « grande démission », un phénomène à relativiser en France</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Retraites : le Sénat bloque la suspension de la réforme et rétablit partiellement le gel des pensions - Les Echos](https://news.google.com/rss/articles/CBMixgFBVV95cUxOQVdVUHF4M0xYakZOUXk4VEE1ZnRIc0cwN3dWYUlrUFFLVDBiYVgwZlBCNm1EVVk3REZ5bm8wbGEzTEpPeDRIZmRMSE9OUURkWldVNjlRWnpma1V6WGk4ZnV6dzd5UUVWTW5ickJTeURpU0FvS2tpVG12SW5WQU9acUxvSlRqcGRYRWUwdS1HbEVULUdmYzFBMzBFdU1qdlpBS0lQakZoVDQ3dnk2TnBWOWVNcXp5QjRPOXUteDlQdFBiTk1ocnc?oc=5)
+
+`Tue, 25 Nov 2025 08:00:00 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxOQVdVUHF4M0xYakZOUXk4VEE1ZnRIc0cwN3dWYUlrUFFLVDBiYVgwZlBCNm1EVVk3REZ5bm8wbGEzTEpPeDRIZmRMSE9OUURkWldVNjlRWnpma1V6WGk4ZnV6dzd5UUVWTW5ickJTeURpU0FvS2tpVG12SW5WQU9acUxvSlRqcGRYRWUwdS1HbEVULUdmYzFBMzBFdU1qdlpBS0lQakZoVDQ3dnk2TnBWOWVNcXp5QjRPOXUteDlQdFBiTk1ocnc?oc=5" target="_blank">Retraites : le Sénat bloque la suspension de la réforme et rétablit partiellement le gel des pensions</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -402,6 +410,14 @@
 `Thu, 24 Jul 2025 07:00:00 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxNOTJabHJlR1ZfQkNzeDNGMTZ2N0loM1RmUGpMR1Y1SW9DaTVrR3dkeDk0NXBwZnVERnAyVjRFdHNwbmtiY3EzMUZlRVhtX3lsNGZYN3lyVU1YQ1ZYYlY1ZUVqU2YxM1FqUUtoaUg1S2RQMHZUaUo1YmtyMW9rRzN0VlZ4cXlIVUNFYlF1R0NHb0pKRUltVzk4RHBJX3N6UlhnX3IxdTdtd0s1LUJKUHN4RlpiR3U5eWZ3a29JQjI5WVRRZjEyYnBCX25B?oc=5" target="_blank">EXCLUSIF - Formation professionnelle : vers un nouveau coup de rabot sur le CPF</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Emplois, salaires : l'étude qui casse les idées reçues sur les effets de l'immigration - Les Echos](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPOVhiaDJBMzhxLXc4MGNjeldmU1ZSQ3U3dU1JYUN6MFJEN2JmS001c2dxN184bGRnMXlXVTlaSnotZEFOS055SV9JOFhCYS1Va2t1ZmxmWlVvYjZQWlBfWnZBcE5ZdURpbFZVa1N0R1RaVU1YMlZNZXRDdnR1OVJZNG52bHRzUi1qazRIZENwTHh4c1N4ZmtqeHRkbkxCRE51OXZCVjZrYzNBWmJQVmg1ZzhyRG5mNTVUYnpJVE1sVGgyOTZNeE43TU5BWHA1eDEyMnc?oc=5)
+
+`Tue, 27 Jan 2026 08:00:00 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi0gFBVV95cUxPOVhiaDJBMzhxLXc4MGNjeldmU1ZSQ3U3dU1JYUN6MFJEN2JmS001c2dxN184bGRnMXlXVTlaSnotZEFOS055SV9JOFhCYS1Va2t1ZmxmWlVvYjZQWlBfWnZBcE5ZdURpbFZVa1N0R1RaVU1YMlZNZXRDdnR1OVJZNG52bHRzUi1qazRIZENwTHh4c1N4ZmtqeHRkbkxCRE51OXZCVjZrYzNBWmJQVmg1ZzhyRG5mNTVUYnpJVE1sVGgyOTZNeE43TU5BWHA1eDEyMnc?oc=5" target="_blank">Emplois, salaires : l'étude qui casse les idées reçues sur les effets de l'immigration</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -589,11 +605,11 @@
 
 ---
 
-### [Les salariés restent très attachés au télétravail - Les Echos](https://news.google.com/rss/articles/CBMipwFBVV95cUxQRGpjX2NpQUk3ZWVYYWs1djhXeTJaZHhKT1hYOFhCU2xHSDg3QmpWQm9zYkxScUpQQ3JGaUxrMlZTUm5fMWRLcVVJdTVqWEc3M2x5ZFA0ZWJkQkZCSzBpQ25PWWRCdFg1dFBRZmtQZW1DcnYxTFJOa2JTemhKaEszdjJTd3gxc19jQ2Rvel9FNVF1eEt0UzZMS25kWldHRUNHMm81R2Nlbw?oc=5)
+### [Le gouvernement veut « refonder » la formation et le métier d'infirmier - Les Echos](https://news.google.com/rss/articles/CBMivgFBVV95cUxNQ25xSTNQVE8zQ3NTWjFwa0xuMjVuUTBYbGdhRDRRaTZUazJwblZnMEpCSWZRZkVHVU1fMzI5UDUxazBHMnk3d0FCX2UxQmJaclV6cHo4UEVBM29Ud2JIY1B4WURuUEw2YkRqNWNQVTJWbS1WNGo3UllCTVAtQVBEdlBwdk5hTFJlblF3bEZSaENZdlRETjJQb19ZVkpYUzZ0VXk4VVJVckpOaFJrT0tRbEtwcm54U2liNmF5X1dB?oc=5)
 
-`Wed, 15 Oct 2025 07:00:00 GMT`
+`Wed, 10 May 2023 07:00:00 GMT`
 
-<a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxQRGpjX2NpQUk3ZWVYYWs1djhXeTJaZHhKT1hYOFhCU2xHSDg3QmpWQm9zYkxScUpQQ3JGaUxrMlZTUm5fMWRLcVVJdTVqWEc3M2x5ZFA0ZWJkQkZCSzBpQ25PWWRCdFg1dFBRZmtQZW1DcnYxTFJOa2JTemhKaEszdjJTd3gxc19jQ2Rvel9FNVF1eEt0UzZMS25kWldHRUNHMm81R2Nlbw?oc=5" target="_blank">Les salariés restent très attachés au télétravail</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+<a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxNQ25xSTNQVE8zQ3NTWjFwa0xuMjVuUTBYbGdhRDRRaTZUazJwblZnMEpCSWZRZkVHVU1fMzI5UDUxazBHMnk3d0FCX2UxQmJaclV6cHo4UEVBM29Ud2JIY1B4WURuUEw2YkRqNWNQVTJWbS1WNGo3UllCTVAtQVBEdlBwdk5hTFJlblF3bEZSaENZdlRETjJQb19ZVkpYUzZ0VXk4VVJVckpOaFJrT0tRbEtwcm54U2liNmF5X1dB?oc=5" target="_blank">Le gouvernement veut « refonder » la formation et le métier d'infirmier</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -786,21 +802,5 @@
 `Thu, 30 Jun 2022 07:00:00 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxPRUdxRUlVWHpjdjh0RzNyR1Z0WUVDSGY5MzRNWXJUd0xMTmFqMS1OVURubUJyTHNvTFVraXZ3WGVqM01ob1RMRzhySzZsekxCZjV0bG50TmhBSVMzZWpYRFhDYXhUQWtaSGtuQUpTTURIcDZpUEZCR1NoQURsb014SFFFeUp6Z19Uci1POV9hWVdUcmVnWThET2ZBM3d6YThGdGRtSzNFQWFkUkxsYnMxRHItSUVDVmQzN01XNlB3V2xITURzd2dYYmpB?oc=5" target="_blank">Les créations d'emplois reposent désormais très largement sur l'apprentissage</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [La barre du million de jeunes en apprentissage franchie - Les Echos](https://news.google.com/rss/articles/CBMisAFBVV95cUxPOWY5QThNQlVlcWdfTThvZ0pmRFZwSnJUN0dQQ0pubENIQ1ZwcW42ak83NmtuMVFGUVI2NXVMR3VTOGw0MWdKdjRzWTBOdFB6c0ttaDlwU09UVVFUOWpHdFNQZWt3R1RMbVRZVEFhSm93MXF3M2hjdm43RDlTTk85RHp3LVBZX0xjeDRQVWMwNnlTX2M2TkpDX1VHWUthbjh5aWZxZ0FteDAxcFRzUy1Meg?oc=5)
-
-`Thu, 29 Feb 2024 08:00:00 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxPOWY5QThNQlVlcWdfTThvZ0pmRFZwSnJUN0dQQ0pubENIQ1ZwcW42ak83NmtuMVFGUVI2NXVMR3VTOGw0MWdKdjRzWTBOdFB6c0ttaDlwU09UVVFUOWpHdFNQZWt3R1RMbVRZVEFhSm93MXF3M2hjdm43RDlTTk85RHp3LVBZX0xjeDRQVWMwNnlTX2M2TkpDX1VHWUthbjh5aWZxZ0FteDAxcFRzUy1Meg?oc=5" target="_blank">La barre du million de jeunes en apprentissage franchie</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [La remontée inquiétante des faillites en France - Les Echos](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQczJWalBaZjZWSmduODR1Q0lLSGx4UzVSWmZaM0QxelQ4OTJReGdGT0RncDlWVnJ1RElCYWJtVVV6SERIbzRGNFZTNDVERl9zVllXNTlmQlNYazAzNlpLemloY0c3WEtkaWtNY21NZ2NGYjE4Zng0c3FIZVRlVllLcUlySElnNG1kUEZZcUhzWnlSNU02MVZNQnMyZkh5MmNIcTJBWkdETU9ZTVE?oc=5)
-
-`Thu, 06 Apr 2023 07:00:00 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxQczJWalBaZjZWSmduODR1Q0lLSGx4UzVSWmZaM0QxelQ4OTJReGdGT0RncDlWVnJ1RElCYWJtVVV6SERIbzRGNFZTNDVERl9zVllXNTlmQlNYazAzNlpLemloY0c3WEtkaWtNY21NZ2NGYjE4Zng0c3FIZVRlVllLcUlySElnNG1kUEZZcUhzWnlSNU02MVZNQnMyZkh5MmNIcTJBWkdETU9ZTVE?oc=5" target="_blank">La remontée inquiétante des faillites en France</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
