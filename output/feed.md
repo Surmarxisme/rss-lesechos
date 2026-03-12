@@ -1,7 +1,7 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `2026-03-12T17:40:48.341362+00:00`
-> 21 articles recents (30 derniers jours)
+> Derniere mise a jour : `2026-03-12T20:05:35.233127+00:00`
+> 21 nouveaux articles (non deja vus, 30 derniers jours)
 
 ---
 
