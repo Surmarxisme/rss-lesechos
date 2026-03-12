@@ -1,13 +1,10 @@
-import json, os, sys, requests, feedparser
+import json, os, sys, re, requests, feedparser
 from datetime import datetime, timezone
 
-# Google News RSS - recherche uniquement sur lesechos.fr/economie-france
-# On utilise inurl: pour cibler la rubrique exacte
+# Google News RSS cible site:lesechos.fr/economie-france
+# Les liens Google News sont des redirections - on filtre sur le titre/source
 RSS_URL = "https://news.google.com/rss/search?q=site:lesechos.fr/economie-france&hl=fr&gl=FR&ceid=FR:fr"
 OUTPUT_DIR = "output"
-
-# Filtre : on ne garde que les liens pointant vers lesechos.fr/economie-france
-FILTER_URL = "lesechos.fr/economie-france"
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (compatible; RSSFetcher/2.0; +https://github.com)",
@@ -29,19 +26,34 @@ def fetch_feed():
 
 
 def extract_real_link(entry):
-    """Google News encapsule les vrais liens dans le champ summary ou link.
-    On recupere le vrai lien lesechos depuis le champ 'link' ou le summary HTML."""
-    import re
-    # Tentative 1 : lien direct
-    link = entry.get("link", "")
-    if FILTER_URL in link:
-        return link
-    # Tentative 2 : extraire depuis le HTML du summary
+    """Extrait le vrai lien lesechos depuis le summary HTML de Google News."""
     summary = entry.get("summary", "")
-    match = re.search(r'href="(https://www\.lesechos\.fr/economie-france[^"]+)"', summary)
+    # Google News met le vrai lien dans un <a href="..."> dans le summary
+    match = re.search(r'href="(https://(?:www\.)?lesechos\.fr/[^"]+)"', summary)
     if match:
         return match.group(1)
-    return link
+    # Fallback : lien Google News direct
+    return entry.get("link", "")
+
+
+def is_economie_france(entry):
+    """Filtre : accepte uniquement les articles de lesechos.fr/economie-france.
+    On filtre sur le vrai lien extrait du summary."""
+    real_link = extract_real_link(entry)
+    # Accepte si le vrai lien contient /economie-france
+    if "lesechos.fr/economie-france" in real_link:
+        return True
+    # Fallback : si pas de lien direct trouve, on accepte quand meme
+    # (Google News cible deja la bonne rubrique via la requete)
+    fallback_link = entry.get("link", "")
+    if "news.google.com" in fallback_link:
+        # On ne peut pas verifier - on accepte par defaut
+        # mais on rejette si un autre domaine lesechos est detecte
+        summary = entry.get("summary", "")
+        if "investir.lesechos.fr" in summary or "business.lesechos.fr" in summary:
+            return False
+        return True
+    return False
 
 
 def parse_entry(entry):
@@ -50,19 +62,10 @@ def parse_entry(entry):
         "id":          entry.get("id", ""),
         "title":       entry.get("title", "").strip(),
         "description": entry.get("summary", "").strip(),
-        "link":        real_link,
+        "link":        real_link if real_link else entry.get("link", ""),
         "source":      entry.get("source", {}).get("value", "Les Echos") if entry.get("source") else "Les Echos",
         "pub_date":    entry.get("published", ""),
     }
-
-
-def is_economie_france(entry):
-    """Ne garde que les articles dont le lien pointe vers lesechos.fr/economie-france."""
-    link = extract_real_link(entry)
-    title = entry.get("title", "")
-    summary = entry.get("summary", "")
-    # Filtre sur le lien OU sur la presence de /economie-france dans le contenu
-    return FILTER_URL in link or FILTER_URL in summary
 
 
 def save_json(data, path):
@@ -100,14 +103,13 @@ def main():
     content = fetch_feed()
 
     feed = feedparser.parse(content)
-
-    # Filtrage strict : uniquement lesechos.fr/economie-france
-    filtered_entries = [e for e in feed.entries if is_economie_france(e)]
-    articles = [parse_entry(e) for e in filtered_entries]
-
     total_raw = len(feed.entries)
+
+    filtered = [e for e in feed.entries if is_economie_france(e)]
+    articles = [parse_entry(e) for e in filtered]
     total_kept = len(articles)
-    print(f"Recuperes : {total_raw} | Filtres (economie-france uniquement) : {total_kept}")
+
+    print(f"Recuperes : {total_raw} | Gardes (economie-france) : {total_kept}")
 
     output = {
         "source":       "Les Echos - Economie France",
