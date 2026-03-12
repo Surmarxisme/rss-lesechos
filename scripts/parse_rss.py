@@ -1,10 +1,13 @@
-import json, os, sys, re, requests, feedparser
+import json, os, sys, requests, feedparser
 from datetime import datetime, timezone
 
-# Google News RSS cible site:lesechos.fr/economie-france
-# Les liens Google News sont des redirections - on filtre sur le titre/source
+# Google News RSS - cible la rubrique economie-france de lesechos.fr
+# La requete site:lesechos.fr/economie-france est deja le meilleur filtre disponible
 RSS_URL = "https://news.google.com/rss/search?q=site:lesechos.fr/economie-france&hl=fr&gl=FR&ceid=FR:fr"
 OUTPUT_DIR = "output"
+
+# Domaines a exclure (sous-domaines non voulus)
+EXCLUDE_DOMAINS = ["investir.lesechos.fr", "business.lesechos.fr"]
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (compatible; RSSFetcher/2.0; +https://github.com)",
@@ -25,44 +28,24 @@ def fetch_feed():
         sys.exit(1)
 
 
-def extract_real_link(entry):
-    """Extrait le vrai lien lesechos depuis le summary HTML de Google News."""
-    summary = entry.get("summary", "")
-    # Google News met le vrai lien dans un <a href="..."> dans le summary
-    match = re.search(r'href="(https://(?:www\.)?lesechos\.fr/[^"]+)"', summary)
-    if match:
-        return match.group(1)
-    # Fallback : lien Google News direct
-    return entry.get("link", "")
-
-
-def is_economie_france(entry):
-    """Filtre : accepte uniquement les articles de lesechos.fr/economie-france.
-    On filtre sur le vrai lien extrait du summary."""
-    real_link = extract_real_link(entry)
-    # Accepte si le vrai lien contient /economie-france
-    if "lesechos.fr/economie-france" in real_link:
-        return True
-    # Fallback : si pas de lien direct trouve, on accepte quand meme
-    # (Google News cible deja la bonne rubrique via la requete)
-    fallback_link = entry.get("link", "")
-    if "news.google.com" in fallback_link:
-        # On ne peut pas verifier - on accepte par defaut
-        # mais on rejette si un autre domaine lesechos est detecte
-        summary = entry.get("summary", "")
-        if "investir.lesechos.fr" in summary or "business.lesechos.fr" in summary:
-            return False
-        return True
-    return False
+def should_exclude(entry):
+    """Retourne True si l'article provient d'un sous-domaine exclu."""
+    # On cherche dans le titre, le summary et la source
+    text = " ".join([
+        entry.get("title", ""),
+        entry.get("summary", ""),
+        entry.get("source", {}).get("value", "") if entry.get("source") else "",
+        entry.get("link", ""),
+    ])
+    return any(domain in text for domain in EXCLUDE_DOMAINS)
 
 
 def parse_entry(entry):
-    real_link = extract_real_link(entry)
     return {
         "id":          entry.get("id", ""),
         "title":       entry.get("title", "").strip(),
         "description": entry.get("summary", "").strip(),
-        "link":        real_link if real_link else entry.get("link", ""),
+        "link":        entry.get("link", ""),
         "source":      entry.get("source", {}).get("value", "Les Echos") if entry.get("source") else "Les Echos",
         "pub_date":    entry.get("published", ""),
     }
@@ -78,7 +61,7 @@ def save_markdown(data, path):
         f"# {data['source']}",
         "",
         f"> Derniere mise a jour : `{data['last_fetched']}`",
-        f"> {data['total_items']} articles - rubrique Economie France uniquement",
+        f"> {data['total_items']} articles - rubrique Economie France",
         "",
         "---",
         "",
@@ -105,11 +88,12 @@ def main():
     feed = feedparser.parse(content)
     total_raw = len(feed.entries)
 
-    filtered = [e for e in feed.entries if is_economie_france(e)]
+    # Exclure seulement les sous-domaines indesirables
+    filtered = [e for e in feed.entries if not should_exclude(e)]
     articles = [parse_entry(e) for e in filtered]
     total_kept = len(articles)
 
-    print(f"Recuperes : {total_raw} | Gardes (economie-france) : {total_kept}")
+    print(f"Recuperes : {total_raw} | Gardes apres exclusions : {total_kept}")
 
     output = {
         "source":       "Les Echos - Economie France",
