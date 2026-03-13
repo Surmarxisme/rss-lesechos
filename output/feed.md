@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Fri, 13 Mar 2026 12:39:28 +0000`
-> 21 articles (30 derniers jours)
+> Derniere mise a jour : `Fri, 13 Mar 2026 17:26:34 +0000`
+> 22 articles (30 derniers jours)
+
+---
+
+### [« La première priorité, c'est de protéger l'indépendance de la Cour » des comptes, promet Amélie de Montchalin - Les Echos](https://news.google.com/rss/articles/CBMi-wFBVV95cUxPX292S0wyMlFJeTV5VURKVEg3OHdCU2RjS3UxX1diMTJTengwODhJQjQ4V3F0YW5jN1FCSEdkN0c5R251MDZKYmlIMElYdTVOWWlGYlU2M2Q5UV9fejZaV0tydHY3TWRyUGhlaUlPaXBXQXBpd21TOVk1LTJOQU5GY0JEZzFMQXp6QkZRVnFmOEN0ZS1Dd19NS1BadDJRTGNhOTlOVzl1LVFQaWJlRTRual9ISko4cXIwcklvTmw2SjQtcWtLLS1kMkZObThUOGdQX2l0MlA2a3FMZUl2ZTl5Sk9RekVEYU04TEE1bk9WOUlYXzNoYWpHYzFTQQ?oc=5)
+
+`Fri, 13 Mar 2026 12:41:45 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi-wFBVV95cUxPX292S0wyMlFJeTV5VURKVEg3OHdCU2RjS3UxX1diMTJTengwODhJQjQ4V3F0YW5jN1FCSEdkN0c5R251MDZKYmlIMElYdTVOWWlGYlU2M2Q5UV9fejZaV0tydHY3TWRyUGhlaUlPaXBXQXBpd21TOVk1LTJOQU5GY0JEZzFMQXp6QkZRVnFmOEN0ZS1Dd19NS1BadDJRTGNhOTlOVzl1LVFQaWJlRTRual9ISko4cXIwcklvTmw2SjQtcWtLLS1kMkZObThUOGdQX2l0MlA2a3FMZUl2ZTl5Sk9RekVEYU04TEE1bk9WOUlYXzNoYWpHYzFTQQ?oc=5" target="_blank">« La première priorité, c'est de protéger l'indépendance de la Cour » des comptes, promet Amélie de Montchalin</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
