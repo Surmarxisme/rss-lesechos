@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Thu, 12 Mar 2026 21:01:39 +0000`
-> 21 articles (30 derniers jours)
+> Derniere mise a jour : `Fri, 13 Mar 2026 06:35:37 +0000`
+> 22 articles (30 derniers jours)
+
+---
+
+### [Budget 2026 : le Conseil constitutionnel valide l'essentiel du projet de loi de finances - Les Echos](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVG81amxfLV9fYkoySlNBdExKb285bWVsUktBM1ZuS3hOOU5BQ3NfMWtfLWQ5U3Q5NlFURndtWkFkcGRwa3FPMmJxSjc2aUVOM0g0a21CeVNzYWg3TlhNbk1YRkpYM2dTY3hyVnZYLTZlN3MwNXpZcTFHSkVpUGJhaWxzUFBDQXZQb25nN2habk9ZMmNRNVhtYzc5amVZc0tSdEQxYzgxMk9JdFhsaTUzQ0ZfLWNMOGhMVTRjbkpNYXdmREczQlJsOHVLM0NPaGhjUXhfYWNPSWM3bWpwT1NHcHRMUjA?oc=5)
+
+`Thu, 19 Feb 2026 08:00:00 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVG81amxfLV9fYkoySlNBdExKb285bWVsUktBM1ZuS3hOOU5BQ3NfMWtfLWQ5U3Q5NlFURndtWkFkcGRwa3FPMmJxSjc2aUVOM0g0a21CeVNzYWg3TlhNbk1YRkpYM2dTY3hyVnZYLTZlN3MwNXpZcTFHSkVpUGJhaWxzUFBDQXZQb25nN2habk9ZMmNRNVhtYzc5amVZc0tSdEQxYzgxMk9JdFhsaTUzQ0ZfLWNMOGhMVTRjbkpNYXdmREczQlJsOHVLM0NPaGhjUXhfYWNPSWM3bWpwT1NHcHRMUjA?oc=5" target="_blank">Budget 2026 : le Conseil constitutionnel valide l'essentiel du projet de loi de finances</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
