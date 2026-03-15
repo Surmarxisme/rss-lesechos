@@ -1,7 +1,23 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Sat, 14 Mar 2026 09:38:19 +0000`
-> 25 articles (30 derniers jours)
+> Derniere mise a jour : `Sun, 15 Mar 2026 09:39:55 +0000`
+> 27 articles (30 derniers jours)
+
+---
+
+### [Surtaxe sur les bénéfices : quelles entreprises paient la note ? - Les Echos](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQU2hOLVZZRGZqbWc5YVBDOERaTTJqcmdNUng5dE5RZm1fYm1HQjdOSWdhMmRjNTVKQS1RSTAwSS1pZ0Y1X1FmLVk1UmVFNWJoM2dBTzdqYUw4aVItQ19BckhlN1R4SFBqQVNnVENOdHdxLUY5cGhzXzNWXzlkSFQ4RWZUU3hPOGRwNnZ2N01kcjVXdG9WaFVORXF0engtZnRZb2N4bGtFbi1TZUIybUhiRE5xSnNScFJfNFpKWllJdnB6RXM?oc=5)
+
+`Sun, 15 Mar 2026 07:00:09 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxQU2hOLVZZRGZqbWc5YVBDOERaTTJqcmdNUng5dE5RZm1fYm1HQjdOSWdhMmRjNTVKQS1RSTAwSS1pZ0Y1X1FmLVk1UmVFNWJoM2dBTzdqYUw4aVItQ19BckhlN1R4SFBqQVNnVENOdHdxLUY5cGhzXzNWXzlkSFQ4RWZUU3hPOGRwNnZ2N01kcjVXdG9WaFVORXF0engtZnRZb2N4bGtFbi1TZUIybUhiRE5xSnNScFJfNFpKWllJdnB6RXM?oc=5" target="_blank">Surtaxe sur les bénéfices : quelles entreprises paient la note ?</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Salaires : la très lente résorption des inégalités femmes-hommes - Les Echos](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcTdFcUJZZV9SMXhZLU9jcFdoT1hXYzBibmkwQUJjQjFKRndQaGJ6dTJIUy02N1cwbmtGOWZjdnNnTVRUOHdYMVBqSWhvaHFNS0hnNmpZRUYtZ0xSeEd5Q0lQREQ1NTIteW85ZUVPTGxSNGUwVXFfWVV0cEZ1dWVIZXhhdGMyM3JUaG1jdVZxUWRaX3NZU3lVRFlfUXZ3eDRyZTZPbmtlVndDUHAtMktvOWhWU2hOYUpE?oc=5)
+
+`Thu, 26 Feb 2026 08:00:00 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcTdFcUJZZV9SMXhZLU9jcFdoT1hXYzBibmkwQUJjQjFKRndQaGJ6dTJIUy02N1cwbmtGOWZjdnNnTVRUOHdYMVBqSWhvaHFNS0hnNmpZRUYtZ0xSeEd5Q0lQREQ1NTIteW85ZUVPTGxSNGUwVXFfWVV0cEZ1dWVIZXhhdGMyM3JUaG1jdVZxUWRaX3NZU3lVRFlfUXZ3eDRyZTZPbmtlVndDUHAtMktvOWhWU2hOYUpE?oc=5" target="_blank">Salaires : la très lente résorption des inégalités femmes-hommes</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 

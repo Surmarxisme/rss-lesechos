@@ -2,10 +2,28 @@
   "source": "Les Echos - Economie France",
   "source_url": "https://www.lesechos.fr/economie-france",
   "language": "fr-FR",
-  "last_fetched": "Sat, 14 Mar 2026 09:38:19 +0000",
-  "total_items": 25,
-  "new_items_this_run": 3,
+  "last_fetched": "Sun, 15 Mar 2026 09:39:55 +0000",
+  "total_items": 27,
+  "new_items_this_run": 2,
   "articles": [
+    {
+      "id": "CBMiwwFBVV95cUxQU2hOLVZZRGZqbWc5YVBDOERaTTJqcmdNUng5dE5RZm1fYm1HQjdOSWdhMmRjNTVKQS1RSTAwSS1pZ0Y1X1FmLVk1UmVFNWJoM2dBTzdqYUw4aVItQ19BckhlN1R4SFBqQVNnVENOdHdxLUY5cGhzXzNWXzlkSFQ4RWZUU3hPOGRwNnZ2N01kcjVXdG9WaFVORXF0engtZnRZb2N4bGtFbi1TZUIybUhiRE5xSnNScFJfNFpKWllJdnB6RXM",
+      "title": "Surtaxe sur les bénéfices : quelles entreprises paient la note ? - Les Echos",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQU2hOLVZZRGZqbWc5YVBDOERaTTJqcmdNUng5dE5RZm1fYm1HQjdOSWdhMmRjNTVKQS1RSTAwSS1pZ0Y1X1FmLVk1UmVFNWJoM2dBTzdqYUw4aVItQ19BckhlN1R4SFBqQVNnVENOdHdxLUY5cGhzXzNWXzlkSFQ4RWZUU3hPOGRwNnZ2N01kcjVXdG9WaFVORXF0engtZnRZb2N4bGtFbi1TZUIybUhiRE5xSnNScFJfNFpKWllJdnB6RXM?oc=5\" target=\"_blank\">Surtaxe sur les bénéfices : quelles entreprises paient la note ?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Les Echos</font>",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQU2hOLVZZRGZqbWc5YVBDOERaTTJqcmdNUng5dE5RZm1fYm1HQjdOSWdhMmRjNTVKQS1RSTAwSS1pZ0Y1X1FmLVk1UmVFNWJoM2dBTzdqYUw4aVItQ19BckhlN1R4SFBqQVNnVENOdHdxLUY5cGhzXzNWXzlkSFQ4RWZUU3hPOGRwNnZ2N01kcjVXdG9WaFVORXF0engtZnRZb2N4bGtFbi1TZUIybUhiRE5xSnNScFJfNFpKWllJdnB6RXM?oc=5",
+      "source": "Les Echos",
+      "pub_date": "Sun, 15 Mar 2026 07:00:09 GMT",
+      "pub_date_iso": "2026-03-15T07:00:09+00:00"
+    },
+    {
+      "id": "CBMiuAFBVV95cUxOcTdFcUJZZV9SMXhZLU9jcFdoT1hXYzBibmkwQUJjQjFKRndQaGJ6dTJIUy02N1cwbmtGOWZjdnNnTVRUOHdYMVBqSWhvaHFNS0hnNmpZRUYtZ0xSeEd5Q0lQREQ1NTIteW85ZUVPTGxSNGUwVXFfWVV0cEZ1dWVIZXhhdGMyM3JUaG1jdVZxUWRaX3NZU3lVRFlfUXZ3eDRyZTZPbmtlVndDUHAtMktvOWhWU2hOYUpE",
+      "title": "Salaires : la très lente résorption des inégalités femmes-hommes - Les Echos",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcTdFcUJZZV9SMXhZLU9jcFdoT1hXYzBibmkwQUJjQjFKRndQaGJ6dTJIUy02N1cwbmtGOWZjdnNnTVRUOHdYMVBqSWhvaHFNS0hnNmpZRUYtZ0xSeEd5Q0lQREQ1NTIteW85ZUVPTGxSNGUwVXFfWVV0cEZ1dWVIZXhhdGMyM3JUaG1jdVZxUWRaX3NZU3lVRFlfUXZ3eDRyZTZPbmtlVndDUHAtMktvOWhWU2hOYUpE?oc=5\" target=\"_blank\">Salaires : la très lente résorption des inégalités femmes-hommes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Les Echos</font>",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcTdFcUJZZV9SMXhZLU9jcFdoT1hXYzBibmkwQUJjQjFKRndQaGJ6dTJIUy02N1cwbmtGOWZjdnNnTVRUOHdYMVBqSWhvaHFNS0hnNmpZRUYtZ0xSeEd5Q0lQREQ1NTIteW85ZUVPTGxSNGUwVXFfWVV0cEZ1dWVIZXhhdGMyM3JUaG1jdVZxUWRaX3NZU3lVRFlfUXZ3eDRyZTZPbmtlVndDUHAtMktvOWhWU2hOYUpE?oc=5",
+      "source": "Les Echos",
+      "pub_date": "Thu, 26 Feb 2026 08:00:00 GMT",
+      "pub_date_iso": "2026-02-26T08:00:00+00:00"
+    },
     {
       "id": "CBMijAFBVV95cUxPVlVXZzhFVnhFQ1RISkFZaG5kcVl3M1o2Z01qRVhIRmtucmJPYUJuRjE3UnJJSUlDVE02TElhV3VKU0tteGlOQjJxSWNOd2tjXzM0R1pzVUFzMGN6aFpXVGtOdWxHcjVnZVlMQkpzQjNLM2tiVFJRUHQtX0ZPbUxlakJTQUpjTlNCSDNnZQ",
       "title": "Indicateurs économiques | Page 761 - Les Echos",
