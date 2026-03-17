@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Mon, 16 Mar 2026 17:52:41 +0000`
-> 29 articles (30 derniers jours)
+> Derniere mise a jour : `Tue, 17 Mar 2026 06:46:33 +0000`
+> 30 articles (30 derniers jours)
+
+---
+
+### [Compétitivité : le jugement sans concession des Européens sur le made in France - Les Echos](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYmtvc3NyWEVPTWlDWTFRNjNlLTJHVXRHXzZicHVzc3ZTYnNSZ3RrOEhYLWVXa2g2bThyeFlZM1BSYV84THB6eV9XSEk5TjNDZzlDY1h0UEVQQmlFSjlzSDh3N1dPZVNDSi1GdGFzU3VVSGFPaGtLY3JGYUxORkN3TjNsOE1Vel8wcUNIUzBpUGtQU21SdjF3YlVsSFFNMllWNVgwdmNhWFpmbnhjbGJWdXJTcVhCWlcwdUxYMDhIZ3E2NmJkTnhfOHF4VUwxOW82ZHBJ?oc=5)
+
+`Tue, 17 Mar 2026 06:15:08 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYmtvc3NyWEVPTWlDWTFRNjNlLTJHVXRHXzZicHVzc3ZTYnNSZ3RrOEhYLWVXa2g2bThyeFlZM1BSYV84THB6eV9XSEk5TjNDZzlDY1h0UEVQQmlFSjlzSDh3N1dPZVNDSi1GdGFzU3VVSGFPaGtLY3JGYUxORkN3TjNsOE1Vel8wcUNIUzBpUGtQU21SdjF3YlVsSFFNMllWNVgwdmNhWFpmbnhjbGJWdXJTcVhCWlcwdUxYMDhIZ3E2NmJkTnhfOHF4VUwxOW82ZHBJ?oc=5" target="_blank">Compétitivité : le jugement sans concession des Européens sur le made in France</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
