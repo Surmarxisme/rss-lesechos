@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Tue, 17 Mar 2026 12:52:49 +0000`
-> 31 articles (30 derniers jours)
+> Derniere mise a jour : `Tue, 17 Mar 2026 17:52:30 +0000`
+> 32 articles (30 derniers jours)
+
+---
+
+### [Salaires : la prime de partage de la valeur perd du terrain dans les entreprises - Les Echos](https://news.google.com/rss/articles/CBMizgFBVV95cUxNVkJzTFNyX2lQUlMwWmF5RVFrc0lLaEprTzJWS3JZN3BVaFIwREo1WTFCVHgwSkI0bUhWVlFXaTRBQnJwT2lMdER2NkNuSEZrd01NcDJqUUR6Q09JQ2tIVDdIWEpYZHBNRUV4bXNXd1RPbHlvX2g0c0FjX2hiSDloWWp0MzRfNXlOaEhKRUlTSGs2TGRad1RIc25GQnJHeTJyQ1dFbWtObG1KM01BUHlBQTVfQWxJZGhXNExfdEZOX3N5VkJuT0JRNWZ6b3hEUQ?oc=5)
+
+`Tue, 17 Mar 2026 16:17:15 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMizgFBVV95cUxNVkJzTFNyX2lQUlMwWmF5RVFrc0lLaEprTzJWS3JZN3BVaFIwREo1WTFCVHgwSkI0bUhWVlFXaTRBQnJwT2lMdER2NkNuSEZrd01NcDJqUUR6Q09JQ2tIVDdIWEpYZHBNRUV4bXNXd1RPbHlvX2g0c0FjX2hiSDloWWp0MzRfNXlOaEhKRUlTSGs2TGRad1RIc25GQnJHeTJyQ1dFbWtObG1KM01BUHlBQTVfQWxJZGhXNExfdEZOX3N5VkJuT0JRNWZ6b3hEUQ?oc=5" target="_blank">Salaires : la prime de partage de la valeur perd du terrain dans les entreprises</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
