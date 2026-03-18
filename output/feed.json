@@ -2,10 +2,28 @@
   "source": "Les Echos - Economie France",
   "source_url": "https://www.lesechos.fr/economie-france",
   "language": "fr-FR",
-  "last_fetched": "Tue, 17 Mar 2026 17:52:30 +0000",
-  "total_items": 32,
-  "new_items_this_run": 1,
+  "last_fetched": "Wed, 18 Mar 2026 06:45:36 +0000",
+  "total_items": 34,
+  "new_items_this_run": 2,
   "articles": [
+    {
+      "id": "CBMiowFBVV95cUxNbHNmZVpfQllpQW4yNDhxNkwtMkNjSXlSRVpfOWJPVjc4TENxWVhrOGMxMTU5amZKZzZMd1pDUlk5OE5URC1oQnlScDVXN0QwWV9XMGdlaDdWY0s1OFZ5RWZWT2puYUVxSHBUZVRySFZKMnNxcU8zUVZaU1FiN2hOSy1aeVMtQTQ4T3dYdmxVWndvLURtM0NrSXZmVUJ6TVlZWmJv",
+      "title": "Les hôpitaux publics face à « un mur de dépenses » - Les Echos",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNbHNmZVpfQllpQW4yNDhxNkwtMkNjSXlSRVpfOWJPVjc4TENxWVhrOGMxMTU5amZKZzZMd1pDUlk5OE5URC1oQnlScDVXN0QwWV9XMGdlaDdWY0s1OFZ5RWZWT2puYUVxSHBUZVRySFZKMnNxcU8zUVZaU1FiN2hOSy1aeVMtQTQ4T3dYdmxVWndvLURtM0NrSXZmVUJ6TVlZWmJv?oc=5\" target=\"_blank\">Les hôpitaux publics face à « un mur de dépenses »</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Les Echos</font>",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbHNmZVpfQllpQW4yNDhxNkwtMkNjSXlSRVpfOWJPVjc4TENxWVhrOGMxMTU5amZKZzZMd1pDUlk5OE5URC1oQnlScDVXN0QwWV9XMGdlaDdWY0s1OFZ5RWZWT2puYUVxSHBUZVRySFZKMnNxcU8zUVZaU1FiN2hOSy1aeVMtQTQ4T3dYdmxVWndvLURtM0NrSXZmVUJ6TVlZWmJv?oc=5",
+      "source": "Les Echos",
+      "pub_date": "Wed, 18 Mar 2026 05:55:08 GMT",
+      "pub_date_iso": "2026-03-18T05:55:08+00:00"
+    },
+    {
+      "id": "CBMi8wFBVV95cUxOQnhLTmc5ZmRTbV8wazNIQzktNWVrSDc0VGl2bjhVakVUNzJ4MkRzaWIxemJiRkJ3bGlLZzdQcVpZYmFVTFI3ZFFvQWwwSDhON3VNNXE2OVR2VUs4TDZBcUJPdGNRbVBfWUxJNXZGWkNQWjVkVHFfUXl4Vng3bXh6X09jUTVMazFuU0VSWmdueWx5cVRKeVZqYmVYeTRqM1NkZzJKb0tCWGZ3ZTRsbmJoT05faW1Gang3XzROYXl3YW92SERhV3BEQk5weXFFdzBzTlpuTmcxVG45by0yY1kwcFFXNGRIVURYWXMtOXRnX0NCVlk",
+      "title": "Budget 2027 : 40 milliards d'euros, l'effort impossible qui attend la France pour réduire son déficit - Les Echos",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxOQnhLTmc5ZmRTbV8wazNIQzktNWVrSDc0VGl2bjhVakVUNzJ4MkRzaWIxemJiRkJ3bGlLZzdQcVpZYmFVTFI3ZFFvQWwwSDhON3VNNXE2OVR2VUs4TDZBcUJPdGNRbVBfWUxJNXZGWkNQWjVkVHFfUXl4Vng3bXh6X09jUTVMazFuU0VSWmdueWx5cVRKeVZqYmVYeTRqM1NkZzJKb0tCWGZ3ZTRsbmJoT05faW1Gang3XzROYXl3YW92SERhV3BEQk5weXFFdzBzTlpuTmcxVG45by0yY1kwcFFXNGRIVURYWXMtOXRnX0NCVlk?oc=5\" target=\"_blank\">Budget 2027 : 40 milliards d'euros, l'effort impossible qui attend la France pour réduire son déficit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Les Echos</font>",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOQnhLTmc5ZmRTbV8wazNIQzktNWVrSDc0VGl2bjhVakVUNzJ4MkRzaWIxemJiRkJ3bGlLZzdQcVpZYmFVTFI3ZFFvQWwwSDhON3VNNXE2OVR2VUs4TDZBcUJPdGNRbVBfWUxJNXZGWkNQWjVkVHFfUXl4Vng3bXh6X09jUTVMazFuU0VSWmdueWx5cVRKeVZqYmVYeTRqM1NkZzJKb0tCWGZ3ZTRsbmJoT05faW1Gang3XzROYXl3YW92SERhV3BEQk5weXFFdzBzTlpuTmcxVG45by0yY1kwcFFXNGRIVURYWXMtOXRnX0NCVlk?oc=5",
+      "source": "Les Echos",
+      "pub_date": "Thu, 26 Feb 2026 08:00:00 GMT",
+      "pub_date_iso": "2026-02-26T08:00:00+00:00"
+    },
     {
       "id": "CBMizgFBVV95cUxNVkJzTFNyX2lQUlMwWmF5RVFrc0lLaEprTzJWS3JZN3BVaFIwREo1WTFCVHgwSkI0bUhWVlFXaTRBQnJwT2lMdER2NkNuSEZrd01NcDJqUUR6Q09JQ2tIVDdIWEpYZHBNRUV4bXNXd1RPbHlvX2g0c0FjX2hiSDloWWp0MzRfNXlOaEhKRUlTSGs2TGRad1RIc25GQnJHeTJyQ1dFbWtObG1KM01BUHlBQTVfQWxJZGhXNExfdEZOX3N5VkJuT0JRNWZ6b3hEUQ",
       "title": "Salaires : la prime de partage de la valeur perd du terrain dans les entreprises - Les Echos",

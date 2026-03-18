@@ -1,7 +1,23 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Tue, 17 Mar 2026 17:52:30 +0000`
-> 32 articles (30 derniers jours)
+> Derniere mise a jour : `Wed, 18 Mar 2026 06:45:36 +0000`
+> 34 articles (30 derniers jours)
+
+---
+
+### [Les hôpitaux publics face à « un mur de dépenses » - Les Echos](https://news.google.com/rss/articles/CBMiowFBVV95cUxNbHNmZVpfQllpQW4yNDhxNkwtMkNjSXlSRVpfOWJPVjc4TENxWVhrOGMxMTU5amZKZzZMd1pDUlk5OE5URC1oQnlScDVXN0QwWV9XMGdlaDdWY0s1OFZ5RWZWT2puYUVxSHBUZVRySFZKMnNxcU8zUVZaU1FiN2hOSy1aeVMtQTQ4T3dYdmxVWndvLURtM0NrSXZmVUJ6TVlZWmJv?oc=5)
+
+`Wed, 18 Mar 2026 05:55:08 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiowFBVV95cUxNbHNmZVpfQllpQW4yNDhxNkwtMkNjSXlSRVpfOWJPVjc4TENxWVhrOGMxMTU5amZKZzZMd1pDUlk5OE5URC1oQnlScDVXN0QwWV9XMGdlaDdWY0s1OFZ5RWZWT2puYUVxSHBUZVRySFZKMnNxcU8zUVZaU1FiN2hOSy1aeVMtQTQ4T3dYdmxVWndvLURtM0NrSXZmVUJ6TVlZWmJv?oc=5" target="_blank">Les hôpitaux publics face à « un mur de dépenses »</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Budget 2027 : 40 milliards d'euros, l'effort impossible qui attend la France pour réduire son déficit - Les Echos](https://news.google.com/rss/articles/CBMi8wFBVV95cUxOQnhLTmc5ZmRTbV8wazNIQzktNWVrSDc0VGl2bjhVakVUNzJ4MkRzaWIxemJiRkJ3bGlLZzdQcVpZYmFVTFI3ZFFvQWwwSDhON3VNNXE2OVR2VUs4TDZBcUJPdGNRbVBfWUxJNXZGWkNQWjVkVHFfUXl4Vng3bXh6X09jUTVMazFuU0VSWmdueWx5cVRKeVZqYmVYeTRqM1NkZzJKb0tCWGZ3ZTRsbmJoT05faW1Gang3XzROYXl3YW92SERhV3BEQk5weXFFdzBzTlpuTmcxVG45by0yY1kwcFFXNGRIVURYWXMtOXRnX0NCVlk?oc=5)
+
+`Thu, 26 Feb 2026 08:00:00 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi8wFBVV95cUxOQnhLTmc5ZmRTbV8wazNIQzktNWVrSDc0VGl2bjhVakVUNzJ4MkRzaWIxemJiRkJ3bGlLZzdQcVpZYmFVTFI3ZFFvQWwwSDhON3VNNXE2OVR2VUs4TDZBcUJPdGNRbVBfWUxJNXZGWkNQWjVkVHFfUXl4Vng3bXh6X09jUTVMazFuU0VSWmdueWx5cVRKeVZqYmVYeTRqM1NkZzJKb0tCWGZ3ZTRsbmJoT05faW1Gang3XzROYXl3YW92SERhV3BEQk5weXFFdzBzTlpuTmcxVG45by0yY1kwcFFXNGRIVURYWXMtOXRnX0NCVlk?oc=5" target="_blank">Budget 2027 : 40 milliards d'euros, l'effort impossible qui attend la France pour réduire son déficit</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
