@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Thu, 19 Mar 2026 12:43:38 +0000`
-> 35 articles (30 derniers jours)
+> Derniere mise a jour : `Thu, 19 Mar 2026 17:46:16 +0000`
+> 36 articles (30 derniers jours)
+
+---
+
+### [Sécurité sociale : le déficit 2025 un peu moins dégradé que prévu - Les Echos](https://news.google.com/rss/articles/CBMiugFBVV95cUxPV19KN05UTmxPSGRUTjNpZ09HaUxyX3NSRTkxbkZzMHdXSXAtUVp6OElPdEktTXlORGlCWk5ldzVtTXUzVDRxVF9DbWQ4UW1xNDg5OFNBSzA1dlFxRWVGNlp0Rk5pX3RfZmpLa3htZ1JvMjI3YzJkRWtxeGhXQmFPNkhFMm04NzNEQWdwMUdWRG1kUTJzZnMtRG5lVFhHcFhHRzhCLXBSZ0MwM21meU5DcTJSX3hIZzNINUE?oc=5)
+
+`Thu, 19 Mar 2026 13:37:38 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxPV19KN05UTmxPSGRUTjNpZ09HaUxyX3NSRTkxbkZzMHdXSXAtUVp6OElPdEktTXlORGlCWk5ldzVtTXUzVDRxVF9DbWQ4UW1xNDg5OFNBSzA1dlFxRWVGNlp0Rk5pX3RfZmpLa3htZ1JvMjI3YzJkRWtxeGhXQmFPNkhFMm04NzNEQWdwMUdWRG1kUTJzZnMtRG5lVFhHcFhHRzhCLXBSZ0MwM21meU5DcTJSX3hIZzNINUE?oc=5" target="_blank">Sécurité sociale : le déficit 2025 un peu moins dégradé que prévu</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
