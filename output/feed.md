@@ -1,7 +1,7 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Thu, 19 Mar 2026 06:41:07 +0000`
-> 36 articles (30 derniers jours)
+> Derniere mise a jour : `Thu, 19 Mar 2026 09:54:36 +0000`
+> 35 articles (30 derniers jours)
 
 ---
 
@@ -66,14 +66,6 @@
 `Mon, 16 Mar 2026 16:46:21 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQmZ3X042OXZpNlJLWEwzVzVuV19ZTDVjTVV6c2paZkl5S2pGZmREVWJ0OC01MFpCQnBJTUxfa1NxaU4tVjhITENwR0FkUHpHNS1LMEh5b1MtMG9tWm85a2dwcUJzdXdRSGh2TWpKTnZxUVgxS0pONWtiOVllYVFSTTFKVmw4eWZBOVVGb2s4UEdzMU9VeXg5cGlJZVRBSFc2WEh1TkZLQTBtVnJWYUh6aXpsalY3dnoyWl9VSmVXQkdHdw?oc=5" target="_blank">Impôt minimal des plus riches : comment l'Etat a raté sa cible</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Chômage : comment le patronat veut réduire l'indemnisation après une rupture conventionnelle - Les Echos](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbGNraFNFaFh6WDV2TF9KeTgzV2tzQlVnV19mVVhObkNZQVhkSU9WUGxYRUcyc0hmOExMdnlTd1RmTEU4SFRHVjlSbWJZN0ZrNW4xR0pRcndTMjJ6bVY3aW14U1lLRTNHMnFWc21RVHpEQnN3X3hWU2dMMTRMcWZmY2Q5N3VFSHdDekJvNURGNHFQMEZ5Y213cXgxXzdobm1jT0k5MVhENGdjQTJNU04zN0VfSFNVN1NoQXQyR252RmdELUtGVWlVQ3NIRkFkMm9zcHc5ZDBKNjJ4dVVs?oc=5)
-
-`Tue, 17 Feb 2026 08:00:00 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbGNraFNFaFh6WDV2TF9KeTgzV2tzQlVnV19mVVhObkNZQVhkSU9WUGxYRUcyc0hmOExMdnlTd1RmTEU4SFRHVjlSbWJZN0ZrNW4xR0pRcndTMjJ6bVY3aW14U1lLRTNHMnFWc21RVHpEQnN3X3hWU2dMMTRMcWZmY2Q5N3VFSHdDekJvNURGNHFQMEZ5Y213cXgxXzdobm1jT0k5MVhENGdjQTJNU04zN0VfSFNVN1NoQXQyR252RmdELUtGVWlVQ3NIRkFkMm9zcHc5ZDBKNjJ4dVVs?oc=5" target="_blank">Chômage : comment le patronat veut réduire l'indemnisation après une rupture conventionnelle</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
