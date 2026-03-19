@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Wed, 18 Mar 2026 17:52:05 +0000`
-> 35 articles (30 derniers jours)
+> Derniere mise a jour : `Thu, 19 Mar 2026 06:41:07 +0000`
+> 36 articles (30 derniers jours)
+
+---
+
+### [Transparence salariale dans les entreprises : critiques, patronat et syndicats espèrent encore modifier le projet de loi - Les Echos](https://news.google.com/rss/articles/CBMiggJBVV95cUxPbkpMUlpaNm5tc0NVN1hNNGNMamJaQTZiTjFHLU1hLU1PdTVvSWdGQ2h1SHh3Wm1DZzBINXkwUGg0Qy1CVUZnbUV0VmVwcjZyU2dfWjVvTzQ1Ynh4RmRZQjFDLXc1bk9Vd1ZLR1diOHBJanhUb1pzN01UOHNGcnFNU01GUzRKdnRsRE9LXzdiT3M1eld4Y3pKSVh0TFRpaExyYW53WTR4YTd6c29NVnJ4ajhoVXJkRXM3ekRkaDExMFZuX1diUWl1S0NucmN2Y1FXYzR0UkVfU0FWYjZUVk1zV1lGUUg5VzBzMzA4M1Q5c2dJMUE2ZlVhNEhhaVduVnltaGc?oc=5)
+
+`Thu, 19 Mar 2026 06:00:52 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiggJBVV95cUxPbkpMUlpaNm5tc0NVN1hNNGNMamJaQTZiTjFHLU1hLU1PdTVvSWdGQ2h1SHh3Wm1DZzBINXkwUGg0Qy1CVUZnbUV0VmVwcjZyU2dfWjVvTzQ1Ynh4RmRZQjFDLXc1bk9Vd1ZLR1diOHBJanhUb1pzN01UOHNGcnFNU01GUzRKdnRsRE9LXzdiT3M1eld4Y3pKSVh0TFRpaExyYW53WTR4YTd6c29NVnJ4ajhoVXJkRXM3ekRkaDExMFZuX1diUWl1S0NucmN2Y1FXYzR0UkVfU0FWYjZUVk1zV1lGUUg5VzBzMzA4M1Q5c2dJMUE2ZlVhNEhhaVduVnltaGc?oc=5" target="_blank">Transparence salariale dans les entreprises : critiques, patronat et syndicats espèrent encore modifier le projet de loi</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
