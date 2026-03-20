@@ -1,7 +1,7 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Fri, 20 Mar 2026 06:38:08 +0000`
-> 36 articles (30 derniers jours)
+> Derniere mise a jour : `Fri, 20 Mar 2026 09:52:11 +0000`
+> 35 articles (30 derniers jours)
 
 ---
 
@@ -50,14 +50,6 @@
 `Tue, 17 Mar 2026 16:17:15 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMizgFBVV95cUxNVkJzTFNyX2lQUlMwWmF5RVFrc0lLaEprTzJWS3JZN3BVaFIwREo1WTFCVHgwSkI0bUhWVlFXaTRBQnJwT2lMdER2NkNuSEZrd01NcDJqUUR6Q09JQ2tIVDdIWEpYZHBNRUV4bXNXd1RPbHlvX2g0c0FjX2hiSDloWWp0MzRfNXlOaEhKRUlTSGs2TGRad1RIc25GQnJHeTJyQ1dFbWtObG1KM01BUHlBQTVfQWxJZGhXNExfdEZOX3N5VkJuT0JRNWZ6b3hEUQ?oc=5" target="_blank">Salaires : la prime de partage de la valeur perd du terrain dans les entreprises</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Plus de 13.000 foyers fortunés ne paient aucun impôt sur le revenu - Les Echos](https://news.google.com/rss/articles/CBMiygFBVV95cUxOeE9wUXc1RGZyMU1aLUJvd1pxb3lsa3NTaVY5Q014M2VtckpGMWIzbGlYd2plck9aQ1gyTHpKZ3lBVUd4MVN3QjBSOTRNaWVHN0drdDJsdGQ3Qm51dXZKRDdxYnhhbVdmdkdXVVdqRWwwa3dMV3dhY3dSNU5LMkNSMFZWZHF2VDRqNjRlbTkxcTl6NE5KQWRKTFdnUDZjdWp2RGZwYTdRQk0wOTh0c296Y0t1bkRXQ0ljQlRObDd6OFJyS3RTc2d5d3BR?oc=5)
-
-`Wed, 18 Feb 2026 08:00:00 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxOeE9wUXc1RGZyMU1aLUJvd1pxb3lsa3NTaVY5Q014M2VtckpGMWIzbGlYd2plck9aQ1gyTHpKZ3lBVUd4MVN3QjBSOTRNaWVHN0drdDJsdGQ3Qm51dXZKRDdxYnhhbVdmdkdXVVdqRWwwa3dMV3dhY3dSNU5LMkNSMFZWZHF2VDRqNjRlbTkxcTl6NE5KQWRKTFdnUDZjdWp2RGZwYTdRQk0wOTh0c296Y0t1bkRXQ0ljQlRObDd6OFJyS3RTc2d5d3BR?oc=5" target="_blank">Plus de 13.000 foyers fortunés ne paient aucun impôt sur le revenu</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
