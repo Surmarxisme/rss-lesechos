@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Mon, 23 Mar 2026 17:42:49 +0000`
-> 35 articles (30 derniers jours)
+> Derniere mise a jour : `Tue, 24 Mar 2026 06:47:11 +0000`
+> 36 articles (30 derniers jours)
+
+---
+
+### [« Ça patauge sérieusement » : à mi-parcours, la conférence sociale sur les retraites cherche encore son chemin - Les Echos](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNb2RWYWdkZzR4VnhfWlFIZWsxb3JmWmVEZ3MxTFVGMkhReW54X2ZsRGl1M1VwQjAzYnA2aDdCVFdHYXN1M0tjT09hT3dyVVNlOXZmMEN4WmxybXZMbUdDTHVVQmh6MHE1MDgyaW5UdlpNdlNudWFoX0FMX2wtdS1qV1FMTThLSXExeE5xOTlGWWV0ZW51YXdlNE5QeEVQandCd0NRTWVzbUpUem5MM0x0RU5HVTJzWks3LTVNQUp3VW5Wc2FERTZqRnNZeTZKQ2x4UGFIY3dVN2djV1hzaVhyN3FkVmJFdjB2QVJFYnZWNA?oc=5)
+
+`Tue, 24 Mar 2026 05:05:09 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi7wFBVV95cUxNb2RWYWdkZzR4VnhfWlFIZWsxb3JmWmVEZ3MxTFVGMkhReW54X2ZsRGl1M1VwQjAzYnA2aDdCVFdHYXN1M0tjT09hT3dyVVNlOXZmMEN4WmxybXZMbUdDTHVVQmh6MHE1MDgyaW5UdlpNdlNudWFoX0FMX2wtdS1qV1FMTThLSXExeE5xOTlGWWV0ZW51YXdlNE5QeEVQandCd0NRTWVzbUpUem5MM0x0RU5HVTJzWks3LTVNQUp3VW5Wc2FERTZqRnNZeTZKQ2x4UGFIY3dVN2djV1hzaVhyN3FkVmJFdjB2QVJFYnZWNA?oc=5" target="_blank">« Ça patauge sérieusement » : à mi-parcours, la conférence sociale sur les retraites cherche encore son chemin</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
