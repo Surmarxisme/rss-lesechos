@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Tue, 24 Mar 2026 10:01:00 +0000`
-> 35 articles (30 derniers jours)
+> Derniere mise a jour : `Tue, 24 Mar 2026 12:53:19 +0000`
+> 36 articles (30 derniers jours)
+
+---
+
+### [La retraite progressive gagne du terrain dans la fonction publique - Les Echos](https://news.google.com/rss/articles/CBMivgFBVV95cUxOaG5Hcms4RUZOd280d3B4cGNmQmZiWTNjc193MUczYk81RlVvZXY4M3kyVE5HcjFwR19TcUVyTnd5S0xURlZVcDRGTktQNlFtaHp2ZWU2SEdjWEdHRXhDTmhQUVFiSDRzX1o5VWpCbDhXNURfakRFcEZCQlZEV1NpaDRlci1hb255cFVUOVRFenpPQVlOcS1XTGJfRXFpQ0VlYWx4NGFmN0dubEdWdzFDU09pRXN4aVF5VGpxQVhn?oc=5)
+
+`Tue, 24 Mar 2026 10:25:08 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxOaG5Hcms4RUZOd280d3B4cGNmQmZiWTNjc193MUczYk81RlVvZXY4M3kyVE5HcjFwR19TcUVyTnd5S0xURlZVcDRGTktQNlFtaHp2ZWU2SEdjWEdHRXhDTmhQUVFiSDRzX1o5VWpCbDhXNURfakRFcEZCQlZEV1NpaDRlci1hb255cFVUOVRFenpPQVlOcS1XTGJfRXFpQ0VlYWx4NGFmN0dubEdWdzFDU09pRXN4aVF5VGpxQVhn?oc=5" target="_blank">La retraite progressive gagne du terrain dans la fonction publique</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
