@@ -1,7 +1,23 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Wed, 25 Mar 2026 12:50:34 +0000`
-> 39 articles (30 derniers jours)
+> Derniere mise a jour : `Wed, 25 Mar 2026 17:49:14 +0000`
+> 41 articles (30 derniers jours)
+
+---
+
+### [Négociations sur les CDD : flexibilité ou régulation, syndicats et patronat totalement opposés - Les Echos](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOOUgyVFh0T3paT2FSUTlGN2VaXzdNUGNHczh5cU50WjlvRTJJbmw1TVpPTHoyWURVdFRiWUhLWUx1SEtta1IwTjlFcEtmMDRkMEFReFl1LTZzTnVNZ1ZoLUJ3WjhYdzJzMGphbU9aeEk1V2MtUUxUZF9Mc05qanRXaGdhYVVtZ19NWkZiNWQ1aXRsNlFYakZWVU5CeXFLcHZaWmxWaTAwVUhGZWhSUmk0c3oxVHZTOS1TaVBkRGJ5cU1IamdHS2pzQ3g5ZV9FeFZOMVJ1VmNMRlBSUXlCSlRB?oc=5)
+
+`Wed, 25 Mar 2026 16:02:36 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi3wFBVV95cUxOOUgyVFh0T3paT2FSUTlGN2VaXzdNUGNHczh5cU50WjlvRTJJbmw1TVpPTHoyWURVdFRiWUhLWUx1SEtta1IwTjlFcEtmMDRkMEFReFl1LTZzTnVNZ1ZoLUJ3WjhYdzJzMGphbU9aeEk1V2MtUUxUZF9Mc05qanRXaGdhYVVtZ19NWkZiNWQ1aXRsNlFYakZWVU5CeXFLcHZaWmxWaTAwVUhGZWhSUmk0c3oxVHZTOS1TaVBkRGJ5cU1IamdHS2pzQ3g5ZV9FeFZOMVJ1VmNMRlBSUXlCSlRB?oc=5" target="_blank">Négociations sur les CDD : flexibilité ou régulation, syndicats et patronat totalement opposés</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Le coup de rabot sur les allocations familiales contesté en justice - Les Echos](https://news.google.com/rss/articles/CBMivwFBVV95cUxQcnUyaGY5aGdiZWQ1S3VQX1RIUHlPRnBsNlRXTWw4WHBSWGdsTEFkcHJtTzJ1QUQ1eEFKeXkzOVhTNkwwNU45cmRLUFhFS1doQjRSMEdNaEYxS3AzT2NZWHJCR2oyRndUR1p1Ry16eUlqVERfQmllMWRLXzktMno5MVhMRGxwSWJSazhjSTQ4ZTctZ1FpUXI4Y1llMGdHT2RzQlBvaUdJc3FSMmFoUjZPYy1sTzc1QkRlZzhyU3lpMA?oc=5)
+
+`Wed, 25 Mar 2026 16:50:30 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxQcnUyaGY5aGdiZWQ1S3VQX1RIUHlPRnBsNlRXTWw4WHBSWGdsTEFkcHJtTzJ1QUQ1eEFKeXkzOVhTNkwwNU45cmRLUFhFS1doQjRSMEdNaEYxS3AzT2NZWHJCR2oyRndUR1p1Ry16eUlqVERfQmllMWRLXzktMno5MVhMRGxwSWJSazhjSTQ4ZTctZ1FpUXI4Y1llMGdHT2RzQlBvaUdJc3FSMmFoUjZPYy1sTzc1QkRlZzhyU3lpMA?oc=5" target="_blank">Le coup de rabot sur les allocations familiales contesté en justice</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
