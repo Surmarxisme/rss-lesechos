@@ -1,7 +1,7 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Wed, 25 Mar 2026 06:45:58 +0000`
-> 39 articles (30 derniers jours)
+> Derniere mise a jour : `Wed, 25 Mar 2026 09:59:54 +0000`
+> 38 articles (30 derniers jours)
 
 ---
 
@@ -66,14 +66,6 @@
 `Thu, 19 Mar 2026 06:00:52 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMiggJBVV95cUxPbkpMUlpaNm5tc0NVN1hNNGNMamJaQTZiTjFHLU1hLU1PdTVvSWdGQ2h1SHh3Wm1DZzBINXkwUGg0Qy1CVUZnbUV0VmVwcjZyU2dfWjVvTzQ1Ynh4RmRZQjFDLXc1bk9Vd1ZLR1diOHBJanhUb1pzN01UOHNGcnFNU01GUzRKdnRsRE9LXzdiT3M1eld4Y3pKSVh0TFRpaExyYW53WTR4YTd6c29NVnJ4ajhoVXJkRXM3ekRkaDExMFZuX1diUWl1S0NucmN2Y1FXYzR0UkVfU0FWYjZUVk1zV1lGUUg5VzBzMzA4M1Q5c2dJMUE2ZlVhNEhhaVduVnltaGc?oc=5" target="_blank">Transparence salariale dans les entreprises : critiques, patronat et syndicats espèrent encore modifier le projet de loi</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [A la Cour des comptes, Amélie de Montchalin tente d'apaiser les critiques - Les Echos](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNb2k0eE10QU1WLTRTTGJNTWg5NDltSEJkal9QYlVsMUNBNmRYZmw5N1E1dXVYNVNIWmpIeDl4ZW1xRXJybW1hVzc0ZWppOHQ1SmpMWE8tRTgzd0NlRVA2ZS11NHN6OUhMZ3Z5V19OOUw0R0VDLWM1QUtyYXZ5dWRKSG9fOEllMlBGV2Eta2diNnM5WS14SUZWb1VyZnRmTklFSWE3YzZYcjIwUTh2SHdBbzdZVDVfUVY5NnAzVzU2ODFLNDVtMlVwMnNjcXZZakVFNGc?oc=5)
-
-`Mon, 23 Feb 2026 08:00:00 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi0gFBVV95cUxNb2k0eE10QU1WLTRTTGJNTWg5NDltSEJkal9QYlVsMUNBNmRYZmw5N1E1dXVYNVNIWmpIeDl4ZW1xRXJybW1hVzc0ZWppOHQ1SmpMWE8tRTgzd0NlRVA2ZS11NHN6OUhMZ3Z5V19OOUw0R0VDLWM1QUtyYXZ5dWRKSG9fOEllMlBGV2Eta2diNnM5WS14SUZWb1VyZnRmTklFSWE3YzZYcjIwUTh2SHdBbzdZVDVfUVY5NnAzVzU2ODFLNDVtMlVwMnNjcXZZakVFNGc?oc=5" target="_blank">A la Cour des comptes, Amélie de Montchalin tente d'apaiser les critiques</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
