@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Wed, 25 Mar 2026 09:59:54 +0000`
-> 38 articles (30 derniers jours)
+> Derniere mise a jour : `Wed, 25 Mar 2026 12:50:34 +0000`
+> 39 articles (30 derniers jours)
+
+---
+
+### [Une proposition polémique pour réduire les inégalités entre collectivités locales - Les Echos](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPT3BBOVN6aG01ZWJ6OThaVXdLMmNHbTZ2OTk1eWp6NENhcUZ5NDZmUkNXal9OZ3FySFVfOFF2d1ZpSzBXTHl5d3BGdUQ3UU5WWUxIYWtpci0td3ZINEZlVW8zZEsxclEtbERWWm5vUGN4TDY1LXRrZGNKQmJKOEZ0ZnlIcGtpZEVYblRacFpuZm4ycEFPRDkxSFQ5OElTZ2ZnMm51bDRpQkRZQ0tLY3FvdFdOZkR2cFhPNF9KUzRSbmJ1cDdqM0RNRnVUYUZTRlhnZzc3cGdFVFBrbFREbncw?oc=5)
+
+`Wed, 25 Mar 2026 11:18:04 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi3wFBVV95cUxPT3BBOVN6aG01ZWJ6OThaVXdLMmNHbTZ2OTk1eWp6NENhcUZ5NDZmUkNXal9OZ3FySFVfOFF2d1ZpSzBXTHl5d3BGdUQ3UU5WWUxIYWtpci0td3ZINEZlVW8zZEsxclEtbERWWm5vUGN4TDY1LXRrZGNKQmJKOEZ0ZnlIcGtpZEVYblRacFpuZm4ycEFPRDkxSFQ5OElTZ2ZnMm51bDRpQkRZQ0tLY3FvdFdOZkR2cFhPNF9KUzRSbmJ1cDdqM0RNRnVUYUZTRlhnZzc3cGdFVFBrbFREbncw?oc=5" target="_blank">Une proposition polémique pour réduire les inégalités entre collectivités locales</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
