@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Tue, 24 Mar 2026 17:46:27 +0000`
-> 38 articles (30 derniers jours)
+> Derniere mise a jour : `Wed, 25 Mar 2026 06:45:58 +0000`
+> 39 articles (30 derniers jours)
+
+---
+
+### [Les jeunes développeurs informatiques, premières victimes de l'essor de l'IA ? - Les Echos](https://news.google.com/rss/articles/CBMixwFBVV95cUxOdzRQcHZwQUwybzV6NzlNelB2c3ByNXdXb0RQa3ZNMUZKdVEwRXZ3OWtCc1hzVHNVUmE1Y29MeTlhN1BVbDlxZllEcjQ3Z0pSYndDcmM0dlZ6SG12Nm5RWE81YjRPTEcwSTVUWEtvcGhhVElSVEd5SVZtTjBoV08wTkNMcG1rbTcxWVAtLThGWEFYX1RMSGFEd2ttVW82Y3JaQVhuQU5oTlFOTzhCdDE5ZW4yS3hEUTVydVNVcER6UUpVa1lrczdR?oc=5)
+
+`Wed, 25 Mar 2026 05:33:09 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMixwFBVV95cUxOdzRQcHZwQUwybzV6NzlNelB2c3ByNXdXb0RQa3ZNMUZKdVEwRXZ3OWtCc1hzVHNVUmE1Y29MeTlhN1BVbDlxZllEcjQ3Z0pSYndDcmM0dlZ6SG12Nm5RWE81YjRPTEcwSTVUWEtvcGhhVElSVEd5SVZtTjBoV08wTkNMcG1rbTcxWVAtLThGWEFYX1RMSGFEd2ttVW82Y3JaQVhuQU5oTlFOTzhCdDE5ZW4yS3hEUTVydVNVcER6UUpVa1lrczdR?oc=5" target="_blank">Les jeunes développeurs informatiques, premières victimes de l'essor de l'IA ?</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
