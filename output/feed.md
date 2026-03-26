@@ -1,7 +1,23 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Thu, 26 Mar 2026 12:56:07 +0000`
-> 48 articles (30 derniers jours)
+> Derniere mise a jour : `Thu, 26 Mar 2026 17:51:46 +0000`
+> 50 articles (30 derniers jours)
+
+---
+
+### [Plans sociaux : cette carte qui inquiète - Les Echos](https://news.google.com/rss/articles/CBMimAFBVV95cUxPX29GWjVBd1dqMndKOS1BNTRxVnB4TUNLTGtmYVNSSVpSdEpHd3hBMFVXcE1RTnlnbHhTLTBHZV9aVDZXLXE3UVdFTGpkTVY0Y3RPN0UwZW1vdWRzWEQwNXZRYnFHeEFab0RvanMxb2pNdzlLMW10SzFCSHB1eUhld3lCZEJBeXdoQjlmNkItZFJ0eGc0OENROA?oc=5)
+
+`Thu, 26 Mar 2026 17:01:56 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMimAFBVV95cUxPX29GWjVBd1dqMndKOS1BNTRxVnB4TUNLTGtmYVNSSVpSdEpHd3hBMFVXcE1RTnlnbHhTLTBHZV9aVDZXLXE3UVdFTGpkTVY0Y3RPN0UwZW1vdWRzWEQwNXZRYnFHeEFab0RvanMxb2pNdzlLMW10SzFCSHB1eUhld3lCZEJBeXdoQjlmNkItZFJ0eGc0OENROA?oc=5" target="_blank">Plans sociaux : cette carte qui inquiète</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [La France est devenue plus inégalitaire que la moyenne de l'Union européenne - Les Echos](https://news.google.com/rss/articles/CBMiygFBVV95cUxNWk9WdXpfYnBpaENzanA2Zk1hS3poZUM4eDhnaDI0d1ctcV9sTlZtVTNMeFFjblBOWFpxV1NsU3g1Ym9SYW53MnlHZU1mTVVJMjhjT1BFbWZYZ01QNDFHaW9qa2lnUGR6cTlmMFZsRUFCSlRLQ0gxdHBDQXV0SEVrNlNoWG5aUldEWWNmY0VRaTFKRHBmQU82ZWgtYUdaMGszMHhUeDFpZTU4NTl5c2hJM01mOS10ZHExa0ZYbENIM0ZmNkVJQWhub2l3?oc=5)
+
+`Thu, 26 Mar 2026 16:42:25 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxNWk9WdXpfYnBpaENzanA2Zk1hS3poZUM4eDhnaDI0d1ctcV9sTlZtVTNMeFFjblBOWFpxV1NsU3g1Ym9SYW53MnlHZU1mTVVJMjhjT1BFbWZYZ01QNDFHaW9qa2lnUGR6cTlmMFZsRUFCSlRLQ0gxdHBDQXV0SEVrNlNoWG5aUldEWWNmY0VRaTFKRHBmQU82ZWgtYUdaMGszMHhUeDFpZTU4NTl5c2hJM01mOS10ZHExa0ZYbENIM0ZmNkVJQWhub2l3?oc=5" target="_blank">La France est devenue plus inégalitaire que la moyenne de l'Union européenne</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
