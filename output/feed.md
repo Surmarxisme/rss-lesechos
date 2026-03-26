@@ -1,7 +1,47 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Wed, 25 Mar 2026 17:49:14 +0000`
-> 41 articles (30 derniers jours)
+> Derniere mise a jour : `Thu, 26 Mar 2026 06:53:09 +0000`
+> 46 articles (30 derniers jours)
+
+---
+
+### [Chômage et ruptures conventionnelles : ce qui va changer - Les Echos](https://news.google.com/rss/articles/CBMisAFBVV95cUxOSjVURXByQjFtQkszdnNYVXkxTmNJdERwRDFKV1FiRXRwcEV2ZjhodHdueWdrZTRCeXEwYjJSZnZQZ01SeGY1eUF6MW11QzZjbTduM01rU1cwbFRUeGM3MC1qel9YTGlxdElJQnlqcHhRQ2hJZTRwN25kV3NFVzI0cElWY21LYWp2N3ZuUm1PU2VtbUt4cTBrM0ZwQnpjNlBOdGhjRklvN0h5TUI3eHA5UQ?oc=5)
+
+`Wed, 25 Mar 2026 14:27:00 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxOSjVURXByQjFtQkszdnNYVXkxTmNJdERwRDFKV1FiRXRwcEV2ZjhodHdueWdrZTRCeXEwYjJSZnZQZ01SeGY1eUF6MW11QzZjbTduM01rU1cwbFRUeGM3MC1qel9YTGlxdElJQnlqcHhRQ2hJZTRwN25kV3NFVzI0cElWY21LYWp2N3ZuUm1PU2VtbUt4cTBrM0ZwQnpjNlBOdGhjRklvN0h5TUI3eHA5UQ?oc=5" target="_blank">Chômage et ruptures conventionnelles : ce qui va changer</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [A Bercy, la très stratégique direction du Budget change de patron - Les Echos](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNR294SzVNOUFZU2tmMWhJNVlqM0FsNVpMWWNpYXNOdzVadko3emNWY2w1cUU4a3MzUTc2QjZqNXhBU083dVB5TGMwRnNBYkpWVWdrSUtKOTNRRTcya1JDaWdaaWxRS05GWWJEai1QeHN4TUhselNBTmdQR2p6VU80RExsS1RZX0xMZ21sLXpsYzE3d1BjNEN0eFY5V0thbmJWUE5tR2p6UF9BWW9yU2RVZlFQTzNXcl9wWkRGMUhneW5qaGFBMEtsMw?oc=5)
+
+`Wed, 25 Mar 2026 18:22:17 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxNR294SzVNOUFZU2tmMWhJNVlqM0FsNVpMWWNpYXNOdzVadko3emNWY2w1cUU4a3MzUTc2QjZqNXhBU083dVB5TGMwRnNBYkpWVWdrSUtKOTNRRTcya1JDaWdaaWxRS05GWWJEai1QeHN4TUhselNBTmdQR2p6VU80RExsS1RZX0xMZ21sLXpsYzE3d1BjNEN0eFY5V0thbmJWUE5tR2p6UF9BWW9yU2RVZlFQTzNXcl9wWkRGMUhneW5qaGFBMEtsMw?oc=5" target="_blank">A Bercy, la très stratégique direction du Budget change de patron</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Guerre en Iran : pourquoi le choc inflationniste sera différent de celui provoqué par l'invasion de l'Ukraine par la Russie - Les Echos](https://news.google.com/rss/articles/CBMiiwJBVV95cUxPYS1iOG5hbFBCckd3aXRoZU1KeUdub2pRcDlWTDd2NGdmVTJlVGNhUDJ2OF9aWUJxOTZ6clB3ZmVyTVlrQnJpbFB4WkxqZmdCLW1Oa2hvU1Vadmh2cjZEclY3NEdQb216ZUNNWHFPelhFS2U4bi1oS2J3V0RLdWs5MWFpaERDUWRXRk10Sy03SUdIdlZkdm5ld2Jwanp1WGoycmp6RjFBLTh1RV94UXlUdFFVU3czcm82TW9rT21LaFo5aUQ1bzJzckdQbkZ3Y1FEOE5MZTdhRVVLVjdyQkVjRy1yMkN5YjV0ZTlkd09NUm1FTlZjbzUxTXJDZ2hsR0RGSEZOb0UxVWhzTHM?oc=5)
+
+`Thu, 26 Mar 2026 05:07:11 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiiwJBVV95cUxPYS1iOG5hbFBCckd3aXRoZU1KeUdub2pRcDlWTDd2NGdmVTJlVGNhUDJ2OF9aWUJxOTZ6clB3ZmVyTVlrQnJpbFB4WkxqZmdCLW1Oa2hvU1Vadmh2cjZEclY3NEdQb216ZUNNWHFPelhFS2U4bi1oS2J3V0RLdWs5MWFpaERDUWRXRk10Sy03SUdIdlZkdm5ld2Jwanp1WGoycmp6RjFBLTh1RV94UXlUdFFVU3czcm82TW9rT21LaFo5aUQ1bzJzckdQbkZ3Y1FEOE5MZTdhRVVLVjdyQkVjRy1yMkN5YjV0ZTlkd09NUm1FTlZjbzUxTXJDZ2hsR0RGSEZOb0UxVWhzTHM?oc=5" target="_blank">Guerre en Iran : pourquoi le choc inflationniste sera différent de celui provoqué par l'invasion de l'Ukraine par la Russie</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [« La France n'a plus les moyens de prendre des mesures générales » sur le prix des carburants : le rappel sans fard du gouverneur de la Banque de France - Les Echos](https://news.google.com/rss/articles/CBMirgJBVV95cUxQdWJXMEdidVRXUWNDNDFQX25UMktxWkhuOUtVMTFwNHA1UEk0LWtTZVQtRmM3aDlLNGhhQ1VOUEVYTE13bUVCY3dEaDdXU2VGYklRaUJ3eU8xX010ZDU1UTVvanNWOFlwdDNiZTM5RjU0VHpzRWtQeTJ0OUZESlJZcWlXb2xYdzl2YkluTEpiVGpXVERCTXUza003QUhEb1RWLVQybGxCSWVKTV9vUHlhOFFyUWx0THBnSEJLRkhNdUxCUXlFaVA4Q2xLRzFybjU3T2VIZ1B2cU9uNXdYZDkxYk1GMEFXb254dWJ2dmo2bFRxNjhjdjJmVlZ3d0FpcE5MZ1RLN0FGdW9sRFItZ2h1WVdMMVlqNHRNbWlqZ1dQWG1STGtOS0tRaXl6RkZzZw?oc=5)
+
+`Wed, 25 Mar 2026 19:00:09 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMirgJBVV95cUxQdWJXMEdidVRXUWNDNDFQX25UMktxWkhuOUtVMTFwNHA1UEk0LWtTZVQtRmM3aDlLNGhhQ1VOUEVYTE13bUVCY3dEaDdXU2VGYklRaUJ3eU8xX010ZDU1UTVvanNWOFlwdDNiZTM5RjU0VHpzRWtQeTJ0OUZESlJZcWlXb2xYdzl2YkluTEpiVGpXVERCTXUza003QUhEb1RWLVQybGxCSWVKTV9vUHlhOFFyUWx0THBnSEJLRkhNdUxCUXlFaVA4Q2xLRzFybjU3T2VIZ1B2cU9uNXdYZDkxYk1GMEFXb254dWJ2dmo2bFRxNjhjdjJmVlZ3d0FpcE5MZ1RLN0FGdW9sRFItZ2h1WVdMMVlqNHRNbWlqZ1dQWG1STGtOS0tRaXl6RkZzZw?oc=5" target="_blank">« La France n'a plus les moyens de prendre des mesures générales » sur le prix des carburants : le rappel sans fard du gouverneur de la Banque de France</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Impôts : les responsables politiques appelés à un sursaut en faveur des entreprises - Les Echos](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPR0M4WjJQNHhnTjRzb0h5TGljOFFrbmlCQ2RxYURjS1BwU3k4Sklna0c5ZmRuNVN5eHBiYll0M2dDeDBuN2dXelhiclB5QV9qVzY3X3hxUTFqRTZ2V3pYRmxyS3p4M2RDR25XMHp6akc0REllUWExbnNPT2ZhQTM4TWxMbEE2RnBWLUNfMmZ0SVpRY3dSVkxWSWIxVk1hZFhId1B1Y2RMODdTc1JUcnFhdHVNLU5GNVAtdUxTTkRzU2JPSEE4UDVqNXBPcVFKQkx5YkE?oc=5)
+
+`Mon, 02 Mar 2026 08:00:00 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi0gFBVV95cUxPR0M4WjJQNHhnTjRzb0h5TGljOFFrbmlCQ2RxYURjS1BwU3k4Sklna0c5ZmRuNVN5eHBiYll0M2dDeDBuN2dXelhiclB5QV9qVzY3X3hxUTFqRTZ2V3pYRmxyS3p4M2RDR25XMHp6akc0REllUWExbnNPT2ZhQTM4TWxMbEE2RnBWLUNfMmZ0SVpRY3dSVkxWSWIxVk1hZFhId1B1Y2RMODdTc1JUcnFhdHVNLU5GNVAtdUxTTkRzU2JPSEE4UDVqNXBPcVFKQkx5YkE?oc=5" target="_blank">Impôts : les responsables politiques appelés à un sursaut en faveur des entreprises</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
