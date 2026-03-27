@@ -1,7 +1,23 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Thu, 26 Mar 2026 17:51:46 +0000`
-> 50 articles (30 derniers jours)
+> Derniere mise a jour : `Fri, 27 Mar 2026 06:53:17 +0000`
+> 52 articles (30 derniers jours)
+
+---
+
+### [Le piège de la dette se referme sur la France - Les Echos](https://news.google.com/rss/articles/CBMirwFBVV95cUxPNmtGMXF3Y3FqUGEwR2t2Nlg3dXRaZzBLZkJZd2IwamtpalJ4RXZDc3gyLWY5d3dnNVdYZlJ4M0Z1eXhqa0pxVC1mS19JSFNBVGR6TDZQV2FMV01XUVNTYTMxU1JzUW85RndWR0dhM016NWJ1aGp3cVFhWUZQc1doN0tGbjl2T3k0SzRCZWpwQUtNNUItVTkzbnIyR1p3NUdtdXViUmRsQzBaWXlFcGtz?oc=5)
+
+`Fri, 27 Mar 2026 05:00:09 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxPNmtGMXF3Y3FqUGEwR2t2Nlg3dXRaZzBLZkJZd2IwamtpalJ4RXZDc3gyLWY5d3dnNVdYZlJ4M0Z1eXhqa0pxVC1mS19JSFNBVGR6TDZQV2FMV01XUVNTYTMxU1JzUW85RndWR0dhM016NWJ1aGp3cVFhWUZQc1doN0tGbjl2T3k0SzRCZWpwQUtNNUItVTkzbnIyR1p3NUdtdXViUmRsQzBaWXlFcGtz?oc=5" target="_blank">Le piège de la dette se referme sur la France</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [A 5,1 % du PIB fin 2025, le déficit de la France est moins élevé qu'attendu - Les Echos](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSElSMGlSR2V5aHFNMGdJTHhVZDUzQU05ajRPTUU3aUhCSWlRMmlienp6TVhlTm90a3lQLWRvd1dBRUQ3eUgyQnZYTy1KUU9KMFFvTW9WYjBEYTloZ1pxb3BJYVhVdkRPV1BLa2Z4dE1IRFF2MTNrUlhLQllsOTJoS0ZFUVJKVmJQeXZpbnBnT0txeDdEbE9nSlFVa2tiYlJnZnNmZGlOLXVlc2pCTE5kQk41a2duWG9vYXZfaUJEOGNwTHl6bTlVd09Yb1BQZE1a?oc=5)
+
+`Fri, 27 Mar 2026 06:44:38 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSElSMGlSR2V5aHFNMGdJTHhVZDUzQU05ajRPTUU3aUhCSWlRMmlienp6TVhlTm90a3lQLWRvd1dBRUQ3eUgyQnZYTy1KUU9KMFFvTW9WYjBEYTloZ1pxb3BJYVhVdkRPV1BLa2Z4dE1IRFF2MTNrUlhLQllsOTJoS0ZFUVJKVmJQeXZpbnBnT0txeDdEbE9nSlFVa2tiYlJnZnNmZGlOLXVlc2pCTE5kQk41a2duWG9vYXZfaUJEOGNwTHl6bTlVd09Yb1BQZE1a?oc=5" target="_blank">A 5,1 % du PIB fin 2025, le déficit de la France est moins élevé qu'attendu</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
