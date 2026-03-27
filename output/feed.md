@@ -1,7 +1,23 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Fri, 27 Mar 2026 12:44:02 +0000`
-> 52 articles (30 derniers jours)
+> Derniere mise a jour : `Fri, 27 Mar 2026 17:41:22 +0000`
+> 54 articles (30 derniers jours)
+
+---
+
+### [Les arrêts maladie de nouveau dans le viseur du gouvernement - Les Echos](https://news.google.com/rss/articles/CBMitgFBVV95cUxOZ1BhNHZaa2Y4enkwZUxlT3UtLXpueXVIUnBXTjBlUkEwT09UTFdwbWN4aExJT2dHSW1faVZDZWI0Ulh4MHpNcW55QkJ2MWg4c2xKa19Xbmt6YV9TRllzOTd2dEJKYnhtdnhjUVk2Y2s1LVV6N2Q0eTRRa0N2cTVhbkJKMXFzREREVi02djQtbVRpWktROW9QMGo3WVplN29YNW5hYWNzYXN0YlBtZjl5cGJrU0dTZw?oc=5)
+
+`Fri, 27 Mar 2026 15:25:15 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxOZ1BhNHZaa2Y4enkwZUxlT3UtLXpueXVIUnBXTjBlUkEwT09UTFdwbWN4aExJT2dHSW1faVZDZWI0Ulh4MHpNcW55QkJ2MWg4c2xKa19Xbmt6YV9TRllzOTd2dEJKYnhtdnhjUVk2Y2s1LVV6N2Q0eTRRa0N2cTVhbkJKMXFzREREVi02djQtbVRpWktROW9QMGo3WVplN29YNW5hYWNzYXN0YlBtZjl5cGJrU0dTZw?oc=5" target="_blank">Les arrêts maladie de nouveau dans le viseur du gouvernement</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Comment les surplus d'impôts ont permis de redresser le déficit en 2025 - Les Echos](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNzFUc21pMGhOMnFTZzVWc3hwRkY3Qi02UklEV3RIRnotaVl6NHp1Y05VVlVwZVdmWHRKVU9LV094ckw2MXRVM3dGYlBkbTlpclVJT3VDWm8wRnZkaFJVS0dMWnAzRkkxSk9pelgwbWV5UWt3bE00eUw3VFNqTjhTbUxVUi1HVGRveG81M2Z3dXllQmowREJlcHZNaGNXUmc5OV9GRDB3LS1Zd3RBUnJhcGRuQURUSnNFdzBtNEFlZ01MM0kyczBOckhHVUZOV3FI?oc=5)
+
+`Fri, 27 Mar 2026 16:56:48 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNzFUc21pMGhOMnFTZzVWc3hwRkY3Qi02UklEV3RIRnotaVl6NHp1Y05VVlVwZVdmWHRKVU9LV094ckw2MXRVM3dGYlBkbTlpclVJT3VDWm8wRnZkaFJVS0dMWnAzRkkxSk9pelgwbWV5UWt3bE00eUw3VFNqTjhTbUxVUi1HVGRveG81M2Z3dXllQmowREJlcHZNaGNXUmc5OV9GRDB3LS1Zd3RBUnJhcGRuQURUSnNFdzBtNEFlZ01MM0kyczBOckhHVUZOV3FI?oc=5" target="_blank">Comment les surplus d'impôts ont permis de redresser le déficit en 2025</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
