@@ -1,7 +1,7 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Fri, 27 Mar 2026 17:41:22 +0000`
-> 54 articles (30 derniers jours)
+> Derniere mise a jour : `Sat, 28 Mar 2026 09:41:59 +0000`
+> 52 articles (30 derniers jours)
 
 ---
 
@@ -205,14 +205,6 @@
 
 ---
 
-### [Budget 2027 : 40 milliards d'euros, l'effort impossible qui attend la France pour réduire son déficit - Les Echos](https://news.google.com/rss/articles/CBMi8wFBVV95cUxOQnhLTmc5ZmRTbV8wazNIQzktNWVrSDc0VGl2bjhVakVUNzJ4MkRzaWIxemJiRkJ3bGlLZzdQcVpZYmFVTFI3ZFFvQWwwSDhON3VNNXE2OVR2VUs4TDZBcUJPdGNRbVBfWUxJNXZGWkNQWjVkVHFfUXl4Vng3bXh6X09jUTVMazFuU0VSWmdueWx5cVRKeVZqYmVYeTRqM1NkZzJKb0tCWGZ3ZTRsbmJoT05faW1Gang3XzROYXl3YW92SERhV3BEQk5weXFFdzBzTlpuTmcxVG45by0yY1kwcFFXNGRIVURYWXMtOXRnX0NCVlk?oc=5)
-
-`Thu, 26 Feb 2026 08:00:00 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi8wFBVV95cUxOQnhLTmc5ZmRTbV8wazNIQzktNWVrSDc0VGl2bjhVakVUNzJ4MkRzaWIxemJiRkJ3bGlLZzdQcVpZYmFVTFI3ZFFvQWwwSDhON3VNNXE2OVR2VUs4TDZBcUJPdGNRbVBfWUxJNXZGWkNQWjVkVHFfUXl4Vng3bXh6X09jUTVMazFuU0VSWmdueWx5cVRKeVZqYmVYeTRqM1NkZzJKb0tCWGZ3ZTRsbmJoT05faW1Gang3XzROYXl3YW92SERhV3BEQk5weXFFdzBzTlpuTmcxVG45by0yY1kwcFFXNGRIVURYWXMtOXRnX0NCVlk?oc=5" target="_blank">Budget 2027 : 40 milliards d'euros, l'effort impossible qui attend la France pour réduire son déficit</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
 ### [Salaires : la prime de partage de la valeur perd du terrain dans les entreprises - Les Echos](https://news.google.com/rss/articles/CBMizgFBVV95cUxNVkJzTFNyX2lQUlMwWmF5RVFrc0lLaEprTzJWS3JZN3BVaFIwREo1WTFCVHgwSkI0bUhWVlFXaTRBQnJwT2lMdER2NkNuSEZrd01NcDJqUUR6Q09JQ2tIVDdIWEpYZHBNRUV4bXNXd1RPbHlvX2g0c0FjX2hiSDloWWp0MzRfNXlOaEhKRUlTSGs2TGRad1RIc25GQnJHeTJyQ1dFbWtObG1KM01BUHlBQTVfQWxJZGhXNExfdEZOX3N5VkJuT0JRNWZ6b3hEUQ?oc=5)
 
 `Tue, 17 Mar 2026 16:17:15 GMT`
@@ -242,14 +234,6 @@
 `Sun, 15 Mar 2026 07:00:09 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxQU2hOLVZZRGZqbWc5YVBDOERaTTJqcmdNUng5dE5RZm1fYm1HQjdOSWdhMmRjNTVKQS1RSTAwSS1pZ0Y1X1FmLVk1UmVFNWJoM2dBTzdqYUw4aVItQ19BckhlN1R4SFBqQVNnVENOdHdxLUY5cGhzXzNWXzlkSFQ4RWZUU3hPOGRwNnZ2N01kcjVXdG9WaFVORXF0engtZnRZb2N4bGtFbi1TZUIybUhiRE5xSnNScFJfNFpKWllJdnB6RXM?oc=5" target="_blank">Surtaxe sur les bénéfices : quelles entreprises paient la note ?</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Salaires : la très lente résorption des inégalités femmes-hommes - Les Echos](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcTdFcUJZZV9SMXhZLU9jcFdoT1hXYzBibmkwQUJjQjFKRndQaGJ6dTJIUy02N1cwbmtGOWZjdnNnTVRUOHdYMVBqSWhvaHFNS0hnNmpZRUYtZ0xSeEd5Q0lQREQ1NTIteW85ZUVPTGxSNGUwVXFfWVV0cEZ1dWVIZXhhdGMyM3JUaG1jdVZxUWRaX3NZU3lVRFlfUXZ3eDRyZTZPbmtlVndDUHAtMktvOWhWU2hOYUpE?oc=5)
-
-`Thu, 26 Feb 2026 08:00:00 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcTdFcUJZZV9SMXhZLU9jcFdoT1hXYzBibmkwQUJjQjFKRndQaGJ6dTJIUy02N1cwbmtGOWZjdnNnTVRUOHdYMVBqSWhvaHFNS0hnNmpZRUYtZ0xSeEd5Q0lQREQ1NTIteW85ZUVPTGxSNGUwVXFfWVV0cEZ1dWVIZXhhdGMyM3JUaG1jdVZxUWRaX3NZU3lVRFlfUXZ3eDRyZTZPbmtlVndDUHAtMktvOWhWU2hOYUpE?oc=5" target="_blank">Salaires : la très lente résorption des inégalités femmes-hommes</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
