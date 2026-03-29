@@ -1,7 +1,7 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Sat, 28 Mar 2026 09:41:59 +0000`
-> 52 articles (30 derniers jours)
+> Derniere mise a jour : `Sun, 29 Mar 2026 09:42:16 +0000`
+> 51 articles (30 derniers jours)
 
 ---
 
@@ -170,14 +170,6 @@
 `Tue, 24 Mar 2026 05:05:09 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi7wFBVV95cUxNb2RWYWdkZzR4VnhfWlFIZWsxb3JmWmVEZ3MxTFVGMkhReW54X2ZsRGl1M1VwQjAzYnA2aDdCVFdHYXN1M0tjT09hT3dyVVNlOXZmMEN4WmxybXZMbUdDTHVVQmh6MHE1MDgyaW5UdlpNdlNudWFoX0FMX2wtdS1qV1FMTThLSXExeE5xOTlGWWV0ZW51YXdlNE5QeEVQandCd0NRTWVzbUpUem5MM0x0RU5HVTJzWks3LTVNQUp3VW5Wc2FERTZqRnNZeTZKQ2x4UGFIY3dVN2djV1hzaVhyN3FkVmJFdjB2QVJFYnZWNA?oc=5" target="_blank">« Ça patauge sérieusement » : à mi-parcours, la conférence sociale sur les retraites cherche encore son chemin</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Plus de consommation, moins d'épargne : des frémissements positifs apparaissent pour l'économie française - Les Echos](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNZzZOS3RjcEE4STF0T3FkYjlyUU1Sd0tmUnB2MHlES3l6Y085OHZocmZsekw4SmhCSGwxNTRaeE5nd0V2WUU4RWFaMzI5S2RfZ2Y0VThWdHFyVFRsRnpDUGJ3OGRhald6eU5tNVFPUkhUajU1WEZnejZ1VTVyZFJKV3E4Z2hBbVFGR19KcnlkWTN5WFVncUFtRmt1N1pjelZpcjBDMjctTHdDcm8xdkU4M2tzUW5ENjB0SUs1VjNUT1gxVkhNLXg0OXN1RTNTSTNaeUtSQmdMU1BaMDY3R21kcUwtZlM1SnhwMjM4aUpTYXBBZw?oc=5)
-
-`Fri, 27 Feb 2026 08:00:00 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi8gFBVV95cUxNZzZOS3RjcEE4STF0T3FkYjlyUU1Sd0tmUnB2MHlES3l6Y085OHZocmZsekw4SmhCSGwxNTRaeE5nd0V2WUU4RWFaMzI5S2RfZ2Y0VThWdHFyVFRsRnpDUGJ3OGRhald6eU5tNVFPUkhUajU1WEZnejZ1VTVyZFJKV3E4Z2hBbVFGR19KcnlkWTN5WFVncUFtRmt1N1pjelZpcjBDMjctTHdDcm8xdkU4M2tzUW5ENjB0SUs1VjNUT1gxVkhNLXg0OXN1RTNTSTNaeUtSQmdMU1BaMDY3R21kcUwtZlM1SnhwMjM4aUpTYXBBZw?oc=5" target="_blank">Plus de consommation, moins d'épargne : des frémissements positifs apparaissent pour l'économie française</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
