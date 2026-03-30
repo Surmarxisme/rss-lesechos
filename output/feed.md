@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Sun, 29 Mar 2026 09:42:16 +0000`
-> 51 articles (30 derniers jours)
+> Derniere mise a jour : `Mon, 30 Mar 2026 07:11:56 +0000`
+> 52 articles (30 derniers jours)
+
+---
+
+### [Chômage : FO rallie le compromis sur les ruptures conventionnelles - Les Echos](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNVFHd1Zrak5WX0ozT0lHbzZWN0JBMHFVUG9jNzV3UjdrVnpXUWsxdUxCVmJQZ2lFWFNKU2pCSmxLcWhaaDE1T0EzdW5TMWdtT0ZFSnlSclA2OWNRbUlGOGt3alNQdFRwQmdSVjRVTWZ3MkxZT1FySTFJSXBGeDBRblRJRS1sWDZwMmpPYktOZk1wX2JzcXp2dTc3U1FoOV8weHdnUkFJY3JhZDIyckJyd1hhNVNkTERtUzBz?oc=5)
+
+`Mon, 02 Mar 2026 08:00:00 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNVFHd1Zrak5WX0ozT0lHbzZWN0JBMHFVUG9jNzV3UjdrVnpXUWsxdUxCVmJQZ2lFWFNKU2pCSmxLcWhaaDE1T0EzdW5TMWdtT0ZFSnlSclA2OWNRbUlGOGt3alNQdFRwQmdSVjRVTWZ3MkxZT1FySTFJSXBGeDBRblRJRS1sWDZwMmpPYktOZk1wX2JzcXp2dTc3U1FoOV8weHdnUkFJY3JhZDIyckJyd1hhNVNkTERtUzBz?oc=5" target="_blank">Chômage : FO rallie le compromis sur les ruptures conventionnelles</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
