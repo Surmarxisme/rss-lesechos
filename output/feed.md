@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Tue, 31 Mar 2026 06:58:21 +0000`
-> 58 articles (30 derniers jours)
+> Derniere mise a jour : `Tue, 31 Mar 2026 10:10:19 +0000`
+> 59 articles (30 derniers jours)
+
+---
+
+### [La guerre au Moyen-Orient fait bondir l'inflation en France - Les Echos](https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ3pGQ3ZiaDZiZmp2REV1a28xaG5aMTIwQ3hlTEk3UEZWc1VuNHQ3akNuWVptN3N4ekh2c1VhY3RSdWMweU5XTWhRTy1NOTZnVV9ER1FHaUNDNlF3bk9BOHl3dDZzdDZjUWlxbXoxTk5za3VEQ0taQ2dzSEJJYW9WbDJrSkdxRjF5QVctMW1SWGhTc1VMcmNIWGF3a3FPdG1kSUhCOHMxR01QZFJHSU1NblRfdUJkYUZLb3c?oc=5)
+
+`Tue, 31 Mar 2026 07:47:00 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ3pGQ3ZiaDZiZmp2REV1a28xaG5aMTIwQ3hlTEk3UEZWc1VuNHQ3akNuWVptN3N4ekh2c1VhY3RSdWMweU5XTWhRTy1NOTZnVV9ER1FHaUNDNlF3bk9BOHl3dDZzdDZjUWlxbXoxTk5za3VEQ0taQ2dzSEJJYW9WbDJrSkdxRjF5QVctMW1SWGhTc1VMcmNIWGF3a3FPdG1kSUhCOHMxR01QZFJHSU1NblRfdUJkYUZLb3c?oc=5" target="_blank">La guerre au Moyen-Orient fait bondir l'inflation en France</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
