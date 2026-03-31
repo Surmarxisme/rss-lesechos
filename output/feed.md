@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Mon, 30 Mar 2026 17:43:13 +0000`
-> 57 articles (30 derniers jours)
+> Derniere mise a jour : `Tue, 31 Mar 2026 06:58:21 +0000`
+> 58 articles (30 derniers jours)
+
+---
+
+### [« On est vraiment sur un virage de transformation du métier » : cet accord qui va permettre aux infirmiers de réaliser des « consultations » - Les Echos](https://news.google.com/rss/articles/CBMikwJBVV95cUxPSlBseFdmVmw3X05nd2NKRlB5YTdmbTZkbEZQVGVwQ2Y3ei1rNEU3REtrMnBXaXZwSDN0alpXVnZKXzVqSE1ZdnEwMTJRNnE3Y2ZDT0pkOVI5RXJ6dW1yRTdFMWlTN2RkSWR2ZGF2a184MnBDeGZvdTVsWDhTalFuN3g0VDMtZDBRZ2Z5c2lJVkdaQnFtTmhMTndkeFJ4QUNxM0NzRWNZNUpVSHo2Z3JzMWc0d25qZTlSZ2FuYzRfZkFVcnRaZjc3Q3ZLci1SZGV6ek9SckI2dWUwSWRNck5pTUNxMDR4dkhOSnZuSXBtREFTUHJncm8tTlhWZ3lJRkpKRUtITHIwTXRHYnR3c2pGZXdicw?oc=5)
+
+`Tue, 31 Mar 2026 04:25:08 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMikwJBVV95cUxPSlBseFdmVmw3X05nd2NKRlB5YTdmbTZkbEZQVGVwQ2Y3ei1rNEU3REtrMnBXaXZwSDN0alpXVnZKXzVqSE1ZdnEwMTJRNnE3Y2ZDT0pkOVI5RXJ6dW1yRTdFMWlTN2RkSWR2ZGF2a184MnBDeGZvdTVsWDhTalFuN3g0VDMtZDBRZ2Z5c2lJVkdaQnFtTmhMTndkeFJ4QUNxM0NzRWNZNUpVSHo2Z3JzMWc0d25qZTlSZ2FuYzRfZkFVcnRaZjc3Q3ZLci1SZGV6ek9SckI2dWUwSWRNck5pTUNxMDR4dkhOSnZuSXBtREFTUHJncm8tTlhWZ3lJRkpKRUtITHIwTXRHYnR3c2pGZXdicw?oc=5" target="_blank">« On est vraiment sur un virage de transformation du métier » : cet accord qui va permettre aux infirmiers de réaliser des « consultations »</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
