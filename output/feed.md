@@ -1,7 +1,39 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Wed, 01 Apr 2026 13:00:45 +0000`
-> 60 articles (30 derniers jours)
+> Derniere mise a jour : `Wed, 01 Apr 2026 17:41:03 +0000`
+> 64 articles (30 derniers jours)
+
+---
+
+### [L'emploi intérimaire continue de souffrir en France - Les Echos](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMVA0dC11UVlISFpYR05pRzYxY1lzbjZReDhScWJnbW1ibUowRUFWR1lOeUthODcxUkNHVmhuT3hxakdkZ0FkdDN5OElIOWs3eG9BcjR0ZGlwbHFUNVI1OUc0WXhMRnBYQml0STZyY2REcGdFTE83ZWRCY2J0OEc0Qlo2WF9ydnhfdHhKenlkREJ6RHA0UlpEME5ybm55MGQ3UkNNV3pwUko?oc=5)
+
+`Wed, 01 Apr 2026 16:14:59 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMVA0dC11UVlISFpYR05pRzYxY1lzbjZReDhScWJnbW1ibUowRUFWR1lOeUthODcxUkNHVmhuT3hxakdkZ0FkdDN5OElIOWs3eG9BcjR0ZGlwbHFUNVI1OUc0WXhMRnBYQml0STZyY2REcGdFTE83ZWRCY2J0OEc0Qlo2WF9ydnhfdHhKenlkREJ6RHA0UlpEME5ybm55MGQ3UkNNV3pwUko?oc=5" target="_blank">L'emploi intérimaire continue de souffrir en France</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Bonne ou mauvaise nouvelle ? Le Médiateur des entreprises de plus en plus sollicité par les PME - Les Echos](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQenJNdzhjVWd4RHpHbjlZcTlmWVlTd2xwWEE4QURnTjE4SDJFdWZqYTJ2REZPcU9qRlJWNENkLW52aU85VC1UYl9zdTBJQ1FmbDhhNFhMUnNNRDE3Y2RzeGlzSklzV1lwTmVncVV3djBYelVYd0pRaW1oeXdxaVF3WHptcGFMQnpNM19IYUs1ekJhaXlRM1RKTXZNQnpsbU1jWFk0MGZydHREUVJQbHNDSTFzbExmUkgwZS1iWE15SWN1cWJvdEE1TThJM0Q4Q0pZQjlMNzNJWFZjX3dVaFQtREdsaHBDT0FD?oc=5)
+
+`Wed, 01 Apr 2026 15:00:55 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi6AFBVV95cUxQenJNdzhjVWd4RHpHbjlZcTlmWVlTd2xwWEE4QURnTjE4SDJFdWZqYTJ2REZPcU9qRlJWNENkLW52aU85VC1UYl9zdTBJQ1FmbDhhNFhMUnNNRDE3Y2RzeGlzSklzV1lwTmVncVV3djBYelVYd0pRaW1oeXdxaVF3WHptcGFMQnpNM19IYUs1ekJhaXlRM1RKTXZNQnpsbU1jWFk0MGZydHREUVJQbHNDSTFzbExmUkgwZS1iWE15SWN1cWJvdEE1TThJM0Q4Q0pZQjlMNzNJWFZjX3dVaFQtREdsaHBDT0FD?oc=5" target="_blank">Bonne ou mauvaise nouvelle ? Le Médiateur des entreprises de plus en plus sollicité par les PME</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [« L'effort pourrait se situer autour de 5 milliards » : les collectivités locales sous pression à l'approche du budget 2027 - Les Echos](https://news.google.com/rss/articles/CBMijAJBVV95cUxQTU1OYVlIaUFFbHI1SkpQUGc1b3RhVjdhVDRTX3ZJb2RPM0d4clRVeTduUmw2WmpPZ3lWcXRqM05yNHdMQmsyTWIyWE8zcmlManhOd2RLLVhBUFhWN3VZM2piYzFfQVRnMVBjQmJTOF9WMVZWSnFRVkU5Uk1hUF9yOVQybjZTSkhwSGlkZmdmbEo2NW1nM1JqM012cERUaXA4YmROV3R3TW1NWVlhbllUVkVqd01ISGZ0Z2dEZUxaRUduYl9ORjRUY2lBNG5xS2FEaU04azBFaEs5SVNEdHVWQjRlRklzWFdtS3BQTHZDWHRBLUhUT0RBOHNYdHc2V3FmaWZFS3U4OG43VTNC?oc=5)
+
+`Wed, 01 Apr 2026 15:26:40 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMijAJBVV95cUxQTU1OYVlIaUFFbHI1SkpQUGc1b3RhVjdhVDRTX3ZJb2RPM0d4clRVeTduUmw2WmpPZ3lWcXRqM05yNHdMQmsyTWIyWE8zcmlManhOd2RLLVhBUFhWN3VZM2piYzFfQVRnMVBjQmJTOF9WMVZWSnFRVkU5Uk1hUF9yOVQybjZTSkhwSGlkZmdmbEo2NW1nM1JqM012cERUaXA4YmROV3R3TW1NWVlhbllUVkVqd01ISGZ0Z2dEZUxaRUduYl9ORjRUY2lBNG5xS2FEaU04azBFaEs5SVNEdHVWQjRlRklzWFdtS3BQTHZDWHRBLUhUT0RBOHNYdHc2V3FmaWZFS3U4OG43VTNC?oc=5" target="_blank">« L'effort pourrait se situer autour de 5 milliards » : les collectivités locales sous pression à l'approche du budget 2027</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Carburants : le mirage du « surplus » fiscal - Les Echos](https://news.google.com/rss/articles/CBMipgFBVV95cUxNckJiQjlVUXluVy16Y2t5SzBleURpSUVLVVpYVjZyeGIyX084Q2RPYjFIT3AxLXJtSW1OQWZHOUZYVFR4NDE2OFBoS3RHYkVDQ3padWU4R0Y3WDFjXzZmMjg4Z01sWkd4WVRpam9CX0ZyZGhGSFdkdnlwSnItOGVLaE11c1JQeDJxODA0cnNBYXFEN2VPUE9FQkFTZWRTRlZPV2pnT09n?oc=5)
+
+`Wed, 01 Apr 2026 17:05:16 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMipgFBVV95cUxNckJiQjlVUXluVy16Y2t5SzBleURpSUVLVVpYVjZyeGIyX084Q2RPYjFIT3AxLXJtSW1OQWZHOUZYVFR4NDE2OFBoS3RHYkVDQ3padWU4R0Y3WDFjXzZmMjg4Z01sWkd4WVRpam9CX0ZyZGhGSFdkdnlwSnItOGVLaE11c1JQeDJxODA0cnNBYXFEN2VPUE9FQkFTZWRTRlZPV2pnT09n?oc=5" target="_blank">Carburants : le mirage du « surplus » fiscal</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
