@@ -1,7 +1,7 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Wed, 01 Apr 2026 07:05:32 +0000`
-> 62 articles (30 derniers jours)
+> Derniere mise a jour : `Wed, 01 Apr 2026 10:11:04 +0000`
+> 60 articles (30 derniers jours)
 
 ---
 
@@ -82,14 +82,6 @@
 `Fri, 27 Mar 2026 21:33:24 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMiXEFVX3lxTE9JSTRqVndUdG9LVEhXQTQ4YlFrUFEyX3ZkTUR2N184NDJ0Uk5rdk9NWkpZWk1IdmI1OHdCWTdueDFDb2Z6Y2hsZW5zUjFITWtQLUpSd3FzUUprc3Rw?oc=5" target="_blank">Économie | Page 234</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Chômage : FO rallie le compromis sur les ruptures conventionnelles - Les Echos](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNVFHd1Zrak5WX0ozT0lHbzZWN0JBMHFVUG9jNzV3UjdrVnpXUWsxdUxCVmJQZ2lFWFNKU2pCSmxLcWhaaDE1T0EzdW5TMWdtT0ZFSnlSclA2OWNRbUlGOGt3alNQdFRwQmdSVjRVTWZ3MkxZT1FySTFJSXBGeDBRblRJRS1sWDZwMmpPYktOZk1wX2JzcXp2dTc3U1FoOV8weHdnUkFJY3JhZDIyckJyd1hhNVNkTERtUzBz?oc=5)
-
-`Mon, 02 Mar 2026 08:00:00 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNVFHd1Zrak5WX0ozT0lHbzZWN0JBMHFVUG9jNzV3UjdrVnpXUWsxdUxCVmJQZ2lFWFNKU2pCSmxLcWhaaDE1T0EzdW5TMWdtT0ZFSnlSclA2OWNRbUlGOGt3alNQdFRwQmdSVjRVTWZ3MkxZT1FySTFJSXBGeDBRblRJRS1sWDZwMmpPYktOZk1wX2JzcXp2dTc3U1FoOV8weHdnUkFJY3JhZDIyckJyd1hhNVNkTERtUzBz?oc=5" target="_blank">Chômage : FO rallie le compromis sur les ruptures conventionnelles</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -186,14 +178,6 @@
 `Wed, 25 Mar 2026 19:00:09 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMirgJBVV95cUxQdWJXMEdidVRXUWNDNDFQX25UMktxWkhuOUtVMTFwNHA1UEk0LWtTZVQtRmM3aDlLNGhhQ1VOUEVYTE13bUVCY3dEaDdXU2VGYklRaUJ3eU8xX010ZDU1UTVvanNWOFlwdDNiZTM5RjU0VHpzRWtQeTJ0OUZESlJZcWlXb2xYdzl2YkluTEpiVGpXVERCTXUza003QUhEb1RWLVQybGxCSWVKTV9vUHlhOFFyUWx0THBnSEJLRkhNdUxCUXlFaVA4Q2xLRzFybjU3T2VIZ1B2cU9uNXdYZDkxYk1GMEFXb254dWJ2dmo2bFRxNjhjdjJmVlZ3d0FpcE5MZ1RLN0FGdW9sRFItZ2h1WVdMMVlqNHRNbWlqZ1dQWG1STGtOS0tRaXl6RkZzZw?oc=5" target="_blank">« La France n'a plus les moyens de prendre des mesures générales » sur le prix des carburants : le rappel sans fard du gouverneur de la Banque de France</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Impôts : les responsables politiques appelés à un sursaut en faveur des entreprises - Les Echos](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPR0M4WjJQNHhnTjRzb0h5TGljOFFrbmlCQ2RxYURjS1BwU3k4Sklna0c5ZmRuNVN5eHBiYll0M2dDeDBuN2dXelhiclB5QV9qVzY3X3hxUTFqRTZ2V3pYRmxyS3p4M2RDR25XMHp6akc0REllUWExbnNPT2ZhQTM4TWxMbEE2RnBWLUNfMmZ0SVpRY3dSVkxWSWIxVk1hZFhId1B1Y2RMODdTc1JUcnFhdHVNLU5GNVAtdUxTTkRzU2JPSEE4UDVqNXBPcVFKQkx5YkE?oc=5)
-
-`Mon, 02 Mar 2026 08:00:00 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi0gFBVV95cUxPR0M4WjJQNHhnTjRzb0h5TGljOFFrbmlCQ2RxYURjS1BwU3k4Sklna0c5ZmRuNVN5eHBiYll0M2dDeDBuN2dXelhiclB5QV9qVzY3X3hxUTFqRTZ2V3pYRmxyS3p4M2RDR25XMHp6akc0REllUWExbnNPT2ZhQTM4TWxMbEE2RnBWLUNfMmZ0SVpRY3dSVkxWSWIxVk1hZFhId1B1Y2RMODdTc1JUcnFhdHVNLU5GNVAtdUxTTkRzU2JPSEE4UDVqNXBPcVFKQkx5YkE?oc=5" target="_blank">Impôts : les responsables politiques appelés à un sursaut en faveur des entreprises</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
