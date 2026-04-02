@@ -1,7 +1,23 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Thu, 02 Apr 2026 12:54:37 +0000`
-> 65 articles (30 derniers jours)
+> Derniere mise a jour : `Thu, 02 Apr 2026 17:40:11 +0000`
+> 67 articles (30 derniers jours)
+
+---
+
+### [Bercy lève un coin du voile sur les 13.000 contribuables fortunés qui ne paient aucun impôt sur le revenu - Les Echos](https://news.google.com/rss/articles/CBMi_gFBVV95cUxQTDR0OHp3YzJZSW93eWx5SUNKVUJMZzJSWG1JY1lTaGE5ajQ2dG42cV90d2hjaXItSnVLbHpUUkxIeUdaelk4WHJNZkRtbHowVGphQmw3LVlzeDNkeFRVU0hLMnVzRDdtX1ZOMUJ1eE9wWl80X044LWJUQ3g0enFPaWFpbmZvTzd4Z3lvcEJQcFB5NGdOMDlUQjJjQ3BHcjNfSW5aYUlObDRON2dTclRicE5WTmRoWVJxaDlLN0FJTkdET1RrZnR5RDBkVmphUGtzQTc2OHltS3JqdjNzNTJnYlFxdmpVOG5YaXhQTGszTHN4MURtYkJlYkl2YzFSZw?oc=5)
+
+`Thu, 02 Apr 2026 17:11:04 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi_gFBVV95cUxQTDR0OHp3YzJZSW93eWx5SUNKVUJMZzJSWG1JY1lTaGE5ajQ2dG42cV90d2hjaXItSnVLbHpUUkxIeUdaelk4WHJNZkRtbHowVGphQmw3LVlzeDNkeFRVU0hLMnVzRDdtX1ZOMUJ1eE9wWl80X044LWJUQ3g0enFPaWFpbmZvTzd4Z3lvcEJQcFB5NGdOMDlUQjJjQ3BHcjNfSW5aYUlObDRON2dTclRicE5WTmRoWVJxaDlLN0FJTkdET1RrZnR5RDBkVmphUGtzQTc2OHltS3JqdjNzNTJnYlFxdmpVOG5YaXhQTGszTHN4MURtYkJlYkl2YzFSZw?oc=5" target="_blank">Bercy lève un coin du voile sur les 13.000 contribuables fortunés qui ne paient aucun impôt sur le revenu</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [SONDAGE EXCLUSIF - Moins de voiture, moins de sorties et de shopping : les Français adaptent leur budget à la hausse des prix des carburants - Les Echos](https://news.google.com/rss/articles/CBMiigJBVV95cUxOX25ScjdNaGxGUjVIZXNTLWpNUHNiQm5mWHl4MnNqVGNfOWdZTVNMeU9wLV9SU19uRnBMOGZKWlVaV0lTb1lXSmdDMl81eXpJTmNDMDRkUXAtY3M0ZV9nMEg3T0tUZWo4SFRQblZLeVA1T3o2M0x1RlhXMzZPOTlkOXA5MDNwbjlyX2dUVmw3clVHb2VnZEpxeUxPaFZHVTJvSlQ2S0k2YkRvWVFCc0ZHNE1MNEg5bUVXQVBnLVlOMS1pcUtqNzhLdlpSMnZ5LUMycHZRbERNLTBycUlrOVN2SGIyaTdmZ0x4RGFkalQ0MzNpd19WZGdvR3dWbWhOSl9XLThhVVR4QWNNdw?oc=5)
+
+`Thu, 02 Apr 2026 15:00:31 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiigJBVV95cUxOX25ScjdNaGxGUjVIZXNTLWpNUHNiQm5mWHl4MnNqVGNfOWdZTVNMeU9wLV9SU19uRnBMOGZKWlVaV0lTb1lXSmdDMl81eXpJTmNDMDRkUXAtY3M0ZV9nMEg3T0tUZWo4SFRQblZLeVA1T3o2M0x1RlhXMzZPOTlkOXA5MDNwbjlyX2dUVmw3clVHb2VnZEpxeUxPaFZHVTJvSlQ2S0k2YkRvWVFCc0ZHNE1MNEg5bUVXQVBnLVlOMS1pcUtqNzhLdlpSMnZ5LUMycHZRbERNLTBycUlrOVN2SGIyaTdmZ0x4RGFkalQ0MzNpd19WZGdvR3dWbWhOSl9XLThhVVR4QWNNdw?oc=5" target="_blank">SONDAGE EXCLUSIF - Moins de voiture, moins de sorties et de shopping : les Français adaptent leur budget à la hausse des prix des carburants</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
