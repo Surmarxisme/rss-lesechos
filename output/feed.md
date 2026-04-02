@@ -1,7 +1,7 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Thu, 02 Apr 2026 06:56:39 +0000`
-> 64 articles (30 derniers jours)
+> Derniere mise a jour : `Thu, 02 Apr 2026 10:05:59 +0000`
+> 63 articles (30 derniers jours)
 
 ---
 
@@ -506,13 +506,5 @@
 `Thu, 05 Mar 2026 06:51:11 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdkx4cXl6aHRhNFVfZGxlQjNrYk1KaFVOWGp2VUpCSkNsQ2Z0NFR4UEgxUG9PVGY3MGVsREEycFlOSFF0WFl1bXdOYlM2d1BLSWpTdW1sZVFxakpQMXBQZHl1b3VqcEpzUzhSUTFqcWxUZ2NvWnlxMlN6ajhlQ0hXa2tXVVR2QUx1SlV3Z2FBdWcxU1YtTmNkSG8wYXpNVmZXd1Vaa3BKRHNRTTY2enl4T0pGTlJoUXVuMHZ6RFNKTXR0c2tnRHRqNm9rY21RTEo0OEE0b2V6SGhIb1ZEOVVN?oc=5" target="_blank">« La productivité est la clé essentielle pour résoudre les principaux problèmes français »</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Salaires des cadres : les inégalités entre les femmes et les hommes persistent - Les Echos](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeHhWRDdtYm5IWW5hYmxDNjJuWlYxbWo1b1ppLU9LZDc5R0drb1lBaUE2bTJVZ0ZmUzRKQVlwcGNYUERUMFh6bXZ5YnBlQ3VwNXRtV3pCNnd4ZjZSZmRydWMyTXlYeDdJd1lfSXNjS0tMcnlWRE9ZaEtaZWhSbFctQlFnckltNFdBbjFPY2pGTFYwcVc1S0c3OWgxN2R5VGdZSlB5VDhVM3RvWTdaVFYzLXlVOWVjNnVvYWVtZlVHZm0?oc=5)
-
-`Tue, 03 Mar 2026 08:00:00 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeHhWRDdtYm5IWW5hYmxDNjJuWlYxbWo1b1ppLU9LZDc5R0drb1lBaUE2bTJVZ0ZmUzRKQVlwcGNYUERUMFh6bXZ5YnBlQ3VwNXRtV3pCNnd4ZjZSZmRydWMyTXlYeDdJd1lfSXNjS0tMcnlWRE9ZaEtaZWhSbFctQlFnckltNFdBbjFPY2pGTFYwcVc1S0c3OWgxN2R5VGdZSlB5VDhVM3RvWTdaVFYzLXlVOWVjNnVvYWVtZlVHZm0?oc=5" target="_blank">Salaires des cadres : les inégalités entre les femmes et les hommes persistent</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
