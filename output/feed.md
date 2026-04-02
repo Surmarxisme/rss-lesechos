@@ -1,7 +1,23 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Thu, 02 Apr 2026 10:05:59 +0000`
-> 63 articles (30 derniers jours)
+> Derniere mise a jour : `Thu, 02 Apr 2026 12:54:37 +0000`
+> 65 articles (30 derniers jours)
+
+---
+
+### [Le recrutement des cadres pourrait repartir à la hausse après deux années sombres - Les Echos](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNE1ZaHV5bWxzYl9SazdaRmtXNjMtRXEtQnVMZlRpMDZUTDBPVzNXQTU2S2pEc1BndnZQNjRkZDdpcEVXdUsyTkc0WXJFbkcxZmoyV2tnNXhZQUUwb1Z4SGhFb2hicXk1a3p0UnlXTDFVV3F3NUt1WTFWWEEzUnpDOE9aeEpPRzBvdjl1RW9YS0FRcmNOeHI3T2NTLWtDZTlGYTdsOGpfYjdlOERmNF9MTjZvR2dGbjZtOUNmT3RlRkVCQ2NKM2wtcjhCbjMyX0RQZ1E?oc=5)
+
+`Thu, 02 Apr 2026 11:03:36 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNE1ZaHV5bWxzYl9SazdaRmtXNjMtRXEtQnVMZlRpMDZUTDBPVzNXQTU2S2pEc1BndnZQNjRkZDdpcEVXdUsyTkc0WXJFbkcxZmoyV2tnNXhZQUUwb1Z4SGhFb2hicXk1a3p0UnlXTDFVV3F3NUt1WTFWWEEzUnpDOE9aeEpPRzBvdjl1RW9YS0FRcmNOeHI3T2NTLWtDZTlGYTdsOGpfYjdlOERmNF9MTjZvR2dGbjZtOUNmT3RlRkVCQ2NKM2wtcjhCbjMyX0RQZ1E?oc=5" target="_blank">Le recrutement des cadres pourrait repartir à la hausse après deux années sombres</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Social : actualités, analyses et vidéos - Les Echos | Page 137 - Les Echos](https://news.google.com/rss/articles/CBMiZkFVX3lxTE50S1BtcHc0YjNjZGphQlBEcmQ4RUthX2tVWnFFZGdhNGg5T3Z5VFpLdmtLUmRJT0szak1zOERibXZzdm0tc3RHeTd0ZkNSU0JNOUJhUTdBenBXNW41VTRYZU44ZmJYdw?oc=5)
+
+`Mon, 30 Mar 2026 21:54:47 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiZkFVX3lxTE50S1BtcHc0YjNjZGphQlBEcmQ4RUthX2tVWnFFZGdhNGg5T3Z5VFpLdmtLUmRJT0szak1zOERibXZzdm0tc3RHeTd0ZkNSU0JNOUJhUTdBenBXNW41VTRYZU44ZmJYdw?oc=5" target="_blank">Social : actualités, analyses et vidéos - Les Echos | Page 137</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 

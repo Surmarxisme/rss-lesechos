@@ -2,10 +2,28 @@
   "source": "Les Echos - Economie France",
   "source_url": "https://www.lesechos.fr/economie-france",
   "language": "fr-FR",
-  "last_fetched": "Thu, 02 Apr 2026 10:05:59 +0000",
-  "total_items": 63,
-  "new_items_this_run": 0,
+  "last_fetched": "Thu, 02 Apr 2026 12:54:37 +0000",
+  "total_items": 65,
+  "new_items_this_run": 2,
   "articles": [
+    {
+      "id": "CBMi0gFBVV95cUxQNE1ZaHV5bWxzYl9SazdaRmtXNjMtRXEtQnVMZlRpMDZUTDBPVzNXQTU2S2pEc1BndnZQNjRkZDdpcEVXdUsyTkc0WXJFbkcxZmoyV2tnNXhZQUUwb1Z4SGhFb2hicXk1a3p0UnlXTDFVV3F3NUt1WTFWWEEzUnpDOE9aeEpPRzBvdjl1RW9YS0FRcmNOeHI3T2NTLWtDZTlGYTdsOGpfYjdlOERmNF9MTjZvR2dGbjZtOUNmT3RlRkVCQ2NKM2wtcjhCbjMyX0RQZ1E",
+      "title": "Le recrutement des cadres pourrait repartir à la hausse après deux années sombres - Les Echos",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNE1ZaHV5bWxzYl9SazdaRmtXNjMtRXEtQnVMZlRpMDZUTDBPVzNXQTU2S2pEc1BndnZQNjRkZDdpcEVXdUsyTkc0WXJFbkcxZmoyV2tnNXhZQUUwb1Z4SGhFb2hicXk1a3p0UnlXTDFVV3F3NUt1WTFWWEEzUnpDOE9aeEpPRzBvdjl1RW9YS0FRcmNOeHI3T2NTLWtDZTlGYTdsOGpfYjdlOERmNF9MTjZvR2dGbjZtOUNmT3RlRkVCQ2NKM2wtcjhCbjMyX0RQZ1E?oc=5\" target=\"_blank\">Le recrutement des cadres pourrait repartir à la hausse après deux années sombres</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Les Echos</font>",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNE1ZaHV5bWxzYl9SazdaRmtXNjMtRXEtQnVMZlRpMDZUTDBPVzNXQTU2S2pEc1BndnZQNjRkZDdpcEVXdUsyTkc0WXJFbkcxZmoyV2tnNXhZQUUwb1Z4SGhFb2hicXk1a3p0UnlXTDFVV3F3NUt1WTFWWEEzUnpDOE9aeEpPRzBvdjl1RW9YS0FRcmNOeHI3T2NTLWtDZTlGYTdsOGpfYjdlOERmNF9MTjZvR2dGbjZtOUNmT3RlRkVCQ2NKM2wtcjhCbjMyX0RQZ1E?oc=5",
+      "source": "Les Echos",
+      "pub_date": "Thu, 02 Apr 2026 11:03:36 GMT",
+      "pub_date_iso": "2026-04-02T11:03:36+00:00"
+    },
+    {
+      "id": "CBMiZkFVX3lxTE50S1BtcHc0YjNjZGphQlBEcmQ4RUthX2tVWnFFZGdhNGg5T3Z5VFpLdmtLUmRJT0szak1zOERibXZzdm0tc3RHeTd0ZkNSU0JNOUJhUTdBenBXNW41VTRYZU44ZmJYdw",
+      "title": "Social : actualités, analyses et vidéos - Les Echos | Page 137 - Les Echos",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE50S1BtcHc0YjNjZGphQlBEcmQ4RUthX2tVWnFFZGdhNGg5T3Z5VFpLdmtLUmRJT0szak1zOERibXZzdm0tc3RHeTd0ZkNSU0JNOUJhUTdBenBXNW41VTRYZU44ZmJYdw?oc=5\" target=\"_blank\">Social : actualités, analyses et vidéos - Les Echos | Page 137</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Les Echos</font>",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE50S1BtcHc0YjNjZGphQlBEcmQ4RUthX2tVWnFFZGdhNGg5T3Z5VFpLdmtLUmRJT0szak1zOERibXZzdm0tc3RHeTd0ZkNSU0JNOUJhUTdBenBXNW41VTRYZU44ZmJYdw?oc=5",
+      "source": "Les Echos",
+      "pub_date": "Mon, 30 Mar 2026 21:54:47 GMT",
+      "pub_date_iso": "2026-03-30T21:54:47+00:00"
+    },
     {
       "id": "CBMiqAFBVV95cUxPMVA0dC11UVlISFpYR05pRzYxY1lzbjZReDhScWJnbW1ibUowRUFWR1lOeUthODcxUkNHVmhuT3hxakdkZ0FkdDN5OElIOWs3eG9BcjR0ZGlwbHFUNVI1OUc0WXhMRnBYQml0STZyY2REcGdFTE83ZWRCY2J0OEc0Qlo2WF9ydnhfdHhKenlkREJ6RHA0UlpEME5ybm55MGQ3UkNNV3pwUko",
       "title": "L'emploi intérimaire continue de souffrir en France - Les Echos",
