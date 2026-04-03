@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Fri, 03 Apr 2026 09:56:59 +0000`
-> 68 articles (30 derniers jours)
+> Derniere mise a jour : `Fri, 03 Apr 2026 12:43:33 +0000`
+> 69 articles (30 derniers jours)
+
+---
+
+### [Prix des carburants : Bercy chiffre à 270 millions le surplus fiscal en mars mais alerte sur l'envol de la facture de la dette - Les Echos](https://news.google.com/rss/articles/CBMilwJBVV95cUxPUHVxZDZyNWZqeHhsVHNqUnRDVV9rLUJoY3JLSURHOElJNi1VN0dna2hnRUhSczkzem9KUktob1NkVC1kUGl4X29pWDZfY3psb04tTjM1NGdWT3RTMGJLS3dzOFVtMTFqOHRfTTEwUXU3bGZ2Wkl4bHFiZmFkdm9uVlkxUVFUVzFTN2FqUmduY1BGMnBLUndJRUI3T1VtNFZldGRoOXFyWkl3SzVyS3pBNXV0bkIwS0ZRYXA3ZEY0dlN6aW52TkEtT0V2eUFuVENTdnFpTHZTdGJZdVU3aFZjc3hZQ0dKRHRNVmNRd3A3ZjRfMjdkdU41eFlQTWc4cTgzWlFtT0hIbk9ndVd3SXNUUGNWWjhYc0k?oc=5)
+
+`Fri, 03 Apr 2026 11:18:13 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMilwJBVV95cUxPUHVxZDZyNWZqeHhsVHNqUnRDVV9rLUJoY3JLSURHOElJNi1VN0dna2hnRUhSczkzem9KUktob1NkVC1kUGl4X29pWDZfY3psb04tTjM1NGdWT3RTMGJLS3dzOFVtMTFqOHRfTTEwUXU3bGZ2Wkl4bHFiZmFkdm9uVlkxUVFUVzFTN2FqUmduY1BGMnBLUndJRUI3T1VtNFZldGRoOXFyWkl3SzVyS3pBNXV0bkIwS0ZRYXA3ZEY0dlN6aW52TkEtT0V2eUFuVENTdnFpTHZTdGJZdVU3aFZjc3hZQ0dKRHRNVmNRd3A3ZjRfMjdkdU41eFlQTWc4cTgzWlFtT0hIbk9ndVd3SXNUUGNWWjhYc0k?oc=5" target="_blank">Prix des carburants : Bercy chiffre à 270 millions le surplus fiscal en mars mais alerte sur l'envol de la facture de la dette</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
