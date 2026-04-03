@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Fri, 03 Apr 2026 06:53:48 +0000`
-> 67 articles (30 derniers jours)
+> Derniere mise a jour : `Fri, 03 Apr 2026 09:56:59 +0000`
+> 68 articles (30 derniers jours)
+
+---
+
+### [La météo clémente fait chuter la production industrielle - Les Echos](https://news.google.com/rss/articles/CBMitwFBVV95cUxPZjNXdjVSX3dGQzhwWjNJMHlnNHdZU0xFa01BQ2syN0VGSVVDRHM1V0JNOGtndjY3NkYtNW1vVXd4cjdGVFlRRnF2TTBKVFZaOTg4Z1hObTA0SjVRZ2pLSXFFdW1CbDZmcXpNMTdkVGV2Q3A5czFZdTFkcEN1TzZWSzVQVm9wYnEzT0JKVGtUNVJZalh2NzgtWmgtOVRUSG12dkVBVndsSTlFLXUyNVZKcmNneWQ1Xzg?oc=5)
+
+`Fri, 03 Apr 2026 09:38:09 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxPZjNXdjVSX3dGQzhwWjNJMHlnNHdZU0xFa01BQ2syN0VGSVVDRHM1V0JNOGtndjY3NkYtNW1vVXd4cjdGVFlRRnF2TTBKVFZaOTg4Z1hObTA0SjVRZ2pLSXFFdW1CbDZmcXpNMTdkVGV2Q3A5czFZdTFkcEN1TzZWSzVQVm9wYnEzT0JKVGtUNVJZalh2NzgtWmgtOVRUSG12dkVBVndsSTlFLXUyNVZKcmNneWQ1Xzg?oc=5" target="_blank">La météo clémente fait chuter la production industrielle</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
