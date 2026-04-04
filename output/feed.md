@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Fri, 03 Apr 2026 17:24:57 +0000`
-> 69 articles (30 derniers jours)
+> Derniere mise a jour : `Sat, 04 Apr 2026 09:43:14 +0000`
+> 68 articles (30 derniers jours)
+
+---
+
+### [Prix du carburant : Bercy lance un « prêt flash » pour certaines entreprises - Les Echos](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWUFKR01MaXJVOWhmX3R3OWV2SHA2ZU5FeTAwZFJoc0hRZHVOT1IxM1ZoVGVWb2JOa0FFWV9LVFFUdi1IRlpGLUhnc0JFdTNQUVE0MXRVRnpsbjY3Mnpwd2h5b3J1V0FUYnFNUm1LTEJLcHNlaHl3Nmk4UnE4MUtaUjR5YTNuNGVwZmNBVUNVdHREMGNNTEhmRHFUNXVMd2x3b0NrWm5ienM3R25hUXlDNkw4MzlnanpaXzhhV2xYZW9ZZk11YU5qeml0NGdKa2FB?oc=5)
+
+`Sat, 04 Apr 2026 06:19:03 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWUFKR01MaXJVOWhmX3R3OWV2SHA2ZU5FeTAwZFJoc0hRZHVOT1IxM1ZoVGVWb2JOa0FFWV9LVFFUdi1IRlpGLUhnc0JFdTNQUVE0MXRVRnpsbjY3Mnpwd2h5b3J1V0FUYnFNUm1LTEJLcHNlaHl3Nmk4UnE4MUtaUjR5YTNuNGVwZmNBVUNVdHREMGNNTEhmRHFUNXVMd2x3b0NrWm5ienM3R25hUXlDNkw4MzlnanpaXzhhV2xYZW9ZZk11YU5qeml0NGdKa2FB?oc=5" target="_blank">Prix du carburant : Bercy lance un « prêt flash » pour certaines entreprises</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -538,21 +546,5 @@
 `Thu, 05 Mar 2026 16:08:15 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi6wFBVV95cUxNdHNKNzZrRk1wdjJFZExIVFdqUkRMSnc5Q0tQRk43UmdUTzZ0NEVadUJRUWFXeGRYWml0b0E0ZTVjSnEzU05XZjBYZFZPczJWYUE4VUIwem1qU09lUDVyd1pRQnRzNVM5MHBYYmxDZVNnV1JCS3ZsZDdPYjduX2VXc2NSWkY5b1RLcldNRURvdEt4Z2JqNVRKQ0ptcXptYnJpUTNCcjFVejU2cTYxaEhyZzhzWWt0enZ5b3FJRDNQbkZSWWRuYkpaOU5MNkhpbE1pWTFaLVNjVnhsRFhhR2dfUHFTaEZfcHVjTGdN?oc=5" target="_blank">SONDAGE EXCLUSIF - Chômage : la rupture conventionnelle, un outil jugé utile par une majorité de Français</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [EXCLUSIF - Egalité femmes-hommes dans les grandes entreprises : la France doublée par l'Espagne - Les Echos](https://news.google.com/rss/articles/CBMi3gFBVV95cUxONjBlTXZDTkVIMEl2V29ETFZ0Y2VUSGNNYTJIRjhaY3pyTHJ0QzBwQnpIc0hmV19oY2ZQVzhNLVZWekx1d3ZDZE8xbjZubkhsekszdVJ3bWFidUJDQ2lYdjNpU25NcTBJeExGdV9iYjIweWVkZ0o5dmFUdkw5SVdEVjVZQmVaOEhuRWZmU0NuU29ZY21Yc1E2WU5KWlE5TDg2RVlJc2tpU0FMcHFFTlpTUndaemltUUFYZEVvVjB0NjJ6MlNNX2NEY2Q5YWhZdFhvU2Z4VzVkS3VjZmdJaXc?oc=5)
-
-`Thu, 05 Mar 2026 05:00:08 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi3gFBVV95cUxONjBlTXZDTkVIMEl2V29ETFZ0Y2VUSGNNYTJIRjhaY3pyTHJ0QzBwQnpIc0hmV19oY2ZQVzhNLVZWekx1d3ZDZE8xbjZubkhsekszdVJ3bWFidUJDQ2lYdjNpU25NcTBJeExGdV9iYjIweWVkZ0o5dmFUdkw5SVdEVjVZQmVaOEhuRWZmU0NuU29ZY21Yc1E2WU5KWlE5TDg2RVlJc2tpU0FMcHFFTlpTUndaemltUUFYZEVvVjB0NjJ6MlNNX2NEY2Q5YWhZdFhvU2Z4VzVkS3VjZmdJaXc?oc=5" target="_blank">EXCLUSIF - Egalité femmes-hommes dans les grandes entreprises : la France doublée par l'Espagne</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [« La productivité est la clé essentielle pour résoudre les principaux problèmes français » - Les Echos](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdkx4cXl6aHRhNFVfZGxlQjNrYk1KaFVOWGp2VUpCSkNsQ2Z0NFR4UEgxUG9PVGY3MGVsREEycFlOSFF0WFl1bXdOYlM2d1BLSWpTdW1sZVFxakpQMXBQZHl1b3VqcEpzUzhSUTFqcWxUZ2NvWnlxMlN6ajhlQ0hXa2tXVVR2QUx1SlV3Z2FBdWcxU1YtTmNkSG8wYXpNVmZXd1Vaa3BKRHNRTTY2enl4T0pGTlJoUXVuMHZ6RFNKTXR0c2tnRHRqNm9rY21RTEo0OEE0b2V6SGhIb1ZEOVVN?oc=5)
-
-`Thu, 05 Mar 2026 06:51:11 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdkx4cXl6aHRhNFVfZGxlQjNrYk1KaFVOWGp2VUpCSkNsQ2Z0NFR4UEgxUG9PVGY3MGVsREEycFlOSFF0WFl1bXdOYlM2d1BLSWpTdW1sZVFxakpQMXBQZHl1b3VqcEpzUzhSUTFqcWxUZ2NvWnlxMlN6ajhlQ0hXa2tXVVR2QUx1SlV3Z2FBdWcxU1YtTmNkSG8wYXpNVmZXd1Vaa3BKRHNRTTY2enl4T0pGTlJoUXVuMHZ6RFNKTXR0c2tnRHRqNm9rY21RTEo0OEE0b2V6SGhIb1ZEOVVN?oc=5" target="_blank">« La productivité est la clé essentielle pour résoudre les principaux problèmes français »</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
