@@ -1,7 +1,23 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Sat, 04 Apr 2026 09:43:14 +0000`
-> 68 articles (30 derniers jours)
+> Derniere mise a jour : `Sun, 05 Apr 2026 09:43:27 +0000`
+> 67 articles (30 derniers jours)
+
+---
+
+### [EXCLUSIF - Pourquoi l'aide à domicile va coûter plus cher pour de nombreux seniors - Les Echos](https://news.google.com/rss/articles/CBMizwFBVV95cUxNN3FTUzhiaVRoWm8tQW9IdlNhbndWdlQ4WVg4cWZKRC16N29lTXl3UkhiOFIzTE4weld1QVZzNWFQY2JZQzZfWFIzSUxLMU1mZFZGbE1vczJIUmZHNVlFRFc3NG1aTmVVUkpZMTYxQ20zUzVuSWFjZ082YkhLS05LMTUzTk1QRlVVZUlUcDJCZDd3RFhGZVZIUjFSNzFibmZraUpCajdwOVNKMm5Na3NEY2hyWDJkNk1hUzNhUXJuVi1BNGdJZ3FtTEF1cS1UazQ?oc=5)
+
+`Sat, 04 Apr 2026 12:00:35 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMizwFBVV95cUxNN3FTUzhiaVRoWm8tQW9IdlNhbndWdlQ4WVg4cWZKRC16N29lTXl3UkhiOFIzTE4weld1QVZzNWFQY2JZQzZfWFIzSUxLMU1mZFZGbE1vczJIUmZHNVlFRFc3NG1aTmVVUkpZMTYxQ20zUzVuSWFjZ082YkhLS05LMTUzTk1QRlVVZUlUcDJCZDd3RFhGZVZIUjFSNzFibmZraUpCajdwOVNKMm5Na3NEY2hyWDJkNk1hUzNhUXJuVi1BNGdJZ3FtTEF1cS1UazQ?oc=5" target="_blank">EXCLUSIF - Pourquoi l'aide à domicile va coûter plus cher pour de nombreux seniors</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Le retour de l'inflation, une menace à double détente pour les finances sociales - Les Echos](https://news.google.com/rss/articles/CBMizgFBVV95cUxNeEJ2TjJLQmpVdGNlN0M1N0ZhZEhLM0gyRWtwSktRbl9ycW9oazZ4ckxPN3k0SThQcVBvR3VSbDVzdDVHSTB1T2xpcGRWZmVkdFhISEgxUFFzc1lyREFCT3Z2TkRNZl9sMTJkaFY4OTdtWnpvMVEwMkNEQ25LNDdLRUxfRXBsa2tUWHc1SFRYb296dnBPa0lqMW9PNEhfRktsTlVTSk04WC1zYXRwTG52N2lMaGRNdnpMeHpjX0VYblhiWWgzSXd4dmphN3lfZw?oc=5)
+
+`Sun, 05 Apr 2026 07:05:11 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMizgFBVV95cUxNeEJ2TjJLQmpVdGNlN0M1N0ZhZEhLM0gyRWtwSktRbl9ycW9oazZ4ckxPN3k0SThQcVBvR3VSbDVzdDVHSTB1T2xpcGRWZmVkdFhISEgxUFFzc1lyREFCT3Z2TkRNZl9sMTJkaFY4OTdtWnpvMVEwMkNEQ25LNDdLRUxfRXBsa2tUWHc1SFRYb296dnBPa0lqMW9PNEhfRktsTlVTSk04WC1zYXRwTG52N2lMaGRNdnpMeHpjX0VYblhiWWgzSXd4dmphN3lfZw?oc=5" target="_blank">Le retour de l'inflation, une menace à double détente pour les finances sociales</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -421,14 +437,6 @@
 
 ---
 
-### [Guerre en Iran : ﻿pourquoi l'Etat français n'est pas le « grand gagnant » de la hausse du prix de l'essence - Les Echos](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOMTFqMkFvTmhEWHpBWW9kMUc4ZFhGM3NXQjNhT2ZZTFc5Uy00UW1vWUdYZDBJR0RSTEVDZjBGWXpqQlh2ZTZqbF9YdkpacVJVTVR1RVpGSW5lanhjYUk1dEZ1bDE2QVhlclJmMzNmSy1GZmk2U1BlaDk3LV9OUkNKc1pSOTE3ZkNXWXNhZ0FMM2pCbDJpUmtqX2VPcUxwaTc5YW1oR01ub3hHR2Z1ekZIMGZmTEswbUU1cW1jM0RjcFpDWTBQMkg4UjdSd3E0aEZoWmgyZFJXZjdBOEl5bVpicG5XX2lLRUZKa1dROHBja3JkdnJH?oc=5)
-
-`Fri, 06 Mar 2026 05:10:09 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi9AFBVV95cUxOMTFqMkFvTmhEWHpBWW9kMUc4ZFhGM3NXQjNhT2ZZTFc5Uy00UW1vWUdYZDBJR0RSTEVDZjBGWXpqQlh2ZTZqbF9YdkpacVJVTVR1RVpGSW5lanhjYUk1dEZ1bDE2QVhlclJmMzNmSy1GZmk2U1BlaDk3LV9OUkNKc1pSOTE3ZkNXWXNhZ0FMM2pCbDJpUmtqX2VPcUxwaTc5YW1oR01ub3hHR2Z1ekZIMGZmTEswbUU1cW1jM0RjcFpDWTBQMkg4UjdSd3E0aEZoWmgyZFJXZjdBOEl5bVpicG5XX2lLRUZKa1dROHBja3JkdnJH?oc=5" target="_blank">Guerre en Iran : ﻿pourquoi l'Etat français n'est pas le « grand gagnant » de la hausse du prix de l'essence</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
 ### [Déficit commercial : ce que pèsent les petits colis venus de Chine - Les Echos](https://news.google.com/rss/articles/CBMi9gFBVV95cUxPMXBQaHFTMzVPQVlpcHhMdXNEdmtqbm9NY0Jna1I3UHlpMHpla3F4Vl9QdnVEak1QU3IycU9WaVZ1OVU4bWZESzVzN2F4bDlNWHdWRl9kZ0ZQNm1tZ1RzVmNIOGdvRTFEX2hfT0lCMU9tX3B0czZzVWlYcUlyY252LVp2X3huc291NW9LT0NzX3E2aVFrb0VNMFhoZlllZFVOQk0xMU50S3c3MnZIa2FidzNRd3ZtLTdFaDJBT1BYX0d5Vjd2cXZzWmEtOGJ5RmNFUHIwam9wQnhSQjNWbFoyR3g3dmgyUXkzNm95eE42MWlVaEp1cGc?oc=5)
 
 `Fri, 06 Mar 2026 12:28:14 GMT`
@@ -442,14 +450,6 @@
 `Fri, 06 Mar 2026 17:58:50 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi8gFBVV95cUxQM1c2akpVNTA1OTRRODNpUWQ0SUY0V2t0eVFfTXFkMnlUYmxVb0dHd2RxdC1lY0Q0OU51VkV4Y09od0pyYUNiOTNoWDdaN3pISUZ4UVNVUDF5UUJYQ1FPenhTNWdQTUc5OGJXVUQtY29sbDFvTXNtX1lFMXlaSEE1dXphaUJ4UlVaV0R3VkRMekxQcWhucFF5SmhLeEFaai0xeVdtTlNIQS1YNk1QTHVTV252MjBUYU1lQU00LVJ1M2lKMThqRnB5dnNtNVE4WnloNU5jVk1qNTBrUU5jbElhTWhxV29LVmNIQXRnTVFZRnBFQQ?oc=5" target="_blank">Transparence salariale : la transposition de la directive concernera les entreprises de 50 salariés et plus</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [L'entrepreneuriat au féminin progresse - Les Echos](https://news.google.com/rss/articles/CBMingFBVV95cUxPcHEwTGJTZXBfX3hQUW9KWUpXTnVkNjF1N0dTa0duZXp0NHNnNDQ0bWFGSVRlZTdSaDVJNGpWWng5YURxLV9aZ01SNHZLUm5EWlFRdTl0aTBjNlF2Q0c3MUVVSnY2bmRwNUR2M3FYTEVJT19zTnFQNS1RbUU5NUdyZTVqaUtXSmVMR2YzNXFKMUlBVVVILVVvclU1OHFmUQ?oc=5)
-
-`Fri, 06 Mar 2026 07:15:08 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMingFBVV95cUxPcHEwTGJTZXBfX3hQUW9KWUpXTnVkNjF1N0dTa0duZXp0NHNnNDQ0bWFGSVRlZTdSaDVJNGpWWng5YURxLV9aZ01SNHZLUm5EWlFRdTl0aTBjNlF2Q0c3MUVVSnY2bmRwNUR2M3FYTEVJT19zTnFQNS1RbUU5NUdyZTVqaUtXSmVMR2YzNXFKMUlBVVVILVVvclU1OHFmUQ?oc=5" target="_blank">L'entrepreneuriat au féminin progresse</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -538,13 +538,5 @@
 `Fri, 06 Mar 2026 22:21:28 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxQQmxZei10VTQ2S0VYV3VacUhyUVF1N0g0SEVTdWVpLXkybVlfdnR6MXF6WjhtR0tyMHZsMDBybTZLcEhpOVR4eWNZdkNUbUhicjlNNzBJa2lmMXhZdUtLT0dxTkIzQjl3RFBscEQwT0JYLXlkOENPTWp5RkFqRjhIbXlvM1JVZTlZZ0pha3ZrUnJlbk45bUoxU3hDbVNWYTZkS2RLSThMd2J1LTlGdE9yWkExRWs?oc=5" target="_blank">Dette : Fitch laisse la note de la France inchangée</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [SONDAGE EXCLUSIF - Chômage : la rupture conventionnelle, un outil jugé utile par une majorité de Français - Les Echos](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNdHNKNzZrRk1wdjJFZExIVFdqUkRMSnc5Q0tQRk43UmdUTzZ0NEVadUJRUWFXeGRYWml0b0E0ZTVjSnEzU05XZjBYZFZPczJWYUE4VUIwem1qU09lUDVyd1pRQnRzNVM5MHBYYmxDZVNnV1JCS3ZsZDdPYjduX2VXc2NSWkY5b1RLcldNRURvdEt4Z2JqNVRKQ0ptcXptYnJpUTNCcjFVejU2cTYxaEhyZzhzWWt0enZ5b3FJRDNQbkZSWWRuYkpaOU5MNkhpbE1pWTFaLVNjVnhsRFhhR2dfUHFTaEZfcHVjTGdN?oc=5)
-
-`Thu, 05 Mar 2026 16:08:15 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi6wFBVV95cUxNdHNKNzZrRk1wdjJFZExIVFdqUkRMSnc5Q0tQRk43UmdUTzZ0NEVadUJRUWFXeGRYWml0b0E0ZTVjSnEzU05XZjBYZFZPczJWYUE4VUIwem1qU09lUDVyd1pRQnRzNVM5MHBYYmxDZVNnV1JCS3ZsZDdPYjduX2VXc2NSWkY5b1RLcldNRURvdEt4Z2JqNVRKQ0ptcXptYnJpUTNCcjFVejU2cTYxaEhyZzhzWWt0enZ5b3FJRDNQbkZSWWRuYkpaOU5MNkhpbE1pWTFaLVNjVnhsRFhhR2dfUHFTaEZfcHVjTGdN?oc=5" target="_blank">SONDAGE EXCLUSIF - Chômage : la rupture conventionnelle, un outil jugé utile par une majorité de Français</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
