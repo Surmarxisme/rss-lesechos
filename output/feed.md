@@ -1,7 +1,23 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Sun, 05 Apr 2026 09:43:27 +0000`
-> 67 articles (30 derniers jours)
+> Derniere mise a jour : `Mon, 06 Apr 2026 07:13:44 +0000`
+> 66 articles (30 derniers jours)
+
+---
+
+### [« Les finances publiques se dégradent à cause de la crise » : toute aide sur les carburants sera compensée par une coupe budgétaire - Les Echos](https://news.google.com/rss/articles/CBMimgJBVV95cUxOb1dWVmNiWG1fNUxGWE5BM3JXa3NkZ3k1WlFPdFdOWjBlZGVzOWtKVTFLVWh5OE00M0FvWTFrTUJDQTVveXd0N2QtVERiSy1Uclp1WTlGRm8xcnVlaDRPLUhhdnh3bWV1MjFMdEFlcW5xQVhzTDBSWjBXOTloQmMteHFQNTV5emFkZ0ROZVJHeHNabFlpaXZxUnFpMFl4bllJdGtKZ1ROMDZkdUhpR1JpWWJac0lzbjdLcE05dFlCZ3AxQ2RLbnptWXp1N25mWVg0dnJzMG9QNkJ6WUhmV2IwSXc0YmtobWpJQVo3MnpjekY2cU1kVzIxRnhWWUNqdHRtMVhVOEhQdXhvMDg3a284WmtMZUgweU9xMGc?oc=5)
+
+`Sun, 05 Apr 2026 13:29:48 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMimgJBVV95cUxOb1dWVmNiWG1fNUxGWE5BM3JXa3NkZ3k1WlFPdFdOWjBlZGVzOWtKVTFLVWh5OE00M0FvWTFrTUJDQTVveXd0N2QtVERiSy1Uclp1WTlGRm8xcnVlaDRPLUhhdnh3bWV1MjFMdEFlcW5xQVhzTDBSWjBXOTloQmMteHFQNTV5emFkZ0ROZVJHeHNabFlpaXZxUnFpMFl4bllJdGtKZ1ROMDZkdUhpR1JpWWJac0lzbjdLcE05dFlCZ3AxQ2RLbnptWXp1N25mWVg0dnJzMG9QNkJ6WUhmV2IwSXc0YmtobWpJQVo3MnpjekY2cU1kVzIxRnhWWUNqdHRtMVhVOEhQdXhvMDg3a284WmtMZUgweU9xMGc?oc=5" target="_blank">« Les finances publiques se dégradent à cause de la crise » : toute aide sur les carburants sera compensée par une coupe budgétaire</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [L'inflation, ce poison lent qui menace le désendettement de la France - Les Echos](https://news.google.com/rss/articles/CBMizAFBVV95cUxQQkJXWG1UdkVWTkI2U3N1X0FaTVlQSFJMc0VHQXZRNXVIZDNjb2xHX0U2WGNYSExmR3U1SGxZNnB0cGZ1NVg1MFZnWE9KOU5IeFNMV0dUV0tWSWZmalhOVmt5QmRKdHhHc2xIdVhXTER5QVc2SFoweU93b25XeEZza3BxTk1oX2s0NGJRcUZkS210RDFWdzNPejM2cm5kcWRVYnRfaFNnTUlxS0RybU5wLVZzZ3ZzdGFtVnlFTkdqTDhhQ04xTm5Mam5PQng?oc=5)
+
+`Mon, 06 Apr 2026 05:42:10 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMizAFBVV95cUxQQkJXWG1UdkVWTkI2U3N1X0FaTVlQSFJMc0VHQXZRNXVIZDNjb2xHX0U2WGNYSExmR3U1SGxZNnB0cGZ1NVg1MFZnWE9KOU5IeFNMV0dUV0tWSWZmalhOVmt5QmRKdHhHc2xIdVhXTER5QVc2SFoweU93b25XeEZza3BxTk1oX2s0NGJRcUZkS210RDFWdzNPejM2cm5kcWRVYnRfaFNnTUlxS0RybU5wLVZzZ3ZzdGFtVnlFTkdqTDhhQ04xTm5Mam5PQng?oc=5" target="_blank">L'inflation, ce poison lent qui menace le désendettement de la France</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -437,22 +453,6 @@
 
 ---
 
-### [Déficit commercial : ce que pèsent les petits colis venus de Chine - Les Echos](https://news.google.com/rss/articles/CBMi9gFBVV95cUxPMXBQaHFTMzVPQVlpcHhMdXNEdmtqbm9NY0Jna1I3UHlpMHpla3F4Vl9QdnVEak1QU3IycU9WaVZ1OVU4bWZESzVzN2F4bDlNWHdWRl9kZ0ZQNm1tZ1RzVmNIOGdvRTFEX2hfT0lCMU9tX3B0czZzVWlYcUlyY252LVp2X3huc291NW9LT0NzX3E2aVFrb0VNMFhoZlllZFVOQk0xMU50S3c3MnZIa2FidzNRd3ZtLTdFaDJBT1BYX0d5Vjd2cXZzWmEtOGJ5RmNFUHIwam9wQnhSQjNWbFoyR3g3dmgyUXkzNm95eE42MWlVaEp1cGc?oc=5)
-
-`Fri, 06 Mar 2026 12:28:14 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi9gFBVV95cUxPMXBQaHFTMzVPQVlpcHhMdXNEdmtqbm9NY0Jna1I3UHlpMHpla3F4Vl9QdnVEak1QU3IycU9WaVZ1OVU4bWZESzVzN2F4bDlNWHdWRl9kZ0ZQNm1tZ1RzVmNIOGdvRTFEX2hfT0lCMU9tX3B0czZzVWlYcUlyY252LVp2X3huc291NW9LT0NzX3E2aVFrb0VNMFhoZlllZFVOQk0xMU50S3c3MnZIa2FidzNRd3ZtLTdFaDJBT1BYX0d5Vjd2cXZzWmEtOGJ5RmNFUHIwam9wQnhSQjNWbFoyR3g3dmgyUXkzNm95eE42MWlVaEp1cGc?oc=5" target="_blank">Déficit commercial : ce que pèsent les petits colis venus de Chine</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Transparence salariale : la transposition de la directive concernera les entreprises de 50 salariés et plus - Les Echos](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQM1c2akpVNTA1OTRRODNpUWQ0SUY0V2t0eVFfTXFkMnlUYmxVb0dHd2RxdC1lY0Q0OU51VkV4Y09od0pyYUNiOTNoWDdaN3pISUZ4UVNVUDF5UUJYQ1FPenhTNWdQTUc5OGJXVUQtY29sbDFvTXNtX1lFMXlaSEE1dXphaUJ4UlVaV0R3VkRMekxQcWhucFF5SmhLeEFaai0xeVdtTlNIQS1YNk1QTHVTV252MjBUYU1lQU00LVJ1M2lKMThqRnB5dnNtNVE4WnloNU5jVk1qNTBrUU5jbElhTWhxV29LVmNIQXRnTVFZRnBFQQ?oc=5)
-
-`Fri, 06 Mar 2026 17:58:50 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi8gFBVV95cUxQM1c2akpVNTA1OTRRODNpUWQ0SUY0V2t0eVFfTXFkMnlUYmxVb0dHd2RxdC1lY0Q0OU51VkV4Y09od0pyYUNiOTNoWDdaN3pISUZ4UVNVUDF5UUJYQ1FPenhTNWdQTUc5OGJXVUQtY29sbDFvTXNtX1lFMXlaSEE1dXphaUJ4UlVaV0R3VkRMekxQcWhucFF5SmhLeEFaai0xeVdtTlNIQS1YNk1QTHVTV252MjBUYU1lQU00LVJ1M2lKMThqRnB5dnNtNVE4WnloNU5jVk1qNTBrUU5jbElhTWhxV29LVmNIQXRnTVFZRnBFQQ?oc=5" target="_blank">Transparence salariale : la transposition de la directive concernera les entreprises de 50 salariés et plus</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
 ### [Carburants : Lecornu crée la surprise en mettant sur la table un plafonnement des marges des distributeurs - Les Echos](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPZTRXQ0FhUFdLYWhIUERYaFQtbWxURHBMWTBXcklMeWwtZDI5dHI1NFEyM0o2VnR2RjV1emJZSjA1ZGNsYzV2dFJ5T2NHbzFhc0VJbkk1MlR2V2JKNmZtOGhsb05QSS1uN1NicUNsRldLcVpzSGs1WVhwSWRHdEFQNFNCZ01nLU5HNTdsbDFjYmpkZTVvLUxkY0JMVF9xa3d0ei1lM3VIT3kwSjd5Y2lDR3M1Zjg5TnJ4bHh5VHNnQ25VaWE0VWl0X0czRmRkWERHVmFYakZYd0FBNkVTWVE?oc=5)
 
 `Wed, 11 Mar 2026 12:19:36 GMT`
@@ -530,13 +530,5 @@
 `Mon, 09 Mar 2026 17:51:22 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxQUk11dnBoZ2Y4ZXJQZ3IyeFNmbXJOa0VBSHR6ZGxFQlE1SXBsQzByckpLajZWcERJZHVtVWFUcDhHdFVvS1FWY3Jxb2JRUXhKV2k1UkdSa3plZE5WMjd1R29KRHV2am1FcWszM1RINEl4MUpKODlfOHpqYnRpZ3pabU8wZGRDWEdoN1BXS0N6Mk5DaEEzU1J5YXRiazFGM25DcnJqczhZWmJvN29lelRkVm01Um9fNDRnNmtYc0NR?oc=5" target="_blank">Index égalité femmes-hommes : une nouvelle progression à pas comptés</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Dette : Fitch laisse la note de la France inchangée - Les Echos](https://news.google.com/rss/articles/CBMitAFBVV95cUxQQmxZei10VTQ2S0VYV3VacUhyUVF1N0g0SEVTdWVpLXkybVlfdnR6MXF6WjhtR0tyMHZsMDBybTZLcEhpOVR4eWNZdkNUbUhicjlNNzBJa2lmMXhZdUtLT0dxTkIzQjl3RFBscEQwT0JYLXlkOENPTWp5RkFqRjhIbXlvM1JVZTlZZ0pha3ZrUnJlbk45bUoxU3hDbVNWYTZkS2RLSThMd2J1LTlGdE9yWkExRWs?oc=5)
-
-`Fri, 06 Mar 2026 22:21:28 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxQQmxZei10VTQ2S0VYV3VacUhyUVF1N0g0SEVTdWVpLXkybVlfdnR6MXF6WjhtR0tyMHZsMDBybTZLcEhpOVR4eWNZdkNUbUhicjlNNzBJa2lmMXhZdUtLT0dxTkIzQjl3RFBscEQwT0JYLXlkOENPTWp5RkFqRjhIbXlvM1JVZTlZZ0pha3ZrUnJlbk45bUoxU3hDbVNWYTZkS2RLSThMd2J1LTlGdE9yWkExRWs?oc=5" target="_blank">Dette : Fitch laisse la note de la France inchangée</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
