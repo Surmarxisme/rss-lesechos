@@ -1,7 +1,31 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Wed, 08 Apr 2026 13:04:17 +0000`
-> 69 articles (30 derniers jours)
+> Derniere mise a jour : `Wed, 08 Apr 2026 17:58:03 +0000`
+> 71 articles (30 derniers jours)
+
+---
+
+### [Ruptures conventionnelles : une première baisse inédite observée dans les entreprises - Les Echos](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNaV9JZXR4WVhrdndfNW02SDJJMEZ1elQ3b3ItOWhGSlRSQk1tYlpHSkRQOC1QWWI1ZmFLMmxwZUR6MGo1V1plSVBfM2V6TU1rMXMxZV90TzRyak16MHRldnAwZWgzLXZuMFAzZHdkSmRBcUZhMzdhektrb2JQbFo1M0tLNkp3OU9BbFJ0Um9fZ0Rib0pkUzFXVnk3dUpFS0Nua190eWZWb2xaQS12RENTRHFtS0lyMXY5QVpXbW5zNGZQYVBMbnYzUTFIdEJwNllPMllfaw?oc=5)
+
+`Wed, 08 Apr 2026 17:01:50 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi1AFBVV95cUxNaV9JZXR4WVhrdndfNW02SDJJMEZ1elQ3b3ItOWhGSlRSQk1tYlpHSkRQOC1QWWI1ZmFLMmxwZUR6MGo1V1plSVBfM2V6TU1rMXMxZV90TzRyak16MHRldnAwZWgzLXZuMFAzZHdkSmRBcUZhMzdhektrb2JQbFo1M0tLNkp3OU9BbFJ0Um9fZ0Rib0pkUzFXVnk3dUpFS0Nua190eWZWb2xaQS12RENTRHFtS0lyMXY5QVpXbW5zNGZQYVBMbnYzUTFIdEJwNllPMllfaw?oc=5" target="_blank">Ruptures conventionnelles : une première baisse inédite observée dans les entreprises</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Santé : les cliniques creusent leurs pertes et alertent sur des fermetures - Les Echos](https://news.google.com/rss/articles/CBMixgFBVV95cUxPTHYtUTVldFpWUVRzR2VrRmV3M3lEV28yQU1rNnk5T1F5U18wZDhfVVVWc01GN2dUa0QwMlRDNlplUThtS2NESFo1Q2s5S0hFLVpVeHpwaTVsSzJkanRKYmNzRFdiUFU1Z003NnBEMDF3aGlhMi1rVUFmTm1lbS1pcHNIZ2RJVTAyN1NReUNzTnlmODFxMWtVTzBYSmU4TlRPWV9zWFZWOVlCb0ROUkZOYWtDWGo0d0x2SkxKbmNVWnhpbTk5N3c?oc=5)
+
+`Wed, 08 Apr 2026 15:58:24 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxPTHYtUTVldFpWUVRzR2VrRmV3M3lEV28yQU1rNnk5T1F5U18wZDhfVVVWc01GN2dUa0QwMlRDNlplUThtS2NESFo1Q2s5S0hFLVpVeHpwaTVsSzJkanRKYmNzRFdiUFU1Z003NnBEMDF3aGlhMi1rVUFmTm1lbS1pcHNIZ2RJVTAyN1NReUNzTnlmODFxMWtVTzBYSmU4TlRPWV9zWFZWOVlCb0ROUkZOYWtDWGo0d0x2SkxKbmNVWnhpbTk5N3c?oc=5" target="_blank">Santé : les cliniques creusent leurs pertes et alertent sur des fermetures</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [La hausse des dépenses militaires ne laissera presque aucune marge budgétaire - Les Echos](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcnpMUDhGbTZmNndvTEdPQzQ1ZjZNWHB3bUpBdWZONURqcGpJdnB0WjNoRXdUZ2NyNmNQdVQtVFphVTh4V25FejdjeVBod1BjaEwtbkNqUzJfck1YT1Y4Q0R3QW9CMHVuS3Uyb3NzLXgzWC04dmRuSC11UXFMRDhrV3o2NUEwNFp5VHI4c1NrUVQwM1lrX2ZoQ19PdU1nSklFNXlzaW1mNGdlRWNpeXFNREVQSk9jdVlQUzZGQ2dHV2JOaDkwNFZNdTFodERMSDctMUd6UzdoTmlodw?oc=5)
+
+`Wed, 08 Apr 2026 17:03:45 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcnpMUDhGbTZmNndvTEdPQzQ1ZjZNWHB3bUpBdWZONURqcGpJdnB0WjNoRXdUZ2NyNmNQdVQtVFphVTh4V25FejdjeVBod1BjaEwtbkNqUzJfck1YT1Y4Q0R3QW9CMHVuS3Uyb3NzLXgzWC04dmRuSC11UXFMRDhrV3o2NUEwNFp5VHI4c1NrUVQwM1lrX2ZoQ19PdU1nSklFNXlzaW1mNGdlRWNpeXFNREVQSk9jdVlQUzZGQ2dHV2JOaDkwNFZNdTFodERMSDctMUd6UzdoTmlodw?oc=5" target="_blank">La hausse des dépenses militaires ne laissera presque aucune marge budgétaire</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -546,13 +570,5 @@
 `Tue, 10 Mar 2026 15:01:15 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMihgJBVV95cUxQQjJuQzlMbnVIbG1xcUxiWjhpaWNuRlBMYVBTM19NWnFacUNTUEt5b2pVMjJ4eFhNR25GUWFvWWM1WGFheTJfV2ctQ3paS1dJakxxYjNRNDVreV9mRlowLTZUWnMydzlHNTd4c0NPUWlnZ3hxbVFMOWNfUGZPdHJId0VCbmE5TDAtRnRiYmxXMlRmTkFzOUpvcy1aaXpXLVllYXJLSXRzNE16THROWlBqbWxKWGE2d05JWGZvS0lpbGZDRTkzcXg3MzdaVWphRnhmeGptdTlTOFRDWE1TdWdUTEJkVDkxYm9xaEdZdHIxOHRBVjVXalJzQmF0VUR6YS1YbzlPNUVn?oc=5" target="_blank">Négociation sur les CDD : « Opposer flexibilité patronale et sécurisation salariale, c'est être doublement à côté de la plaque</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Index égalité femmes-hommes : une nouvelle progression à pas comptés - Les Echos](https://news.google.com/rss/articles/CBMivgFBVV95cUxQUk11dnBoZ2Y4ZXJQZ3IyeFNmbXJOa0VBSHR6ZGxFQlE1SXBsQzByckpLajZWcERJZHVtVWFUcDhHdFVvS1FWY3Jxb2JRUXhKV2k1UkdSa3plZE5WMjd1R29KRHV2am1FcWszM1RINEl4MUpKODlfOHpqYnRpZ3pabU8wZGRDWEdoN1BXS0N6Mk5DaEEzU1J5YXRiazFGM25DcnJqczhZWmJvN29lelRkVm01Um9fNDRnNmtYc0NR?oc=5)
-
-`Mon, 09 Mar 2026 17:51:22 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxQUk11dnBoZ2Y4ZXJQZ3IyeFNmbXJOa0VBSHR6ZGxFQlE1SXBsQzByckpLajZWcERJZHVtVWFUcDhHdFVvS1FWY3Jxb2JRUXhKV2k1UkdSa3plZE5WMjd1R29KRHV2am1FcWszM1RINEl4MUpKODlfOHpqYnRpZ3pabU8wZGRDWEdoN1BXS0N6Mk5DaEEzU1J5YXRiazFGM25DcnJqczhZWmJvN29lelRkVm01Um9fNDRnNmtYc0NR?oc=5" target="_blank">Index égalité femmes-hommes : une nouvelle progression à pas comptés</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
