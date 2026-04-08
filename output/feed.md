@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Tue, 07 Apr 2026 17:47:23 +0000`
-> 70 articles (30 derniers jours)
+> Derniere mise a jour : `Wed, 08 Apr 2026 07:02:43 +0000`
+> 69 articles (30 derniers jours)
+
+---
+
+### [Flambée énergétique, effort budgétaire : comment l'économie française va encaisser les chocs - Les Echos](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQbTNJcEhXdWhscW5TbnFoQkdFQ2xpZU1EQUFfM1BhNHQ0SjFtX1hzOGNQVlRsb1hmM3FIeVQ1RVJhVnAyVFFVNi1ONHM4bldBaFJqQlRNSHREd3NFTUcxUWFWeGtkT2lXYTBGSnBjQ0c4ekgzMG1nOWtkR0N5d3pjY3hTXzI4c3BhdEFac3pxZ0d3bnlNcHE3UHhjOWNlR3l4cXNhZk13cVpRWjNQbkhHekp1VTJZa1EwNzA1RG9ZeTJHTFZmWFdXU19jeVRURE5kUm14b1FIRm5JT1d5RG9uS1JB?oc=5)
+
+`Wed, 08 Apr 2026 07:00:17 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi4gFBVV95cUxQbTNJcEhXdWhscW5TbnFoQkdFQ2xpZU1EQUFfM1BhNHQ0SjFtX1hzOGNQVlRsb1hmM3FIeVQ1RVJhVnAyVFFVNi1ONHM4bldBaFJqQlRNSHREd3NFTUcxUWFWeGtkT2lXYTBGSnBjQ0c4ekgzMG1nOWtkR0N5d3pjY3hTXzI4c3BhdEFac3pxZ0d3bnlNcHE3UHhjOWNlR3l4cXNhZk13cVpRWjNQbkhHekp1VTJZa1EwNzA1RG9ZeTJHTFZmWFdXU19jeVRURE5kUm14b1FIRm5JT1d5RG9uS1JB?oc=5" target="_blank">Flambée énergétique, effort budgétaire : comment l'économie française va encaisser les chocs</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -461,14 +469,6 @@
 
 ---
 
-### [Finances Publiques : actualités, analyses et vidéos - Les Echos | Page 1003 - Les Echos](https://news.google.com/rss/articles/CBMijgFBVV95cUxNbDhCV3FUZHd1bi1NYTZ1bjJ4UkZYZDBWa0lnRG1reEhWdjFGbWVLdE1EVVNoUHc5QXlRMWxFUnptR0JrRG1BancxOWJJN2cyWlpOejR3NkRSUFpyVmg0VWtNWW5kVXh0bzRQZGFfd1kwM29HeWpHTmNiRG1NNXRITWh1ZV9JMTdISmVmTVRR?oc=5)
-
-`Sun, 08 Mar 2026 20:44:13 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMijgFBVV95cUxNbDhCV3FUZHd1bi1NYTZ1bjJ4UkZYZDBWa0lnRG1reEhWdjFGbWVLdE1EVVNoUHc5QXlRMWxFUnptR0JrRG1BancxOWJJN2cyWlpOejR3NkRSUFpyVmg0VWtNWW5kVXh0bzRQZGFfd1kwM29HeWpHTmNiRG1NNXRITWh1ZV9JMTdISmVmTVRR?oc=5" target="_blank">Finances Publiques : actualités, analyses et vidéos - Les Echos | Page 1003</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
 ### [« La première priorité, c'est de protéger l'indépendance de la Cour » des comptes, promet Amélie de Montchalin - Les Echos](https://news.google.com/rss/articles/CBMi-wFBVV95cUxPX292S0wyMlFJeTV5VURKVEg3OHdCU2RjS3UxX1diMTJTengwODhJQjQ4V3F0YW5jN1FCSEdkN0c5R251MDZKYmlIMElYdTVOWWlGYlU2M2Q5UV9fejZaV0tydHY3TWRyUGhlaUlPaXBXQXBpd21TOVk1LTJOQU5GY0JEZzFMQXp6QkZRVnFmOEN0ZS1Dd19NS1BadDJRTGNhOTlOVzl1LVFQaWJlRTRual9ISko4cXIwcklvTmw2SjQtcWtLLS1kMkZObThUOGdQX2l0MlA2a3FMZUl2ZTl5Sk9RekVEYU04TEE1bk9WOUlYXzNoYWpHYzFTQQ?oc=5)
 
 `Fri, 13 Mar 2026 12:41:45 GMT`
@@ -506,14 +506,6 @@
 `Thu, 12 Mar 2026 05:21:08 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMizwFBVV95cUxNTnRfUV85UmVRUlNhTTBRbm9fYm9sQ2N1MjlybkFpdmZYZGliUnpzSzFBOXVNUEI4Z25kVE9CeHUzRjdfc1FwR3hrNTI5cnNFdmVURDZ0QkdXWGxDWmRHLWxYSFBybVBiMFk0dHpOM3BBUWM2bUpEbWhqclZCWl8xMTNpTVhVOThVS016dTNsYk1wWEtsX1NVSml4ZWwyME1GZUhUU1Y4aGQtNnpES2hFRVl0ZTVNYzRRdS0zMUtqVUtJQWFtamNfOHp1WHNaaHM?oc=5" target="_blank">Le télétravail reste massivement prisé par les entreprises employant des cadres</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Ruptures conventionnelles : entre 600 et 800 millions d'euros d'économie pour l'assurance-chômage - Les Echos](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNkh3UTBLTm0wVnd4YVV1VGo0aTgzS09XMU9ZTERrSy1wcUZBeUJtUnZMWkdsWGlRd2xYZWt0aWI5a3FLbEE0ZmVLRmlNYndGNi1UUWNMQms4dFpNM0JLRzFqelZaNy1laWwyWmZVeWFsSVJvTW93dWhxYXRKTG5JcmhieDVzZzE5VDA2SkRxQnRsWm81VnV6d2NLVWgtLVFoeS11XzZLTjFFazZ3dThQNTZ6b05KdEpCSTNwazZlUkdIYlpueVNvUDBPNkhJT2pBZHAtNHpPQWRjVEdiNU9rQw?oc=5)
-
-`Mon, 09 Mar 2026 05:33:10 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNkh3UTBLTm0wVnd4YVV1VGo0aTgzS09XMU9ZTERrSy1wcUZBeUJtUnZMWkdsWGlRd2xYZWt0aWI5a3FLbEE0ZmVLRmlNYndGNi1UUWNMQms4dFpNM0JLRzFqelZaNy1laWwyWmZVeWFsSVJvTW93dWhxYXRKTG5JcmhieDVzZzE5VDA2SkRxQnRsWm81VnV6d2NLVWgtLVFoeS11XzZLTjFFazZ3dThQNTZ6b05KdEpCSTNwazZlUkdIYlpueVNvUDBPNkhJT2pBZHAtNHpPQWRjVEdiNU9rQw?oc=5" target="_blank">Ruptures conventionnelles : entre 600 et 800 millions d'euros d'économie pour l'assurance-chômage</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
