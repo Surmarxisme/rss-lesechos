@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Thu, 09 Apr 2026 07:06:36 +0000`
-> 73 articles (30 derniers jours)
+> Derniere mise a jour : `Thu, 09 Apr 2026 10:17:25 +0000`
+> 74 articles (30 derniers jours)
+
+---
+
+### [Salaires : des hausses limitées en 2026 et qui risquent d'être rognées par le regain d'inflation - Les Echos](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQWTZvVmxKOXZrNmFSVlM5Y1hlZm5ZaFhRRVM5Y2N6clhlc0pfbUJBUENsR213T2syUFhkYW9jUTJBQ0Y2dE1Pckw2dWJYYkZUV1lMM2hJS3I4UGtEZXEyTW9rTEtJN240U2RHNU1FNl91Q2JQMDlkaEgzbWpwd2JTMmJKcXZ0ZGJ5djVVXzVzSU5KM3lzNkgweFpjOUZOWHpBS3hKU1p5d2hIOXp5ckU2X3NYX29iRmlGdG01eXpuQllfWlhDLTFQVkpEUEJtQUFCQlY3Sk9tZHBJVWpCVGtjTmxXNVdGbHc?oc=5)
+
+`Thu, 09 Apr 2026 08:00:14 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi5wFBVV95cUxQWTZvVmxKOXZrNmFSVlM5Y1hlZm5ZaFhRRVM5Y2N6clhlc0pfbUJBUENsR213T2syUFhkYW9jUTJBQ0Y2dE1Pckw2dWJYYkZUV1lMM2hJS3I4UGtEZXEyTW9rTEtJN240U2RHNU1FNl91Q2JQMDlkaEgzbWpwd2JTMmJKcXZ0ZGJ5djVVXzVzSU5KM3lzNkgweFpjOUZOWHpBS3hKU1p5d2hIOXp5ckU2X3NYX29iRmlGdG01eXpuQllfWlhDLTFQVkpEUEJtQUFCQlY3Sk9tZHBJVWpCVGtjTmxXNVdGbHc?oc=5" target="_blank">Salaires : des hausses limitées en 2026 et qui risquent d'être rognées par le regain d'inflation</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
