@@ -1,7 +1,23 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Wed, 08 Apr 2026 17:58:03 +0000`
-> 71 articles (30 derniers jours)
+> Derniere mise a jour : `Thu, 09 Apr 2026 07:06:36 +0000`
+> 73 articles (30 derniers jours)
+
+---
+
+### [Contrats courts : une dernière séance de négociation à l'issue très incertaine - Les Echos](https://news.google.com/rss/articles/CBMiygFBVV95cUxPbEpSQVE2WmlMSFdHTDQxNUZTOFk1X21GLWk4dzFZWjVXMnE2TFZtLVpXU2xHR2dtX3MtZVpJWjhKQUNiQzlpR3ZDRFNtRFB6ajVCR1JrNTBBSDk2bGR0dy1INW90N1JyODNteS1SaFlFdTU4ZkFsb1FMZUMtMkFMQUd0aWxSVkh5T2xxWlM1Z0h5c0xwc1FLWmNuRHhlYWFyYU1VMEdGWEwzaGZWbUU4V1JfUUZITGJJZzF2aFY0dDhBbkRmdkMySWx3?oc=5)
+
+`Thu, 09 Apr 2026 04:10:08 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxPbEpSQVE2WmlMSFdHTDQxNUZTOFk1X21GLWk4dzFZWjVXMnE2TFZtLVpXU2xHR2dtX3MtZVpJWjhKQUNiQzlpR3ZDRFNtRFB6ajVCR1JrNTBBSDk2bGR0dy1INW90N1JyODNteS1SaFlFdTU4ZkFsb1FMZUMtMkFMQUd0aWxSVkh5T2xxWlM1Z0h5c0xwc1FLWmNuRHhlYWFyYU1VMEdGWEwzaGZWbUU4V1JfUUZITGJJZzF2aFY0dDhBbkRmdkMySWx3?oc=5" target="_blank">Contrats courts : une dernière séance de négociation à l'issue très incertaine</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Pourquoi les impôts de production restent plus élevés en France qu'ailleurs en Europe - Les Echos](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSzRtUjkyV0VxUXNtaDNaZFFGZTJseS01T1hZRVE0Q3ZTbWN1QjhjcGdlN21xVTZUc1F2cDhmNnUtNzZDVWV6M0RoYXFfeWM1S2hSN3RnRFpnMjNoRGwxYTNFVVFlZEJra2tTWGU4M0NjMGlKY3FaZ3lpUzloVzltWnpiVmVDVVplUUpKN01KTHZrMENnaXdLdk94eEFwYnB6RVhhYndmWVREaXVBanVlMkpuSlVaWWtheGVJWDM0bTRCSTE3SDBXeWN1UWhLNWt4Yi1SVUlPcHlOenlKajJBaHZKNA?oc=5)
+
+`Thu, 09 Apr 2026 05:00:27 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSzRtUjkyV0VxUXNtaDNaZFFGZTJseS01T1hZRVE0Q3ZTbWN1QjhjcGdlN21xVTZUc1F2cDhmNnUtNzZDVWV6M0RoYXFfeWM1S2hSN3RnRFpnMjNoRGwxYTNFVVFlZEJra2tTWGU4M0NjMGlKY3FaZ3lpUzloVzltWnpiVmVDVVplUUpKN01KTHZrMENnaXdLdk94eEFwYnB6RVhhYndmWVREaXVBanVlMkpuSlVaWWtheGVJWDM0bTRCSTE3SDBXeWN1UWhLNWt4Yi1SVUlPcHlOenlKajJBaHZKNA?oc=5" target="_blank">Pourquoi les impôts de production restent plus élevés en France qu'ailleurs en Europe</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
