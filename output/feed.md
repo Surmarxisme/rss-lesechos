@@ -1,7 +1,31 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Thu, 09 Apr 2026 13:04:59 +0000`
-> 74 articles (30 derniers jours)
+> Derniere mise a jour : `Thu, 09 Apr 2026 17:52:42 +0000`
+> 72 articles (30 derniers jours)
+
+---
+
+### [Contrats courts : syndicats et patronat échouent à s'entendre - Les Echos](https://news.google.com/rss/articles/CBMiswFBVV95cUxPcFZ2cWhoOUVFc01TZWVFaVBCRU5rZnRJMHZtUFJxdkItdmtGX2RWalY1cGsycjEweFBWX1ZUWmc2MFFtWU8xaXIzSENQbDVTcTBId0pDLW9fcEZ6ZGdqYU16QjBydzdiaVZKTDVQcUxvd1J2cW9VWjVpUUdOQ2luTXd6Mm85ejkweXlQOUx4dXppeS00X1ZWZ0tZLUUyUDJOdVdyclF6cGZESnQ2dXJHdVItaw?oc=5)
+
+`Thu, 09 Apr 2026 17:37:41 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxPcFZ2cWhoOUVFc01TZWVFaVBCRU5rZnRJMHZtUFJxdkItdmtGX2RWalY1cGsycjEweFBWX1ZUWmc2MFFtWU8xaXIzSENQbDVTcTBId0pDLW9fcEZ6ZGdqYU16QjBydzdiaVZKTDVQcUxvd1J2cW9VWjVpUUdOQ2luTXd6Mm85ejkweXlQOUx4dXppeS00X1ZWZ0tZLUUyUDJOdVdyclF6cGZESnQ2dXJHdVItaw?oc=5" target="_blank">Contrats courts : syndicats et patronat échouent à s'entendre</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Bataille rangée autour de l'extension du travail le 1er-Mai - Les Echos](https://news.google.com/rss/articles/CBMiswFBVV95cUxNZ3JrOXBPUkZBRlBOd2l2TVAxdDFmT2QtMzhLc0ZVSGdMRk90RkxxQXJFMklIWnliS08zNTI0Ry1XU0tNazdJbWtoWGctXy1WT1Z6LTVnV0tPSmtNMlNURkVWWllNQUFiVGh3bWNMalJnbmp4SHBQZEQzZkkyZERzVzFNWlVDbng5S0VOQVZhMm1pZDMwZldZeUpoOVZfVFY1d2NMb1RWOE9jRXJ5WExFajdPaw?oc=5)
+
+`Thu, 09 Apr 2026 15:54:22 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxNZ3JrOXBPUkZBRlBOd2l2TVAxdDFmT2QtMzhLc0ZVSGdMRk90RkxxQXJFMklIWnliS08zNTI0Ry1XU0tNazdJbWtoWGctXy1WT1Z6LTVnV0tPSmtNMlNURkVWWllNQUFiVGh3bWNMalJnbmp4SHBQZEQzZkkyZERzVzFNWlVDbng5S0VOQVZhMm1pZDMwZldZeUpoOVZfVFY1d2NMb1RWOE9jRXJ5WExFajdPaw?oc=5" target="_blank">Bataille rangée autour de l'extension du travail le 1er-Mai</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Arrêts maladie : le gouvernement mise sur la méthode douce face à une « trajectoire explosive - Les Echos](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNVlhreVk4cGY4ZUM5SXBvWU5Vb3p1QjNXQUd5WU40dGlDVXMydzAwNU91a2laVm10Ulp1UG4xN2RxbHJRdXdJVmVjMTh0TXhGZGpWQlNjemFSdHpSSC0za183UTlGQ2dXTjVIc2tDNG94X0hTaG55cXFKYXNCbXlkYkFRVnNGWGRlc2ZnbDdTVEk0OFEweHpCSWhPeVgtUWRETDN0eUkzUHFYeGRjM3JaM0dRakozdlR6enE1X0E4anI2WWVqZUcycjIxNmpqNXJYcmM5RlJiOUpWZFNyVEdXUUF1MA?oc=5)
+
+`Thu, 09 Apr 2026 15:57:46 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi4wFBVV95cUxNVlhreVk4cGY4ZUM5SXBvWU5Vb3p1QjNXQUd5WU40dGlDVXMydzAwNU91a2laVm10Ulp1UG4xN2RxbHJRdXdJVmVjMTh0TXhGZGpWQlNjemFSdHpSSC0za183UTlGQ2dXTjVIc2tDNG94X0hTaG55cXFKYXNCbXlkYkFRVnNGWGRlc2ZnbDdTVEk0OFEweHpCSWhPeVgtUWRETDN0eUkzUHFYeGRjM3JaM0dRakozdlR6enE1X0E4anI2WWVqZUcycjIxNmpqNXJYcmM5RlJiOUpWZFNyVEdXUUF1MA?oc=5" target="_blank">Arrêts maladie : le gouvernement mise sur la méthode douce face à une « trajectoire explosive</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -541,14 +565,6 @@
 
 ---
 
-### [Aides à la rénovation : 21.000 tentatives de fraude déjouées l'an dernier - Les Echos](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbGpId053Sm1Wa0dadmxOQ0dGM1BGUVI5WFFSRDBweDVxWVNLV0FXRjAzUXZxN2czdWpJLVNFQ2VKa3BjTkNnS3Jka0xWaEFQZ3E0WnJWOTNGeC1tOGRSWTBRTVhqV2hGdm9rbGVVaFJTOXNyUVRLMm1QYktraHZwbDlIbzVVeVJnV0xHM0M4T00yUDVZN0hxUHNjTlZDU0NoZzZFY1NCdXkwRUQybUFlNzFfNFllanJnVDZBZ2tYSlJnUQ?oc=5)
-
-`Tue, 10 Mar 2026 16:15:53 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbGpId053Sm1Wa0dadmxOQ0dGM1BGUVI5WFFSRDBweDVxWVNLV0FXRjAzUXZxN2czdWpJLVNFQ2VKa3BjTkNnS3Jka0xWaEFQZ3E0WnJWOTNGeC1tOGRSWTBRTVhqV2hGdm9rbGVVaFJTOXNyUVRLMm1QYktraHZwbDlIbzVVeVJnV0xHM0M4T00yUDVZN0hxUHNjTlZDU0NoZzZFY1NCdXkwRUQybUFlNzFfNFllanJnVDZBZ2tYSlJnUQ?oc=5" target="_blank">Aides à la rénovation : 21.000 tentatives de fraude déjouées l'an dernier</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
 ### [Le télétravail reste massivement prisé par les entreprises employant des cadres - Les Echos](https://news.google.com/rss/articles/CBMizwFBVV95cUxNTnRfUV85UmVRUlNhTTBRbm9fYm9sQ2N1MjlybkFpdmZYZGliUnpzSzFBOXVNUEI4Z25kVE9CeHUzRjdfc1FwR3hrNTI5cnNFdmVURDZ0QkdXWGxDWmRHLWxYSFBybVBiMFk0dHpOM3BBUWM2bUpEbWhqclZCWl8xMTNpTVhVOThVS016dTNsYk1wWEtsX1NVSml4ZWwyME1GZUhUU1Y4aGQtNnpES2hFRVl0ZTVNYzRRdS0zMUtqVUtJQWFtamNfOHp1WHNaaHM?oc=5)
 
 `Thu, 12 Mar 2026 05:21:08 GMT`
@@ -562,37 +578,5 @@
 `Wed, 11 Mar 2026 05:05:08 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi7wFBVV95cUxNSkdzN29xdmpoRGpGMGpuTFNtN0wtckllczhUTVRjWDZ3WGJ2c2EzTHhsWFROMkhEN3JtdVpwLTU2OUdHS2Z4cDFWSVpYMGd1MDFEbEZDVmVFRHdMYzZrWGxPWEd4NDFyVHp6TUpaZDhEZHFRTnROTlVBNjc4eXQ1ek9zalR1VWVwaVlWRmRCd1ZrUV9vQlVNOFB3QUsxVm9LeGc1eG5qSHB1UzhjTmdYT3RUdWlHZUVOZHZJd1h6YlloVWNTbF9sdWx6eWRnZ2hCVFJUMTVPS2VCTmFsNmtCN0FxTHdldjFzSzFueHoxRQ?oc=5" target="_blank">Négociation sur les CDD : patronat et syndicats entrent dans le vif du sujet, les réformes Macron menacées</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Prix des carburants : les outils à disposition du gouvernement pour soulager les automobilistes - Les Echos](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNUUJWN3VLZGE4akVTdlpOT25Bc3doMUEyeUwtWFU2YUdnbFVJS1pUSlNYdUp0N1U4S19GN3lTZXVJWWNDVnFNWS1rekhpREZsbkxBZ2R6em5Zekl6WUJ4VlFsZzVqZktnYW9hSkxMaG1yd2xWQWhXTTVtTmljU2JSMUxUZGdfNFNRVW1nSGh5UmtMaTJNTGk2elpWa25sUVZXbGl0MXJrN0ZnRWlHOFJfWkNvLWpCZGNwUXRpbjhVTDloaTh0VEQtTW5UTkJkem44aUZlMG9Rajc0ZkVha3NmSnRwVzNsWFR4R0ZKVTNwdw?oc=5)
-
-`Tue, 10 Mar 2026 17:30:06 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi7wFBVV95cUxNUUJWN3VLZGE4akVTdlpOT25Bc3doMUEyeUwtWFU2YUdnbFVJS1pUSlNYdUp0N1U4S19GN3lTZXVJWWNDVnFNWS1rekhpREZsbkxBZ2R6em5Zekl6WUJ4VlFsZzVqZktnYW9hSkxMaG1yd2xWQWhXTTVtTmljU2JSMUxUZGdfNFNRVW1nSGh5UmtMaTJNTGk2elpWa25sUVZXbGl0MXJrN0ZnRWlHOFJfWkNvLWpCZGNwUXRpbjhVTDloaTh0VEQtTW5UTkJkem44aUZlMG9Rajc0ZkVha3NmSnRwVzNsWFR4R0ZKVTNwdw?oc=5" target="_blank">Prix des carburants : les outils à disposition du gouvernement pour soulager les automobilistes</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Hausse de la taxe foncière : le dossier qui embarrasse le gouvernement renvoyé après les municipales - Les Echos](https://news.google.com/rss/articles/CBMizAFBVV95cUxOX1VyNDlVOUZJZ0ZUbDJmY0RLalJRc0RXd1JkR01BSHhzM1BJaGNGVFlTeXZUb1c0REI1TmxMUVBxZWJ5ZnctSl94MEZVVzFtdndGRlNsNFBhLVFOaXI1aUpxbElhckpra3RtLVRfUm5wdjN2cDZUSTl2WXRHREh5SHNjUUs5ZUtGekVvMmJYdzY2cFBZVE0zV2NQdjlfVE1VNWhMZjE5MUN2c2plaEhsRDRoRkQwU29aeVlPRC0wSW9RcUYteTBlZk1KSjY?oc=5)
-
-`Tue, 10 Mar 2026 14:04:08 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMizAFBVV95cUxOX1VyNDlVOUZJZ0ZUbDJmY0RLalJRc0RXd1JkR01BSHhzM1BJaGNGVFlTeXZUb1c0REI1TmxMUVBxZWJ5ZnctSl94MEZVVzFtdndGRlNsNFBhLVFOaXI1aUpxbElhckpra3RtLVRfUm5wdjN2cDZUSTl2WXRHREh5SHNjUUs5ZUtGekVvMmJYdzY2cFBZVE0zV2NQdjlfVE1VNWhMZjE5MUN2c2plaEhsRDRoRkQwU29aeVlPRC0wSW9RcUYteTBlZk1KSjY?oc=5" target="_blank">Hausse de la taxe foncière : le dossier qui embarrasse le gouvernement renvoyé après les municipales</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Emploi : les ruptures conventionnelles pérennisées dans la fonction publique - Les Echos](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeUxLNXNuWXA3M3VBMDR5dV9sYjJrbjdHQ3ExbndMR3FENkV6Q0FyVDBNQk9CVHd5aTNsdU1YanhySm56ZEVDZHEyVTZvVkIyUkFhSmtuN2U5UUgyMVZ3WmJPV0UwTXFHSW0yc1JXZ0Z5MmtrODdZYlJDZ2ZhRm9vV3VzenB1M1JZWHNnek9EUnp0UVpIYS1QaldLWGJfYVdWZmhicUJ2dUxjX3RWYnJOOGI1c3A0cHA0ZzB0R3k0ZXp3ek5NaDlPMQ?oc=5)
-
-`Tue, 10 Mar 2026 14:31:20 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeUxLNXNuWXA3M3VBMDR5dV9sYjJrbjdHQ3ExbndMR3FENkV6Q0FyVDBNQk9CVHd5aTNsdU1YanhySm56ZEVDZHEyVTZvVkIyUkFhSmtuN2U5UUgyMVZ3WmJPV0UwTXFHSW0yc1JXZ0Z5MmtrODdZYlJDZ2ZhRm9vV3VzenB1M1JZWHNnek9EUnp0UVpIYS1QaldLWGJfYVdWZmhicUJ2dUxjX3RWYnJOOGI1c3A0cHA0ZzB0R3k0ZXp3ek5NaDlPMQ?oc=5" target="_blank">Emploi : les ruptures conventionnelles pérennisées dans la fonction publique</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Négociation sur les CDD : « Opposer flexibilité patronale et sécurisation salariale, c'est être doublement à côté de la plaque - Les Echos](https://news.google.com/rss/articles/CBMihgJBVV95cUxQQjJuQzlMbnVIbG1xcUxiWjhpaWNuRlBMYVBTM19NWnFacUNTUEt5b2pVMjJ4eFhNR25GUWFvWWM1WGFheTJfV2ctQ3paS1dJakxxYjNRNDVreV9mRlowLTZUWnMydzlHNTd4c0NPUWlnZ3hxbVFMOWNfUGZPdHJId0VCbmE5TDAtRnRiYmxXMlRmTkFzOUpvcy1aaXpXLVllYXJLSXRzNE16THROWlBqbWxKWGE2d05JWGZvS0lpbGZDRTkzcXg3MzdaVWphRnhmeGptdTlTOFRDWE1TdWdUTEJkVDkxYm9xaEdZdHIxOHRBVjVXalJzQmF0VUR6YS1YbzlPNUVn?oc=5)
-
-`Tue, 10 Mar 2026 15:01:15 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMihgJBVV95cUxQQjJuQzlMbnVIbG1xcUxiWjhpaWNuRlBMYVBTM19NWnFacUNTUEt5b2pVMjJ4eFhNR25GUWFvWWM1WGFheTJfV2ctQ3paS1dJakxxYjNRNDVreV9mRlowLTZUWnMydzlHNTd4c0NPUWlnZ3hxbVFMOWNfUGZPdHJId0VCbmE5TDAtRnRiYmxXMlRmTkFzOUpvcy1aaXpXLVllYXJLSXRzNE16THROWlBqbWxKWGE2d05JWGZvS0lpbGZDRTkzcXg3MzdaVWphRnhmeGptdTlTOFRDWE1TdWdUTEJkVDkxYm9xaEdZdHIxOHRBVjVXalJzQmF0VUR6YS1YbzlPNUVn?oc=5" target="_blank">Négociation sur les CDD : « Opposer flexibilité patronale et sécurisation salariale, c'est être doublement à côté de la plaque</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
