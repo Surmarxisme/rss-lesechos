@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Fri, 10 Apr 2026 10:12:25 +0000`
-> 72 articles (30 derniers jours)
+> Derniere mise a jour : `Fri, 10 Apr 2026 12:53:02 +0000`
+> 71 articles (30 derniers jours)
+
+---
+
+### [Finances Publiques : actualités, analyses et vidéos - Les Echos | Page 1005 - Les Echos](https://news.google.com/rss/articles/CBMijgFBVV95cUxOcUZHY2EtLUZfdExIVm9BSmFjcnVndjg3M2NsaDZTRU5mMVEzd2lsV0dReDU4Q1dNbFU2UV9qeE5YWkJqdGw5Zk5EM3lESTJ3REE0eTNOUHAxRmdybmdhY3JJNlhfVkpVdDI1NlluUVZNY2lRUkdrWDF1NGx5YUNGcERZQVozb2Zna1BCSktR?oc=5)
+
+`Tue, 07 Apr 2026 16:06:51 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMijgFBVV95cUxOcUZHY2EtLUZfdExIVm9BSmFjcnVndjg3M2NsaDZTRU5mMVEzd2lsV0dReDU4Q1dNbFU2UV9qeE5YWkJqdGw5Zk5EM3lESTJ3REE0eTNOUHAxRmdybmdhY3JJNlhfVkpVdDI1NlluUVZNY2lRUkdrWDF1NGx5YUNGcERZQVozb2Zna1BCSktR?oc=5" target="_blank">Finances Publiques : actualités, analyses et vidéos - Les Echos | Page 1005</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -554,22 +562,6 @@
 `Fri, 13 Mar 2026 12:41:45 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi-wFBVV95cUxPX292S0wyMlFJeTV5VURKVEg3OHdCU2RjS3UxX1diMTJTengwODhJQjQ4V3F0YW5jN1FCSEdkN0c5R251MDZKYmlIMElYdTVOWWlGYlU2M2Q5UV9fejZaV0tydHY3TWRyUGhlaUlPaXBXQXBpd21TOVk1LTJOQU5GY0JEZzFMQXp6QkZRVnFmOEN0ZS1Dd19NS1BadDJRTGNhOTlOVzl1LVFQaWJlRTRual9ISko4cXIwcklvTmw2SjQtcWtLLS1kMkZObThUOGdQX2l0MlA2a3FMZUl2ZTl5Sk9RekVEYU04TEE1bk9WOUlYXzNoYWpHYzFTQQ?oc=5" target="_blank">« La première priorité, c'est de protéger l'indépendance de la Cour » des comptes, promet Amélie de Montchalin</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Aides à la décarbonation de l'industrie : une cible partiellement atteinte - Les Echos](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOWnZ4TVd6ZFZJOVhtWXNUSFJuZ2pIOVhqTWlBVktWbllHaDV3eTZpTTh4VjdPYjNzZm5oWjB3ajJOaVZ3Zzk2TDg4cXNndjhJdDRoWEUybnhGUlp3UjNWZUd6VHVkMTFqQVZWdGFfOEo0ejJRNC1qYURuNGt3VkVPb09DbjNKVG4wQ2xiSjJEX0t6ZFB6M3haSDkxYmk0TmpsYUU2QVA5alBGNm5nNGdDMmNDWGt0SHVQdHFWWFhfbVAyNEwtX3dXLVl0WnBfUGh5U0E?oc=5)
-
-`Wed, 11 Mar 2026 11:00:01 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi0gFBVV95cUxOWnZ4TVd6ZFZJOVhtWXNUSFJuZ2pIOVhqTWlBVktWbllHaDV3eTZpTTh4VjdPYjNzZm5oWjB3ajJOaVZ3Zzk2TDg4cXNndjhJdDRoWEUybnhGUlp3UjNWZUd6VHVkMTFqQVZWdGFfOEo0ejJRNC1qYURuNGt3VkVPb09DbjNKVG4wQ2xiSjJEX0t6ZFB6M3haSDkxYmk0TmpsYUU2QVA5alBGNm5nNGdDMmNDWGt0SHVQdHFWWFhfbVAyNEwtX3dXLVl0WnBfUGh5U0E?oc=5" target="_blank">Aides à la décarbonation de l'industrie : une cible partiellement atteinte</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Carburants : Lecornu crée la surprise en mettant sur la table un plafonnement des marges des distributeurs - Les Echos](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPZTRXQ0FhUFdLYWhIUERYaFQtbWxURHBMWTBXcklMeWwtZDI5dHI1NFEyM0o2VnR2RjV1emJZSjA1ZGNsYzV2dFJ5T2NHbzFhc0VJbkk1MlR2V2JKNmZtOGhsb05QSS1uN1NicUNsRldLcVpzSGs1WVhwSWRHdEFQNFNCZ01nLU5HNTdsbDFjYmpkZTVvLUxkY0JMVF9xa3d0ei1lM3VIT3kwSjd5Y2lDR3M1Zjg5TnJ4bHh5VHNnQ25VaWE0VWl0X0czRmRkWERHVmFYakZYd0FBNkVTWVE?oc=5)
-
-`Wed, 11 Mar 2026 12:19:36 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi3gFBVV95cUxPZTRXQ0FhUFdLYWhIUERYaFQtbWxURHBMWTBXcklMeWwtZDI5dHI1NFEyM0o2VnR2RjV1emJZSjA1ZGNsYzV2dFJ5T2NHbzFhc0VJbkk1MlR2V2JKNmZtOGhsb05QSS1uN1NicUNsRldLcVpzSGs1WVhwSWRHdEFQNFNCZ01nLU5HNTdsbDFjYmpkZTVvLUxkY0JMVF9xa3d0ei1lM3VIT3kwSjd5Y2lDR3M1Zjg5TnJ4bHh5VHNnQ25VaWE0VWl0X0czRmRkWERHVmFYakZYd0FBNkVTWVE?oc=5" target="_blank">Carburants : Lecornu crée la surprise en mettant sur la table un plafonnement des marges des distributeurs</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
