@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Fri, 10 Apr 2026 12:53:02 +0000`
-> 71 articles (30 derniers jours)
+> Derniere mise a jour : `Fri, 10 Apr 2026 17:39:37 +0000`
+> 72 articles (30 derniers jours)
+
+---
+
+### [Insertion des jeunes : l'alerte des Ecoles de la deuxième chance - Les Echos](https://news.google.com/rss/articles/CBMitwFBVV95cUxPN0RjYTJIYWNKc210ZHdDVWdVanc1RVAzYVE5YVJzZUNZazdPSDJ3R1N3Q0VOZGMtTFZtWkFySXkzcVdTMk5ROVhnZmREcTRuUExuY2dRTXpLc1d1VldzWDY2TkRNeEdmb004Tk1Yb1dQYlJXV2JTYXA5NFV2QVBWV2RzRWJOaWk0WnJVbmVndU1wREx4SnlHbVpqXzNud2FwdXpobzRMelY5eDFBLVppNWlubmxHUjA?oc=5)
+
+`Fri, 10 Apr 2026 14:42:09 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxPN0RjYTJIYWNKc210ZHdDVWdVanc1RVAzYVE5YVJzZUNZazdPSDJ3R1N3Q0VOZGMtTFZtWkFySXkzcVdTMk5ROVhnZmREcTRuUExuY2dRTXpLc1d1VldzWDY2TkRNeEdmb004Tk1Yb1dQYlJXV2JTYXA5NFV2QVBWV2RzRWJOaWk0WnJVbmVndU1wREx4SnlHbVpqXzNud2FwdXpobzRMelY5eDFBLVppNWlubmxHUjA?oc=5" target="_blank">Insertion des jeunes : l'alerte des Ecoles de la deuxième chance</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
