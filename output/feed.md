@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Fri, 10 Apr 2026 07:11:43 +0000`
-> 71 articles (30 derniers jours)
+> Derniere mise a jour : `Fri, 10 Apr 2026 10:12:25 +0000`
+> 72 articles (30 derniers jours)
+
+---
+
+### [L'extension du travail le 1er mai devrait pouvoir s'appliquer dès cette année - Les Echos](https://news.google.com/rss/articles/CBMiygFBVV95cUxQdFRvWnRNdnpfaWdGVDF0MktVQmFjdUo0cWc0Vk0tb2dhRDB6bFBJYU9XRE1ZeDIwaXFpMGV4a1RHc1pHMTZCel9aOWFGVElGVHBYazFIdGlvVG5FMU5lRjZHSzFETUpGSDRhUjJvTjNvaTdlaWRiUkM1amVXbWpIWllMUzdIbFNDT3ViVWNaYkZGX3JYQkJENHNkekFQRlkxcV9lSklzRVVPLVZiSTZnVk5yTFpLRDNRS2x6QTJuQ3I3aVhIUGlvbkl3?oc=5)
+
+`Fri, 10 Apr 2026 10:09:28 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxQdFRvWnRNdnpfaWdGVDF0MktVQmFjdUo0cWc0Vk0tb2dhRDB6bFBJYU9XRE1ZeDIwaXFpMGV4a1RHc1pHMTZCel9aOWFGVElGVHBYazFIdGlvVG5FMU5lRjZHSzFETUpGSDRhUjJvTjNvaTdlaWRiUkM1amVXbWpIWllMUzdIbFNDT3ViVWNaYkZGX3JYQkJENHNkekFQRlkxcV9lSklzRVVPLVZiSTZnVk5yTFpLRDNRS2x6QTJuQ3I3aVhIUGlvbkl3?oc=5" target="_blank">L'extension du travail le 1er mai devrait pouvoir s'appliquer dès cette année</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
