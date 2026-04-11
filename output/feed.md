@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Fri, 10 Apr 2026 17:39:37 +0000`
+> Derniere mise a jour : `Sat, 11 Apr 2026 09:46:36 +0000`
 > 72 articles (30 derniers jours)
+
+---
+
+### [Dette : Moody's ne dégrade pas la note de la France, qui reste double « A » avec une « perspective négative » - Les Echos](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPOTBIaXQxUC1WUHNwZ2k3el9kZzhBcjhvd195ZWpUY1Z5NDhJU1Y2MF9CNGZFcXV0RXFQeEg5R01VcFVudzc3b1U2a0JuMDgtTDRIZWpLamE4dWFIdm1EOFRQUDhiRi1qQ1hqNERNNmpGYmFTckUwNFI5RWd4Z0RNYmxhREplQTIwclRzb3d0ZFRFMEFueVJNS2tMeFg3dDc4dWFvdVFPT2NFUEc5TjBDbGJPMTBWdmh3aFhqMm9kUlhNbkNsekJzR25uZHBHZXVBanFEXy1wUzZZYWpsRjVjalRGMmticl9zMnFyYnVaMHVwM01q?oc=5)
+
+`Fri, 10 Apr 2026 21:35:13 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi9AFBVV95cUxPOTBIaXQxUC1WUHNwZ2k3el9kZzhBcjhvd195ZWpUY1Z5NDhJU1Y2MF9CNGZFcXV0RXFQeEg5R01VcFVudzc3b1U2a0JuMDgtTDRIZWpLamE4dWFIdm1EOFRQUDhiRi1qQ1hqNERNNmpGYmFTckUwNFI5RWd4Z0RNYmxhREplQTIwclRzb3d0ZFRFMEFueVJNS2tMeFg3dDc4dWFvdVFPT2NFUEc5TjBDbGJPMTBWdmh3aFhqMm9kUlhNbkNsekJzR25uZHBHZXVBanFEXy1wUzZZYWpsRjVjalRGMmticl9zMnFyYnVaMHVwM01q?oc=5" target="_blank">Dette : Moody's ne dégrade pas la note de la France, qui reste double « A » avec une « perspective négative »</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -570,13 +578,5 @@
 `Fri, 13 Mar 2026 12:41:45 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi-wFBVV95cUxPX292S0wyMlFJeTV5VURKVEg3OHdCU2RjS3UxX1diMTJTengwODhJQjQ4V3F0YW5jN1FCSEdkN0c5R251MDZKYmlIMElYdTVOWWlGYlU2M2Q5UV9fejZaV0tydHY3TWRyUGhlaUlPaXBXQXBpd21TOVk1LTJOQU5GY0JEZzFMQXp6QkZRVnFmOEN0ZS1Dd19NS1BadDJRTGNhOTlOVzl1LVFQaWJlRTRual9ISko4cXIwcklvTmw2SjQtcWtLLS1kMkZObThUOGdQX2l0MlA2a3FMZUl2ZTl5Sk9RekVEYU04TEE1bk9WOUlYXzNoYWpHYzFTQQ?oc=5" target="_blank">« La première priorité, c'est de protéger l'indépendance de la Cour » des comptes, promet Amélie de Montchalin</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Le télétravail reste massivement prisé par les entreprises employant des cadres - Les Echos](https://news.google.com/rss/articles/CBMizwFBVV95cUxNTnRfUV85UmVRUlNhTTBRbm9fYm9sQ2N1MjlybkFpdmZYZGliUnpzSzFBOXVNUEI4Z25kVE9CeHUzRjdfc1FwR3hrNTI5cnNFdmVURDZ0QkdXWGxDWmRHLWxYSFBybVBiMFk0dHpOM3BBUWM2bUpEbWhqclZCWl8xMTNpTVhVOThVS016dTNsYk1wWEtsX1NVSml4ZWwyME1GZUhUU1Y4aGQtNnpES2hFRVl0ZTVNYzRRdS0zMUtqVUtJQWFtamNfOHp1WHNaaHM?oc=5)
-
-`Thu, 12 Mar 2026 05:21:08 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMizwFBVV95cUxNTnRfUV85UmVRUlNhTTBRbm9fYm9sQ2N1MjlybkFpdmZYZGliUnpzSzFBOXVNUEI4Z25kVE9CeHUzRjdfc1FwR3hrNTI5cnNFdmVURDZ0QkdXWGxDWmRHLWxYSFBybVBiMFk0dHpOM3BBUWM2bUpEbWhqclZCWl8xMTNpTVhVOThVS016dTNsYk1wWEtsX1NVSml4ZWwyME1GZUhUU1Y4aGQtNnpES2hFRVl0ZTVNYzRRdS0zMUtqVUtJQWFtamNfOHp1WHNaaHM?oc=5" target="_blank">Le télétravail reste massivement prisé par les entreprises employant des cadres</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
