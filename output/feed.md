@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Sat, 11 Apr 2026 09:46:36 +0000`
-> 72 articles (30 derniers jours)
+> Derniere mise a jour : `Sun, 12 Apr 2026 09:50:45 +0000`
+> 73 articles (30 derniers jours)
+
+---
+
+### [Travail le 1er-Mai : les syndicats demandent à Lecornu de bloquer la proposition de loi - Les Echos](https://news.google.com/rss/articles/CBMitgFBVV95cUxNdzF2dG9vSDZwZ2xJc1BSZlFHN0lsT0FGOU82bHcxOGJsQmJXMFBSbGRZSjJ2SGc3R3NFa0k4N295UDRqZHVDZ2tDUDZTVUZkaEs3YWJoRzhBRl82YjlPaVZwY0RkN1FMWFZVM2dCakxKTW9xMXREalN0MFlxRmp1YVpPV2hlN01yRTdidFptXy1sZWVCS3BsZWZrT0syQjFRVVhRbTYyN2QyTnhESVh4Y216MVFNUQ?oc=5)
+
+`Sat, 11 Apr 2026 16:59:30 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxNdzF2dG9vSDZwZ2xJc1BSZlFHN0lsT0FGOU82bHcxOGJsQmJXMFBSbGRZSjJ2SGc3R3NFa0k4N295UDRqZHVDZ2tDUDZTVUZkaEs3YWJoRzhBRl82YjlPaVZwY0RkN1FMWFZVM2dCakxKTW9xMXREalN0MFlxRmp1YVpPV2hlN01yRTdidFptXy1sZWVCS3BsZWZrT0syQjFRVVhRbTYyN2QyTnhESVh4Y216MVFNUQ?oc=5" target="_blank">Travail le 1er-Mai : les syndicats demandent à Lecornu de bloquer la proposition de loi</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
