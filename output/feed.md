@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Mon, 13 Apr 2026 07:30:16 +0000`
-> 72 articles (30 derniers jours)
+> Derniere mise a jour : `Mon, 13 Apr 2026 10:51:21 +0000`
+> 73 articles (30 derniers jours)
+
+---
+
+### [Travail le 1er-Mai : Lecornu temporise - Les Echos](https://news.google.com/rss/articles/CBMilgFBVV95cUxQSVFkRG0xY3REVWRjUDZFNWNyZlVidjJscUh2dDg1bzRQdUpnOVgtMWsxcVI1U0lOZUJvWElFTVJhSkFqZFlqYXc3NlRucUhMVFlQbWdIQVZtWS1Fdk8wR0dKR1J0WW5xVnp6dTc2aVJKUHpFZ3REWC1yNUkzU0JDUEk3LWtYUHhyRjBjNlhuczFnYXBuZlE?oc=5)
+
+`Mon, 13 Apr 2026 10:34:05 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMilgFBVV95cUxQSVFkRG0xY3REVWRjUDZFNWNyZlVidjJscUh2dDg1bzRQdUpnOVgtMWsxcVI1U0lOZUJvWElFTVJhSkFqZFlqYXc3NlRucUhMVFlQbWdIQVZtWS1Fdk8wR0dKR1J0WW5xVnp6dTc2aVJKUHpFZ3REWC1yNUkzU0JDUEk3LWtYUHhyRjBjNlhuczFnYXBuZlE?oc=5" target="_blank">Travail le 1er-Mai : Lecornu temporise</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
