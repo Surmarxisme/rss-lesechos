@@ -1,7 +1,7 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Sun, 12 Apr 2026 09:50:45 +0000`
-> 73 articles (30 derniers jours)
+> Derniere mise a jour : `Mon, 13 Apr 2026 07:30:16 +0000`
+> 72 articles (30 derniers jours)
 
 ---
 
@@ -578,13 +578,5 @@
 `Sun, 15 Mar 2026 07:00:09 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxQU2hOLVZZRGZqbWc5YVBDOERaTTJqcmdNUng5dE5RZm1fYm1HQjdOSWdhMmRjNTVKQS1RSTAwSS1pZ0Y1X1FmLVk1UmVFNWJoM2dBTzdqYUw4aVItQ19BckhlN1R4SFBqQVNnVENOdHdxLUY5cGhzXzNWXzlkSFQ4RWZUU3hPOGRwNnZ2N01kcjVXdG9WaFVORXF0engtZnRZb2N4bGtFbi1TZUIybUhiRE5xSnNScFJfNFpKWllJdnB6RXM?oc=5" target="_blank">Surtaxe sur les bénéfices : quelles entreprises paient la note ?</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [« La première priorité, c'est de protéger l'indépendance de la Cour » des comptes, promet Amélie de Montchalin - Les Echos](https://news.google.com/rss/articles/CBMi-wFBVV95cUxPX292S0wyMlFJeTV5VURKVEg3OHdCU2RjS3UxX1diMTJTengwODhJQjQ4V3F0YW5jN1FCSEdkN0c5R251MDZKYmlIMElYdTVOWWlGYlU2M2Q5UV9fejZaV0tydHY3TWRyUGhlaUlPaXBXQXBpd21TOVk1LTJOQU5GY0JEZzFMQXp6QkZRVnFmOEN0ZS1Dd19NS1BadDJRTGNhOTlOVzl1LVFQaWJlRTRual9ISko4cXIwcklvTmw2SjQtcWtLLS1kMkZObThUOGdQX2l0MlA2a3FMZUl2ZTl5Sk9RekVEYU04TEE1bk9WOUlYXzNoYWpHYzFTQQ?oc=5)
-
-`Fri, 13 Mar 2026 12:41:45 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi-wFBVV95cUxPX292S0wyMlFJeTV5VURKVEg3OHdCU2RjS3UxX1diMTJTengwODhJQjQ4V3F0YW5jN1FCSEdkN0c5R251MDZKYmlIMElYdTVOWWlGYlU2M2Q5UV9fejZaV0tydHY3TWRyUGhlaUlPaXBXQXBpd21TOVk1LTJOQU5GY0JEZzFMQXp6QkZRVnFmOEN0ZS1Dd19NS1BadDJRTGNhOTlOVzl1LVFQaWJlRTRual9ISko4cXIwcklvTmw2SjQtcWtLLS1kMkZObThUOGdQX2l0MlA2a3FMZUl2ZTl5Sk9RekVEYU04TEE1bk9WOUlYXzNoYWpHYzFTQQ?oc=5" target="_blank">« La première priorité, c'est de protéger l'indépendance de la Cour » des comptes, promet Amélie de Montchalin</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
