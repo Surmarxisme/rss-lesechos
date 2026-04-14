@@ -1,7 +1,39 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Mon, 13 Apr 2026 17:50:44 +0000`
-> 73 articles (30 derniers jours)
+> Derniere mise a jour : `Tue, 14 Apr 2026 07:13:27 +0000`
+> 76 articles (30 derniers jours)
+
+---
+
+### [Travail le 1er-Mai : le gouvernement donne le point aux syndicats - Les Echos](https://news.google.com/rss/articles/CBMiugFBVV95cUxNTWNPS09VTmdDMGxrc1pIT2NEcWxpNW05RTlFdG9CVGg2cVkzOERrZ3JNQ2s1Z2N3YUUtVFROcDdVdmdwMnZGMThfTENNb2ZqRkJSTHNhV1dvaU5rak4tQU5CM3puVXVDVjFwRXNYODl1NThfTW96aDJzbDZ3X0xfa000R0F6WDJYZ0FQNi1JcElSM1A3X2V1cUFZYnVQSFd0WGo5SThSTE9ET1RINjlpZzlDT0tiT2cxb0E?oc=5)
+
+`Mon, 13 Apr 2026 18:39:26 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxNTWNPS09VTmdDMGxrc1pIT2NEcWxpNW05RTlFdG9CVGg2cVkzOERrZ3JNQ2s1Z2N3YUUtVFROcDdVdmdwMnZGMThfTENNb2ZqRkJSTHNhV1dvaU5rak4tQU5CM3puVXVDVjFwRXNYODl1NThfTW96aDJzbDZ3X0xfa000R0F6WDJYZ0FQNi1JcElSM1A3X2V1cUFZYnVQSFd0WGo5SThSTE9ET1RINjlpZzlDT0tiT2cxb0E?oc=5" target="_blank">Travail le 1er-Mai : le gouvernement donne le point aux syndicats</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Loi de simplification : ces mesures qui doivent faciliter la vie des entreprises - Les Echos](https://news.google.com/rss/articles/CBMi1AFBVV95cUxORkswUzB6ZXM2bk0teTJHbHNYYUVHM3dFMXE1WV9tUXB1UWJZU0RTMGpCWUd2ZWh2TlZ4RWsyM0swLTVwZEtQVEFtX2RXemdFTi1pYzd4Rzl5V0pTbEt1eFZUS2Q1blNWS01iWGJPT1JGQ1BlRERTa3lWZTBaVWtTWjhZYlU4elJ3cDZXaVVOcjZyZUY1T0dZUmJjTVAwS1lVS3NaVks2Y1VpOUh2TTJzU0xhUjc2Y3VKUktiSFpBaUlraUZDUEk4LXVYQXRzNC1WM0xOQg?oc=5)
+
+`Tue, 14 Apr 2026 04:15:08 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi1AFBVV95cUxORkswUzB6ZXM2bk0teTJHbHNYYUVHM3dFMXE1WV9tUXB1UWJZU0RTMGpCWUd2ZWh2TlZ4RWsyM0swLTVwZEtQVEFtX2RXemdFTi1pYzd4Rzl5V0pTbEt1eFZUS2Q1blNWS01iWGJPT1JGQ1BlRERTa3lWZTBaVWtTWjhZYlU4elJ3cDZXaVVOcjZyZUY1T0dZUmJjTVAwS1lVS3NaVks2Y1VpOUh2TTJzU0xhUjc2Y3VKUktiSFpBaUlraUZDUEk4LXVYQXRzNC1WM0xOQg?oc=5" target="_blank">Loi de simplification : ces mesures qui doivent faciliter la vie des entreprises</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Guerre au Moyen-Orient : en France, l'incertitude économique remonte au même niveau qu'au début du conflit en Ukraine - Les Echos](https://news.google.com/rss/articles/CBMiggJBVV95cUxNVFJoZnRzT0tRT21BY1JWLWZTekdyMGMyTU01dUVpaDNBZENtdjVhVUd4TlpWa0xQTzNpOFBUcFAzU2FrRGhnRWVSc3hzTEcyUHdsMV9CYlN1U3BaVE1hbUdBb2FLMS15el9YVlFGVmtMT0hpeXVBSUgxX1VwRDdPT3czaV9OM1JzdTU3czlaV2w4QjNMNmhYR0pLeG4xMjBWY0xoeERybUluYS1HNTJOYUhKZHNTNmdUalVwd3JmWlR4bW5QbU1sRXJUVDVQRjAxdUJGdW5Xd0RCa0ozb1NScUlRQUtSZm93WlE4eFdtd1dkbWhWWDdKc2pnNmlJX0NUNEE?oc=5)
+
+`Mon, 13 Apr 2026 18:00:09 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiggJBVV95cUxNVFJoZnRzT0tRT21BY1JWLWZTekdyMGMyTU01dUVpaDNBZENtdjVhVUd4TlpWa0xQTzNpOFBUcFAzU2FrRGhnRWVSc3hzTEcyUHdsMV9CYlN1U3BaVE1hbUdBb2FLMS15el9YVlFGVmtMT0hpeXVBSUgxX1VwRDdPT3czaV9OM1JzdTU3czlaV2w4QjNMNmhYR0pLeG4xMjBWY0xoeERybUluYS1HNTJOYUhKZHNTNmdUalVwd3JmWlR4bW5QbU1sRXJUVDVQRjAxdUJGdW5Xd0RCa0ozb1NScUlRQUtSZm93WlE4eFdtd1dkbWhWWDdKc2pnNmlJX0NUNEE?oc=5" target="_blank">Guerre au Moyen-Orient : en France, l'incertitude économique remonte au même niveau qu'au début du conflit en Ukraine</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [« Parfois il s'agit du plus gros employeur d'une ville moyenne » : les défaillances d'entreprises montent encore et s'approchent de la cote d'alerte - Les Echos](https://news.google.com/rss/articles/CBMiowJBVV95cUxPdFg4NU5yVjBadHUzZGV0TDZNSzV3aUJZNWZLbjVVLWZJbFVSMTZHaFBSdThvUkFObjN1anNjTWZTMjVxZlNiUVlHSGlkU2N6RjZCeTJ1QkUzRjFmQlpnOFFUVkpjWTlHUG53VFdOSUgxV2ZoTmdVdWJNbzg1WnByRExvQXhGT3VvTzlDVzA2MkgzRF9BZVd6aHdSZl9qczhqQjZPdjRfakhBT0UtTG85RVl4a2pNWkEwZVV5d21oRXI4cldzMXRMWldPRE9vck8tUXVlUUdReEI4LVE5Ul81bk9oS1lRdEhVdEdzd0VxMnJOWDczY2NrRW52dFJab1RfRG9iOE5xd3NNZW1XMjNwbEdBMmxiaGlsSWZ0cnNjaVFVWWM?oc=5)
+
+`Tue, 14 Apr 2026 04:00:22 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiowJBVV95cUxPdFg4NU5yVjBadHUzZGV0TDZNSzV3aUJZNWZLbjVVLWZJbFVSMTZHaFBSdThvUkFObjN1anNjTWZTMjVxZlNiUVlHSGlkU2N6RjZCeTJ1QkUzRjFmQlpnOFFUVkpjWTlHUG53VFdOSUgxV2ZoTmdVdWJNbzg1WnByRExvQXhGT3VvTzlDVzA2MkgzRF9BZVd6aHdSZl9qczhqQjZPdjRfakhBT0UtTG85RVl4a2pNWkEwZVV5d21oRXI4cldzMXRMWldPRE9vck8tUXVlUUdReEI4LVE5Ul81bk9oS1lRdEhVdEdzd0VxMnJOWDczY2NrRW52dFJab1RfRG9iOE5xd3NNZW1XMjNwbEdBMmxiaGlsSWZ0cnNjaVFVWWM?oc=5" target="_blank">« Parfois il s'agit du plus gros employeur d'une ville moyenne » : les défaillances d'entreprises montent encore et s'approchent de la cote d'alerte</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -578,13 +610,5 @@
 `Mon, 16 Mar 2026 16:46:21 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQmZ3X042OXZpNlJLWEwzVzVuV19ZTDVjTVV6c2paZkl5S2pGZmREVWJ0OC01MFpCQnBJTUxfa1NxaU4tVjhITENwR0FkUHpHNS1LMEh5b1MtMG9tWm85a2dwcUJzdXdRSGh2TWpKTnZxUVgxS0pONWtiOVllYVFSTTFKVmw4eWZBOVVGb2s4UEdzMU9VeXg5cGlJZVRBSFc2WEh1TkZLQTBtVnJWYUh6aXpsalY3dnoyWl9VSmVXQkdHdw?oc=5" target="_blank">Impôt minimal des plus riches : comment l'Etat a raté sa cible</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Surtaxe sur les bénéfices : quelles entreprises paient la note ? - Les Echos](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQU2hOLVZZRGZqbWc5YVBDOERaTTJqcmdNUng5dE5RZm1fYm1HQjdOSWdhMmRjNTVKQS1RSTAwSS1pZ0Y1X1FmLVk1UmVFNWJoM2dBTzdqYUw4aVItQ19BckhlN1R4SFBqQVNnVENOdHdxLUY5cGhzXzNWXzlkSFQ4RWZUU3hPOGRwNnZ2N01kcjVXdG9WaFVORXF0engtZnRZb2N4bGtFbi1TZUIybUhiRE5xSnNScFJfNFpKWllJdnB6RXM?oc=5)
-
-`Sun, 15 Mar 2026 07:00:09 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxQU2hOLVZZRGZqbWc5YVBDOERaTTJqcmdNUng5dE5RZm1fYm1HQjdOSWdhMmRjNTVKQS1RSTAwSS1pZ0Y1X1FmLVk1UmVFNWJoM2dBTzdqYUw4aVItQ19BckhlN1R4SFBqQVNnVENOdHdxLUY5cGhzXzNWXzlkSFQ4RWZUU3hPOGRwNnZ2N01kcjVXdG9WaFVORXF0engtZnRZb2N4bGtFbi1TZUIybUhiRE5xSnNScFJfNFpKWllJdnB6RXM?oc=5" target="_blank">Surtaxe sur les bénéfices : quelles entreprises paient la note ?</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
