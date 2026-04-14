@@ -1,7 +1,31 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Tue, 14 Apr 2026 13:08:01 +0000`
-> 76 articles (30 derniers jours)
+> Derniere mise a jour : `Tue, 14 Apr 2026 17:56:38 +0000`
+> 79 articles (30 derniers jours)
+
+---
+
+### [Assurance-chômage : une approche inédite pour en finir avec les réformes à répétition - Les Echos](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOU0tZemRIcHk1SWg0S2ZxcFNUQ09pM2lNdmlyVG1ieXc0RjgzQzhjd3pmS3FaMlRoLW1SRXVBMHRVMEdqVGtLYWRqWkRDRjZGZlFsVFBGSE14cTk2Y01rc0FFeVJMVG5lYkFlVllrWmxKWmpxUzFSaktUd1ZONmxMVlhKVXotSjVPbGVULWVQck5OS3AxQy1fYnZWREZPQ0NQNUQ0ckdyNGZ0WC1BdUVsSElWV3FVTmFTNnJIbDFwNTB4T2pfRUZEdWMzWThYTk1XZWlXbA?oc=5)
+
+`Tue, 14 Apr 2026 15:28:12 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi1AFBVV95cUxOU0tZemRIcHk1SWg0S2ZxcFNUQ09pM2lNdmlyVG1ieXc0RjgzQzhjd3pmS3FaMlRoLW1SRXVBMHRVMEdqVGtLYWRqWkRDRjZGZlFsVFBGSE14cTk2Y01rc0FFeVJMVG5lYkFlVllrWmxKWmpxUzFSaktUd1ZONmxMVlhKVXotSjVPbGVULWVQck5OS3AxQy1fYnZWREZPQ0NQNUQ0ckdyNGZ0WC1BdUVsSElWV3FVTmFTNnJIbDFwNTB4T2pfRUZEdWMzWThYTk1XZWlXbA?oc=5" target="_blank">Assurance-chômage : une approche inédite pour en finir avec les réformes à répétition</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [« Ils ne se sentent pas à l'abri » : la grande crainte des cadres face au chômage - Les Echos](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQems5LTVLbTdBOHVkX3R1UWhlb3hPQUsxeGNiNlNkV2VTME93N3Z0bHRNT2NKWG9RZHVlR0tSazIwMEFQdkktX1pETHduUzFrZzByMUpHQldYczBJekhHSXdRV094OTc3Mjk3R3d2RlNuR1pac0NrNkpYX3RCU2tNclhjaFZJOXJGYzNJVzIxVWRhT2RnTnBYNFVWUzVBZTYwT0FhbE02enViOTlhQmNjaGM0TWY4S0ZEaDBybmdUdkNkbjZaR2Jibg?oc=5)
+
+`Tue, 14 Apr 2026 16:35:54 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxQems5LTVLbTdBOHVkX3R1UWhlb3hPQUsxeGNiNlNkV2VTME93N3Z0bHRNT2NKWG9RZHVlR0tSazIwMEFQdkktX1pETHduUzFrZzByMUpHQldYczBJekhHSXdRV094OTc3Mjk3R3d2RlNuR1pac0NrNkpYX3RCU2tNclhjaFZJOXJGYzNJVzIxVWRhT2RnTnBYNFVWUzVBZTYwT0FhbE02enViOTlhQmNjaGM0TWY4S0ZEaDBybmdUdkNkbjZaR2Jibg?oc=5" target="_blank">« Ils ne se sentent pas à l'abri » : la grande crainte des cadres face au chômage</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Prix des carburants : le gouvernement brandit à nouveau le plafonnement des marges - Les Echos](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRm1WbHlsa3ZvNFlDd0FlM3IwbHF4LUNUek1IeUsxbW5zWll4WXhPVXpKa2VKcE5vQzlnYjFlRGk1cGJKcDN0LXNrRUxTSmw3RFl6cjRqTFpUeVRRazM0bzN3QmpGN1hMTnVhV3hTakhBRWh5dnpabmZLY0dtVnRJeW9Nalk3U1k5dG9MZXpESjZmcnhBNDd1SHNGMzk5N2tudmJjaVdEakxMSVoyY1p1TXh3SFJJTGxSdHBDNnlQN2tPc2J3ckpnSVNiREk4bXFO?oc=5)
+
+`Tue, 14 Apr 2026 17:24:31 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRm1WbHlsa3ZvNFlDd0FlM3IwbHF4LUNUek1IeUsxbW5zWll4WXhPVXpKa2VKcE5vQzlnYjFlRGk1cGJKcDN0LXNrRUxTSmw3RFl6cjRqTFpUeVRRazM0bzN3QmpGN1hMTnVhV3hTakhBRWh5dnpabmZLY0dtVnRJeW9Nalk3U1k5dG9MZXpESjZmcnhBNDd1SHNGMzk5N2tudmJjaVdEakxMSVoyY1p1TXh3SFJJTGxSdHBDNnlQN2tPc2J3ckpnSVNiREk4bXFO?oc=5" target="_blank">Prix des carburants : le gouvernement brandit à nouveau le plafonnement des marges</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
