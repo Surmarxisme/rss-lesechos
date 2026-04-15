@@ -1,7 +1,31 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Wed, 15 Apr 2026 13:06:01 +0000`
-> 79 articles (30 derniers jours)
+> Derniere mise a jour : `Wed, 15 Apr 2026 17:57:58 +0000`
+> 81 articles (30 derniers jours)
+
+---
+
+### [VIDEO - Plafonnement des marges : une solution face à la hausse du prix des carburants ? - Les Echos](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSHVNRndSdU1pdENqRUcxYmlVUE9ZX0QyZkVrRVlPUU9QZGJkZmtieDRtVzA1Q2xuUlRYMV95X1pIb1dYdkp1WVhkSXFrLWhjcHF2dzQ4LVBONXRqSUoxbUR2a3M2Nmx1dTBQeE5rOVdXS0daWGxkeEpEVHlyckZFVlRtdkgtaEZvQzFGcXFyQWxHWmV5NGdQSklHR0pTbHFuUDF0TW9uNjU0b1ViNkk1VGptQjY4cjZSOXpGb0NlX2xkdHNZZUltRW1JNXBFMElTTmZF?oc=5)
+
+`Wed, 15 Apr 2026 14:28:40 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSHVNRndSdU1pdENqRUcxYmlVUE9ZX0QyZkVrRVlPUU9QZGJkZmtieDRtVzA1Q2xuUlRYMV95X1pIb1dYdkp1WVhkSXFrLWhjcHF2dzQ4LVBONXRqSUoxbUR2a3M2Nmx1dTBQeE5rOVdXS0daWGxkeEpEVHlyckZFVlRtdkgtaEZvQzFGcXFyQWxHWmV5NGdQSklHR0pTbHFuUDF0TW9uNjU0b1ViNkk1VGptQjY4cjZSOXpGb0NlX2xkdHNZZUltRW1JNXBFMElTTmZF?oc=5" target="_blank">VIDEO - Plafonnement des marges : une solution face à la hausse du prix des carburants ?</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Présidentielle 2027 : comment le Medef se prépare à être « un acteur central du débat » - Les Echos](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbml4VmNqY2VkZTlnYldaaXhqQzg2aHh5RUNEZVJZWU8tQWQwRm10VXk3MG1FT2hsQks0M2UxaTdkVjQxV1NkUDYxQVhMUVJ4LU1NWFBxNmVyNEJSU3k5WU1kMlBweFFTenpBamVZVXR4NWVFT0d3b2hvZE41T21xbHdGZmdqYUYtVi15bWV5allFQ2pkOUdzYUw5WHdaRHI5YlI2TFV1Z0FzS05JTG5WTWtBUC1IbldWZTdDbklJelIyMS1pUW53VzVSRFpLV1pBWGc?oc=5)
+
+`Wed, 15 Apr 2026 16:51:22 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbml4VmNqY2VkZTlnYldaaXhqQzg2aHh5RUNEZVJZWU8tQWQwRm10VXk3MG1FT2hsQks0M2UxaTdkVjQxV1NkUDYxQVhMUVJ4LU1NWFBxNmVyNEJSU3k5WU1kMlBweFFTenpBamVZVXR4NWVFT0d3b2hvZE41T21xbHdGZmdqYUYtVi15bWV5allFQ2pkOUdzYUw5WHdaRHI5YlI2TFV1Z0FzS05JTG5WTWtBUC1IbldWZTdDbklJelIyMS1pUW53VzVSRFpLV1pBWGc?oc=5" target="_blank">Présidentielle 2027 : comment le Medef se prépare à être « un acteur central du débat »</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Se priver de viande, de chauffage ou de vêtements neufs : ces Français contraints de tailler dans leurs dépenses courantes - Les Echos](https://news.google.com/rss/articles/CBMiiwJBVV95cUxOQ3psZFVsWVZtQldDNTYzZGFXVlQxUjY3WkRrZl83aDA5T2JLRzVGOXBNZXhWV1J4d2IwWERwU2w3TlA5b2Z0WFJoVlc4d3V2Z0dlZm8wQTFxYkNSRmFCMEFEOUM3eEZLeW5zZDlPd0Fxdk5xemxVamQ2WnpvSVZIN3lBVXpSc29Yd0hLdVlabFdVZTFQaXNidU9TdVpsR0pSR3hudDM4Mi1iZkRZYXdYZ2hzb2NCZDFrMEh0bEh1T0tCczJOOW5fRWpRMDhZeVh6M2V2eXUxeFFLcXF1X01VNDZWbndMa1N3ZnVUQkZsTXhNUHJzN1B0NlMwenRwTk9wZk1kX2Jac0dnTnM?oc=5)
+
+`Wed, 15 Apr 2026 15:00:40 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiiwJBVV95cUxOQ3psZFVsWVZtQldDNTYzZGFXVlQxUjY3WkRrZl83aDA5T2JLRzVGOXBNZXhWV1J4d2IwWERwU2w3TlA5b2Z0WFJoVlc4d3V2Z0dlZm8wQTFxYkNSRmFCMEFEOUM3eEZLeW5zZDlPd0Fxdk5xemxVamQ2WnpvSVZIN3lBVXpSc29Yd0hLdVlabFdVZTFQaXNidU9TdVpsR0pSR3hudDM4Mi1iZkRZYXdYZ2hzb2NCZDFrMEh0bEh1T0tCczJOOW5fRWpRMDhZeVh6M2V2eXUxeFFLcXF1X01VNDZWbndMa1N3ZnVUQkZsTXhNUHJzN1B0NlMwenRwTk9wZk1kX2Jac0dnTnM?oc=5" target="_blank">Se priver de viande, de chauffage ou de vêtements neufs : ces Français contraints de tailler dans leurs dépenses courantes</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -626,13 +650,5 @@
 `Tue, 17 Mar 2026 06:15:08 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYmtvc3NyWEVPTWlDWTFRNjNlLTJHVXRHXzZicHVzc3ZTYnNSZ3RrOEhYLWVXa2g2bThyeFlZM1BSYV84THB6eV9XSEk5TjNDZzlDY1h0UEVQQmlFSjlzSDh3N1dPZVNDSi1GdGFzU3VVSGFPaGtLY3JGYUxORkN3TjNsOE1Vel8wcUNIUzBpUGtQU21SdjF3YlVsSFFNMllWNVgwdmNhWFpmbnhjbGJWdXJTcVhCWlcwdUxYMDhIZ3E2NmJkTnhfOHF4VUwxOW82ZHBJ?oc=5" target="_blank">Compétitivité : le jugement sans concession des Européens sur le made in France</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Impôt minimal des plus riches : comment l'Etat a raté sa cible - Les Echos](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQmZ3X042OXZpNlJLWEwzVzVuV19ZTDVjTVV6c2paZkl5S2pGZmREVWJ0OC01MFpCQnBJTUxfa1NxaU4tVjhITENwR0FkUHpHNS1LMEh5b1MtMG9tWm85a2dwcUJzdXdRSGh2TWpKTnZxUVgxS0pONWtiOVllYVFSTTFKVmw4eWZBOVVGb2s4UEdzMU9VeXg5cGlJZVRBSFc2WEh1TkZLQTBtVnJWYUh6aXpsalY3dnoyWl9VSmVXQkdHdw?oc=5)
-
-`Mon, 16 Mar 2026 16:46:21 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQmZ3X042OXZpNlJLWEwzVzVuV19ZTDVjTVV6c2paZkl5S2pGZmREVWJ0OC01MFpCQnBJTUxfa1NxaU4tVjhITENwR0FkUHpHNS1LMEh5b1MtMG9tWm85a2dwcUJzdXdRSGh2TWpKTnZxUVgxS0pONWtiOVllYVFSTTFKVmw4eWZBOVVGb2s4UEdzMU9VeXg5cGlJZVRBSFc2WEh1TkZLQTBtVnJWYUh6aXpsalY3dnoyWl9VSmVXQkdHdw?oc=5" target="_blank">Impôt minimal des plus riches : comment l'Etat a raté sa cible</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
