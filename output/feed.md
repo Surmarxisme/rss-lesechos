@@ -1,7 +1,39 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Thu, 16 Apr 2026 13:13:53 +0000`
-> 82 articles (30 derniers jours)
+> Derniere mise a jour : `Thu, 16 Apr 2026 18:01:36 +0000`
+> 85 articles (30 derniers jours)
+
+---
+
+### [En France, la redistribution réduit les inégalités mais creuse la dette - Les Echos](https://news.google.com/rss/articles/CBMiygFBVV95cUxQNVNkMVRCSEZudVFyUWstaGdrOV9xNHJQVmMwZm1pNGJPRm8tQVhqUGlybXdjRllSV2dzS0lvazJvSTFsYncwZW5pUUFycUlxQWV2VWIwU2d5NnZoSDhkOVlhZDljWFMyOW1tZkJRTlByMW5SZ09GSEpKcFNZX05oR3pjcjI5Sk9ldnhtNTNMQjAxT0YweHZJZkN0aUI2Q2pLS3g0MEVZamVXaTRlblR4WmJpMlgwQU9KUGh4TDhNbjJYUW1FUXNNNllB?oc=5)
+
+`Thu, 16 Apr 2026 15:00:25 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxQNVNkMVRCSEZudVFyUWstaGdrOV9xNHJQVmMwZm1pNGJPRm8tQVhqUGlybXdjRllSV2dzS0lvazJvSTFsYncwZW5pUUFycUlxQWV2VWIwU2d5NnZoSDhkOVlhZDljWFMyOW1tZkJRTlByMW5SZ09GSEpKcFNZX05oR3pjcjI5Sk9ldnhtNTNMQjAxT0YweHZJZkN0aUI2Q2pLS3g0MEVZamVXaTRlblR4WmJpMlgwQU9KUGh4TDhNbjJYUW1FUXNNNllB?oc=5" target="_blank">En France, la redistribution réduit les inégalités mais creuse la dette</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Travail le 1er-Mai : ce que prépare le gouvernement pour les boulangers et les fleuristes - Les Echos](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZXRUaTBQSk1Sc1ZUUTFwWFZNYTMzMU95NEticWtwY1FyTEdFckRseFNWbFpPUFJpdUlkYjdNTTVOdkdtd3M0Y2QyX0todEx3ZTM1MTV1OVhiMlBreXphMU42YlVnd25FWjNyR29kQ2xqRUxqSlg2X0J1RWJOaWw0c3JBU0hUNVk2WUNwSU9mZ1dwcEpLTzktMko1TWlTMVhnblZZNnZESGtnRTFkZFhyUlY4alRwWkFsQlVRSzNNWEs3bEtnMEM2ZmNVMGlvS3M0dWtGMHVPU3lQdw?oc=5)
+
+`Thu, 16 Apr 2026 15:48:46 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZXRUaTBQSk1Sc1ZUUTFwWFZNYTMzMU95NEticWtwY1FyTEdFckRseFNWbFpPUFJpdUlkYjdNTTVOdkdtd3M0Y2QyX0todEx3ZTM1MTV1OVhiMlBreXphMU42YlVnd25FWjNyR29kQ2xqRUxqSlg2X0J1RWJOaWw0c3JBU0hUNVk2WUNwSU9mZ1dwcEpLTzktMko1TWlTMVhnblZZNnZESGtnRTFkZFhyUlY4alRwWkFsQlVRSzNNWEs3bEtnMEM2ZmNVMGlvS3M0dWtGMHVPU3lQdw?oc=5" target="_blank">Travail le 1er-Mai : ce que prépare le gouvernement pour les boulangers et les fleuristes</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [« Des modes opératoires similaires à ceux de la criminalité organisée » : l'Assurance Maladie aux prises avec des fraudes de plus en plus sophistiquées - Les Echos](https://news.google.com/rss/articles/CBMipgJBVV95cUxOU0preXRjTkJrQUI4OEktNlhxTTl6MG9HWWpNV1V5ampESEdrWEJVbzMwSWIxZW1ZYWxDZENjV0c3dlFuak85Sy1MQUV0LUVwSTBHWXVGYkdCZUpKOUZ6clBQV25sa0RSaTVvWW9aN0poVjR0WE4zR012N2lyaFV5N1pBWm9xSDlZcWNpWmlfbS16MVVLTm1JdGhzendqckhnemlOZTNOY3pZSHUwNDFDekpwdVdybUtzUVNaaVoyVXE5V2RUTk5ZU0RJU2NSNUJMN3lVM2hqTVAxc04wYTRoYnZQaGc0UkhWdHlWRF9ZVGJRTWMydzl3QnFmODhuTHFXRkt6S3FWdGR0eGZtUmMxcDZ0SjB1VHVvcnN4ZHBmcmNxS0VvalE?oc=5)
+
+`Thu, 16 Apr 2026 16:06:11 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMipgJBVV95cUxOU0preXRjTkJrQUI4OEktNlhxTTl6MG9HWWpNV1V5ampESEdrWEJVbzMwSWIxZW1ZYWxDZENjV0c3dlFuak85Sy1MQUV0LUVwSTBHWXVGYkdCZUpKOUZ6clBQV25sa0RSaTVvWW9aN0poVjR0WE4zR012N2lyaFV5N1pBWm9xSDlZcWNpWmlfbS16MVVLTm1JdGhzendqckhnemlOZTNOY3pZSHUwNDFDekpwdVdybUtzUVNaaVoyVXE5V2RUTk5ZU0RJU2NSNUJMN3lVM2hqTVAxc04wYTRoYnZQaGc0UkhWdHlWRF9ZVGJRTWMydzl3QnFmODhuTHFXRkt6S3FWdGR0eGZtUmMxcDZ0SjB1VHVvcnN4ZHBmcmNxS0VvalE?oc=5" target="_blank">« Des modes opératoires similaires à ceux de la criminalité organisée » : l'Assurance Maladie aux prises avec des fraudes de plus en plus sophistiquées</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [La lutte contre le travail au noir jugée « insuffisamment efficace » - Les Echos](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZ0lGT0FCM1h0VjBoQkVMXzJzM1NHVDV2M1Z1UHMxWXpLY29yNWktNXpjeFdra25oYjJVTnN0VVNHeERHSGVvcGtGYmlrNHpMTXVQUHp2clZWaFJNVHh0UmJwcjl2MHJVYlBkTjREWjJOVDVSX05tX1BZNjdOejJKVHZoVEk5VUt2SlFEb0JKWGg5S1ZDN3RFYTR2ektzSk5xVTIxdHNZQzZnQ2paZDRqdzBoWEszdHVNZDQ0?oc=5)
+
+`Thu, 16 Apr 2026 17:22:07 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZ0lGT0FCM1h0VjBoQkVMXzJzM1NHVDV2M1Z1UHMxWXpLY29yNWktNXpjeFdra25oYjJVTnN0VVNHeERHSGVvcGtGYmlrNHpMTXVQUHp2clZWaFJNVHh0UmJwcjl2MHJVYlBkTjREWjJOVDVSX05tX1BZNjdOejJKVHZoVEk5VUt2SlFEb0JKWGg5S1ZDN3RFYTR2ektzSk5xVTIxdHNZQzZnQ2paZDRqdzBoWEszdHVNZDQ0?oc=5" target="_blank">La lutte contre le travail au noir jugée « insuffisamment efficace »</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -650,13 +682,5 @@
 `Wed, 18 Mar 2026 05:55:08 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMiowFBVV95cUxNbHNmZVpfQllpQW4yNDhxNkwtMkNjSXlSRVpfOWJPVjc4TENxWVhrOGMxMTU5amZKZzZMd1pDUlk5OE5URC1oQnlScDVXN0QwWV9XMGdlaDdWY0s1OFZ5RWZWT2puYUVxSHBUZVRySFZKMnNxcU8zUVZaU1FiN2hOSy1aeVMtQTQ4T3dYdmxVWndvLURtM0NrSXZmVUJ6TVlZWmJv?oc=5" target="_blank">Les hôpitaux publics face à « un mur de dépenses »</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Salaires : la prime de partage de la valeur perd du terrain dans les entreprises - Les Echos](https://news.google.com/rss/articles/CBMizgFBVV95cUxNVkJzTFNyX2lQUlMwWmF5RVFrc0lLaEprTzJWS3JZN3BVaFIwREo1WTFCVHgwSkI0bUhWVlFXaTRBQnJwT2lMdER2NkNuSEZrd01NcDJqUUR6Q09JQ2tIVDdIWEpYZHBNRUV4bXNXd1RPbHlvX2g0c0FjX2hiSDloWWp0MzRfNXlOaEhKRUlTSGs2TGRad1RIc25GQnJHeTJyQ1dFbWtObG1KM01BUHlBQTVfQWxJZGhXNExfdEZOX3N5VkJuT0JRNWZ6b3hEUQ?oc=5)
-
-`Tue, 17 Mar 2026 16:17:15 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMizgFBVV95cUxNVkJzTFNyX2lQUlMwWmF5RVFrc0lLaEprTzJWS3JZN3BVaFIwREo1WTFCVHgwSkI0bUhWVlFXaTRBQnJwT2lMdER2NkNuSEZrd01NcDJqUUR6Q09JQ2tIVDdIWEpYZHBNRUV4bXNXd1RPbHlvX2g0c0FjX2hiSDloWWp0MzRfNXlOaEhKRUlTSGs2TGRad1RIc25GQnJHeTJyQ1dFbWtObG1KM01BUHlBQTVfQWxJZGhXNExfdEZOX3N5VkJuT0JRNWZ6b3hEUQ?oc=5" target="_blank">Salaires : la prime de partage de la valeur perd du terrain dans les entreprises</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
