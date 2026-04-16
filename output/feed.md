@@ -1,7 +1,23 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Wed, 15 Apr 2026 17:57:58 +0000`
-> 81 articles (30 derniers jours)
+> Derniere mise a jour : `Thu, 16 Apr 2026 07:14:51 +0000`
+> 82 articles (30 derniers jours)
+
+---
+
+### [Allocation de solidarité unifiée : pas encore présenté, le projet du gouvernement attaqué de toutes parts - Les Echos](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNTjc3ZTU4d282eVZsNXJYT2Z4bFVheGp4TEZIWlpyc2pTTmh5d1JBX054YkdzMUFwcnhTZnRWaDVxYUNWeDM1cWlyZ0o0Nm4yVUdoV2tHQ1FSNm8zSEJ0Zmhqc2R0MUgxTVplVXdyYlRSSm93cWRGUHdIcXJRc3FlR3V2SHY5V2JIZG9seXVzMTItU0c4c0hnX2EwXzFHRFhfNE9OVXZnRmJNN284SUpDUkFIZW00YmlOdllydGNoanJVdV9QVjdGYjVoN2FXMEdhcXVrSnNMcW0xbWRZSG9ZVWt1YlQxS3NIRk9BMnNB?oc=5)
+
+`Thu, 16 Apr 2026 04:05:09 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi7gFBVV95cUxNTjc3ZTU4d282eVZsNXJYT2Z4bFVheGp4TEZIWlpyc2pTTmh5d1JBX054YkdzMUFwcnhTZnRWaDVxYUNWeDM1cWlyZ0o0Nm4yVUdoV2tHQ1FSNm8zSEJ0Zmhqc2R0MUgxTVplVXdyYlRSSm93cWRGUHdIcXJRc3FlR3V2SHY5V2JIZG9seXVzMTItU0c4c0hnX2EwXzFHRFhfNE9OVXZnRmJNN284SUpDUkFIZW00YmlOdllydGNoanJVdV9QVjdGYjVoN2FXMEdhcXVrSnNMcW0xbWRZSG9ZVWt1YlQxS3NIRk9BMnNB?oc=5" target="_blank">Allocation de solidarité unifiée : pas encore présenté, le projet du gouvernement attaqué de toutes parts</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Economie Sociale et Solidaire (ESS) : actualités, chiffres et analyses, vidéos - Les Echos | Page 42 - Les Echos](https://news.google.com/rss/articles/CBMijAFBVV95cUxNUElweXVJQ2xTRWdUR0wxTnctY3N1NWs3dFo3eXp1TnBab0Rxa19KNnpMSW11RnE0eW1JblBCU2psSHlJdnkwUHZhN0xkc3dHbk05aHROa0ZMYzFULTFkS0dYdFhaM2g5Vkl4UVhPSjQ1X190MzhPRlFaa0dqU1ZCM2Ewa1ZLM1FwYjFydA?oc=5)
+
+`Sat, 11 Apr 2026 21:47:12 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMijAFBVV95cUxNUElweXVJQ2xTRWdUR0wxTnctY3N1NWs3dFo3eXp1TnBab0Rxa19KNnpMSW11RnE0eW1JblBCU2psSHlJdnkwUHZhN0xkc3dHbk05aHROa0ZMYzFULTFkS0dYdFhaM2g5Vkl4UVhPSjQ1X190MzhPRlFaa0dqU1ZCM2Ewa1ZLM1FwYjFydA?oc=5" target="_blank">Economie Sociale et Solidaire (ESS) : actualités, chiffres et analyses, vidéos - Les Echos | Page 42</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -642,13 +658,5 @@
 `Tue, 17 Mar 2026 16:17:15 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMizgFBVV95cUxNVkJzTFNyX2lQUlMwWmF5RVFrc0lLaEprTzJWS3JZN3BVaFIwREo1WTFCVHgwSkI0bUhWVlFXaTRBQnJwT2lMdER2NkNuSEZrd01NcDJqUUR6Q09JQ2tIVDdIWEpYZHBNRUV4bXNXd1RPbHlvX2g0c0FjX2hiSDloWWp0MzRfNXlOaEhKRUlTSGs2TGRad1RIc25GQnJHeTJyQ1dFbWtObG1KM01BUHlBQTVfQWxJZGhXNExfdEZOX3N5VkJuT0JRNWZ6b3hEUQ?oc=5" target="_blank">Salaires : la prime de partage de la valeur perd du terrain dans les entreprises</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Compétitivité : le jugement sans concession des Européens sur le made in France - Les Echos](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYmtvc3NyWEVPTWlDWTFRNjNlLTJHVXRHXzZicHVzc3ZTYnNSZ3RrOEhYLWVXa2g2bThyeFlZM1BSYV84THB6eV9XSEk5TjNDZzlDY1h0UEVQQmlFSjlzSDh3N1dPZVNDSi1GdGFzU3VVSGFPaGtLY3JGYUxORkN3TjNsOE1Vel8wcUNIUzBpUGtQU21SdjF3YlVsSFFNMllWNVgwdmNhWFpmbnhjbGJWdXJTcVhCWlcwdUxYMDhIZ3E2NmJkTnhfOHF4VUwxOW82ZHBJ?oc=5)
-
-`Tue, 17 Mar 2026 06:15:08 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYmtvc3NyWEVPTWlDWTFRNjNlLTJHVXRHXzZicHVzc3ZTYnNSZ3RrOEhYLWVXa2g2bThyeFlZM1BSYV84THB6eV9XSEk5TjNDZzlDY1h0UEVQQmlFSjlzSDh3N1dPZVNDSi1GdGFzU3VVSGFPaGtLY3JGYUxORkN3TjNsOE1Vel8wcUNIUzBpUGtQU21SdjF3YlVsSFFNMllWNVgwdmNhWFpmbnhjbGJWdXJTcVhCWlcwdUxYMDhIZ3E2NmJkTnhfOHF4VUwxOW82ZHBJ?oc=5" target="_blank">Compétitivité : le jugement sans concession des Européens sur le made in France</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
