@@ -1,7 +1,23 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Thu, 16 Apr 2026 18:01:36 +0000`
-> 85 articles (30 derniers jours)
+> Derniere mise a jour : `Fri, 17 Apr 2026 07:15:24 +0000`
+> 86 articles (30 derniers jours)
+
+---
+
+### [Assurance-chômage : l'Assemblée rejette l'accord sur les ruptures conventionnelles, un revers majeur pour Lecornu - Les Echos](https://news.google.com/rss/articles/CBMi9gFBVV95cUxOLU80UjFITE5BSGQ3Mm11a2lySmNKSy1CT0FiT3pNRGZrR3JzbW1XLTVFZmZOYWxFMWNQaWJDNldEMjdzZW1XN2FWYVZXZGoxdDlXZ2c5M2M1QkpzdER0RjYtWmdmbE5fSEJmem5WR1duYzdUZTRzdXE5OWNoUzVoTG11UE1KZUxrWTVsUXBLdVc5U1I0eXEyMWF5ZFBwaFowQnBHdVBZYi13c2dGQTBkN2xWNU1OU1lGRHFianNNbFNQZ19yUFF4XzlhanBXakFEZE1INUg0NlIzN3dRb09jWkxkNVFORFpJT29uZ0dGNHlsQXFPdGc?oc=5)
+
+`Thu, 16 Apr 2026 18:31:18 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi9gFBVV95cUxOLU80UjFITE5BSGQ3Mm11a2lySmNKSy1CT0FiT3pNRGZrR3JzbW1XLTVFZmZOYWxFMWNQaWJDNldEMjdzZW1XN2FWYVZXZGoxdDlXZ2c5M2M1QkpzdER0RjYtWmdmbE5fSEJmem5WR1duYzdUZTRzdXE5OWNoUzVoTG11UE1KZUxrWTVsUXBLdVc5U1I0eXEyMWF5ZFBwaFowQnBHdVBZYi13c2dGQTBkN2xWNU1OU1lGRHFianNNbFNQZ19yUFF4XzlhanBXakFEZE1INUg0NlIzN3dRb09jWkxkNVFORFpJT29uZ0dGNHlsQXFPdGc?oc=5" target="_blank">Assurance-chômage : l'Assemblée rejette l'accord sur les ruptures conventionnelles, un revers majeur pour Lecornu</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Finances Publiques : actualités, analyses et vidéos - Les Echos | Page 1008 - Les Echos](https://news.google.com/rss/articles/CBMijgFBVV95cUxPV0pyZW9heVgtdkRrcXFfZHU3YmUwVGlyeldFbWNPMlpkWnBXV3Fndm9EWklLZDk0bjM4cjltbmo0YUR1TE5SSk04bDNhYnNzREdvckpTWmYtM1JzTnVWUWo2bTdYb1RSMWdGdFVBWmFJTVE3X2pPMTNuZmNKZHRvSm5ONUtVazZscDFab1F3?oc=5)
+
+`Sun, 12 Apr 2026 17:19:16 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMijgFBVV95cUxPV0pyZW9heVgtdkRrcXFfZHU3YmUwVGlyeldFbWNPMlpkWnBXV3Fndm9EWklLZDk0bjM4cjltbmo0YUR1TE5SSk04bDNhYnNzREdvckpTWmYtM1JzTnVWUWo2bTdYb1RSMWdGdFVBWmFJTVE3X2pPMTNuZmNKZHRvSm5ONUtVazZscDFab1F3?oc=5" target="_blank">Finances Publiques : actualités, analyses et vidéos - Les Echos | Page 1008</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -674,13 +690,5 @@
 `Thu, 19 Mar 2026 06:00:52 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMiggJBVV95cUxPbkpMUlpaNm5tc0NVN1hNNGNMamJaQTZiTjFHLU1hLU1PdTVvSWdGQ2h1SHh3Wm1DZzBINXkwUGg0Qy1CVUZnbUV0VmVwcjZyU2dfWjVvTzQ1Ynh4RmRZQjFDLXc1bk9Vd1ZLR1diOHBJanhUb1pzN01UOHNGcnFNU01GUzRKdnRsRE9LXzdiT3M1eld4Y3pKSVh0TFRpaExyYW53WTR4YTd6c29NVnJ4ajhoVXJkRXM3ekRkaDExMFZuX1diUWl1S0NucmN2Y1FXYzR0UkVfU0FWYjZUVk1zV1lGUUg5VzBzMzA4M1Q5c2dJMUE2ZlVhNEhhaVduVnltaGc?oc=5" target="_blank">Transparence salariale dans les entreprises : critiques, patronat et syndicats espèrent encore modifier le projet de loi</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Les hôpitaux publics face à « un mur de dépenses » - Les Echos](https://news.google.com/rss/articles/CBMiowFBVV95cUxNbHNmZVpfQllpQW4yNDhxNkwtMkNjSXlSRVpfOWJPVjc4TENxWVhrOGMxMTU5amZKZzZMd1pDUlk5OE5URC1oQnlScDVXN0QwWV9XMGdlaDdWY0s1OFZ5RWZWT2puYUVxSHBUZVRySFZKMnNxcU8zUVZaU1FiN2hOSy1aeVMtQTQ4T3dYdmxVWndvLURtM0NrSXZmVUJ6TVlZWmJv?oc=5)
-
-`Wed, 18 Mar 2026 05:55:08 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiowFBVV95cUxNbHNmZVpfQllpQW4yNDhxNkwtMkNjSXlSRVpfOWJPVjc4TENxWVhrOGMxMTU5amZKZzZMd1pDUlk5OE5URC1oQnlScDVXN0QwWV9XMGdlaDdWY0s1OFZ5RWZWT2puYUVxSHBUZVRySFZKMnNxcU8zUVZaU1FiN2hOSy1aeVMtQTQ4T3dYdmxVWndvLURtM0NrSXZmVUJ6TVlZWmJv?oc=5" target="_blank">Les hôpitaux publics face à « un mur de dépenses »</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
