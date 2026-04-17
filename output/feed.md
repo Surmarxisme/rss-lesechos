@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Fri, 17 Apr 2026 13:00:46 +0000`
-> 86 articles (30 derniers jours)
+> Derniere mise a jour : `Fri, 17 Apr 2026 17:39:24 +0000`
+> 87 articles (30 derniers jours)
+
+---
+
+### [Travail le 1er-Mai : Lecornu trouve un compromis pour les boulangers et fleuristes indépendants - Les Echos](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPYzUwYjBBd3UzVXplTVhmQTlHN2tiQUE0Z0p4T3draU1pdE1KRk10ZkhWX2FwZVE0RGtsYnZMbkJwV1NsblRZZVFjLUFZV015SzZhSV93b0xDMGNHb0VPRWcwTlEwVG1xX0tJaWRNLVRPanAtNXFUc1JHWnlKZ0JLVWVmdlRVZDlveXY5YkdqWjRuWGZqX3B5S1BIZG4wM2hRdjN3UlhpM2dVSlJGaHNQeUtqSGpNMG94WUJNLVBITnd3NDl6enJEcndiZ0hxWDhuay01bHkydzl2ckNoLS13YXl3?oc=5)
+
+`Fri, 17 Apr 2026 13:30:52 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi4gFBVV95cUxPYzUwYjBBd3UzVXplTVhmQTlHN2tiQUE0Z0p4T3draU1pdE1KRk10ZkhWX2FwZVE0RGtsYnZMbkJwV1NsblRZZVFjLUFZV015SzZhSV93b0xDMGNHb0VPRWcwTlEwVG1xX0tJaWRNLVRPanAtNXFUc1JHWnlKZ0JLVWVmdlRVZDlveXY5YkdqWjRuWGZqX3B5S1BIZG4wM2hRdjN3UlhpM2dVSlJGaHNQeUtqSGpNMG94WUJNLVBITnd3NDl6enJEcndiZ0hxWDhuay01bHkydzl2ckNoLS13YXl3?oc=5" target="_blank">Travail le 1er-Mai : Lecornu trouve un compromis pour les boulangers et fleuristes indépendants</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
