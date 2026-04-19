@@ -1,7 +1,23 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Fri, 17 Apr 2026 17:39:24 +0000`
+> Derniere mise a jour : `Sun, 19 Apr 2026 09:52:03 +0000`
 > 87 articles (30 derniers jours)
+
+---
+
+### [VIDEO - Pourquoi le travail ne paie plus - Les Echos](https://news.google.com/rss/articles/CBMimAFBVV95cUxPWUVpNEhVelVIWDZ2dlZuQUZOWWdJY2FmZHg5engyU3lSN21MeGt3Y0dPNE05aDI2UkViQlpFZl8xSVpNZ3dRRjgzWlp0NnJtb3lsMzlwa1NHUTI3VzhHdkNfai1tQ3JKUXB6T0VPbW9xcEpRdW10YVNhWE9XaXFiVmVhamVzSGZ4NXF3WlljXy1GMGFsbllUVQ?oc=5)
+
+`Sat, 18 Apr 2026 08:05:08 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMimAFBVV95cUxPWUVpNEhVelVIWDZ2dlZuQUZOWWdJY2FmZHg5engyU3lSN21MeGt3Y0dPNE05aDI2UkViQlpFZl8xSVpNZ3dRRjgzWlp0NnJtb3lsMzlwa1NHUTI3VzhHdkNfai1tQ3JKUXB6T0VPbW9xcEpRdW10YVNhWE9XaXFiVmVhamVzSGZ4NXF3WlljXy1GMGFsbllUVQ?oc=5" target="_blank">VIDEO - Pourquoi le travail ne paie plus</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [EXCLUSIF - Budget : Bercy devrait annoncer 4 milliards d'euros d'économies - Les Echos](https://news.google.com/rss/articles/CBMizgFBVV95cUxQTzJvaElWd3BRNFdqdmNaS1dnMjBzTThSTlJBWlQtclZBR2RoNjUyR3pqZ0h2VkNoSEFmc09FcFFyNGxmbllYUHUwRk1sTFBIVVI1eFNldm1WcTVkYVg2Tk1YdGRKRjF2UVVybHpZcGYzYlBGSkhCM0JnQnhFd3p1dTY4ZFdVY3ctandQTWJjSUdZSWRrbG9lWnlnUFdaT1B4VTlXd1ZhOTJWY0F2eXdTUHlVMC1hNHpvZ3gxeTBaYTNFTEpNeDFJRmdfdVgxdw?oc=5)
+
+`Sat, 18 Apr 2026 06:05:09 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMizgFBVV95cUxQTzJvaElWd3BRNFdqdmNaS1dnMjBzTThSTlJBWlQtclZBR2RoNjUyR3pqZ0h2VkNoSEFmc09FcFFyNGxmbllYUHUwRk1sTFBIVVI1eFNldm1WcTVkYVg2Tk1YdGRKRjF2UVVybHpZcGYzYlBGSkhCM0JnQnhFd3p1dTY4ZFdVY3ctandQTWJjSUdZSWRrbG9lWnlnUFdaT1B4VTlXd1ZhOTJWY0F2eXdTUHlVMC1hNHpvZ3gxeTBaYTNFTEpNeDFJRmdfdVgxdw?oc=5" target="_blank">EXCLUSIF - Budget : Bercy devrait annoncer 4 milliards d'euros d'économies</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -682,21 +698,5 @@
 `Tue, 24 Mar 2026 05:05:09 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi7wFBVV95cUxNb2RWYWdkZzR4VnhfWlFIZWsxb3JmWmVEZ3MxTFVGMkhReW54X2ZsRGl1M1VwQjAzYnA2aDdCVFdHYXN1M0tjT09hT3dyVVNlOXZmMEN4WmxybXZMbUdDTHVVQmh6MHE1MDgyaW5UdlpNdlNudWFoX0FMX2wtdS1qV1FMTThLSXExeE5xOTlGWWV0ZW51YXdlNE5QeEVQandCd0NRTWVzbUpUem5MM0x0RU5HVTJzWks3LTVNQUp3VW5Wc2FERTZqRnNZeTZKQ2x4UGFIY3dVN2djV1hzaVhyN3FkVmJFdjB2QVJFYnZWNA?oc=5" target="_blank">« Ça patauge sérieusement » : à mi-parcours, la conférence sociale sur les retraites cherche encore son chemin</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Sécurité sociale : le déficit 2025 un peu moins dégradé que prévu - Les Echos](https://news.google.com/rss/articles/CBMiugFBVV95cUxPV19KN05UTmxPSGRUTjNpZ09HaUxyX3NSRTkxbkZzMHdXSXAtUVp6OElPdEktTXlORGlCWk5ldzVtTXUzVDRxVF9DbWQ4UW1xNDg5OFNBSzA1dlFxRWVGNlp0Rk5pX3RfZmpLa3htZ1JvMjI3YzJkRWtxeGhXQmFPNkhFMm04NzNEQWdwMUdWRG1kUTJzZnMtRG5lVFhHcFhHRzhCLXBSZ0MwM21meU5DcTJSX3hIZzNINUE?oc=5)
-
-`Thu, 19 Mar 2026 13:37:38 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxPV19KN05UTmxPSGRUTjNpZ09HaUxyX3NSRTkxbkZzMHdXSXAtUVp6OElPdEktTXlORGlCWk5ldzVtTXUzVDRxVF9DbWQ4UW1xNDg5OFNBSzA1dlFxRWVGNlp0Rk5pX3RfZmpLa3htZ1JvMjI3YzJkRWtxeGhXQmFPNkhFMm04NzNEQWdwMUdWRG1kUTJzZnMtRG5lVFhHcFhHRzhCLXBSZ0MwM21meU5DcTJSX3hIZzNINUE?oc=5" target="_blank">Sécurité sociale : le déficit 2025 un peu moins dégradé que prévu</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Transparence salariale dans les entreprises : critiques, patronat et syndicats espèrent encore modifier le projet de loi - Les Echos](https://news.google.com/rss/articles/CBMiggJBVV95cUxPbkpMUlpaNm5tc0NVN1hNNGNMamJaQTZiTjFHLU1hLU1PdTVvSWdGQ2h1SHh3Wm1DZzBINXkwUGg0Qy1CVUZnbUV0VmVwcjZyU2dfWjVvTzQ1Ynh4RmRZQjFDLXc1bk9Vd1ZLR1diOHBJanhUb1pzN01UOHNGcnFNU01GUzRKdnRsRE9LXzdiT3M1eld4Y3pKSVh0TFRpaExyYW53WTR4YTd6c29NVnJ4ajhoVXJkRXM3ekRkaDExMFZuX1diUWl1S0NucmN2Y1FXYzR0UkVfU0FWYjZUVk1zV1lGUUg5VzBzMzA4M1Q5c2dJMUE2ZlVhNEhhaVduVnltaGc?oc=5)
-
-`Thu, 19 Mar 2026 06:00:52 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiggJBVV95cUxPbkpMUlpaNm5tc0NVN1hNNGNMamJaQTZiTjFHLU1hLU1PdTVvSWdGQ2h1SHh3Wm1DZzBINXkwUGg0Qy1CVUZnbUV0VmVwcjZyU2dfWjVvTzQ1Ynh4RmRZQjFDLXc1bk9Vd1ZLR1diOHBJanhUb1pzN01UOHNGcnFNU01GUzRKdnRsRE9LXzdiT3M1eld4Y3pKSVh0TFRpaExyYW53WTR4YTd6c29NVnJ4ajhoVXJkRXM3ekRkaDExMFZuX1diUWl1S0NucmN2Y1FXYzR0UkVfU0FWYjZUVk1zV1lGUUg5VzBzMzA4M1Q5c2dJMUE2ZlVhNEhhaVduVnltaGc?oc=5" target="_blank">Transparence salariale dans les entreprises : critiques, patronat et syndicats espèrent encore modifier le projet de loi</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
