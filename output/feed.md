@@ -1,7 +1,23 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Sun, 19 Apr 2026 09:52:03 +0000`
-> 87 articles (30 derniers jours)
+> Derniere mise a jour : `Mon, 20 Apr 2026 07:45:37 +0000`
+> 89 articles (30 derniers jours)
+
+---
+
+### [Force ouvrière : un 26e congrès pour sceller le rassemblement de l'organisation - Les Echos](https://news.google.com/rss/articles/CBMiywFBVV95cUxQMEFhTDkyd0dJcW5GSEpza1NFWXFmM1JRQXdGb1NPN0lQci1wNzJRV3c0eHFVM1ZrX3QwdkdCQlRET200ekVadG9rYTItWHMwbG9CcUhXbnpLWnlKZ0xNMHRwZmtldWYwV1ZLX3JsZGVVY293bE9SbUcyaWRKamJocy04RklmMGdaOTMzaXhkUGFTSHVEVDR2ck9QZ1lvMDZFb2N6ZjB4S2p4Y1pmSGFsTFAxcF84UE53V2hXdlZWZS1zYjVPVEQybEYyOA?oc=5)
+
+`Sun, 19 Apr 2026 16:13:13 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiywFBVV95cUxQMEFhTDkyd0dJcW5GSEpza1NFWXFmM1JRQXdGb1NPN0lQci1wNzJRV3c0eHFVM1ZrX3QwdkdCQlRET200ekVadG9rYTItWHMwbG9CcUhXbnpLWnlKZ0xNMHRwZmtldWYwV1ZLX3JsZGVVY293bE9SbUcyaWRKamJocy04RklmMGdaOTMzaXhkUGFTSHVEVDR2ck9QZ1lvMDZFb2N6ZjB4S2p4Y1pmSGFsTFAxcF84UE53V2hXdlZWZS1zYjVPVEQybEYyOA?oc=5" target="_blank">Force ouvrière : un 26e congrès pour sceller le rassemblement de l'organisation</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Comment la Sécurité sociale trouve de l'oxygène, malgré l'accumulation des déficits - Les Echos](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZmJmbi05LThqLVNsQVRaUXFLblk1T2pjOWhvUGx5Z2hJZzlzZ2lxQVJZdzRBZlZzRm54R2RlVWZlLTQycWJLLWtHcllqbGhUdzdPU01qcmpUQ3ZGdWYxbWkyRExCR0xIOHdSUmlxX2dnWlB5dnZMSVY2X3RPbFY1Y3ltbXZVcEZYTVR6YjlzdkFFOWRwUHpXcXd5R0s0cUE3bmN6VGR5NmljeGNBWld4ZDFhSHlsSGhCdkpiejI5aUtqUjlKdnhEYWhQOW9FWVJn?oc=5)
+
+`Mon, 20 Apr 2026 04:40:09 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZmJmbi05LThqLVNsQVRaUXFLblk1T2pjOWhvUGx5Z2hJZzlzZ2lxQVJZdzRBZlZzRm54R2RlVWZlLTQycWJLLWtHcllqbGhUdzdPU01qcmpUQ3ZGdWYxbWkyRExCR0xIOHdSUmlxX2dnWlB5dnZMSVY2X3RPbFY1Y3ltbXZVcEZYTVR6YjlzdkFFOWRwUHpXcXd5R0s0cUE3bmN6VGR5NmljeGNBWld4ZDFhSHlsSGhCdkpiejI5aUtqUjlKdnhEYWhQOW9FWVJn?oc=5" target="_blank">Comment la Sécurité sociale trouve de l'oxygène, malgré l'accumulation des déficits</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
