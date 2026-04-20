@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Mon, 20 Apr 2026 07:45:37 +0000`
-> 89 articles (30 derniers jours)
+> Derniere mise a jour : `Mon, 20 Apr 2026 10:53:57 +0000`
+> 90 articles (30 derniers jours)
+
+---
+
+### [Travail le 1er-Mai : ce que prévoit le nouveau projet de loi pour les boulangers et fleuristes indépendants - Les Echos](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNYTZkb29waHBYQUZHUUE5NW1VTDd2NnJrazRQMjg0V1htdFFHc3o5dzFLOWQ4MlU1WmFYYjZjNjlBR0tVWUVFLXROcEtZeFEtcnk4RHlMMkxDaXdNbkpCa2taRTAwSURBNm9TdnU4c3FGQ0d0ZzRXbDhILXp0aWJKY3ZNRklVcGxzYkwxRnViUHM5bjhvR3d3R1d1U1lPSl9OM2tQb3BzcFdHbXBEZUhyX2Zjc3RSejBfampPZmxKRm5EMlVfUy1JaWxLOHN2Y2gwWV9DTzB4bXBiNE5fMjNuVzROdGQtM1B0WTFVaUJNNy1wZw?oc=5)
+
+`Mon, 20 Apr 2026 09:36:10 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi8gFBVV95cUxNYTZkb29waHBYQUZHUUE5NW1VTDd2NnJrazRQMjg0V1htdFFHc3o5dzFLOWQ4MlU1WmFYYjZjNjlBR0tVWUVFLXROcEtZeFEtcnk4RHlMMkxDaXdNbkpCa2taRTAwSURBNm9TdnU4c3FGQ0d0ZzRXbDhILXp0aWJKY3ZNRklVcGxzYkwxRnViUHM5bjhvR3d3R1d1U1lPSl9OM2tQb3BzcFdHbXBEZUhyX2Zjc3RSejBfampPZmxKRm5EMlVfUy1JaWxLOHN2Y2gwWV9DTzB4bXBiNE5fMjNuVzROdGQtM1B0WTFVaUJNNy1wZw?oc=5" target="_blank">Travail le 1er-Mai : ce que prévoit le nouveau projet de loi pour les boulangers et fleuristes indépendants</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
