@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Mon, 20 Apr 2026 17:49:20 +0000`
-> 90 articles (30 derniers jours)
+> Derniere mise a jour : `Tue, 21 Apr 2026 07:17:37 +0000`
+> 91 articles (30 derniers jours)
+
+---
+
+### [Les délais de paiement menacés de dérapage par la guerre au Moyen-Orient - Les Echos](https://news.google.com/rss/articles/CBMizAFBVV95cUxPT1Q0Yko0dS1neXNIWGVEOEZ6WmFfZ3N4NWhGdFRpRkpFRkYxV1lkVFRKZ3pFdVhKMHZWOXZvNXdQZDJXeG1oOHdPdHlnM29lMC1oT1dITU5fV0RnTEY4M3dycjhRcUlTWjV5ME4zU0JMTU9YTng5NmF4M0pNbVpLTi1TSjQ2czFFcG9nbTJONGRQRWIyWklBQ1B4MWJ6dE1ZNXRUNHpQRzdOYWtJMW1FTDBOQUhfTEQ1RkNoM2FpMUVBcjNveFZUWUZrU1Q?oc=5)
+
+`Tue, 21 Apr 2026 05:00:08 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMizAFBVV95cUxPT1Q0Yko0dS1neXNIWGVEOEZ6WmFfZ3N4NWhGdFRpRkpFRkYxV1lkVFRKZ3pFdVhKMHZWOXZvNXdQZDJXeG1oOHdPdHlnM29lMC1oT1dITU5fV0RnTEY4M3dycjhRcUlTWjV5ME4zU0JMTU9YTng5NmF4M0pNbVpLTi1TSjQ2czFFcG9nbTJONGRQRWIyWklBQ1B4MWJ6dE1ZNXRUNHpQRzdOYWtJMW1FTDBOQUhfTEQ1RkNoM2FpMUVBcjNveFZUWUZrU1Q?oc=5" target="_blank">Les délais de paiement menacés de dérapage par la guerre au Moyen-Orient</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
