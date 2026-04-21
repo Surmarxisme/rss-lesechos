@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Tue, 21 Apr 2026 07:17:37 +0000`
-> 91 articles (30 derniers jours)
+> Derniere mise a jour : `Tue, 21 Apr 2026 10:22:27 +0000`
+> 92 articles (30 derniers jours)
+
+---
+
+### [« Pour les dépenses publiques, le dérapage est interdit » - Les Echos](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSXh2bno1TFBhNFFVa3NiN1llRkxoT0NrQmRfclRWSlMzZVdrOHJmRnhDNFVMX3ZEYzlHemIxVEdpcXpiUUg1NWhBVlE1aU1jM2p1MFpETDFrRUpiaDI0clhiMy1FYURkVFNDMjE1NzJYOWFNeGJva0djYlVvMVZvbVZ0dk1KS2pGZEdpOGtjV2RqcUQ3ZmVJdkNlZ3NzQmJ5VkVpUS1hSktkNHdhMkpvT2FGWWVoOFZE?oc=5)
+
+`Tue, 21 Apr 2026 08:44:20 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSXh2bno1TFBhNFFVa3NiN1llRkxoT0NrQmRfclRWSlMzZVdrOHJmRnhDNFVMX3ZEYzlHemIxVEdpcXpiUUg1NWhBVlE1aU1jM2p1MFpETDFrRUpiaDI0clhiMy1FYURkVFNDMjE1NzJYOWFNeGJva0djYlVvMVZvbVZ0dk1KS2pGZEdpOGtjV2RqcUQ3ZmVJdkNlZ3NzQmJ5VkVpUS1hSktkNHdhMkpvT2FGWWVoOFZE?oc=5" target="_blank">« Pour les dépenses publiques, le dérapage est interdit »</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
