@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Tue, 21 Apr 2026 17:50:32 +0000`
-> 95 articles (30 derniers jours)
+> Derniere mise a jour : `Wed, 22 Apr 2026 07:16:09 +0000`
+> 96 articles (30 derniers jours)
+
+---
+
+### [Budget 2027 : les ministères vont à nouveau devoir se serrer la ceinture - Les Echos](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbVNXd0dHRnpsMGZiaEREWmpwaEUzVWFxQl9VTHBvVTVEcmo3YkJCOE1rREg4X2xjb0twRU9ITXNya2xNYXZ0VncyM0ZEMlU3VHltLTNVRktHa3pmcWp1Mlo4NDF1Y3RoQWNHX1dySFFESFJLUkRXMUJUYjgwcmtrelNjZUpUWl9TanZOZzNaZElRUHZhQXlBb0Ezbld1c3VqT1BDaEpLRkVzR0puemZ4R1pKTm9MUmMxSzAzNzJ3ZmtCNThCWGthOXNRNWRXM2VJ?oc=5)
+
+`Wed, 22 Apr 2026 04:34:08 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbVNXd0dHRnpsMGZiaEREWmpwaEUzVWFxQl9VTHBvVTVEcmo3YkJCOE1rREg4X2xjb0twRU9ITXNya2xNYXZ0VncyM0ZEMlU3VHltLTNVRktHa3pmcWp1Mlo4NDF1Y3RoQWNHX1dySFFESFJLUkRXMUJUYjgwcmtrelNjZUpUWl9TanZOZzNaZElRUHZhQXlBb0Ezbld1c3VqT1BDaEpLRkVzR0puemZ4R1pKTm9MUmMxSzAzNzJ3ZmtCNThCWGthOXNRNWRXM2VJ?oc=5" target="_blank">Budget 2027 : les ministères vont à nouveau devoir se serrer la ceinture</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
