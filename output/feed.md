@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Thu, 23 Apr 2026 07:17:37 +0000`
+> Derniere mise a jour : `Thu, 23 Apr 2026 10:25:27 +0000`
 > 100 articles (30 derniers jours)
+
+---
+
+### [Le moral des chefs d'entreprise décroche avec la guerre au Moyen-Orient - Les Echos](https://news.google.com/rss/articles/CBMiygFBVV95cUxPbHNnUkxQaE1Bd1BxMnE3UDRZbHpCdVQ1S3p0ZE9sb0xhT0d0QzN2U25ZbzNzeUVPQWhxMVRIMFlMbjduN3pySUo0R1IzWmJOMHpDZmNrMEdPSmNhY1J1QUk2Z1VJUko4SUl1RjZUNm10VGczZjBfY0JIQVNfSDB2bHl0amdfMjkzRWxsUHdTcmVpbldXblJkRUV3QmdKakxzZXJiN0RUMXgtVXEycURoNU1NWS1OUnJfMk9vYXlIcFlsZUpmNTRJWktn?oc=5)
+
+`Thu, 23 Apr 2026 07:59:14 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxPbHNnUkxQaE1Bd1BxMnE3UDRZbHpCdVQ1S3p0ZE9sb0xhT0d0QzN2U25ZbzNzeUVPQWhxMVRIMFlMbjduN3pySUo0R1IzWmJOMHpDZmNrMEdPSmNhY1J1QUk2Z1VJUko4SUl1RjZUNm10VGczZjBfY0JIQVNfSDB2bHl0amdfMjkzRWxsUHdTcmVpbldXblJkRUV3QmdKakxzZXJiN0RUMXgtVXEycURoNU1NWS1OUnJfMk9vYXlIcFlsZUpmNTRJWktn?oc=5" target="_blank">Le moral des chefs d'entreprise décroche avec la guerre au Moyen-Orient</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -794,13 +802,5 @@
 `Tue, 24 Mar 2026 16:30:08 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMFZ4TUh3NW44SnhIUVBRdU90eDVJekpxWEhnMWZ4OV9reWVBdWlZZ3Rlcjd4TmxmYzNWd1lXNHljR1dIamN6V2lqWjdNdVlodHQ2SGRmVTlRdEdGenZMVjIweHgwYlNFOUZ0OHhsbHRJRDE5M2hEdlh1ZjJrMjNJNGFXd1VWQkprYXBjUUpwbFVuYk9Ham5aMmFvakdUUUhnVkhJLVpvemRZYVUya3pXY2xSeGNZSVdmUlFGZFRQRmQ?oc=5" target="_blank">Emploi : pourquoi le taux de chômage va continuer d'augmenter en France</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [La retraite progressive gagne du terrain dans la fonction publique - Les Echos](https://news.google.com/rss/articles/CBMivgFBVV95cUxOaG5Hcms4RUZOd280d3B4cGNmQmZiWTNjc193MUczYk81RlVvZXY4M3kyVE5HcjFwR19TcUVyTnd5S0xURlZVcDRGTktQNlFtaHp2ZWU2SEdjWEdHRXhDTmhQUVFiSDRzX1o5VWpCbDhXNURfakRFcEZCQlZEV1NpaDRlci1hb255cFVUOVRFenpPQVlOcS1XTGJfRXFpQ0VlYWx4NGFmN0dubEdWdzFDU09pRXN4aVF5VGpxQVhn?oc=5)
-
-`Tue, 24 Mar 2026 10:25:08 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxOaG5Hcms4RUZOd280d3B4cGNmQmZiWTNjc193MUczYk81RlVvZXY4M3kyVE5HcjFwR19TcUVyTnd5S0xURlZVcDRGTktQNlFtaHp2ZWU2SEdjWEdHRXhDTmhQUVFiSDRzX1o5VWpCbDhXNURfakRFcEZCQlZEV1NpaDRlci1hb255cFVUOVRFenpPQVlOcS1XTGJfRXFpQ0VlYWx4NGFmN0dubEdWdzFDU09pRXN4aVF5VGpxQVhn?oc=5" target="_blank">La retraite progressive gagne du terrain dans la fonction publique</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
