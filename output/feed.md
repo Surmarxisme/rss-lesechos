@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Wed, 22 Apr 2026 17:51:13 +0000`
+> Derniere mise a jour : `Thu, 23 Apr 2026 07:17:37 +0000`
 > 100 articles (30 derniers jours)
+
+---
+
+### [Lutte contre la fraude sociale : le Défenseur des droits demande plus de garde-fous - Les Echos](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUzNhd2FKOWZMekdGMW9sOTZPT3RXTENEWkpKQVBzMzBDdmYwZnB0TUstT19fNWxwVVhYeWN4YXJrcHNxclF3Z2VuazZiNEJDWUdzSkFJSGxwQ0h2OFBRclYtOU5JNTF3RG9LZ3VWbGlXTk9xTTJMc0Z1SmcwbjFxZlNaTDZvNlo3b0twM2xrWEVQeTItSG41c1lCSHROQ2tuOGdDekRPYnBjU3VCeWtTREFwWnhHZDg4cVJRMjRwRTJaVjdRZ01uT25oTHY1OEZJNUE?oc=5)
+
+`Thu, 23 Apr 2026 05:55:08 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUzNhd2FKOWZMekdGMW9sOTZPT3RXTENEWkpKQVBzMzBDdmYwZnB0TUstT19fNWxwVVhYeWN4YXJrcHNxclF3Z2VuazZiNEJDWUdzSkFJSGxwQ0h2OFBRclYtOU5JNTF3RG9LZ3VWbGlXTk9xTTJMc0Z1SmcwbjFxZlNaTDZvNlo3b0twM2xrWEVQeTItSG41c1lCSHROQ2tuOGdDekRPYnBjU3VCeWtTREFwWnhHZDg4cVJRMjRwRTJaVjdRZ01uT25oTHY1OEZJNUE?oc=5" target="_blank">Lutte contre la fraude sociale : le Défenseur des droits demande plus de garde-fous</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -794,13 +802,5 @@
 `Tue, 24 Mar 2026 10:25:08 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxOaG5Hcms4RUZOd280d3B4cGNmQmZiWTNjc193MUczYk81RlVvZXY4M3kyVE5HcjFwR19TcUVyTnd5S0xURlZVcDRGTktQNlFtaHp2ZWU2SEdjWEdHRXhDTmhQUVFiSDRzX1o5VWpCbDhXNURfakRFcEZCQlZEV1NpaDRlci1hb255cFVUOVRFenpPQVlOcS1XTGJfRXFpQ0VlYWx4NGFmN0dubEdWdzFDU09pRXN4aVF5VGpxQVhn?oc=5" target="_blank">La retraite progressive gagne du terrain dans la fonction publique</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [« Ça patauge sérieusement » : à mi-parcours, la conférence sociale sur les retraites cherche encore son chemin - Les Echos](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNb2RWYWdkZzR4VnhfWlFIZWsxb3JmWmVEZ3MxTFVGMkhReW54X2ZsRGl1M1VwQjAzYnA2aDdCVFdHYXN1M0tjT09hT3dyVVNlOXZmMEN4WmxybXZMbUdDTHVVQmh6MHE1MDgyaW5UdlpNdlNudWFoX0FMX2wtdS1qV1FMTThLSXExeE5xOTlGWWV0ZW51YXdlNE5QeEVQandCd0NRTWVzbUpUem5MM0x0RU5HVTJzWks3LTVNQUp3VW5Wc2FERTZqRnNZeTZKQ2x4UGFIY3dVN2djV1hzaVhyN3FkVmJFdjB2QVJFYnZWNA?oc=5)
-
-`Tue, 24 Mar 2026 05:05:09 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi7wFBVV95cUxNb2RWYWdkZzR4VnhfWlFIZWsxb3JmWmVEZ3MxTFVGMkhReW54X2ZsRGl1M1VwQjAzYnA2aDdCVFdHYXN1M0tjT09hT3dyVVNlOXZmMEN4WmxybXZMbUdDTHVVQmh6MHE1MDgyaW5UdlpNdlNudWFoX0FMX2wtdS1qV1FMTThLSXExeE5xOTlGWWV0ZW51YXdlNE5QeEVQandCd0NRTWVzbUpUem5MM0x0RU5HVTJzWks3LTVNQUp3VW5Wc2FERTZqRnNZeTZKQ2x4UGFIY3dVN2djV1hzaVhyN3FkVmJFdjB2QVJFYnZWNA?oc=5" target="_blank">« Ça patauge sérieusement » : à mi-parcours, la conférence sociale sur les retraites cherche encore son chemin</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
