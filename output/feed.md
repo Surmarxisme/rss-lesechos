@@ -1,7 +1,7 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Thu, 23 Apr 2026 13:07:16 +0000`
-> 101 articles (30 derniers jours)
+> Derniere mise a jour : `Thu, 23 Apr 2026 18:01:32 +0000`
+> 99 articles (30 derniers jours)
 
 ---
 
@@ -794,21 +794,5 @@
 `Wed, 25 Mar 2026 05:33:09 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMixwFBVV95cUxOdzRQcHZwQUwybzV6NzlNelB2c3ByNXdXb0RQa3ZNMUZKdVEwRXZ3OWtCc1hzVHNVUmE1Y29MeTlhN1BVbDlxZllEcjQ3Z0pSYndDcmM0dlZ6SG12Nm5RWE81YjRPTEcwSTVUWEtvcGhhVElSVEd5SVZtTjBoV08wTkNMcG1rbTcxWVAtLThGWEFYX1RMSGFEd2ttVW82Y3JaQVhuQU5oTlFOTzhCdDE5ZW4yS3hEUTVydVNVcER6UUpVa1lrczdR?oc=5" target="_blank">Les jeunes développeurs informatiques, premières victimes de l'essor de l'IA ?</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Croissance, inflation, pouvoir d'achat : la guerre en Iran vient percuter l'économie française - Les Echos](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQQkZuTmZPLVVOdGtXUHJDYm9qWDFmOW5qMW1UZzJlVDRHMzJBUUNTdVpZbnBtM2RGZ1hXV2NxbEVwdm9WVWY0Y1lRRV83SjZuazgxZ2hrazJfZVJCc1pJZ0xKejNPcVNMNE9QU3pPUnMzU1FxMlNZMmI4ZzhXbEZwOEgxLTd2V0dlYlVFbVdzNU5HNE4wZ0hCMzk0ajd1UUt4MkVKZWZoSnR2cDhRVV9Mb25mTGtYdDhxQ0ZHT1JEMHI4cnBfMlZkNFpXRmlWV0ZEZ0R1YXR4RTM3RFVwc0FORllR?oc=5)
-
-`Tue, 24 Mar 2026 16:02:50 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi4gFBVV95cUxQQkZuTmZPLVVOdGtXUHJDYm9qWDFmOW5qMW1UZzJlVDRHMzJBUUNTdVpZbnBtM2RGZ1hXV2NxbEVwdm9WVWY0Y1lRRV83SjZuazgxZ2hrazJfZVJCc1pJZ0xKejNPcVNMNE9QU3pPUnMzU1FxMlNZMmI4ZzhXbEZwOEgxLTd2V0dlYlVFbVdzNU5HNE4wZ0hCMzk0ajd1UUt4MkVKZWZoSnR2cDhRVV9Mb25mTGtYdDhxQ0ZHT1JEMHI4cnBfMlZkNFpXRmlWV0ZEZ0R1YXR4RTM3RFVwc0FORllR?oc=5" target="_blank">Croissance, inflation, pouvoir d'achat : la guerre en Iran vient percuter l'économie française</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Emploi : pourquoi le taux de chômage va continuer d'augmenter en France - Les Echos](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMFZ4TUh3NW44SnhIUVBRdU90eDVJekpxWEhnMWZ4OV9reWVBdWlZZ3Rlcjd4TmxmYzNWd1lXNHljR1dIamN6V2lqWjdNdVlodHQ2SGRmVTlRdEdGenZMVjIweHgwYlNFOUZ0OHhsbHRJRDE5M2hEdlh1ZjJrMjNJNGFXd1VWQkprYXBjUUpwbFVuYk9Ham5aMmFvakdUUUhnVkhJLVpvemRZYVUya3pXY2xSeGNZSVdmUlFGZFRQRmQ?oc=5)
-
-`Tue, 24 Mar 2026 16:30:08 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMFZ4TUh3NW44SnhIUVBRdU90eDVJekpxWEhnMWZ4OV9reWVBdWlZZ3Rlcjd4TmxmYzNWd1lXNHljR1dIamN6V2lqWjdNdVlodHQ2SGRmVTlRdEdGenZMVjIweHgwYlNFOUZ0OHhsbHRJRDE5M2hEdlh1ZjJrMjNJNGFXd1VWQkprYXBjUUpwbFVuYk9Ham5aMmFvakdUUUhnVkhJLVpvemRZYVUya3pXY2xSeGNZSVdmUlFGZFRQRmQ?oc=5" target="_blank">Emploi : pourquoi le taux de chômage va continuer d'augmenter en France</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
