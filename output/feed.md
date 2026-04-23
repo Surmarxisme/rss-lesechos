@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Thu, 23 Apr 2026 10:25:27 +0000`
-> 100 articles (30 derniers jours)
+> Derniere mise a jour : `Thu, 23 Apr 2026 13:07:16 +0000`
+> 101 articles (30 derniers jours)
+
+---
+
+### [500.000 chefs d'entreprise à la retraite en 10 ans : face au choc démographique, le plan de Bercy pour faciliter la transmission - Les Echos](https://news.google.com/rss/articles/CBMikAJBVV95cUxNV1NZc2RxWDZYckUtNDVsNml1U3dPYklVZVhjRkJ6eGhrMDBpaTJrc2dTdTBObk5sZVlnS2ZiZlVRbk9jSXY3UmUxdThyaUhIWTd2cmlGeG9haGxqQkpwMWRGNUxVWDE2RUU5TTcxYU90T3lab0pUYUtuV01oUWd4RV8zNFJhcjZ1NkxUMVRtV0wwVXpDb05EMTdabkEtSVhZSE9EQUVIRHdicWJ0dDU2RTdfa18xcnF6RjhQVlQ5cUxnQTlXcW1TbDdsMDFqUWlFemx3b2t0U21aVlZ1dnoydUs3TmlDYl91UExpdUJOOGhHNS1kMDZLTEFnSEZOMkU5QzR0WmEyQjF6SklhZUFLQg?oc=5)
+
+`Thu, 23 Apr 2026 10:49:31 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMikAJBVV95cUxNV1NZc2RxWDZYckUtNDVsNml1U3dPYklVZVhjRkJ6eGhrMDBpaTJrc2dTdTBObk5sZVlnS2ZiZlVRbk9jSXY3UmUxdThyaUhIWTd2cmlGeG9haGxqQkpwMWRGNUxVWDE2RUU5TTcxYU90T3lab0pUYUtuV01oUWd4RV8zNFJhcjZ1NkxUMVRtV0wwVXpDb05EMTdabkEtSVhZSE9EQUVIRHdicWJ0dDU2RTdfa18xcnF6RjhQVlQ5cUxnQTlXcW1TbDdsMDFqUWlFemx3b2t0U21aVlZ1dnoydUs3TmlDYl91UExpdUJOOGhHNS1kMDZLTEFnSEZOMkU5QzR0WmEyQjF6SklhZUFLQg?oc=5" target="_blank">500.000 chefs d'entreprise à la retraite en 10 ans : face au choc démographique, le plan de Bercy pour faciliter la transmission</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
