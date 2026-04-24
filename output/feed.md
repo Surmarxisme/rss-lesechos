@@ -1,7 +1,7 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Fri, 24 Apr 2026 10:26:47 +0000`
-> 100 articles (30 derniers jours)
+> Derniere mise a jour : `Fri, 24 Apr 2026 13:03:50 +0000`
+> 99 articles (30 derniers jours)
 
 ---
 
@@ -794,13 +794,5 @@
 `Wed, 25 Mar 2026 16:50:30 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxQcnUyaGY5aGdiZWQ1S3VQX1RIUHlPRnBsNlRXTWw4WHBSWGdsTEFkcHJtTzJ1QUQ1eEFKeXkzOVhTNkwwNU45cmRLUFhFS1doQjRSMEdNaEYxS3AzT2NZWHJCR2oyRndUR1p1Ry16eUlqVERfQmllMWRLXzktMno5MVhMRGxwSWJSazhjSTQ4ZTctZ1FpUXI4Y1llMGdHT2RzQlBvaUdJc3FSMmFoUjZPYy1sTzc1QkRlZzhyU3lpMA?oc=5" target="_blank">Le coup de rabot sur les allocations familiales contesté en justice</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Une proposition polémique pour réduire les inégalités entre collectivités locales - Les Echos](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPT3BBOVN6aG01ZWJ6OThaVXdLMmNHbTZ2OTk1eWp6NENhcUZ5NDZmUkNXal9OZ3FySFVfOFF2d1ZpSzBXTHl5d3BGdUQ3UU5WWUxIYWtpci0td3ZINEZlVW8zZEsxclEtbERWWm5vUGN4TDY1LXRrZGNKQmJKOEZ0ZnlIcGtpZEVYblRacFpuZm4ycEFPRDkxSFQ5OElTZ2ZnMm51bDRpQkRZQ0tLY3FvdFdOZkR2cFhPNF9KUzRSbmJ1cDdqM0RNRnVUYUZTRlhnZzc3cGdFVFBrbFREbncw?oc=5)
-
-`Wed, 25 Mar 2026 11:18:04 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi3wFBVV95cUxPT3BBOVN6aG01ZWJ6OThaVXdLMmNHbTZ2OTk1eWp6NENhcUZ5NDZmUkNXal9OZ3FySFVfOFF2d1ZpSzBXTHl5d3BGdUQ3UU5WWUxIYWtpci0td3ZINEZlVW8zZEsxclEtbERWWm5vUGN4TDY1LXRrZGNKQmJKOEZ0ZnlIcGtpZEVYblRacFpuZm4ycEFPRDkxSFQ5OElTZ2ZnMm51bDRpQkRZQ0tLY3FvdFdOZkR2cFhPNF9KUzRSbmJ1cDdqM0RNRnVUYUZTRlhnZzc3cGdFVFBrbFREbncw?oc=5" target="_blank">Une proposition polémique pour réduire les inégalités entre collectivités locales</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
