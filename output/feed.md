@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Thu, 23 Apr 2026 18:01:32 +0000`
+> Derniere mise a jour : `Fri, 24 Apr 2026 07:22:47 +0000`
 > 99 articles (30 derniers jours)
+
+---
+
+### [Congrès de FO : guerre, RN et développement syndical au coeur des débats - Les Echos](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdTBrWDczT0lFM2p2ODZaNEVtV2hJNEJDVUdfN2c0cVpBWFhwWC15STZBUUtYaU1HeWo0TVlUa3RucG5QR0ZzMlMwY25GVzZ1dDNtNmlsX0ZjRmNubDVTNF85WmFYanViS2NONVhseDh4a09wempRRVNzdkZvZHRJZ3U2S0xnU1JuRi1oOFhvOHFNTU9TZF8yVmZRQWpXMk9oME4yQzVnVlk2aEZsRkw4d1FKUEZPOUlZNF9zLWxLZGVOUQ?oc=5)
+
+`Fri, 24 Apr 2026 05:04:08 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdTBrWDczT0lFM2p2ODZaNEVtV2hJNEJDVUdfN2c0cVpBWFhwWC15STZBUUtYaU1HeWo0TVlUa3RucG5QR0ZzMlMwY25GVzZ1dDNtNmlsX0ZjRmNubDVTNF85WmFYanViS2NONVhseDh4a09wempRRVNzdkZvZHRJZ3U2S0xnU1JuRi1oOFhvOHFNTU9TZF8yVmZRQWpXMk9oME4yQzVnVlk2aEZsRkw4d1FKUEZPOUlZNF9zLWxLZGVOUQ?oc=5" target="_blank">Congrès de FO : guerre, RN et développement syndical au coeur des débats</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -786,13 +794,5 @@
 `Wed, 25 Mar 2026 11:18:04 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi3wFBVV95cUxPT3BBOVN6aG01ZWJ6OThaVXdLMmNHbTZ2OTk1eWp6NENhcUZ5NDZmUkNXal9OZ3FySFVfOFF2d1ZpSzBXTHl5d3BGdUQ3UU5WWUxIYWtpci0td3ZINEZlVW8zZEsxclEtbERWWm5vUGN4TDY1LXRrZGNKQmJKOEZ0ZnlIcGtpZEVYblRacFpuZm4ycEFPRDkxSFQ5OElTZ2ZnMm51bDRpQkRZQ0tLY3FvdFdOZkR2cFhPNF9KUzRSbmJ1cDdqM0RNRnVUYUZTRlhnZzc3cGdFVFBrbFREbncw?oc=5" target="_blank">Une proposition polémique pour réduire les inégalités entre collectivités locales</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Les jeunes développeurs informatiques, premières victimes de l'essor de l'IA ? - Les Echos](https://news.google.com/rss/articles/CBMixwFBVV95cUxOdzRQcHZwQUwybzV6NzlNelB2c3ByNXdXb0RQa3ZNMUZKdVEwRXZ3OWtCc1hzVHNVUmE1Y29MeTlhN1BVbDlxZllEcjQ3Z0pSYndDcmM0dlZ6SG12Nm5RWE81YjRPTEcwSTVUWEtvcGhhVElSVEd5SVZtTjBoV08wTkNMcG1rbTcxWVAtLThGWEFYX1RMSGFEd2ttVW82Y3JaQVhuQU5oTlFOTzhCdDE5ZW4yS3hEUTVydVNVcER6UUpVa1lrczdR?oc=5)
-
-`Wed, 25 Mar 2026 05:33:09 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMixwFBVV95cUxOdzRQcHZwQUwybzV6NzlNelB2c3ByNXdXb0RQa3ZNMUZKdVEwRXZ3OWtCc1hzVHNVUmE1Y29MeTlhN1BVbDlxZllEcjQ3Z0pSYndDcmM0dlZ6SG12Nm5RWE81YjRPTEcwSTVUWEtvcGhhVElSVEd5SVZtTjBoV08wTkNMcG1rbTcxWVAtLThGWEFYX1RMSGFEd2ttVW82Y3JaQVhuQU5oTlFOTzhCdDE5ZW4yS3hEUTVydVNVcER6UUpVa1lrczdR?oc=5" target="_blank">Les jeunes développeurs informatiques, premières victimes de l'essor de l'IA ?</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
