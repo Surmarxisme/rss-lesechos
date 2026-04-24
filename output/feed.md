@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Fri, 24 Apr 2026 07:22:47 +0000`
-> 99 articles (30 derniers jours)
+> Derniere mise a jour : `Fri, 24 Apr 2026 10:26:47 +0000`
+> 100 articles (30 derniers jours)
+
+---
+
+### [Guerre au Moyen-Orient et retour de l'inflation font plonger le moral des ménages - Les Echos](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZEZkeEhEbmJWQVI2V25Wc0hpWkw0M1A0ZS1zSEU4a01JYWZlZTdHXzZDcDc3NFhKck1Lem1TbkpHQ3JwWmRkNXhfd3ItWHlKNmpWZHgxNFdxb0NOU3hFSFJMZ3JueGNsTm0zMC1Mb2lhVHJ6SXZyVnFNVHhONVZoT0VrNnRkTjJuU0tWNnJGajc3LVY2Z0xESHI1UFI2Tlh3N0F2NnFIV0NiQVFMUW5GYjhVUWZOSEhxWHVqM0xGcFZHdktSWHlWaDVGeHh1RFoyRzBnM0FNWQ?oc=5)
+
+`Fri, 24 Apr 2026 08:31:27 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZEZkeEhEbmJWQVI2V25Wc0hpWkw0M1A0ZS1zSEU4a01JYWZlZTdHXzZDcDc3NFhKck1Lem1TbkpHQ3JwWmRkNXhfd3ItWHlKNmpWZHgxNFdxb0NOU3hFSFJMZ3JueGNsTm0zMC1Mb2lhVHJ6SXZyVnFNVHhONVZoT0VrNnRkTjJuU0tWNnJGajc3LVY2Z0xESHI1UFI2Tlh3N0F2NnFIV0NiQVFMUW5GYjhVUWZOSEhxWHVqM0xGcFZHdktSWHlWaDVGeHh1RFoyRzBnM0FNWQ?oc=5" target="_blank">Guerre au Moyen-Orient et retour de l'inflation font plonger le moral des ménages</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
