@@ -1,7 +1,7 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Fri, 24 Apr 2026 13:03:50 +0000`
-> 99 articles (30 derniers jours)
+> Derniere mise a jour : `Fri, 24 Apr 2026 17:42:21 +0000`
+> 96 articles (30 derniers jours)
 
 ---
 
@@ -749,14 +749,6 @@
 
 ---
 
-### [Chômage et ruptures conventionnelles : ce qui va changer - Les Echos](https://news.google.com/rss/articles/CBMisAFBVV95cUxOSjVURXByQjFtQkszdnNYVXkxTmNJdERwRDFKV1FiRXRwcEV2ZjhodHdueWdrZTRCeXEwYjJSZnZQZ01SeGY1eUF6MW11QzZjbTduM01rU1cwbFRUeGM3MC1qel9YTGlxdElJQnlqcHhRQ2hJZTRwN25kV3NFVzI0cElWY21LYWp2N3ZuUm1PU2VtbUt4cTBrM0ZwQnpjNlBOdGhjRklvN0h5TUI3eHA5UQ?oc=5)
-
-`Wed, 25 Mar 2026 14:27:00 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxOSjVURXByQjFtQkszdnNYVXkxTmNJdERwRDFKV1FiRXRwcEV2ZjhodHdueWdrZTRCeXEwYjJSZnZQZ01SeGY1eUF6MW11QzZjbTduM01rU1cwbFRUeGM3MC1qel9YTGlxdElJQnlqcHhRQ2hJZTRwN25kV3NFVzI0cElWY21LYWp2N3ZuUm1PU2VtbUt4cTBrM0ZwQnpjNlBOdGhjRklvN0h5TUI3eHA5UQ?oc=5" target="_blank">Chômage et ruptures conventionnelles : ce qui va changer</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
 ### [A Bercy, la très stratégique direction du Budget change de patron - Les Echos](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNR294SzVNOUFZU2tmMWhJNVlqM0FsNVpMWWNpYXNOdzVadko3emNWY2w1cUU4a3MzUTc2QjZqNXhBU083dVB5TGMwRnNBYkpWVWdrSUtKOTNRRTcya1JDaWdaaWxRS05GWWJEai1QeHN4TUhselNBTmdQR2p6VU80RExsS1RZX0xMZ21sLXpsYzE3d1BjNEN0eFY5V0thbmJWUE5tR2p6UF9BWW9yU2RVZlFQTzNXcl9wWkRGMUhneW5qaGFBMEtsMw?oc=5)
 
 `Wed, 25 Mar 2026 18:22:17 GMT`
@@ -778,21 +770,5 @@
 `Wed, 25 Mar 2026 19:00:09 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMirgJBVV95cUxQdWJXMEdidVRXUWNDNDFQX25UMktxWkhuOUtVMTFwNHA1UEk0LWtTZVQtRmM3aDlLNGhhQ1VOUEVYTE13bUVCY3dEaDdXU2VGYklRaUJ3eU8xX010ZDU1UTVvanNWOFlwdDNiZTM5RjU0VHpzRWtQeTJ0OUZESlJZcWlXb2xYdzl2YkluTEpiVGpXVERCTXUza003QUhEb1RWLVQybGxCSWVKTV9vUHlhOFFyUWx0THBnSEJLRkhNdUxCUXlFaVA4Q2xLRzFybjU3T2VIZ1B2cU9uNXdYZDkxYk1GMEFXb254dWJ2dmo2bFRxNjhjdjJmVlZ3d0FpcE5MZ1RLN0FGdW9sRFItZ2h1WVdMMVlqNHRNbWlqZ1dQWG1STGtOS0tRaXl6RkZzZw?oc=5" target="_blank">« La France n'a plus les moyens de prendre des mesures générales » sur le prix des carburants : le rappel sans fard du gouverneur de la Banque de France</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Négociations sur les CDD : flexibilité ou régulation, syndicats et patronat totalement opposés - Les Echos](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOOUgyVFh0T3paT2FSUTlGN2VaXzdNUGNHczh5cU50WjlvRTJJbmw1TVpPTHoyWURVdFRiWUhLWUx1SEtta1IwTjlFcEtmMDRkMEFReFl1LTZzTnVNZ1ZoLUJ3WjhYdzJzMGphbU9aeEk1V2MtUUxUZF9Mc05qanRXaGdhYVVtZ19NWkZiNWQ1aXRsNlFYakZWVU5CeXFLcHZaWmxWaTAwVUhGZWhSUmk0c3oxVHZTOS1TaVBkRGJ5cU1IamdHS2pzQ3g5ZV9FeFZOMVJ1VmNMRlBSUXlCSlRB?oc=5)
-
-`Wed, 25 Mar 2026 16:02:36 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi3wFBVV95cUxOOUgyVFh0T3paT2FSUTlGN2VaXzdNUGNHczh5cU50WjlvRTJJbmw1TVpPTHoyWURVdFRiWUhLWUx1SEtta1IwTjlFcEtmMDRkMEFReFl1LTZzTnVNZ1ZoLUJ3WjhYdzJzMGphbU9aeEk1V2MtUUxUZF9Mc05qanRXaGdhYVVtZ19NWkZiNWQ1aXRsNlFYakZWVU5CeXFLcHZaWmxWaTAwVUhGZWhSUmk0c3oxVHZTOS1TaVBkRGJ5cU1IamdHS2pzQ3g5ZV9FeFZOMVJ1VmNMRlBSUXlCSlRB?oc=5" target="_blank">Négociations sur les CDD : flexibilité ou régulation, syndicats et patronat totalement opposés</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Le coup de rabot sur les allocations familiales contesté en justice - Les Echos](https://news.google.com/rss/articles/CBMivwFBVV95cUxQcnUyaGY5aGdiZWQ1S3VQX1RIUHlPRnBsNlRXTWw4WHBSWGdsTEFkcHJtTzJ1QUQ1eEFKeXkzOVhTNkwwNU45cmRLUFhFS1doQjRSMEdNaEYxS3AzT2NZWHJCR2oyRndUR1p1Ry16eUlqVERfQmllMWRLXzktMno5MVhMRGxwSWJSazhjSTQ4ZTctZ1FpUXI4Y1llMGdHT2RzQlBvaUdJc3FSMmFoUjZPYy1sTzc1QkRlZzhyU3lpMA?oc=5)
-
-`Wed, 25 Mar 2026 16:50:30 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxQcnUyaGY5aGdiZWQ1S3VQX1RIUHlPRnBsNlRXTWw4WHBSWGdsTEFkcHJtTzJ1QUQ1eEFKeXkzOVhTNkwwNU45cmRLUFhFS1doQjRSMEdNaEYxS3AzT2NZWHJCR2oyRndUR1p1Ry16eUlqVERfQmllMWRLXzktMno5MVhMRGxwSWJSazhjSTQ4ZTctZ1FpUXI4Y1llMGdHT2RzQlBvaUdJc3FSMmFoUjZPYy1sTzc1QkRlZzhyU3lpMA?oc=5" target="_blank">Le coup de rabot sur les allocations familiales contesté en justice</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
