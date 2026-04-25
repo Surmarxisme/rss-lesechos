@@ -1,7 +1,23 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Fri, 24 Apr 2026 17:42:21 +0000`
-> 96 articles (30 derniers jours)
+> Derniere mise a jour : `Sat, 25 Apr 2026 09:56:13 +0000`
+> 95 articles (30 derniers jours)
+
+---
+
+### [Les revenus des livreurs de repas à domicile ont baissé en 2025 - Les Echos](https://news.google.com/rss/articles/CBMiugFBVV95cUxOUlJYUVZzR0E0VS1mcWVnRllmcENNcVZyd1gtaHZ4c2NORVlvUVhnSF9xLWxKcHhaeDRFd25TX3VLa3lCSkFJeHBfLWQyZVI3cFVpUmhqb004Q1hDU05LLW9YbzlBem9NMEpFRkJnTU95T1I0U2F0cnhrWW1CR0VUZ3VPOUVvLWUtYWhSVnhGQkY0dVpKV3RBQmVMRXd1Wno1ejBUN0dzWkVxY0FaNnlucUZCNWdESkxrQ0E?oc=5)
+
+`Sat, 25 Apr 2026 09:17:20 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxOUlJYUVZzR0E0VS1mcWVnRllmcENNcVZyd1gtaHZ4c2NORVlvUVhnSF9xLWxKcHhaeDRFd25TX3VLa3lCSkFJeHBfLWQyZVI3cFVpUmhqb004Q1hDU05LLW9YbzlBem9NMEpFRkJnTU95T1I0U2F0cnhrWW1CR0VUZ3VPOUVvLWUtYWhSVnhGQkY0dVpKV3RBQmVMRXd1Wno1ejBUN0dzWkVxY0FaNnlucUZCNWdESkxrQ0E?oc=5" target="_blank">Les revenus des livreurs de repas à domicile ont baissé en 2025</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Patronat : l'économie sociale et solidaire veut jouer dans la cour des grands - Les Echos](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMDQ4VndvZENEOU0xd1FKOHFoOFBXRDYteW1uaVMzeWhDS1oyQzUyNXJzUHlfVWRhMnltQllZRS1rbGhOZTAxQzFZRUxvcS1zS3pjWXFlUnh6UDJCLW82OThvd1VUNDhmOEMtRUxmTkZjeWpDREVmUnBPRzRYUHNCSXJ5WnAzS0hFT3NLNFl3bzd4RHVfdVlNM3RJdnV0SmV3dEdybDhXZjJIRnBJclBxRThTeVBab001RjZiRUJyS0stRkF3cDVjZg?oc=5)
+
+`Sat, 25 Apr 2026 07:30:09 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMDQ4VndvZENEOU0xd1FKOHFoOFBXRDYteW1uaVMzeWhDS1oyQzUyNXJzUHlfVWRhMnltQllZRS1rbGhOZTAxQzFZRUxvcS1zS3pjWXFlUnh6UDJCLW82OThvd1VUNDhmOEMtRUxmTkZjeWpDREVmUnBPRzRYUHNCSXJ5WnAzS0hFT3NLNFl3bzd4RHVfdVlNM3RJdnV0SmV3dEdybDhXZjJIRnBJclBxRThTeVBab001RjZiRUJyS0stRkF3cDVjZg?oc=5" target="_blank">Patronat : l'économie sociale et solidaire veut jouer dans la cour des grands</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -746,29 +762,5 @@
 `Thu, 26 Mar 2026 11:57:53 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMiywFBVV95cUxQUWFZUW4zbmsxc0ZHNExFUWk5UnZFVGduOEREdERWNXFMWVJUTkRrdjUxRV9GalRxUE1ieVBHcUx4cDV2S0lmRDI2d2NHUm9QRWpXVnd6cjJoRVB4VnFFUU1jNEFtNDZ6T01XakVMNDN6aFQtTE5LTjlLd2dLeEdKaXRVeDNXRHd0RUdjaDRqampIamdDSHp3cW9XQ1VpdGlRekRWbjlLNEt6aDVKbE9nRUhBeUFEUDU0bHVwRDlqZkF3RnBCcldmM2tlMA?oc=5" target="_blank">Quand le passage à la retraite renfloue le portefeuille de nombreux Français</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [A Bercy, la très stratégique direction du Budget change de patron - Les Echos](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNR294SzVNOUFZU2tmMWhJNVlqM0FsNVpMWWNpYXNOdzVadko3emNWY2w1cUU4a3MzUTc2QjZqNXhBU083dVB5TGMwRnNBYkpWVWdrSUtKOTNRRTcya1JDaWdaaWxRS05GWWJEai1QeHN4TUhselNBTmdQR2p6VU80RExsS1RZX0xMZ21sLXpsYzE3d1BjNEN0eFY5V0thbmJWUE5tR2p6UF9BWW9yU2RVZlFQTzNXcl9wWkRGMUhneW5qaGFBMEtsMw?oc=5)
-
-`Wed, 25 Mar 2026 18:22:17 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxNR294SzVNOUFZU2tmMWhJNVlqM0FsNVpMWWNpYXNOdzVadko3emNWY2w1cUU4a3MzUTc2QjZqNXhBU083dVB5TGMwRnNBYkpWVWdrSUtKOTNRRTcya1JDaWdaaWxRS05GWWJEai1QeHN4TUhselNBTmdQR2p6VU80RExsS1RZX0xMZ21sLXpsYzE3d1BjNEN0eFY5V0thbmJWUE5tR2p6UF9BWW9yU2RVZlFQTzNXcl9wWkRGMUhneW5qaGFBMEtsMw?oc=5" target="_blank">A Bercy, la très stratégique direction du Budget change de patron</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Guerre en Iran : pourquoi le choc inflationniste sera différent de celui provoqué par l'invasion de l'Ukraine par la Russie - Les Echos](https://news.google.com/rss/articles/CBMiiwJBVV95cUxPYS1iOG5hbFBCckd3aXRoZU1KeUdub2pRcDlWTDd2NGdmVTJlVGNhUDJ2OF9aWUJxOTZ6clB3ZmVyTVlrQnJpbFB4WkxqZmdCLW1Oa2hvU1Vadmh2cjZEclY3NEdQb216ZUNNWHFPelhFS2U4bi1oS2J3V0RLdWs5MWFpaERDUWRXRk10Sy03SUdIdlZkdm5ld2Jwanp1WGoycmp6RjFBLTh1RV94UXlUdFFVU3czcm82TW9rT21LaFo5aUQ1bzJzckdQbkZ3Y1FEOE5MZTdhRVVLVjdyQkVjRy1yMkN5YjV0ZTlkd09NUm1FTlZjbzUxTXJDZ2hsR0RGSEZOb0UxVWhzTHM?oc=5)
-
-`Thu, 26 Mar 2026 05:07:11 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiiwJBVV95cUxPYS1iOG5hbFBCckd3aXRoZU1KeUdub2pRcDlWTDd2NGdmVTJlVGNhUDJ2OF9aWUJxOTZ6clB3ZmVyTVlrQnJpbFB4WkxqZmdCLW1Oa2hvU1Vadmh2cjZEclY3NEdQb216ZUNNWHFPelhFS2U4bi1oS2J3V0RLdWs5MWFpaERDUWRXRk10Sy03SUdIdlZkdm5ld2Jwanp1WGoycmp6RjFBLTh1RV94UXlUdFFVU3czcm82TW9rT21LaFo5aUQ1bzJzckdQbkZ3Y1FEOE5MZTdhRVVLVjdyQkVjRy1yMkN5YjV0ZTlkd09NUm1FTlZjbzUxTXJDZ2hsR0RGSEZOb0UxVWhzTHM?oc=5" target="_blank">Guerre en Iran : pourquoi le choc inflationniste sera différent de celui provoqué par l'invasion de l'Ukraine par la Russie</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [« La France n'a plus les moyens de prendre des mesures générales » sur le prix des carburants : le rappel sans fard du gouverneur de la Banque de France - Les Echos](https://news.google.com/rss/articles/CBMirgJBVV95cUxQdWJXMEdidVRXUWNDNDFQX25UMktxWkhuOUtVMTFwNHA1UEk0LWtTZVQtRmM3aDlLNGhhQ1VOUEVYTE13bUVCY3dEaDdXU2VGYklRaUJ3eU8xX010ZDU1UTVvanNWOFlwdDNiZTM5RjU0VHpzRWtQeTJ0OUZESlJZcWlXb2xYdzl2YkluTEpiVGpXVERCTXUza003QUhEb1RWLVQybGxCSWVKTV9vUHlhOFFyUWx0THBnSEJLRkhNdUxCUXlFaVA4Q2xLRzFybjU3T2VIZ1B2cU9uNXdYZDkxYk1GMEFXb254dWJ2dmo2bFRxNjhjdjJmVlZ3d0FpcE5MZ1RLN0FGdW9sRFItZ2h1WVdMMVlqNHRNbWlqZ1dQWG1STGtOS0tRaXl6RkZzZw?oc=5)
-
-`Wed, 25 Mar 2026 19:00:09 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMirgJBVV95cUxQdWJXMEdidVRXUWNDNDFQX25UMktxWkhuOUtVMTFwNHA1UEk0LWtTZVQtRmM3aDlLNGhhQ1VOUEVYTE13bUVCY3dEaDdXU2VGYklRaUJ3eU8xX010ZDU1UTVvanNWOFlwdDNiZTM5RjU0VHpzRWtQeTJ0OUZESlJZcWlXb2xYdzl2YkluTEpiVGpXVERCTXUza003QUhEb1RWLVQybGxCSWVKTV9vUHlhOFFyUWx0THBnSEJLRkhNdUxCUXlFaVA4Q2xLRzFybjU3T2VIZ1B2cU9uNXdYZDkxYk1GMEFXb254dWJ2dmo2bFRxNjhjdjJmVlZ3d0FpcE5MZ1RLN0FGdW9sRFItZ2h1WVdMMVlqNHRNbWlqZ1dQWG1STGtOS0tRaXl6RkZzZw?oc=5" target="_blank">« La France n'a plus les moyens de prendre des mesures générales » sur le prix des carburants : le rappel sans fard du gouverneur de la Banque de France</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
