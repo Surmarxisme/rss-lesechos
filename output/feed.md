@@ -1,7 +1,23 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Sat, 25 Apr 2026 09:56:13 +0000`
-> 95 articles (30 derniers jours)
+> Derniere mise a jour : `Sun, 26 Apr 2026 09:56:49 +0000`
+> 91 articles (30 derniers jours)
+
+---
+
+### [Syndicats : le réformiste Frédéric Souillot rempile à la tête de FO - Les Echos](https://news.google.com/rss/articles/CBMivAFBVV95cUxPaTdRX0RsZkYzb2FvOGJPZkhnZ3hiejJPSkdWRTNvaVE0bGU3S3MxTnM5X0VXdzJvRmdMQmVmdHN5eGRuTHVBSTFjSnE1NGlNMkhlbnFVM0R0NDFUSms0M0xrR25tRUJZWXZBeDQ2RUpUWnNDeE9FUjMweHQ5NVBveUx1UFo0NUljaV9YRnJBNVg0aUZlZE14cTh2bjNKS09zRmg3bUdFM2F3V2x1eDkxTU9EOUxiTkkwbVdpeQ?oc=5)
+
+`Sat, 25 Apr 2026 12:08:08 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxPaTdRX0RsZkYzb2FvOGJPZkhnZ3hiejJPSkdWRTNvaVE0bGU3S3MxTnM5X0VXdzJvRmdMQmVmdHN5eGRuTHVBSTFjSnE1NGlNMkhlbnFVM0R0NDFUSms0M0xrR25tRUJZWXZBeDQ2RUpUWnNDeE9FUjMweHQ5NVBveUx1UFo0NUljaV9YRnJBNVg0aUZlZE14cTh2bjNKS09zRmg3bUdFM2F3V2x1eDkxTU9EOUxiTkkwbVdpeQ?oc=5" target="_blank">Syndicats : le réformiste Frédéric Souillot rempile à la tête de FO</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Quatre ans après le scandale Orpea, le gouvernement veut rebaptiser les Ehpad - Les Echos](https://news.google.com/rss/articles/CBMiywFBVV95cUxQcllQejM2SXpjcHJPWXFKcFNjY052enVxMXpIOHdsY1FzQ3dkVWJBYU5JdlZtWnppc3RNNmlrUnJVRlZMTHpqMW5nMTdQYjMxV2dZbllqcUpWX3NxX3BiOXBPRE5CcXpCNThRNXFMOGxhTFdXd2c0N2ZrNlBsSldlV0FRWG9obzB3LXJjcFlZT0Q5ZzZBLWV3WGdkaFRzV3VFZ3VwTU1JYVNKeG5fNTRTaGd6MjVNQUdELWhnNnVPT0VpdG9URm9weE9VOA?oc=5)
+
+`Sat, 25 Apr 2026 13:40:00 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiywFBVV95cUxQcllQejM2SXpjcHJPWXFKcFNjY052enVxMXpIOHdsY1FzQ3dkVWJBYU5JdlZtWnppc3RNNmlrUnJVRlZMTHpqMW5nMTdQYjMxV2dZbllqcUpWX3NxX3BiOXBPRE5CcXpCNThRNXFMOGxhTFdXd2c0N2ZrNlBsSldlV0FRWG9obzB3LXJjcFlZT0Q5ZzZBLWV3WGdkaFRzV3VFZ3VwTU1JYVNKeG5fNTRTaGd6MjVNQUdELWhnNnVPT0VpdG9URm9weE9VOA?oc=5" target="_blank">Quatre ans après le scandale Orpea, le gouvernement veut rebaptiser les Ehpad</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -714,53 +730,5 @@
 `Fri, 27 Mar 2026 16:56:48 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNzFUc21pMGhOMnFTZzVWc3hwRkY3Qi02UklEV3RIRnotaVl6NHp1Y05VVlVwZVdmWHRKVU9LV094ckw2MXRVM3dGYlBkbTlpclVJT3VDWm8wRnZkaFJVS0dMWnAzRkkxSk9pelgwbWV5UWt3bE00eUw3VFNqTjhTbUxVUi1HVGRveG81M2Z3dXllQmowREJlcHZNaGNXUmc5OV9GRDB3LS1Zd3RBUnJhcGRuQURUSnNFdzBtNEFlZ01MM0kyczBOckhHVUZOV3FI?oc=5" target="_blank">Comment les surplus d'impôts ont permis de redresser le déficit en 2025</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Le piège de la dette se referme sur la France - Les Echos](https://news.google.com/rss/articles/CBMirwFBVV95cUxPNmtGMXF3Y3FqUGEwR2t2Nlg3dXRaZzBLZkJZd2IwamtpalJ4RXZDc3gyLWY5d3dnNVdYZlJ4M0Z1eXhqa0pxVC1mS19JSFNBVGR6TDZQV2FMV01XUVNTYTMxU1JzUW85RndWR0dhM016NWJ1aGp3cVFhWUZQc1doN0tGbjl2T3k0SzRCZWpwQUtNNUItVTkzbnIyR1p3NUdtdXViUmRsQzBaWXlFcGtz?oc=5)
-
-`Fri, 27 Mar 2026 05:00:09 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxPNmtGMXF3Y3FqUGEwR2t2Nlg3dXRaZzBLZkJZd2IwamtpalJ4RXZDc3gyLWY5d3dnNVdYZlJ4M0Z1eXhqa0pxVC1mS19JSFNBVGR6TDZQV2FMV01XUVNTYTMxU1JzUW85RndWR0dhM016NWJ1aGp3cVFhWUZQc1doN0tGbjl2T3k0SzRCZWpwQUtNNUItVTkzbnIyR1p3NUdtdXViUmRsQzBaWXlFcGtz?oc=5" target="_blank">Le piège de la dette se referme sur la France</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [A 5,1 % du PIB fin 2025, le déficit de la France est moins élevé qu'attendu - Les Echos](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSElSMGlSR2V5aHFNMGdJTHhVZDUzQU05ajRPTUU3aUhCSWlRMmlienp6TVhlTm90a3lQLWRvd1dBRUQ3eUgyQnZYTy1KUU9KMFFvTW9WYjBEYTloZ1pxb3BJYVhVdkRPV1BLa2Z4dE1IRFF2MTNrUlhLQllsOTJoS0ZFUVJKVmJQeXZpbnBnT0txeDdEbE9nSlFVa2tiYlJnZnNmZGlOLXVlc2pCTE5kQk41a2duWG9vYXZfaUJEOGNwTHl6bTlVd09Yb1BQZE1a?oc=5)
-
-`Fri, 27 Mar 2026 06:44:38 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSElSMGlSR2V5aHFNMGdJTHhVZDUzQU05ajRPTUU3aUhCSWlRMmlienp6TVhlTm90a3lQLWRvd1dBRUQ3eUgyQnZYTy1KUU9KMFFvTW9WYjBEYTloZ1pxb3BJYVhVdkRPV1BLa2Z4dE1IRFF2MTNrUlhLQllsOTJoS0ZFUVJKVmJQeXZpbnBnT0txeDdEbE9nSlFVa2tiYlJnZnNmZGlOLXVlc2pCTE5kQk41a2duWG9vYXZfaUJEOGNwTHl6bTlVd09Yb1BQZE1a?oc=5" target="_blank">A 5,1 % du PIB fin 2025, le déficit de la France est moins élevé qu'attendu</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Plans sociaux : cette carte qui inquiète - Les Echos](https://news.google.com/rss/articles/CBMimAFBVV95cUxPX29GWjVBd1dqMndKOS1BNTRxVnB4TUNLTGtmYVNSSVpSdEpHd3hBMFVXcE1RTnlnbHhTLTBHZV9aVDZXLXE3UVdFTGpkTVY0Y3RPN0UwZW1vdWRzWEQwNXZRYnFHeEFab0RvanMxb2pNdzlLMW10SzFCSHB1eUhld3lCZEJBeXdoQjlmNkItZFJ0eGc0OENROA?oc=5)
-
-`Thu, 26 Mar 2026 17:01:56 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMimAFBVV95cUxPX29GWjVBd1dqMndKOS1BNTRxVnB4TUNLTGtmYVNSSVpSdEpHd3hBMFVXcE1RTnlnbHhTLTBHZV9aVDZXLXE3UVdFTGpkTVY0Y3RPN0UwZW1vdWRzWEQwNXZRYnFHeEFab0RvanMxb2pNdzlLMW10SzFCSHB1eUhld3lCZEJBeXdoQjlmNkItZFJ0eGc0OENROA?oc=5" target="_blank">Plans sociaux : cette carte qui inquiète</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [La France est devenue plus inégalitaire que la moyenne de l'Union européenne - Les Echos](https://news.google.com/rss/articles/CBMiygFBVV95cUxNWk9WdXpfYnBpaENzanA2Zk1hS3poZUM4eDhnaDI0d1ctcV9sTlZtVTNMeFFjblBOWFpxV1NsU3g1Ym9SYW53MnlHZU1mTVVJMjhjT1BFbWZYZ01QNDFHaW9qa2lnUGR6cTlmMFZsRUFCSlRLQ0gxdHBDQXV0SEVrNlNoWG5aUldEWWNmY0VRaTFKRHBmQU82ZWgtYUdaMGszMHhUeDFpZTU4NTl5c2hJM01mOS10ZHExa0ZYbENIM0ZmNkVJQWhub2l3?oc=5)
-
-`Thu, 26 Mar 2026 16:42:25 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxNWk9WdXpfYnBpaENzanA2Zk1hS3poZUM4eDhnaDI0d1ctcV9sTlZtVTNMeFFjblBOWFpxV1NsU3g1Ym9SYW53MnlHZU1mTVVJMjhjT1BFbWZYZ01QNDFHaW9qa2lnUGR6cTlmMFZsRUFCSlRLQ0gxdHBDQXV0SEVrNlNoWG5aUldEWWNmY0VRaTFKRHBmQU82ZWgtYUdaMGszMHhUeDFpZTU4NTl5c2hJM01mOS10ZHExa0ZYbENIM0ZmNkVJQWhub2l3?oc=5" target="_blank">La France est devenue plus inégalitaire que la moyenne de l'Union européenne</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Vives craintes sur l'inflation et les carnets de commandes : comment la guerre en Iran affecte déjà l'économie française - Les Echos](https://news.google.com/rss/articles/CBMihwJBVV95cUxNRzlUYzVPaWlQaGZNNHlfeUpJTkl6RVBsUFgtU3lrRmZ0ZkVwWVNSNnMzcEFOWUhJUkFzNzVBUVd1NWRnRm1UUW1LNS1LeTFBTDB1Q2ZRRkhmaWpSMXdpYzU1ak9mbUQ5LUZ3ZjBmS3JnSmtsUGItTDVSWDdldWZ2bG9EYnozSE9KRnlqQk42bjcyZVhadlUxRDdxX3EtcDJDRW1Ed1RhMndGZzJJNklZcDRZbHdQSHNWR2NnUXI2Q1RYMUFxYnpUd1RkUmRTUzRlNFgxaHpXeUF2RmRNLUpiZnB1TEZYaklLOXF2dzYtTUhMZHU0ZDV0LWRreENMSV9wVFY3Y1lCTQ?oc=5)
-
-`Thu, 26 Mar 2026 10:10:04 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMihwJBVV95cUxNRzlUYzVPaWlQaGZNNHlfeUpJTkl6RVBsUFgtU3lrRmZ0ZkVwWVNSNnMzcEFOWUhJUkFzNzVBUVd1NWRnRm1UUW1LNS1LeTFBTDB1Q2ZRRkhmaWpSMXdpYzU1ak9mbUQ5LUZ3ZjBmS3JnSmtsUGItTDVSWDdldWZ2bG9EYnozSE9KRnlqQk42bjcyZVhadlUxRDdxX3EtcDJDRW1Ed1RhMndGZzJJNklZcDRZbHdQSHNWR2NnUXI2Q1RYMUFxYnpUd1RkUmRTUzRlNFgxaHpXeUF2RmRNLUpiZnB1TEZYaklLOXF2dzYtTUhMZHU0ZDV0LWRreENMSV9wVFY3Y1lCTQ?oc=5" target="_blank">Vives craintes sur l'inflation et les carnets de commandes : comment la guerre en Iran affecte déjà l'économie française</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Quand le passage à la retraite renfloue le portefeuille de nombreux Français - Les Echos](https://news.google.com/rss/articles/CBMiywFBVV95cUxQUWFZUW4zbmsxc0ZHNExFUWk5UnZFVGduOEREdERWNXFMWVJUTkRrdjUxRV9GalRxUE1ieVBHcUx4cDV2S0lmRDI2d2NHUm9QRWpXVnd6cjJoRVB4VnFFUU1jNEFtNDZ6T01XakVMNDN6aFQtTE5LTjlLd2dLeEdKaXRVeDNXRHd0RUdjaDRqampIamdDSHp3cW9XQ1VpdGlRekRWbjlLNEt6aDVKbE9nRUhBeUFEUDU0bHVwRDlqZkF3RnBCcldmM2tlMA?oc=5)
-
-`Thu, 26 Mar 2026 11:57:53 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiywFBVV95cUxQUWFZUW4zbmsxc0ZHNExFUWk5UnZFVGduOEREdERWNXFMWVJUTkRrdjUxRV9GalRxUE1ieVBHcUx4cDV2S0lmRDI2d2NHUm9QRWpXVnd6cjJoRVB4VnFFUU1jNEFtNDZ6T01XakVMNDN6aFQtTE5LTjlLd2dLeEdKaXRVeDNXRHd0RUdjaDRqampIamdDSHp3cW9XQ1VpdGlRekRWbjlLNEt6aDVKbE9nRUhBeUFEUDU0bHVwRDlqZkF3RnBCcldmM2tlMA?oc=5" target="_blank">Quand le passage à la retraite renfloue le portefeuille de nombreux Français</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
