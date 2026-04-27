@@ -1,7 +1,23 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Sun, 26 Apr 2026 09:56:49 +0000`
-> 91 articles (30 derniers jours)
+> Derniere mise a jour : `Mon, 27 Apr 2026 07:59:25 +0000`
+> 90 articles (30 derniers jours)
+
+---
+
+### [Les propositions du Medef pour mettre fin au chaos des discussions budgétaires - Les Echos](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUEEzRjNMak9oVGQ1d1Y3NURIVjZMa1NKQ0J3Wld0MzFYX3owMVd5Q2tqQW5EZk5EMGItOVRtSmplME4wTHN2V0gtTUtfLVM3WnlqLXUzTWdjTmdZaFhwemY0bVAxNnZxemVNMWZsQ1dOZnYtWE4wOFZMV0ZrdndDeVRKSk1pSkI1VjhBWGJzVkJweFlIUWh5ekVuWmhPTWg2b0FpRzdCTTRYOXhLQldPdUZtMVJBMWVKZ3ZzVkp2VDlXTGtnVHZSckhvYWdEckF3enBXMmpXZ0xqaU0?oc=5)
+
+`Mon, 27 Apr 2026 04:30:14 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUEEzRjNMak9oVGQ1d1Y3NURIVjZMa1NKQ0J3Wld0MzFYX3owMVd5Q2tqQW5EZk5EMGItOVRtSmplME4wTHN2V0gtTUtfLVM3WnlqLXUzTWdjTmdZaFhwemY0bVAxNnZxemVNMWZsQ1dOZnYtWE4wOFZMV0ZrdndDeVRKSk1pSkI1VjhBWGJzVkJweFlIUWh5ekVuWmhPTWg2b0FpRzdCTTRYOXhLQldPdUZtMVJBMWVKZ3ZzVkp2VDlXTGtnVHZSckhvYWdEckF3enBXMmpXZ0xqaU0?oc=5" target="_blank">Les propositions du Medef pour mettre fin au chaos des discussions budgétaires</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Lutte contre la fraude : les complémentaires santé engrangent des soutiens face aux opticiens - Les Echos](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVXhnZzk1ZkVFYm5oU1AzWi10UVN5WXc0SWxRelB4a2NvZmdkeGt4Ylc0SjhaZHZiTWZXakpOS3g2THotODNLUTh2R29aamhJa3hGaVdVSkNrUGozSG9NZUUtdXZKdXNQWkZpVlg0RUEwdTVuSXlQUTJfbVlaSWJIVW9RVGFtR3F1NnJfNHRnVUJEdVdNNzJXNi1iOTI1RUhJU2d1Q0g4dXhaQndiSURubmV5UzU0THVSY1dvUWkyWlJzbkVUSWNUV2dzT0VvWURUcmNQU0VIWHJKT21aVDM0?oc=5)
+
+`Mon, 27 Apr 2026 04:00:09 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVXhnZzk1ZkVFYm5oU1AzWi10UVN5WXc0SWxRelB4a2NvZmdkeGt4Ylc0SjhaZHZiTWZXakpOS3g2THotODNLUTh2R29aamhJa3hGaVdVSkNrUGozSG9NZUUtdXZKdXNQWkZpVlg0RUEwdTVuSXlQUTJfbVlaSWJIVW9RVGFtR3F1NnJfNHRnVUJEdVdNNzJXNi1iOTI1RUhJU2d1Q0g4dXhaQndiSURubmV5UzU0THVSY1dvUWkyWlJzbkVUSWNUV2dzT0VvWURUcmNQU0VIWHJKT21aVDM0?oc=5" target="_blank">Lutte contre la fraude : les complémentaires santé engrangent des soutiens face aux opticiens</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -706,29 +722,5 @@
 `Mon, 30 Mar 2026 13:07:12 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi-AFBVV95cUxQZ3FXaXBlMTcyV3NTeGNveWlkQy12bm5EbW9zal83QldsSnk5aENLNlVHZ19GWVF4Q3FLd1lPdmt0b05PTVB0RDRaalFveUZCd3RFcEh0R2Vsd2NNYnZackRTcTEzQVZYUXBBN2UwamgyUnVJLXF2cFpqR08xYjU3N1k5Z3dLd1RDODZZS05TNVR5YVlDZVQzXzB1NzNVY2J1NmwzcE5ob2hmQzdaZy1KbWs0S3hoUGlKME8tX1M1aEZjZE5hVDVfNm5vamlBVjRCNUZPLWZYdFNDbjhwbU1WRV9hNU45UDhGcExZbUhDUEFHTlBxQS1GVw?oc=5" target="_blank">« C'est devenu un enjeu statistique et de débat public » : la France, mauvais élève des contrats temporaires en Europe</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Économie | Page 234 - Les Echos](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9JSTRqVndUdG9LVEhXQTQ4YlFrUFEyX3ZkTUR2N184NDJ0Uk5rdk9NWkpZWk1IdmI1OHdCWTdueDFDb2Z6Y2hsZW5zUjFITWtQLUpSd3FzUUprc3Rw?oc=5)
-
-`Fri, 27 Mar 2026 21:33:24 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiXEFVX3lxTE9JSTRqVndUdG9LVEhXQTQ4YlFrUFEyX3ZkTUR2N184NDJ0Uk5rdk9NWkpZWk1IdmI1OHdCWTdueDFDb2Z6Y2hsZW5zUjFITWtQLUpSd3FzUUprc3Rw?oc=5" target="_blank">Économie | Page 234</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Les arrêts maladie de nouveau dans le viseur du gouvernement - Les Echos](https://news.google.com/rss/articles/CBMitgFBVV95cUxOZ1BhNHZaa2Y4enkwZUxlT3UtLXpueXVIUnBXTjBlUkEwT09UTFdwbWN4aExJT2dHSW1faVZDZWI0Ulh4MHpNcW55QkJ2MWg4c2xKa19Xbmt6YV9TRllzOTd2dEJKYnhtdnhjUVk2Y2s1LVV6N2Q0eTRRa0N2cTVhbkJKMXFzREREVi02djQtbVRpWktROW9QMGo3WVplN29YNW5hYWNzYXN0YlBtZjl5cGJrU0dTZw?oc=5)
-
-`Fri, 27 Mar 2026 15:25:15 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxOZ1BhNHZaa2Y4enkwZUxlT3UtLXpueXVIUnBXTjBlUkEwT09UTFdwbWN4aExJT2dHSW1faVZDZWI0Ulh4MHpNcW55QkJ2MWg4c2xKa19Xbmt6YV9TRllzOTd2dEJKYnhtdnhjUVk2Y2s1LVV6N2Q0eTRRa0N2cTVhbkJKMXFzREREVi02djQtbVRpWktROW9QMGo3WVplN29YNW5hYWNzYXN0YlBtZjl5cGJrU0dTZw?oc=5" target="_blank">Les arrêts maladie de nouveau dans le viseur du gouvernement</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Comment les surplus d'impôts ont permis de redresser le déficit en 2025 - Les Echos](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNzFUc21pMGhOMnFTZzVWc3hwRkY3Qi02UklEV3RIRnotaVl6NHp1Y05VVlVwZVdmWHRKVU9LV094ckw2MXRVM3dGYlBkbTlpclVJT3VDWm8wRnZkaFJVS0dMWnAzRkkxSk9pelgwbWV5UWt3bE00eUw3VFNqTjhTbUxVUi1HVGRveG81M2Z3dXllQmowREJlcHZNaGNXUmc5OV9GRDB3LS1Zd3RBUnJhcGRuQURUSnNFdzBtNEFlZ01MM0kyczBOckhHVUZOV3FI?oc=5)
-
-`Fri, 27 Mar 2026 16:56:48 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNzFUc21pMGhOMnFTZzVWc3hwRkY3Qi02UklEV3RIRnotaVl6NHp1Y05VVlVwZVdmWHRKVU9LV094ckw2MXRVM3dGYlBkbTlpclVJT3VDWm8wRnZkaFJVS0dMWnAzRkkxSk9pelgwbWV5UWt3bE00eUw3VFNqTjhTbUxVUi1HVGRveG81M2Z3dXllQmowREJlcHZNaGNXUmc5OV9GRDB3LS1Zd3RBUnJhcGRuQURUSnNFdzBtNEFlZ01MM0kyczBOckhHVUZOV3FI?oc=5" target="_blank">Comment les surplus d'impôts ont permis de redresser le déficit en 2025</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
