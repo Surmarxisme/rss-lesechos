@@ -1,7 +1,31 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Tue, 28 Apr 2026 07:59:20 +0000`
-> 96 articles (30 derniers jours)
+> Derniere mise a jour : `Tue, 28 Apr 2026 11:08:24 +0000`
+> 99 articles (30 derniers jours)
+
+---
+
+### [Chômage : net recul des inscrits à France Travail début 2026 - Les Echos](https://news.google.com/rss/articles/CBMiswFBVV95cUxNR2tHRmRScGZDY2I2aGxvUGFYeG15VFU2dVBXOGU0VmhidzRVbFRrb3NRTjY4WEY1M29YQUxhSmFjb2xxY3dYX0V1NkNmUkN3R3NWUGVCNkxMOEUzTVlIUU5lZndVeWs0eEhBaTlfSi00bVhrdXdoNHl6Z2xtcDY4NV9CY0xoOUpCUy12YkJVQ3NEcFZPeWRpaERqN054VFZsN0NkVXltc2ZRLVpLVzYtOHFGRQ?oc=5)
+
+`Tue, 28 Apr 2026 10:01:14 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxNR2tHRmRScGZDY2I2aGxvUGFYeG15VFU2dVBXOGU0VmhidzRVbFRrb3NRTjY4WEY1M29YQUxhSmFjb2xxY3dYX0V1NkNmUkN3R3NWUGVCNkxMOEUzTVlIUU5lZndVeWs0eEhBaTlfSi00bVhrdXdoNHl6Z2xtcDY4NV9CY0xoOUpCUy12YkJVQ3NEcFZPeWRpaERqN054VFZsN0NkVXltc2ZRLVpLVzYtOHFGRQ?oc=5" target="_blank">Chômage : net recul des inscrits à France Travail début 2026</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Emmanuel Macron s'apprête à lancer une mission sur le financement de la protection sociale - Les Echos](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQOWJISng1Wjg4el9PX3B6MDRsczVINlV5S1hLWG1pRDU4bnFCcEZYVVkyZVR3TGl4SmJFalNlT21jQnBUTTBZa0cydDZGbWZVQ1JnMmxheFdPNGRUMEl2b1RFc0Y5NjYxSFIxak1palV4M2QxRm5aUFNDVy1hVXVUMEFJQzRuVUlEbW85U280ejB1bWJhX19lVVJHX3REZWY1WklxdTRXRVU4dmhLT3hqSnRMN0hxNHFxWjNrcGt0TTJEWEYzQW1fNVByVGxYTlpOaVZQNk9xQUJDMHpK?oc=5)
+
+`Tue, 28 Apr 2026 10:42:08 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi3AFBVV95cUxQOWJISng1Wjg4el9PX3B6MDRsczVINlV5S1hLWG1pRDU4bnFCcEZYVVkyZVR3TGl4SmJFalNlT21jQnBUTTBZa0cydDZGbWZVQ1JnMmxheFdPNGRUMEl2b1RFc0Y5NjYxSFIxak1palV4M2QxRm5aUFNDVy1hVXVUMEFJQzRuVUlEbW85U280ejB1bWJhX19lVVJHX3REZWY1WklxdTRXRVU4dmhLT3hqSnRMN0hxNHFxWjNrcGt0TTJEWEYzQW1fNVByVGxYTlpOaVZQNk9xQUJDMHpK?oc=5" target="_blank">Emmanuel Macron s'apprête à lancer une mission sur le financement de la protection sociale</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Économie | Page 236 - Les Echos](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBYRUpXU3F0WUVkYVAtWkR5LXZiZVdLbEI4WTJ5VTg0RHNMQ2t4OFdSTzZUMENFelFSTWdhQnJoTTBrd0d3T3RBdlFJUWs5UmpHSFB6RTh5UUJpQ3Nt?oc=5)
+
+`Sat, 25 Apr 2026 11:32:52 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiXEFVX3lxTFBYRUpXU3F0WUVkYVAtWkR5LXZiZVdLbEI4WTJ5VTg0RHNMQ2t4OFdSTzZUMENFelFSTWdhQnJoTTBrd0d3T3RBdlFJUWs5UmpHSFB6RTh5UUJpQ3Nt?oc=5" target="_blank">Économie | Page 236</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
