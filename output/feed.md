@@ -1,7 +1,31 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Mon, 27 Apr 2026 17:58:38 +0000`
-> 93 articles (30 derniers jours)
+> Derniere mise a jour : `Tue, 28 Apr 2026 07:59:20 +0000`
+> 96 articles (30 derniers jours)
+
+---
+
+### [Hôpital : plus de 20 milliards d'euros de soins « inutiles ou à faible valeur », selon la Cour des comptes - Les Echos](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPUmVnZWxKaDg3bV9HVmpQeDI0dVBHeERtRHp2VHBpb3FuQS16blptU0MzOXlVdGk5bnlwMDJVUjJhekM4UG5zWW56UEYxRUVJRkZwREdZMnVObG9Qb2x3cUplcXl0LTJTRDhTTlA0U3kwSTc2cEhzVmkzUGhPSmMyc3J0UVRJWXJoVUlHQ182Uk5FSVJTZzk4T3kwNUpJd0R1SVptdENIeUR5ZkxSMTluZTZVcy12cDlVdi15NG12WU1ySno1Wkkwd3JWdW1QZ3BkbDhPWFg2MmdlUENPVXlXbERmRjJ3VkVldklHdE5pWEw2UQ?oc=5)
+
+`Tue, 28 Apr 2026 07:14:43 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi8gFBVV95cUxPUmVnZWxKaDg3bV9HVmpQeDI0dVBHeERtRHp2VHBpb3FuQS16blptU0MzOXlVdGk5bnlwMDJVUjJhekM4UG5zWW56UEYxRUVJRkZwREdZMnVObG9Qb2x3cUplcXl0LTJTRDhTTlA0U3kwSTc2cEhzVmkzUGhPSmMyc3J0UVRJWXJoVUlHQ182Uk5FSVJTZzk4T3kwNUpJd0R1SVptdENIeUR5ZkxSMTluZTZVcy12cDlVdi15NG12WU1ySno1Wkkwd3JWdW1QZ3BkbDhPWFg2MmdlUENPVXlXbERmRjJ3VkVldklHdE5pWEw2UQ?oc=5" target="_blank">Hôpital : plus de 20 milliards d'euros de soins « inutiles ou à faible valeur », selon la Cour des comptes</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [« Le Cese est la chambre du consensus, mais pas du consensus mou » - Les Echos](https://news.google.com/rss/articles/CBMitwFBVV95cUxOSEZ3S1JRNWg2ZkxMcmtseFVIUFlFck9MSmM2ZjdTdzBZRW5FYlpyR2VKN1NTNzktLTMzeG9uem8wYzBhdGljTUpGU1JyZ29ETmZERy1zd1VzNUNNZTQ1dE1jYUdub0ZTa2JZOGpsX2JCZzVLY0x3Mmd1UXp4a1BPQzhnVEhPS2JDeHNyd3FfdlA4akwwcEo1S0NxeFpNOXlXM3d3dXh0d054TXZVNkl2OVdMT2tEdDA?oc=5)
+
+`Tue, 28 Apr 2026 05:00:12 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxOSEZ3S1JRNWg2ZkxMcmtseFVIUFlFck9MSmM2ZjdTdzBZRW5FYlpyR2VKN1NTNzktLTMzeG9uem8wYzBhdGljTUpGU1JyZ29ETmZERy1zd1VzNUNNZTQ1dE1jYUdub0ZTa2JZOGpsX2JCZzVLY0x3Mmd1UXp4a1BPQzhnVEhPS2JDeHNyd3FfdlA4akwwcEo1S0NxeFpNOXlXM3d3dXh0d054TXZVNkl2OVdMT2tEdDA?oc=5" target="_blank">« Le Cese est la chambre du consensus, mais pas du consensus mou »</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Guerre au Moyen-Orient : les fournisseurs de l'Etat pourront demander des hausses de prix - Les Echos](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNTEdJa2ZubkFBRmhYRm9ybUhWdDQ5SVZ3NzFORWpJbk5OYTNtRHZuS1dXLThvQmNwYTlRWFp4MldSTEVYY3Z2QWlVN1Q0TTN6M2RwTDQyRS1XbElJcmxQSVZuczFWR0RTb3I1Rm1WbFV2NG0yS3FwS0RCbUZaY3c1UFppeEEwTlprcEJCYnZLTndGZnpvQTZuaDJUclROQnBhWV9hX2NXc3RVYnp0aWNiN1R3SEg5aDZaaWVVMWhkUG5nRFlLUzB3SGUyeW9PRXJMaTY2OU55N3R2YUx3cmtPZEFSNDVDUQ?oc=5)
+
+`Tue, 28 Apr 2026 06:00:00 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi5gFBVV95cUxNTEdJa2ZubkFBRmhYRm9ybUhWdDQ5SVZ3NzFORWpJbk5OYTNtRHZuS1dXLThvQmNwYTlRWFp4MldSTEVYY3Z2QWlVN1Q0TTN6M2RwTDQyRS1XbElJcmxQSVZuczFWR0RTb3I1Rm1WbFV2NG0yS3FwS0RCbUZaY3c1UFppeEEwTlprcEJCYnZLTndGZnpvQTZuaDJUclROQnBhWV9hX2NXc3RVYnp0aWNiN1R3SEg5aDZaaWVVMWhkUG5nRFlLUzB3SGUyeW9PRXJMaTY2OU55N3R2YUx3cmtPZEFSNDVDUQ?oc=5" target="_blank">Guerre au Moyen-Orient : les fournisseurs de l'Etat pourront demander des hausses de prix</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
