@@ -1,7 +1,31 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Tue, 28 Apr 2026 11:08:24 +0000`
-> 99 articles (30 derniers jours)
+> Derniere mise a jour : `Tue, 28 Apr 2026 18:11:57 +0000`
+> 102 articles (30 derniers jours)
+
+---
+
+### [Territoires zéro chômeur : l'expérimentation toujours en sursis - Les Echos](https://news.google.com/rss/articles/CBMitgFBVV95cUxORHlhTWVXLURKeFkwVWdqcjdQSUdqM1dKdS1rci1memYwbi1DZUpsVnp2TmI1cGZfMGo1VFZ4cGhRVk5lRWZmZVgweW1fbmZoeWp4NFB0WGZzOFZZSDAtMHR0cGE1cnByU3ZsWk9XVEhkb2JxcjRobGw0WERJMHF0YzVrU2tmYzEyZi16cURfMjVWT3pGNWxmNENvTVU1RTY1YjdSNV80azAxV19zM1NNTEJwc0l5UQ?oc=5)
+
+`Tue, 28 Apr 2026 14:52:54 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxORHlhTWVXLURKeFkwVWdqcjdQSUdqM1dKdS1rci1memYwbi1DZUpsVnp2TmI1cGZfMGo1VFZ4cGhRVk5lRWZmZVgweW1fbmZoeWp4NFB0WGZzOFZZSDAtMHR0cGE1cnByU3ZsWk9XVEhkb2JxcjRobGw0WERJMHF0YzVrU2tmYzEyZi16cURfMjVWT3pGNWxmNENvTVU1RTY1YjdSNV80azAxV19zM1NNTEJwc0l5UQ?oc=5" target="_blank">Territoires zéro chômeur : l'expérimentation toujours en sursis</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [FO : Frédéric Souillot veut croire en la relance du dialogue avec le patronat - Les Echos](https://news.google.com/rss/articles/CBMiygFBVV95cUxPS2t0UVUwb3E1WWNvTW52QnBhSlZLeGx2WWFYUjN2QUs2M1hmRUhxUHJ3U0U3Z21KclFiN0t0eGtiRUx4WFdSRWNWR1RlaXlnZXVET1BhM2Fib2hKemNoSEd0V29iWUpPdHNuXy1EU0FZUWozeTdTSDJmY01YTHJlZEV3SWNPWUJnS2RTeEcxcklpOF9pbmxXV3ZOUUlOdUtDem1lbDQxRHY0blAzN0lXU2wwVVF1SFJJeWpvdDgxaDNvSFgtRXdPUE93?oc=5)
+
+`Tue, 28 Apr 2026 16:57:39 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxPS2t0UVUwb3E1WWNvTW52QnBhSlZLeGx2WWFYUjN2QUs2M1hmRUhxUHJ3U0U3Z21KclFiN0t0eGtiRUx4WFdSRWNWR1RlaXlnZXVET1BhM2Fib2hKemNoSEd0V29iWUpPdHNuXy1EU0FZUWozeTdTSDJmY01YTHJlZEV3SWNPWUJnS2RTeEcxcklpOF9pbmxXV3ZOUUlOdUtDem1lbDQxRHY0blAzN0lXU2wwVVF1SFJJeWpvdDgxaDNvSFgtRXdPUE93?oc=5" target="_blank">FO : Frédéric Souillot veut croire en la relance du dialogue avec le patronat</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Accord décisif entre députés et sénateurs pour durcir la lutte contre la fraude fiscale et sociale - Les Echos](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNSGR0TTJ1aXEtNVE4X1F6ZU5UOExTcVdUMHZHV0MwQmFWdGV3UTVuYXJ2M1RPckxfZi15dkxINGhteFc3VWhTUDl4RVZRTjdNQXV4NFF3ZEFPYUIwT1E3RG5Gd0hGX3F3T09YTGFjZWNPM0tkbC1HWDBXVFUxNkhlZ042QTQ4X3FQSGRfbExUUkt1Wmt6NENEN0ZTejBVNWYwd0ZjRm11akxIMVpMaTMwMlpjdUdwTHF2UFNLV3dfR1F4TGhBWVFsTzFRYUNKUldpckNiVlhJbmxmY1JFak5NTVl6QmUzb1pGVEhKTmlrc3Q4N3dOQjY4?oc=5)
+
+`Tue, 28 Apr 2026 13:35:33 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi9wFBVV95cUxNSGR0TTJ1aXEtNVE4X1F6ZU5UOExTcVdUMHZHV0MwQmFWdGV3UTVuYXJ2M1RPckxfZi15dkxINGhteFc3VWhTUDl4RVZRTjdNQXV4NFF3ZEFPYUIwT1E3RG5Gd0hGX3F3T09YTGFjZWNPM0tkbC1HWDBXVFUxNkhlZ042QTQ4X3FQSGRfbExUUkt1Wmt6NENEN0ZTejBVNWYwd0ZjRm11akxIMVpMaTMwMlpjdUdwTHF2UFNLV3dfR1F4TGhBWVFsTzFRYUNKUldpckNiVlhJbmxmY1JFak5NTVl6QmUzb1pGVEhKTmlrc3Q4N3dOQjY4?oc=5" target="_blank">Accord décisif entre députés et sénateurs pour durcir la lutte contre la fraude fiscale et sociale</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
