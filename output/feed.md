@@ -1,7 +1,23 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Tue, 28 Apr 2026 18:11:57 +0000`
-> 102 articles (30 derniers jours)
+> Derniere mise a jour : `Wed, 29 Apr 2026 07:54:00 +0000`
+> 104 articles (30 derniers jours)
+
+---
+
+### [Banque de France : Emmanuel Moulin, un fidèle de Macron, dans les starting-blocks - Les Echos](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVXRLQjZwNDJ6ZzdBay1LeW1odzBCYlptZUttSjEwTjhEd2Y1Z3ZVV0FwTm9RcmRBY1hYMUJIeTM2YTRabUM3VTZFNHZVdjlMcEROaGtlczdILWRQTmhvRlFBdEI2SE1HX0J2enRZNU5UVGw1QV8tb0ZHSFdJQnBqc3Ftd0RNNlJxa0dadUhBMEdEbllLYUxwZUZ2T2RFYV9tdmx3RkxpcGpXM2lQbVoxWkdac3FnUUpP?oc=5)
+
+`Wed, 29 Apr 2026 04:23:09 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVXRLQjZwNDJ6ZzdBay1LeW1odzBCYlptZUttSjEwTjhEd2Y1Z3ZVV0FwTm9RcmRBY1hYMUJIeTM2YTRabUM3VTZFNHZVdjlMcEROaGtlczdILWRQTmhvRlFBdEI2SE1HX0J2enRZNU5UVGw1QV8tb0ZHSFdJQnBqc3Ftd0RNNlJxa0dadUhBMEdEbllLYUxwZUZ2T2RFYV9tdmx3RkxpcGpXM2lQbVoxWkdac3FnUUpP?oc=5" target="_blank">Banque de France : Emmanuel Moulin, un fidèle de Macron, dans les starting-blocks</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Prix de l'essence : les ventes de carburants chutent lourdement en France - Les Echos](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUi1YaGxJQXdxek5sT2RaNGI4UDl2Qm9KRVpiS05oa21Jd0Nka1ZhT1Y3RElGeGtzb3VScEJPZ1lkTXdKa0hnSUcxa05lVnkyRW1feHk5VUtYZEl3ek5EQzFCcF9YVmRSZFRqNmlqOERfQ09tQjlPN2p3aWluVUZTdTBrV0tjN2NHSUZNd1pOaWxmMElTdG5oRkxjbHhDRVNpWWt4UFpITllFem9GUGR1TXZ3VTlLNDBQMUhtQ1dYX3RlRnJwekxPX2l1QWgtUk95?oc=5)
+
+`Wed, 29 Apr 2026 04:40:09 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUi1YaGxJQXdxek5sT2RaNGI4UDl2Qm9KRVpiS05oa21Jd0Nka1ZhT1Y3RElGeGtzb3VScEJPZ1lkTXdKa0hnSUcxa05lVnkyRW1feHk5VUtYZEl3ek5EQzFCcF9YVmRSZFRqNmlqOERfQ09tQjlPN2p3aWluVUZTdTBrV0tjN2NHSUZNd1pOaWxmMElTdG5oRkxjbHhDRVNpWWt4UFpITllFem9GUGR1TXZ3VTlLNDBQMUhtQ1dYX3RlRnJwekxPX2l1QWgtUk95?oc=5" target="_blank">Prix de l'essence : les ventes de carburants chutent lourdement en France</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
