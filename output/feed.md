@@ -1,7 +1,7 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Wed, 29 Apr 2026 11:00:13 +0000`
-> 104 articles (30 derniers jours)
+> Derniere mise a jour : `Wed, 29 Apr 2026 13:27:07 +0000`
+> 103 articles (30 derniers jours)
 
 ---
 
@@ -826,13 +826,5 @@
 `Mon, 30 Mar 2026 16:41:17 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTk1uX09kTm1mUWhaTms3cVZ2RUcwaWZuQzZCMFoxUTNUNGwzZDhqT2I2Y1doUUtWNFNJcHdyYXhaVE1FS0h4QWpRV05QNmlOczNuU3VVRVZLRkdmMGtHZGFuTGZSZmp2eHFnNGthR1BHdlE3WE1QbnR0N1N5TzBEYkRlamVIT0p1QXJuaHlUYkoybnZQdVVTMkpNYXV0cnU1M3M0aU1Scnl2cVg5QVJTNFozVzVhcDFpT3BfeENFN3lqZWdjTVhiQzJZejZKaXpKaEhNMXdkYnE?oc=5" target="_blank">La pression monte pour durcir le contrôle des investissements étrangers en France</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [« C'est devenu un enjeu statistique et de débat public » : la France, mauvais élève des contrats temporaires en Europe - Les Echos](https://news.google.com/rss/articles/CBMi-AFBVV95cUxQZ3FXaXBlMTcyV3NTeGNveWlkQy12bm5EbW9zal83QldsSnk5aENLNlVHZ19GWVF4Q3FLd1lPdmt0b05PTVB0RDRaalFveUZCd3RFcEh0R2Vsd2NNYnZackRTcTEzQVZYUXBBN2UwamgyUnVJLXF2cFpqR08xYjU3N1k5Z3dLd1RDODZZS05TNVR5YVlDZVQzXzB1NzNVY2J1NmwzcE5ob2hmQzdaZy1KbWs0S3hoUGlKME8tX1M1aEZjZE5hVDVfNm5vamlBVjRCNUZPLWZYdFNDbjhwbU1WRV9hNU45UDhGcExZbUhDUEFHTlBxQS1GVw?oc=5)
-
-`Mon, 30 Mar 2026 13:07:12 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi-AFBVV95cUxQZ3FXaXBlMTcyV3NTeGNveWlkQy12bm5EbW9zal83QldsSnk5aENLNlVHZ19GWVF4Q3FLd1lPdmt0b05PTVB0RDRaalFveUZCd3RFcEh0R2Vsd2NNYnZackRTcTEzQVZYUXBBN2UwamgyUnVJLXF2cFpqR08xYjU3N1k5Z3dLd1RDODZZS05TNVR5YVlDZVQzXzB1NzNVY2J1NmwzcE5ob2hmQzdaZy1KbWs0S3hoUGlKME8tX1M1aEZjZE5hVDVfNm5vamlBVjRCNUZPLWZYdFNDbjhwbU1WRV9hNU45UDhGcExZbUhDUEFHTlBxQS1GVw?oc=5" target="_blank">« C'est devenu un enjeu statistique et de débat public » : la France, mauvais élève des contrats temporaires en Europe</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
