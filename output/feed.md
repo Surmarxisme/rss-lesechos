@@ -1,7 +1,23 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Wed, 29 Apr 2026 13:27:07 +0000`
-> 103 articles (30 derniers jours)
+> Derniere mise a jour : `Wed, 29 Apr 2026 18:06:31 +0000`
+> 102 articles (30 derniers jours)
+
+---
+
+### [Carburants : Lecornu réfléchit à de nouvelles aides sans exclure une taxe sur les superprofits - Les Echos](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOLWlxLWxXVWJQN3pscjJBN2dYc0o5b0VkeGNqTU92ME9fTFI4Q3oyR19pZzRUZzNkT0E3TlZ1d3V2U3A1VHhDYWFWVkhnc3B0Wmh6R3Axa0l6bGZSNlU2dTViVVF4d0hlakxGeFB4aVpDbGxEcExlVlN3NnJ3S0lCcE82OGJQdGdxQnN2ZVNjZkx0eU1lTmY5bjRwVmQyMHVsdkY1dFI4THJhcU84RDh0Y0NKZUZVYzI2VFl4Zld5YnlMb0ZjWXl3UGNHNF9JaHJYRnRXT0lRbmh2Q2pxbmItcG0zc1BuaHowdEJFVm5R?oc=5)
+
+`Wed, 29 Apr 2026 15:41:44 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi7gFBVV95cUxOLWlxLWxXVWJQN3pscjJBN2dYc0o5b0VkeGNqTU92ME9fTFI4Q3oyR19pZzRUZzNkT0E3TlZ1d3V2U3A1VHhDYWFWVkhnc3B0Wmh6R3Axa0l6bGZSNlU2dTViVVF4d0hlakxGeFB4aVpDbGxEcExlVlN3NnJ3S0lCcE82OGJQdGdxQnN2ZVNjZkx0eU1lTmY5bjRwVmQyMHVsdkY1dFI4THJhcU84RDh0Y0NKZUZVYzI2VFl4Zld5YnlMb0ZjWXl3UGNHNF9JaHJYRnRXT0lRbmh2Q2pxbmItcG0zc1BuaHowdEJFVm5R?oc=5" target="_blank">Carburants : Lecornu réfléchit à de nouvelles aides sans exclure une taxe sur les superprofits</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Travail le 1er-Mai : la polémique ne s'éteint pas - Les Echos](https://news.google.com/rss/articles/CBMiowFBVV95cUxPWURWS1dUaGgzeXI2QVNpMnlheS1fSmp3Z1c5dGdzU1p6cHZqOEZxcng3MHpiUE5FZmxQTTRDVmh6dmczeGl0b1o5Q24zbXdfcVBiZ05ndmVmNEQ4RV9ySFl5SUFoNGJSWXpGY25qeG1RLUdKYzhKM3lyZ3JZNFVBR0NNckcxWDdyaDVTRDFBMDNncXpueHZrNGJoU3NDcEFvREFv?oc=5)
+
+`Wed, 29 Apr 2026 15:18:28 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiowFBVV95cUxPWURWS1dUaGgzeXI2QVNpMnlheS1fSmp3Z1c5dGdzU1p6cHZqOEZxcng3MHpiUE5FZmxQTTRDVmh6dmczeGl0b1o5Q24zbXdfcVBiZ05ndmVmNEQ4RV9ySFl5SUFoNGJSWXpGY25qeG1RLUdKYzhKM3lyZ3JZNFVBR0NNckcxWDdyaDVTRDFBMDNncXpueHZrNGJoU3NDcEFvREFv?oc=5" target="_blank">Travail le 1er-Mai : la polémique ne s'éteint pas</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -802,29 +818,5 @@
 `Tue, 31 Mar 2026 04:25:08 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMikwJBVV95cUxPSlBseFdmVmw3X05nd2NKRlB5YTdmbTZkbEZQVGVwQ2Y3ei1rNEU3REtrMnBXaXZwSDN0alpXVnZKXzVqSE1ZdnEwMTJRNnE3Y2ZDT0pkOVI5RXJ6dW1yRTdFMWlTN2RkSWR2ZGF2a184MnBDeGZvdTVsWDhTalFuN3g0VDMtZDBRZ2Z5c2lJVkdaQnFtTmhMTndkeFJ4QUNxM0NzRWNZNUpVSHo2Z3JzMWc0d25qZTlSZ2FuYzRfZkFVcnRaZjc3Q3ZLci1SZGV6ek9SckI2dWUwSWRNck5pTUNxMDR4dkhOSnZuSXBtREFTUHJncm8tTlhWZ3lJRkpKRUtITHIwTXRHYnR3c2pGZXdicw?oc=5" target="_blank">« On est vraiment sur un virage de transformation du métier » : cet accord qui va permettre aux infirmiers de réaliser des « consultations »</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Santé : comment soigner les déficits des hôpitaux français ? - Les Echos](https://news.google.com/rss/articles/CBMisAFBVV95cUxOLVhPeG5oUnBVVWZVQWNhWGlFd0UzaVlxTE9WVTN3ZmdKa3gxSUpQNFExSk92OU1XTGJRSmpnNEtqZ3NYMThxZXR1TU5nblJXaDg2ek9RaUVvZEw0cjRPRDYzRGhHUmpSNjZ0NmNZUy1WdjFkZHFub1J2VnlJZDdiSE5VRmI5S0NJRm5PeEZ1aGw0Y1c4SjVZWFN6OEZqSFlxUF9YMWEzam54TTJjaUNIdw?oc=5)
-
-`Mon, 30 Mar 2026 15:00:31 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxOLVhPeG5oUnBVVWZVQWNhWGlFd0UzaVlxTE9WVTN3ZmdKa3gxSUpQNFExSk92OU1XTGJRSmpnNEtqZ3NYMThxZXR1TU5nblJXaDg2ek9RaUVvZEw0cjRPRDYzRGhHUmpSNjZ0NmNZUy1WdjFkZHFub1J2VnlJZDdiSE5VRmI5S0NJRm5PeEZ1aGw0Y1c4SjVZWFN6OEZqSFlxUF9YMWEzam54TTJjaUNIdw?oc=5" target="_blank">Santé : comment soigner les déficits des hôpitaux français ?</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Adrien Bilal, l'économiste lanceur d'alerte sur le climat - Les Echos](https://news.google.com/rss/articles/CBMitAFBVV95cUxNeTN0elhCRGJST3VVS0FWMFJ6cjJoSURoZktDT2ZoUnRfRUdkRTNCQ29TbEdoczN6cU1ic2o4NUN6clItajZycWNGM283aVJhb2o3VzNfU3NqaWdVc080cHp1Y1V6MEtoYWw4WUJwVjNMRUhtaXMtelAtV0UzbEJCRFVuOVRMM1IyYTZRaHRaRzhxVVhoaUVJNHBMSmtxYmpoeTlHeU5jcTlMRU1sWTdhd1FhUmQ?oc=5)
-
-`Mon, 30 Mar 2026 15:45:52 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxNeTN0elhCRGJST3VVS0FWMFJ6cjJoSURoZktDT2ZoUnRfRUdkRTNCQ29TbEdoczN6cU1ic2o4NUN6clItajZycWNGM283aVJhb2o3VzNfU3NqaWdVc080cHp1Y1V6MEtoYWw4WUJwVjNMRUhtaXMtelAtV0UzbEJCRFVuOVRMM1IyYTZRaHRaRzhxVVhoaUVJNHBMSmtxYmpoeTlHeU5jcTlMRU1sWTdhd1FhUmQ?oc=5" target="_blank">Adrien Bilal, l'économiste lanceur d'alerte sur le climat</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [La pression monte pour durcir le contrôle des investissements étrangers en France - Les Echos](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTk1uX09kTm1mUWhaTms3cVZ2RUcwaWZuQzZCMFoxUTNUNGwzZDhqT2I2Y1doUUtWNFNJcHdyYXhaVE1FS0h4QWpRV05QNmlOczNuU3VVRVZLRkdmMGtHZGFuTGZSZmp2eHFnNGthR1BHdlE3WE1QbnR0N1N5TzBEYkRlamVIT0p1QXJuaHlUYkoybnZQdVVTMkpNYXV0cnU1M3M0aU1Scnl2cVg5QVJTNFozVzVhcDFpT3BfeENFN3lqZWdjTVhiQzJZejZKaXpKaEhNMXdkYnE?oc=5)
-
-`Mon, 30 Mar 2026 16:41:17 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTk1uX09kTm1mUWhaTms3cVZ2RUcwaWZuQzZCMFoxUTNUNGwzZDhqT2I2Y1doUUtWNFNJcHdyYXhaVE1FS0h4QWpRV05QNmlOczNuU3VVRVZLRkdmMGtHZGFuTGZSZmp2eHFnNGthR1BHdlE3WE1QbnR0N1N5TzBEYkRlamVIT0p1QXJuaHlUYkoybnZQdVVTMkpNYXV0cnU1M3M0aU1Scnl2cVg5QVJTNFozVzVhcDFpT3BfeENFN3lqZWdjTVhiQzJZejZKaXpKaEhNMXdkYnE?oc=5" target="_blank">La pression monte pour durcir le contrôle des investissements étrangers en France</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
