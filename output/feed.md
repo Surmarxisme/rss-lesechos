@@ -1,7 +1,23 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Thu, 30 Apr 2026 07:56:11 +0000`
-> 101 articles (30 derniers jours)
+> Derniere mise a jour : `Thu, 30 Apr 2026 10:59:19 +0000`
+> 103 articles (30 derniers jours)
+
+---
+
+### [« Jusqu'où la natalité va-t-elle baisser ? » : les naissances toujours moins nombreuses que les décès en France début 2026 - Les Echos](https://news.google.com/rss/articles/CBMigwJBVV95cUxQeXZ2cFp6N0kzeW1uOTY4T3Q0NlNTTEFyQU95QnYwMkpDZ1dyeFFIbE14bG9oQlpuRGp5VEpoV3h0Y3hPV1VzY1pNbms4cDFSUXZWN3pURjc0MHZlbF9mY1lsS3BDcThnYUxvLVAxSnJ0a2ZXYUpCMEZKSFA1ekZZRkhtLXFLb0FTMURBajJ3ZHBiUW0wWWFMbkIyX0tkODIxVmhMUkdaNXpISndCeGZwd0ozVGEtZDB0dGdoaEdUNjYwcjJpMXlMbG5GMmxXaWpfcWI0VzRGMDZRNE81TzhOaHBhRFNOZU9xZDRqNlhGTkw0TW1mMG5xWWtzM09PU21hczNB?oc=5)
+
+`Thu, 30 Apr 2026 10:56:45 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMigwJBVV95cUxQeXZ2cFp6N0kzeW1uOTY4T3Q0NlNTTEFyQU95QnYwMkpDZ1dyeFFIbE14bG9oQlpuRGp5VEpoV3h0Y3hPV1VzY1pNbms4cDFSUXZWN3pURjc0MHZlbF9mY1lsS3BDcThnYUxvLVAxSnJ0a2ZXYUpCMEZKSFA1ekZZRkhtLXFLb0FTMURBajJ3ZHBiUW0wWWFMbkIyX0tkODIxVmhMUkdaNXpISndCeGZwd0ozVGEtZDB0dGdoaEdUNjYwcjJpMXlMbG5GMmxXaWpfcWI0VzRGMDZRNE81TzhOaHBhRFNOZU9xZDRqNlhGTkw0TW1mMG5xWWtzM09PU21hczNB?oc=5" target="_blank">« Jusqu'où la natalité va-t-elle baisser ? » : les naissances toujours moins nombreuses que les décès en France début 2026</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Guerre au Moyen-Orient : la poussée d'inflation devrait conduire à un coup de pouce au SMIC dès juin - Les Echos](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOTnlPSHcxUWFZNHV6d2EzQzl6QkZmVGpXSEE5bXppMkRqa0lUMEstN2hzZjI2Ykk3cVFzZW4yTGE3S0RyT3Y1NHJFUDkxdncyQ3JfWEZPdzRRV2xUX0J5bnN3dmVyMVVjamRfNFFkZFEzUktuUUxJd0FQY29LNlhTZ2hFNXY0YzczYVNiWFFKY2RhNXFtRGg4SzhuVy1OeFBVTzBZWE50WFA5TVJnZm94a1pEVzdXbHpOb196R2VoUkJmUkhwczV0MEdwWUVxaGNpS2k3dnVUbkM4cXJ6NHhHSTZodFlxc28?oc=5)
+
+`Thu, 30 Apr 2026 09:11:46 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi5wFBVV95cUxOTnlPSHcxUWFZNHV6d2EzQzl6QkZmVGpXSEE5bXppMkRqa0lUMEstN2hzZjI2Ykk3cVFzZW4yTGE3S0RyT3Y1NHJFUDkxdncyQ3JfWEZPdzRRV2xUX0J5bnN3dmVyMVVjamRfNFFkZFEzUktuUUxJd0FQY29LNlhTZ2hFNXY0YzczYVNiWFFKY2RhNXFtRGg4SzhuVy1OeFBVTzBZWE50WFA5TVJnZm94a1pEVzdXbHpOb196R2VoUkJmUkhwczV0MEdwWUVxaGNpS2k3dnVUbkM4cXJ6NHhHSTZodFlxc28?oc=5" target="_blank">Guerre au Moyen-Orient : la poussée d'inflation devrait conduire à un coup de pouce au SMIC dès juin</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
