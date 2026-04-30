@@ -1,7 +1,23 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Wed, 29 Apr 2026 18:06:31 +0000`
-> 102 articles (30 derniers jours)
+> Derniere mise a jour : `Thu, 30 Apr 2026 07:56:11 +0000`
+> 101 articles (30 derniers jours)
+
+---
+
+### [Croissance : douche froide pour l'économie française, déjà plombée par la guerre au Moyen-Orient - Les Echos](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPNEYyRUQwRzZ2UnNjQ1pwdzk2c0thekpNZFRFMHJ1SzlOcGY2ZEFmeVZLbFg3NVNZX1d3Wmt2dk5BU19JbVI1QUlnR18zT2JRZG9GQS1neWpGZHAxQjl5ZlZTajBIcXVaRmNQVG54bUZ3eVdmM0xaQnhRODhFQkRrUVU5UEJFM0pkY0Y1UHZIbHBGcEUxc0lfaFVVdGdDNXZ0cDhEUFVOcGRWekFvelNwaTBrWVhFMEpmVU9EQldhdzJHZjFxb0IxcDJRamtuakFSX0Y2RERNSlROWFZ0dVpjM0steUFNZnc?oc=5)
+
+`Thu, 30 Apr 2026 05:51:29 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi5wFBVV95cUxPNEYyRUQwRzZ2UnNjQ1pwdzk2c0thekpNZFRFMHJ1SzlOcGY2ZEFmeVZLbFg3NVNZX1d3Wmt2dk5BU19JbVI1QUlnR18zT2JRZG9GQS1neWpGZHAxQjl5ZlZTajBIcXVaRmNQVG54bUZ3eVdmM0xaQnhRODhFQkRrUVU5UEJFM0pkY0Y1UHZIbHBGcEUxc0lfaFVVdGdDNXZ0cDhEUFVOcGRWekFvelNwaTBrWVhFMEpmVU9EQldhdzJHZjFxb0IxcDJRamtuakFSX0Y2RERNSlROWFZ0dVpjM0steUFNZnc?oc=5" target="_blank">Croissance : douche froide pour l'économie française, déjà plombée par la guerre au Moyen-Orient</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Assurance-chômage : une étape importante franchie sur le dossier coûteux des travailleurs frontaliers - Les Echos](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNU19YVDJNV0hQTTJhS3pMQ2NrRTJNbTBRZHY3NHl6OHhpWmJEaEN6UDlvMWM3THdVc1F4WW5VOGJLU1dpSGM5QktDN3NmZktSQUp1VGxaMHdlcnFuZ2FrSlFNU0dXNXdCQjJfbUhHcjlqblIyaUNMSnBOSU9Vbk5Id0g4Smt1NlZQVXF5LTczWU5UT0lEQ1NleDU2Q2VFbDJDOUVzSDZRaUdTdUl1RzhSRmRXaGxpNWJSYTNPQm5RVEl0czZWVXktcHdjYVNHOE42WFhaeGpTMENqSXlHR3hpZlVoSjVOU2NUVmc?oc=5)
+
+`Thu, 30 Apr 2026 04:05:09 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi6gFBVV95cUxNU19YVDJNV0hQTTJhS3pMQ2NrRTJNbTBRZHY3NHl6OHhpWmJEaEN6UDlvMWM3THdVc1F4WW5VOGJLU1dpSGM5QktDN3NmZktSQUp1VGxaMHdlcnFuZ2FrSlFNU0dXNXdCQjJfbUhHcjlqblIyaUNMSnBOSU9Vbk5Id0g4Smt1NlZQVXF5LTczWU5UT0lEQ1NleDU2Q2VFbDJDOUVzSDZRaUdTdUl1RzhSRmRXaGxpNWJSYTNPQm5RVEl0czZWVXktcHdjYVNHOE42WFhaeGpTMENqSXlHR3hpZlVoSjVOU2NUVmc?oc=5" target="_blank">Assurance-chômage : une étape importante franchie sur le dossier coûteux des travailleurs frontaliers</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -741,14 +757,6 @@
 
 ---
 
-### [Social : actualités, analyses et vidéos - Les Echos | Page 137 - Les Echos](https://news.google.com/rss/articles/CBMiZkFVX3lxTE50S1BtcHc0YjNjZGphQlBEcmQ4RUthX2tVWnFFZGdhNGg5T3Z5VFpLdmtLUmRJT0szak1zOERibXZzdm0tc3RHeTd0ZkNSU0JNOUJhUTdBenBXNW41VTRYZU44ZmJYdw?oc=5)
-
-`Mon, 30 Mar 2026 21:54:47 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiZkFVX3lxTE50S1BtcHc0YjNjZGphQlBEcmQ4RUthX2tVWnFFZGdhNGg5T3Z5VFpLdmtLUmRJT0szak1zOERibXZzdm0tc3RHeTd0ZkNSU0JNOUJhUTdBenBXNW41VTRYZU44ZmJYdw?oc=5" target="_blank">Social : actualités, analyses et vidéos - Les Echos | Page 137</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
 ### [L'emploi intérimaire continue de souffrir en France - Les Echos](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMVA0dC11UVlISFpYR05pRzYxY1lzbjZReDhScWJnbW1ibUowRUFWR1lOeUthODcxUkNHVmhuT3hxakdkZ0FkdDN5OElIOWs3eG9BcjR0ZGlwbHFUNVI1OUc0WXhMRnBYQml0STZyY2REcGdFTE83ZWRCY2J0OEc0Qlo2WF9ydnhfdHhKenlkREJ6RHA0UlpEME5ybm55MGQ3UkNNV3pwUko?oc=5)
 
 `Wed, 01 Apr 2026 16:14:59 GMT`
@@ -802,21 +810,5 @@
 `Tue, 31 Mar 2026 16:29:44 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMikwJBVV95cUxPMHV6RDBvbWVJU1NreGZNbkZ2T0MyMWktYWFlYVpCdnIzMjk3eWU2VFhJem52Q0V1OElLSHRLWURGWE1FTTU5all4N1VXM29nRlI4aWNKcTJHZEYzTHR1d0RiS19FSEp2VlI4STg2amQ4S0o1RmlZd2UzNEJhNXBuNE8wcmFZb2d4QjV4VHhuRTRBcENER1VIcHd5S0VfWlZGLVZVMHVCdDRuMnJFVW5LM1Exa2szSmNSNFhtZ3BLQW5JMlNWbkdRWk9JTmFnZEpsSTZIMzVCc0llRHdSRXIwcUowYlRZT0toVGRCTVdySGtDeHlSVEc3TlJKR0twRHVSNTNBNmNQUmNoR3ZvX09kWXFYRQ?oc=5" target="_blank">Agirc-Arrco : avec 91 milliards de réserves, le régime des retraites complémentaires affiche sa « robustesse » face au défi démographique</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [La guerre au Moyen-Orient fait bondir l'inflation en France - Les Echos](https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ3pGQ3ZiaDZiZmp2REV1a28xaG5aMTIwQ3hlTEk3UEZWc1VuNHQ3akNuWVptN3N4ekh2c1VhY3RSdWMweU5XTWhRTy1NOTZnVV9ER1FHaUNDNlF3bk9BOHl3dDZzdDZjUWlxbXoxTk5za3VEQ0taQ2dzSEJJYW9WbDJrSkdxRjF5QVctMW1SWGhTc1VMcmNIWGF3a3FPdG1kSUhCOHMxR01QZFJHSU1NblRfdUJkYUZLb3c?oc=5)
-
-`Tue, 31 Mar 2026 07:47:00 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ3pGQ3ZiaDZiZmp2REV1a28xaG5aMTIwQ3hlTEk3UEZWc1VuNHQ3akNuWVptN3N4ekh2c1VhY3RSdWMweU5XTWhRTy1NOTZnVV9ER1FHaUNDNlF3bk9BOHl3dDZzdDZjUWlxbXoxTk5za3VEQ0taQ2dzSEJJYW9WbDJrSkdxRjF5QVctMW1SWGhTc1VMcmNIWGF3a3FPdG1kSUhCOHMxR01QZFJHSU1NblRfdUJkYUZLb3c?oc=5" target="_blank">La guerre au Moyen-Orient fait bondir l'inflation en France</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [« On est vraiment sur un virage de transformation du métier » : cet accord qui va permettre aux infirmiers de réaliser des « consultations » - Les Echos](https://news.google.com/rss/articles/CBMikwJBVV95cUxPSlBseFdmVmw3X05nd2NKRlB5YTdmbTZkbEZQVGVwQ2Y3ei1rNEU3REtrMnBXaXZwSDN0alpXVnZKXzVqSE1ZdnEwMTJRNnE3Y2ZDT0pkOVI5RXJ6dW1yRTdFMWlTN2RkSWR2ZGF2a184MnBDeGZvdTVsWDhTalFuN3g0VDMtZDBRZ2Z5c2lJVkdaQnFtTmhMTndkeFJ4QUNxM0NzRWNZNUpVSHo2Z3JzMWc0d25qZTlSZ2FuYzRfZkFVcnRaZjc3Q3ZLci1SZGV6ek9SckI2dWUwSWRNck5pTUNxMDR4dkhOSnZuSXBtREFTUHJncm8tTlhWZ3lJRkpKRUtITHIwTXRHYnR3c2pGZXdicw?oc=5)
-
-`Tue, 31 Mar 2026 04:25:08 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMikwJBVV95cUxPSlBseFdmVmw3X05nd2NKRlB5YTdmbTZkbEZQVGVwQ2Y3ei1rNEU3REtrMnBXaXZwSDN0alpXVnZKXzVqSE1ZdnEwMTJRNnE3Y2ZDT0pkOVI5RXJ6dW1yRTdFMWlTN2RkSWR2ZGF2a184MnBDeGZvdTVsWDhTalFuN3g0VDMtZDBRZ2Z5c2lJVkdaQnFtTmhMTndkeFJ4QUNxM0NzRWNZNUpVSHo2Z3JzMWc0d25qZTlSZ2FuYzRfZkFVcnRaZjc3Q3ZLci1SZGV6ek9SckI2dWUwSWRNck5pTUNxMDR4dkhOSnZuSXBtREFTUHJncm8tTlhWZ3lJRkpKRUtITHIwTXRHYnR3c2pGZXdicw?oc=5" target="_blank">« On est vraiment sur un virage de transformation du métier » : cet accord qui va permettre aux infirmiers de réaliser des « consultations »</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
