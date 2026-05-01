@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Fri, 01 May 2026 13:00:44 +0000`
-> 100 articles (30 derniers jours)
+> Derniere mise a jour : `Fri, 01 May 2026 17:47:49 +0000`
+> 97 articles (30 derniers jours)
+
+---
+
+### [1er-Mai : 300.000 manifestants et des polémiques sur les boulangeries ouvertes - Les Echos](https://news.google.com/rss/articles/CBMiygFBVV95cUxOMWNZUzVUS3FZcHBYWHlzNWhGR1hzT1VRU2ltdnRfNXhKMG1mTWI0TkJic3BoeWtqT055U2NPTkhDMkhxamZsS2dvVF9TY2VaTnJyMlM3SHh1RlFvSm9NY1hnNjM3c1pKT1dyTkt4NUoyVkJWWUw2NmktdGtobXhIOTRVVmRhWkNhV0VYUldIQmFpTVlPWFVjSThDMmZSemdIWVFZX3gzTVp6bHV6cHpjY0lDNmw4ODRLbl9NcVNsYVRFcTZ1QUVIbUF3?oc=5)
+
+`Fri, 01 May 2026 17:24:49 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxOMWNZUzVUS3FZcHBYWHlzNWhGR1hzT1VRU2ltdnRfNXhKMG1mTWI0TkJic3BoeWtqT055U2NPTkhDMkhxamZsS2dvVF9TY2VaTnJyMlM3SHh1RlFvSm9NY1hnNjM3c1pKT1dyTkt4NUoyVkJWWUw2NmktdGtobXhIOTRVVmRhWkNhV0VYUldIQmFpTVlPWFVjSThDMmZSemdIWVFZX3gzTVp6bHV6cHpjY0lDNmw4ODRLbl9NcVNsYVRFcTZ1QUVIbUF3?oc=5" target="_blank">1er-Mai : 300.000 manifestants et des polémiques sur les boulangeries ouvertes</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -770,37 +778,5 @@
 `Thu, 02 Apr 2026 11:03:36 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNE1ZaHV5bWxzYl9SazdaRmtXNjMtRXEtQnVMZlRpMDZUTDBPVzNXQTU2S2pEc1BndnZQNjRkZDdpcEVXdUsyTkc0WXJFbkcxZmoyV2tnNXhZQUUwb1Z4SGhFb2hicXk1a3p0UnlXTDFVV3F3NUt1WTFWWEEzUnpDOE9aeEpPRzBvdjl1RW9YS0FRcmNOeHI3T2NTLWtDZTlGYTdsOGpfYjdlOERmNF9MTjZvR2dGbjZtOUNmT3RlRkVCQ2NKM2wtcjhCbjMyX0RQZ1E?oc=5" target="_blank">Le recrutement des cadres pourrait repartir à la hausse après deux années sombres</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [L'emploi intérimaire continue de souffrir en France - Les Echos](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMVA0dC11UVlISFpYR05pRzYxY1lzbjZReDhScWJnbW1ibUowRUFWR1lOeUthODcxUkNHVmhuT3hxakdkZ0FkdDN5OElIOWs3eG9BcjR0ZGlwbHFUNVI1OUc0WXhMRnBYQml0STZyY2REcGdFTE83ZWRCY2J0OEc0Qlo2WF9ydnhfdHhKenlkREJ6RHA0UlpEME5ybm55MGQ3UkNNV3pwUko?oc=5)
-
-`Wed, 01 Apr 2026 16:14:59 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMVA0dC11UVlISFpYR05pRzYxY1lzbjZReDhScWJnbW1ibUowRUFWR1lOeUthODcxUkNHVmhuT3hxakdkZ0FkdDN5OElIOWs3eG9BcjR0ZGlwbHFUNVI1OUc0WXhMRnBYQml0STZyY2REcGdFTE83ZWRCY2J0OEc0Qlo2WF9ydnhfdHhKenlkREJ6RHA0UlpEME5ybm55MGQ3UkNNV3pwUko?oc=5" target="_blank">L'emploi intérimaire continue de souffrir en France</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Bonne ou mauvaise nouvelle ? Le Médiateur des entreprises de plus en plus sollicité par les PME - Les Echos](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQenJNdzhjVWd4RHpHbjlZcTlmWVlTd2xwWEE4QURnTjE4SDJFdWZqYTJ2REZPcU9qRlJWNENkLW52aU85VC1UYl9zdTBJQ1FmbDhhNFhMUnNNRDE3Y2RzeGlzSklzV1lwTmVncVV3djBYelVYd0pRaW1oeXdxaVF3WHptcGFMQnpNM19IYUs1ekJhaXlRM1RKTXZNQnpsbU1jWFk0MGZydHREUVJQbHNDSTFzbExmUkgwZS1iWE15SWN1cWJvdEE1TThJM0Q4Q0pZQjlMNzNJWFZjX3dVaFQtREdsaHBDT0FD?oc=5)
-
-`Wed, 01 Apr 2026 15:00:55 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi6AFBVV95cUxQenJNdzhjVWd4RHpHbjlZcTlmWVlTd2xwWEE4QURnTjE4SDJFdWZqYTJ2REZPcU9qRlJWNENkLW52aU85VC1UYl9zdTBJQ1FmbDhhNFhMUnNNRDE3Y2RzeGlzSklzV1lwTmVncVV3djBYelVYd0pRaW1oeXdxaVF3WHptcGFMQnpNM19IYUs1ekJhaXlRM1RKTXZNQnpsbU1jWFk0MGZydHREUVJQbHNDSTFzbExmUkgwZS1iWE15SWN1cWJvdEE1TThJM0Q4Q0pZQjlMNzNJWFZjX3dVaFQtREdsaHBDT0FD?oc=5" target="_blank">Bonne ou mauvaise nouvelle ? Le Médiateur des entreprises de plus en plus sollicité par les PME</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [« L'effort pourrait se situer autour de 5 milliards » : les collectivités locales sous pression à l'approche du budget 2027 - Les Echos](https://news.google.com/rss/articles/CBMijAJBVV95cUxQTU1OYVlIaUFFbHI1SkpQUGc1b3RhVjdhVDRTX3ZJb2RPM0d4clRVeTduUmw2WmpPZ3lWcXRqM05yNHdMQmsyTWIyWE8zcmlManhOd2RLLVhBUFhWN3VZM2piYzFfQVRnMVBjQmJTOF9WMVZWSnFRVkU5Uk1hUF9yOVQybjZTSkhwSGlkZmdmbEo2NW1nM1JqM012cERUaXA4YmROV3R3TW1NWVlhbllUVkVqd01ISGZ0Z2dEZUxaRUduYl9ORjRUY2lBNG5xS2FEaU04azBFaEs5SVNEdHVWQjRlRklzWFdtS3BQTHZDWHRBLUhUT0RBOHNYdHc2V3FmaWZFS3U4OG43VTNC?oc=5)
-
-`Wed, 01 Apr 2026 15:26:40 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMijAJBVV95cUxQTU1OYVlIaUFFbHI1SkpQUGc1b3RhVjdhVDRTX3ZJb2RPM0d4clRVeTduUmw2WmpPZ3lWcXRqM05yNHdMQmsyTWIyWE8zcmlManhOd2RLLVhBUFhWN3VZM2piYzFfQVRnMVBjQmJTOF9WMVZWSnFRVkU5Uk1hUF9yOVQybjZTSkhwSGlkZmdmbEo2NW1nM1JqM012cERUaXA4YmROV3R3TW1NWVlhbllUVkVqd01ISGZ0Z2dEZUxaRUduYl9ORjRUY2lBNG5xS2FEaU04azBFaEs5SVNEdHVWQjRlRklzWFdtS3BQTHZDWHRBLUhUT0RBOHNYdHc2V3FmaWZFS3U4OG43VTNC?oc=5" target="_blank">« L'effort pourrait se situer autour de 5 milliards » : les collectivités locales sous pression à l'approche du budget 2027</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Carburants : le mirage du « surplus » fiscal - Les Echos](https://news.google.com/rss/articles/CBMipgFBVV95cUxNckJiQjlVUXluVy16Y2t5SzBleURpSUVLVVpYVjZyeGIyX084Q2RPYjFIT3AxLXJtSW1OQWZHOUZYVFR4NDE2OFBoS3RHYkVDQ3padWU4R0Y3WDFjXzZmMjg4Z01sWkd4WVRpam9CX0ZyZGhGSFdkdnlwSnItOGVLaE11c1JQeDJxODA0cnNBYXFEN2VPUE9FQkFTZWRTRlZPV2pnT09n?oc=5)
-
-`Wed, 01 Apr 2026 17:05:16 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMipgFBVV95cUxNckJiQjlVUXluVy16Y2t5SzBleURpSUVLVVpYVjZyeGIyX084Q2RPYjFIT3AxLXJtSW1OQWZHOUZYVFR4NDE2OFBoS3RHYkVDQ3padWU4R0Y3WDFjXzZmMjg4Z01sWkd4WVRpam9CX0ZyZGhGSFdkdnlwSnItOGVLaE11c1JQeDJxODA0cnNBYXFEN2VPUE9FQkFTZWRTRlZPV2pnT09n?oc=5" target="_blank">Carburants : le mirage du « surplus » fiscal</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
