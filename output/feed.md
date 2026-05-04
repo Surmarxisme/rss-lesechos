@@ -1,7 +1,7 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Mon, 04 May 2026 11:09:30 +0000`
-> 95 articles (30 derniers jours)
+> Derniere mise a jour : `Mon, 04 May 2026 13:25:52 +0000`
+> 94 articles (30 derniers jours)
 
 ---
 
@@ -746,14 +746,6 @@
 `Mon, 06 Apr 2026 05:42:10 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMizAFBVV95cUxQQkJXWG1UdkVWTkI2U3N1X0FaTVlQSFJMc0VHQXZRNXVIZDNjb2xHX0U2WGNYSExmR3U1SGxZNnB0cGZ1NVg1MFZnWE9KOU5IeFNMV0dUV0tWSWZmalhOVmt5QmRKdHhHc2xIdVhXTER5QVc2SFoweU93b25XeEZza3BxTk1oX2s0NGJRcUZkS210RDFWdzNPejM2cm5kcWRVYnRfaFNnTUlxS0RybU5wLVZzZ3ZzdGFtVnlFTkdqTDhhQ04xTm5Mam5PQng?oc=5" target="_blank">L'inflation, ce poison lent qui menace le désendettement de la France</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [EXCLUSIF - Pourquoi l'aide à domicile va coûter plus cher pour de nombreux seniors - Les Echos](https://news.google.com/rss/articles/CBMizwFBVV95cUxNN3FTUzhiaVRoWm8tQW9IdlNhbndWdlQ4WVg4cWZKRC16N29lTXl3UkhiOFIzTE4weld1QVZzNWFQY2JZQzZfWFIzSUxLMU1mZFZGbE1vczJIUmZHNVlFRFc3NG1aTmVVUkpZMTYxQ20zUzVuSWFjZ082YkhLS05LMTUzTk1QRlVVZUlUcDJCZDd3RFhGZVZIUjFSNzFibmZraUpCajdwOVNKMm5Na3NEY2hyWDJkNk1hUzNhUXJuVi1BNGdJZ3FtTEF1cS1UazQ?oc=5)
-
-`Sat, 04 Apr 2026 12:00:35 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMizwFBVV95cUxNN3FTUzhiaVRoWm8tQW9IdlNhbndWdlQ4WVg4cWZKRC16N29lTXl3UkhiOFIzTE4weld1QVZzNWFQY2JZQzZfWFIzSUxLMU1mZFZGbE1vczJIUmZHNVlFRFc3NG1aTmVVUkpZMTYxQ20zUzVuSWFjZ082YkhLS05LMTUzTk1QRlVVZUlUcDJCZDd3RFhGZVZIUjFSNzFibmZraUpCajdwOVNKMm5Na3NEY2hyWDJkNk1hUzNhUXJuVi1BNGdJZ3FtTEF1cS1UazQ?oc=5" target="_blank">EXCLUSIF - Pourquoi l'aide à domicile va coûter plus cher pour de nombreux seniors</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
