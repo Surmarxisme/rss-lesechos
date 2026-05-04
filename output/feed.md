@@ -1,7 +1,31 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Sun, 03 May 2026 10:09:03 +0000`
-> 94 articles (30 derniers jours)
+> Derniere mise a jour : `Mon, 04 May 2026 08:10:29 +0000`
+> 95 articles (30 derniers jours)
+
+---
+
+### [Louis Margueritte, le service public en langue des entreprises - Les Echos](https://news.google.com/rss/articles/CBMixAFBVV95cUxNQXplNTVNVjBVS2V4eHEzY0xwMWFaTkJhalpxajFnaWU3ZlRHSDNPYW43TEU5U1lWOEFHY0xUb3VvUlZlZUotQVVRdUVSMHJjMnZzUkJ2Y2NoemxVZzhhekNWbW1GMUFiR3FFa09jMTJQS21IR3RWdF9qLWpLN1kxTnYwNWx5UWlJX1ZoSzVsT19ZX1ZfSHBVWC1XajlkVHlqa1JoLUJycDdjM1Y2Z1BETHlld2tkRHZaekdpRW5VOVhLRUtL?oc=5)
+
+`Mon, 04 May 2026 07:00:13 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMixAFBVV95cUxNQXplNTVNVjBVS2V4eHEzY0xwMWFaTkJhalpxajFnaWU3ZlRHSDNPYW43TEU5U1lWOEFHY0xUb3VvUlZlZUotQVVRdUVSMHJjMnZzUkJ2Y2NoemxVZzhhekNWbW1GMUFiR3FFa09jMTJQS21IR3RWdF9qLWpLN1kxTnYwNWx5UWlJX1ZoSzVsT19ZX1ZfSHBVWC1XajlkVHlqa1JoLUJycDdjM1Y2Z1BETHlld2tkRHZaekdpRW5VOVhLRUtL?oc=5" target="_blank">Louis Margueritte, le service public en langue des entreprises</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Travail dans la fonction publique : entre attachement au métier et usure au quotidien - Les Echos](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPM3pQRXpTR1FuQ0JsWS0zX083bGdEQU1ndWJUYUtVM1p2QjZKU1BRY3lhWWhmR2psXzRfZzJiNy1EcVYxVmI1b0NQWEJsMHRYQmZSU01TME5kREtsenBIRTYxQ0JoN3A3QTFpYzJ4c1hBOUlvUWpzMkNmcmNxWVc5MVNRUXVWM2lyLVpFVE91eXhBVnJhSlhrenBnQjhNTTJpc1U4dnE1eUlPcEp5dU9fUDg1N0MwckhwZV93Z1g1cUV2a3ZzQUxlT2h3ZVl6Skg5MlBUcQ?oc=5)
+
+`Mon, 04 May 2026 08:00:27 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi1AFBVV95cUxPM3pQRXpTR1FuQ0JsWS0zX083bGdEQU1ndWJUYUtVM1p2QjZKU1BRY3lhWWhmR2psXzRfZzJiNy1EcVYxVmI1b0NQWEJsMHRYQmZSU01TME5kREtsenBIRTYxQ0JoN3A3QTFpYzJ4c1hBOUlvUWpzMkNmcmNxWVc5MVNRUXVWM2lyLVpFVE91eXhBVnJhSlhrenBnQjhNTTJpc1U4dnE1eUlPcEp5dU9fUDg1N0MwckhwZV93Z1g1cUV2a3ZzQUxlT2h3ZVl6Skg5MlBUcQ?oc=5" target="_blank">Travail dans la fonction publique : entre attachement au métier et usure au quotidien</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [La panne de l'économie française met en grand péril les objectifs de réduction du déficit - Les Echos](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPWlFfbU1jMlotdWNQdnhmQmJ4Z3NVYVZtdzNWVVoxaGF4ai12d1gyc2VWRUhCbE1RT1lWZlNWY0Z3THN0MFI2aTMxY1ZlWkVGbVlFRkttNGNXMXJkQ044bjBUdlNPLUdqUEVtRG0xa3Y1R05rRUtwUU1EYzNQZmhDakJqYmFLYlpIR0ZBUEhDVi1LbmVfcVdjcWpyN3ZfeUFRWTZHemNzMVdXcG82eXlZak80VXA3dDJudUJzdHlIdFo5NFRCRmhsRG55XzdFeUw5X0txT3k4T0FaX0tELW9jcFF1SGEteGtM?oc=5)
+
+`Mon, 04 May 2026 04:00:12 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi6AFBVV95cUxPWlFfbU1jMlotdWNQdnhmQmJ4Z3NVYVZtdzNWVVoxaGF4ai12d1gyc2VWRUhCbE1RT1lWZlNWY0Z3THN0MFI2aTMxY1ZlWkVGbVlFRkttNGNXMXJkQ044bjBUdlNPLUdqUEVtRG0xa3Y1R05rRUtwUU1EYzNQZmhDakJqYmFLYlpIR0ZBUEhDVi1LbmVfcVdjcWpyN3ZfeUFRWTZHemNzMVdXcG82eXlZak80VXA3dDJudUJzdHlIdFo5NFRCRmhsRG55XzdFeUw5X0txT3k4T0FaX0tELW9jcFF1SGEteGtM?oc=5" target="_blank">La panne de l'économie française met en grand péril les objectifs de réduction du déficit</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -738,21 +762,5 @@
 `Sun, 05 Apr 2026 07:05:11 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMizgFBVV95cUxNeEJ2TjJLQmpVdGNlN0M1N0ZhZEhLM0gyRWtwSktRbl9ycW9oazZ4ckxPN3k0SThQcVBvR3VSbDVzdDVHSTB1T2xpcGRWZmVkdFhISEgxUFFzc1lyREFCT3Z2TkRNZl9sMTJkaFY4OTdtWnpvMVEwMkNEQ25LNDdLRUxfRXBsa2tUWHc1SFRYb296dnBPa0lqMW9PNEhfRktsTlVTSk04WC1zYXRwTG52N2lMaGRNdnpMeHpjX0VYblhiWWgzSXd4dmphN3lfZw?oc=5" target="_blank">Le retour de l'inflation, une menace à double détente pour les finances sociales</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Prix du carburant : Bercy lance un « prêt flash » pour certaines entreprises - Les Echos](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWUFKR01MaXJVOWhmX3R3OWV2SHA2ZU5FeTAwZFJoc0hRZHVOT1IxM1ZoVGVWb2JOa0FFWV9LVFFUdi1IRlpGLUhnc0JFdTNQUVE0MXRVRnpsbjY3Mnpwd2h5b3J1V0FUYnFNUm1LTEJLcHNlaHl3Nmk4UnE4MUtaUjR5YTNuNGVwZmNBVUNVdHREMGNNTEhmRHFUNXVMd2x3b0NrWm5ienM3R25hUXlDNkw4MzlnanpaXzhhV2xYZW9ZZk11YU5qeml0NGdKa2FB?oc=5)
-
-`Sat, 04 Apr 2026 06:19:03 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWUFKR01MaXJVOWhmX3R3OWV2SHA2ZU5FeTAwZFJoc0hRZHVOT1IxM1ZoVGVWb2JOa0FFWV9LVFFUdi1IRlpGLUhnc0JFdTNQUVE0MXRVRnpsbjY3Mnpwd2h5b3J1V0FUYnFNUm1LTEJLcHNlaHl3Nmk4UnE4MUtaUjR5YTNuNGVwZmNBVUNVdHREMGNNTEhmRHFUNXVMd2x3b0NrWm5ienM3R25hUXlDNkw4MzlnanpaXzhhV2xYZW9ZZk11YU5qeml0NGdKa2FB?oc=5" target="_blank">Prix du carburant : Bercy lance un « prêt flash » pour certaines entreprises</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Prix des carburants : Bercy chiffre à 270 millions le surplus fiscal en mars mais alerte sur l'envol de la facture de la dette - Les Echos](https://news.google.com/rss/articles/CBMilwJBVV95cUxPUHVxZDZyNWZqeHhsVHNqUnRDVV9rLUJoY3JLSURHOElJNi1VN0dna2hnRUhSczkzem9KUktob1NkVC1kUGl4X29pWDZfY3psb04tTjM1NGdWT3RTMGJLS3dzOFVtMTFqOHRfTTEwUXU3bGZ2Wkl4bHFiZmFkdm9uVlkxUVFUVzFTN2FqUmduY1BGMnBLUndJRUI3T1VtNFZldGRoOXFyWkl3SzVyS3pBNXV0bkIwS0ZRYXA3ZEY0dlN6aW52TkEtT0V2eUFuVENTdnFpTHZTdGJZdVU3aFZjc3hZQ0dKRHRNVmNRd3A3ZjRfMjdkdU41eFlQTWc4cTgzWlFtT0hIbk9ndVd3SXNUUGNWWjhYc0k?oc=5)
-
-`Fri, 03 Apr 2026 11:18:13 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMilwJBVV95cUxPUHVxZDZyNWZqeHhsVHNqUnRDVV9rLUJoY3JLSURHOElJNi1VN0dna2hnRUhSczkzem9KUktob1NkVC1kUGl4X29pWDZfY3psb04tTjM1NGdWT3RTMGJLS3dzOFVtMTFqOHRfTTEwUXU3bGZ2Wkl4bHFiZmFkdm9uVlkxUVFUVzFTN2FqUmduY1BGMnBLUndJRUI3T1VtNFZldGRoOXFyWkl3SzVyS3pBNXV0bkIwS0ZRYXA3ZEY0dlN6aW52TkEtT0V2eUFuVENTdnFpTHZTdGJZdVU3aFZjc3hZQ0dKRHRNVmNRd3A3ZjRfMjdkdU41eFlQTWc4cTgzWlFtT0hIbk9ndVd3SXNUUGNWWjhYc0k?oc=5" target="_blank">Prix des carburants : Bercy chiffre à 270 millions le surplus fiscal en mars mais alerte sur l'envol de la facture de la dette</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
