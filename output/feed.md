@@ -1,7 +1,23 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Mon, 04 May 2026 18:08:49 +0000`
-> 96 articles (30 derniers jours)
+> Derniere mise a jour : `Tue, 05 May 2026 07:49:29 +0000`
+> 97 articles (30 derniers jours)
+
+---
+
+### [« Jour de libération des actifs » : à partir du 4 mai, les salariés français arrêtent de financer les pensions des retraités - Les Echos](https://news.google.com/rss/articles/CBMihAJBVV95cUxQb2JxZm02SE1XeGloejk2Z3IxMHBJSGRQck9FZFNJVzN6MldwYUZXZG5RaTkyT3hPejFjbXVGTXVwR2J1clNQd1loaDJnb2dOZEgzNkZGWUo4MEV0UXRWRmg5cDNISTd1Y0V2OEtrMjNZZE43QXRPMnRsWVliT3BtQmYybWFnbXRqNkU3UUstSTZvekVWZkdRTEV1TVlEeU9KSVpGUUh4bDBKSC1EYkxRaDlpOGxaZjRRSTBfMEpka3JzUE5qNC12MV8xaDFhLVlWNVk4b2RsbGR1Y3dndWpJaXRYRUhMeUE4amZ4YlczcElQemRNVXkyWVRlUEpkbHBjaEFlNQ?oc=5)
+
+`Mon, 04 May 2026 18:35:21 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMihAJBVV95cUxQb2JxZm02SE1XeGloejk2Z3IxMHBJSGRQck9FZFNJVzN6MldwYUZXZG5RaTkyT3hPejFjbXVGTXVwR2J1clNQd1loaDJnb2dOZEgzNkZGWUo4MEV0UXRWRmg5cDNISTd1Y0V2OEtrMjNZZE43QXRPMnRsWVliT3BtQmYybWFnbXRqNkU3UUstSTZvekVWZkdRTEV1TVlEeU9KSVpGUUh4bDBKSC1EYkxRaDlpOGxaZjRRSTBfMEpka3JzUE5qNC12MV8xaDFhLVlWNVk4b2RsbGR1Y3dndWpJaXRYRUhMeUE4amZ4YlczcElQemRNVXkyWVRlUEpkbHBjaEFlNQ?oc=5" target="_blank">« Jour de libération des actifs » : à partir du 4 mai, les salariés français arrêtent de financer les pensions des retraités</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Budget : pourquoi les dépenses de santé risquent à nouveau de déraper - Les Echos](https://news.google.com/rss/articles/CBMivwFBVV95cUxNN2pqVnlmRU9JZmZ1d1RMRnk4QzdZWkZsSkNnLTd4YVBsdmFCSVRaNFY0SEJtN0czZ0N3QkQwdTdpeHQ5VWVhdGtlVTRXdGtTYXJKRmNWd21sUUxOQS1oNlpmdVp0eW9oNTdnRm1TWDl0VjhsYnV1aVUtY1otZng0VWFpNEQyUXlUNUV5WFlFNXNMRUNmc0U0SVdzZlBCaTF5S2ptQzJEWURmZmQ5ZDBpREk5MHdLbVZVSTkwc3VNbw?oc=5)
+
+`Tue, 05 May 2026 04:20:08 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxNN2pqVnlmRU9JZmZ1d1RMRnk4QzdZWkZsSkNnLTd4YVBsdmFCSVRaNFY0SEJtN0czZ0N3QkQwdTdpeHQ5VWVhdGtlVTRXdGtTYXJKRmNWd21sUUxOQS1oNlpmdVp0eW9oNTdnRm1TWDl0VjhsYnV1aVUtY1otZng0VWFpNEQyUXlUNUV5WFlFNXNMRUNmc0U0SVdzZlBCaTF5S2ptQzJEWURmZmQ5ZDBpREk5MHdLbVZVSTkwc3VNbw?oc=5" target="_blank">Budget : pourquoi les dépenses de santé risquent à nouveau de déraper</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -762,13 +778,5 @@
 `Mon, 06 Apr 2026 05:42:10 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMizAFBVV95cUxQQkJXWG1UdkVWTkI2U3N1X0FaTVlQSFJMc0VHQXZRNXVIZDNjb2xHX0U2WGNYSExmR3U1SGxZNnB0cGZ1NVg1MFZnWE9KOU5IeFNMV0dUV0tWSWZmalhOVmt5QmRKdHhHc2xIdVhXTER5QVc2SFoweU93b25XeEZza3BxTk1oX2s0NGJRcUZkS210RDFWdzNPejM2cm5kcWRVYnRfaFNnTUlxS0RybU5wLVZzZ3ZzdGFtVnlFTkdqTDhhQ04xTm5Mam5PQng?oc=5" target="_blank">L'inflation, ce poison lent qui menace le désendettement de la France</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Le retour de l'inflation, une menace à double détente pour les finances sociales - Les Echos](https://news.google.com/rss/articles/CBMizgFBVV95cUxNeEJ2TjJLQmpVdGNlN0M1N0ZhZEhLM0gyRWtwSktRbl9ycW9oazZ4ckxPN3k0SThQcVBvR3VSbDVzdDVHSTB1T2xpcGRWZmVkdFhISEgxUFFzc1lyREFCT3Z2TkRNZl9sMTJkaFY4OTdtWnpvMVEwMkNEQ25LNDdLRUxfRXBsa2tUWHc1SFRYb296dnBPa0lqMW9PNEhfRktsTlVTSk04WC1zYXRwTG52N2lMaGRNdnpMeHpjX0VYblhiWWgzSXd4dmphN3lfZw?oc=5)
-
-`Sun, 05 Apr 2026 07:05:11 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMizgFBVV95cUxNeEJ2TjJLQmpVdGNlN0M1N0ZhZEhLM0gyRWtwSktRbl9ycW9oazZ4ckxPN3k0SThQcVBvR3VSbDVzdDVHSTB1T2xpcGRWZmVkdFhISEgxUFFzc1lyREFCT3Z2TkRNZl9sMTJkaFY4OTdtWnpvMVEwMkNEQ25LNDdLRUxfRXBsa2tUWHc1SFRYb296dnBPa0lqMW9PNEhfRktsTlVTSk04WC1zYXRwTG52N2lMaGRNdnpMeHpjX0VYblhiWWgzSXd4dmphN3lfZw?oc=5" target="_blank">Le retour de l'inflation, une menace à double détente pour les finances sociales</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
