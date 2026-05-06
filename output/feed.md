@@ -1,7 +1,23 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Tue, 05 May 2026 18:08:43 +0000`
-> 99 articles (30 derniers jours)
+> Derniere mise a jour : `Wed, 06 May 2026 11:10:31 +0000`
+> 100 articles (30 derniers jours)
+
+---
+
+### [Guerre au Moyen-Orient : les perspectives de recrutement des cadres s'assombrissent dans les entreprises - Les Echos](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZ0dLZUpwRWhxMmNVdEtCMEEwb3oyZHpTWjB6dHhtSzJFVDhERC1FeDc0MjNYUkViVk5qZjQyLS1UNVV2OWVNMnZxSWRYVjV3djZSM3Y1U29rejhSNk1WSGdudDNaV2Vrck5CMHFabGR6MlVqaWdianNVNHZiT2RtWlUzRzc2WW5OVVdrYWJUSmw0bzRrb2pmS3NZQnVackQ2LWFYaExhUFR3UmtqVTVoNWU3bl90UHZBNHRGOHJWYjZMbzk5MEk5TkQ1ZWszb0UxUERxOXl6YUkxWHp1bjRNaGdGM24xa2RHSlY1Rw?oc=5)
+
+`Wed, 06 May 2026 10:00:51 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZ0dLZUpwRWhxMmNVdEtCMEEwb3oyZHpTWjB6dHhtSzJFVDhERC1FeDc0MjNYUkViVk5qZjQyLS1UNVV2OWVNMnZxSWRYVjV3djZSM3Y1U29rejhSNk1WSGdudDNaV2Vrck5CMHFabGR6MlVqaWdianNVNHZiT2RtWlUzRzc2WW5OVVdrYWJUSmw0bzRrb2pmS3NZQnVackQ2LWFYaExhUFR3UmtqVTVoNWU3bl90UHZBNHRGOHJWYjZMbzk5MEk5TkQ1ZWszb0UxUERxOXl6YUkxWHp1bjRNaGdGM24xa2RHSlY1Rw?oc=5" target="_blank">Guerre au Moyen-Orient : les perspectives de recrutement des cadres s'assombrissent dans les entreprises</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Ces centaines de milliers de ménages qui ne font pas valoir leur droit au RSA - Les Echos](https://news.google.com/rss/articles/CBMizAFBVV95cUxQd210b3FXQTcxRHNrVi1SLXlFNk1SYmpyUEpVbmE0OU01RnlES3ItY0pHTTJwWnkzd3BTQTZfQlhSbURFcExlWWVhZDk4Y1hZdFBESU14VXdPeExmZE5IN2owaFM0ckt1YllvdXhGdlJtTlNDOUpyaXY4QkY3c3lSbjhfNVNlbjIwRmVXZzNnUlZzb0tVNFRzSTlXY0tRZnByU2UzbnZoOGZqQ05IWjdpWXNiYnUyTFNnVDZNbklmSFJueUNSYlV0RFhwNXo?oc=5)
+
+`Wed, 06 May 2026 04:31:08 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMizAFBVV95cUxQd210b3FXQTcxRHNrVi1SLXlFNk1SYmpyUEpVbmE0OU01RnlES3ItY0pHTTJwWnkzd3BTQTZfQlhSbURFcExlWWVhZDk4Y1hZdFBESU14VXdPeExmZE5IN2owaFM0ckt1YllvdXhGdlJtTlNDOUpyaXY4QkY3c3lSbjhfNVNlbjIwRmVXZzNnUlZzb0tVNFRzSTlXY0tRZnByU2UzbnZoOGZqQ05IWjdpWXNiYnUyTFNnVDZNbklmSFJueUNSYlV0RFhwNXo?oc=5" target="_blank">Ces centaines de milliers de ménages qui ne font pas valoir leur droit au RSA</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -786,13 +802,5 @@
 `Mon, 06 Apr 2026 15:47:34 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi8AFBVV95cUxQbThySEtPbzNlTy13SmFhR250ZVdlR0JhSVpNT0ZSUmd5dTBnLUViMjgzTnlVd3BVUEoydVpNV0FsOFJsY2ZfeUN2cEl6QUlaUGk0OFVBSlV0QXBHckd1b1I4QTBHdnhDaGU1TkI5R3Q0QjdGYXNzUmtsYmxBZWtCd3NvQ25CWTloZmFnb0FrbTlNZ3VfV0k1c1ZLWnYxVVVTNUFjU1NlR3pBcDNhRExJRXVqVEd5ZFZFOUdiWHBHWUdGcjBGQU1WeF9rNDg0SHlGQXhoUU8xVm5EWjRTQXZPc2dSOTMzX1VVTVRnb2w1elY?oc=5" target="_blank">Des nouvelles mesures pour soutenir les entreprises et les ménages face à la flambée des carburants</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [L'inflation, ce poison lent qui menace le désendettement de la France - Les Echos](https://news.google.com/rss/articles/CBMizAFBVV95cUxQQkJXWG1UdkVWTkI2U3N1X0FaTVlQSFJMc0VHQXZRNXVIZDNjb2xHX0U2WGNYSExmR3U1SGxZNnB0cGZ1NVg1MFZnWE9KOU5IeFNMV0dUV0tWSWZmalhOVmt5QmRKdHhHc2xIdVhXTER5QVc2SFoweU93b25XeEZza3BxTk1oX2s0NGJRcUZkS210RDFWdzNPejM2cm5kcWRVYnRfaFNnTUlxS0RybU5wLVZzZ3ZzdGFtVnlFTkdqTDhhQ04xTm5Mam5PQng?oc=5)
-
-`Mon, 06 Apr 2026 05:42:10 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMizAFBVV95cUxQQkJXWG1UdkVWTkI2U3N1X0FaTVlQSFJMc0VHQXZRNXVIZDNjb2xHX0U2WGNYSExmR3U1SGxZNnB0cGZ1NVg1MFZnWE9KOU5IeFNMV0dUV0tWSWZmalhOVmt5QmRKdHhHc2xIdVhXTER5QVc2SFoweU93b25XeEZza3BxTk1oX2s0NGJRcUZkS210RDFWdzNPejM2cm5kcWRVYnRfaFNnTUlxS0RybU5wLVZzZ3ZzdGFtVnlFTkdqTDhhQ04xTm5Mam5PQng?oc=5" target="_blank">L'inflation, ce poison lent qui menace le désendettement de la France</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
