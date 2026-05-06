@@ -1,7 +1,23 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Wed, 06 May 2026 13:48:57 +0000`
-> 100 articles (30 derniers jours)
+> Derniere mise a jour : `Wed, 06 May 2026 18:10:06 +0000`
+> 101 articles (30 derniers jours)
+
+---
+
+### [EXCLUSIF - Budget : la réponse cash de Sébastien Lecornu au président du Medef Patrick Martin - Les Echos](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPV3pNbzBBeVdVX21vX0JXRHF0U2R3UFVhcGJpV1MxYndFa3NJaERLcllQYmdSSEVyQjRBUFl4VlZSYlRIMU1LaTY4aFh3OFV3cGhQSzZRQ0FYSzkxVzA5NVZmdHpUYzR0bnAwald6dXp2VGp0VkNaSTlQbWVIa2VFbmxWeUg3SXVuU3BXZUVGa1didmVZdjlLOWVKYlk2eURfSWJ5MV9xRUtGWkVmOEsyWTg3el91S3BtQ1RVeW9CNmZsMWRPU3dFZXUyOHNjZl83cU5nckJ6bUV0MC1yQ09yNUFqUEdqM1hkSkE?oc=5)
+
+`Wed, 06 May 2026 15:38:35 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi6gFBVV95cUxPV3pNbzBBeVdVX21vX0JXRHF0U2R3UFVhcGJpV1MxYndFa3NJaERLcllQYmdSSEVyQjRBUFl4VlZSYlRIMU1LaTY4aFh3OFV3cGhQSzZRQ0FYSzkxVzA5NVZmdHpUYzR0bnAwald6dXp2VGp0VkNaSTlQbWVIa2VFbmxWeUg3SXVuU3BXZUVGa1didmVZdjlLOWVKYlk2eURfSWJ5MV9xRUtGWkVmOEsyWTg3el91S3BtQ1RVeW9CNmZsMWRPU3dFZXUyOHNjZl83cU5nckJ6bUV0MC1yQ09yNUFqUEdqM1hkSkE?oc=5" target="_blank">EXCLUSIF - Budget : la réponse cash de Sébastien Lecornu au président du Medef Patrick Martin</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [SONDAGE EXCLUSIF - Financement de la protection sociale : les Français divisés sur la bonne recette - Les Echos](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOejNfXy0zY0lxdkVXU0R1aG1XdGJ1NFJlbWppaXNSNmdxamRvRVZzeUJZbm5HNVRrd25fUGFKZzZST2cycjlPd2M5OEJvVTNYWi1zRnk4eTctd1RvWFBFZ0ZwTU9oZHJXa3BmX2xZdjdXQnlfNzZKeXNYZDhQM212UUN2NlkxSXZBMDdCUV96VDVzSlRPZUIzblBNN1o3QVpLRHVnbDI5MkN2bWswTnFzOEhsajRiUFJQZVNpXzNnRFh2aHk4LTNoUWt6aUZrNlJpV0J5TndCcFdYQ2s4bEpPb2huMjM?oc=5)
+
+`Wed, 06 May 2026 15:22:19 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi5AFBVV95cUxOejNfXy0zY0lxdkVXU0R1aG1XdGJ1NFJlbWppaXNSNmdxamRvRVZzeUJZbm5HNVRrd25fUGFKZzZST2cycjlPd2M5OEJvVTNYWi1zRnk4eTctd1RvWFBFZ0ZwTU9oZHJXa3BmX2xZdjdXQnlfNzZKeXNYZDhQM212UUN2NlkxSXZBMDdCUV96VDVzSlRPZUIzblBNN1o3QVpLRHVnbDI5MkN2bWswTnFzOEhsajRiUFJQZVNpXzNnRFh2aHk4LTNoUWt6aUZrNlJpV0J5TndCcFdYQ2s4bEpPb2huMjM?oc=5" target="_blank">SONDAGE EXCLUSIF - Financement de la protection sociale : les Français divisés sur la bonne recette</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -794,13 +810,5 @@
 `Tue, 07 Apr 2026 16:08:45 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi-gFBVV95cUxQUmJsZ2JwTDgxRkNSM3FnQk4weWdzUk5FazlnVFVSYlVSNmo4aThTX3NfalJpX05wN2RFbWZEdjZWc2Z2RS0tVGcwbUFNRVlqM1FQZUZXZi1OUXYtNm1MSFlOcktKNElRWFJKNFg3THBlYTFmbnVSMlNwcHpVTV9qUGRoMnJIUWFsM1VDbm9uUUx2U2xfZ052NEtKS0ZQYlNxMVdmX2d1SkVoMGZtOW9MUW1mMTJFQkc0MXE1WTlsc3hyN1BxRlRsNXFjVHFYeGE4WHNpeWVHYmp3STZSZ2JETVpBX0l3aWdnQW80akRYSVpLLWxjV0hodE5B?oc=5" target="_blank">Prix des carburants : le gouvernement attendu de pied ferme sur le coup de pouce promis pour les aides à domicile</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Des nouvelles mesures pour soutenir les entreprises et les ménages face à la flambée des carburants - Les Echos](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQbThySEtPbzNlTy13SmFhR250ZVdlR0JhSVpNT0ZSUmd5dTBnLUViMjgzTnlVd3BVUEoydVpNV0FsOFJsY2ZfeUN2cEl6QUlaUGk0OFVBSlV0QXBHckd1b1I4QTBHdnhDaGU1TkI5R3Q0QjdGYXNzUmtsYmxBZWtCd3NvQ25CWTloZmFnb0FrbTlNZ3VfV0k1c1ZLWnYxVVVTNUFjU1NlR3pBcDNhRExJRXVqVEd5ZFZFOUdiWHBHWUdGcjBGQU1WeF9rNDg0SHlGQXhoUU8xVm5EWjRTQXZPc2dSOTMzX1VVTVRnb2w1elY?oc=5)
-
-`Mon, 06 Apr 2026 15:47:34 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi8AFBVV95cUxQbThySEtPbzNlTy13SmFhR250ZVdlR0JhSVpNT0ZSUmd5dTBnLUViMjgzTnlVd3BVUEoydVpNV0FsOFJsY2ZfeUN2cEl6QUlaUGk0OFVBSlV0QXBHckd1b1I4QTBHdnhDaGU1TkI5R3Q0QjdGYXNzUmtsYmxBZWtCd3NvQ25CWTloZmFnb0FrbTlNZ3VfV0k1c1ZLWnYxVVVTNUFjU1NlR3pBcDNhRExJRXVqVEd5ZFZFOUdiWHBHWUdGcjBGQU1WeF9rNDg0SHlGQXhoUU8xVm5EWjRTQXZPc2dSOTMzX1VVTVRnb2w1elY?oc=5" target="_blank">Des nouvelles mesures pour soutenir les entreprises et les ménages face à la flambée des carburants</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
