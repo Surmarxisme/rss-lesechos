@@ -1,7 +1,7 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Thu, 07 May 2026 13:46:11 +0000`
-> 103 articles (30 derniers jours)
+> Derniere mise a jour : `Thu, 07 May 2026 18:17:07 +0000`
+> 99 articles (30 derniers jours)
 
 ---
 
@@ -701,14 +701,6 @@
 
 ---
 
-### [Finances Publiques : actualités, analyses et vidéos - Les Echos | Page 1005 - Les Echos](https://news.google.com/rss/articles/CBMijgFBVV95cUxOcUZHY2EtLUZfdExIVm9BSmFjcnVndjg3M2NsaDZTRU5mMVEzd2lsV0dReDU4Q1dNbFU2UV9qeE5YWkJqdGw5Zk5EM3lESTJ3REE0eTNOUHAxRmdybmdhY3JJNlhfVkpVdDI1NlluUVZNY2lRUkdrWDF1NGx5YUNGcERZQVozb2Zna1BCSktR?oc=5)
-
-`Tue, 07 Apr 2026 16:06:51 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMijgFBVV95cUxOcUZHY2EtLUZfdExIVm9BSmFjcnVndjg3M2NsaDZTRU5mMVEzd2lsV0dReDU4Q1dNbFU2UV9qeE5YWkJqdGw5Zk5EM3lESTJ3REE0eTNOUHAxRmdybmdhY3JJNlhfVkpVdDI1NlluUVZNY2lRUkdrWDF1NGx5YUNGcERZQVozb2Zna1BCSktR?oc=5" target="_blank">Finances Publiques : actualités, analyses et vidéos - Les Echos | Page 1005</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
 ### [L'extension du travail le 1er mai devrait pouvoir s'appliquer dès cette année - Les Echos](https://news.google.com/rss/articles/CBMiygFBVV95cUxQdFRvWnRNdnpfaWdGVDF0MktVQmFjdUo0cWc0Vk0tb2dhRDB6bFBJYU9XRE1ZeDIwaXFpMGV4a1RHc1pHMTZCel9aOWFGVElGVHBYazFIdGlvVG5FMU5lRjZHSzFETUpGSDRhUjJvTjNvaTdlaWRiUkM1amVXbWpIWllMUzdIbFNDT3ViVWNaYkZGX3JYQkJENHNkekFQRlkxcV9lSklzRVVPLVZiSTZnVk5yTFpLRDNRS2x6QTJuQ3I3aVhIUGlvbkl3?oc=5)
 
 `Fri, 10 Apr 2026 10:09:28 GMT`
@@ -802,29 +794,5 @@
 `Wed, 08 Apr 2026 07:00:17 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi4gFBVV95cUxQbTNJcEhXdWhscW5TbnFoQkdFQ2xpZU1EQUFfM1BhNHQ0SjFtX1hzOGNQVlRsb1hmM3FIeVQ1RVJhVnAyVFFVNi1ONHM4bldBaFJqQlRNSHREd3NFTUcxUWFWeGtkT2lXYTBGSnBjQ0c4ekgzMG1nOWtkR0N5d3pjY3hTXzI4c3BhdEFac3pxZ0d3bnlNcHE3UHhjOWNlR3l4cXNhZk13cVpRWjNQbkhHekp1VTJZa1EwNzA1RG9ZeTJHTFZmWFdXU19jeVRURE5kUm14b1FIRm5JT1d5RG9uS1JB?oc=5" target="_blank">Flambée énergétique, effort budgétaire : comment l'économie française va encaisser les chocs</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Impôts : nouveau record des montants réclamés en 2025 à la suite de contrôles fiscaux - Les Echos](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQcTlic1dzVUhPNEdaVk5fTzRRS0lDa1J3TVM5bFRQWlF0ZmFxcVJXbTVfMmE1Wk43bVZtU19QRnFMRDNGSEJoLVoxQjRaVy11OXhBbDNzWXVSMmx6Q0psMW5RUjN5MDJ4UmYyQU5kU1FVUTRQSHcxX05JT3FqV1djUTdYcDczQmpENm1HejlYRXBscXVnSzJScndXMndjWGZMUjlHZDJUSkdLaGJVV1lqQWdWNXEwMHU5R3hrSWFaeHV0TDVlNk15ZDlSYVNjdnVuUkY1a1U2OEMxNFdodXl1alJn?oc=5)
-
-`Tue, 07 Apr 2026 14:09:53 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi4gFBVV95cUxQcTlic1dzVUhPNEdaVk5fTzRRS0lDa1J3TVM5bFRQWlF0ZmFxcVJXbTVfMmE1Wk43bVZtU19QRnFMRDNGSEJoLVoxQjRaVy11OXhBbDNzWXVSMmx6Q0psMW5RUjN5MDJ4UmYyQU5kU1FVUTRQSHcxX05JT3FqV1djUTdYcDczQmpENm1HejlYRXBscXVnSzJScndXMndjWGZMUjlHZDJUSkdLaGJVV1lqQWdWNXEwMHU5R3hrSWFaeHV0TDVlNk15ZDlSYVNjdnVuUkY1a1U2OEMxNFdodXl1alJn?oc=5" target="_blank">Impôts : nouveau record des montants réclamés en 2025 à la suite de contrôles fiscaux</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Pouvoir d'achat : le déblocage de l'épargne salariale se précise - Les Echos](https://news.google.com/rss/articles/CBMitgFBVV95cUxQUURNSE0yYUl3RG1YcGRFNy03bVUxdnBxcDNab3Y1NnI3SEtva2MyYURJaVVQNVRJaE1zcGNyWnNyMUN4RDd1QjJoeTZudE16WGpPSHRfckdLWXo4dEctVWNIOXlPWXRFQ21kLTVFTVNRNGppazNLX3BHSjlJT1gwYXJEenJIelNDYXUzeE94TnlxNThjeGRlNUxUNDdoSXFyVDhNZHh6Qmxja04zTVFrMnJXTXNvQQ?oc=5)
-
-`Tue, 07 Apr 2026 15:46:43 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxQUURNSE0yYUl3RG1YcGRFNy03bVUxdnBxcDNab3Y1NnI3SEtva2MyYURJaVVQNVRJaE1zcGNyWnNyMUN4RDd1QjJoeTZudE16WGpPSHRfckdLWXo4dEctVWNIOXlPWXRFQ21kLTVFTVNRNGppazNLX3BHSjlJT1gwYXJEenJIelNDYXUzeE94TnlxNThjeGRlNUxUNDdoSXFyVDhNZHh6Qmxja04zTVFrMnJXTXNvQQ?oc=5" target="_blank">Pouvoir d'achat : le déblocage de l'épargne salariale se précise</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Prix des carburants : le gouvernement attendu de pied ferme sur le coup de pouce promis pour les aides à domicile - Les Echos](https://news.google.com/rss/articles/CBMi-gFBVV95cUxQUmJsZ2JwTDgxRkNSM3FnQk4weWdzUk5FazlnVFVSYlVSNmo4aThTX3NfalJpX05wN2RFbWZEdjZWc2Z2RS0tVGcwbUFNRVlqM1FQZUZXZi1OUXYtNm1MSFlOcktKNElRWFJKNFg3THBlYTFmbnVSMlNwcHpVTV9qUGRoMnJIUWFsM1VDbm9uUUx2U2xfZ052NEtKS0ZQYlNxMVdmX2d1SkVoMGZtOW9MUW1mMTJFQkc0MXE1WTlsc3hyN1BxRlRsNXFjVHFYeGE4WHNpeWVHYmp3STZSZ2JETVpBX0l3aWdnQW80akRYSVpLLWxjV0hodE5B?oc=5)
-
-`Tue, 07 Apr 2026 16:08:45 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi-gFBVV95cUxQUmJsZ2JwTDgxRkNSM3FnQk4weWdzUk5FazlnVFVSYlVSNmo4aThTX3NfalJpX05wN2RFbWZEdjZWc2Z2RS0tVGcwbUFNRVlqM1FQZUZXZi1OUXYtNm1MSFlOcktKNElRWFJKNFg3THBlYTFmbnVSMlNwcHpVTV9qUGRoMnJIUWFsM1VDbm9uUUx2U2xfZ052NEtKS0ZQYlNxMVdmX2d1SkVoMGZtOW9MUW1mMTJFQkc0MXE1WTlsc3hyN1BxRlRsNXFjVHFYeGE4WHNpeWVHYmp3STZSZ2JETVpBX0l3aWdnQW80akRYSVpLLWxjV0hodE5B?oc=5" target="_blank">Prix des carburants : le gouvernement attendu de pied ferme sur le coup de pouce promis pour les aides à domicile</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
