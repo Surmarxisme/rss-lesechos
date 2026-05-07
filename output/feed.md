@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Thu, 07 May 2026 08:08:10 +0000`
-> 102 articles (30 derniers jours)
+> Derniere mise a jour : `Thu, 07 May 2026 11:12:51 +0000`
+> 103 articles (30 derniers jours)
+
+---
+
+### [Guerre au Moyen-Orient : la facture énergétique creuse le déficit commercial de la France - Les Echos](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNX2FyYmVvVGJnUjJzUFF4bmJ5LXJuTnMxeC14UUpuTVpyYzd6dl9FVW5RMENONzl0TEJORVhPdUtFOGhDc21qQWpGRkJfR2JVUFVUT0FjSVBtZWEtZF9kR1NoYnFlSm50V2kzaERNN3dwRGJUZzdVTUs1MnpaeHQ5SWFTamc4WlpITy1vRHExM2dBYnR5a2NQaEVlbHUxY1JleHlFMEZMem9RTFlBY1RTMlFuemZLeDBRZ2xReDVyS3lRVHJCdF9jUEpHZEl2c0I2Zkp0UVJEa3l1Tzc5VW91Wg?oc=5)
+
+`Thu, 07 May 2026 10:30:26 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi4AFBVV95cUxNX2FyYmVvVGJnUjJzUFF4bmJ5LXJuTnMxeC14UUpuTVpyYzd6dl9FVW5RMENONzl0TEJORVhPdUtFOGhDc21qQWpGRkJfR2JVUFVUT0FjSVBtZWEtZF9kR1NoYnFlSm50V2kzaERNN3dwRGJUZzdVTUs1MnpaeHQ5SWFTamc4WlpITy1vRHExM2dBYnR5a2NQaEVlbHUxY1JleHlFMEZMem9RTFlBY1RTMlFuemZLeDBRZ2xReDVyS3lRVHJCdF9jUEpHZEl2c0I2Zkp0UVJEa3l1Tzc5VW91Wg?oc=5" target="_blank">Guerre au Moyen-Orient : la facture énergétique creuse le déficit commercial de la France</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
