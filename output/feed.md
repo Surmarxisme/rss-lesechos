@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Wed, 06 May 2026 18:10:06 +0000`
-> 101 articles (30 derniers jours)
+> Derniere mise a jour : `Thu, 07 May 2026 08:08:10 +0000`
+> 102 articles (30 derniers jours)
+
+---
+
+### [Impôt sur le revenu : 900.000 foyers sont devenus imposables en 2025 - Les Echos](https://news.google.com/rss/articles/CBMiygFBVV95cUxOWHFRbkpjUkVHdXJGUmpYVEhTeW9KNGwxSTlob1dqVm93QjR2VmNxSkpwYmJyalc1X01UOU9Ya2xEU2pTd244N1FuSjBNNUJQYjN3dVE4c0Ezc2RMbXJtUlNXdmlJSTkwLXZsZUFLd1RUeWpSV01fZExLb3gtUHFJNEZRd2RvN3oxRFhidndNandWSFFuY1RLQjk5Mnlzd3FxR0ZUOXJTRTJlSnA5NVg3MHNDR19WTUNPNm5kQmdNYkdKX0VINnFaeVdR?oc=5)
+
+`Thu, 07 May 2026 04:05:08 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxOWHFRbkpjUkVHdXJGUmpYVEhTeW9KNGwxSTlob1dqVm93QjR2VmNxSkpwYmJyalc1X01UOU9Ya2xEU2pTd244N1FuSjBNNUJQYjN3dVE4c0Ezc2RMbXJtUlNXdmlJSTkwLXZsZUFLd1RUeWpSV01fZExLb3gtUHFJNEZRd2RvN3oxRFhidndNandWSFFuY1RLQjk5Mnlzd3FxR0ZUOXJTRTJlSnA5NVg3MHNDR19WTUNPNm5kQmdNYkdKX0VINnFaeVdR?oc=5" target="_blank">Impôt sur le revenu : 900.000 foyers sont devenus imposables en 2025</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
