@@ -2,10 +2,19 @@
   "source": "Les Echos - Economie France",
   "source_url": "https://www.lesechos.fr/economie-france",
   "language": "fr-FR",
-  "last_fetched": "Thu, 07 May 2026 18:17:07 +0000",
+  "last_fetched": "Fri, 08 May 2026 07:11:32 +0000",
   "total_items": 99,
-  "new_items_this_run": 0,
+  "new_items_this_run": 1,
   "articles": [
+    {
+      "id": "CBMijgJBVV95cUxNLTI3TDRmVUxXQ3NpTlhtRVFJTVZOSE94ekthTDVHUE9nTnBaTUlzVG5qMzRCM3BqMWNLVmlGX0NXajh0VWd2QUdnMXlscElEMWtUUGRfZDc3M0VrZG8zTGFsakNWWDFmem9RUWhYcnk2akFwTmJnaldVSDlNems0WXhIeXZqT1FKNll2YThvSHR5bDFTN3d3bnRKOHo3ZEhocFlRdUZrY1phQ3MzVFF2NVAxbVlNaEZMVVlWcE1wUGhWUWh3Ml9XbTVZdmRPNUhrWEx6YUlGdmxsNmxmMmRDZERweTN3c1FSTVZPTWNEQTRocWFoemIzakx6MVNxdmpiYllTVXVjUXlqN3VMbVE",
+      "title": "« InserScore », nouvelle appli, immersion en entreprise : le plan du gouvernement pour améliorer l'emploi des jeunes sans dépenser plus - Les Echos",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMijgJBVV95cUxNLTI3TDRmVUxXQ3NpTlhtRVFJTVZOSE94ekthTDVHUE9nTnBaTUlzVG5qMzRCM3BqMWNLVmlGX0NXajh0VWd2QUdnMXlscElEMWtUUGRfZDc3M0VrZG8zTGFsakNWWDFmem9RUWhYcnk2akFwTmJnaldVSDlNems0WXhIeXZqT1FKNll2YThvSHR5bDFTN3d3bnRKOHo3ZEhocFlRdUZrY1phQ3MzVFF2NVAxbVlNaEZMVVlWcE1wUGhWUWh3Ml9XbTVZdmRPNUhrWEx6YUlGdmxsNmxmMmRDZERweTN3c1FSTVZPTWNEQTRocWFoemIzakx6MVNxdmpiYllTVXVjUXlqN3VMbVE?oc=5\" target=\"_blank\">« InserScore », nouvelle appli, immersion en entreprise : le plan du gouvernement pour améliorer l'emploi des jeunes sans dépenser plus</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Les Echos</font>",
+      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNLTI3TDRmVUxXQ3NpTlhtRVFJTVZOSE94ekthTDVHUE9nTnBaTUlzVG5qMzRCM3BqMWNLVmlGX0NXajh0VWd2QUdnMXlscElEMWtUUGRfZDc3M0VrZG8zTGFsakNWWDFmem9RUWhYcnk2akFwTmJnaldVSDlNems0WXhIeXZqT1FKNll2YThvSHR5bDFTN3d3bnRKOHo3ZEhocFlRdUZrY1phQ3MzVFF2NVAxbVlNaEZMVVlWcE1wUGhWUWh3Ml9XbTVZdmRPNUhrWEx6YUlGdmxsNmxmMmRDZERweTN3c1FSTVZPTWNEQTRocWFoemIzakx6MVNxdmpiYllTVXVjUXlqN3VMbVE?oc=5",
+      "source": "Les Echos",
+      "pub_date": "Thu, 07 May 2026 18:21:59 GMT",
+      "pub_date_iso": "2026-05-07T18:21:59+00:00"
+    },
     {
       "id": "CBMi4AFBVV95cUxNX2FyYmVvVGJnUjJzUFF4bmJ5LXJuTnMxeC14UUpuTVpyYzd6dl9FVW5RMENONzl0TEJORVhPdUtFOGhDc21qQWpGRkJfR2JVUFVUT0FjSVBtZWEtZF9kR1NoYnFlSm50V2kzaERNN3dwRGJUZzdVTUs1MnpaeHQ5SWFTamc4WlpITy1vRHExM2dBYnR5a2NQaEVlbHUxY1JleHlFMEZMem9RTFlBY1RTMlFuemZLeDBRZ2xReDVyS3lRVHJCdF9jUEpHZEl2c0I2Zkp0UVJEa3l1Tzc5VW91Wg",
       "title": "Guerre au Moyen-Orient : la facture énergétique creuse le déficit commercial de la France - Les Echos",
@@ -887,15 +896,6 @@
       "source": "Les Echos",
       "pub_date": "Wed, 08 Apr 2026 17:03:45 GMT",
       "pub_date_iso": "2026-04-08T17:03:45+00:00"
-    },
-    {
-      "id": "CBMi4gFBVV95cUxQbTNJcEhXdWhscW5TbnFoQkdFQ2xpZU1EQUFfM1BhNHQ0SjFtX1hzOGNQVlRsb1hmM3FIeVQ1RVJhVnAyVFFVNi1ONHM4bldBaFJqQlRNSHREd3NFTUcxUWFWeGtkT2lXYTBGSnBjQ0c4ekgzMG1nOWtkR0N5d3pjY3hTXzI4c3BhdEFac3pxZ0d3bnlNcHE3UHhjOWNlR3l4cXNhZk13cVpRWjNQbkhHekp1VTJZa1EwNzA1RG9ZeTJHTFZmWFdXU19jeVRURE5kUm14b1FIRm5JT1d5RG9uS1JB",
-      "title": "Flambée énergétique, effort budgétaire : comment l'économie française va encaisser les chocs - Les Echos",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxQbTNJcEhXdWhscW5TbnFoQkdFQ2xpZU1EQUFfM1BhNHQ0SjFtX1hzOGNQVlRsb1hmM3FIeVQ1RVJhVnAyVFFVNi1ONHM4bldBaFJqQlRNSHREd3NFTUcxUWFWeGtkT2lXYTBGSnBjQ0c4ekgzMG1nOWtkR0N5d3pjY3hTXzI4c3BhdEFac3pxZ0d3bnlNcHE3UHhjOWNlR3l4cXNhZk13cVpRWjNQbkhHekp1VTJZa1EwNzA1RG9ZeTJHTFZmWFdXU19jeVRURE5kUm14b1FIRm5JT1d5RG9uS1JB?oc=5\" target=\"_blank\">Flambée énergétique, effort budgétaire : comment l'économie française va encaisser les chocs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Les Echos</font>",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQbTNJcEhXdWhscW5TbnFoQkdFQ2xpZU1EQUFfM1BhNHQ0SjFtX1hzOGNQVlRsb1hmM3FIeVQ1RVJhVnAyVFFVNi1ONHM4bldBaFJqQlRNSHREd3NFTUcxUWFWeGtkT2lXYTBGSnBjQ0c4ekgzMG1nOWtkR0N5d3pjY3hTXzI4c3BhdEFac3pxZ0d3bnlNcHE3UHhjOWNlR3l4cXNhZk13cVpRWjNQbkhHekp1VTJZa1EwNzA1RG9ZeTJHTFZmWFdXU19jeVRURE5kUm14b1FIRm5JT1d5RG9uS1JB?oc=5",
-      "source": "Les Echos",
-      "pub_date": "Wed, 08 Apr 2026 07:00:17 GMT",
-      "pub_date_iso": "2026-04-08T07:00:17+00:00"
     }
   ]
 }

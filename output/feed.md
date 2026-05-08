@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Thu, 07 May 2026 18:17:07 +0000`
+> Derniere mise a jour : `Fri, 08 May 2026 07:11:32 +0000`
 > 99 articles (30 derniers jours)
+
+---
+
+### [« InserScore », nouvelle appli, immersion en entreprise : le plan du gouvernement pour améliorer l'emploi des jeunes sans dépenser plus - Les Echos](https://news.google.com/rss/articles/CBMijgJBVV95cUxNLTI3TDRmVUxXQ3NpTlhtRVFJTVZOSE94ekthTDVHUE9nTnBaTUlzVG5qMzRCM3BqMWNLVmlGX0NXajh0VWd2QUdnMXlscElEMWtUUGRfZDc3M0VrZG8zTGFsakNWWDFmem9RUWhYcnk2akFwTmJnaldVSDlNems0WXhIeXZqT1FKNll2YThvSHR5bDFTN3d3bnRKOHo3ZEhocFlRdUZrY1phQ3MzVFF2NVAxbVlNaEZMVVlWcE1wUGhWUWh3Ml9XbTVZdmRPNUhrWEx6YUlGdmxsNmxmMmRDZERweTN3c1FSTVZPTWNEQTRocWFoemIzakx6MVNxdmpiYllTVXVjUXlqN3VMbVE?oc=5)
+
+`Thu, 07 May 2026 18:21:59 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMijgJBVV95cUxNLTI3TDRmVUxXQ3NpTlhtRVFJTVZOSE94ekthTDVHUE9nTnBaTUlzVG5qMzRCM3BqMWNLVmlGX0NXajh0VWd2QUdnMXlscElEMWtUUGRfZDc3M0VrZG8zTGFsakNWWDFmem9RUWhYcnk2akFwTmJnaldVSDlNems0WXhIeXZqT1FKNll2YThvSHR5bDFTN3d3bnRKOHo3ZEhocFlRdUZrY1phQ3MzVFF2NVAxbVlNaEZMVVlWcE1wUGhWUWh3Ml9XbTVZdmRPNUhrWEx6YUlGdmxsNmxmMmRDZERweTN3c1FSTVZPTWNEQTRocWFoemIzakx6MVNxdmpiYllTVXVjUXlqN3VMbVE?oc=5" target="_blank">« InserScore », nouvelle appli, immersion en entreprise : le plan du gouvernement pour améliorer l'emploi des jeunes sans dépenser plus</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -786,13 +794,5 @@
 `Wed, 08 Apr 2026 17:03:45 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcnpMUDhGbTZmNndvTEdPQzQ1ZjZNWHB3bUpBdWZONURqcGpJdnB0WjNoRXdUZ2NyNmNQdVQtVFphVTh4V25FejdjeVBod1BjaEwtbkNqUzJfck1YT1Y4Q0R3QW9CMHVuS3Uyb3NzLXgzWC04dmRuSC11UXFMRDhrV3o2NUEwNFp5VHI4c1NrUVQwM1lrX2ZoQ19PdU1nSklFNXlzaW1mNGdlRWNpeXFNREVQSk9jdVlQUzZGQ2dHV2JOaDkwNFZNdTFodERMSDctMUd6UzdoTmlodw?oc=5" target="_blank">La hausse des dépenses militaires ne laissera presque aucune marge budgétaire</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Flambée énergétique, effort budgétaire : comment l'économie française va encaisser les chocs - Les Echos](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQbTNJcEhXdWhscW5TbnFoQkdFQ2xpZU1EQUFfM1BhNHQ0SjFtX1hzOGNQVlRsb1hmM3FIeVQ1RVJhVnAyVFFVNi1ONHM4bldBaFJqQlRNSHREd3NFTUcxUWFWeGtkT2lXYTBGSnBjQ0c4ekgzMG1nOWtkR0N5d3pjY3hTXzI4c3BhdEFac3pxZ0d3bnlNcHE3UHhjOWNlR3l4cXNhZk13cVpRWjNQbkhHekp1VTJZa1EwNzA1RG9ZeTJHTFZmWFdXU19jeVRURE5kUm14b1FIRm5JT1d5RG9uS1JB?oc=5)
-
-`Wed, 08 Apr 2026 07:00:17 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi4gFBVV95cUxQbTNJcEhXdWhscW5TbnFoQkdFQ2xpZU1EQUFfM1BhNHQ0SjFtX1hzOGNQVlRsb1hmM3FIeVQ1RVJhVnAyVFFVNi1ONHM4bldBaFJqQlRNSHREd3NFTUcxUWFWeGtkT2lXYTBGSnBjQ0c4ekgzMG1nOWtkR0N5d3pjY3hTXzI4c3BhdEFac3pxZ0d3bnlNcHE3UHhjOWNlR3l4cXNhZk13cVpRWjNQbkhHekp1VTJZa1EwNzA1RG9ZeTJHTFZmWFdXU19jeVRURE5kUm14b1FIRm5JT1d5RG9uS1JB?oc=5" target="_blank">Flambée énergétique, effort budgétaire : comment l'économie française va encaisser les chocs</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
