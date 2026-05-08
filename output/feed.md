@@ -1,7 +1,7 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Fri, 08 May 2026 13:13:37 +0000`
-> 99 articles (30 derniers jours)
+> Derniere mise a jour : `Fri, 08 May 2026 18:03:17 +0000`
+> 96 articles (30 derniers jours)
 
 ---
 
@@ -770,29 +770,5 @@
 `Thu, 09 Apr 2026 05:00:27 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSzRtUjkyV0VxUXNtaDNaZFFGZTJseS01T1hZRVE0Q3ZTbWN1QjhjcGdlN21xVTZUc1F2cDhmNnUtNzZDVWV6M0RoYXFfeWM1S2hSN3RnRFpnMjNoRGwxYTNFVVFlZEJra2tTWGU4M0NjMGlKY3FaZ3lpUzloVzltWnpiVmVDVVplUUpKN01KTHZrMENnaXdLdk94eEFwYnB6RVhhYndmWVREaXVBanVlMkpuSlVaWWtheGVJWDM0bTRCSTE3SDBXeWN1UWhLNWt4Yi1SVUlPcHlOenlKajJBaHZKNA?oc=5" target="_blank">Pourquoi les impôts de production restent plus élevés en France qu'ailleurs en Europe</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Ruptures conventionnelles : une première baisse inédite observée dans les entreprises - Les Echos](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNaV9JZXR4WVhrdndfNW02SDJJMEZ1elQ3b3ItOWhGSlRSQk1tYlpHSkRQOC1QWWI1ZmFLMmxwZUR6MGo1V1plSVBfM2V6TU1rMXMxZV90TzRyak16MHRldnAwZWgzLXZuMFAzZHdkSmRBcUZhMzdhektrb2JQbFo1M0tLNkp3OU9BbFJ0Um9fZ0Rib0pkUzFXVnk3dUpFS0Nua190eWZWb2xaQS12RENTRHFtS0lyMXY5QVpXbW5zNGZQYVBMbnYzUTFIdEJwNllPMllfaw?oc=5)
-
-`Wed, 08 Apr 2026 17:01:50 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi1AFBVV95cUxNaV9JZXR4WVhrdndfNW02SDJJMEZ1elQ3b3ItOWhGSlRSQk1tYlpHSkRQOC1QWWI1ZmFLMmxwZUR6MGo1V1plSVBfM2V6TU1rMXMxZV90TzRyak16MHRldnAwZWgzLXZuMFAzZHdkSmRBcUZhMzdhektrb2JQbFo1M0tLNkp3OU9BbFJ0Um9fZ0Rib0pkUzFXVnk3dUpFS0Nua190eWZWb2xaQS12RENTRHFtS0lyMXY5QVpXbW5zNGZQYVBMbnYzUTFIdEJwNllPMllfaw?oc=5" target="_blank">Ruptures conventionnelles : une première baisse inédite observée dans les entreprises</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Santé : les cliniques creusent leurs pertes et alertent sur des fermetures - Les Echos](https://news.google.com/rss/articles/CBMixgFBVV95cUxPTHYtUTVldFpWUVRzR2VrRmV3M3lEV28yQU1rNnk5T1F5U18wZDhfVVVWc01GN2dUa0QwMlRDNlplUThtS2NESFo1Q2s5S0hFLVpVeHpwaTVsSzJkanRKYmNzRFdiUFU1Z003NnBEMDF3aGlhMi1rVUFmTm1lbS1pcHNIZ2RJVTAyN1NReUNzTnlmODFxMWtVTzBYSmU4TlRPWV9zWFZWOVlCb0ROUkZOYWtDWGo0d0x2SkxKbmNVWnhpbTk5N3c?oc=5)
-
-`Wed, 08 Apr 2026 15:58:24 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxPTHYtUTVldFpWUVRzR2VrRmV3M3lEV28yQU1rNnk5T1F5U18wZDhfVVVWc01GN2dUa0QwMlRDNlplUThtS2NESFo1Q2s5S0hFLVpVeHpwaTVsSzJkanRKYmNzRFdiUFU1Z003NnBEMDF3aGlhMi1rVUFmTm1lbS1pcHNIZ2RJVTAyN1NReUNzTnlmODFxMWtVTzBYSmU4TlRPWV9zWFZWOVlCb0ROUkZOYWtDWGo0d0x2SkxKbmNVWnhpbTk5N3c?oc=5" target="_blank">Santé : les cliniques creusent leurs pertes et alertent sur des fermetures</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [La hausse des dépenses militaires ne laissera presque aucune marge budgétaire - Les Echos](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcnpMUDhGbTZmNndvTEdPQzQ1ZjZNWHB3bUpBdWZONURqcGpJdnB0WjNoRXdUZ2NyNmNQdVQtVFphVTh4V25FejdjeVBod1BjaEwtbkNqUzJfck1YT1Y4Q0R3QW9CMHVuS3Uyb3NzLXgzWC04dmRuSC11UXFMRDhrV3o2NUEwNFp5VHI4c1NrUVQwM1lrX2ZoQ19PdU1nSklFNXlzaW1mNGdlRWNpeXFNREVQSk9jdVlQUzZGQ2dHV2JOaDkwNFZNdTFodERMSDctMUd6UzdoTmlodw?oc=5)
-
-`Wed, 08 Apr 2026 17:03:45 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcnpMUDhGbTZmNndvTEdPQzQ1ZjZNWHB3bUpBdWZONURqcGpJdnB0WjNoRXdUZ2NyNmNQdVQtVFphVTh4V25FejdjeVBod1BjaEwtbkNqUzJfck1YT1Y4Q0R3QW9CMHVuS3Uyb3NzLXgzWC04dmRuSC11UXFMRDhrV3o2NUEwNFp5VHI4c1NrUVQwM1lrX2ZoQ19PdU1nSklFNXlzaW1mNGdlRWNpeXFNREVQSk9jdVlQUzZGQ2dHV2JOaDkwNFZNdTFodERMSDctMUd6UzdoTmlodw?oc=5" target="_blank">La hausse des dépenses militaires ne laissera presque aucune marge budgétaire</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
