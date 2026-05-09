@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Fri, 08 May 2026 18:03:17 +0000`
-> 96 articles (30 derniers jours)
+> Derniere mise a jour : `Sat, 09 May 2026 10:09:14 +0000`
+> 94 articles (30 derniers jours)
+
+---
+
+### [Budget 2027 : le gouvernement veut couper court à l'idée d'une « loi spéciale » permettant de tenir jusqu'à la présidentielle - Les Echos](https://news.google.com/rss/articles/CBMijgJBVV95cUxNNWp2Si1tWVZ2REVuUlZRY0NtTEFlQUtFX2Zmd1N0aFlVcGk3XzVFdDRvT3hJd2ZzMUpMal9RTmY2eGFuWVN5MWhYdmoxazVyeS1UOTh0RUt6dkctN2dmVEZUcUpEdjJtUURjNnVMOXVrQ3gzSHBLeGpTa3dleFZmd1NDNFJxRjFkUklUYVFWUmFGQkljVlJqOUM5eHIwbHF6T09ZOWlsUVZwdjVyVlhrelpHck5ncU9saGVaaTZFTUl4ZFdPM3FkV3Q2aWJaS25oV1J3cG01Ny1YWWVCT3FWTU84Y1d4SGdLRGIzaDZkZWQ5NHNKeUFtUTJNdGlidGNDME5WWDNiSjhSUjVtRkE?oc=5)
+
+`Sat, 09 May 2026 07:01:04 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMijgJBVV95cUxNNWp2Si1tWVZ2REVuUlZRY0NtTEFlQUtFX2Zmd1N0aFlVcGk3XzVFdDRvT3hJd2ZzMUpMal9RTmY2eGFuWVN5MWhYdmoxazVyeS1UOTh0RUt6dkctN2dmVEZUcUpEdjJtUURjNnVMOXVrQ3gzSHBLeGpTa3dleFZmd1NDNFJxRjFkUklUYVFWUmFGQkljVlJqOUM5eHIwbHF6T09ZOWlsUVZwdjVyVlhrelpHck5ncU9saGVaaTZFTUl4ZFdPM3FkV3Q2aWJaS25oV1J3cG01Ny1YWWVCT3FWTU84Y1d4SGdLRGIzaDZkZWQ5NHNKeUFtUTJNdGlidGNDME5WWDNiSjhSUjVtRkE?oc=5" target="_blank">Budget 2027 : le gouvernement veut couper court à l'idée d'une « loi spéciale » permettant de tenir jusqu'à la présidentielle</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -746,29 +754,5 @@
 `Thu, 09 Apr 2026 15:57:46 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi4wFBVV95cUxNVlhreVk4cGY4ZUM5SXBvWU5Vb3p1QjNXQUd5WU40dGlDVXMydzAwNU91a2laVm10Ulp1UG4xN2RxbHJRdXdJVmVjMTh0TXhGZGpWQlNjemFSdHpSSC0za183UTlGQ2dXTjVIc2tDNG94X0hTaG55cXFKYXNCbXlkYkFRVnNGWGRlc2ZnbDdTVEk0OFEweHpCSWhPeVgtUWRETDN0eUkzUHFYeGRjM3JaM0dRakozdlR6enE1X0E4anI2WWVqZUcycjIxNmpqNXJYcmM5RlJiOUpWZFNyVEdXUUF1MA?oc=5" target="_blank">Arrêts maladie : le gouvernement mise sur la méthode douce face à une « trajectoire explosive</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Salaires : des hausses limitées en 2026 et qui risquent d'être rognées par le regain d'inflation - Les Echos](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQWTZvVmxKOXZrNmFSVlM5Y1hlZm5ZaFhRRVM5Y2N6clhlc0pfbUJBUENsR213T2syUFhkYW9jUTJBQ0Y2dE1Pckw2dWJYYkZUV1lMM2hJS3I4UGtEZXEyTW9rTEtJN240U2RHNU1FNl91Q2JQMDlkaEgzbWpwd2JTMmJKcXZ0ZGJ5djVVXzVzSU5KM3lzNkgweFpjOUZOWHpBS3hKU1p5d2hIOXp5ckU2X3NYX29iRmlGdG01eXpuQllfWlhDLTFQVkpEUEJtQUFCQlY3Sk9tZHBJVWpCVGtjTmxXNVdGbHc?oc=5)
-
-`Thu, 09 Apr 2026 08:00:14 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi5wFBVV95cUxQWTZvVmxKOXZrNmFSVlM5Y1hlZm5ZaFhRRVM5Y2N6clhlc0pfbUJBUENsR213T2syUFhkYW9jUTJBQ0Y2dE1Pckw2dWJYYkZUV1lMM2hJS3I4UGtEZXEyTW9rTEtJN240U2RHNU1FNl91Q2JQMDlkaEgzbWpwd2JTMmJKcXZ0ZGJ5djVVXzVzSU5KM3lzNkgweFpjOUZOWHpBS3hKU1p5d2hIOXp5ckU2X3NYX29iRmlGdG01eXpuQllfWlhDLTFQVkpEUEJtQUFCQlY3Sk9tZHBJVWpCVGtjTmxXNVdGbHc?oc=5" target="_blank">Salaires : des hausses limitées en 2026 et qui risquent d'être rognées par le regain d'inflation</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Contrats courts : une dernière séance de négociation à l'issue très incertaine - Les Echos](https://news.google.com/rss/articles/CBMiygFBVV95cUxPbEpSQVE2WmlMSFdHTDQxNUZTOFk1X21GLWk4dzFZWjVXMnE2TFZtLVpXU2xHR2dtX3MtZVpJWjhKQUNiQzlpR3ZDRFNtRFB6ajVCR1JrNTBBSDk2bGR0dy1INW90N1JyODNteS1SaFlFdTU4ZkFsb1FMZUMtMkFMQUd0aWxSVkh5T2xxWlM1Z0h5c0xwc1FLWmNuRHhlYWFyYU1VMEdGWEwzaGZWbUU4V1JfUUZITGJJZzF2aFY0dDhBbkRmdkMySWx3?oc=5)
-
-`Thu, 09 Apr 2026 04:10:08 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxPbEpSQVE2WmlMSFdHTDQxNUZTOFk1X21GLWk4dzFZWjVXMnE2TFZtLVpXU2xHR2dtX3MtZVpJWjhKQUNiQzlpR3ZDRFNtRFB6ajVCR1JrNTBBSDk2bGR0dy1INW90N1JyODNteS1SaFlFdTU4ZkFsb1FMZUMtMkFMQUd0aWxSVkh5T2xxWlM1Z0h5c0xwc1FLWmNuRHhlYWFyYU1VMEdGWEwzaGZWbUU4V1JfUUZITGJJZzF2aFY0dDhBbkRmdkMySWx3?oc=5" target="_blank">Contrats courts : une dernière séance de négociation à l'issue très incertaine</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Pourquoi les impôts de production restent plus élevés en France qu'ailleurs en Europe - Les Echos](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSzRtUjkyV0VxUXNtaDNaZFFGZTJseS01T1hZRVE0Q3ZTbWN1QjhjcGdlN21xVTZUc1F2cDhmNnUtNzZDVWV6M0RoYXFfeWM1S2hSN3RnRFpnMjNoRGwxYTNFVVFlZEJra2tTWGU4M0NjMGlKY3FaZ3lpUzloVzltWnpiVmVDVVplUUpKN01KTHZrMENnaXdLdk94eEFwYnB6RVhhYndmWVREaXVBanVlMkpuSlVaWWtheGVJWDM0bTRCSTE3SDBXeWN1UWhLNWt4Yi1SVUlPcHlOenlKajJBaHZKNA?oc=5)
-
-`Thu, 09 Apr 2026 05:00:27 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSzRtUjkyV0VxUXNtaDNaZFFGZTJseS01T1hZRVE0Q3ZTbWN1QjhjcGdlN21xVTZUc1F2cDhmNnUtNzZDVWV6M0RoYXFfeWM1S2hSN3RnRFpnMjNoRGwxYTNFVVFlZEJra2tTWGU4M0NjMGlKY3FaZ3lpUzloVzltWnpiVmVDVVplUUpKN01KTHZrMENnaXdLdk94eEFwYnB6RVhhYndmWVREaXVBanVlMkpuSlVaWWtheGVJWDM0bTRCSTE3SDBXeWN1UWhLNWt4Yi1SVUlPcHlOenlKajJBaHZKNA?oc=5" target="_blank">Pourquoi les impôts de production restent plus élevés en France qu'ailleurs en Europe</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
