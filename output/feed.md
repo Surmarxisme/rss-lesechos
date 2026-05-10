@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Sat, 09 May 2026 10:09:14 +0000`
-> 94 articles (30 derniers jours)
+> Derniere mise a jour : `Sun, 10 May 2026 10:18:28 +0000`
+> 90 articles (30 derniers jours)
+
+---
+
+### [A peine plus d'un cotisant pour un retraité : la bombe financière du régime des hospitaliers et fonctionnaires territoriaux - Les Echos](https://news.google.com/rss/articles/CBMihgJBVV95cUxPYzh1bFMtUHR4aUYwN3BMZmdEOGFRM3hZQVVpSlNoX1hpeHB3Q2JYUmFqVnp4TWtiNC1uVFphbk1YZ1p4ZVlkM2ZJWmRUc0pLdU9RbTBTckpTa3h1M1lTMUV3Ym0yc3UyYlJteml1Szd3bWFOTmtXUS1GaXk1QXR3d2J2VEFFRXFOWXBuNGp6QmxENmVzNmpyc3BFUzlMTGh5bThpRlkzNnczdDJhLUJLSnNGSXNGY2szaEROb0F4VUV5ajdYUWdxc3BfMjczLTJzWE9vSWtoQUltcE03a1JvNU9yTlY5THExQ2JHSHhOWENKMk01SzRSeUpweUVubWJHWU96LUdn?oc=5)
+
+`Sun, 10 May 2026 06:25:35 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMihgJBVV95cUxPYzh1bFMtUHR4aUYwN3BMZmdEOGFRM3hZQVVpSlNoX1hpeHB3Q2JYUmFqVnp4TWtiNC1uVFphbk1YZ1p4ZVlkM2ZJWmRUc0pLdU9RbTBTckpTa3h1M1lTMUV3Ym0yc3UyYlJteml1Szd3bWFOTmtXUS1GaXk1QXR3d2J2VEFFRXFOWXBuNGp6QmxENmVzNmpyc3BFUzlMTGh5bThpRlkzNnczdDJhLUJLSnNGSXNGY2szaEROb0F4VUV5ajdYUWdxc3BfMjczLTJzWE9vSWtoQUltcE03a1JvNU9yTlY5THExQ2JHSHhOWENKMk01SzRSeUpweUVubWJHWU96LUdn?oc=5" target="_blank">A peine plus d'un cotisant pour un retraité : la bombe financière du régime des hospitaliers et fonctionnaires territoriaux</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -714,45 +722,5 @@
 `Fri, 10 Apr 2026 14:42:09 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxPN0RjYTJIYWNKc210ZHdDVWdVanc1RVAzYVE5YVJzZUNZazdPSDJ3R1N3Q0VOZGMtTFZtWkFySXkzcVdTMk5ROVhnZmREcTRuUExuY2dRTXpLc1d1VldzWDY2TkRNeEdmb004Tk1Yb1dQYlJXV2JTYXA5NFV2QVBWV2RzRWJOaWk0WnJVbmVndU1wREx4SnlHbVpqXzNud2FwdXpobzRMelY5eDFBLVppNWlubmxHUjA?oc=5" target="_blank">Insertion des jeunes : l'alerte des Ecoles de la deuxième chance</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [L'extension du travail le 1er mai devrait pouvoir s'appliquer dès cette année - Les Echos](https://news.google.com/rss/articles/CBMiygFBVV95cUxQdFRvWnRNdnpfaWdGVDF0MktVQmFjdUo0cWc0Vk0tb2dhRDB6bFBJYU9XRE1ZeDIwaXFpMGV4a1RHc1pHMTZCel9aOWFGVElGVHBYazFIdGlvVG5FMU5lRjZHSzFETUpGSDRhUjJvTjNvaTdlaWRiUkM1amVXbWpIWllMUzdIbFNDT3ViVWNaYkZGX3JYQkJENHNkekFQRlkxcV9lSklzRVVPLVZiSTZnVk5yTFpLRDNRS2x6QTJuQ3I3aVhIUGlvbkl3?oc=5)
-
-`Fri, 10 Apr 2026 10:09:28 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxQdFRvWnRNdnpfaWdGVDF0MktVQmFjdUo0cWc0Vk0tb2dhRDB6bFBJYU9XRE1ZeDIwaXFpMGV4a1RHc1pHMTZCel9aOWFGVElGVHBYazFIdGlvVG5FMU5lRjZHSzFETUpGSDRhUjJvTjNvaTdlaWRiUkM1amVXbWpIWllMUzdIbFNDT3ViVWNaYkZGX3JYQkJENHNkekFQRlkxcV9lSklzRVVPLVZiSTZnVk5yTFpLRDNRS2x6QTJuQ3I3aVhIUGlvbkl3?oc=5" target="_blank">L'extension du travail le 1er mai devrait pouvoir s'appliquer dès cette année</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Arrêts maladie : « Si on veut s'attaquer aux causes de l'absentéisme, il faut aller voir ce qui ne va pas dans les entreprises - Les Echos](https://news.google.com/rss/articles/CBMihAJBVV95cUxPT2owY2FsZ2VjZUhiaEktYkhNdWtscjFZMFZVTGtndUFnT2EtdlZSaC0ySDFMOW1qdGJqSjhrLXF2cUdTZnk5X0xqM0VMUnQtVU9VUE5oS0c3U2dBcnJhTm1IWFFVX1ZhSmt6SkwybURjT21rWkFTTlE4clhrVm9IRVMtQmdxdWZmRGxKbTY3LS04SDJrMGdrOW5ESWxWQmoxYzAwYnhOODJqV3B0SVNCck8xT3lHSEZXV1JzZVh1MGowQWZ6V0Y4Nk43Wl9WdHA0OWZTLTY5ZUFIdUdWSERMU3ZzS05OOGFXWXlNYkJQTVFPeTJueFdjZ1FGUl94YXg5b0tDVA?oc=5)
-
-`Fri, 10 Apr 2026 04:50:08 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMihAJBVV95cUxPT2owY2FsZ2VjZUhiaEktYkhNdWtscjFZMFZVTGtndUFnT2EtdlZSaC0ySDFMOW1qdGJqSjhrLXF2cUdTZnk5X0xqM0VMUnQtVU9VUE5oS0c3U2dBcnJhTm1IWFFVX1ZhSmt6SkwybURjT21rWkFTTlE4clhrVm9IRVMtQmdxdWZmRGxKbTY3LS04SDJrMGdrOW5ESWxWQmoxYzAwYnhOODJqV3B0SVNCck8xT3lHSEZXV1JzZVh1MGowQWZ6V0Y4Nk43Wl9WdHA0OWZTLTY5ZUFIdUdWSERMU3ZzS05OOGFXWXlNYkJQTVFPeTJueFdjZ1FGUl94YXg5b0tDVA?oc=5" target="_blank">Arrêts maladie : « Si on veut s'attaquer aux causes de l'absentéisme, il faut aller voir ce qui ne va pas dans les entreprises</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Contrats courts : syndicats et patronat échouent à s'entendre - Les Echos](https://news.google.com/rss/articles/CBMiswFBVV95cUxPcFZ2cWhoOUVFc01TZWVFaVBCRU5rZnRJMHZtUFJxdkItdmtGX2RWalY1cGsycjEweFBWX1ZUWmc2MFFtWU8xaXIzSENQbDVTcTBId0pDLW9fcEZ6ZGdqYU16QjBydzdiaVZKTDVQcUxvd1J2cW9VWjVpUUdOQ2luTXd6Mm85ejkweXlQOUx4dXppeS00X1ZWZ0tZLUUyUDJOdVdyclF6cGZESnQ2dXJHdVItaw?oc=5)
-
-`Thu, 09 Apr 2026 17:37:41 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxPcFZ2cWhoOUVFc01TZWVFaVBCRU5rZnRJMHZtUFJxdkItdmtGX2RWalY1cGsycjEweFBWX1ZUWmc2MFFtWU8xaXIzSENQbDVTcTBId0pDLW9fcEZ6ZGdqYU16QjBydzdiaVZKTDVQcUxvd1J2cW9VWjVpUUdOQ2luTXd6Mm85ejkweXlQOUx4dXppeS00X1ZWZ0tZLUUyUDJOdVdyclF6cGZESnQ2dXJHdVItaw?oc=5" target="_blank">Contrats courts : syndicats et patronat échouent à s'entendre</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Bataille rangée autour de l'extension du travail le 1er-Mai - Les Echos](https://news.google.com/rss/articles/CBMiswFBVV95cUxNZ3JrOXBPUkZBRlBOd2l2TVAxdDFmT2QtMzhLc0ZVSGdMRk90RkxxQXJFMklIWnliS08zNTI0Ry1XU0tNazdJbWtoWGctXy1WT1Z6LTVnV0tPSmtNMlNURkVWWllNQUFiVGh3bWNMalJnbmp4SHBQZEQzZkkyZERzVzFNWlVDbng5S0VOQVZhMm1pZDMwZldZeUpoOVZfVFY1d2NMb1RWOE9jRXJ5WExFajdPaw?oc=5)
-
-`Thu, 09 Apr 2026 15:54:22 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxNZ3JrOXBPUkZBRlBOd2l2TVAxdDFmT2QtMzhLc0ZVSGdMRk90RkxxQXJFMklIWnliS08zNTI0Ry1XU0tNazdJbWtoWGctXy1WT1Z6LTVnV0tPSmtNMlNURkVWWllNQUFiVGh3bWNMalJnbmp4SHBQZEQzZkkyZERzVzFNWlVDbng5S0VOQVZhMm1pZDMwZldZeUpoOVZfVFY1d2NMb1RWOE9jRXJ5WExFajdPaw?oc=5" target="_blank">Bataille rangée autour de l'extension du travail le 1er-Mai</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Arrêts maladie : le gouvernement mise sur la méthode douce face à une « trajectoire explosive - Les Echos](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNVlhreVk4cGY4ZUM5SXBvWU5Vb3p1QjNXQUd5WU40dGlDVXMydzAwNU91a2laVm10Ulp1UG4xN2RxbHJRdXdJVmVjMTh0TXhGZGpWQlNjemFSdHpSSC0za183UTlGQ2dXTjVIc2tDNG94X0hTaG55cXFKYXNCbXlkYkFRVnNGWGRlc2ZnbDdTVEk0OFEweHpCSWhPeVgtUWRETDN0eUkzUHFYeGRjM3JaM0dRakozdlR6enE1X0E4anI2WWVqZUcycjIxNmpqNXJYcmM5RlJiOUpWZFNyVEdXUUF1MA?oc=5)
-
-`Thu, 09 Apr 2026 15:57:46 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi4wFBVV95cUxNVlhreVk4cGY4ZUM5SXBvWU5Vb3p1QjNXQUd5WU40dGlDVXMydzAwNU91a2laVm10Ulp1UG4xN2RxbHJRdXdJVmVjMTh0TXhGZGpWQlNjemFSdHpSSC0za183UTlGQ2dXTjVIc2tDNG94X0hTaG55cXFKYXNCbXlkYkFRVnNGWGRlc2ZnbDdTVEk0OFEweHpCSWhPeVgtUWRETDN0eUkzUHFYeGRjM3JaM0dRakozdlR6enE1X0E4anI2WWVqZUcycjIxNmpqNXJYcmM5RlJiOUpWZFNyVEdXUUF1MA?oc=5" target="_blank">Arrêts maladie : le gouvernement mise sur la méthode douce face à une « trajectoire explosive</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
