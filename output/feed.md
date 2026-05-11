@@ -1,7 +1,39 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Sun, 10 May 2026 10:18:28 +0000`
-> 90 articles (30 derniers jours)
+> Derniere mise a jour : `Mon, 11 May 2026 08:51:05 +0000`
+> 92 articles (30 derniers jours)
+
+---
+
+### [Hantavirus : un des Français rapatriés présente des « symptômes » - Les Echos](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMjNxR1d0bEN6cWRDNEstbEp2OHgwT2xicHB6dmc0TFdxQkNWaWdxQ3RVX3hnS2loQUlZajMtNXlOOFhodEcwZzZHXzJES0tnRXRGWWpjN2lKOXNwVFY2TDJwaUtaVjRpczlsMEc4RkJxV1hXaURSb3BtSW4wSjA2RlJ0QlRNZnl6ZlloY1ZoT0VobGE0WUpiRUU1dGxjWWthWmdFX0NmNHlIbHF4eW1OdXZpdlI3VE56N0xNM25GLVRtSTVING1XTEZmV0FER1J6V0V1Q1pB?oc=5)
+
+`Sun, 10 May 2026 15:29:43 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMjNxR1d0bEN6cWRDNEstbEp2OHgwT2xicHB6dmc0TFdxQkNWaWdxQ3RVX3hnS2loQUlZajMtNXlOOFhodEcwZzZHXzJES0tnRXRGWWpjN2lKOXNwVFY2TDJwaUtaVjRpczlsMEc4RkJxV1hXaURSb3BtSW4wSjA2RlJ0QlRNZnl6ZlloY1ZoT0VobGE0WUpiRUU1dGxjWWthWmdFX0NmNHlIbHF4eW1OdXZpdlI3VE56N0xNM25GLVRtSTVING1XTEZmV0FER1J6V0V1Q1pB?oc=5" target="_blank">Hantavirus : un des Français rapatriés présente des « symptômes »</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Hantavirus : 22 cas contacts identifiés, une Française testée positive - Les Echos](https://news.google.com/rss/articles/CBMivwFBVV95cUxPZFQ5N1dKR1NuVzBXUGdudUh4aEo5Q0dSekdUaFBjNjlhMmZLUklOcS1pR3Z1XzhnQnpLNkVWUmZZRWwtS1Fud1RwY0dyR05VOV9CalZUOUxwT2k5c085U01KZDlJRENmeExZc2dXcE1WVjJMSkxRSHlieWhvdmdJSEltb2RvZmp4eGtoT3J3Tm1SQ2JZZUp4dFVLcU5KRmh5dTZLWUJLR1JFYmpwcVFLb2ZQSVNRZ0NfbnFhYjBtQQ?oc=5)
+
+`Mon, 11 May 2026 08:33:46 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxPZFQ5N1dKR1NuVzBXUGdudUh4aEo5Q0dSekdUaFBjNjlhMmZLUklOcS1pR3Z1XzhnQnpLNkVWUmZZRWwtS1Fud1RwY0dyR05VOV9CalZUOUxwT2k5c085U01KZDlJRENmeExZc2dXcE1WVjJMSkxRSHlieWhvdmdJSEltb2RvZmp4eGtoT3J3Tm1SQ2JZZUp4dFVLcU5KRmh5dTZLWUJLR1JFYmpwcVFLb2ZQSVNRZ0NfbnFhYjBtQQ?oc=5" target="_blank">Hantavirus : 22 cas contacts identifiés, une Française testée positive</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Budget : le patronat uni pour préserver les allègements de charges - Les Echos](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNc0xRc05PSHRrMEhDcUE1aHBNeFliSl9rdnRQNGJ4d1NITGhoNWlHMGNSQXhmUDNCZzNRTUNnbEY2VE1heFdicFBtVFZuX0ZSVjRlVlMyWERYQkU1dW4tajU1V0gxd3UwNGdWb2EtTDZIX2xkT0VWQ0ZTSTQxdDhTNkdaejFERS11TWtDOEV6Mk9lMUJpbkVYTHF1QnlEY0tzWFNFOXlBa2tuLVRfXzBNcFpyRW1kdGl6Q1pDc3hCZTY3REN2RFZiZA?oc=5)
+
+`Sun, 10 May 2026 13:57:38 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxNc0xRc05PSHRrMEhDcUE1aHBNeFliSl9rdnRQNGJ4d1NITGhoNWlHMGNSQXhmUDNCZzNRTUNnbEY2VE1heFdicFBtVFZuX0ZSVjRlVlMyWERYQkU1dW4tajU1V0gxd3UwNGdWb2EtTDZIX2xkT0VWQ0ZTSTQxdDhTNkdaejFERS11TWtDOEV6Mk9lMUJpbkVYTHF1QnlEY0tzWFNFOXlBa2tuLVRfXzBNcFpyRW1kdGl6Q1pDc3hCZTY3REN2RFZiZA?oc=5" target="_blank">Budget : le patronat uni pour préserver les allègements de charges</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Thierry Breton : « La règle d'or ne préjuge en rien des choix budgétaires et fiscaux » - Les Echos](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNeUgzQ29sVnFia0FJSVNkcENJVmVrMTdJUFV5TW9rUDNGWXR2UkdBcS0yRjhHckNGdHNkeGEyM3R3NFhwQkxXNS13c0pHaFlYV0xiLS1LMG5RZlVsWWRxNGZKajBfekFfSkdWeDJpMFFzZEhBZjR5T3dZeWdpMU1tRkhjTE5IVXF0VTc0OXhfVUNRM3ZxVUNBa2tQY3pFblN0MzBJbXpBM0twR1NLY0cxaVNCLW4zVU9NNFRxU0tselZXS0N5WVR2ajZnRU93a0xzZ1dNQ1J3eXRRcEpm?oc=5)
+
+`Sun, 10 May 2026 14:30:22 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi3AFBVV95cUxNeUgzQ29sVnFia0FJSVNkcENJVmVrMTdJUFV5TW9rUDNGWXR2UkdBcS0yRjhHckNGdHNkeGEyM3R3NFhwQkxXNS13c0pHaFlYV0xiLS1LMG5RZlVsWWRxNGZKajBfekFfSkdWeDJpMFFzZEhBZjR5T3dZeWdpMU1tRkhjTE5IVXF0VTc0OXhfVUNRM3ZxVUNBa2tQY3pFblN0MzBJbXpBM0twR1NLY0cxaVNCLW4zVU9NNFRxU0tselZXS0N5WVR2ajZnRU93a0xzZ1dNQ1J3eXRRcEpm?oc=5" target="_blank">Thierry Breton : « La règle d'or ne préjuge en rien des choix budgétaires et fiscaux »</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -706,21 +738,5 @@
 `Sat, 11 Apr 2026 16:59:30 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxNdzF2dG9vSDZwZ2xJc1BSZlFHN0lsT0FGOU82bHcxOGJsQmJXMFBSbGRZSjJ2SGc3R3NFa0k4N295UDRqZHVDZ2tDUDZTVUZkaEs3YWJoRzhBRl82YjlPaVZwY0RkN1FMWFZVM2dCakxKTW9xMXREalN0MFlxRmp1YVpPV2hlN01yRTdidFptXy1sZWVCS3BsZWZrT0syQjFRVVhRbTYyN2QyTnhESVh4Y216MVFNUQ?oc=5" target="_blank">Travail le 1er-Mai : les syndicats demandent à Lecornu de bloquer la proposition de loi</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Dette : Moody's ne dégrade pas la note de la France, qui reste double « A » avec une « perspective négative » - Les Echos](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPOTBIaXQxUC1WUHNwZ2k3el9kZzhBcjhvd195ZWpUY1Z5NDhJU1Y2MF9CNGZFcXV0RXFQeEg5R01VcFVudzc3b1U2a0JuMDgtTDRIZWpLamE4dWFIdm1EOFRQUDhiRi1qQ1hqNERNNmpGYmFTckUwNFI5RWd4Z0RNYmxhREplQTIwclRzb3d0ZFRFMEFueVJNS2tMeFg3dDc4dWFvdVFPT2NFUEc5TjBDbGJPMTBWdmh3aFhqMm9kUlhNbkNsekJzR25uZHBHZXVBanFEXy1wUzZZYWpsRjVjalRGMmticl9zMnFyYnVaMHVwM01q?oc=5)
-
-`Fri, 10 Apr 2026 21:35:13 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi9AFBVV95cUxPOTBIaXQxUC1WUHNwZ2k3el9kZzhBcjhvd195ZWpUY1Z5NDhJU1Y2MF9CNGZFcXV0RXFQeEg5R01VcFVudzc3b1U2a0JuMDgtTDRIZWpLamE4dWFIdm1EOFRQUDhiRi1qQ1hqNERNNmpGYmFTckUwNFI5RWd4Z0RNYmxhREplQTIwclRzb3d0ZFRFMEFueVJNS2tMeFg3dDc4dWFvdVFPT2NFUEc5TjBDbGJPMTBWdmh3aFhqMm9kUlhNbkNsekJzR25uZHBHZXVBanFEXy1wUzZZYWpsRjVjalRGMmticl9zMnFyYnVaMHVwM01q?oc=5" target="_blank">Dette : Moody's ne dégrade pas la note de la France, qui reste double « A » avec une « perspective négative »</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Insertion des jeunes : l'alerte des Ecoles de la deuxième chance - Les Echos](https://news.google.com/rss/articles/CBMitwFBVV95cUxPN0RjYTJIYWNKc210ZHdDVWdVanc1RVAzYVE5YVJzZUNZazdPSDJ3R1N3Q0VOZGMtTFZtWkFySXkzcVdTMk5ROVhnZmREcTRuUExuY2dRTXpLc1d1VldzWDY2TkRNeEdmb004Tk1Yb1dQYlJXV2JTYXA5NFV2QVBWV2RzRWJOaWk0WnJVbmVndU1wREx4SnlHbVpqXzNud2FwdXpobzRMelY5eDFBLVppNWlubmxHUjA?oc=5)
-
-`Fri, 10 Apr 2026 14:42:09 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxPN0RjYTJIYWNKc210ZHdDVWdVanc1RVAzYVE5YVJzZUNZazdPSDJ3R1N3Q0VOZGMtTFZtWkFySXkzcVdTMk5ROVhnZmREcTRuUExuY2dRTXpLc1d1VldzWDY2TkRNeEdmb004Tk1Yb1dQYlJXV2JTYXA5NFV2QVBWV2RzRWJOaWk0WnJVbmVndU1wREx4SnlHbVpqXzNud2FwdXpobzRMelY5eDFBLVppNWlubmxHUjA?oc=5" target="_blank">Insertion des jeunes : l'alerte des Ecoles de la deuxième chance</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
