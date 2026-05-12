@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Mon, 11 May 2026 18:30:18 +0000`
+> Derniere mise a jour : `Tue, 12 May 2026 08:15:38 +0000`
 > 93 articles (30 derniers jours)
+
+---
+
+### [Groupes cotés de l'aéronautique et la défense, aéroports, câbles sous-marins : que pèse aujourd'hui le portefeuille de l'Etat actionnaire - Les Echos](https://news.google.com/rss/articles/CBMioAJBVV95cUxPbEhSYTN0aFYyNG1GNzlGbmlRMkVTdmdEa2dkaFdLTDBPS0FLd21Fa1M5emd1WFZXWVlGZVJ6aVhMTDZUX3YzZmwyOEYwTVA0d0RkMS13XzhrTTBhYjFONm1DbzJld2hpdlJiTVlqeG9HbUVjQ04yWll5MEEzWHR4eGN1ZEtpaUxEVlFEZzY0OVJpS3RRblVBQWxUVmFKTWRrWWRyQTdkNFhudUxMVmVXamlybE44aEpfeV9VZFRMSlVLbTlLNi1yUWttcmcwT1V3clJxY1FEYlJPUDBvS0NYUDBFRWtRREZCam45OVYwanhwdnowMmlPcnFBUnBTNVIzbEJpbmNiajFqRF9VTllTYlAxRkxjREo0ekVESDJpd3U?oc=5)
+
+`Tue, 12 May 2026 04:10:19 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMioAJBVV95cUxPbEhSYTN0aFYyNG1GNzlGbmlRMkVTdmdEa2dkaFdLTDBPS0FLd21Fa1M5emd1WFZXWVlGZVJ6aVhMTDZUX3YzZmwyOEYwTVA0d0RkMS13XzhrTTBhYjFONm1DbzJld2hpdlJiTVlqeG9HbUVjQ04yWll5MEEzWHR4eGN1ZEtpaUxEVlFEZzY0OVJpS3RRblVBQWxUVmFKTWRrWWRyQTdkNFhudUxMVmVXamlybE44aEpfeV9VZFRMSlVLbTlLNi1yUWttcmcwT1V3clJxY1FEYlJPUDBvS0NYUDBFRWtRREZCam45OVYwanhwdnowMmlPcnFBUnBTNVIzbEJpbmNiajFqRF9VTllTYlAxRkxjREo0ekVESDJpd3U?oc=5" target="_blank">Groupes cotés de l'aéronautique et la défense, aéroports, câbles sous-marins : que pèse aujourd'hui le portefeuille de l'Etat actionnaire</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -650,14 +658,6 @@
 `Thu, 16 Apr 2026 04:05:09 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi7gFBVV95cUxNTjc3ZTU4d282eVZsNXJYT2Z4bFVheGp4TEZIWlpyc2pTTmh5d1JBX054YkdzMUFwcnhTZnRWaDVxYUNWeDM1cWlyZ0o0Nm4yVUdoV2tHQ1FSNm8zSEJ0Zmhqc2R0MUgxTVplVXdyYlRSSm93cWRGUHdIcXJRc3FlR3V2SHY5V2JIZG9seXVzMTItU0c4c0hnX2EwXzFHRFhfNE9OVXZnRmJNN284SUpDUkFIZW00YmlOdllydGNoanJVdV9QVjdGYjVoN2FXMEdhcXVrSnNMcW0xbWRZSG9ZVWt1YlQxS3NIRk9BMnNB?oc=5" target="_blank">Allocation de solidarité unifiée : pas encore présenté, le projet du gouvernement attaqué de toutes parts</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Economie Sociale et Solidaire (ESS) : actualités, chiffres et analyses, vidéos - Les Echos | Page 42 - Les Echos](https://news.google.com/rss/articles/CBMijAFBVV95cUxNUElweXVJQ2xTRWdUR0wxTnctY3N1NWs3dFo3eXp1TnBab0Rxa19KNnpMSW11RnE0eW1JblBCU2psSHlJdnkwUHZhN0xkc3dHbk05aHROa0ZMYzFULTFkS0dYdFhaM2g5Vkl4UVhPSjQ1X190MzhPRlFaa0dqU1ZCM2Ewa1ZLM1FwYjFydA?oc=5)
-
-`Sat, 11 Apr 2026 21:47:12 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMijAFBVV95cUxNUElweXVJQ2xTRWdUR0wxTnctY3N1NWs3dFo3eXp1TnBab0Rxa19KNnpMSW11RnE0eW1JblBCU2psSHlJdnkwUHZhN0xkc3dHbk05aHROa0ZMYzFULTFkS0dYdFhaM2g5Vkl4UVhPSjQ1X190MzhPRlFaa0dqU1ZCM2Ewa1ZLM1FwYjFydA?oc=5" target="_blank">Economie Sociale et Solidaire (ESS) : actualités, chiffres et analyses, vidéos - Les Echos | Page 42</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
