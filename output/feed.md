@@ -1,7 +1,7 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Wed, 13 May 2026 14:10:13 +0000`
-> 98 articles (30 derniers jours)
+> Derniere mise a jour : `Wed, 13 May 2026 18:52:06 +0000`
+> 96 articles (30 derniers jours)
 
 ---
 
@@ -757,27 +757,11 @@
 
 ---
 
-### [Travail le 1er-Mai : le gouvernement donne le point aux syndicats - Les Echos](https://news.google.com/rss/articles/CBMiugFBVV95cUxNTWNPS09VTmdDMGxrc1pIT2NEcWxpNW05RTlFdG9CVGg2cVkzOERrZ3JNQ2s1Z2N3YUUtVFROcDdVdmdwMnZGMThfTENNb2ZqRkJSTHNhV1dvaU5rak4tQU5CM3puVXVDVjFwRXNYODl1NThfTW96aDJzbDZ3X0xfa000R0F6WDJYZ0FQNi1JcElSM1A3X2V1cUFZYnVQSFd0WGo5SThSTE9ET1RINjlpZzlDT0tiT2cxb0E?oc=5)
-
-`Mon, 13 Apr 2026 18:39:26 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxNTWNPS09VTmdDMGxrc1pIT2NEcWxpNW05RTlFdG9CVGg2cVkzOERrZ3JNQ2s1Z2N3YUUtVFROcDdVdmdwMnZGMThfTENNb2ZqRkJSTHNhV1dvaU5rak4tQU5CM3puVXVDVjFwRXNYODl1NThfTW96aDJzbDZ3X0xfa000R0F6WDJYZ0FQNi1JcElSM1A3X2V1cUFZYnVQSFd0WGo5SThSTE9ET1RINjlpZzlDT0tiT2cxb0E?oc=5" target="_blank">Travail le 1er-Mai : le gouvernement donne le point aux syndicats</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
 ### [Loi de simplification : ces mesures qui doivent faciliter la vie des entreprises - Les Echos](https://news.google.com/rss/articles/CBMi1AFBVV95cUxORkswUzB6ZXM2bk0teTJHbHNYYUVHM3dFMXE1WV9tUXB1UWJZU0RTMGpCWUd2ZWh2TlZ4RWsyM0swLTVwZEtQVEFtX2RXemdFTi1pYzd4Rzl5V0pTbEt1eFZUS2Q1blNWS01iWGJPT1JGQ1BlRERTa3lWZTBaVWtTWjhZYlU4elJ3cDZXaVVOcjZyZUY1T0dZUmJjTVAwS1lVS3NaVks2Y1VpOUh2TTJzU0xhUjc2Y3VKUktiSFpBaUlraUZDUEk4LXVYQXRzNC1WM0xOQg?oc=5)
 
 `Tue, 14 Apr 2026 04:15:08 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi1AFBVV95cUxORkswUzB6ZXM2bk0teTJHbHNYYUVHM3dFMXE1WV9tUXB1UWJZU0RTMGpCWUd2ZWh2TlZ4RWsyM0swLTVwZEtQVEFtX2RXemdFTi1pYzd4Rzl5V0pTbEt1eFZUS2Q1blNWS01iWGJPT1JGQ1BlRERTa3lWZTBaVWtTWjhZYlU4elJ3cDZXaVVOcjZyZUY1T0dZUmJjTVAwS1lVS3NaVks2Y1VpOUh2TTJzU0xhUjc2Y3VKUktiSFpBaUlraUZDUEk4LXVYQXRzNC1WM0xOQg?oc=5" target="_blank">Loi de simplification : ces mesures qui doivent faciliter la vie des entreprises</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Guerre au Moyen-Orient : en France, l'incertitude économique remonte au même niveau qu'au début du conflit en Ukraine - Les Echos](https://news.google.com/rss/articles/CBMiggJBVV95cUxNVFJoZnRzT0tRT21BY1JWLWZTekdyMGMyTU01dUVpaDNBZENtdjVhVUd4TlpWa0xQTzNpOFBUcFAzU2FrRGhnRWVSc3hzTEcyUHdsMV9CYlN1U3BaVE1hbUdBb2FLMS15el9YVlFGVmtMT0hpeXVBSUgxX1VwRDdPT3czaV9OM1JzdTU3czlaV2w4QjNMNmhYR0pLeG4xMjBWY0xoeERybUluYS1HNTJOYUhKZHNTNmdUalVwd3JmWlR4bW5QbU1sRXJUVDVQRjAxdUJGdW5Xd0RCa0ozb1NScUlRQUtSZm93WlE4eFdtd1dkbWhWWDdKc2pnNmlJX0NUNEE?oc=5)
-
-`Mon, 13 Apr 2026 18:00:09 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiggJBVV95cUxNVFJoZnRzT0tRT21BY1JWLWZTekdyMGMyTU01dUVpaDNBZENtdjVhVUd4TlpWa0xQTzNpOFBUcFAzU2FrRGhnRWVSc3hzTEcyUHdsMV9CYlN1U3BaVE1hbUdBb2FLMS15el9YVlFGVmtMT0hpeXVBSUgxX1VwRDdPT3czaV9OM1JzdTU3czlaV2w4QjNMNmhYR0pLeG4xMjBWY0xoeERybUluYS1HNTJOYUhKZHNTNmdUalVwd3JmWlR4bW5QbU1sRXJUVDVQRjAxdUJGdW5Xd0RCa0ozb1NScUlRQUtSZm93WlE4eFdtd1dkbWhWWDdKc2pnNmlJX0NUNEE?oc=5" target="_blank">Guerre au Moyen-Orient : en France, l'incertitude économique remonte au même niveau qu'au début du conflit en Ukraine</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
