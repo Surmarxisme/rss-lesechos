@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Wed, 13 May 2026 08:27:55 +0000`
+> Derniere mise a jour : `Wed, 13 May 2026 11:33:38 +0000`
 > 98 articles (30 derniers jours)
+
+---
+
+### [Prime d'activité, RSA : la réforme des déclarations porte ses fruits - Les Echos](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRmFrUTVsZERfdm5mdDRNNExDSVp1SzBjd1kzNWtFSW5OWXdNVnhLYzFCLXAtTVpZREJ4SFVieFV1dGd0bTVQcDJaS2d1YlVvYWVNXzhxeDV2N0ZWOWVoRkkyM3J1V3M3TzRMbGk0bTUyellORW90SXJxVGFKMXhWNHoxUVRBQ0tnTTZQSDJSd01fQ3B5V0FWd0NnYzVabHk0LVpGVzZvYkNZa25UQjlYSlp4VUgzdzIyOWU4?oc=5)
+
+`Wed, 13 May 2026 11:02:26 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRmFrUTVsZERfdm5mdDRNNExDSVp1SzBjd1kzNWtFSW5OWXdNVnhLYzFCLXAtTVpZREJ4SFVieFV1dGd0bTVQcDJaS2d1YlVvYWVNXzhxeDV2N0ZWOWVoRkkyM3J1V3M3TzRMbGk0bTUyellORW90SXJxVGFKMXhWNHoxUVRBQ0tnTTZQSDJSd01fQ3B5V0FWd0NnYzVabHk0LVpGVzZvYkNZa25UQjlYSlp4VUgzdzIyOWU4?oc=5" target="_blank">Prime d'activité, RSA : la réforme des déclarations porte ses fruits</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -778,13 +786,5 @@
 `Tue, 14 Apr 2026 04:00:22 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMiowJBVV95cUxPdFg4NU5yVjBadHUzZGV0TDZNSzV3aUJZNWZLbjVVLWZJbFVSMTZHaFBSdThvUkFObjN1anNjTWZTMjVxZlNiUVlHSGlkU2N6RjZCeTJ1QkUzRjFmQlpnOFFUVkpjWTlHUG53VFdOSUgxV2ZoTmdVdWJNbzg1WnByRExvQXhGT3VvTzlDVzA2MkgzRF9BZVd6aHdSZl9qczhqQjZPdjRfakhBT0UtTG85RVl4a2pNWkEwZVV5d21oRXI4cldzMXRMWldPRE9vck8tUXVlUUdReEI4LVE5Ul81bk9oS1lRdEhVdEdzd0VxMnJOWDczY2NrRW52dFJab1RfRG9iOE5xd3NNZW1XMjNwbEdBMmxiaGlsSWZ0cnNjaVFVWWM?oc=5" target="_blank">« Parfois il s'agit du plus gros employeur d'une ville moyenne » : les défaillances d'entreprises montent encore et s'approchent de la cote d'alerte</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Travail le 1er-Mai : Lecornu temporise - Les Echos](https://news.google.com/rss/articles/CBMilgFBVV95cUxQSVFkRG0xY3REVWRjUDZFNWNyZlVidjJscUh2dDg1bzRQdUpnOVgtMWsxcVI1U0lOZUJvWElFTVJhSkFqZFlqYXc3NlRucUhMVFlQbWdIQVZtWS1Fdk8wR0dKR1J0WW5xVnp6dTc2aVJKUHpFZ3REWC1yNUkzU0JDUEk3LWtYUHhyRjBjNlhuczFnYXBuZlE?oc=5)
-
-`Mon, 13 Apr 2026 10:34:05 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMilgFBVV95cUxQSVFkRG0xY3REVWRjUDZFNWNyZlVidjJscUh2dDg1bzRQdUpnOVgtMWsxcVI1U0lOZUJvWElFTVJhSkFqZFlqYXc3NlRucUhMVFlQbWdIQVZtWS1Fdk8wR0dKR1J0WW5xVnp6dTc2aVJKUHpFZ3REWC1yNUkzU0JDUEk3LWtYUHhyRjBjNlhuczFnYXBuZlE?oc=5" target="_blank">Travail le 1er-Mai : Lecornu temporise</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
