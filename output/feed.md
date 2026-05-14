@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Thu, 14 May 2026 08:21:22 +0000`
-> 94 articles (30 derniers jours)
+> Derniere mise a jour : `Thu, 14 May 2026 11:18:36 +0000`
+> 95 articles (30 derniers jours)
+
+---
+
+### [Le gouvernement face au casse-tête des allègements de charges patronales - Les Echos](https://news.google.com/rss/articles/CBMixgFBVV95cUxOT053TTk5dFNCZ0dSRk5VOUpQNDY2bEw3V0ViakZGaGNVZ2VpVW01UHVOekxGdFRRQUk2eHVsOEk0ZFdRaVJYWEJfb1ZJdXFhb1ctNmdDZlZERk4yWDI2YWVKVDNsVTVRV1Z2QVZUdzJIZVRfTHJyQjlVZGFpR3hiWUYyYWd1aDhtQjctckVxcV9OVUdYd1RJUEVpVTltcGstUWlTWXBINUQzRmRzajJmaG9BdEhDYlVadDJ1aF95QjFOVWNPTHc?oc=5)
+
+`Thu, 14 May 2026 09:31:09 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxOT053TTk5dFNCZ0dSRk5VOUpQNDY2bEw3V0ViakZGaGNVZ2VpVW01UHVOekxGdFRRQUk2eHVsOEk0ZFdRaVJYWEJfb1ZJdXFhb1ctNmdDZlZERk4yWDI2YWVKVDNsVTVRV1Z2QVZUdzJIZVRfTHJyQjlVZGFpR3hiWUYyYWd1aDhtQjctckVxcV9OVUdYd1RJUEVpVTltcGstUWlTWXBINUQzRmRzajJmaG9BdEhDYlVadDJ1aF95QjFOVWNPTHc?oc=5" target="_blank">Le gouvernement face au casse-tête des allègements de charges patronales</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
