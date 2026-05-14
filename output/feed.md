@@ -1,7 +1,7 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Wed, 13 May 2026 18:52:06 +0000`
-> 96 articles (30 derniers jours)
+> Derniere mise a jour : `Thu, 14 May 2026 08:21:22 +0000`
+> 94 articles (30 derniers jours)
 
 ---
 
@@ -754,21 +754,5 @@
 `Tue, 14 Apr 2026 17:24:31 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRm1WbHlsa3ZvNFlDd0FlM3IwbHF4LUNUek1IeUsxbW5zWll4WXhPVXpKa2VKcE5vQzlnYjFlRGk1cGJKcDN0LXNrRUxTSmw3RFl6cjRqTFpUeVRRazM0bzN3QmpGN1hMTnVhV3hTakhBRWh5dnpabmZLY0dtVnRJeW9Nalk3U1k5dG9MZXpESjZmcnhBNDd1SHNGMzk5N2tudmJjaVdEakxMSVoyY1p1TXh3SFJJTGxSdHBDNnlQN2tPc2J3ckpnSVNiREk4bXFO?oc=5" target="_blank">Prix des carburants : le gouvernement brandit à nouveau le plafonnement des marges</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Loi de simplification : ces mesures qui doivent faciliter la vie des entreprises - Les Echos](https://news.google.com/rss/articles/CBMi1AFBVV95cUxORkswUzB6ZXM2bk0teTJHbHNYYUVHM3dFMXE1WV9tUXB1UWJZU0RTMGpCWUd2ZWh2TlZ4RWsyM0swLTVwZEtQVEFtX2RXemdFTi1pYzd4Rzl5V0pTbEt1eFZUS2Q1blNWS01iWGJPT1JGQ1BlRERTa3lWZTBaVWtTWjhZYlU4elJ3cDZXaVVOcjZyZUY1T0dZUmJjTVAwS1lVS3NaVks2Y1VpOUh2TTJzU0xhUjc2Y3VKUktiSFpBaUlraUZDUEk4LXVYQXRzNC1WM0xOQg?oc=5)
-
-`Tue, 14 Apr 2026 04:15:08 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi1AFBVV95cUxORkswUzB6ZXM2bk0teTJHbHNYYUVHM3dFMXE1WV9tUXB1UWJZU0RTMGpCWUd2ZWh2TlZ4RWsyM0swLTVwZEtQVEFtX2RXemdFTi1pYzd4Rzl5V0pTbEt1eFZUS2Q1blNWS01iWGJPT1JGQ1BlRERTa3lWZTBaVWtTWjhZYlU4elJ3cDZXaVVOcjZyZUY1T0dZUmJjTVAwS1lVS3NaVks2Y1VpOUh2TTJzU0xhUjc2Y3VKUktiSFpBaUlraUZDUEk4LXVYQXRzNC1WM0xOQg?oc=5" target="_blank">Loi de simplification : ces mesures qui doivent faciliter la vie des entreprises</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [« Parfois il s'agit du plus gros employeur d'une ville moyenne » : les défaillances d'entreprises montent encore et s'approchent de la cote d'alerte - Les Echos](https://news.google.com/rss/articles/CBMiowJBVV95cUxPdFg4NU5yVjBadHUzZGV0TDZNSzV3aUJZNWZLbjVVLWZJbFVSMTZHaFBSdThvUkFObjN1anNjTWZTMjVxZlNiUVlHSGlkU2N6RjZCeTJ1QkUzRjFmQlpnOFFUVkpjWTlHUG53VFdOSUgxV2ZoTmdVdWJNbzg1WnByRExvQXhGT3VvTzlDVzA2MkgzRF9BZVd6aHdSZl9qczhqQjZPdjRfakhBT0UtTG85RVl4a2pNWkEwZVV5d21oRXI4cldzMXRMWldPRE9vck8tUXVlUUdReEI4LVE5Ul81bk9oS1lRdEhVdEdzd0VxMnJOWDczY2NrRW52dFJab1RfRG9iOE5xd3NNZW1XMjNwbEdBMmxiaGlsSWZ0cnNjaVFVWWM?oc=5)
-
-`Tue, 14 Apr 2026 04:00:22 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiowJBVV95cUxPdFg4NU5yVjBadHUzZGV0TDZNSzV3aUJZNWZLbjVVLWZJbFVSMTZHaFBSdThvUkFObjN1anNjTWZTMjVxZlNiUVlHSGlkU2N6RjZCeTJ1QkUzRjFmQlpnOFFUVkpjWTlHUG53VFdOSUgxV2ZoTmdVdWJNbzg1WnByRExvQXhGT3VvTzlDVzA2MkgzRF9BZVd6aHdSZl9qczhqQjZPdjRfakhBT0UtTG85RVl4a2pNWkEwZVV5d21oRXI4cldzMXRMWldPRE9vck8tUXVlUUdReEI4LVE5Ul81bk9oS1lRdEhVdEdzd0VxMnJOWDczY2NrRW52dFJab1RfRG9iOE5xd3NNZW1XMjNwbEdBMmxiaGlsSWZ0cnNjaVFVWWM?oc=5" target="_blank">« Parfois il s'agit du plus gros employeur d'une ville moyenne » : les défaillances d'entreprises montent encore et s'approchent de la cote d'alerte</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
