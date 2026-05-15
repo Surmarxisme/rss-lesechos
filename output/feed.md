@@ -1,7 +1,7 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Fri, 15 May 2026 13:46:59 +0000`
-> 92 articles (30 derniers jours)
+> Derniere mise a jour : `Fri, 15 May 2026 18:16:06 +0000`
+> 89 articles (30 derniers jours)
 
 ---
 
@@ -714,29 +714,5 @@
 `Thu, 16 Apr 2026 04:05:09 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi7gFBVV95cUxNTjc3ZTU4d282eVZsNXJYT2Z4bFVheGp4TEZIWlpyc2pTTmh5d1JBX054YkdzMUFwcnhTZnRWaDVxYUNWeDM1cWlyZ0o0Nm4yVUdoV2tHQ1FSNm8zSEJ0Zmhqc2R0MUgxTVplVXdyYlRSSm93cWRGUHdIcXJRc3FlR3V2SHY5V2JIZG9seXVzMTItU0c4c0hnX2EwXzFHRFhfNE9OVXZnRmJNN284SUpDUkFIZW00YmlOdllydGNoanJVdV9QVjdGYjVoN2FXMEdhcXVrSnNMcW0xbWRZSG9ZVWt1YlQxS3NIRk9BMnNB?oc=5" target="_blank">Allocation de solidarité unifiée : pas encore présenté, le projet du gouvernement attaqué de toutes parts</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [VIDEO - Plafonnement des marges : une solution face à la hausse du prix des carburants ? - Les Echos](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSHVNRndSdU1pdENqRUcxYmlVUE9ZX0QyZkVrRVlPUU9QZGJkZmtieDRtVzA1Q2xuUlRYMV95X1pIb1dYdkp1WVhkSXFrLWhjcHF2dzQ4LVBONXRqSUoxbUR2a3M2Nmx1dTBQeE5rOVdXS0daWGxkeEpEVHlyckZFVlRtdkgtaEZvQzFGcXFyQWxHWmV5NGdQSklHR0pTbHFuUDF0TW9uNjU0b1ViNkk1VGptQjY4cjZSOXpGb0NlX2xkdHNZZUltRW1JNXBFMElTTmZF?oc=5)
-
-`Wed, 15 Apr 2026 14:28:40 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSHVNRndSdU1pdENqRUcxYmlVUE9ZX0QyZkVrRVlPUU9QZGJkZmtieDRtVzA1Q2xuUlRYMV95X1pIb1dYdkp1WVhkSXFrLWhjcHF2dzQ4LVBONXRqSUoxbUR2a3M2Nmx1dTBQeE5rOVdXS0daWGxkeEpEVHlyckZFVlRtdkgtaEZvQzFGcXFyQWxHWmV5NGdQSklHR0pTbHFuUDF0TW9uNjU0b1ViNkk1VGptQjY4cjZSOXpGb0NlX2xkdHNZZUltRW1JNXBFMElTTmZF?oc=5" target="_blank">VIDEO - Plafonnement des marges : une solution face à la hausse du prix des carburants ?</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Présidentielle 2027 : comment le Medef se prépare à être « un acteur central du débat » - Les Echos](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbml4VmNqY2VkZTlnYldaaXhqQzg2aHh5RUNEZVJZWU8tQWQwRm10VXk3MG1FT2hsQks0M2UxaTdkVjQxV1NkUDYxQVhMUVJ4LU1NWFBxNmVyNEJSU3k5WU1kMlBweFFTenpBamVZVXR4NWVFT0d3b2hvZE41T21xbHdGZmdqYUYtVi15bWV5allFQ2pkOUdzYUw5WHdaRHI5YlI2TFV1Z0FzS05JTG5WTWtBUC1IbldWZTdDbklJelIyMS1pUW53VzVSRFpLV1pBWGc?oc=5)
-
-`Wed, 15 Apr 2026 16:51:22 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbml4VmNqY2VkZTlnYldaaXhqQzg2aHh5RUNEZVJZWU8tQWQwRm10VXk3MG1FT2hsQks0M2UxaTdkVjQxV1NkUDYxQVhMUVJ4LU1NWFBxNmVyNEJSU3k5WU1kMlBweFFTenpBamVZVXR4NWVFT0d3b2hvZE41T21xbHdGZmdqYUYtVi15bWV5allFQ2pkOUdzYUw5WHdaRHI5YlI2TFV1Z0FzS05JTG5WTWtBUC1IbldWZTdDbklJelIyMS1pUW53VzVSRFpLV1pBWGc?oc=5" target="_blank">Présidentielle 2027 : comment le Medef se prépare à être « un acteur central du débat »</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Se priver de viande, de chauffage ou de vêtements neufs : ces Français contraints de tailler dans leurs dépenses courantes - Les Echos](https://news.google.com/rss/articles/CBMiiwJBVV95cUxOQ3psZFVsWVZtQldDNTYzZGFXVlQxUjY3WkRrZl83aDA5T2JLRzVGOXBNZXhWV1J4d2IwWERwU2w3TlA5b2Z0WFJoVlc4d3V2Z0dlZm8wQTFxYkNSRmFCMEFEOUM3eEZLeW5zZDlPd0Fxdk5xemxVamQ2WnpvSVZIN3lBVXpSc29Yd0hLdVlabFdVZTFQaXNidU9TdVpsR0pSR3hudDM4Mi1iZkRZYXdYZ2hzb2NCZDFrMEh0bEh1T0tCczJOOW5fRWpRMDhZeVh6M2V2eXUxeFFLcXF1X01VNDZWbndMa1N3ZnVUQkZsTXhNUHJzN1B0NlMwenRwTk9wZk1kX2Jac0dnTnM?oc=5)
-
-`Wed, 15 Apr 2026 15:00:40 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiiwJBVV95cUxOQ3psZFVsWVZtQldDNTYzZGFXVlQxUjY3WkRrZl83aDA5T2JLRzVGOXBNZXhWV1J4d2IwWERwU2w3TlA5b2Z0WFJoVlc4d3V2Z0dlZm8wQTFxYkNSRmFCMEFEOUM3eEZLeW5zZDlPd0Fxdk5xemxVamQ2WnpvSVZIN3lBVXpSc29Yd0hLdVlabFdVZTFQaXNidU9TdVpsR0pSR3hudDM4Mi1iZkRZYXdYZ2hzb2NCZDFrMEh0bEh1T0tCczJOOW5fRWpRMDhZeVh6M2V2eXUxeFFLcXF1X01VNDZWbndMa1N3ZnVUQkZsTXhNUHJzN1B0NlMwenRwTk9wZk1kX2Jac0dnTnM?oc=5" target="_blank">Se priver de viande, de chauffage ou de vêtements neufs : ces Français contraints de tailler dans leurs dépenses courantes</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
