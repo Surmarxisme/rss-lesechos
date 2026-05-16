@@ -1,7 +1,7 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Fri, 15 May 2026 18:16:06 +0000`
-> 89 articles (30 derniers jours)
+> Derniere mise a jour : `Sat, 16 May 2026 10:19:13 +0000`
+> 88 articles (30 derniers jours)
 
 ---
 
@@ -706,13 +706,5 @@
 `Thu, 16 Apr 2026 17:22:07 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZ0lGT0FCM1h0VjBoQkVMXzJzM1NHVDV2M1Z1UHMxWXpLY29yNWktNXpjeFdra25oYjJVTnN0VVNHeERHSGVvcGtGYmlrNHpMTXVQUHp2clZWaFJNVHh0UmJwcjl2MHJVYlBkTjREWjJOVDVSX05tX1BZNjdOejJKVHZoVEk5VUt2SlFEb0JKWGg5S1ZDN3RFYTR2ektzSk5xVTIxdHNZQzZnQ2paZDRqdzBoWEszdHVNZDQ0?oc=5" target="_blank">La lutte contre le travail au noir jugée « insuffisamment efficace »</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Allocation de solidarité unifiée : pas encore présenté, le projet du gouvernement attaqué de toutes parts - Les Echos](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNTjc3ZTU4d282eVZsNXJYT2Z4bFVheGp4TEZIWlpyc2pTTmh5d1JBX054YkdzMUFwcnhTZnRWaDVxYUNWeDM1cWlyZ0o0Nm4yVUdoV2tHQ1FSNm8zSEJ0Zmhqc2R0MUgxTVplVXdyYlRSSm93cWRGUHdIcXJRc3FlR3V2SHY5V2JIZG9seXVzMTItU0c4c0hnX2EwXzFHRFhfNE9OVXZnRmJNN284SUpDUkFIZW00YmlOdllydGNoanJVdV9QVjdGYjVoN2FXMEdhcXVrSnNMcW0xbWRZSG9ZVWt1YlQxS3NIRk9BMnNB?oc=5)
-
-`Thu, 16 Apr 2026 04:05:09 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi7gFBVV95cUxNTjc3ZTU4d282eVZsNXJYT2Z4bFVheGp4TEZIWlpyc2pTTmh5d1JBX054YkdzMUFwcnhTZnRWaDVxYUNWeDM1cWlyZ0o0Nm4yVUdoV2tHQ1FSNm8zSEJ0Zmhqc2R0MUgxTVplVXdyYlRSSm93cWRGUHdIcXJRc3FlR3V2SHY5V2JIZG9seXVzMTItU0c4c0hnX2EwXzFHRFhfNE9OVXZnRmJNN284SUpDUkFIZW00YmlOdllydGNoanJVdV9QVjdGYjVoN2FXMEdhcXVrSnNMcW0xbWRZSG9ZVWt1YlQxS3NIRk9BMnNB?oc=5" target="_blank">Allocation de solidarité unifiée : pas encore présenté, le projet du gouvernement attaqué de toutes parts</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
