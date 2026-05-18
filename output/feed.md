@@ -1,7 +1,31 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Sun, 17 May 2026 10:24:38 +0000`
+> Derniere mise a jour : `Mon, 18 May 2026 09:32:19 +0000`
 > 84 articles (30 derniers jours)
+
+---
+
+### [Pour Marylise Léon (CFDT), il est « impératif de rouvrir des négociations salariales » - Les Echos](https://news.google.com/rss/articles/CBMizwFBVV95cUxPNEZ5NGVjLVI2enRiSlM0cGdTZjY1VHJiajFYa0pxa25YMVB4bUZiU0FQX080anExS1RBRk5TMDhTbXhxbm9VRGVSNU9RdTB4anU1Rk4xRUJ2OHNYXzB6QWhNMmc2LUdoQXJzNGFLVjJoazFuc0l4bktaakhKZUhzNnR4NVZZVFMzQ1FLMXZJVnJNUjJsSDhvZEZyVUNjalZhS3VtTjRFdHdpdXpVNjg2UGVabGs3TWRRcW83TkRaVDRIMWk4d1EtSTFYWjktT2s?oc=5)
+
+`Sun, 17 May 2026 12:30:21 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMizwFBVV95cUxPNEZ5NGVjLVI2enRiSlM0cGdTZjY1VHJiajFYa0pxa25YMVB4bUZiU0FQX080anExS1RBRk5TMDhTbXhxbm9VRGVSNU9RdTB4anU1Rk4xRUJ2OHNYXzB6QWhNMmc2LUdoQXJzNGFLVjJoazFuc0l4bktaakhKZUhzNnR4NVZZVFMzQ1FLMXZJVnJNUjJsSDhvZEZyVUNjalZhS3VtTjRFdHdpdXpVNjg2UGVabGs3TWRRcW83TkRaVDRIMWk4d1EtSTFYWjktT2s?oc=5" target="_blank">Pour Marylise Léon (CFDT), il est « impératif de rouvrir des négociations salariales »</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [« Une 'double peine' pour les entreprises et donc pour l'emploi » : le patronat fait monter la pression sur les allègements de charges - Les Echos](https://news.google.com/rss/articles/CBMijAJBVV95cUxPTHVKcjdqUER4UUEwd0gwMGZLekFLc0dDSFVuVXZlYWxUTzRRUlhPOVpVYUNERTQ0dXNCQUg0UENOSEZ3RnlZVE5GeDdRcEs1aDcwaHlnem1Na0JtOWE3NE5GbTFfUFJUakh0czFYMWpjcHhCZU5wNTZOTjltOGM2QThNcEU5V0xFblgwQkk1QUg5elNMQWlQYUZTUUNRVDRaZDZJOUVCNDByc2Q5YndqWTdTcmpPSDlyZjIwUm9hUzFTYWR6ZEZ2UzF5UW5LWHc2ZjJ6Smc5d1VzOHVseXpxZkFxT0VOSzYtMm8td2c1c1N3WFlmYUVHU19rYXJic2NTd1JYY3VYVFMzel9Y?oc=5)
+
+`Sun, 17 May 2026 16:35:10 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMijAJBVV95cUxPTHVKcjdqUER4UUEwd0gwMGZLekFLc0dDSFVuVXZlYWxUTzRRUlhPOVpVYUNERTQ0dXNCQUg0UENOSEZ3RnlZVE5GeDdRcEs1aDcwaHlnem1Na0JtOWE3NE5GbTFfUFJUakh0czFYMWpjcHhCZU5wNTZOTjltOGM2QThNcEU5V0xFblgwQkk1QUg5elNMQWlQYUZTUUNRVDRaZDZJOUVCNDByc2Q5YndqWTdTcmpPSDlyZjIwUm9hUzFTYWR6ZEZ2UzF5UW5LWHc2ZjJ6Smc5d1VzOHVseXpxZkFxT0VOSzYtMm8td2c1c1N3WFlmYUVHU19rYXJic2NTd1JYY3VYVFMzel9Y?oc=5" target="_blank">« Une 'double peine' pour les entreprises et donc pour l'emploi » : le patronat fait monter la pression sur les allègements de charges</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Emploi : de plus en plus de salariés au forfait-jours - Les Echos](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaEo0Zk83MjRfdG5HY3Y2TnZuZjRfQzZZTGMyYWNSUWhzLWJ0NDV4VDNiWm5nR05GVkJFRzQyT2pwenZEOFEyRDRKUHdmVldPMjVqSWdYTlhfaGNyd1Z4YjQ2Y29rZXdURWNTU2ladXlrVi1XYk8xTG04eFZ2b3dVaERHOVNEZW1rSTI4WEtEQ3pnOC16MTlZRmtUbmxyQWlCYV9UMlhoOVBRZw?oc=5)
+
+`Mon, 18 May 2026 09:00:49 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaEo0Zk83MjRfdG5HY3Y2TnZuZjRfQzZZTGMyYWNSUWhzLWJ0NDV4VDNiWm5nR05GVkJFRzQyT2pwenZEOFEyRDRKUHdmVldPMjVqSWdYTlhfaGNyd1Z4YjQ2Y29rZXdURWNTU2ladXlrVi1XYk8xTG04eFZ2b3dVaERHOVNEZW1rSTI4WEtEQ3pnOC16MTlZRmtUbmxyQWlCYV9UMlhoOVBRZw?oc=5" target="_blank">Emploi : de plus en plus de salariés au forfait-jours</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -650,29 +674,5 @@
 `Mon, 20 Apr 2026 04:40:09 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZmJmbi05LThqLVNsQVRaUXFLblk1T2pjOWhvUGx5Z2hJZzlzZ2lxQVJZdzRBZlZzRm54R2RlVWZlLTQycWJLLWtHcllqbGhUdzdPU01qcmpUQ3ZGdWYxbWkyRExCR0xIOHdSUmlxX2dnWlB5dnZMSVY2X3RPbFY1Y3ltbXZVcEZYTVR6YjlzdkFFOWRwUHpXcXd5R0s0cUE3bmN6VGR5NmljeGNBWld4ZDFhSHlsSGhCdkpiejI5aUtqUjlKdnhEYWhQOW9FWVJn?oc=5" target="_blank">Comment la Sécurité sociale trouve de l'oxygène, malgré l'accumulation des déficits</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [VIDEO - Pourquoi le travail ne paie plus - Les Echos](https://news.google.com/rss/articles/CBMimAFBVV95cUxPWUVpNEhVelVIWDZ2dlZuQUZOWWdJY2FmZHg5engyU3lSN21MeGt3Y0dPNE05aDI2UkViQlpFZl8xSVpNZ3dRRjgzWlp0NnJtb3lsMzlwa1NHUTI3VzhHdkNfai1tQ3JKUXB6T0VPbW9xcEpRdW10YVNhWE9XaXFiVmVhamVzSGZ4NXF3WlljXy1GMGFsbllUVQ?oc=5)
-
-`Sat, 18 Apr 2026 08:05:08 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMimAFBVV95cUxPWUVpNEhVelVIWDZ2dlZuQUZOWWdJY2FmZHg5engyU3lSN21MeGt3Y0dPNE05aDI2UkViQlpFZl8xSVpNZ3dRRjgzWlp0NnJtb3lsMzlwa1NHUTI3VzhHdkNfai1tQ3JKUXB6T0VPbW9xcEpRdW10YVNhWE9XaXFiVmVhamVzSGZ4NXF3WlljXy1GMGFsbllUVQ?oc=5" target="_blank">VIDEO - Pourquoi le travail ne paie plus</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [EXCLUSIF - Budget : Bercy devrait annoncer 4 milliards d'euros d'économies - Les Echos](https://news.google.com/rss/articles/CBMizgFBVV95cUxQTzJvaElWd3BRNFdqdmNaS1dnMjBzTThSTlJBWlQtclZBR2RoNjUyR3pqZ0h2VkNoSEFmc09FcFFyNGxmbllYUHUwRk1sTFBIVVI1eFNldm1WcTVkYVg2Tk1YdGRKRjF2UVVybHpZcGYzYlBGSkhCM0JnQnhFd3p1dTY4ZFdVY3ctandQTWJjSUdZSWRrbG9lWnlnUFdaT1B4VTlXd1ZhOTJWY0F2eXdTUHlVMC1hNHpvZ3gxeTBaYTNFTEpNeDFJRmdfdVgxdw?oc=5)
-
-`Sat, 18 Apr 2026 06:05:09 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMizgFBVV95cUxQTzJvaElWd3BRNFdqdmNaS1dnMjBzTThSTlJBWlQtclZBR2RoNjUyR3pqZ0h2VkNoSEFmc09FcFFyNGxmbllYUHUwRk1sTFBIVVI1eFNldm1WcTVkYVg2Tk1YdGRKRjF2UVVybHpZcGYzYlBGSkhCM0JnQnhFd3p1dTY4ZFdVY3ctandQTWJjSUdZSWRrbG9lWnlnUFdaT1B4VTlXd1ZhOTJWY0F2eXdTUHlVMC1hNHpvZ3gxeTBaYTNFTEpNeDFJRmdfdVgxdw?oc=5" target="_blank">EXCLUSIF - Budget : Bercy devrait annoncer 4 milliards d'euros d'économies</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Travail le 1er-Mai : Lecornu trouve un compromis pour les boulangers et fleuristes indépendants - Les Echos](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPYzUwYjBBd3UzVXplTVhmQTlHN2tiQUE0Z0p4T3draU1pdE1KRk10ZkhWX2FwZVE0RGtsYnZMbkJwV1NsblRZZVFjLUFZV015SzZhSV93b0xDMGNHb0VPRWcwTlEwVG1xX0tJaWRNLVRPanAtNXFUc1JHWnlKZ0JLVWVmdlRVZDlveXY5YkdqWjRuWGZqX3B5S1BIZG4wM2hRdjN3UlhpM2dVSlJGaHNQeUtqSGpNMG94WUJNLVBITnd3NDl6enJEcndiZ0hxWDhuay01bHkydzl2ckNoLS13YXl3?oc=5)
-
-`Fri, 17 Apr 2026 13:30:52 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi4gFBVV95cUxPYzUwYjBBd3UzVXplTVhmQTlHN2tiQUE0Z0p4T3draU1pdE1KRk10ZkhWX2FwZVE0RGtsYnZMbkJwV1NsblRZZVFjLUFZV015SzZhSV93b0xDMGNHb0VPRWcwTlEwVG1xX0tJaWRNLVRPanAtNXFUc1JHWnlKZ0JLVWVmdlRVZDlveXY5YkdqWjRuWGZqX3B5S1BIZG4wM2hRdjN3UlhpM2dVSlJGaHNQeUtqSGpNMG94WUJNLVBITnd3NDl6enJEcndiZ0hxWDhuay01bHkydzl2ckNoLS13YXl3?oc=5" target="_blank">Travail le 1er-Mai : Lecornu trouve un compromis pour les boulangers et fleuristes indépendants</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
