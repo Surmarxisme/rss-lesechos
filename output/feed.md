@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Tue, 19 May 2026 14:41:14 +0000`
+> Derniere mise a jour : `Tue, 19 May 2026 18:51:06 +0000`
 > 87 articles (30 derniers jours)
+
+---
+
+### [Le télétravail permet des gains mesurés mais réels en productivité, selon l'Insee - Les Echos](https://news.google.com/rss/articles/CBMisAFBVV95cUxQY3dacDBNelFqVjV6STdVSVctWEF0MEMwRmZJOHBsUTJRSUt1V29vQlNFUEh6ODZOVDEyVkVBQ2ZPX19BZGx4QmVCQXMyZDlQR0V5YmxDeWZUalZsd0VkRHBkb19LcjFQUWV4SkdkMWRTeHVCMDRBSW9GbDhhY20zcnNFUFU4dC1DY1ZMUURTTHBaU0hOQUtfandBYTZhWFRQQUE2TERIZnI2ejZfeEdBWQ?oc=5)
+
+`Tue, 19 May 2026 15:18:45 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxQY3dacDBNelFqVjV6STdVSVctWEF0MEMwRmZJOHBsUTJRSUt1V29vQlNFUEh6ODZOVDEyVkVBQ2ZPX19BZGx4QmVCQXMyZDlQR0V5YmxDeWZUalZsd0VkRHBkb19LcjFQUWV4SkdkMWRTeHVCMDRBSW9GbDhhY20zcnNFUFU4dC1DY1ZMUURTTHBaU0hOQUtfandBYTZhWFRQQUE2TERIZnI2ejZfeEdBWQ?oc=5" target="_blank">Le télétravail permet des gains mesurés mais réels en productivité, selon l'Insee</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -682,14 +690,6 @@
 `Mon, 20 Apr 2026 09:36:10 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi8gFBVV95cUxNYTZkb29waHBYQUZHUUE5NW1VTDd2NnJrazRQMjg0V1htdFFHc3o5dzFLOWQ4MlU1WmFYYjZjNjlBR0tVWUVFLXROcEtZeFEtcnk4RHlMMkxDaXdNbkpCa2taRTAwSURBNm9TdnU4c3FGQ0d0ZzRXbDhILXp0aWJKY3ZNRklVcGxzYkwxRnViUHM5bjhvR3d3R1d1U1lPSl9OM2tQb3BzcFdHbXBEZUhyX2Zjc3RSejBfampPZmxKRm5EMlVfUy1JaWxLOHN2Y2gwWV9DTzB4bXBiNE5fMjNuVzROdGQtM1B0WTFVaUJNNy1wZw?oc=5" target="_blank">Travail le 1er-Mai : ce que prévoit le nouveau projet de loi pour les boulangers et fleuristes indépendants</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Force ouvrière : un 26e congrès pour sceller le rassemblement de l'organisation - Les Echos](https://news.google.com/rss/articles/CBMiywFBVV95cUxQMEFhTDkyd0dJcW5GSEpza1NFWXFmM1JRQXdGb1NPN0lQci1wNzJRV3c0eHFVM1ZrX3QwdkdCQlRET200ekVadG9rYTItWHMwbG9CcUhXbnpLWnlKZ0xNMHRwZmtldWYwV1ZLX3JsZGVVY293bE9SbUcyaWRKamJocy04RklmMGdaOTMzaXhkUGFTSHVEVDR2ck9QZ1lvMDZFb2N6ZjB4S2p4Y1pmSGFsTFAxcF84UE53V2hXdlZWZS1zYjVPVEQybEYyOA?oc=5)
-
-`Sun, 19 Apr 2026 16:13:13 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiywFBVV95cUxQMEFhTDkyd0dJcW5GSEpza1NFWXFmM1JRQXdGb1NPN0lQci1wNzJRV3c0eHFVM1ZrX3QwdkdCQlRET200ekVadG9rYTItWHMwbG9CcUhXbnpLWnlKZ0xNMHRwZmtldWYwV1ZLX3JsZGVVY293bE9SbUcyaWRKamJocy04RklmMGdaOTMzaXhkUGFTSHVEVDR2ck9QZ1lvMDZFb2N6ZjB4S2p4Y1pmSGFsTFAxcF84UE53V2hXdlZWZS1zYjVPVEQybEYyOA?oc=5" target="_blank">Force ouvrière : un 26e congrès pour sceller le rassemblement de l'organisation</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
