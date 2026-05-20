@@ -1,7 +1,7 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Tue, 19 May 2026 18:51:06 +0000`
-> 87 articles (30 derniers jours)
+> Derniere mise a jour : `Wed, 20 May 2026 08:47:34 +0000`
+> 86 articles (30 derniers jours)
 
 ---
 
@@ -690,13 +690,5 @@
 `Mon, 20 Apr 2026 09:36:10 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi8gFBVV95cUxNYTZkb29waHBYQUZHUUE5NW1VTDd2NnJrazRQMjg0V1htdFFHc3o5dzFLOWQ4MlU1WmFYYjZjNjlBR0tVWUVFLXROcEtZeFEtcnk4RHlMMkxDaXdNbkpCa2taRTAwSURBNm9TdnU4c3FGQ0d0ZzRXbDhILXp0aWJKY3ZNRklVcGxzYkwxRnViUHM5bjhvR3d3R1d1U1lPSl9OM2tQb3BzcFdHbXBEZUhyX2Zjc3RSejBfampPZmxKRm5EMlVfUy1JaWxLOHN2Y2gwWV9DTzB4bXBiNE5fMjNuVzROdGQtM1B0WTFVaUJNNy1wZw?oc=5" target="_blank">Travail le 1er-Mai : ce que prévoit le nouveau projet de loi pour les boulangers et fleuristes indépendants</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Comment la Sécurité sociale trouve de l'oxygène, malgré l'accumulation des déficits - Les Echos](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZmJmbi05LThqLVNsQVRaUXFLblk1T2pjOWhvUGx5Z2hJZzlzZ2lxQVJZdzRBZlZzRm54R2RlVWZlLTQycWJLLWtHcllqbGhUdzdPU01qcmpUQ3ZGdWYxbWkyRExCR0xIOHdSUmlxX2dnWlB5dnZMSVY2X3RPbFY1Y3ltbXZVcEZYTVR6YjlzdkFFOWRwUHpXcXd5R0s0cUE3bmN6VGR5NmljeGNBWld4ZDFhSHlsSGhCdkpiejI5aUtqUjlKdnhEYWhQOW9FWVJn?oc=5)
-
-`Mon, 20 Apr 2026 04:40:09 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZmJmbi05LThqLVNsQVRaUXFLblk1T2pjOWhvUGx5Z2hJZzlzZ2lxQVJZdzRBZlZzRm54R2RlVWZlLTQycWJLLWtHcllqbGhUdzdPU01qcmpUQ3ZGdWYxbWkyRExCR0xIOHdSUmlxX2dnWlB5dnZMSVY2X3RPbFY1Y3ltbXZVcEZYTVR6YjlzdkFFOWRwUHpXcXd5R0s0cUE3bmN6VGR5NmljeGNBWld4ZDFhSHlsSGhCdkpiejI5aUtqUjlKdnhEYWhQOW9FWVJn?oc=5" target="_blank">Comment la Sécurité sociale trouve de l'oxygène, malgré l'accumulation des déficits</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
