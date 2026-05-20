@@ -1,7 +1,23 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Wed, 20 May 2026 14:41:33 +0000`
-> 86 articles (30 derniers jours)
+> Derniere mise a jour : `Wed, 20 May 2026 19:11:50 +0000`
+> 88 articles (30 derniers jours)
+
+---
+
+### [La militante associative Claire Thoury élue présidente du Cese - Les Echos](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbWtDclVtNU51N0dMazZ2aGRTVVlNRS13YUdsSUtoVl9NemwwbWw4SGZib0dxcHhqekJTa011akUtS2ZFck5SV0k0ZWRtNTUwcV91REZWZEItTWtLX2J3bU1BVnNTVjd5X0xsNjQ4MlQyLU5Xcm9IN1BjTjJTMjlTcUV5V2ZEeVZwM2gxSFBnNkowZ2lySDQ0NW1pR09FSHZjTWhTMnk4dktMTlBfRzE1d0VQcU5pVDFF?oc=5)
+
+`Wed, 20 May 2026 16:11:20 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbWtDclVtNU51N0dMazZ2aGRTVVlNRS13YUdsSUtoVl9NemwwbWw4SGZib0dxcHhqekJTa011akUtS2ZFck5SV0k0ZWRtNTUwcV91REZWZEItTWtLX2J3bU1BVnNTVjd5X0xsNjQ4MlQyLU5Xcm9IN1BjTjJTMjlTcUV5V2ZEeVZwM2gxSFBnNkowZ2lySDQ0NW1pR09FSHZjTWhTMnk4dktMTlBfRzE1d0VQcU5pVDFF?oc=5" target="_blank">La militante associative Claire Thoury élue présidente du Cese</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Avec la hausse du SMIC, le gouvernement face au regain des revendications salariales - Les Echos](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSi1SVDctWldUVUVYOURnMVA3Z0VmSmpYdVA2NDJoN3RuTVdtdGJGZk4zNTBCcWQ4c1FvaEZSS08xUHZSa0dyOU1VWHU5S0pQa01VRURKVElTdGN5bjNuUWxGU3FIckJ3THNzLTBvSjA3bnNLazZnUTlFc1B3NTVGZWFXV01XTkd2Q3paald5Q1RnY3FHdVAwbl85QlExSnRSaXE2d296SmNVNWFkM0pTaUZrbktjM2M0dzFvTXlQc3prbHFmc29rMkcyV0Rrd3JyNFVOZA?oc=5)
+
+`Wed, 20 May 2026 15:55:34 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSi1SVDctWldUVUVYOURnMVA3Z0VmSmpYdVA2NDJoN3RuTVdtdGJGZk4zNTBCcWQ4c1FvaEZSS08xUHZSa0dyOU1VWHU5S0pQa01VRURKVElTdGN5bjNuUWxGU3FIckJ3THNzLTBvSjA3bnNLazZnUTlFc1B3NTVGZWFXV01XTkd2Q3paald5Q1RnY3FHdVAwbl85QlExSnRSaXE2d296SmNVNWFkM0pTaUZrbktjM2M0dzFvTXlQc3prbHFmc29rMkcyV0Rrd3JyNFVOZA?oc=5" target="_blank">Avec la hausse du SMIC, le gouvernement face au regain des revendications salariales</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
