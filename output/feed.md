@@ -1,7 +1,7 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Wed, 20 May 2026 08:47:34 +0000`
-> 86 articles (30 derniers jours)
+> Derniere mise a jour : `Wed, 20 May 2026 11:52:17 +0000`
+> 85 articles (30 derniers jours)
 
 ---
 
@@ -682,13 +682,5 @@
 `Tue, 21 Apr 2026 05:00:08 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMizAFBVV95cUxPT1Q0Yko0dS1neXNIWGVEOEZ6WmFfZ3N4NWhGdFRpRkpFRkYxV1lkVFRKZ3pFdVhKMHZWOXZvNXdQZDJXeG1oOHdPdHlnM29lMC1oT1dITU5fV0RnTEY4M3dycjhRcUlTWjV5ME4zU0JMTU9YTng5NmF4M0pNbVpLTi1TSjQ2czFFcG9nbTJONGRQRWIyWklBQ1B4MWJ6dE1ZNXRUNHpQRzdOYWtJMW1FTDBOQUhfTEQ1RkNoM2FpMUVBcjNveFZUWUZrU1Q?oc=5" target="_blank">Les délais de paiement menacés de dérapage par la guerre au Moyen-Orient</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Travail le 1er-Mai : ce que prévoit le nouveau projet de loi pour les boulangers et fleuristes indépendants - Les Echos](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNYTZkb29waHBYQUZHUUE5NW1VTDd2NnJrazRQMjg0V1htdFFHc3o5dzFLOWQ4MlU1WmFYYjZjNjlBR0tVWUVFLXROcEtZeFEtcnk4RHlMMkxDaXdNbkpCa2taRTAwSURBNm9TdnU4c3FGQ0d0ZzRXbDhILXp0aWJKY3ZNRklVcGxzYkwxRnViUHM5bjhvR3d3R1d1U1lPSl9OM2tQb3BzcFdHbXBEZUhyX2Zjc3RSejBfampPZmxKRm5EMlVfUy1JaWxLOHN2Y2gwWV9DTzB4bXBiNE5fMjNuVzROdGQtM1B0WTFVaUJNNy1wZw?oc=5)
-
-`Mon, 20 Apr 2026 09:36:10 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi8gFBVV95cUxNYTZkb29waHBYQUZHUUE5NW1VTDd2NnJrazRQMjg0V1htdFFHc3o5dzFLOWQ4MlU1WmFYYjZjNjlBR0tVWUVFLXROcEtZeFEtcnk4RHlMMkxDaXdNbkpCa2taRTAwSURBNm9TdnU4c3FGQ0d0ZzRXbDhILXp0aWJKY3ZNRklVcGxzYkwxRnViUHM5bjhvR3d3R1d1U1lPSl9OM2tQb3BzcFdHbXBEZUhyX2Zjc3RSejBfampPZmxKRm5EMlVfUy1JaWxLOHN2Y2gwWV9DTzB4bXBiNE5fMjNuVzROdGQtM1B0WTFVaUJNNy1wZw?oc=5" target="_blank">Travail le 1er-Mai : ce que prévoit le nouveau projet de loi pour les boulangers et fleuristes indépendants</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
