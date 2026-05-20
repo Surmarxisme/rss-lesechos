@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Wed, 20 May 2026 11:52:17 +0000`
-> 85 articles (30 derniers jours)
+> Derniere mise a jour : `Wed, 20 May 2026 14:41:33 +0000`
+> 86 articles (30 derniers jours)
+
+---
+
+### [Banque de France : le Parlement confirme la nomination d'Emmanuel Moulin comme futur gouverneur - Les Echos](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZHZFcWlZVFJwYmJTbENiT0M3Z0JMcVlOdVR0UUhQa0pqaDJxck1EaFAzcXF2NFcyR204ZUE4TVpkQ19JS0RCeVN1TGNvSGVJXzRzTGREVjRtRE44ellmMVlsa2c0bl9qNGsyaFJCZDItdWVGR3plRDJfNGp1RUtkOGZVQXVyWkg5d0djSlo0bnZTUmVobmgxaFhKRk5ESG50MGRJeWxEMjcwaFo4Wk1wRkFBSW9FM2xtdV9QNVRHQVFyS2lGYkhVUDQ4M3BnMGt5bEMtQk1zY2xZOVVqR3piZldaNExzbVBxZms3ckZR?oc=5)
+
+`Wed, 20 May 2026 11:58:05 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZHZFcWlZVFJwYmJTbENiT0M3Z0JMcVlOdVR0UUhQa0pqaDJxck1EaFAzcXF2NFcyR204ZUE4TVpkQ19JS0RCeVN1TGNvSGVJXzRzTGREVjRtRE44ellmMVlsa2c0bl9qNGsyaFJCZDItdWVGR3plRDJfNGp1RUtkOGZVQXVyWkg5d0djSlo0bnZTUmVobmgxaFhKRk5ESG50MGRJeWxEMjcwaFo4Wk1wRkFBSW9FM2xtdV9QNVRHQVFyS2lGYkhVUDQ4M3BnMGt5bEMtQk1zY2xZOVVqR3piZldaNExzbVBxZms3ckZR?oc=5" target="_blank">Banque de France : le Parlement confirme la nomination d'Emmanuel Moulin comme futur gouverneur</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
