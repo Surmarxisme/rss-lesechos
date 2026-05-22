@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Thu, 21 May 2026 18:51:03 +0000`
+> Derniere mise a jour : `Fri, 22 May 2026 08:43:33 +0000`
 > 91 articles (30 derniers jours)
+
+---
+
+### [Le gouvernement acte le gel des allègements de charges patronales pour 2026 - Les Echos](https://news.google.com/rss/articles/CBMiygFBVV95cUxNNDZGNGthd3VpazMwNGhGREQwNXI5R25KNGhrd25GSDhZS01aN3VhOGt1MU93S19lcHBUYm9wYUIxVXctekNxVVZkQ3lUaXBGQmJPZFNGMW1VVXZ1U1ZSYXUxRmdOYUtaZnFrRjRQTjJfa2hScnhtek9NUXoyOXprNjVwUDkzSlBTUWp0dWg3LWVJTjVYTFE3bFFpd19JWW9Mdkc0ODlQV3NGZ2w4VTE2MkZnUXRsTllLeTV3V0g3R3A5QnAxakxUZ3RB?oc=5)
+
+`Fri, 22 May 2026 08:10:51 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxNNDZGNGthd3VpazMwNGhGREQwNXI5R25KNGhrd25GSDhZS01aN3VhOGt1MU93S19lcHBUYm9wYUIxVXctekNxVVZkQ3lUaXBGQmJPZFNGMW1VVXZ1U1ZSYXUxRmdOYUtaZnFrRjRQTjJfa2hScnhtek9NUXoyOXprNjVwUDkzSlBTUWp0dWg3LWVJTjVYTFE3bFFpd19JWW9Mdkc0ODlQV3NGZ2w4VTE2MkZnUXRsTllLeTV3V0g3R3A5QnAxakxUZ3RB?oc=5" target="_blank">Le gouvernement acte le gel des allègements de charges patronales pour 2026</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -722,13 +730,5 @@
 `Wed, 22 Apr 2026 12:42:57 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNEh4alNLX21wYkZMci1aRklCTWhldFVOTVBPdW5QWkRJck1qbTBCRUt6eTRnc2UwMkRWcF9HbV9SaDBWVUZxR1RCS2tPc2kwaXRFamEwdmFCaGROb0d0VEdBQ2EtYm9CX0tBUUE5SHVXZU5MTVBOY1MybDFwZFNna1VqN2pTZkNXYWlyRjRSU0Q2emdPdWRMRF9vY1NqQWhqVkd5eGxCQTFMNkdaV0pJazdSanNjWlNYdFhLaWM2LWFuLWJqZDFrSTZFbGkzYnJKQ0RScFR3?oc=5" target="_blank">Budget 2026 : la France « sans marge de sécurité » avant même le conflit en Iran</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Budget 2027 : les ministères vont à nouveau devoir se serrer la ceinture - Les Echos](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbVNXd0dHRnpsMGZiaEREWmpwaEUzVWFxQl9VTHBvVTVEcmo3YkJCOE1rREg4X2xjb0twRU9ITXNya2xNYXZ0VncyM0ZEMlU3VHltLTNVRktHa3pmcWp1Mlo4NDF1Y3RoQWNHX1dySFFESFJLUkRXMUJUYjgwcmtrelNjZUpUWl9TanZOZzNaZElRUHZhQXlBb0Ezbld1c3VqT1BDaEpLRkVzR0puemZ4R1pKTm9MUmMxSzAzNzJ3ZmtCNThCWGthOXNRNWRXM2VJ?oc=5)
-
-`Wed, 22 Apr 2026 04:34:08 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbVNXd0dHRnpsMGZiaEREWmpwaEUzVWFxQl9VTHBvVTVEcmo3YkJCOE1rREg4X2xjb0twRU9ITXNya2xNYXZ0VncyM0ZEMlU3VHltLTNVRktHa3pmcWp1Mlo4NDF1Y3RoQWNHX1dySFFESFJLUkRXMUJUYjgwcmtrelNjZUpUWl9TanZOZzNaZElRUHZhQXlBb0Ezbld1c3VqT1BDaEpLRkVzR0puemZ4R1pKTm9MUmMxSzAzNzJ3ZmtCNThCWGthOXNRNWRXM2VJ?oc=5" target="_blank">Budget 2027 : les ministères vont à nouveau devoir se serrer la ceinture</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
