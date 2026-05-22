@@ -1,7 +1,7 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Fri, 22 May 2026 14:22:09 +0000`
-> 90 articles (30 derniers jours)
+> Derniere mise a jour : `Fri, 22 May 2026 18:26:53 +0000`
+> 88 articles (30 derniers jours)
 
 ---
 
@@ -706,21 +706,5 @@
 `Thu, 23 Apr 2026 05:55:08 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUzNhd2FKOWZMekdGMW9sOTZPT3RXTENEWkpKQVBzMzBDdmYwZnB0TUstT19fNWxwVVhYeWN4YXJrcHNxclF3Z2VuazZiNEJDWUdzSkFJSGxwQ0h2OFBRclYtOU5JNTF3RG9LZ3VWbGlXTk9xTTJMc0Z1SmcwbjFxZlNaTDZvNlo3b0twM2xrWEVQeTItSG41c1lCSHROQ2tuOGdDekRPYnBjU3VCeWtTREFwWnhHZDg4cVJRMjRwRTJaVjdRZ01uT25oTHY1OEZJNUE?oc=5" target="_blank">Lutte contre la fraude sociale : le Défenseur des droits demande plus de garde-fous</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Prix des carburants : quels sont les critères pour bénéficier de l'aide aux « grands rouleurs » ? - Les Echos](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPSEk4UnZMcVRIazQzOFc5OE1ESzMzanRkYTFEY29YM3g4WmcwVjhjX3J2R0tuR1ZtQ0dXSXlFamt2cFZFQ05fNWdrWDQ3TTdKMy1lRzBXLVc1R01POGlGLXNXYkxDMWRxaHRiX3Fkc2NkZ055end2aG1OeW45cHJzdlpHeDhhV1FHR0Y4LVRvZFdwT19uaDlaWDhqanlQblkyemk5RVhqSUNOMFJRcHlrZUx4MzJfT2lEZ1ZGTVlWM09jLXdqTVdJVW5DM3V5T3B2dWhOWTdOX0o4R2dieU5XcXpmR29wX1ph?oc=5)
-
-`Wed, 22 Apr 2026 15:37:40 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi6AFBVV95cUxPSEk4UnZMcVRIazQzOFc5OE1ESzMzanRkYTFEY29YM3g4WmcwVjhjX3J2R0tuR1ZtQ0dXSXlFamt2cFZFQ05fNWdrWDQ3TTdKMy1lRzBXLVc1R01POGlGLXNXYkxDMWRxaHRiX3Fkc2NkZ055end2aG1OeW45cHJzdlpHeDhhV1FHR0Y4LVRvZFdwT19uaDlaWDhqanlQblkyemk5RVhqSUNOMFJRcHlrZUx4MzJfT2lEZ1ZGTVlWM09jLXdqTVdJVW5DM3V5T3B2dWhOWTdOX0o4R2dieU5XcXpmR29wX1ph?oc=5" target="_blank">Prix des carburants : quels sont les critères pour bénéficier de l'aide aux « grands rouleurs » ?</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Les impôts expliquent l'essentiel du redressement du déficit en 2025 - Les Echos](https://news.google.com/rss/articles/CBMizAFBVV95cUxOYzloOXUtQTNCYUoxTW9jZ1ZvRTFsNjg4Y2l1dDJZZHdSc0tTNjZJd1EtbE1MRWZtaENaSElKMFVHc2hQcDVPX056Tjd2b3c5MVRkZ3VhVjZGRmJsdUdleFBYUjQzbGo0aDYzNjFLdWp5TDF1cFp2aV9xT0V6ZWRkNHhVNEVlVmJTWW1Lb0p1TmQ3X1NpdDNOXzR4ZGVvMmNGQVlIS3dfcGdBV1dESjIxdnhWajBiUkFmZ2tkbGxRVXNMU2pIdnRoNVlqSlM?oc=5)
-
-`Wed, 22 Apr 2026 15:27:21 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMizAFBVV95cUxOYzloOXUtQTNCYUoxTW9jZ1ZvRTFsNjg4Y2l1dDJZZHdSc0tTNjZJd1EtbE1MRWZtaENaSElKMFVHc2hQcDVPX056Tjd2b3c5MVRkZ3VhVjZGRmJsdUdleFBYUjQzbGo0aDYzNjFLdWp5TDF1cFp2aV9xT0V6ZWRkNHhVNEVlVmJTWW1Lb0p1TmQ3X1NpdDNOXzR4ZGVvMmNGQVlIS3dfcGdBV1dESjIxdnhWajBiUkFmZ2tkbGxRVXNMU2pIdnRoNVlqSlM?oc=5" target="_blank">Les impôts expliquent l'essentiel du redressement du déficit en 2025</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
