@@ -1,7 +1,7 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Fri, 22 May 2026 11:49:16 +0000`
-> 91 articles (30 derniers jours)
+> Derniere mise a jour : `Fri, 22 May 2026 14:22:09 +0000`
+> 90 articles (30 derniers jours)
 
 ---
 
@@ -722,13 +722,5 @@
 `Wed, 22 Apr 2026 15:27:21 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMizAFBVV95cUxOYzloOXUtQTNCYUoxTW9jZ1ZvRTFsNjg4Y2l1dDJZZHdSc0tTNjZJd1EtbE1MRWZtaENaSElKMFVHc2hQcDVPX056Tjd2b3c5MVRkZ3VhVjZGRmJsdUdleFBYUjQzbGo0aDYzNjFLdWp5TDF1cFp2aV9xT0V6ZWRkNHhVNEVlVmJTWW1Lb0p1TmQ3X1NpdDNOXzR4ZGVvMmNGQVlIS3dfcGdBV1dESjIxdnhWajBiUkFmZ2tkbGxRVXNMU2pIdnRoNVlqSlM?oc=5" target="_blank">Les impôts expliquent l'essentiel du redressement du déficit en 2025</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Budget 2026 : la France « sans marge de sécurité » avant même le conflit en Iran - Les Echos](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNEh4alNLX21wYkZMci1aRklCTWhldFVOTVBPdW5QWkRJck1qbTBCRUt6eTRnc2UwMkRWcF9HbV9SaDBWVUZxR1RCS2tPc2kwaXRFamEwdmFCaGROb0d0VEdBQ2EtYm9CX0tBUUE5SHVXZU5MTVBOY1MybDFwZFNna1VqN2pTZkNXYWlyRjRSU0Q2emdPdWRMRF9vY1NqQWhqVkd5eGxCQTFMNkdaV0pJazdSanNjWlNYdFhLaWM2LWFuLWJqZDFrSTZFbGkzYnJKQ0RScFR3?oc=5)
-
-`Wed, 22 Apr 2026 12:42:57 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNEh4alNLX21wYkZMci1aRklCTWhldFVOTVBPdW5QWkRJck1qbTBCRUt6eTRnc2UwMkRWcF9HbV9SaDBWVUZxR1RCS2tPc2kwaXRFamEwdmFCaGROb0d0VEdBQ2EtYm9CX0tBUUE5SHVXZU5MTVBOY1MybDFwZFNna1VqN2pTZkNXYWlyRjRSU0Q2emdPdWRMRF9vY1NqQWhqVkd5eGxCQTFMNkdaV0pJazdSanNjWlNYdFhLaWM2LWFuLWJqZDFrSTZFbGkzYnJKQ0RScFR3?oc=5" target="_blank">Budget 2026 : la France « sans marge de sécurité » avant même le conflit en Iran</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
