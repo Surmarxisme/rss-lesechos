@@ -1,7 +1,7 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Fri, 22 May 2026 18:26:53 +0000`
-> 88 articles (30 derniers jours)
+> Derniere mise a jour : `Sat, 23 May 2026 10:38:15 +0000`
+> 86 articles (30 derniers jours)
 
 ---
 
@@ -690,21 +690,5 @@
 `Thu, 23 Apr 2026 10:49:31 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMikAJBVV95cUxNV1NZc2RxWDZYckUtNDVsNml1U3dPYklVZVhjRkJ6eGhrMDBpaTJrc2dTdTBObk5sZVlnS2ZiZlVRbk9jSXY3UmUxdThyaUhIWTd2cmlGeG9haGxqQkpwMWRGNUxVWDE2RUU5TTcxYU90T3lab0pUYUtuV01oUWd4RV8zNFJhcjZ1NkxUMVRtV0wwVXpDb05EMTdabkEtSVhZSE9EQUVIRHdicWJ0dDU2RTdfa18xcnF6RjhQVlQ5cUxnQTlXcW1TbDdsMDFqUWlFemx3b2t0U21aVlZ1dnoydUs3TmlDYl91UExpdUJOOGhHNS1kMDZLTEFnSEZOMkU5QzR0WmEyQjF6SklhZUFLQg?oc=5" target="_blank">500.000 chefs d'entreprise à la retraite en 10 ans : face au choc démographique, le plan de Bercy pour faciliter la transmission</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Le moral des chefs d'entreprise décroche avec la guerre au Moyen-Orient - Les Echos](https://news.google.com/rss/articles/CBMiygFBVV95cUxPbHNnUkxQaE1Bd1BxMnE3UDRZbHpCdVQ1S3p0ZE9sb0xhT0d0QzN2U25ZbzNzeUVPQWhxMVRIMFlMbjduN3pySUo0R1IzWmJOMHpDZmNrMEdPSmNhY1J1QUk2Z1VJUko4SUl1RjZUNm10VGczZjBfY0JIQVNfSDB2bHl0amdfMjkzRWxsUHdTcmVpbldXblJkRUV3QmdKakxzZXJiN0RUMXgtVXEycURoNU1NWS1OUnJfMk9vYXlIcFlsZUpmNTRJWktn?oc=5)
-
-`Thu, 23 Apr 2026 07:59:14 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxPbHNnUkxQaE1Bd1BxMnE3UDRZbHpCdVQ1S3p0ZE9sb0xhT0d0QzN2U25ZbzNzeUVPQWhxMVRIMFlMbjduN3pySUo0R1IzWmJOMHpDZmNrMEdPSmNhY1J1QUk2Z1VJUko4SUl1RjZUNm10VGczZjBfY0JIQVNfSDB2bHl0amdfMjkzRWxsUHdTcmVpbldXblJkRUV3QmdKakxzZXJiN0RUMXgtVXEycURoNU1NWS1OUnJfMk9vYXlIcFlsZUpmNTRJWktn?oc=5" target="_blank">Le moral des chefs d'entreprise décroche avec la guerre au Moyen-Orient</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Lutte contre la fraude sociale : le Défenseur des droits demande plus de garde-fous - Les Echos](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUzNhd2FKOWZMekdGMW9sOTZPT3RXTENEWkpKQVBzMzBDdmYwZnB0TUstT19fNWxwVVhYeWN4YXJrcHNxclF3Z2VuazZiNEJDWUdzSkFJSGxwQ0h2OFBRclYtOU5JNTF3RG9LZ3VWbGlXTk9xTTJMc0Z1SmcwbjFxZlNaTDZvNlo3b0twM2xrWEVQeTItSG41c1lCSHROQ2tuOGdDekRPYnBjU3VCeWtTREFwWnhHZDg4cVJRMjRwRTJaVjdRZ01uT25oTHY1OEZJNUE?oc=5)
-
-`Thu, 23 Apr 2026 05:55:08 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUzNhd2FKOWZMekdGMW9sOTZPT3RXTENEWkpKQVBzMzBDdmYwZnB0TUstT19fNWxwVVhYeWN4YXJrcHNxclF3Z2VuazZiNEJDWUdzSkFJSGxwQ0h2OFBRclYtOU5JNTF3RG9LZ3VWbGlXTk9xTTJMc0Z1SmcwbjFxZlNaTDZvNlo3b0twM2xrWEVQeTItSG41c1lCSHROQ2tuOGdDekRPYnBjU3VCeWtTREFwWnhHZDg4cVJRMjRwRTJaVjdRZ01uT25oTHY1OEZJNUE?oc=5" target="_blank">Lutte contre la fraude sociale : le Défenseur des droits demande plus de garde-fous</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
