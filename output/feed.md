@@ -1,7 +1,7 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Sat, 23 May 2026 10:38:15 +0000`
-> 86 articles (30 derniers jours)
+> Derniere mise a jour : `Sun, 24 May 2026 10:43:34 +0000`
+> 83 articles (30 derniers jours)
 
 ---
 
@@ -666,29 +666,5 @@
 `Sat, 25 Apr 2026 07:30:09 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMDQ4VndvZENEOU0xd1FKOHFoOFBXRDYteW1uaVMzeWhDS1oyQzUyNXJzUHlfVWRhMnltQllZRS1rbGhOZTAxQzFZRUxvcS1zS3pjWXFlUnh6UDJCLW82OThvd1VUNDhmOEMtRUxmTkZjeWpDREVmUnBPRzRYUHNCSXJ5WnAzS0hFT3NLNFl3bzd4RHVfdVlNM3RJdnV0SmV3dEdybDhXZjJIRnBJclBxRThTeVBab001RjZiRUJyS0stRkF3cDVjZg?oc=5" target="_blank">Patronat : l'économie sociale et solidaire veut jouer dans la cour des grands</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Guerre au Moyen-Orient et retour de l'inflation font plonger le moral des ménages - Les Echos](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZEZkeEhEbmJWQVI2V25Wc0hpWkw0M1A0ZS1zSEU4a01JYWZlZTdHXzZDcDc3NFhKck1Lem1TbkpHQ3JwWmRkNXhfd3ItWHlKNmpWZHgxNFdxb0NOU3hFSFJMZ3JueGNsTm0zMC1Mb2lhVHJ6SXZyVnFNVHhONVZoT0VrNnRkTjJuU0tWNnJGajc3LVY2Z0xESHI1UFI2Tlh3N0F2NnFIV0NiQVFMUW5GYjhVUWZOSEhxWHVqM0xGcFZHdktSWHlWaDVGeHh1RFoyRzBnM0FNWQ?oc=5)
-
-`Fri, 24 Apr 2026 08:31:27 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZEZkeEhEbmJWQVI2V25Wc0hpWkw0M1A0ZS1zSEU4a01JYWZlZTdHXzZDcDc3NFhKck1Lem1TbkpHQ3JwWmRkNXhfd3ItWHlKNmpWZHgxNFdxb0NOU3hFSFJMZ3JueGNsTm0zMC1Mb2lhVHJ6SXZyVnFNVHhONVZoT0VrNnRkTjJuU0tWNnJGajc3LVY2Z0xESHI1UFI2Tlh3N0F2NnFIV0NiQVFMUW5GYjhVUWZOSEhxWHVqM0xGcFZHdktSWHlWaDVGeHh1RFoyRzBnM0FNWQ?oc=5" target="_blank">Guerre au Moyen-Orient et retour de l'inflation font plonger le moral des ménages</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Congrès de FO : guerre, RN et développement syndical au coeur des débats - Les Echos](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdTBrWDczT0lFM2p2ODZaNEVtV2hJNEJDVUdfN2c0cVpBWFhwWC15STZBUUtYaU1HeWo0TVlUa3RucG5QR0ZzMlMwY25GVzZ1dDNtNmlsX0ZjRmNubDVTNF85WmFYanViS2NONVhseDh4a09wempRRVNzdkZvZHRJZ3U2S0xnU1JuRi1oOFhvOHFNTU9TZF8yVmZRQWpXMk9oME4yQzVnVlk2aEZsRkw4d1FKUEZPOUlZNF9zLWxLZGVOUQ?oc=5)
-
-`Fri, 24 Apr 2026 05:04:08 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdTBrWDczT0lFM2p2ODZaNEVtV2hJNEJDVUdfN2c0cVpBWFhwWC15STZBUUtYaU1HeWo0TVlUa3RucG5QR0ZzMlMwY25GVzZ1dDNtNmlsX0ZjRmNubDVTNF85WmFYanViS2NONVhseDh4a09wempRRVNzdkZvZHRJZ3U2S0xnU1JuRi1oOFhvOHFNTU9TZF8yVmZRQWpXMk9oME4yQzVnVlk2aEZsRkw4d1FKUEZPOUlZNF9zLWxLZGVOUQ?oc=5" target="_blank">Congrès de FO : guerre, RN et développement syndical au coeur des débats</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [500.000 chefs d'entreprise à la retraite en 10 ans : face au choc démographique, le plan de Bercy pour faciliter la transmission - Les Echos](https://news.google.com/rss/articles/CBMikAJBVV95cUxNV1NZc2RxWDZYckUtNDVsNml1U3dPYklVZVhjRkJ6eGhrMDBpaTJrc2dTdTBObk5sZVlnS2ZiZlVRbk9jSXY3UmUxdThyaUhIWTd2cmlGeG9haGxqQkpwMWRGNUxVWDE2RUU5TTcxYU90T3lab0pUYUtuV01oUWd4RV8zNFJhcjZ1NkxUMVRtV0wwVXpDb05EMTdabkEtSVhZSE9EQUVIRHdicWJ0dDU2RTdfa18xcnF6RjhQVlQ5cUxnQTlXcW1TbDdsMDFqUWlFemx3b2t0U21aVlZ1dnoydUs3TmlDYl91UExpdUJOOGhHNS1kMDZLTEFnSEZOMkU5QzR0WmEyQjF6SklhZUFLQg?oc=5)
-
-`Thu, 23 Apr 2026 10:49:31 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMikAJBVV95cUxNV1NZc2RxWDZYckUtNDVsNml1U3dPYklVZVhjRkJ6eGhrMDBpaTJrc2dTdTBObk5sZVlnS2ZiZlVRbk9jSXY3UmUxdThyaUhIWTd2cmlGeG9haGxqQkpwMWRGNUxVWDE2RUU5TTcxYU90T3lab0pUYUtuV01oUWd4RV8zNFJhcjZ1NkxUMVRtV0wwVXpDb05EMTdabkEtSVhZSE9EQUVIRHdicWJ0dDU2RTdfa18xcnF6RjhQVlQ5cUxnQTlXcW1TbDdsMDFqUWlFemx3b2t0U21aVlZ1dnoydUs3TmlDYl91UExpdUJOOGhHNS1kMDZLTEFnSEZOMkU5QzR0WmEyQjF6SklhZUFLQg?oc=5" target="_blank">500.000 chefs d'entreprise à la retraite en 10 ans : face au choc démographique, le plan de Bercy pour faciliter la transmission</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
