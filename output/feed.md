@@ -1,7 +1,23 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Sun, 24 May 2026 10:43:34 +0000`
+> Derniere mise a jour : `Mon, 25 May 2026 09:41:34 +0000`
 > 83 articles (30 derniers jours)
+
+---
+
+### [Allocation de solidarité unifiée : le gouvernement va « retravailler » son projet de loi - Les Echos](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOS2tnWDQwa0ZSR1Z3eWlxbG5oZVpfLVh4bFlwUW1mVHpwOVFia1RzNzM1S2VJUmZiRmhIY3FuYkNUY2RmVDJ3eldtLTFjN3VpMS1YaDUxWVR1ZF9tcExpQ2R0djZiWHZWTW10WjhSVVlJajBXY2xGMUJySlFVWXROV1dyYXNDV20xVDlva3hrUms5azgxbnhQTERVTlp0VnRKZFdqMTR1aHZvd3YwbkxOYmhUMDFRM0V5Yk5YRGZSbTlmaEF0WFU5aW5UVHRvVDJoWndr?oc=5)
+
+`Sun, 24 May 2026 12:50:53 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi0wFBVV95cUxOS2tnWDQwa0ZSR1Z3eWlxbG5oZVpfLVh4bFlwUW1mVHpwOVFia1RzNzM1S2VJUmZiRmhIY3FuYkNUY2RmVDJ3eldtLTFjN3VpMS1YaDUxWVR1ZF9tcExpQ2R0djZiWHZWTW10WjhSVVlJajBXY2xGMUJySlFVWXROV1dyYXNDV20xVDlva3hrUms5azgxbnhQTERVTlp0VnRKZFdqMTR1aHZvd3YwbkxOYmhUMDFRM0V5Yk5YRGZSbTlmaEF0WFU5aW5UVHRvVDJoWndr?oc=5" target="_blank">Allocation de solidarité unifiée : le gouvernement va « retravailler » son projet de loi</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Allègements de charges : le gouvernement a raison de « reprendre le contrôle » - Les Echos](https://news.google.com/rss/articles/CBMixgFBVV95cUxOSDc4eWxOemdrSVJ2NHhzdUVHQUdPeUd5cm9rekZZa3hpS0R6VU1Qa29nYXMzTEJnVTZYcTY1QXliMDN4XzlXQnY1aXdGSDJUd2dPWFI0NlFicmo3eS15czhNLWdtMzFJakVHVUI0U29BYl9tMGVjcWs2ZWdrb1FKQkpDdDNRN20xdlZFVkkzZnFSTWFVQmp6aWp3WVBVOEtMVEZSNHV3cU9hYm9oTzZTc2t3NGNZMFVZclhWdUlwYlp6SkRVb2c?oc=5)
+
+`Mon, 25 May 2026 09:34:53 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxOSDc4eWxOemdrSVJ2NHhzdUVHQUdPeUd5cm9rekZZa3hpS0R6VU1Qa29nYXMzTEJnVTZYcTY1QXliMDN4XzlXQnY1aXdGSDJUd2dPWFI0NlFicmo3eS15czhNLWdtMzFJakVHVUI0U29BYl9tMGVjcWs2ZWdrb1FKQkpDdDNRN20xdlZFVkkzZnFSTWFVQmp6aWp3WVBVOEtMVEZSNHV3cU9hYm9oTzZTc2t3NGNZMFVZclhWdUlwYlp6SkRVb2c?oc=5" target="_blank">Allègements de charges : le gouvernement a raison de « reprendre le contrôle »</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -650,21 +666,5 @@
 `Sat, 25 Apr 2026 13:40:00 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMiywFBVV95cUxQcllQejM2SXpjcHJPWXFKcFNjY052enVxMXpIOHdsY1FzQ3dkVWJBYU5JdlZtWnppc3RNNmlrUnJVRlZMTHpqMW5nMTdQYjMxV2dZbllqcUpWX3NxX3BiOXBPRE5CcXpCNThRNXFMOGxhTFdXd2c0N2ZrNlBsSldlV0FRWG9obzB3LXJjcFlZT0Q5ZzZBLWV3WGdkaFRzV3VFZ3VwTU1JYVNKeG5fNTRTaGd6MjVNQUdELWhnNnVPT0VpdG9URm9weE9VOA?oc=5" target="_blank">Quatre ans après le scandale Orpea, le gouvernement veut rebaptiser les Ehpad</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Les revenus des livreurs de repas à domicile ont baissé en 2025 - Les Echos](https://news.google.com/rss/articles/CBMiugFBVV95cUxOUlJYUVZzR0E0VS1mcWVnRllmcENNcVZyd1gtaHZ4c2NORVlvUVhnSF9xLWxKcHhaeDRFd25TX3VLa3lCSkFJeHBfLWQyZVI3cFVpUmhqb004Q1hDU05LLW9YbzlBem9NMEpFRkJnTU95T1I0U2F0cnhrWW1CR0VUZ3VPOUVvLWUtYWhSVnhGQkY0dVpKV3RBQmVMRXd1Wno1ejBUN0dzWkVxY0FaNnlucUZCNWdESkxrQ0E?oc=5)
-
-`Sat, 25 Apr 2026 09:17:20 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxOUlJYUVZzR0E0VS1mcWVnRllmcENNcVZyd1gtaHZ4c2NORVlvUVhnSF9xLWxKcHhaeDRFd25TX3VLa3lCSkFJeHBfLWQyZVI3cFVpUmhqb004Q1hDU05LLW9YbzlBem9NMEpFRkJnTU95T1I0U2F0cnhrWW1CR0VUZ3VPOUVvLWUtYWhSVnhGQkY0dVpKV3RBQmVMRXd1Wno1ejBUN0dzWkVxY0FaNnlucUZCNWdESkxrQ0E?oc=5" target="_blank">Les revenus des livreurs de repas à domicile ont baissé en 2025</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Patronat : l'économie sociale et solidaire veut jouer dans la cour des grands - Les Echos](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMDQ4VndvZENEOU0xd1FKOHFoOFBXRDYteW1uaVMzeWhDS1oyQzUyNXJzUHlfVWRhMnltQllZRS1rbGhOZTAxQzFZRUxvcS1zS3pjWXFlUnh6UDJCLW82OThvd1VUNDhmOEMtRUxmTkZjeWpDREVmUnBPRzRYUHNCSXJ5WnAzS0hFT3NLNFl3bzd4RHVfdVlNM3RJdnV0SmV3dEdybDhXZjJIRnBJclBxRThTeVBab001RjZiRUJyS0stRkF3cDVjZg?oc=5)
-
-`Sat, 25 Apr 2026 07:30:09 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMDQ4VndvZENEOU0xd1FKOHFoOFBXRDYteW1uaVMzeWhDS1oyQzUyNXJzUHlfVWRhMnltQllZRS1rbGhOZTAxQzFZRUxvcS1zS3pjWXFlUnh6UDJCLW82OThvd1VUNDhmOEMtRUxmTkZjeWpDREVmUnBPRzRYUHNCSXJ5WnAzS0hFT3NLNFl3bzd4RHVfdVlNM3RJdnV0SmV3dEdybDhXZjJIRnBJclBxRThTeVBab001RjZiRUJyS0stRkF3cDVjZg?oc=5" target="_blank">Patronat : l'économie sociale et solidaire veut jouer dans la cour des grands</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
