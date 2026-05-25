@@ -1,7 +1,7 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Mon, 25 May 2026 12:37:07 +0000`
-> 81 articles (30 derniers jours)
+> Derniere mise a jour : `Mon, 25 May 2026 14:38:15 +0000`
+> 80 articles (30 derniers jours)
 
 ---
 
@@ -642,13 +642,5 @@
 `Mon, 27 Apr 2026 04:00:09 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVXhnZzk1ZkVFYm5oU1AzWi10UVN5WXc0SWxRelB4a2NvZmdkeGt4Ylc0SjhaZHZiTWZXakpOS3g2THotODNLUTh2R29aamhJa3hGaVdVSkNrUGozSG9NZUUtdXZKdXNQWkZpVlg0RUEwdTVuSXlQUTJfbVlaSWJIVW9RVGFtR3F1NnJfNHRnVUJEdVdNNzJXNi1iOTI1RUhJU2d1Q0g4dXhaQndiSURubmV5UzU0THVSY1dvUWkyWlJzbkVUSWNUV2dzT0VvWURUcmNQU0VIWHJKT21aVDM0?oc=5" target="_blank">Lutte contre la fraude : les complémentaires santé engrangent des soutiens face aux opticiens</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Quatre ans après le scandale Orpea, le gouvernement veut rebaptiser les Ehpad - Les Echos](https://news.google.com/rss/articles/CBMiywFBVV95cUxQcllQejM2SXpjcHJPWXFKcFNjY052enVxMXpIOHdsY1FzQ3dkVWJBYU5JdlZtWnppc3RNNmlrUnJVRlZMTHpqMW5nMTdQYjMxV2dZbllqcUpWX3NxX3BiOXBPRE5CcXpCNThRNXFMOGxhTFdXd2c0N2ZrNlBsSldlV0FRWG9obzB3LXJjcFlZT0Q5ZzZBLWV3WGdkaFRzV3VFZ3VwTU1JYVNKeG5fNTRTaGd6MjVNQUdELWhnNnVPT0VpdG9URm9weE9VOA?oc=5)
-
-`Sat, 25 Apr 2026 13:40:00 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiywFBVV95cUxQcllQejM2SXpjcHJPWXFKcFNjY052enVxMXpIOHdsY1FzQ3dkVWJBYU5JdlZtWnppc3RNNmlrUnJVRlZMTHpqMW5nMTdQYjMxV2dZbllqcUpWX3NxX3BiOXBPRE5CcXpCNThRNXFMOGxhTFdXd2c0N2ZrNlBsSldlV0FRWG9obzB3LXJjcFlZT0Q5ZzZBLWV3WGdkaFRzV3VFZ3VwTU1JYVNKeG5fNTRTaGd6MjVNQUdELWhnNnVPT0VpdG9URm9weE9VOA?oc=5" target="_blank">Quatre ans après le scandale Orpea, le gouvernement veut rebaptiser les Ehpad</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
