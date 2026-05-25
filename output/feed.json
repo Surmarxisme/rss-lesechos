@@ -2,9 +2,9 @@
   "source": "Les Echos - Economie France",
   "source_url": "https://www.lesechos.fr/economie-france",
   "language": "fr-FR",
-  "last_fetched": "Mon, 25 May 2026 09:41:34 +0000",
-  "total_items": 83,
-  "new_items_this_run": 2,
+  "last_fetched": "Mon, 25 May 2026 12:37:07 +0000",
+  "total_items": 81,
+  "new_items_this_run": 0,
   "articles": [
     {
       "id": "CBMi0wFBVV95cUxOS2tnWDQwa0ZSR1Z3eWlxbG5oZVpfLVh4bFlwUW1mVHpwOVFia1RzNzM1S2VJUmZiRmhIY3FuYkNUY2RmVDJ3eldtLTFjN3VpMS1YaDUxWVR1ZF9tcExpQ2R0djZiWHZWTW10WjhSVVlJajBXY2xGMUJySlFVWXROV1dyYXNDV20xVDlva3hrUms5azgxbnhQTERVTlp0VnRKZFdqMTR1aHZvd3YwbkxOYmhUMDFRM0V5Yk5YRGZSbTlmaEF0WFU5aW5UVHRvVDJoWndr",
@@ -655,15 +655,6 @@
       "pub_date_iso": "2026-04-28T10:42:08+00:00"
     },
     {
-      "id": "CBMiXEFVX3lxTFBYRUpXU3F0WUVkYVAtWkR5LXZiZVdLbEI4WTJ5VTg0RHNMQ2t4OFdSTzZUMENFelFSTWdhQnJoTTBrd0d3T3RBdlFJUWs5UmpHSFB6RTh5UUJpQ3Nt",
-      "title": "Économie | Page 236 - Les Echos",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFBYRUpXU3F0WUVkYVAtWkR5LXZiZVdLbEI4WTJ5VTg0RHNMQ2t4OFdSTzZUMENFelFSTWdhQnJoTTBrd0d3T3RBdlFJUWs5UmpHSFB6RTh5UUJpQ3Nt?oc=5\" target=\"_blank\">Économie | Page 236</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Les Echos</font>",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBYRUpXU3F0WUVkYVAtWkR5LXZiZVdLbEI4WTJ5VTg0RHNMQ2t4OFdSTzZUMENFelFSTWdhQnJoTTBrd0d3T3RBdlFJUWs5UmpHSFB6RTh5UUJpQ3Nt?oc=5",
-      "source": "Les Echos",
-      "pub_date": "Sat, 25 Apr 2026 11:32:52 GMT",
-      "pub_date_iso": "2026-04-25T11:32:52+00:00"
-    },
-    {
       "id": "CBMi8gFBVV95cUxPUmVnZWxKaDg3bV9HVmpQeDI0dVBHeERtRHp2VHBpb3FuQS16blptU0MzOXlVdGk5bnlwMDJVUjJhekM4UG5zWW56UEYxRUVJRkZwREdZMnVObG9Qb2x3cUplcXl0LTJTRDhTTlA0U3kwSTc2cEhzVmkzUGhPSmMyc3J0UVRJWXJoVUlHQ182Uk5FSVJTZzk4T3kwNUpJd0R1SVptdENIeUR5ZkxSMTluZTZVcy12cDlVdi15NG12WU1ySno1Wkkwd3JWdW1QZ3BkbDhPWFg2MmdlUENPVXlXbERmRjJ3VkVldklHdE5pWEw2UQ",
       "title": "Hôpital : plus de 20 milliards d'euros de soins « inutiles ou à faible valeur », selon la Cour des comptes - Les Echos",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxPUmVnZWxKaDg3bV9HVmpQeDI0dVBHeERtRHp2VHBpb3FuQS16blptU0MzOXlVdGk5bnlwMDJVUjJhekM4UG5zWW56UEYxRUVJRkZwREdZMnVObG9Qb2x3cUplcXl0LTJTRDhTTlA0U3kwSTc2cEhzVmkzUGhPSmMyc3J0UVRJWXJoVUlHQ182Uk5FSVJTZzk4T3kwNUpJd0R1SVptdENIeUR5ZkxSMTluZTZVcy12cDlVdi15NG12WU1ySno1Wkkwd3JWdW1QZ3BkbDhPWFg2MmdlUENPVXlXbERmRjJ3VkVldklHdE5pWEw2UQ?oc=5\" target=\"_blank\">Hôpital : plus de 20 milliards d'euros de soins « inutiles ou à faible valeur », selon la Cour des comptes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Les Echos</font>",
@@ -734,15 +725,6 @@
       "source": "Les Echos",
       "pub_date": "Mon, 27 Apr 2026 04:00:09 GMT",
       "pub_date_iso": "2026-04-27T04:00:09+00:00"
-    },
-    {
-      "id": "CBMivAFBVV95cUxPaTdRX0RsZkYzb2FvOGJPZkhnZ3hiejJPSkdWRTNvaVE0bGU3S3MxTnM5X0VXdzJvRmdMQmVmdHN5eGRuTHVBSTFjSnE1NGlNMkhlbnFVM0R0NDFUSms0M0xrR25tRUJZWXZBeDQ2RUpUWnNDeE9FUjMweHQ5NVBveUx1UFo0NUljaV9YRnJBNVg0aUZlZE14cTh2bjNKS09zRmg3bUdFM2F3V2x1eDkxTU9EOUxiTkkwbVdpeQ",
-      "title": "Syndicats : le réformiste Frédéric Souillot rempile à la tête de FO - Les Echos",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPaTdRX0RsZkYzb2FvOGJPZkhnZ3hiejJPSkdWRTNvaVE0bGU3S3MxTnM5X0VXdzJvRmdMQmVmdHN5eGRuTHVBSTFjSnE1NGlNMkhlbnFVM0R0NDFUSms0M0xrR25tRUJZWXZBeDQ2RUpUWnNDeE9FUjMweHQ5NVBveUx1UFo0NUljaV9YRnJBNVg0aUZlZE14cTh2bjNKS09zRmg3bUdFM2F3V2x1eDkxTU9EOUxiTkkwbVdpeQ?oc=5\" target=\"_blank\">Syndicats : le réformiste Frédéric Souillot rempile à la tête de FO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Les Echos</font>",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaTdRX0RsZkYzb2FvOGJPZkhnZ3hiejJPSkdWRTNvaVE0bGU3S3MxTnM5X0VXdzJvRmdMQmVmdHN5eGRuTHVBSTFjSnE1NGlNMkhlbnFVM0R0NDFUSms0M0xrR25tRUJZWXZBeDQ2RUpUWnNDeE9FUjMweHQ5NVBveUx1UFo0NUljaV9YRnJBNVg0aUZlZE14cTh2bjNKS09zRmg3bUdFM2F3V2x1eDkxTU9EOUxiTkkwbVdpeQ?oc=5",
-      "source": "Les Echos",
-      "pub_date": "Sat, 25 Apr 2026 12:08:08 GMT",
-      "pub_date_iso": "2026-04-25T12:08:08+00:00"
     },
     {
       "id": "CBMiywFBVV95cUxQcllQejM2SXpjcHJPWXFKcFNjY052enVxMXpIOHdsY1FzQ3dkVWJBYU5JdlZtWnppc3RNNmlrUnJVRlZMTHpqMW5nMTdQYjMxV2dZbllqcUpWX3NxX3BiOXBPRE5CcXpCNThRNXFMOGxhTFdXd2c0N2ZrNlBsSldlV0FRWG9obzB3LXJjcFlZT0Q5ZzZBLWV3WGdkaFRzV3VFZ3VwTU1JYVNKeG5fNTRTaGd6MjVNQUdELWhnNnVPT0VpdG9URm9weE9VOA",

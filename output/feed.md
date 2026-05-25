@@ -1,7 +1,7 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Mon, 25 May 2026 09:41:34 +0000`
-> 83 articles (30 derniers jours)
+> Derniere mise a jour : `Mon, 25 May 2026 12:37:07 +0000`
+> 81 articles (30 derniers jours)
 
 ---
 
@@ -581,14 +581,6 @@
 
 ---
 
-### [Économie | Page 236 - Les Echos](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBYRUpXU3F0WUVkYVAtWkR5LXZiZVdLbEI4WTJ5VTg0RHNMQ2t4OFdSTzZUMENFelFSTWdhQnJoTTBrd0d3T3RBdlFJUWs5UmpHSFB6RTh5UUJpQ3Nt?oc=5)
-
-`Sat, 25 Apr 2026 11:32:52 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiXEFVX3lxTFBYRUpXU3F0WUVkYVAtWkR5LXZiZVdLbEI4WTJ5VTg0RHNMQ2t4OFdSTzZUMENFelFSTWdhQnJoTTBrd0d3T3RBdlFJUWs5UmpHSFB6RTh5UUJpQ3Nt?oc=5" target="_blank">Économie | Page 236</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
 ### [Hôpital : plus de 20 milliards d'euros de soins « inutiles ou à faible valeur », selon la Cour des comptes - Les Echos](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPUmVnZWxKaDg3bV9HVmpQeDI0dVBHeERtRHp2VHBpb3FuQS16blptU0MzOXlVdGk5bnlwMDJVUjJhekM4UG5zWW56UEYxRUVJRkZwREdZMnVObG9Qb2x3cUplcXl0LTJTRDhTTlA0U3kwSTc2cEhzVmkzUGhPSmMyc3J0UVRJWXJoVUlHQ182Uk5FSVJTZzk4T3kwNUpJd0R1SVptdENIeUR5ZkxSMTluZTZVcy12cDlVdi15NG12WU1ySno1Wkkwd3JWdW1QZ3BkbDhPWFg2MmdlUENPVXlXbERmRjJ3VkVldklHdE5pWEw2UQ?oc=5)
 
 `Tue, 28 Apr 2026 07:14:43 GMT`
@@ -650,14 +642,6 @@
 `Mon, 27 Apr 2026 04:00:09 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVXhnZzk1ZkVFYm5oU1AzWi10UVN5WXc0SWxRelB4a2NvZmdkeGt4Ylc0SjhaZHZiTWZXakpOS3g2THotODNLUTh2R29aamhJa3hGaVdVSkNrUGozSG9NZUUtdXZKdXNQWkZpVlg0RUEwdTVuSXlQUTJfbVlaSWJIVW9RVGFtR3F1NnJfNHRnVUJEdVdNNzJXNi1iOTI1RUhJU2d1Q0g4dXhaQndiSURubmV5UzU0THVSY1dvUWkyWlJzbkVUSWNUV2dzT0VvWURUcmNQU0VIWHJKT21aVDM0?oc=5" target="_blank">Lutte contre la fraude : les complémentaires santé engrangent des soutiens face aux opticiens</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Syndicats : le réformiste Frédéric Souillot rempile à la tête de FO - Les Echos](https://news.google.com/rss/articles/CBMivAFBVV95cUxPaTdRX0RsZkYzb2FvOGJPZkhnZ3hiejJPSkdWRTNvaVE0bGU3S3MxTnM5X0VXdzJvRmdMQmVmdHN5eGRuTHVBSTFjSnE1NGlNMkhlbnFVM0R0NDFUSms0M0xrR25tRUJZWXZBeDQ2RUpUWnNDeE9FUjMweHQ5NVBveUx1UFo0NUljaV9YRnJBNVg0aUZlZE14cTh2bjNKS09zRmg3bUdFM2F3V2x1eDkxTU9EOUxiTkkwbVdpeQ?oc=5)
-
-`Sat, 25 Apr 2026 12:08:08 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxPaTdRX0RsZkYzb2FvOGJPZkhnZ3hiejJPSkdWRTNvaVE0bGU3S3MxTnM5X0VXdzJvRmdMQmVmdHN5eGRuTHVBSTFjSnE1NGlNMkhlbnFVM0R0NDFUSms0M0xrR25tRUJZWXZBeDQ2RUpUWnNDeE9FUjMweHQ5NVBveUx1UFo0NUljaV9YRnJBNVg0aUZlZE14cTh2bjNKS09zRmg3bUdFM2F3V2x1eDkxTU9EOUxiTkkwbVdpeQ?oc=5" target="_blank">Syndicats : le réformiste Frédéric Souillot rempile à la tête de FO</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
