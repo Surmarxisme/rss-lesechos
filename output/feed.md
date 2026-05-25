@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Mon, 25 May 2026 14:38:15 +0000`
-> 80 articles (30 derniers jours)
+> Derniere mise a jour : `Mon, 25 May 2026 18:19:57 +0000`
+> 81 articles (30 derniers jours)
+
+---
+
+### [CGT : Sophie Binet mise en examen pour diffamation après une plainte de Tefal - Les Echos](https://news.google.com/rss/articles/CBMiygFBVV95cUxPQVV2NUUybDhsVGZzMkhzdGk4QzVnb3FNOVRVWHBjZW83Z3BONExGMVU4dzZZN3U0V3ppeXFrYkZwLTlzWGpFOW5KTTluUC05My00RG55aVA4UTBBcHBuVVVvVVNJeU5sYUNieERFZjhpTEJNeUhfQWY0MzF1UEd5UzFCZS1XSk95M3YxRzdPR1JUT2xSLTRIMXVsNXhwd0ZNZC1pclZhVmxEWDJSdjRpZV9fOG1oRGt4dnJtOXdUWnVmTTNvekpYZnFR?oc=5)
+
+`Mon, 25 May 2026 15:37:20 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxPQVV2NUUybDhsVGZzMkhzdGk4QzVnb3FNOVRVWHBjZW83Z3BONExGMVU4dzZZN3U0V3ppeXFrYkZwLTlzWGpFOW5KTTluUC05My00RG55aVA4UTBBcHBuVVVvVVNJeU5sYUNieERFZjhpTEJNeUhfQWY0MzF1UEd5UzFCZS1XSk95M3YxRzdPR1JUT2xSLTRIMXVsNXhwd0ZNZC1pclZhVmxEWDJSdjRpZV9fOG1oRGt4dnJtOXdUWnVmTTNvekpYZnFR?oc=5" target="_blank">CGT : Sophie Binet mise en examen pour diffamation après une plainte de Tefal</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
