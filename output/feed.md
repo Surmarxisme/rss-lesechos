@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Tue, 26 May 2026 14:49:34 +0000`
-> 83 articles (30 derniers jours)
+> Derniere mise a jour : `Tue, 26 May 2026 19:12:34 +0000`
+> 84 articles (30 derniers jours)
+
+---
+
+### [L'étonnante initiative de Bercy pour préparer le budget 2027 - Les Echos](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVWRXeHdoVHlYRTNkS3NfX1JqcTFOSHFhOGFwQldBQ0Z3Y0ZHUy1EeElhZ3o5LTJsSVk3WnJ5d2prLWN1Q0N6QThwR0ROMmI3enFMb0s4ckFhbFVGM3dGUnFya1hfWHRtZVJrU2R1Qm4xUmpuam1rOGlIU0NJRmNxT2MzYng0T003MlJHbDNaS1FpWHF0SjBHazlCTWFzM0tocFhRLW5maXZBN1dYQVpaYUQ3NmZDM1l5UUM2VldRYTB4Zw?oc=5)
+
+`Tue, 26 May 2026 15:59:27 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVWRXeHdoVHlYRTNkS3NfX1JqcTFOSHFhOGFwQldBQ0Z3Y0ZHUy1EeElhZ3o5LTJsSVk3WnJ5d2prLWN1Q0N6QThwR0ROMmI3enFMb0s4ckFhbFVGM3dGUnFya1hfWHRtZVJrU2R1Qm4xUmpuam1rOGlIU0NJRmNxT2MzYng0T003MlJHbDNaS1FpWHF0SjBHazlCTWFzM0tocFhRLW5maXZBN1dYQVpaYUQ3NmZDM1l5UUM2VldRYTB4Zw?oc=5" target="_blank">L'étonnante initiative de Bercy pour préparer le budget 2027</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
