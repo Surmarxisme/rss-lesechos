@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Mon, 25 May 2026 18:19:57 +0000`
-> 81 articles (30 derniers jours)
+> Derniere mise a jour : `Tue, 26 May 2026 09:00:31 +0000`
+> 82 articles (30 derniers jours)
+
+---
+
+### [Le plaidoyer du patron des Hôpitaux de Paris pour fidéliser les soignants à l'hôpital - Les Echos](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNaUNMa24ybUpWMTFpYlUwUk1kZGhDYXhWNVk3b2gtSWY5by1xWmt3a19yMVhEckJ5U1U5UlhLVllzS1JyRGN5dmlkclhzaGEtYXdub2JzZElpbElVUXJOSHJDUTVrbVdDalNrTXd1MHc5NnVHNDBZdFEtYVRZcnJ0V3JMRDZZbUhqd3ZCYnhKRnZtWVZiYlpOc1VvMVVwcnBNb1Mtam5XNmt5VGIzWktNSGtKakF0S0EtQV9uYXE3dlVFbFBidnUzTDlIVFFIbEE0LWthdFhR?oc=5)
+
+`Tue, 26 May 2026 04:00:09 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi1gFBVV95cUxNaUNMa24ybUpWMTFpYlUwUk1kZGhDYXhWNVk3b2gtSWY5by1xWmt3a19yMVhEckJ5U1U5UlhLVllzS1JyRGN5dmlkclhzaGEtYXdub2JzZElpbElVUXJOSHJDUTVrbVdDalNrTXd1MHc5NnVHNDBZdFEtYVRZcnJ0V3JMRDZZbUhqd3ZCYnhKRnZtWVZiYlpOc1VvMVVwcnBNb1Mtam5XNmt5VGIzWktNSGtKakF0S0EtQV9uYXE3dlVFbFBidnUzTDlIVFFIbEE0LWthdFhR?oc=5" target="_blank">Le plaidoyer du patron des Hôpitaux de Paris pour fidéliser les soignants à l'hôpital</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
