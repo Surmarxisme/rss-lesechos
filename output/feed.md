@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Tue, 26 May 2026 09:00:31 +0000`
-> 82 articles (30 derniers jours)
+> Derniere mise a jour : `Tue, 26 May 2026 14:49:34 +0000`
+> 83 articles (30 derniers jours)
+
+---
+
+### [Nous voulons rassembler largement » : la CPME donne rendez-vous aux patrons au Parc des Princes et défie le Medef - Les Echos](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdllZcmpOU0pDR2w1VjlxSV9KWEt0X3dVaElnbXJyNnVQZWNmd0Q5NVJLTlJadzgtWVppMFhjeWkzeDF2SmlCNHNfMVhHYWhadjI0dm5hWmdtZnplX0p3X0xfVlhJVnA4bGFsQ0lMNlFPZUpnUE9fam9rZDNQT1R1ZTV0VWQwcGJCd1lTSHA1Nkw0WkNkX0U0QjlDa1NFaVV1Qi11QlZPUXR2YndqZ21kMUhnOXZJVFVIRU9SdnE4MWRyRmU3OTEwLTFFVjFWeWdfMFdlX1cxai1zT1VlRE5V?oc=5)
+
+`Tue, 26 May 2026 13:05:15 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdllZcmpOU0pDR2w1VjlxSV9KWEt0X3dVaElnbXJyNnVQZWNmd0Q5NVJLTlJadzgtWVppMFhjeWkzeDF2SmlCNHNfMVhHYWhadjI0dm5hWmdtZnplX0p3X0xfVlhJVnA4bGFsQ0lMNlFPZUpnUE9fam9rZDNQT1R1ZTV0VWQwcGJCd1lTSHA1Nkw0WkNkX0U0QjlDa1NFaVV1Qi11QlZPUXR2YndqZ21kMUhnOXZJVFVIRU9SdnE4MWRyRmU3OTEwLTFFVjFWeWdfMFdlX1cxai1zT1VlRE5V?oc=5" target="_blank">Nous voulons rassembler largement » : la CPME donne rendez-vous aux patrons au Parc des Princes et défie le Medef</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
