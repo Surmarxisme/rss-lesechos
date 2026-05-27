@@ -1,7 +1,7 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Wed, 27 May 2026 12:25:48 +0000`
-> 88 articles (30 derniers jours)
+> Derniere mise a jour : `Wed, 27 May 2026 14:58:58 +0000`
+> 87 articles (30 derniers jours)
 
 ---
 
@@ -690,14 +690,6 @@
 `Mon, 27 Apr 2026 15:01:21 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMiywFBVV95cUxOS3ZkSkJHQVlNb0xMRUludWQ1cUs3bUNaRFVlMVFlYV9jbElRMGZOMUs3SEs5N3hPQVRRSGhPNHpQek9OYmszX1ViV2JjejhHY1JpV2JsQXJlS2kxQzRqOXFHRjlaNWRmalFzeTg2MktKX0ZpWlQtWVVhRXZLdzdmN0Y3THRZdDdTNXNHb3E5eWZ4aVFWMnMtRXNzVVZFeVNsZjJLQTJ2RFA3a0ktckNtcWtTdXZ3NWR1SlZxMmM4b1ZCRUxQaU01X0dzOA?oc=5" target="_blank">Epidémie d'arrêts maladie : comment le gouvernement essaye de réduire leur coût</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Alerte sur les risques psychosociaux au ministère du Travail - Les Echos](https://news.google.com/rss/articles/CBMitgFBVV95cUxNOUtPSUE5M25DaVREdTAzdk9WS2tEb2RobFJqQTdkOVk4WGVwZWVsd053SXB0bEx4VlU5VkVCQ2J0Vk1veVIxZzItOUNQSjQxZ0pBTHUtc0VRMGFGZk04TmljUVdiV0duVnBHY1ZjQ3F5d21qR1dzRGJuNDcteDB5amlCcnBoYjBHODhvSzU1NG91Rk55MFhkMElNMnlCaWpYODVLa0VYXzRWV2FOR085NDY1R3p1QQ?oc=5)
-
-`Mon, 27 Apr 2026 14:52:49 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxNOUtPSUE5M25DaVREdTAzdk9WS2tEb2RobFJqQTdkOVk4WGVwZWVsd053SXB0bEx4VlU5VkVCQ2J0Vk1veVIxZzItOUNQSjQxZ0pBTHUtc0VRMGFGZk04TmljUVdiV0duVnBHY1ZjQ3F5d21qR1dzRGJuNDcteDB5amlCcnBoYjBHODhvSzU1NG91Rk55MFhkMElNMnlCaWpYODVLa0VYXzRWV2FOR085NDY1R3p1QQ?oc=5" target="_blank">Alerte sur les risques psychosociaux au ministère du Travail</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
