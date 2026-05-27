@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Wed, 27 May 2026 14:58:58 +0000`
-> 87 articles (30 derniers jours)
+> Derniere mise a jour : `Wed, 27 May 2026 19:12:13 +0000`
+> 86 articles (30 derniers jours)
+
+---
+
+### [EXCLUSIF - Guerre au Moyen-Orient : une facture déjà proche de 4 milliards pour la Sécurité sociale - Les Echos](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPLXZlaUdhSEp3Z3N2RmNXZ25vUnFyak16NWlEcmFrTDdKWUtTbXdneTY3WHhvbW5kakdwSS0xVDlKbWFEVHcxaW1yZk9nM2g5SkV2Z3JJc3IzUEpoNDFyazRUcXY2MjRENDJnNXZ1YjZlcWlUelg0V1JQRWJWOFZGUkZ0WFY5cFNPOXB1N3ZpVXVyZWtQYlBZS2pQWGNQaVlCbHMxRG9PeVJiTmdfanRiWXlGUlQ0Sm1GR0ZiUnpLclQyLXRmWmRadHZyTWp1SHBaV2Uzcy1YNlY?oc=5)
+
+`Wed, 27 May 2026 14:39:20 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi2AFBVV95cUxPLXZlaUdhSEp3Z3N2RmNXZ25vUnFyak16NWlEcmFrTDdKWUtTbXdneTY3WHhvbW5kakdwSS0xVDlKbWFEVHcxaW1yZk9nM2g5SkV2Z3JJc3IzUEpoNDFyazRUcXY2MjRENDJnNXZ1YjZlcWlUelg0V1JQRWJWOFZGUkZ0WFY5cFNPOXB1N3ZpVXVyZWtQYlBZS2pQWGNQaVlCbHMxRG9PeVJiTmdfanRiWXlGUlQ0Sm1GR0ZiUnpLclQyLXRmWmRadHZyTWp1SHBaV2Uzcy1YNlY?oc=5" target="_blank">EXCLUSIF - Guerre au Moyen-Orient : une facture déjà proche de 4 milliards pour la Sécurité sociale</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -682,21 +690,5 @@
 `Tue, 28 Apr 2026 06:00:00 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi5gFBVV95cUxNTEdJa2ZubkFBRmhYRm9ybUhWdDQ5SVZ3NzFORWpJbk5OYTNtRHZuS1dXLThvQmNwYTlRWFp4MldSTEVYY3Z2QWlVN1Q0TTN6M2RwTDQyRS1XbElJcmxQSVZuczFWR0RTb3I1Rm1WbFV2NG0yS3FwS0RCbUZaY3c1UFppeEEwTlprcEJCYnZLTndGZnpvQTZuaDJUclROQnBhWV9hX2NXc3RVYnp0aWNiN1R3SEg5aDZaaWVVMWhkUG5nRFlLUzB3SGUyeW9PRXJMaTY2OU55N3R2YUx3cmtPZEFSNDVDUQ?oc=5" target="_blank">Guerre au Moyen-Orient : les fournisseurs de l'Etat pourront demander des hausses de prix</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Epidémie d'arrêts maladie : comment le gouvernement essaye de réduire leur coût - Les Echos](https://news.google.com/rss/articles/CBMiywFBVV95cUxOS3ZkSkJHQVlNb0xMRUludWQ1cUs3bUNaRFVlMVFlYV9jbElRMGZOMUs3SEs5N3hPQVRRSGhPNHpQek9OYmszX1ViV2JjejhHY1JpV2JsQXJlS2kxQzRqOXFHRjlaNWRmalFzeTg2MktKX0ZpWlQtWVVhRXZLdzdmN0Y3THRZdDdTNXNHb3E5eWZ4aVFWMnMtRXNzVVZFeVNsZjJLQTJ2RFA3a0ktckNtcWtTdXZ3NWR1SlZxMmM4b1ZCRUxQaU01X0dzOA?oc=5)
-
-`Mon, 27 Apr 2026 15:01:21 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiywFBVV95cUxOS3ZkSkJHQVlNb0xMRUludWQ1cUs3bUNaRFVlMVFlYV9jbElRMGZOMUs3SEs5N3hPQVRRSGhPNHpQek9OYmszX1ViV2JjejhHY1JpV2JsQXJlS2kxQzRqOXFHRjlaNWRmalFzeTg2MktKX0ZpWlQtWVVhRXZLdzdmN0Y3THRZdDdTNXNHb3E5eWZ4aVFWMnMtRXNzVVZFeVNsZjJLQTJ2RFA3a0ktckNtcWtTdXZ3NWR1SlZxMmM4b1ZCRUxQaU01X0dzOA?oc=5" target="_blank">Epidémie d'arrêts maladie : comment le gouvernement essaye de réduire leur coût</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Croissance, déficit : face à la crise, Bercy admet naviguer « à vue » - Les Echos](https://news.google.com/rss/articles/CBMixAFBVV95cUxPaVZ0OS1wRzJ1cVM4U2VWWVh6QW5sbnlmUzFIZ1BseEp4LVZ2V21YWmpUanpOd1ZHN1AtTFJVTE52VktWTUpqc1FOS1dxTVg4cmJIR0ZZZGJlamNTZmU0NVNtSmJLd3A2eTVTZndSY0FEZVBRQXJWWHNNYUhrbV9IMEk0QlhvaklMNkFUTEk1TEhGTnBiMC1NXzl1M3NpYWQ4X0lNSzAzTkpIci1yblBZcGVVOXdYekNEMTJNeUtDdHJKQk44?oc=5)
-
-`Mon, 27 Apr 2026 16:42:13 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMixAFBVV95cUxPaVZ0OS1wRzJ1cVM4U2VWWVh6QW5sbnlmUzFIZ1BseEp4LVZ2V21YWmpUanpOd1ZHN1AtTFJVTE52VktWTUpqc1FOS1dxTVg4cmJIR0ZZZGJlamNTZmU0NVNtSmJLd3A2eTVTZndSY0FEZVBRQXJWWHNNYUhrbV9IMEk0QlhvaklMNkFUTEk1TEhGTnBiMC1NXzl1M3NpYWQ4X0lNSzAzTkpIci1yblBZcGVVOXdYekNEMTJNeUtDdHJKQk44?oc=5" target="_blank">Croissance, déficit : face à la crise, Bercy admet naviguer « à vue »</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
