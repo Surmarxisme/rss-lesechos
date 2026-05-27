@@ -1,7 +1,47 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Tue, 26 May 2026 19:12:34 +0000`
-> 84 articles (30 derniers jours)
+> Derniere mise a jour : `Wed, 27 May 2026 08:54:20 +0000`
+> 87 articles (30 derniers jours)
+
+---
+
+### [Lobbying : dix ans après la loi Sapin II, l'encadrement reste ignoré des Français - Les Echos](https://news.google.com/rss/articles/CBMizAFBVV95cUxPX0hob2RoUER5LWpmc3NRMFVqcWZneHVPaTJ6MXhuejNmYmxCd1hSUm9YOXFHNDZYci00VVcxVFpUUHEtUjZlZHROWXM3SE5GaUJYSjNZVGttb0I3Q0Etdm5Ec0stZERRdHJrTUR2REVveFhuNTh6d2xvSUhRNU5XMko5cy1NdXhHVmg5bDZaajh4TWdSZjRTblJmVUozQXU3WUZaSUs0Znk5aFk3a2FiTW9EZGZWdk50cnhuS1JPNDdlNjdnNmdzQmxEM08?oc=5)
+
+`Wed, 27 May 2026 04:30:08 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMizAFBVV95cUxPX0hob2RoUER5LWpmc3NRMFVqcWZneHVPaTJ6MXhuejNmYmxCd1hSUm9YOXFHNDZYci00VVcxVFpUUHEtUjZlZHROWXM3SE5GaUJYSjNZVGttb0I3Q0Etdm5Ec0stZERRdHJrTUR2REVveFhuNTh6d2xvSUhRNU5XMko5cy1NdXhHVmg5bDZaajh4TWdSZjRTblJmVUozQXU3WUZaSUs0Znk5aFk3a2FiTW9EZGZWdk50cnhuS1JPNDdlNjdnNmdzQmxEM08?oc=5" target="_blank">Lobbying : dix ans après la loi Sapin II, l'encadrement reste ignoré des Français</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Ruptures conventionnelles : le projet de loi durcissant les règles d'indemnisation en passe d'être définitivement adopté - Les Echos](https://news.google.com/rss/articles/CBMigAJBVV95cUxOMlRiM3hRRUNjemEyUnZzZFV0X2RaM0NKRVRuSTEzX0luUVpRTDdBYTZhUFJFYXpJVE9ybW1zTGVYa1JhNTB3SFNwdTZ5cmtEM2ZIX2JEcTJGQmpqdlc2amRfRTlfMU1WNFZLRUJJY3R0UHlFVFpUTDY2cnd5MU9VeTc4T0JIVHBrd21TN1hqVS11bGFWYWlkdUZENl9KRlVpcjJEM1p3dWlTdlBZYmVfNTVXOVpSSU9BVFpCNGlhUnpabUZKdkh3alhpRXJlbzlfb0w0YldvLXRLSFRJWnpuUjdwYXNNOVY0WUJjR1RwQzcwV2syR012a1d4UlBmdlA0?oc=5)
+
+`Tue, 26 May 2026 19:20:00 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMigAJBVV95cUxOMlRiM3hRRUNjemEyUnZzZFV0X2RaM0NKRVRuSTEzX0luUVpRTDdBYTZhUFJFYXpJVE9ybW1zTGVYa1JhNTB3SFNwdTZ5cmtEM2ZIX2JEcTJGQmpqdlc2amRfRTlfMU1WNFZLRUJJY3R0UHlFVFpUTDY2cnd5MU9VeTc4T0JIVHBrd21TN1hqVS11bGFWYWlkdUZENl9KRlVpcjJEM1p3dWlTdlBZYmVfNTVXOVpSSU9BVFpCNGlhUnpabUZKdkh3alhpRXJlbzlfb0w0YldvLXRLSFRJWnpuUjdwYXNNOVY0WUJjR1RwQzcwV2syR012a1d4UlBmdlA0?oc=5" target="_blank">Ruptures conventionnelles : le projet de loi durcissant les règles d'indemnisation en passe d'être définitivement adopté</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Nouveau recul du moral des ménages, qui tombe à son plus bas niveau en trois ans - Les Echos](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbXFXUUNYNUdobXQtaHNFMXZYbVNDWTN1aE5NN1VvSzNyZlp1ZXg1ZjJfWHRCWkY5OENnTXgwVTNpMkNxalJ3LUU2YkpfdXFjVVEzaDVmU1Zsd3NwTnpMTkQ1QzJ5U3Jqc0FMNUdUQlRMWkw1Ykw3ME9TUTFldnl0SmtMWmVmMXhhQk5YWjNOZ0lkOGR6LTJZN21YbVB6V3ZuRDdpRFR6U201NzJ3aXdFSlhMT2RBU1hOVHdBNkxZRU0tV2pIeVlSNTFqWmxmMDRNMHM2bFlB?oc=5)
+
+`Wed, 27 May 2026 07:32:25 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbXFXUUNYNUdobXQtaHNFMXZYbVNDWTN1aE5NN1VvSzNyZlp1ZXg1ZjJfWHRCWkY5OENnTXgwVTNpMkNxalJ3LUU2YkpfdXFjVVEzaDVmU1Zsd3NwTnpMTkQ1QzJ5U3Jqc0FMNUdUQlRMWkw1Ykw3ME9TUTFldnl0SmtMWmVmMXhhQk5YWjNOZ0lkOGR6LTJZN21YbVB6V3ZuRDdpRFR6U201NzJ3aXdFSlhMT2RBU1hOVHdBNkxZRU0tV2pIeVlSNTFqWmxmMDRNMHM2bFlB?oc=5" target="_blank">Nouveau recul du moral des ménages, qui tombe à son plus bas niveau en trois ans</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Franchises, taxis, ambulances… les pistes explosives de la Cour des comptes pour redresser la Sécu - Les Echos](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOeEctck5UZGc0LVpiS3l0a0ZGaFVhcFJnNHRhaERPY2pFcXYwUWhfYlpyZUNVOEo4UFp3NVJwMVdfS3VLU1h4cG5BU3Z4ZFZQbTBNbWxHeDFiRXNuMkdXSDFxMGVHOGtJdi12YWttcXJkd09vRHNvdXFwc2dOT25GazRBLTlVVzM0OVdEaHRKWG5vMTZCdmhYbEFDaEtkRkpPZFNTaHFPVlQzUEdSSHpZTEpodmQyQXRfLWVuMEdmRVk2ZGpBQVhhODVpZGxta0dxb3pSZFdDd1hMYmp6d2ZQSEJheF8?oc=5)
+
+`Wed, 27 May 2026 08:01:45 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi5AFBVV95cUxOeEctck5UZGc0LVpiS3l0a0ZGaFVhcFJnNHRhaERPY2pFcXYwUWhfYlpyZUNVOEo4UFp3NVJwMVdfS3VLU1h4cG5BU3Z4ZFZQbTBNbWxHeDFiRXNuMkdXSDFxMGVHOGtJdi12YWttcXJkd09vRHNvdXFwc2dOT25GazRBLTlVVzM0OVdEaHRKWG5vMTZCdmhYbEFDaEtkRkpPZFNTaHFPVlQzUEdSSHpZTEpodmQyQXRfLWVuMEdmRVk2ZGpBQVhhODVpZGxta0dxb3pSZFdDd1hMYmp6d2ZQSEJheF8?oc=5" target="_blank">Franchises, taxis, ambulances… les pistes explosives de la Cour des comptes pour redresser la Sécu</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Syndicats : actualités, discours, élections et vidéos - Les Echos | Page 310 - Les Echos](https://news.google.com/rss/articles/CBMic0FVX3lxTFBjSGpWVU0zUTJkcTJJcDNYQlJzMjNpa0VSdzM3dXdiYllnSjEtbDZwand1QXhPSFJjRUROWG16TDJWMi1vN3JPZWRXM0RVcHhDeWpQdXBiUGZYeFZxSXg2aEpHMUFrOVVjbmJXbHljQ3NoRkk?oc=5)
+
+`Fri, 22 May 2026 14:31:12 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMic0FVX3lxTFBjSGpWVU0zUTJkcTJJcDNYQlJzMjNpa0VSdzM3dXdiYllnSjEtbDZwand1QXhPSFJjRUROWG16TDJWMi1vN3JPZWRXM0RVcHhDeWpQdXBiUGZYeFZxSXg2aEpHMUFrOVVjbmJXbHljQ3NoRkk?oc=5" target="_blank">Syndicats : actualités, discours, élections et vidéos - Les Echos | Page 310</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -658,21 +698,5 @@
 `Mon, 27 Apr 2026 16:42:13 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMixAFBVV95cUxPaVZ0OS1wRzJ1cVM4U2VWWVh6QW5sbnlmUzFIZ1BseEp4LVZ2V21YWmpUanpOd1ZHN1AtTFJVTE52VktWTUpqc1FOS1dxTVg4cmJIR0ZZZGJlamNTZmU0NVNtSmJLd3A2eTVTZndSY0FEZVBRQXJWWHNNYUhrbV9IMEk0QlhvaklMNkFUTEk1TEhGTnBiMC1NXzl1M3NpYWQ4X0lNSzAzTkpIci1yblBZcGVVOXdYekNEMTJNeUtDdHJKQk44?oc=5" target="_blank">Croissance, déficit : face à la crise, Bercy admet naviguer « à vue »</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Les propositions du Medef pour mettre fin au chaos des discussions budgétaires - Les Echos](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUEEzRjNMak9oVGQ1d1Y3NURIVjZMa1NKQ0J3Wld0MzFYX3owMVd5Q2tqQW5EZk5EMGItOVRtSmplME4wTHN2V0gtTUtfLVM3WnlqLXUzTWdjTmdZaFhwemY0bVAxNnZxemVNMWZsQ1dOZnYtWE4wOFZMV0ZrdndDeVRKSk1pSkI1VjhBWGJzVkJweFlIUWh5ekVuWmhPTWg2b0FpRzdCTTRYOXhLQldPdUZtMVJBMWVKZ3ZzVkp2VDlXTGtnVHZSckhvYWdEckF3enBXMmpXZ0xqaU0?oc=5)
-
-`Mon, 27 Apr 2026 04:30:14 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUEEzRjNMak9oVGQ1d1Y3NURIVjZMa1NKQ0J3Wld0MzFYX3owMVd5Q2tqQW5EZk5EMGItOVRtSmplME4wTHN2V0gtTUtfLVM3WnlqLXUzTWdjTmdZaFhwemY0bVAxNnZxemVNMWZsQ1dOZnYtWE4wOFZMV0ZrdndDeVRKSk1pSkI1VjhBWGJzVkJweFlIUWh5ekVuWmhPTWg2b0FpRzdCTTRYOXhLQldPdUZtMVJBMWVKZ3ZzVkp2VDlXTGtnVHZSckhvYWdEckF3enBXMmpXZ0xqaU0?oc=5" target="_blank">Les propositions du Medef pour mettre fin au chaos des discussions budgétaires</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Lutte contre la fraude : les complémentaires santé engrangent des soutiens face aux opticiens - Les Echos](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVXhnZzk1ZkVFYm5oU1AzWi10UVN5WXc0SWxRelB4a2NvZmdkeGt4Ylc0SjhaZHZiTWZXakpOS3g2THotODNLUTh2R29aamhJa3hGaVdVSkNrUGozSG9NZUUtdXZKdXNQWkZpVlg0RUEwdTVuSXlQUTJfbVlaSWJIVW9RVGFtR3F1NnJfNHRnVUJEdVdNNzJXNi1iOTI1RUhJU2d1Q0g4dXhaQndiSURubmV5UzU0THVSY1dvUWkyWlJzbkVUSWNUV2dzT0VvWURUcmNQU0VIWHJKT21aVDM0?oc=5)
-
-`Mon, 27 Apr 2026 04:00:09 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVXhnZzk1ZkVFYm5oU1AzWi10UVN5WXc0SWxRelB4a2NvZmdkeGt4Ylc0SjhaZHZiTWZXakpOS3g2THotODNLUTh2R29aamhJa3hGaVdVSkNrUGozSG9NZUUtdXZKdXNQWkZpVlg0RUEwdTVuSXlQUTJfbVlaSWJIVW9RVGFtR3F1NnJfNHRnVUJEdVdNNzJXNi1iOTI1RUhJU2d1Q0g4dXhaQndiSURubmV5UzU0THVSY1dvUWkyWlJzbkVUSWNUV2dzT0VvWURUcmNQU0VIWHJKT21aVDM0?oc=5" target="_blank">Lutte contre la fraude : les complémentaires santé engrangent des soutiens face aux opticiens</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
