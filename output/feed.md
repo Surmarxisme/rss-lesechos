@@ -1,7 +1,7 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Thu, 28 May 2026 09:37:41 +0000`
-> 83 articles (30 derniers jours)
+> Derniere mise a jour : `Thu, 28 May 2026 12:35:31 +0000`
+> 81 articles (30 derniers jours)
 
 ---
 
@@ -650,21 +650,5 @@
 `Tue, 28 Apr 2026 13:35:33 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi9wFBVV95cUxNSGR0TTJ1aXEtNVE4X1F6ZU5UOExTcVdUMHZHV0MwQmFWdGV3UTVuYXJ2M1RPckxfZi15dkxINGhteFc3VWhTUDl4RVZRTjdNQXV4NFF3ZEFPYUIwT1E3RG5Gd0hGX3F3T09YTGFjZWNPM0tkbC1HWDBXVFUxNkhlZ042QTQ4X3FQSGRfbExUUkt1Wmt6NENEN0ZTejBVNWYwd0ZjRm11akxIMVpMaTMwMlpjdUdwTHF2UFNLV3dfR1F4TGhBWVFsTzFRYUNKUldpckNiVlhJbmxmY1JFak5NTVl6QmUzb1pGVEhKTmlrc3Q4N3dOQjY4?oc=5" target="_blank">Accord décisif entre députés et sénateurs pour durcir la lutte contre la fraude fiscale et sociale</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Chômage : net recul des inscrits à France Travail début 2026 - Les Echos](https://news.google.com/rss/articles/CBMiswFBVV95cUxNR2tHRmRScGZDY2I2aGxvUGFYeG15VFU2dVBXOGU0VmhidzRVbFRrb3NRTjY4WEY1M29YQUxhSmFjb2xxY3dYX0V1NkNmUkN3R3NWUGVCNkxMOEUzTVlIUU5lZndVeWs0eEhBaTlfSi00bVhrdXdoNHl6Z2xtcDY4NV9CY0xoOUpCUy12YkJVQ3NEcFZPeWRpaERqN054VFZsN0NkVXltc2ZRLVpLVzYtOHFGRQ?oc=5)
-
-`Tue, 28 Apr 2026 10:01:14 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxNR2tHRmRScGZDY2I2aGxvUGFYeG15VFU2dVBXOGU0VmhidzRVbFRrb3NRTjY4WEY1M29YQUxhSmFjb2xxY3dYX0V1NkNmUkN3R3NWUGVCNkxMOEUzTVlIUU5lZndVeWs0eEhBaTlfSi00bVhrdXdoNHl6Z2xtcDY4NV9CY0xoOUpCUy12YkJVQ3NEcFZPeWRpaERqN054VFZsN0NkVXltc2ZRLVpLVzYtOHFGRQ?oc=5" target="_blank">Chômage : net recul des inscrits à France Travail début 2026</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Emmanuel Macron s'apprête à lancer une mission sur le financement de la protection sociale - Les Echos](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQOWJISng1Wjg4el9PX3B6MDRsczVINlV5S1hLWG1pRDU4bnFCcEZYVVkyZVR3TGl4SmJFalNlT21jQnBUTTBZa0cydDZGbWZVQ1JnMmxheFdPNGRUMEl2b1RFc0Y5NjYxSFIxak1palV4M2QxRm5aUFNDVy1hVXVUMEFJQzRuVUlEbW85U280ejB1bWJhX19lVVJHX3REZWY1WklxdTRXRVU4dmhLT3hqSnRMN0hxNHFxWjNrcGt0TTJEWEYzQW1fNVByVGxYTlpOaVZQNk9xQUJDMHpK?oc=5)
-
-`Tue, 28 Apr 2026 10:42:08 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi3AFBVV95cUxQOWJISng1Wjg4el9PX3B6MDRsczVINlV5S1hLWG1pRDU4bnFCcEZYVVkyZVR3TGl4SmJFalNlT21jQnBUTTBZa0cydDZGbWZVQ1JnMmxheFdPNGRUMEl2b1RFc0Y5NjYxSFIxak1palV4M2QxRm5aUFNDVy1hVXVUMEFJQzRuVUlEbW85U280ejB1bWJhX19lVVJHX3REZWY1WklxdTRXRVU4dmhLT3hqSnRMN0hxNHFxWjNrcGt0TTJEWEYzQW1fNVByVGxYTlpOaVZQNk9xQUJDMHpK?oc=5" target="_blank">Emmanuel Macron s'apprête à lancer une mission sur le financement de la protection sociale</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
