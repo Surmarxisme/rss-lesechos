@@ -1,7 +1,39 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Thu, 28 May 2026 12:35:31 +0000`
-> 81 articles (30 derniers jours)
+> Derniere mise a jour : `Thu, 28 May 2026 15:32:25 +0000`
+> 83 articles (30 derniers jours)
+
+---
+
+### [Cette étude qui pose un nouveau regard sur la pauvreté en France - Les Echos](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcmFzTTBQTmtBTXM1bnM1RG92WV82QlZSQm1pbTcxR3BsQVFtQnBKMi00SGM2dlpGckdPdWhibTJJVzVMMkZBUF9jMG9iTUkybjBwZTFuVlFLZVM2TG5JQTEyNXJWYjhYODNtZ0NQZW90YkJKaEU3Z1pabWxNbFhETm5oM04tQnpYdlp1OGNEZTVfX0hnWTg0S1o2TGhFQ1hRQktNWERNTFZacVN6MWRFYzIwbWowTWpudzI3QkZIQnFGQQ?oc=5)
+
+`Thu, 28 May 2026 15:13:23 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcmFzTTBQTmtBTXM1bnM1RG92WV82QlZSQm1pbTcxR3BsQVFtQnBKMi00SGM2dlpGckdPdWhibTJJVzVMMkZBUF9jMG9iTUkybjBwZTFuVlFLZVM2TG5JQTEyNXJWYjhYODNtZ0NQZW90YkJKaEU3Z1pabWxNbFhETm5oM04tQnpYdlp1OGNEZTVfX0hnWTg0S1o2TGhFQ1hRQktNWERNTFZacVN6MWRFYzIwbWowTWpudzI3QkZIQnFGQQ?oc=5" target="_blank">Cette étude qui pose un nouveau regard sur la pauvreté en France</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Sécurité sociale : de l'Assurance Maladie aux retraites en passant par la famille, des déficits à tous les étages - Les Echos](https://news.google.com/rss/articles/CBMi9wFBVV95cUxQLTJMbmtIYks0OW1HcWJEdm5BV0ZhZ1VmNjVtUHQ4X2QtcmZYSzZ3RVJxaU8yYm1lejc1OVdoNm1Jdmo3UmdjeEdSdVZVVU9zNXp1VG0tOEtnanJDWElvMmozZk1hOUdIMmptNEx2RXJUYllSYkt3MHJYY2xLbk9DZlhyaFBHb0xUT0tPdFJsV3A2eC05b2RCRnpHOGhhQ3lDclFTV0ZfQUREcVIwZnhicFliTHdEYktTZ1RFd0ltT24zdUdlbWNqUExBeEV3R0FxdzBsVUU2bFRPMVM1Mmk1REgyV0FQYUswVWYwbXVTd2RrMUFJc2c0?oc=5)
+
+`Thu, 28 May 2026 15:25:24 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi9wFBVV95cUxQLTJMbmtIYks0OW1HcWJEdm5BV0ZhZ1VmNjVtUHQ4X2QtcmZYSzZ3RVJxaU8yYm1lejc1OVdoNm1Jdmo3UmdjeEdSdVZVVU9zNXp1VG0tOEtnanJDWElvMmozZk1hOUdIMmptNEx2RXJUYllSYkt3MHJYY2xLbk9DZlhyaFBHb0xUT0tPdFJsV3A2eC05b2RCRnpHOGhhQ3lDclFTV0ZfQUREcVIwZnhicFliTHdEYktTZ1RFd0ltT24zdUdlbWNqUExBeEV3R0FxdzBsVUU2bFRPMVM1Mmk1REgyV0FQYUswVWYwbXVTd2RrMUFJc2c0?oc=5" target="_blank">Sécurité sociale : de l'Assurance Maladie aux retraites en passant par la famille, des déficits à tous les étages</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Les fonctionnaires massivement rattrapés par le SMIC - Les Echos](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZzNVX3dfUm1jU0NzNVl5TmhpRTRDeUJ0bVpkd0JjVkFWQmJfUG1XOGtmcTE1b25kUVVBRXlWVUhBN2dMbU95TllKYUZFc1cxdkpjczdOcHZuM2VFNG1kS3BmS1dudzhQTm5GT3hhYTBfRHdvczdXZVRLcC1YRkdyMmpId0xCZ3VhbkhjQXVVQUVFVEw2Y1dJZ0xsSzd5S0R5VWhmOHFRV1NHQ3M?oc=5)
+
+`Thu, 28 May 2026 14:45:17 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZzNVX3dfUm1jU0NzNVl5TmhpRTRDeUJ0bVpkd0JjVkFWQmJfUG1XOGtmcTE1b25kUVVBRXlWVUhBN2dMbU95TllKYUZFc1cxdkpjczdOcHZuM2VFNG1kS3BmS1dudzhQTm5GT3hhYTBfRHdvczdXZVRLcC1YRkdyMmpId0xCZ3VhbkhjQXVVQUVFVEw2Y1dJZ0xsSzd5S0R5VWhmOHFRV1NHQ3M?oc=5" target="_blank">Les fonctionnaires massivement rattrapés par le SMIC</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Production industrielle : chiffres, analyses et vidéos - Les Echos | Page 143 - Les Echos](https://news.google.com/rss/articles/CBMijAFBVV95cUxQS1BKMGt6Q21MR055NlRVRTZFZDluRlI5OXBkbW1yOXF6bmZSQlpSdHRHMlRHa2s3LUJWU05MQ3lGZHRYNTVYUFJmd1BqRWFOeXNKZUEzMEs2VGxzNWJrTlRVbklGNjc1NjFBVEZPczNoZV81R0loc2dvNmNlT0stU0FoRDNSek9zZ1pmZQ?oc=5)
+
+`Wed, 27 May 2026 05:42:32 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMijAFBVV95cUxQS1BKMGt6Q21MR055NlRVRTZFZDluRlI5OXBkbW1yOXF6bmZSQlpSdHRHMlRHa2s3LUJWU05MQ3lGZHRYNTVYUFJmd1BqRWFOeXNKZUEzMEs2VGxzNWJrTlRVbklGNjc1NjFBVEZPczNoZV81R0loc2dvNmNlT0stU0FoRDNSek9zZ1pmZQ?oc=5" target="_blank">Production industrielle : chiffres, analyses et vidéos - Les Echos | Page 143</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -629,26 +661,10 @@
 
 ---
 
-### [Territoires zéro chômeur : l'expérimentation toujours en sursis - Les Echos](https://news.google.com/rss/articles/CBMitgFBVV95cUxORHlhTWVXLURKeFkwVWdqcjdQSUdqM1dKdS1rci1memYwbi1DZUpsVnp2TmI1cGZfMGo1VFZ4cGhRVk5lRWZmZVgweW1fbmZoeWp4NFB0WGZzOFZZSDAtMHR0cGE1cnByU3ZsWk9XVEhkb2JxcjRobGw0WERJMHF0YzVrU2tmYzEyZi16cURfMjVWT3pGNWxmNENvTVU1RTY1YjdSNV80azAxV19zM1NNTEJwc0l5UQ?oc=5)
-
-`Tue, 28 Apr 2026 14:52:54 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxORHlhTWVXLURKeFkwVWdqcjdQSUdqM1dKdS1rci1memYwbi1DZUpsVnp2TmI1cGZfMGo1VFZ4cGhRVk5lRWZmZVgweW1fbmZoeWp4NFB0WGZzOFZZSDAtMHR0cGE1cnByU3ZsWk9XVEhkb2JxcjRobGw0WERJMHF0YzVrU2tmYzEyZi16cURfMjVWT3pGNWxmNENvTVU1RTY1YjdSNV80azAxV19zM1NNTEJwc0l5UQ?oc=5" target="_blank">Territoires zéro chômeur : l'expérimentation toujours en sursis</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
 ### [FO : Frédéric Souillot veut croire en la relance du dialogue avec le patronat - Les Echos](https://news.google.com/rss/articles/CBMiygFBVV95cUxPS2t0UVUwb3E1WWNvTW52QnBhSlZLeGx2WWFYUjN2QUs2M1hmRUhxUHJ3U0U3Z21KclFiN0t0eGtiRUx4WFdSRWNWR1RlaXlnZXVET1BhM2Fib2hKemNoSEd0V29iWUpPdHNuXy1EU0FZUWozeTdTSDJmY01YTHJlZEV3SWNPWUJnS2RTeEcxcklpOF9pbmxXV3ZOUUlOdUtDem1lbDQxRHY0blAzN0lXU2wwVVF1SFJJeWpvdDgxaDNvSFgtRXdPUE93?oc=5)
 
 `Tue, 28 Apr 2026 16:57:39 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxPS2t0UVUwb3E1WWNvTW52QnBhSlZLeGx2WWFYUjN2QUs2M1hmRUhxUHJ3U0U3Z21KclFiN0t0eGtiRUx4WFdSRWNWR1RlaXlnZXVET1BhM2Fib2hKemNoSEd0V29iWUpPdHNuXy1EU0FZUWozeTdTSDJmY01YTHJlZEV3SWNPWUJnS2RTeEcxcklpOF9pbmxXV3ZOUUlOdUtDem1lbDQxRHY0blAzN0lXU2wwVVF1SFJJeWpvdDgxaDNvSFgtRXdPUE93?oc=5" target="_blank">FO : Frédéric Souillot veut croire en la relance du dialogue avec le patronat</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Accord décisif entre députés et sénateurs pour durcir la lutte contre la fraude fiscale et sociale - Les Echos](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNSGR0TTJ1aXEtNVE4X1F6ZU5UOExTcVdUMHZHV0MwQmFWdGV3UTVuYXJ2M1RPckxfZi15dkxINGhteFc3VWhTUDl4RVZRTjdNQXV4NFF3ZEFPYUIwT1E3RG5Gd0hGX3F3T09YTGFjZWNPM0tkbC1HWDBXVFUxNkhlZ042QTQ4X3FQSGRfbExUUkt1Wmt6NENEN0ZTejBVNWYwd0ZjRm11akxIMVpMaTMwMlpjdUdwTHF2UFNLV3dfR1F4TGhBWVFsTzFRYUNKUldpckNiVlhJbmxmY1JFak5NTVl6QmUzb1pGVEhKTmlrc3Q4N3dOQjY4?oc=5)
-
-`Tue, 28 Apr 2026 13:35:33 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi9wFBVV95cUxNSGR0TTJ1aXEtNVE4X1F6ZU5UOExTcVdUMHZHV0MwQmFWdGV3UTVuYXJ2M1RPckxfZi15dkxINGhteFc3VWhTUDl4RVZRTjdNQXV4NFF3ZEFPYUIwT1E3RG5Gd0hGX3F3T09YTGFjZWNPM0tkbC1HWDBXVFUxNkhlZ042QTQ4X3FQSGRfbExUUkt1Wmt6NENEN0ZTejBVNWYwd0ZjRm11akxIMVpMaTMwMlpjdUdwTHF2UFNLV3dfR1F4TGhBWVFsTzFRYUNKUldpckNiVlhJbmxmY1JFak5NTVl6QmUzb1pGVEhKTmlrc3Q4N3dOQjY4?oc=5" target="_blank">Accord décisif entre députés et sénateurs pour durcir la lutte contre la fraude fiscale et sociale</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
