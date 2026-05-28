@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Thu, 28 May 2026 15:32:25 +0000`
+> Derniere mise a jour : `Thu, 28 May 2026 19:32:20 +0000`
 > 83 articles (30 derniers jours)
+
+---
+
+### [Guerre au Moyen-Orient : le gouvernement annonce un coup de rabot dans les dépenses de l'Etat - Les Echos](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNaVd3cmFHUEw4VW9STEtSbHhLR2liUkxwVUJvdkFJVmVETnpCblNYUWVORjA3a3dQa1RvSTNmbDFHUUdQaHJ1WHlrck1JNV9DcFZ6c3hZTjRDTV9PRGdTQktKTVpPcjQyQ2tneTR4NmVJYXJXZGE4MDUwVzNCd0t2b04zVzg2TDUtWDdIUDRBbjhMS3RUNkp5LUtvMUIyMjgtMkJ1UEgwc091S2pZSXBxenZ6RjV6NHdheHQxZ3RCNGMtNkNYUnBETUZsRmt6MHFteUtRWGhNWXpheEhib2lRb0lVdFM3NHBmZkg4?oc=5)
+
+`Thu, 28 May 2026 18:39:13 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi6wFBVV95cUxNaVd3cmFHUEw4VW9STEtSbHhLR2liUkxwVUJvdkFJVmVETnpCblNYUWVORjA3a3dQa1RvSTNmbDFHUUdQaHJ1WHlrck1JNV9DcFZ6c3hZTjRDTV9PRGdTQktKTVpPcjQyQ2tneTR4NmVJYXJXZGE4MDUwVzNCd0t2b04zVzg2TDUtWDdIUDRBbjhMS3RUNkp5LUtvMUIyMjgtMkJ1UEgwc091S2pZSXBxenZ6RjV6NHdheHQxZ3RCNGMtNkNYUnBETUZsRmt6MHFteUtRWGhNWXpheEhib2lRb0lVdFM3NHBmZkg4?oc=5" target="_blank">Guerre au Moyen-Orient : le gouvernement annonce un coup de rabot dans les dépenses de l'Etat</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -658,13 +666,5 @@
 `Wed, 29 Apr 2026 04:40:09 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUi1YaGxJQXdxek5sT2RaNGI4UDl2Qm9KRVpiS05oa21Jd0Nka1ZhT1Y3RElGeGtzb3VScEJPZ1lkTXdKa0hnSUcxa05lVnkyRW1feHk5VUtYZEl3ek5EQzFCcF9YVmRSZFRqNmlqOERfQ09tQjlPN2p3aWluVUZTdTBrV0tjN2NHSUZNd1pOaWxmMElTdG5oRkxjbHhDRVNpWWt4UFpITllFem9GUGR1TXZ3VTlLNDBQMUhtQ1dYX3RlRnJwekxPX2l1QWgtUk95?oc=5" target="_blank">Prix de l'essence : les ventes de carburants chutent lourdement en France</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [FO : Frédéric Souillot veut croire en la relance du dialogue avec le patronat - Les Echos](https://news.google.com/rss/articles/CBMiygFBVV95cUxPS2t0UVUwb3E1WWNvTW52QnBhSlZLeGx2WWFYUjN2QUs2M1hmRUhxUHJ3U0U3Z21KclFiN0t0eGtiRUx4WFdSRWNWR1RlaXlnZXVET1BhM2Fib2hKemNoSEd0V29iWUpPdHNuXy1EU0FZUWozeTdTSDJmY01YTHJlZEV3SWNPWUJnS2RTeEcxcklpOF9pbmxXV3ZOUUlOdUtDem1lbDQxRHY0blAzN0lXU2wwVVF1SFJJeWpvdDgxaDNvSFgtRXdPUE93?oc=5)
-
-`Tue, 28 Apr 2026 16:57:39 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxPS2t0UVUwb3E1WWNvTW52QnBhSlZLeGx2WWFYUjN2QUs2M1hmRUhxUHJ3U0U3Z21KclFiN0t0eGtiRUx4WFdSRWNWR1RlaXlnZXVET1BhM2Fib2hKemNoSEd0V29iWUpPdHNuXy1EU0FZUWozeTdTSDJmY01YTHJlZEV3SWNPWUJnS2RTeEcxcklpOF9pbmxXV3ZOUUlOdUtDem1lbDQxRHY0blAzN0lXU2wwVVF1SFJJeWpvdDgxaDNvSFgtRXdPUE93?oc=5" target="_blank">FO : Frédéric Souillot veut croire en la relance du dialogue avec le patronat</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
