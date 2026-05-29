@@ -1,7 +1,7 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Fri, 29 May 2026 14:45:13 +0000`
-> 84 articles (30 derniers jours)
+> Derniere mise a jour : `Fri, 29 May 2026 19:25:24 +0000`
+> 82 articles (30 derniers jours)
 
 ---
 
@@ -658,21 +658,5 @@
 `Thu, 30 Apr 2026 04:05:09 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi6gFBVV95cUxNU19YVDJNV0hQTTJhS3pMQ2NrRTJNbTBRZHY3NHl6OHhpWmJEaEN6UDlvMWM3THdVc1F4WW5VOGJLU1dpSGM5QktDN3NmZktSQUp1VGxaMHdlcnFuZ2FrSlFNU0dXNXdCQjJfbUhHcjlqblIyaUNMSnBOSU9Vbk5Id0g4Smt1NlZQVXF5LTczWU5UT0lEQ1NleDU2Q2VFbDJDOUVzSDZRaUdTdUl1RzhSRmRXaGxpNWJSYTNPQm5RVEl0czZWVXktcHdjYVNHOE42WFhaeGpTMENqSXlHR3hpZlVoSjVOU2NUVmc?oc=5" target="_blank">Assurance-chômage : une étape importante franchie sur le dossier coûteux des travailleurs frontaliers</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Carburants : Lecornu réfléchit à de nouvelles aides sans exclure une taxe sur les superprofits - Les Echos](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOLWlxLWxXVWJQN3pscjJBN2dYc0o5b0VkeGNqTU92ME9fTFI4Q3oyR19pZzRUZzNkT0E3TlZ1d3V2U3A1VHhDYWFWVkhnc3B0Wmh6R3Axa0l6bGZSNlU2dTViVVF4d0hlakxGeFB4aVpDbGxEcExlVlN3NnJ3S0lCcE82OGJQdGdxQnN2ZVNjZkx0eU1lTmY5bjRwVmQyMHVsdkY1dFI4THJhcU84RDh0Y0NKZUZVYzI2VFl4Zld5YnlMb0ZjWXl3UGNHNF9JaHJYRnRXT0lRbmh2Q2pxbmItcG0zc1BuaHowdEJFVm5R?oc=5)
-
-`Wed, 29 Apr 2026 15:41:44 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi7gFBVV95cUxOLWlxLWxXVWJQN3pscjJBN2dYc0o5b0VkeGNqTU92ME9fTFI4Q3oyR19pZzRUZzNkT0E3TlZ1d3V2U3A1VHhDYWFWVkhnc3B0Wmh6R3Axa0l6bGZSNlU2dTViVVF4d0hlakxGeFB4aVpDbGxEcExlVlN3NnJ3S0lCcE82OGJQdGdxQnN2ZVNjZkx0eU1lTmY5bjRwVmQyMHVsdkY1dFI4THJhcU84RDh0Y0NKZUZVYzI2VFl4Zld5YnlMb0ZjWXl3UGNHNF9JaHJYRnRXT0lRbmh2Q2pxbmItcG0zc1BuaHowdEJFVm5R?oc=5" target="_blank">Carburants : Lecornu réfléchit à de nouvelles aides sans exclure une taxe sur les superprofits</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Travail le 1er-Mai : la polémique ne s'éteint pas - Les Echos](https://news.google.com/rss/articles/CBMiowFBVV95cUxPWURWS1dUaGgzeXI2QVNpMnlheS1fSmp3Z1c5dGdzU1p6cHZqOEZxcng3MHpiUE5FZmxQTTRDVmh6dmczeGl0b1o5Q24zbXdfcVBiZ05ndmVmNEQ4RV9ySFl5SUFoNGJSWXpGY25qeG1RLUdKYzhKM3lyZ3JZNFVBR0NNckcxWDdyaDVTRDFBMDNncXpueHZrNGJoU3NDcEFvREFv?oc=5)
-
-`Wed, 29 Apr 2026 15:18:28 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiowFBVV95cUxPWURWS1dUaGgzeXI2QVNpMnlheS1fSmp3Z1c5dGdzU1p6cHZqOEZxcng3MHpiUE5FZmxQTTRDVmh6dmczeGl0b1o5Q24zbXdfcVBiZ05ndmVmNEQ4RV9ySFl5SUFoNGJSWXpGY25qeG1RLUdKYzhKM3lyZ3JZNFVBR0NNckcxWDdyaDVTRDFBMDNncXpueHZrNGJoU3NDcEFvREFv?oc=5" target="_blank">Travail le 1er-Mai : la polémique ne s'éteint pas</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
