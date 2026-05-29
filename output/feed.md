@@ -1,7 +1,31 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Thu, 28 May 2026 19:32:20 +0000`
-> 83 articles (30 derniers jours)
+> Derniere mise a jour : `Fri, 29 May 2026 08:59:01 +0000`
+> 84 articles (30 derniers jours)
+
+---
+
+### [L'inflation accélère, la France menacée de récession - Les Echos](https://news.google.com/rss/articles/CBMikwFBVV95cUxPaFcyb20tbFVjN1hoZjkxY3l2VUE4LS1IMjhIN0I4eXpGc3g1b1hSOE1JVVFJVUtXTk44WUJZOFR5UDdMZDFYVkJnS3paeDM1SFZPem1DUm8yQkxwVTNDM2laeGxYdDZRa3lDYUwtdFE1VkhfWnF0MW5pcjlENjV1NzZzRU03MzN0dmktNm5pRkxmN3M?oc=5)
+
+`Fri, 29 May 2026 08:19:03 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMikwFBVV95cUxPaFcyb20tbFVjN1hoZjkxY3l2VUE4LS1IMjhIN0I4eXpGc3g1b1hSOE1JVVFJVUtXTk44WUJZOFR5UDdMZDFYVkJnS3paeDM1SFZPem1DUm8yQkxwVTNDM2laeGxYdDZRa3lDYUwtdFE1VkhfWnF0MW5pcjlENjV1NzZzRU03MzN0dmktNm5pRkxmN3M?oc=5" target="_blank">L'inflation accélère, la France menacée de récession</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Après la hausse du SMIC, les syndicats dénoncent une France de « bas salaires » - Les Echos](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcVhUc2tpeHI5bDNrVDJuOW41UnpBa1N5UlY2N0NMcGpLNU5vVjM1QjhZbEdfTWpaNHRYTUFWcHhkNVl5dUFyOFBqY1F6OTY3QWxEYnNfZElnb1V5ME90dmIwUEN1dkQzUFcyemFlUWJ4al9pd19fQXZVdjJyLUdtMXh2MDFhSFFQcUlObXZEVGpmYjJVbFpaQlJtbFNibUQxajZBNGhrQTYxMnBpVmNrWkkyOHc0UDRBcEl5TDl5VnlZNHlkUGVIQg?oc=5)
+
+`Fri, 29 May 2026 04:55:09 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcVhUc2tpeHI5bDNrVDJuOW41UnpBa1N5UlY2N0NMcGpLNU5vVjM1QjhZbEdfTWpaNHRYTUFWcHhkNVl5dUFyOFBqY1F6OTY3QWxEYnNfZElnb1V5ME90dmIwUEN1dkQzUFcyemFlUWJ4al9pd19fQXZVdjJyLUdtMXh2MDFhSFFQcUlObXZEVGpmYjJVbFpaQlJtbFNibUQxajZBNGhrQTYxMnBpVmNrWkkyOHc0UDRBcEl5TDl5VnlZNHlkUGVIQg?oc=5" target="_blank">Après la hausse du SMIC, les syndicats dénoncent une France de « bas salaires »</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Social : actualités, analyses et vidéos - Les Echos | Page 139 - Les Echos](https://news.google.com/rss/articles/CBMiZkFVX3lxTE1EdmdKT3BGcjZOdk5tVV91U3d4TTdoM2IwSU1YTzcyWmliM0duMU1HV3B5cklrQnhkOWN0OEFDN21WLTJ6Q3hwcnFEdno1N21lWE9NTzR3NXFVbjJLdl9wNS1WODE5UQ?oc=5)
+
+`Wed, 27 May 2026 10:01:23 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiZkFVX3lxTE1EdmdKT3BGcjZOdk5tVV91U3d4TTdoM2IwSU1YTzcyWmliM0duMU1HV3B5cklrQnhkOWN0OEFDN21WLTJ6Q3hwcnFEdno1N21lWE9NTzR3NXFVbjJLdl9wNS1WODE5UQ?oc=5" target="_blank">Social : actualités, analyses et vidéos - Les Echos | Page 139</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -650,21 +674,5 @@
 `Wed, 29 Apr 2026 15:18:28 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMiowFBVV95cUxPWURWS1dUaGgzeXI2QVNpMnlheS1fSmp3Z1c5dGdzU1p6cHZqOEZxcng3MHpiUE5FZmxQTTRDVmh6dmczeGl0b1o5Q24zbXdfcVBiZ05ndmVmNEQ4RV9ySFl5SUFoNGJSWXpGY25qeG1RLUdKYzhKM3lyZ3JZNFVBR0NNckcxWDdyaDVTRDFBMDNncXpueHZrNGJoU3NDcEFvREFv?oc=5" target="_blank">Travail le 1er-Mai : la polémique ne s'éteint pas</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Banque de France : Emmanuel Moulin, un fidèle de Macron, dans les starting-blocks - Les Echos](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVXRLQjZwNDJ6ZzdBay1LeW1odzBCYlptZUttSjEwTjhEd2Y1Z3ZVV0FwTm9RcmRBY1hYMUJIeTM2YTRabUM3VTZFNHZVdjlMcEROaGtlczdILWRQTmhvRlFBdEI2SE1HX0J2enRZNU5UVGw1QV8tb0ZHSFdJQnBqc3Ftd0RNNlJxa0dadUhBMEdEbllLYUxwZUZ2T2RFYV9tdmx3RkxpcGpXM2lQbVoxWkdac3FnUUpP?oc=5)
-
-`Wed, 29 Apr 2026 04:23:09 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVXRLQjZwNDJ6ZzdBay1LeW1odzBCYlptZUttSjEwTjhEd2Y1Z3ZVV0FwTm9RcmRBY1hYMUJIeTM2YTRabUM3VTZFNHZVdjlMcEROaGtlczdILWRQTmhvRlFBdEI2SE1HX0J2enRZNU5UVGw1QV8tb0ZHSFdJQnBqc3Ftd0RNNlJxa0dadUhBMEdEbllLYUxwZUZ2T2RFYV9tdmx3RkxpcGpXM2lQbVoxWkdac3FnUUpP?oc=5" target="_blank">Banque de France : Emmanuel Moulin, un fidèle de Macron, dans les starting-blocks</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Prix de l'essence : les ventes de carburants chutent lourdement en France - Les Echos](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUi1YaGxJQXdxek5sT2RaNGI4UDl2Qm9KRVpiS05oa21Jd0Nka1ZhT1Y3RElGeGtzb3VScEJPZ1lkTXdKa0hnSUcxa05lVnkyRW1feHk5VUtYZEl3ek5EQzFCcF9YVmRSZFRqNmlqOERfQ09tQjlPN2p3aWluVUZTdTBrV0tjN2NHSUZNd1pOaWxmMElTdG5oRkxjbHhDRVNpWWt4UFpITllFem9GUGR1TXZ3VTlLNDBQMUhtQ1dYX3RlRnJwekxPX2l1QWgtUk95?oc=5)
-
-`Wed, 29 Apr 2026 04:40:09 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUi1YaGxJQXdxek5sT2RaNGI4UDl2Qm9KRVpiS05oa21Jd0Nka1ZhT1Y3RElGeGtzb3VScEJPZ1lkTXdKa0hnSUcxa05lVnkyRW1feHk5VUtYZEl3ek5EQzFCcF9YVmRSZFRqNmlqOERfQ09tQjlPN2p3aWluVUZTdTBrV0tjN2NHSUZNd1pOaWxmMElTdG5oRkxjbHhDRVNpWWt4UFpITllFem9GUGR1TXZ3VTlLNDBQMUhtQ1dYX3RlRnJwekxPX2l1QWgtUk95?oc=5" target="_blank">Prix de l'essence : les ventes de carburants chutent lourdement en France</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
