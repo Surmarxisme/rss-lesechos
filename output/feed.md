@@ -1,7 +1,23 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Fri, 29 May 2026 19:25:24 +0000`
-> 82 articles (30 derniers jours)
+> Derniere mise a jour : `Sat, 30 May 2026 10:48:49 +0000`
+> 81 articles (30 derniers jours)
+
+---
+
+### [Dette : S&P maintient la note souveraine de la France - Les Echos](https://news.google.com/rss/articles/CBMitgFBVV95cUxQTEVNS0NNbFNIUFNXVW1Nb2lGQlFhM1ZFUGxVVFVEYjB4Sk9iNlVvaWlkUW1Jb1NPTEJOaS1iYzZ5RWZnbk45ZjRLZV9nSWxlVTg0ZjhjclFlYzdxYkQyUHpzeWZpYmVaT2ZBVm9BS18yQzRfZ1U1ODZaU1A2Q0JfRlAyNTlZMjVwMldHYnA4U0hPd0wtSkxCeW13cHVFMmplZ0psQUhVUGRnSnR0OFVUZG9uQmJSdw?oc=5)
+
+`Fri, 29 May 2026 20:32:03 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxQTEVNS0NNbFNIUFNXVW1Nb2lGQlFhM1ZFUGxVVFVEYjB4Sk9iNlVvaWlkUW1Jb1NPTEJOaS1iYzZ5RWZnbk45ZjRLZV9nSWxlVTg0ZjhjclFlYzdxYkQyUHpzeWZpYmVaT2ZBVm9BS18yQzRfZ1U1ODZaU1A2Q0JfRlAyNTlZMjVwMldHYnA4U0hPd0wtSkxCeW13cHVFMmplZ0psQUhVUGRnSnR0OFVUZG9uQmJSdw?oc=5" target="_blank">Dette : S&amp;P maintient la note souveraine de la France</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Vers un report de la réforme de la couverture santé des agents des hôpitaux - Les Echos](https://news.google.com/rss/articles/CBMiygFBVV95cUxQRjBBQ0czRnJ4U2JVNS1mcUxpUmpiZlBmcVlDRlV3d3dWcVVLY1hOUkZIc01hYmQ4MFdOSVZxZ3FQa0dEb1B3MnBxRzBYbU5uc3RBeC12SEVRTjg5cmgwdEhRZVhMaks5b3RpeFZ6LTZtYkl6UG5vUjAzc1RDdGFRTHdObUliMzJ3SXZIN1B4RGhBSHk0UFJCR284TnR2Z2UzRXBHTjNMSFhQcS1Eb3ZOSDQ5VlRlc1NIYk11T0ZkYmZjb3F2Q0Mtb2Zn?oc=5)
+
+`Sat, 30 May 2026 08:28:48 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxQRjBBQ0czRnJ4U2JVNS1mcUxpUmpiZlBmcVlDRlV3d3dWcVVLY1hOUkZIc01hYmQ4MFdOSVZxZ3FQa0dEb1B3MnBxRzBYbU5uc3RBeC12SEVRTjg5cmgwdEhRZVhMaks5b3RpeFZ6LTZtYkl6UG5vUjAzc1RDdGFRTHdObUliMzJ3SXZIN1B4RGhBSHk0UFJCR284TnR2Z2UzRXBHTjNMSFhQcS1Eb3ZOSDQ5VlRlc1NIYk11T0ZkYmZjb3F2Q0Mtb2Zn?oc=5" target="_blank">Vers un report de la réforme de la couverture santé des agents des hôpitaux</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -634,29 +650,5 @@
 `Thu, 30 Apr 2026 10:56:45 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMigwJBVV95cUxQeXZ2cFp6N0kzeW1uOTY4T3Q0NlNTTEFyQU95QnYwMkpDZ1dyeFFIbE14bG9oQlpuRGp5VEpoV3h0Y3hPV1VzY1pNbms4cDFSUXZWN3pURjc0MHZlbF9mY1lsS3BDcThnYUxvLVAxSnJ0a2ZXYUpCMEZKSFA1ekZZRkhtLXFLb0FTMURBajJ3ZHBiUW0wWWFMbkIyX0tkODIxVmhMUkdaNXpISndCeGZwd0ozVGEtZDB0dGdoaEdUNjYwcjJpMXlMbG5GMmxXaWpfcWI0VzRGMDZRNE81TzhOaHBhRFNOZU9xZDRqNlhGTkw0TW1mMG5xWWtzM09PU21hczNB?oc=5" target="_blank">« Jusqu'où la natalité va-t-elle baisser ? » : les naissances toujours moins nombreuses que les décès en France début 2026</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Guerre au Moyen-Orient : la poussée d'inflation devrait conduire à un coup de pouce au SMIC dès juin - Les Echos](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOTnlPSHcxUWFZNHV6d2EzQzl6QkZmVGpXSEE5bXppMkRqa0lUMEstN2hzZjI2Ykk3cVFzZW4yTGE3S0RyT3Y1NHJFUDkxdncyQ3JfWEZPdzRRV2xUX0J5bnN3dmVyMVVjamRfNFFkZFEzUktuUUxJd0FQY29LNlhTZ2hFNXY0YzczYVNiWFFKY2RhNXFtRGg4SzhuVy1OeFBVTzBZWE50WFA5TVJnZm94a1pEVzdXbHpOb196R2VoUkJmUkhwczV0MEdwWUVxaGNpS2k3dnVUbkM4cXJ6NHhHSTZodFlxc28?oc=5)
-
-`Thu, 30 Apr 2026 09:11:46 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi5wFBVV95cUxOTnlPSHcxUWFZNHV6d2EzQzl6QkZmVGpXSEE5bXppMkRqa0lUMEstN2hzZjI2Ykk3cVFzZW4yTGE3S0RyT3Y1NHJFUDkxdncyQ3JfWEZPdzRRV2xUX0J5bnN3dmVyMVVjamRfNFFkZFEzUktuUUxJd0FQY29LNlhTZ2hFNXY0YzczYVNiWFFKY2RhNXFtRGg4SzhuVy1OeFBVTzBZWE50WFA5TVJnZm94a1pEVzdXbHpOb196R2VoUkJmUkhwczV0MEdwWUVxaGNpS2k3dnVUbkM4cXJ6NHhHSTZodFlxc28?oc=5" target="_blank">Guerre au Moyen-Orient : la poussée d'inflation devrait conduire à un coup de pouce au SMIC dès juin</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Croissance : douche froide pour l'économie française, déjà plombée par la guerre au Moyen-Orient - Les Echos](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPNEYyRUQwRzZ2UnNjQ1pwdzk2c0thekpNZFRFMHJ1SzlOcGY2ZEFmeVZLbFg3NVNZX1d3Wmt2dk5BU19JbVI1QUlnR18zT2JRZG9GQS1neWpGZHAxQjl5ZlZTajBIcXVaRmNQVG54bUZ3eVdmM0xaQnhRODhFQkRrUVU5UEJFM0pkY0Y1UHZIbHBGcEUxc0lfaFVVdGdDNXZ0cDhEUFVOcGRWekFvelNwaTBrWVhFMEpmVU9EQldhdzJHZjFxb0IxcDJRamtuakFSX0Y2RERNSlROWFZ0dVpjM0steUFNZnc?oc=5)
-
-`Thu, 30 Apr 2026 05:51:29 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi5wFBVV95cUxPNEYyRUQwRzZ2UnNjQ1pwdzk2c0thekpNZFRFMHJ1SzlOcGY2ZEFmeVZLbFg3NVNZX1d3Wmt2dk5BU19JbVI1QUlnR18zT2JRZG9GQS1neWpGZHAxQjl5ZlZTajBIcXVaRmNQVG54bUZ3eVdmM0xaQnhRODhFQkRrUVU5UEJFM0pkY0Y1UHZIbHBGcEUxc0lfaFVVdGdDNXZ0cDhEUFVOcGRWekFvelNwaTBrWVhFMEpmVU9EQldhdzJHZjFxb0IxcDJRamtuakFSX0Y2RERNSlROWFZ0dVpjM0steUFNZnc?oc=5" target="_blank">Croissance : douche froide pour l'économie française, déjà plombée par la guerre au Moyen-Orient</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Assurance-chômage : une étape importante franchie sur le dossier coûteux des travailleurs frontaliers - Les Echos](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNU19YVDJNV0hQTTJhS3pMQ2NrRTJNbTBRZHY3NHl6OHhpWmJEaEN6UDlvMWM3THdVc1F4WW5VOGJLU1dpSGM5QktDN3NmZktSQUp1VGxaMHdlcnFuZ2FrSlFNU0dXNXdCQjJfbUhHcjlqblIyaUNMSnBOSU9Vbk5Id0g4Smt1NlZQVXF5LTczWU5UT0lEQ1NleDU2Q2VFbDJDOUVzSDZRaUdTdUl1RzhSRmRXaGxpNWJSYTNPQm5RVEl0czZWVXktcHdjYVNHOE42WFhaeGpTMENqSXlHR3hpZlVoSjVOU2NUVmc?oc=5)
-
-`Thu, 30 Apr 2026 04:05:09 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi6gFBVV95cUxNU19YVDJNV0hQTTJhS3pMQ2NrRTJNbTBRZHY3NHl6OHhpWmJEaEN6UDlvMWM3THdVc1F4WW5VOGJLU1dpSGM5QktDN3NmZktSQUp1VGxaMHdlcnFuZ2FrSlFNU0dXNXdCQjJfbUhHcjlqblIyaUNMSnBOSU9Vbk5Id0g4Smt1NlZQVXF5LTczWU5UT0lEQ1NleDU2Q2VFbDJDOUVzSDZRaUdTdUl1RzhSRmRXaGxpNWJSYTNPQm5RVEl0czZWVXktcHdjYVNHOE42WFhaeGpTMENqSXlHR3hpZlVoSjVOU2NUVmc?oc=5" target="_blank">Assurance-chômage : une étape importante franchie sur le dossier coûteux des travailleurs frontaliers</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
