@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Mon, 01 Jun 2026 15:28:45 +0000`
-> 83 articles (30 derniers jours)
+> Derniere mise a jour : `Mon, 01 Jun 2026 17:21:13 +0000`
+> 84 articles (30 derniers jours)
+
+---
+
+### [Congrès de la CGT : Sophie Binet sonne la charge contre l'extrême droite - Les Echos](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcl9hbnNqeUYzZkhSSThUMUhPeTVDSkh0S0VNN0hiWXRFU2pEcjhpb3ZxTENzQzBHbzhXdFQtWi03Y2xqbkFyMVhyaFhhUWxJS1R2MWpUSnFldDc5bFNWZTdnVzE5Ty11QlRzbHhjbjNITU11RlExN3UwV08xeGZZbDNOVnVlaUtGaVc3c3p2bEt5YlIwczBDbEdhYTJOTlBwc1RhcVpOTDJoMGV2Ry1CVldudEl1N0lFVVJiNGx1V1FnUQ?oc=5)
+
+`Mon, 01 Jun 2026 17:18:00 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcl9hbnNqeUYzZkhSSThUMUhPeTVDSkh0S0VNN0hiWXRFU2pEcjhpb3ZxTENzQzBHbzhXdFQtWi03Y2xqbkFyMVhyaFhhUWxJS1R2MWpUSnFldDc5bFNWZTdnVzE5Ty11QlRzbHhjbjNITU11RlExN3UwV08xeGZZbDNOVnVlaUtGaVc3c3p2bEt5YlIwczBDbEdhYTJOTlBwc1RhcVpOTDJoMGV2Ry1CVldudEl1N0lFVVJiNGx1V1FnUQ?oc=5" target="_blank">Congrès de la CGT : Sophie Binet sonne la charge contre l'extrême droite</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
