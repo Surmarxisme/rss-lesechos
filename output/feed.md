@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Mon, 01 Jun 2026 17:21:13 +0000`
-> 84 articles (30 derniers jours)
+> Derniere mise a jour : `Mon, 01 Jun 2026 20:49:25 +0000`
+> 85 articles (30 derniers jours)
+
+---
+
+### [« C'est la preuve concrète de l'attractivité du pays » : Emmanuel Macron vante le succès de son dernier Choose France - Les Echos](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNWE9JTzVJczhZTVhoZURHU0dOdkllb3RYamlSOE5YUk15V2JBWFZEWXJsd0pfVGFzcVZmUVZMR1A2bmxXdHJMNThlRWM4dDFRYVg4MXhmTjBjbERCY0ROaThnMTN2TTU0RmdveXl2TVE2M2JHTUtKcWUxS2NOeFZEZk1ZdDRrdEUtblZ0emtFQUc4NHJDLWdNbnNNUDFvNVhoTERSU19kZ1VnMXhUNzk3MXg1Um1mNk9NRUhWcE9xZG1FelBXVzNhVjlFb054Unh2TDlNdGZYZVFkbGRheXh0bVc0MmNJUS16MXdBb0lzdkJqSXNSRWZHVXBiTV9mUQ?oc=5)
+
+`Mon, 01 Jun 2026 18:00:16 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi_gFBVV95cUxNWE9JTzVJczhZTVhoZURHU0dOdkllb3RYamlSOE5YUk15V2JBWFZEWXJsd0pfVGFzcVZmUVZMR1A2bmxXdHJMNThlRWM4dDFRYVg4MXhmTjBjbERCY0ROaThnMTN2TTU0RmdveXl2TVE2M2JHTUtKcWUxS2NOeFZEZk1ZdDRrdEUtblZ0emtFQUc4NHJDLWdNbnNNUDFvNVhoTERSU19kZ1VnMXhUNzk3MXg1Um1mNk9NRUhWcE9xZG1FelBXVzNhVjlFb054Unh2TDlNdGZYZVFkbGRheXh0bVc0MmNJUS16MXdBb0lzdkJqSXNSRWZHVXBiTV9mUQ?oc=5" target="_blank">« C'est la preuve concrète de l'attractivité du pays » : Emmanuel Macron vante le succès de son dernier Choose France</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
