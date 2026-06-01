@@ -1,7 +1,31 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Sun, 31 May 2026 11:01:33 +0000`
-> 81 articles (30 derniers jours)
+> Derniere mise a jour : `Mon, 01 Jun 2026 11:00:49 +0000`
+> 82 articles (30 derniers jours)
+
+---
+
+### [« Les investissements étrangers en France ne sont plus un tabou » : neuf ans de Choose France entre succès fulgurants et promesses en suspens - Les Echos](https://news.google.com/rss/articles/CBMioAJBVV95cUxNRnNUd0Z4Y1hyckU3TlpjWTloTnNKZHc1RTZhaWw4TGwwc28xVXhmMnpWbjdVcTBTeV96WE1ESE9IazdIby1YZ1g1cS1tMEpSRmd0Qld1ZXJDU1RvMmJ5MmtvMWRqbUt5SEFkMU1NaHdPdnRVbUtsbnBoVDBVUE1QUjBEMjVEZVBpSW1Cd1ZTN1lKODVOdloyd2ZkVG1mblh3VVMzLTc0UGYxVF9fbXVkNnZ4bzk1cDdoQWgyTEtZYzJnLXRuNU9UT3hMSFdvT1VKeE9kdnRkcFZLT005VHpoeWgwYWRieHQ4X29WMmJvZ3RrUVpXbnAycXZqNXVUVkN3UXpnNFJjTS04Yy1KRDg2bjZ4dnVwR2hkYm53U3M5akY?oc=5)
+
+`Sun, 31 May 2026 14:33:29 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMioAJBVV95cUxNRnNUd0Z4Y1hyckU3TlpjWTloTnNKZHc1RTZhaWw4TGwwc28xVXhmMnpWbjdVcTBTeV96WE1ESE9IazdIby1YZ1g1cS1tMEpSRmd0Qld1ZXJDU1RvMmJ5MmtvMWRqbUt5SEFkMU1NaHdPdnRVbUtsbnBoVDBVUE1QUjBEMjVEZVBpSW1Cd1ZTN1lKODVOdloyd2ZkVG1mblh3VVMzLTc0UGYxVF9fbXVkNnZ4bzk1cDdoQWgyTEtZYzJnLXRuNU9UT3hMSFdvT1VKeE9kdnRkcFZLT005VHpoeWgwYWRieHQ4X29WMmJvZ3RrUVpXbnAycXZqNXVUVkN3UXpnNFJjTS04Yy1KRDg2bjZ4dnVwR2hkYm53U3M5akY?oc=5" target="_blank">« Les investissements étrangers en France ne sont plus un tabou » : neuf ans de Choose France entre succès fulgurants et promesses en suspens</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Plus de 90 milliards d'euros d'investissements pour le dernier Choose France d'Emmanuel Macron - Les Echos](https://news.google.com/rss/articles/CBMiygFBVV95cUxOX3ZnTk5oVlY4aTlGWTlSZm82NV9ldGNDai1DTUY4dloxUmJqcDJhNXJwOVdpTUFkUXRKdDN5emU2NnVKT3I3U1VzdzJoVm1hZHVjenp5XzdCb2I1ODBBWVBUNHp1aGZpNE9SdXE2WUZiQ3d5MllQcmlHNXRTRVpvMVJVbE8yazhBYnpxX2xGMlpUcHZVN09JODg5a3NSNjQ3TTVjem43Vy1ybE9qcUd0R0JOWTdhOElkSzdTYWQwU0EwbmFPclFFVGRR?oc=5)
+
+`Mon, 01 Jun 2026 03:58:09 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxOX3ZnTk5oVlY4aTlGWTlSZm82NV9ldGNDai1DTUY4dloxUmJqcDJhNXJwOVdpTUFkUXRKdDN5emU2NnVKT3I3U1VzdzJoVm1hZHVjenp5XzdCb2I1ODBBWVBUNHp1aGZpNE9SdXE2WUZiQ3d5MllQcmlHNXRTRVpvMVJVbE8yazhBYnpxX2xGMlpUcHZVN09JODg5a3NSNjQ3TTVjem43Vy1ybE9qcUd0R0JOWTdhOElkSzdTYWQwU0EwbmFPclFFVGRR?oc=5" target="_blank">Plus de 90 milliards d'euros d'investissements pour le dernier Choose France d'Emmanuel Macron</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [La CGT en congrès pour se relancer - Les Echos](https://news.google.com/rss/articles/CBMikwFBVV95cUxNTEpCRzBPYmJBOXk4MW4wS01sZDNDa3kyTTVPNkN4Ulp1ZmNKMFpzUzBDT29JdGlpa1Z3SWh4NFNrY2VIN1BNYVdQY0cyU3NYcVlyTVc0UEdpeTA5TDljZFFHV3huM3hHQTJRTUdieWJzOVE3WmVsYU1PZ2p4Vm8yeG5pVlVRQWlYLS0tTDE4LWxwQVE?oc=5)
+
+`Mon, 01 Jun 2026 05:45:08 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMikwFBVV95cUxNTEpCRzBPYmJBOXk4MW4wS01sZDNDa3kyTTVPNkN4Ulp1ZmNKMFpzUzBDT29JdGlpa1Z3SWh4NFNrY2VIN1BNYVdQY0cyU3NYcVlyTVc0UEdpeTA5TDljZFFHV3huM3hHQTJRTUdieWJzOVE3WmVsYU1PZ2p4Vm8yeG5pVlVRQWlYLS0tTDE4LWxwQVE?oc=5" target="_blank">La CGT en congrès pour se relancer</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -634,21 +658,5 @@
 `Mon, 04 May 2026 04:00:12 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi6AFBVV95cUxPWlFfbU1jMlotdWNQdnhmQmJ4Z3NVYVZtdzNWVVoxaGF4ai12d1gyc2VWRUhCbE1RT1lWZlNWY0Z3THN0MFI2aTMxY1ZlWkVGbVlFRkttNGNXMXJkQ044bjBUdlNPLUdqUEVtRG0xa3Y1R05rRUtwUU1EYzNQZmhDakJqYmFLYlpIR0ZBUEhDVi1LbmVfcVdjcWpyN3ZfeUFRWTZHemNzMVdXcG82eXlZak80VXA3dDJudUJzdHlIdFo5NFRCRmhsRG55XzdFeUw5X0txT3k4T0FaX0tELW9jcFF1SGEteGtM?oc=5" target="_blank">La panne de l'économie française met en grand péril les objectifs de réduction du déficit</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Indemnité carburant : qui pourra toucher les 50 euros débloqués par l'exécutif, et quand ? - Les Echos](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcGpKQ25oVzhJR3lKQnMxMldRYkl2TThyNHJwaWd2ZTN0RFNlczVEazNOTzQ1cGFfeC1xZ08wODRoWWN2YWoyUUUteDNmZ0hLbXpLQ1JXeGF6RlhLeGptZW0zMVZRYXhzV0JPUHZjZ0NmVGpNZnB0T3pfRWhYRHNuZ2E2eHBUbDZpS09xbl9zZFhpUUNEZjhkWkRSZEhqTUotUTBIOEpGck84Q19rclNuWkYtdEVTT0xJZDIwZGR4YjR0Z255ZkxCQmdOanA3MkY0bTdmLUtCSQ?oc=5)
-
-`Sat, 02 May 2026 10:14:05 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcGpKQ25oVzhJR3lKQnMxMldRYkl2TThyNHJwaWd2ZTN0RFNlczVEazNOTzQ1cGFfeC1xZ08wODRoWWN2YWoyUUUteDNmZ0hLbXpLQ1JXeGF6RlhLeGptZW0zMVZRYXhzV0JPUHZjZ0NmVGpNZnB0T3pfRWhYRHNuZ2E2eHBUbDZpS09xbl9zZFhpUUNEZjhkWkRSZEhqTUotUTBIOEpGck84Q19rclNuWkYtdEVTT0xJZDIwZGR4YjR0Z255ZkxCQmdOanA3MkY0bTdmLUtCSQ?oc=5" target="_blank">Indemnité carburant : qui pourra toucher les 50 euros débloqués par l'exécutif, et quand ?</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [1er-Mai : 300.000 manifestants et des polémiques sur les boulangeries ouvertes - Les Echos](https://news.google.com/rss/articles/CBMiygFBVV95cUxOMWNZUzVUS3FZcHBYWHlzNWhGR1hzT1VRU2ltdnRfNXhKMG1mTWI0TkJic3BoeWtqT055U2NPTkhDMkhxamZsS2dvVF9TY2VaTnJyMlM3SHh1RlFvSm9NY1hnNjM3c1pKT1dyTkt4NUoyVkJWWUw2NmktdGtobXhIOTRVVmRhWkNhV0VYUldIQmFpTVlPWFVjSThDMmZSemdIWVFZX3gzTVp6bHV6cHpjY0lDNmw4ODRLbl9NcVNsYVRFcTZ1QUVIbUF3?oc=5)
-
-`Fri, 01 May 2026 17:24:49 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxOMWNZUzVUS3FZcHBYWHlzNWhGR1hzT1VRU2ltdnRfNXhKMG1mTWI0TkJic3BoeWtqT055U2NPTkhDMkhxamZsS2dvVF9TY2VaTnJyMlM3SHh1RlFvSm9NY1hnNjM3c1pKT1dyTkt4NUoyVkJWWUw2NmktdGtobXhIOTRVVmRhWkNhV0VYUldIQmFpTVlPWFVjSThDMmZSemdIWVFZX3gzTVp6bHV6cHpjY0lDNmw4ODRLbl9NcVNsYVRFcTZ1QUVIbUF3?oc=5" target="_blank">1er-Mai : 300.000 manifestants et des polémiques sur les boulangeries ouvertes</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
