@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Mon, 01 Jun 2026 11:00:49 +0000`
-> 82 articles (30 derniers jours)
+> Derniere mise a jour : `Mon, 01 Jun 2026 15:28:45 +0000`
+> 83 articles (30 derniers jours)
+
+---
+
+### [Chômage : des reprises d'emploi souvent rapides mais précaires - Les Echos](https://news.google.com/rss/articles/CBMitwFBVV95cUxPOWYwSVAzVGQ2RzlxU2NFXzJUX3dRVXo1TTAyelRKNUNBRlRsOXNOMGlDdlpDTGg4M3k3RXBLNkRqbHVZcURqQjY1amQ3cktraTR0UFNsY0s0SDVuQWQ3X1puS3p4N1p3b194Vy1jYlFTYnpucUdKTmIwdHc0cUhMMUptLWRBU01UV1dZanUwRGpsVVExMElTSjIyYVRKdS1UenIxTG1JV2lsRk96MXZTQllURnM2QWM?oc=5)
+
+`Mon, 01 Jun 2026 13:07:11 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxPOWYwSVAzVGQ2RzlxU2NFXzJUX3dRVXo1TTAyelRKNUNBRlRsOXNOMGlDdlpDTGg4M3k3RXBLNkRqbHVZcURqQjY1amQ3cktraTR0UFNsY0s0SDVuQWQ3X1puS3p4N1p3b194Vy1jYlFTYnpucUdKTmIwdHc0cUhMMUptLWRBU01UV1dZanUwRGpsVVExMElTSjIyYVRKdS1UenIxTG1JV2lsRk96MXZTQllURnM2QWM?oc=5" target="_blank">Chômage : des reprises d'emploi souvent rapides mais précaires</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
