@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Mon, 01 Jun 2026 20:49:25 +0000`
-> 85 articles (30 derniers jours)
+> Derniere mise a jour : `Tue, 02 Jun 2026 09:54:54 +0000`
+> 86 articles (30 derniers jours)
+
+---
+
+### [Police, prisons, emplois, Fonds vert : les cibles prioritaires des coupes budgétaires de Bercy - Les Echos](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdk9SODVXVVBKV2FqSWxMQVVvS2xJXzNKbTJyTDFYazNpNUc1cnBMVndySEp5aGVWZnF2S3V3MGJ0QnpERDBuR09ZOUVTeDJiM2xrSDVoNnd3cUVQb3hPZjR0ak1TODQ0eXpJeHR1SU85dWNvZzJpU3d0UVh2SW9ZSmQ3Z2x1bkdrdEg3VDZtU3lUSHdXd3pQUFJLNjRDdXVSUnM0bHh5NEQtYXlITXRrb1dFbWd0c1RtYUlnTjZwa1dQTmdCTlpGQ2wzbDVuN1BFYmlQS3NueDRvdkxsR2pieE1uZ1dCN09xaHc?oc=5)
+
+`Tue, 02 Jun 2026 04:15:09 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdk9SODVXVVBKV2FqSWxMQVVvS2xJXzNKbTJyTDFYazNpNUc1cnBMVndySEp5aGVWZnF2S3V3MGJ0QnpERDBuR09ZOUVTeDJiM2xrSDVoNnd3cUVQb3hPZjR0ak1TODQ0eXpJeHR1SU85dWNvZzJpU3d0UVh2SW9ZSmQ3Z2x1bkdrdEg3VDZtU3lUSHdXd3pQUFJLNjRDdXVSUnM0bHh5NEQtYXlITXRrb1dFbWd0c1RtYUlnTjZwa1dQTmdCTlpGQ2wzbDVuN1BFYmlQS3NueDRvdkxsR2pieE1uZ1dCN09xaHc?oc=5" target="_blank">Police, prisons, emplois, Fonds vert : les cibles prioritaires des coupes budgétaires de Bercy</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
