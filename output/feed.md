@@ -1,7 +1,31 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Tue, 02 Jun 2026 16:05:30 +0000`
-> 88 articles (30 derniers jours)
+> Derniere mise a jour : `Tue, 02 Jun 2026 19:58:58 +0000`
+> 91 articles (30 derniers jours)
+
+---
+
+### [Au congrès de la CGT, les syndicats affichent leur unité - Les Echos](https://news.google.com/rss/articles/CBMirwFBVV95cUxPeC14bWVVR1JhSWozYmNSd01vM0R1eDJpeG5rNzk2MlhUNHpWUENYSk9BbEdBaFZBTTJVMDEtX3FKczZxMGRfUUxzRUx4X3NiMUpDVWpaMEh5Ukp0OUNzVzJycWkwUnlCeW8wY2hfWnp5cmIzdTZodldtUm5ISFN1REN2MDlfemJZNHBjTjRNQnVvei1reDV6X0RWSWNMTmp3UkF0ZktKSlRLY01sajJn?oc=5)
+
+`Tue, 02 Jun 2026 17:22:53 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxPeC14bWVVR1JhSWozYmNSd01vM0R1eDJpeG5rNzk2MlhUNHpWUENYSk9BbEdBaFZBTTJVMDEtX3FKczZxMGRfUUxzRUx4X3NiMUpDVWpaMEh5Ukp0OUNzVzJycWkwUnlCeW8wY2hfWnp5cmIzdTZodldtUm5ISFN1REN2MDlfemJZNHBjTjRNQnVvei1reDV6X0RWSWNMTmp3UkF0ZktKSlRLY01sajJn?oc=5" target="_blank">Au congrès de la CGT, les syndicats affichent leur unité</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Ruptures conventionnelles : la couverture chômage baissera à partir du 1er septembre - Les Echos](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbWxpN3JLV3lCV3Q4QTl2UXdlaXdWSTNZM2NXYjVDZmFrWDhtLW9Xbll6TVdDdF9NaThSWG9aWFk4OWRBM2EwVFJPUEdtZE5vT3hINUs2UDdpdFFsWkN4VlN5czlxZGtpV2w4VGUxYnhaSTVvTGFvVS01OGNRb0VRTWZmbkx1bzhjdnRUZU91X292NWlxbGdaeF9BcnhLbVJoYXF6U2s4d1EzQmg2aGc5amVPVmdkcjBUNmswUXN3Q2t2bFpBQTVhZnNSdEVpaFlrTTlJ?oc=5)
+
+`Tue, 02 Jun 2026 16:39:43 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbWxpN3JLV3lCV3Q4QTl2UXdlaXdWSTNZM2NXYjVDZmFrWDhtLW9Xbll6TVdDdF9NaThSWG9aWFk4OWRBM2EwVFJPUEdtZE5vT3hINUs2UDdpdFFsWkN4VlN5czlxZGtpV2w4VGUxYnhaSTVvTGFvVS01OGNRb0VRTWZmbkx1bzhjdnRUZU91X292NWlxbGdaeF9BcnhLbVJoYXF6U2s4d1EzQmg2aGc5amVPVmdkcjBUNmswUXN3Q2t2bFpBQTVhZnNSdEVpaFlrTTlJ?oc=5" target="_blank">Ruptures conventionnelles : la couverture chômage baissera à partir du 1er septembre</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Économie | Page 238 - Les Echos](https://news.google.com/rss/articles/CBMiXEFVX3lxTE00ZzFYZThfeHZtbmhPLWJWOUtWVVFjWThmV1RXcXZRMERhTTY1b0M1UFpvbHBLd1AyeVpvajNJaG92QjRjRnEzZjNkamhObmFHX0NWQTBvejRZQ21k?oc=5)
+
+`Wed, 27 May 2026 17:46:51 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiXEFVX3lxTE00ZzFYZThfeHZtbmhPLWJWOUtWVVFjWThmV1RXcXZRMERhTTY1b0M1UFpvbHBLd1AyeVpvajNJaG92QjRjRnEzZjNkamhObmFHX0NWQTBvejRZQ21k?oc=5" target="_blank">Économie | Page 238</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
