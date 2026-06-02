@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Tue, 02 Jun 2026 12:47:39 +0000`
-> 87 articles (30 derniers jours)
+> Derniere mise a jour : `Tue, 02 Jun 2026 16:05:30 +0000`
+> 88 articles (30 derniers jours)
+
+---
+
+### [L'incroyable croissance cachée de l'économie française - Les Echos](https://news.google.com/rss/articles/CBMisgFBVV95cUxQdU5zWS1qVWQ5eXdyRnZKRDY1UFZGLTdtYmNYeVZXbnhWOHlXcTF6NkpFWW1ZdnRYX2I1bmlQRUZ5YWFHR3RDS21UTjFQWGF4LWNLc2w0eUJxZEl1c0dxNnBqdFJWY1hHNTlTU3dGb3ZncTJCck9SODJoSkl0OWdRTnV2cjRfc0pTRVhUSy1tLWN3N1YyTFBRN3p6T2dnNV83ZHJJQ1Z0VlhLbFd6NHVPbjFn?oc=5)
+
+`Tue, 02 Jun 2026 15:00:13 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxQdU5zWS1qVWQ5eXdyRnZKRDY1UFZGLTdtYmNYeVZXbnhWOHlXcTF6NkpFWW1ZdnRYX2I1bmlQRUZ5YWFHR3RDS21UTjFQWGF4LWNLc2w0eUJxZEl1c0dxNnBqdFJWY1hHNTlTU3dGb3ZncTJCck9SODJoSkl0OWdRTnV2cjRfc0pTRVhUSy1tLWN3N1YyTFBRN3p6T2dnNV83ZHJJQ1Z0VlhLbFd6NHVPbjFn?oc=5" target="_blank">L'incroyable croissance cachée de l'économie française</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
