@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Tue, 02 Jun 2026 09:54:54 +0000`
-> 86 articles (30 derniers jours)
+> Derniere mise a jour : `Tue, 02 Jun 2026 12:47:39 +0000`
+> 87 articles (30 derniers jours)
+
+---
+
+### [« On a passé l'après-midi avec des Chinois et des Japonais, c'est génial ! » : la fin d'une époque, le dernier Choose France d'Emmanuel Macron - Les Echos](https://news.google.com/rss/articles/CBMilwJBVV95cUxQZTY0T3FSQ1dKV2xEUjJsd20weGNHVldTUk9fYWhmOWxJem54emtXcWxlT09jb3Ixc1RHcWNPZTJpcmNBTFZBclJLT1FJZWdUOFhuUDVQaVpYZVA2QUNndTlKVllLZmxvMzNRUWRfWndSbnVsbEVvazVQSzNBVHoxNmV1U1p5TGdtN3pBZHVicUp4MC1MOHZ5WDcyT3MtMW9qNzd6cHUwZE5OcXF4WmRseGVqOXJsRUpkeVE1aDBwSE1kOWFWNzZDUTZvN3NfSFNaSF9jR1lSSzhVTHBYRmFVaDMzYWtvd1JVMlZOWkotYmtZMEdkSDFMaGVlcHlhZjFpbUNmWDI3eXEzVWJVZ24tc3JhM1NRaTg?oc=5)
+
+`Tue, 02 Jun 2026 10:16:28 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMilwJBVV95cUxQZTY0T3FSQ1dKV2xEUjJsd20weGNHVldTUk9fYWhmOWxJem54emtXcWxlT09jb3Ixc1RHcWNPZTJpcmNBTFZBclJLT1FJZWdUOFhuUDVQaVpYZVA2QUNndTlKVllLZmxvMzNRUWRfWndSbnVsbEVvazVQSzNBVHoxNmV1U1p5TGdtN3pBZHVicUp4MC1MOHZ5WDcyT3MtMW9qNzd6cHUwZE5OcXF4WmRseGVqOXJsRUpkeVE1aDBwSE1kOWFWNzZDUTZvN3NfSFNaSF9jR1lSSzhVTHBYRmFVaDMzYWtvd1JVMlZOWkotYmtZMEdkSDFMaGVlcHlhZjFpbUNmWDI3eXEzVWJVZ24tc3JhM1NRaTg?oc=5" target="_blank">« On a passé l'après-midi avec des Chinois et des Japonais, c'est génial ! » : la fin d'une époque, le dernier Choose France d'Emmanuel Macron</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
