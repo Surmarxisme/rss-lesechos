@@ -1,7 +1,23 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Wed, 03 Jun 2026 10:26:32 +0000`
-> 90 articles (30 derniers jours)
+> Derniere mise a jour : `Wed, 03 Jun 2026 13:20:54 +0000`
+> 92 articles (30 derniers jours)
+
+---
+
+### [Baisse de la natalité : l'alerte envoyée aux maires sur les places en crèches - Les Echos](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOc3RlRVk3RFQzbW45S2tPSWpfXzh6SFlnNHRUV3ROLTVhc2VIdlhSVnJJUHRlOGZKcXhIWC03YWppZHR3S25UOVpERTNjUm85VDlwY29hWGM1cGc0QTFIYTl6V2NiZEh6cWYyeV82VWo1RFJwS1VzZ0V0VlRFc0VuT0N2RE1odjdfWFFwaE1SRlZtZVhvQS1hQ2Q5Y3YwanFKdFRCVkRuaHRYa0NObHVBazNsX21wODlON1R1and6LVV5TUNpOF9NZA?oc=5)
+
+`Wed, 03 Jun 2026 11:02:18 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxOc3RlRVk3RFQzbW45S2tPSWpfXzh6SFlnNHRUV3ROLTVhc2VIdlhSVnJJUHRlOGZKcXhIWC03YWppZHR3S25UOVpERTNjUm85VDlwY29hWGM1cGc0QTFIYTl6V2NiZEh6cWYyeV82VWo1RFJwS1VzZ0V0VlRFc0VuT0N2RE1odjdfWFFwaE1SRlZtZVhvQS1hQ2Q5Y3YwanFKdFRCVkRuaHRYa0NObHVBazNsX21wODlON1R1and6LVV5TUNpOF9NZA?oc=5" target="_blank">Baisse de la natalité : l'alerte envoyée aux maires sur les places en crèches</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Déficit : Bruxelles reste indulgente avec la France mais demande plus d'économies - Les Echos](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZzM2V2VsYm4wSWJqcE9CS0MybE5POUUxYmlhclVYUHdkYXFfRWtleUxJdTkyYVhLUWF1MTFYZUZVUk1sR3RXR0dSR0lZVDhwZVNTM2Z4UnhwQnlxQ0Q5X1ZCQnFtU2VIajl2MDNTY05xZmIyNnZPaW5nN2tiMHl1cklhdlM0aEwxUzRQcHhiSmtPUUJ1aXVvWXhrN3Z0emQwUl95RElHYjRoeU43Q2JIQm1xNVhrQlJNRnh1cXFZZE5zcDdXenJVbDFvS01mSkk2RWFJb0dOWS0xdTQ?oc=5)
+
+`Wed, 03 Jun 2026 13:12:50 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZzM2V2VsYm4wSWJqcE9CS0MybE5POUUxYmlhclVYUHdkYXFfRWtleUxJdTkyYVhLUWF1MTFYZUZVUk1sR3RXR0dSR0lZVDhwZVNTM2Z4UnhwQnlxQ0Q5X1ZCQnFtU2VIajl2MDNTY05xZmIyNnZPaW5nN2tiMHl1cklhdlM0aEwxUzRQcHhiSmtPUUJ1aXVvWXhrN3Z0emQwUl95RElHYjRoeU43Q2JIQm1xNVhrQlJNRnh1cXFZZE5zcDdXenJVbDFvS01mSkk2RWFJb0dOWS0xdTQ?oc=5" target="_blank">Déficit : Bruxelles reste indulgente avec la France mais demande plus d'économies</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
