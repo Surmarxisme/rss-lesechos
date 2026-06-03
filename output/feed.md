@@ -1,7 +1,23 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Tue, 02 Jun 2026 19:58:58 +0000`
-> 91 articles (30 derniers jours)
+> Derniere mise a jour : `Wed, 03 Jun 2026 10:26:32 +0000`
+> 90 articles (30 derniers jours)
+
+---
+
+### [Les départements vent debout après le coup de pouce salarial pour les aides à domicile - Les Echos](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTVROTWhDQ2o1UWw4V1lDSTVWRGZ3TTlfMUpJZ014RDBfV0Y5RXJzTEJLdVJTck9YR21ldElBNVY5ek9hdThuRXRZTmM2bEZ5QXZOME9CUFFFa2VraHdWblRCRlZ6dFZUeTNuNE5xRzZIN0NzVEZTYjBidGYwb25kT0hyT0w2b2xXcU9oOF9hT0lsVF9pZHFBSW1HNFJodkVOY0pvaUF6TjVSX3NGU0RzNVhZT1E0YUYzSnR0dFpNVVZVbDNJazdjNWZtQUtnS2d1S0tKRU1ZcWc?oc=5)
+
+`Wed, 03 Jun 2026 04:36:09 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTVROTWhDQ2o1UWw4V1lDSTVWRGZ3TTlfMUpJZ014RDBfV0Y5RXJzTEJLdVJTck9YR21ldElBNVY5ek9hdThuRXRZTmM2bEZ5QXZOME9CUFFFa2VraHdWblRCRlZ6dFZUeTNuNE5xRzZIN0NzVEZTYjBidGYwb25kT0hyT0w2b2xXcU9oOF9hT0lsVF9pZHFBSW1HNFJodkVOY0pvaUF6TjVSX3NGU0RzNVhZT1E0YUYzSnR0dFpNVVZVbDNJazdjNWZtQUtnS2d1S0tKRU1ZcWc?oc=5" target="_blank">Les départements vent debout après le coup de pouce salarial pour les aides à domicile</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Crise énergétique : le rapport qui plaide pour ne surtout pas baisser les taxes sur le carburant - Les Echos](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPOUhPM09rTWN6N1QxUXRQVU10WC11SHNoR1RMSGI0VFZKMVVhdEw3NHdjX0tya1lyREx0ZGtsemVwYy1fUHY3UjJKMFFfMDgwMUpwWFZMQWdGRXZTRXBPaXV6ejctcURFWlVDR3pfaURncTR2YmlpaVRoUXB5WW1jUlBJQ1RwdUd4SFgyXzNhQlNpckpWSFREMlN5Nkk2NkhjNG1uUklhMU03RmpOQmNVNFhVTnY0VWlwUVNTaWhTcmloTGxsSUpKLWdvNFRna0xxZFpUaWVMcnMtb3BYQW5tZWZRUk01dnVhY3JmMFdzOUg?oc=5)
+
+`Wed, 03 Jun 2026 08:00:55 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi8AFBVV95cUxPOUhPM09rTWN6N1QxUXRQVU10WC11SHNoR1RMSGI0VFZKMVVhdEw3NHdjX0tya1lyREx0ZGtsemVwYy1fUHY3UjJKMFFfMDgwMUpwWFZMQWdGRXZTRXBPaXV6ejctcURFWlVDR3pfaURncTR2YmlpaVRoUXB5WW1jUlBJQ1RwdUd4SFgyXzNhQlNpckpWSFREMlN5Nkk2NkhjNG1uUklhMU03RmpOQmNVNFhVTnY0VWlwUVNTaWhTcmloTGxsSUpKLWdvNFRna0xxZFpUaWVMcnMtb3BYQW5tZWZRUk01dnVhY3JmMFdzOUg?oc=5" target="_blank">Crise énergétique : le rapport qui plaide pour ne surtout pas baisser les taxes sur le carburant</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -706,29 +722,5 @@
 `Mon, 04 May 2026 13:28:25 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi4gFBVV95cUxQdlpDRndabXVhYUtNMTFleThJTzF6NTQtWjdpbDdwS09kMG9BczZFNjBzZkxXUkgzdFd1cFhhS19kSkJPZ2RadDhuMG5FeU8xcWZUTEdCcVhudlhMTndCSWxmQmNrdVlRY2VrUjBaX2Y4Tkd1dkRDYkdJNC0yWEViMk1BbmpwNXRHWjdUQS1FY2p0TnJyT2hISU5yV2lnWjlyLXdtc3FuMktwbkhrZEtmOU4waHlENVg1TDR1ZU41NkdkcElxR0RkY0JZQVotUGJzd21CWk5XcmxPVFpGRU9pYmVR?oc=5" target="_blank">Croissance, inflation, déficit : les dernières préconisations de François Villeroy de Galhau</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Louis Margueritte, le service public en langue des entreprises - Les Echos](https://news.google.com/rss/articles/CBMixAFBVV95cUxNQXplNTVNVjBVS2V4eHEzY0xwMWFaTkJhalpxajFnaWU3ZlRHSDNPYW43TEU5U1lWOEFHY0xUb3VvUlZlZUotQVVRdUVSMHJjMnZzUkJ2Y2NoemxVZzhhekNWbW1GMUFiR3FFa09jMTJQS21IR3RWdF9qLWpLN1kxTnYwNWx5UWlJX1ZoSzVsT19ZX1ZfSHBVWC1XajlkVHlqa1JoLUJycDdjM1Y2Z1BETHlld2tkRHZaekdpRW5VOVhLRUtL?oc=5)
-
-`Mon, 04 May 2026 07:00:13 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMixAFBVV95cUxNQXplNTVNVjBVS2V4eHEzY0xwMWFaTkJhalpxajFnaWU3ZlRHSDNPYW43TEU5U1lWOEFHY0xUb3VvUlZlZUotQVVRdUVSMHJjMnZzUkJ2Y2NoemxVZzhhekNWbW1GMUFiR3FFa09jMTJQS21IR3RWdF9qLWpLN1kxTnYwNWx5UWlJX1ZoSzVsT19ZX1ZfSHBVWC1XajlkVHlqa1JoLUJycDdjM1Y2Z1BETHlld2tkRHZaekdpRW5VOVhLRUtL?oc=5" target="_blank">Louis Margueritte, le service public en langue des entreprises</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Travail dans la fonction publique : entre attachement au métier et usure au quotidien - Les Echos](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPM3pQRXpTR1FuQ0JsWS0zX083bGdEQU1ndWJUYUtVM1p2QjZKU1BRY3lhWWhmR2psXzRfZzJiNy1EcVYxVmI1b0NQWEJsMHRYQmZSU01TME5kREtsenBIRTYxQ0JoN3A3QTFpYzJ4c1hBOUlvUWpzMkNmcmNxWVc5MVNRUXVWM2lyLVpFVE91eXhBVnJhSlhrenBnQjhNTTJpc1U4dnE1eUlPcEp5dU9fUDg1N0MwckhwZV93Z1g1cUV2a3ZzQUxlT2h3ZVl6Skg5MlBUcQ?oc=5)
-
-`Mon, 04 May 2026 08:00:27 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi1AFBVV95cUxPM3pQRXpTR1FuQ0JsWS0zX083bGdEQU1ndWJUYUtVM1p2QjZKU1BRY3lhWWhmR2psXzRfZzJiNy1EcVYxVmI1b0NQWEJsMHRYQmZSU01TME5kREtsenBIRTYxQ0JoN3A3QTFpYzJ4c1hBOUlvUWpzMkNmcmNxWVc5MVNRUXVWM2lyLVpFVE91eXhBVnJhSlhrenBnQjhNTTJpc1U4dnE1eUlPcEp5dU9fUDg1N0MwckhwZV93Z1g1cUV2a3ZzQUxlT2h3ZVl6Skg5MlBUcQ?oc=5" target="_blank">Travail dans la fonction publique : entre attachement au métier et usure au quotidien</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [La panne de l'économie française met en grand péril les objectifs de réduction du déficit - Les Echos](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPWlFfbU1jMlotdWNQdnhmQmJ4Z3NVYVZtdzNWVVoxaGF4ai12d1gyc2VWRUhCbE1RT1lWZlNWY0Z3THN0MFI2aTMxY1ZlWkVGbVlFRkttNGNXMXJkQ044bjBUdlNPLUdqUEVtRG0xa3Y1R05rRUtwUU1EYzNQZmhDakJqYmFLYlpIR0ZBUEhDVi1LbmVfcVdjcWpyN3ZfeUFRWTZHemNzMVdXcG82eXlZak80VXA3dDJudUJzdHlIdFo5NFRCRmhsRG55XzdFeUw5X0txT3k4T0FaX0tELW9jcFF1SGEteGtM?oc=5)
-
-`Mon, 04 May 2026 04:00:12 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi6AFBVV95cUxPWlFfbU1jMlotdWNQdnhmQmJ4Z3NVYVZtdzNWVVoxaGF4ai12d1gyc2VWRUhCbE1RT1lWZlNWY0Z3THN0MFI2aTMxY1ZlWkVGbVlFRkttNGNXMXJkQ044bjBUdlNPLUdqUEVtRG0xa3Y1R05rRUtwUU1EYzNQZmhDakJqYmFLYlpIR0ZBUEhDVi1LbmVfcVdjcWpyN3ZfeUFRWTZHemNzMVdXcG82eXlZak80VXA3dDJudUJzdHlIdFo5NFRCRmhsRG55XzdFeUw5X0txT3k4T0FaX0tELW9jcFF1SGEteGtM?oc=5" target="_blank">La panne de l'économie française met en grand péril les objectifs de réduction du déficit</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
