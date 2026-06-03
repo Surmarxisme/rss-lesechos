@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Wed, 03 Jun 2026 16:20:55 +0000`
+> Derniere mise a jour : `Wed, 03 Jun 2026 20:12:04 +0000`
 > 91 articles (30 derniers jours)
+
+---
+
+### [Coupes budgétaires : les parlementaires dénoncent une « cacophonie gouvernementale » - Les Echos](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOMjNCLTFLQzZ6R2Z2YmdPX0lJTDVqQTZqN1AydV94THBzR0FhZ3JNWXpNZHVaZ3NMcDFEMFo5U05mOWJPdDR5TFBIR3ZCWU4zbDZvZ3E1M2RFcl8ybE5KX2wwZG5GRUlmaTktMWEweWpKc2VxU2ZoRWgtVnRLMlpyY2xIS054aHhwbmh2dmxkU25mVnJCcVNqMGh3cW9Rcm5IU1A5MndBeVExY1ZId3hqUEhzNTVDT3RkYUplTVBmVkFMNGg1bUxOLThfU09HRzZRQVYwZkdVVm1Yak0?oc=5)
+
+`Wed, 03 Jun 2026 17:29:40 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi2wFBVV95cUxOMjNCLTFLQzZ6R2Z2YmdPX0lJTDVqQTZqN1AydV94THBzR0FhZ3JNWXpNZHVaZ3NMcDFEMFo5U05mOWJPdDR5TFBIR3ZCWU4zbDZvZ3E1M2RFcl8ybE5KX2wwZG5GRUlmaTktMWEweWpKc2VxU2ZoRWgtVnRLMlpyY2xIS054aHhwbmh2dmxkU25mVnJCcVNqMGh3cW9Rcm5IU1A5MndBeVExY1ZId3hqUEhzNTVDT3RkYUplTVBmVkFMNGg1bUxOLThfU09HRzZRQVYwZkdVVm1Yak0?oc=5" target="_blank">Coupes budgétaires : les parlementaires dénoncent une « cacophonie gouvernementale »</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -714,14 +722,6 @@
 `Tue, 05 May 2026 14:56:00 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMikgJBVV95cUxOM1VTOUE5RTktRG9MZWRuOGhZRDZCblhRSVdPUF9rM2hWUVQ2Z2k2MGhTQnhFM0Y4SGNPY1MzOHlpWXZDVlBuRWwxaEpJb1pHRUF1b1dfV0p2YkJIQ2NfS2NSZEgwU2k3M2sxeXN6bkltMmhkdU5GRTAxQ1h0cjlFa0dSWjVWTkw2RkUyTjVtdXI2UzFDclFSdDI0X002RDNoUlNHZFExZVozYzdVclNNMFMwR29oSjNGcndORl9OSmFrUFZrZGt6NEtZQ294bVprOGc1WDY1Z2lEUXpRc0Y4V2ZZdm1LOGNUZDc1NzhsVmRjYnZQMW5XOGdFZXdEcE5jemx5M3FOMlJKSE53OFp6OFhn?oc=5" target="_blank">« Ce n'est pas le chèque qui fait l'enfant » : pourquoi les prestations sociales ne suffisent pas à enrayer le déclin de la natalité</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [« Jour de libération des actifs » : à partir du 4 mai, les salariés français arrêtent de financer les pensions des retraités - Les Echos](https://news.google.com/rss/articles/CBMihAJBVV95cUxQb2JxZm02SE1XeGloejk2Z3IxMHBJSGRQck9FZFNJVzN6MldwYUZXZG5RaTkyT3hPejFjbXVGTXVwR2J1clNQd1loaDJnb2dOZEgzNkZGWUo4MEV0UXRWRmg5cDNISTd1Y0V2OEtrMjNZZE43QXRPMnRsWVliT3BtQmYybWFnbXRqNkU3UUstSTZvekVWZkdRTEV1TVlEeU9KSVpGUUh4bDBKSC1EYkxRaDlpOGxaZjRRSTBfMEpka3JzUE5qNC12MV8xaDFhLVlWNVk4b2RsbGR1Y3dndWpJaXRYRUhMeUE4amZ4YlczcElQemRNVXkyWVRlUEpkbHBjaEFlNQ?oc=5)
-
-`Mon, 04 May 2026 18:35:21 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMihAJBVV95cUxQb2JxZm02SE1XeGloejk2Z3IxMHBJSGRQck9FZFNJVzN6MldwYUZXZG5RaTkyT3hPejFjbXVGTXVwR2J1clNQd1loaDJnb2dOZEgzNkZGWUo4MEV0UXRWRmg5cDNISTd1Y0V2OEtrMjNZZE43QXRPMnRsWVliT3BtQmYybWFnbXRqNkU3UUstSTZvekVWZkdRTEV1TVlEeU9KSVpGUUh4bDBKSC1EYkxRaDlpOGxaZjRRSTBfMEpka3JzUE5qNC12MV8xaDFhLVlWNVk4b2RsbGR1Y3dndWpJaXRYRUhMeUE4amZ4YlczcElQemRNVXkyWVRlUEpkbHBjaEFlNQ?oc=5" target="_blank">« Jour de libération des actifs » : à partir du 4 mai, les salariés français arrêtent de financer les pensions des retraités</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
