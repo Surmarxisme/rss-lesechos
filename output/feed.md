@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Wed, 03 Jun 2026 13:20:54 +0000`
-> 92 articles (30 derniers jours)
+> Derniere mise a jour : `Wed, 03 Jun 2026 16:20:55 +0000`
+> 91 articles (30 derniers jours)
+
+---
+
+### [« La fonction publique s'effondre et les gouvernements regardent ailleurs » : les syndicats somment Bercy d'agir sur les salaires - Les Echos](https://news.google.com/rss/articles/CBMihwJBVV95cUxOSUNyYlFMMHU5b0JDMVN0djVlekJycmF6dERTQTBzdlA5MDdIaFJqcGVUZ3VFbENTMU9mWGcxbHJEMV9Fb2R3b2NtMFhrUkQtMGtiQjRWRGlsdVA1d1dVdVg5TE5CRDU5NGtaSnVFbHFiQ0pfOVJXRGd1Yi1MRml1U3p4QTlRa3lIUUZhck8xOVdydUp1S2R1VEF5SGhqdTdVRi1ubTBpNEsxdkVqYno1akdBM0hHVTczb2VYUWI3ZXRXUngyb1h3am9VR1ZpSzVGTDhUaE1ZSVFYbmlyczlJak1aRjJZelFuZ0tRbkNfTHp0R09RSFVVdE54TVhrMW1QeUdfM1lkaw?oc=5)
+
+`Wed, 03 Jun 2026 15:26:19 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMihwJBVV95cUxOSUNyYlFMMHU5b0JDMVN0djVlekJycmF6dERTQTBzdlA5MDdIaFJqcGVUZ3VFbENTMU9mWGcxbHJEMV9Fb2R3b2NtMFhrUkQtMGtiQjRWRGlsdVA1d1dVdVg5TE5CRDU5NGtaSnVFbHFiQ0pfOVJXRGd1Yi1MRml1U3p4QTlRa3lIUUZhck8xOVdydUp1S2R1VEF5SGhqdTdVRi1ubTBpNEsxdkVqYno1akdBM0hHVTczb2VYUWI3ZXRXUngyb1h3am9VR1ZpSzVGTDhUaE1ZSVFYbmlyczlJak1aRjJZelFuZ0tRbkNfTHp0R09RSFVVdE54TVhrMW1QeUdfM1lkaw?oc=5" target="_blank">« La fonction publique s'effondre et les gouvernements regardent ailleurs » : les syndicats somment Bercy d'agir sur les salaires</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -722,21 +730,5 @@
 `Tue, 05 May 2026 04:20:08 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxNN2pqVnlmRU9JZmZ1d1RMRnk4QzdZWkZsSkNnLTd4YVBsdmFCSVRaNFY0SEJtN0czZ0N3QkQwdTdpeHQ5VWVhdGtlVTRXdGtTYXJKRmNWd21sUUxOQS1oNlpmdVp0eW9oNTdnRm1TWDl0VjhsYnV1aVUtY1otZng0VWFpNEQyUXlUNUV5WFlFNXNMRUNmc0U0SVdzZlBCaTF5S2ptQzJEWURmZmQ5ZDBpREk5MHdLbVZVSTkwc3VNbw?oc=5" target="_blank">Budget : pourquoi les dépenses de santé risquent à nouveau de déraper</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [EXCLUSIF - Retraites complémentaires Agirc-Arrco : des dizaines de milliers de retraités lésés vont toucher des rappels de pension - Les Echos](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSDBWMk1YVzRkenVScUF6WkVZZl96S0RXeDhGa01ISUk3TjBCSkY5MDVQUWV4OHljRV9rakxVeEExeVYwb0ZGT29vSFZ2UzVoNVA4NEhnUkdNdmtYXzRVZTlyVEZsdndMcUVuYVpRZEhYWjBMS1BvanJGYTFIN09aTGN0REdFb2VVcXVLRWRBNG5tcUNhdEd4Z2FBU1JqdWdpSW0yVFNIUGVRcHgxRHgwZUFRMkZxVnB6Qzg2MFlvZXliTm5SQm14MTJhckJmOTVrVWc?oc=5)
-
-`Mon, 04 May 2026 15:56:55 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSDBWMk1YVzRkenVScUF6WkVZZl96S0RXeDhGa01ISUk3TjBCSkY5MDVQUWV4OHljRV9rakxVeEExeVYwb0ZGT29vSFZ2UzVoNVA4NEhnUkdNdmtYXzRVZTlyVEZsdndMcUVuYVpRZEhYWjBMS1BvanJGYTFIN09aTGN0REdFb2VVcXVLRWRBNG5tcUNhdEd4Z2FBU1JqdWdpSW0yVFNIUGVRcHgxRHgwZUFRMkZxVnB6Qzg2MFlvZXliTm5SQm14MTJhckJmOTVrVWc?oc=5" target="_blank">EXCLUSIF - Retraites complémentaires Agirc-Arrco : des dizaines de milliers de retraités lésés vont toucher des rappels de pension</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Croissance, inflation, déficit : les dernières préconisations de François Villeroy de Galhau - Les Echos](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQdlpDRndabXVhYUtNMTFleThJTzF6NTQtWjdpbDdwS09kMG9BczZFNjBzZkxXUkgzdFd1cFhhS19kSkJPZ2RadDhuMG5FeU8xcWZUTEdCcVhudlhMTndCSWxmQmNrdVlRY2VrUjBaX2Y4Tkd1dkRDYkdJNC0yWEViMk1BbmpwNXRHWjdUQS1FY2p0TnJyT2hISU5yV2lnWjlyLXdtc3FuMktwbkhrZEtmOU4waHlENVg1TDR1ZU41NkdkcElxR0RkY0JZQVotUGJzd21CWk5XcmxPVFpGRU9pYmVR?oc=5)
-
-`Mon, 04 May 2026 13:28:25 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi4gFBVV95cUxQdlpDRndabXVhYUtNMTFleThJTzF6NTQtWjdpbDdwS09kMG9BczZFNjBzZkxXUkgzdFd1cFhhS19kSkJPZ2RadDhuMG5FeU8xcWZUTEdCcVhudlhMTndCSWxmQmNrdVlRY2VrUjBaX2Y4Tkd1dkRDYkdJNC0yWEViMk1BbmpwNXRHWjdUQS1FY2p0TnJyT2hISU5yV2lnWjlyLXdtc3FuMktwbkhrZEtmOU4waHlENVg1TDR1ZU41NkdkcElxR0RkY0JZQVotUGJzd21CWk5XcmxPVFpGRU9pYmVR?oc=5" target="_blank">Croissance, inflation, déficit : les dernières préconisations de François Villeroy de Galhau</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
