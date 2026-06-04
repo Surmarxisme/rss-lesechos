@@ -1,7 +1,23 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Thu, 04 Jun 2026 14:39:38 +0000`
-> 92 articles (30 derniers jours)
+> Derniere mise a jour : `Thu, 04 Jun 2026 19:11:33 +0000`
+> 91 articles (30 derniers jours)
+
+---
+
+### [SONDAGE EXCLUSIF - « Tout est bon à prendre pour augmenter le salaire net » : ce qu'attendent les Français face au décrochage du pouvoir d'achat - Les Echos](https://news.google.com/rss/articles/CBMimAJBVV95cUxQVnU3SG9Zc2dBcnBqWjgzRTlTU0J4ZmdtZXRfNm9MUTBpblgzWV9CZFdRQjM4enBscjgwMUhvM3NQX1hTZ2lYNjByOGhwUm4zVnc2WTJ0bVJTa0xuSTVfRU9vSmUyTU1JZHZaZVNwanhrNEp4NWxSaG42UUNPTDBHdDRXNmlzbjRleUhDQUtjSGpobVBaR3dpNEFoRjJVeWttNEFPc2ViX1oySmVBdWpPN2VTNERJQ09kX2xNZHdqSnRPd3VEeE0yQUhrQ3pRRFBhdUVDZWFreXpqTnBzMXVkRTRGQzdPU2FmdmNVeEs1LXJLbk5wUEstblZ4dVpGZEUwblBkUDlKS1hDRUJnMW9sMGFoQkhQUVJR?oc=5)
+
+`Thu, 04 Jun 2026 15:04:19 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMimAJBVV95cUxQVnU3SG9Zc2dBcnBqWjgzRTlTU0J4ZmdtZXRfNm9MUTBpblgzWV9CZFdRQjM4enBscjgwMUhvM3NQX1hTZ2lYNjByOGhwUm4zVnc2WTJ0bVJTa0xuSTVfRU9vSmUyTU1JZHZaZVNwanhrNEp4NWxSaG42UUNPTDBHdDRXNmlzbjRleUhDQUtjSGpobVBaR3dpNEFoRjJVeWttNEFPc2ViX1oySmVBdWpPN2VTNERJQ09kX2xNZHdqSnRPd3VEeE0yQUhrQ3pRRFBhdUVDZWFreXpqTnBzMXVkRTRGQzdPU2FmdmNVeEs1LXJLbk5wUEstblZ4dVpGZEUwblBkUDlKS1hDRUJnMW9sMGFoQkhQUVJR?oc=5" target="_blank">SONDAGE EXCLUSIF - « Tout est bon à prendre pour augmenter le salaire net » : ce qu'attendent les Français face au décrochage du pouvoir d'achat</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Immigration : radiographie des derniers étrangers arrivés en France - Les Echos](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUnpmRUVnQ1Vjd0ptOHRpOHZpZENVY0tmb3d2V1RBTzFUcy1SMEJmeEkzSEdJbUxnS0w2ajFnbHpjQW83ZTkyRjdWUlUycTlBRk85OXM5eTM1dDhUOWYtdlh0SEs4SU1pOFhWajlWZWw3alpYMmRpVGNSZGlHMVk1VERhT1JnSnpWOG1pU2wxMWZ0ZDUzeVY1S2xUQlJ1VWQ4VzFOLWRnOUxLRzhkWGhzVVNWcjJId3FmVE5uV0VYWjk2Vnc?oc=5)
+
+`Thu, 04 Jun 2026 15:28:27 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUnpmRUVnQ1Vjd0ptOHRpOHZpZENVY0tmb3d2V1RBTzFUcy1SMEJmeEkzSEdJbUxnS0w2ajFnbHpjQW83ZTkyRjdWUlUycTlBRk85OXM5eTM1dDhUOWYtdlh0SEs4SU1pOFhWajlWZWw3alpYMmRpVGNSZGlHMVk1VERhT1JnSnpWOG1pU2wxMWZ0ZDUzeVY1S2xUQlJ1VWQ4VzFOLWRnOUxLRzhkWGhzVVNWcjJId3FmVE5uV0VYWjk2Vnc?oc=5" target="_blank">Immigration : radiographie des derniers étrangers arrivés en France</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -714,29 +730,5 @@
 `Wed, 06 May 2026 04:31:08 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMizAFBVV95cUxQd210b3FXQTcxRHNrVi1SLXlFNk1SYmpyUEpVbmE0OU01RnlES3ItY0pHTTJwWnkzd3BTQTZfQlhSbURFcExlWWVhZDk4Y1hZdFBESU14VXdPeExmZE5IN2owaFM0ckt1YllvdXhGdlJtTlNDOUpyaXY4QkY3c3lSbjhfNVNlbjIwRmVXZzNnUlZzb0tVNFRzSTlXY0tRZnByU2UzbnZoOGZqQ05IWjdpWXNiYnUyTFNnVDZNbklmSFJueUNSYlV0RFhwNXo?oc=5" target="_blank">Ces centaines de milliers de ménages qui ne font pas valoir leur droit au RSA</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Banque de France : Macron propose officiellement Moulin au poste de gouverneur - Les Echos](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPYWVKNkJSc2oweHhOeFR0ZmhsVU5JYzNmeDJEOWctU0lqc3lmQkxvLUNsUnpMclpkcE5lWXQxUldFMkJ3ZXY2a1ZaeHpUSDZqM3cxTDVzaXVIcUV4SS14YW40VW5KYnQ4U2ZkazZNTWc5bE1IMnp0ZkxmRVoxTHhUbnlFZXBCVjlpaURLemo3SjEtLW44d2haWjIxbUlGNURuM0dFUWdtTUVXU2J0T1cwNkZYZWlSN1cxOVhuUTFsZklaeGZaczg1Q0YwUjNFeVVPTHc?oc=5)
-
-`Tue, 05 May 2026 16:32:08 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi0gFBVV95cUxPYWVKNkJSc2oweHhOeFR0ZmhsVU5JYzNmeDJEOWctU0lqc3lmQkxvLUNsUnpMclpkcE5lWXQxUldFMkJ3ZXY2a1ZaeHpUSDZqM3cxTDVzaXVIcUV4SS14YW40VW5KYnQ4U2ZkazZNTWc5bE1IMnp0ZkxmRVoxTHhUbnlFZXBCVjlpaURLemo3SjEtLW44d2haWjIxbUlGNURuM0dFUWdtTUVXU2J0T1cwNkZYZWlSN1cxOVhuUTFsZklaeGZaczg1Q0YwUjNFeVVPTHc?oc=5" target="_blank">Banque de France : Macron propose officiellement Moulin au poste de gouverneur</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Guerre au Moyen-Orient : le budget des opérations extérieures des armées françaises explose - Les Echos](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQTGtxdHpubU1lYUtCZWMxVDI0dVFNOHc0QkpyN2J6TEd6QXlQYjF5YlZHX2FBUkVNWjFNUkFnc1ZmU3FzZzJXUG5wUi1LTjluTHZDMjFkNFdmOXZkSkd3ZjhPdzJIRHc1Ry1wQjJia2xiRjhxQzdIZWZrSmV4QmVfTWJkWXprbDduN2gxN003NUJVTGl1VS1BUFp0dVhfejE4b2hkOHdGeHduX2hOekZwRWR3MG5nTEJKTjctZHgzcTFweXBaNkNETXM4TEw3eWtnYVI0VWUzVnkyRzJWSDNoV0taNi1OT0ROWFE?oc=5)
-
-`Tue, 05 May 2026 15:19:47 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi6gFBVV95cUxQTGtxdHpubU1lYUtCZWMxVDI0dVFNOHc0QkpyN2J6TEd6QXlQYjF5YlZHX2FBUkVNWjFNUkFnc1ZmU3FzZzJXUG5wUi1LTjluTHZDMjFkNFdmOXZkSkd3ZjhPdzJIRHc1Ry1wQjJia2xiRjhxQzdIZWZrSmV4QmVfTWJkWXprbDduN2gxN003NUJVTGl1VS1BUFp0dVhfejE4b2hkOHdGeHduX2hOekZwRWR3MG5nTEJKTjctZHgzcTFweXBaNkNETXM4TEw3eWtnYVI0VWUzVnkyRzJWSDNoV0taNi1OT0ROWFE?oc=5" target="_blank">Guerre au Moyen-Orient : le budget des opérations extérieures des armées françaises explose</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [« Ce n'est pas le chèque qui fait l'enfant » : pourquoi les prestations sociales ne suffisent pas à enrayer le déclin de la natalité - Les Echos](https://news.google.com/rss/articles/CBMikgJBVV95cUxOM1VTOUE5RTktRG9MZWRuOGhZRDZCblhRSVdPUF9rM2hWUVQ2Z2k2MGhTQnhFM0Y4SGNPY1MzOHlpWXZDVlBuRWwxaEpJb1pHRUF1b1dfV0p2YkJIQ2NfS2NSZEgwU2k3M2sxeXN6bkltMmhkdU5GRTAxQ1h0cjlFa0dSWjVWTkw2RkUyTjVtdXI2UzFDclFSdDI0X002RDNoUlNHZFExZVozYzdVclNNMFMwR29oSjNGcndORl9OSmFrUFZrZGt6NEtZQ294bVprOGc1WDY1Z2lEUXpRc0Y4V2ZZdm1LOGNUZDc1NzhsVmRjYnZQMW5XOGdFZXdEcE5jemx5M3FOMlJKSE53OFp6OFhn?oc=5)
-
-`Tue, 05 May 2026 14:56:00 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMikgJBVV95cUxOM1VTOUE5RTktRG9MZWRuOGhZRDZCblhRSVdPUF9rM2hWUVQ2Z2k2MGhTQnhFM0Y4SGNPY1MzOHlpWXZDVlBuRWwxaEpJb1pHRUF1b1dfV0p2YkJIQ2NfS2NSZEgwU2k3M2sxeXN6bkltMmhkdU5GRTAxQ1h0cjlFa0dSWjVWTkw2RkUyTjVtdXI2UzFDclFSdDI0X002RDNoUlNHZFExZVozYzdVclNNMFMwR29oSjNGcndORl9OSmFrUFZrZGt6NEtZQ294bVprOGc1WDY1Z2lEUXpRc0Y4V2ZZdm1LOGNUZDc1NzhsVmRjYnZQMW5XOGdFZXdEcE5jemx5M3FOMlJKSE53OFp6OFhn?oc=5" target="_blank">« Ce n'est pas le chèque qui fait l'enfant » : pourquoi les prestations sociales ne suffisent pas à enrayer le déclin de la natalité</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
