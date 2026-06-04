@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Thu, 04 Jun 2026 09:36:57 +0000`
-> 91 articles (30 derniers jours)
+> Derniere mise a jour : `Thu, 04 Jun 2026 12:06:36 +0000`
+> 92 articles (30 derniers jours)
+
+---
+
+### [Transparence salariale : plusieurs organisations patronales européennes veulent une pause dans la transposition de la directive - Les Echos](https://news.google.com/rss/articles/CBMijAJBVV95cUxONWJmMk5wYnpwTzV1dzVWLTNLZ3dGWFN0czl1TVR6aUc0OHotWWVJdUVHNWxGMVZveWVPUnc5MVB3YnlqN0hYUjRMdTQ0eU4tVEMxMjU3NkVFM1NISHZkdlpfTnV2LWxzSEZJdFFURTBsdHFXLUg1ellpMzJJaTJVMS10UWtscXEwWFNwWjBoLXVRVHBGc09pMVA3T2FjSWo3d3E1MUxsUlJGVTNqUEhFLTBLd3Bpei1QR0xmLVByOFNCN2tDX0ZZcjVEWHUxTXpmTkotb2hLbUd5MDdHUDkzbnJzN2RFRVF6X1luTF9jQXA0ckFrTHJ0V0huYmNUamRmd2kwR1luOHNaUnZL?oc=5)
+
+`Thu, 04 Jun 2026 10:45:14 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMijAJBVV95cUxONWJmMk5wYnpwTzV1dzVWLTNLZ3dGWFN0czl1TVR6aUc0OHotWWVJdUVHNWxGMVZveWVPUnc5MVB3YnlqN0hYUjRMdTQ0eU4tVEMxMjU3NkVFM1NISHZkdlpfTnV2LWxzSEZJdFFURTBsdHFXLUg1ellpMzJJaTJVMS10UWtscXEwWFNwWjBoLXVRVHBGc09pMVA3T2FjSWo3d3E1MUxsUlJGVTNqUEhFLTBLd3Bpei1QR0xmLVByOFNCN2tDX0ZZcjVEWHUxTXpmTkotb2hLbUd5MDdHUDkzbnJzN2RFRVF6X1luTF9jQXA0ckFrTHJ0V0huYmNUamRmd2kwR1luOHNaUnZL?oc=5" target="_blank">Transparence salariale : plusieurs organisations patronales européennes veulent une pause dans la transposition de la directive</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
