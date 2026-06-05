@@ -1,7 +1,31 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Thu, 04 Jun 2026 19:11:33 +0000`
-> 91 articles (30 derniers jours)
+> Derniere mise a jour : `Fri, 05 Jun 2026 08:58:38 +0000`
+> 93 articles (30 derniers jours)
+
+---
+
+### [L'envol inattendu de la retraite progressive dans les entreprises - Les Echos](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNX1FqUC1DODB0TjhUNTZscWpqUkxway1CX2M1ZFVWdGxzV1hKR0xTMjFpTm9TQmNJWWNfVGdyOThyREV3ZEFGVU5HcUtHYjdTd1pnWjRzcXBmd3U3NEp6d3RyOFhHQ3N4bzNpcDNOZkFXYXVvcjFfSDhjQXdjRkZQTlNXZmkySkRvREN1RVdkallWOERkUVBES19ZaE82c3ZYdVhBRHpsaEpwVXg2cThmZGJaMjRweTZ0U3BF?oc=5)
+
+`Fri, 05 Jun 2026 04:05:09 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxNX1FqUC1DODB0TjhUNTZscWpqUkxway1CX2M1ZFVWdGxzV1hKR0xTMjFpTm9TQmNJWWNfVGdyOThyREV3ZEFGVU5HcUtHYjdTd1pnWjRzcXBmd3U3NEp6d3RyOFhHQ3N4bzNpcDNOZkFXYXVvcjFfSDhjQXdjRkZQTlNXZmkySkRvREN1RVdkallWOERkUVBES19ZaE82c3ZYdVhBRHpsaEpwVXg2cThmZGJaMjRweTZ0U3BF?oc=5" target="_blank">L'envol inattendu de la retraite progressive dans les entreprises</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Transparence salariale : un casse-tête pour les entreprises, mais aussi pour le gouvernement - Les Echos](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNM0JRczJSWjN0ME83QjZaOFBaNWx5YkN6d1pYYUJfcXlGNzRnLVVEVzAzRDZlRW9zSnVrUGsxaWFRN1FjdHNQMDNCanFwZ3hmTmtUTTctbXpVVUR6MEowU3htd19qR3FvNGpKa1BjamxUTFQxSThvTEk3R3RsNC1SME53b3pYOVZXZnFGUjZ4b0RsYUJNdlE1Q2RQYXlWX24wQjZnRXB1YlAyWTVaVFYzY2Vnci1welRZNHV1UFZlNHRkNFJqSTJSeFBqNlVPTTZXYWN3UmZmTmVDaUpU?oc=5)
+
+`Fri, 05 Jun 2026 06:31:34 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi3AFBVV95cUxNM0JRczJSWjN0ME83QjZaOFBaNWx5YkN6d1pYYUJfcXlGNzRnLVVEVzAzRDZlRW9zSnVrUGsxaWFRN1FjdHNQMDNCanFwZ3hmTmtUTTctbXpVVUR6MEowU3htd19qR3FvNGpKa1BjamxUTFQxSThvTEk3R3RsNC1SME53b3pYOVZXZnFGUjZ4b0RsYUJNdlE1Q2RQYXlWX24wQjZnRXB1YlAyWTVaVFYzY2Vnci1welRZNHV1UFZlNHRkNFJqSTJSeFBqNlVPTTZXYWN3UmZmTmVDaUpU?oc=5" target="_blank">Transparence salariale : un casse-tête pour les entreprises, mais aussi pour le gouvernement</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Cumul emploi-retraite : « C'est vraiment dommage de mettre des barrières » - Les Echos](https://news.google.com/rss/articles/CBMivwFBVV95cUxNWEVrTDRFMC1HVkVPYXNIbXlpWldlZTQ0aFVycnh4b05ZeHdzWEZRVmFQU2R4YzVMSVZnTmVfS0lsTl9YQkpLWTJBb1Z1Z3kzRldfeE0teVkyUTRLUS1xRFRQV1NuYUZiOU9CVTB0UGpTUEpMckJxVDNqaGlXVkItNi0yUVg1NjJpN2phMi1ad2hTMHVLS0NMOG1ucHN2V1QzTVRnUkxzWTFTLTNReWpmZ3h4cXNHbUdIX0FhbHlOQQ?oc=5)
+
+`Fri, 05 Jun 2026 08:00:09 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxNWEVrTDRFMC1HVkVPYXNIbXlpWldlZTQ0aFVycnh4b05ZeHdzWEZRVmFQU2R4YzVMSVZnTmVfS0lsTl9YQkpLWTJBb1Z1Z3kzRldfeE0teVkyUTRLUS1xRFRQV1NuYUZiOU9CVTB0UGpTUEpMckJxVDNqaGlXVkItNi0yUVg1NjJpN2phMi1ad2hTMHVLS0NMOG1ucHN2V1QzTVRnUkxzWTFTLTNReWpmZ3h4cXNHbUdIX0FhbHlOQQ?oc=5" target="_blank">Cumul emploi-retraite : « C'est vraiment dommage de mettre des barrières »</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -722,13 +746,5 @@
 `Wed, 06 May 2026 10:00:51 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZ0dLZUpwRWhxMmNVdEtCMEEwb3oyZHpTWjB6dHhtSzJFVDhERC1FeDc0MjNYUkViVk5qZjQyLS1UNVV2OWVNMnZxSWRYVjV3djZSM3Y1U29rejhSNk1WSGdudDNaV2Vrck5CMHFabGR6MlVqaWdianNVNHZiT2RtWlUzRzc2WW5OVVdrYWJUSmw0bzRrb2pmS3NZQnVackQ2LWFYaExhUFR3UmtqVTVoNWU3bl90UHZBNHRGOHJWYjZMbzk5MEk5TkQ1ZWszb0UxUERxOXl6YUkxWHp1bjRNaGdGM24xa2RHSlY1Rw?oc=5" target="_blank">Guerre au Moyen-Orient : les perspectives de recrutement des cadres s'assombrissent dans les entreprises</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Ces centaines de milliers de ménages qui ne font pas valoir leur droit au RSA - Les Echos](https://news.google.com/rss/articles/CBMizAFBVV95cUxQd210b3FXQTcxRHNrVi1SLXlFNk1SYmpyUEpVbmE0OU01RnlES3ItY0pHTTJwWnkzd3BTQTZfQlhSbURFcExlWWVhZDk4Y1hZdFBESU14VXdPeExmZE5IN2owaFM0ckt1YllvdXhGdlJtTlNDOUpyaXY4QkY3c3lSbjhfNVNlbjIwRmVXZzNnUlZzb0tVNFRzSTlXY0tRZnByU2UzbnZoOGZqQ05IWjdpWXNiYnUyTFNnVDZNbklmSFJueUNSYlV0RFhwNXo?oc=5)
-
-`Wed, 06 May 2026 04:31:08 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMizAFBVV95cUxQd210b3FXQTcxRHNrVi1SLXlFNk1SYmpyUEpVbmE0OU01RnlES3ItY0pHTTJwWnkzd3BTQTZfQlhSbURFcExlWWVhZDk4Y1hZdFBESU14VXdPeExmZE5IN2owaFM0ckt1YllvdXhGdlJtTlNDOUpyaXY4QkY3c3lSbjhfNVNlbjIwRmVXZzNnUlZzb0tVNFRzSTlXY0tRZnByU2UzbnZoOGZqQ05IWjdpWXNiYnUyTFNnVDZNbklmSFJueUNSYlV0RFhwNXo?oc=5" target="_blank">Ces centaines de milliers de ménages qui ne font pas valoir leur droit au RSA</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
