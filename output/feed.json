@@ -2,10 +2,37 @@
   "source": "Les Echos - Economie France",
   "source_url": "https://www.lesechos.fr/economie-france",
   "language": "fr-FR",
-  "last_fetched": "Fri, 05 Jun 2026 08:58:38 +0000",
-  "total_items": 93,
+  "last_fetched": "Fri, 05 Jun 2026 12:13:38 +0000",
+  "total_items": 95,
   "new_items_this_run": 3,
   "articles": [
+    {
+      "id": "CBMiqAFBVV95cUxPOThCbXpJQ21Oa2oxdnFHZ2VRcF8zR3VERW9Dd1BvUGRIQS1sY05NbDJEQ1U2ZDR0WWpua0lRSjBWdTVNeVpKSjdFcUk1NjI1SGtYZnFLNGFiLWpNUmxvVzJYNlN2dS1kR3BOQTRSVnlmNlhXdkZOal9pRDNYY2w3OWJoTkl1WUFJeEdtT3JCY1FPTWtvaDY2Rnl3VmlVU1d6WkNjRzI5S1U",
+      "title": "L'étonnante résistance de l'industrie française - Les Echos",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOThCbXpJQ21Oa2oxdnFHZ2VRcF8zR3VERW9Dd1BvUGRIQS1sY05NbDJEQ1U2ZDR0WWpua0lRSjBWdTVNeVpKSjdFcUk1NjI1SGtYZnFLNGFiLWpNUmxvVzJYNlN2dS1kR3BOQTRSVnlmNlhXdkZOal9pRDNYY2w3OWJoTkl1WUFJeEdtT3JCY1FPTWtvaDY2Rnl3VmlVU1d6WkNjRzI5S1U?oc=5\" target=\"_blank\">L'étonnante résistance de l'industrie française</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Les Echos</font>",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOThCbXpJQ21Oa2oxdnFHZ2VRcF8zR3VERW9Dd1BvUGRIQS1sY05NbDJEQ1U2ZDR0WWpua0lRSjBWdTVNeVpKSjdFcUk1NjI1SGtYZnFLNGFiLWpNUmxvVzJYNlN2dS1kR3BOQTRSVnlmNlhXdkZOal9pRDNYY2w3OWJoTkl1WUFJeEdtT3JCY1FPTWtvaDY2Rnl3VmlVU1d6WkNjRzI5S1U?oc=5",
+      "source": "Les Echos",
+      "pub_date": "Fri, 05 Jun 2026 10:02:07 GMT",
+      "pub_date_iso": "2026-06-05T10:02:07+00:00"
+    },
+    {
+      "id": "CBMiugFBVV95cUxQbmI5cmkyMjVpY284NFlBVkJxc0NFSUJnckk3ZWM0V0NaYzJIY2ZhcTFRM3RLVUxWOUtJME1FZTdxLW9lQ0JRQXppSGJWSWlaWEx3NnlWelRaemJpT0FZRnlDeU1UUDVmQWVXRHJsQmN6Vk9ldnBnbkd4dFdMeWlOQThMUEJxcmZ6RDNUSjF3Ui1BZzdWaGVRTWVJMGI5djl4ZEVPRXd3dVhob3NFUGVVVjc1WUkxWVA4ZXc",
+      "title": "EXCLUSIF - Transparence salariale : ce que prévoit le projet de loi - Les Echos",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQbmI5cmkyMjVpY284NFlBVkJxc0NFSUJnckk3ZWM0V0NaYzJIY2ZhcTFRM3RLVUxWOUtJME1FZTdxLW9lQ0JRQXppSGJWSWlaWEx3NnlWelRaemJpT0FZRnlDeU1UUDVmQWVXRHJsQmN6Vk9ldnBnbkd4dFdMeWlOQThMUEJxcmZ6RDNUSjF3Ui1BZzdWaGVRTWVJMGI5djl4ZEVPRXd3dVhob3NFUGVVVjc1WUkxWVA4ZXc?oc=5\" target=\"_blank\">EXCLUSIF - Transparence salariale : ce que prévoit le projet de loi</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Les Echos</font>",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbmI5cmkyMjVpY284NFlBVkJxc0NFSUJnckk3ZWM0V0NaYzJIY2ZhcTFRM3RLVUxWOUtJME1FZTdxLW9lQ0JRQXppSGJWSWlaWEx3NnlWelRaemJpT0FZRnlDeU1UUDVmQWVXRHJsQmN6Vk9ldnBnbkd4dFdMeWlOQThMUEJxcmZ6RDNUSjF3Ui1BZzdWaGVRTWVJMGI5djl4ZEVPRXd3dVhob3NFUGVVVjc1WUkxWVA4ZXc?oc=5",
+      "source": "Les Echos",
+      "pub_date": "Fri, 05 Jun 2026 09:52:57 GMT",
+      "pub_date_iso": "2026-06-05T09:52:57+00:00"
+    },
+    {
+      "id": "CBMi2wFBVV95cUxOb3JjanR0QUtqd1Qta1Z2Y0VTaDkzS0JBRkY0U3hCamRnWkl6bHBIM2dRd0poQlU5b1JhM2xKSktCb25Fa1NLbTZIS0tLeE5pdklXN0JKcmc1akFZaXM4V3FyMVV6b2JveFQyS2FCdEhTUG9fRVR5YnJwMDl3MWxLOEpUU0ltNUZhUjZOMnVUWlRZM2x5LWJUT2wtNEEtck5zeFdnNGlMVWJiV2hNUEZ1Uk8xRHRNUXMyRG1RN1Nra2kzUUptN2s0OUFsUjJ6T1FfUFlzSnlFWkJOMms",
+      "title": "Emploi : la progression « irréversible » et « massive » des contractuels dans la fonction publique - Les Echos",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxOb3JjanR0QUtqd1Qta1Z2Y0VTaDkzS0JBRkY0U3hCamRnWkl6bHBIM2dRd0poQlU5b1JhM2xKSktCb25Fa1NLbTZIS0tLeE5pdklXN0JKcmc1akFZaXM4V3FyMVV6b2JveFQyS2FCdEhTUG9fRVR5YnJwMDl3MWxLOEpUU0ltNUZhUjZOMnVUWlRZM2x5LWJUT2wtNEEtck5zeFdnNGlMVWJiV2hNUEZ1Uk8xRHRNUXMyRG1RN1Nra2kzUUptN2s0OUFsUjJ6T1FfUFlzSnlFWkJOMms?oc=5\" target=\"_blank\">Emploi : la progression « irréversible » et « massive » des contractuels dans la fonction publique</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Les Echos</font>",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOb3JjanR0QUtqd1Qta1Z2Y0VTaDkzS0JBRkY0U3hCamRnWkl6bHBIM2dRd0poQlU5b1JhM2xKSktCb25Fa1NLbTZIS0tLeE5pdklXN0JKcmc1akFZaXM4V3FyMVV6b2JveFQyS2FCdEhTUG9fRVR5YnJwMDl3MWxLOEpUU0ltNUZhUjZOMnVUWlRZM2x5LWJUT2wtNEEtck5zeFdnNGlMVWJiV2hNUEZ1Uk8xRHRNUXMyRG1RN1Nra2kzUUptN2s0OUFsUjJ6T1FfUFlzSnlFWkJOMms?oc=5",
+      "source": "Les Echos",
+      "pub_date": "Fri, 05 Jun 2026 10:00:38 GMT",
+      "pub_date_iso": "2026-06-05T10:00:38+00:00"
+    },
     {
       "id": "CBMiuwFBVV95cUxNX1FqUC1DODB0TjhUNTZscWpqUkxway1CX2M1ZFVWdGxzV1hKR0xTMjFpTm9TQmNJWWNfVGdyOThyREV3ZEFGVU5HcUtHYjdTd1pnWjRzcXBmd3U3NEp6d3RyOFhHQ3N4bzNpcDNOZkFXYXVvcjFfSDhjQXdjRkZQTlNXZmkySkRvREN1RVdkallWOERkUVBES19ZaE82c3ZYdVhBRHpsaEpwVXg2cThmZGJaMjRweTZ0U3BF",
       "title": "L'envol inattendu de la retraite progressive dans les entreprises - Les Echos",
@@ -833,15 +860,6 @@
       "source": "Les Echos",
       "pub_date": "Wed, 06 May 2026 15:22:19 GMT",
       "pub_date_iso": "2026-05-06T15:22:19+00:00"
-    },
-    {
-      "id": "CBMi7AFBVV95cUxQZ0dLZUpwRWhxMmNVdEtCMEEwb3oyZHpTWjB6dHhtSzJFVDhERC1FeDc0MjNYUkViVk5qZjQyLS1UNVV2OWVNMnZxSWRYVjV3djZSM3Y1U29rejhSNk1WSGdudDNaV2Vrck5CMHFabGR6MlVqaWdianNVNHZiT2RtWlUzRzc2WW5OVVdrYWJUSmw0bzRrb2pmS3NZQnVackQ2LWFYaExhUFR3UmtqVTVoNWU3bl90UHZBNHRGOHJWYjZMbzk5MEk5TkQ1ZWszb0UxUERxOXl6YUkxWHp1bjRNaGdGM24xa2RHSlY1Rw",
-      "title": "Guerre au Moyen-Orient : les perspectives de recrutement des cadres s'assombrissent dans les entreprises - Les Echos",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZ0dLZUpwRWhxMmNVdEtCMEEwb3oyZHpTWjB6dHhtSzJFVDhERC1FeDc0MjNYUkViVk5qZjQyLS1UNVV2OWVNMnZxSWRYVjV3djZSM3Y1U29rejhSNk1WSGdudDNaV2Vrck5CMHFabGR6MlVqaWdianNVNHZiT2RtWlUzRzc2WW5OVVdrYWJUSmw0bzRrb2pmS3NZQnVackQ2LWFYaExhUFR3UmtqVTVoNWU3bl90UHZBNHRGOHJWYjZMbzk5MEk5TkQ1ZWszb0UxUERxOXl6YUkxWHp1bjRNaGdGM24xa2RHSlY1Rw?oc=5\" target=\"_blank\">Guerre au Moyen-Orient : les perspectives de recrutement des cadres s'assombrissent dans les entreprises</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Les Echos</font>",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZ0dLZUpwRWhxMmNVdEtCMEEwb3oyZHpTWjB6dHhtSzJFVDhERC1FeDc0MjNYUkViVk5qZjQyLS1UNVV2OWVNMnZxSWRYVjV3djZSM3Y1U29rejhSNk1WSGdudDNaV2Vrck5CMHFabGR6MlVqaWdianNVNHZiT2RtWlUzRzc2WW5OVVdrYWJUSmw0bzRrb2pmS3NZQnVackQ2LWFYaExhUFR3UmtqVTVoNWU3bl90UHZBNHRGOHJWYjZMbzk5MEk5TkQ1ZWszb0UxUERxOXl6YUkxWHp1bjRNaGdGM24xa2RHSlY1Rw?oc=5",
-      "source": "Les Echos",
-      "pub_date": "Wed, 06 May 2026 10:00:51 GMT",
-      "pub_date_iso": "2026-05-06T10:00:51+00:00"
     }
   ]
 }

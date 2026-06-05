@@ -1,7 +1,31 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Fri, 05 Jun 2026 08:58:38 +0000`
-> 93 articles (30 derniers jours)
+> Derniere mise a jour : `Fri, 05 Jun 2026 12:13:38 +0000`
+> 95 articles (30 derniers jours)
+
+---
+
+### [L'étonnante résistance de l'industrie française - Les Echos](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOThCbXpJQ21Oa2oxdnFHZ2VRcF8zR3VERW9Dd1BvUGRIQS1sY05NbDJEQ1U2ZDR0WWpua0lRSjBWdTVNeVpKSjdFcUk1NjI1SGtYZnFLNGFiLWpNUmxvVzJYNlN2dS1kR3BOQTRSVnlmNlhXdkZOal9pRDNYY2w3OWJoTkl1WUFJeEdtT3JCY1FPTWtvaDY2Rnl3VmlVU1d6WkNjRzI5S1U?oc=5)
+
+`Fri, 05 Jun 2026 10:02:07 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOThCbXpJQ21Oa2oxdnFHZ2VRcF8zR3VERW9Dd1BvUGRIQS1sY05NbDJEQ1U2ZDR0WWpua0lRSjBWdTVNeVpKSjdFcUk1NjI1SGtYZnFLNGFiLWpNUmxvVzJYNlN2dS1kR3BOQTRSVnlmNlhXdkZOal9pRDNYY2w3OWJoTkl1WUFJeEdtT3JCY1FPTWtvaDY2Rnl3VmlVU1d6WkNjRzI5S1U?oc=5" target="_blank">L'étonnante résistance de l'industrie française</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [EXCLUSIF - Transparence salariale : ce que prévoit le projet de loi - Les Echos](https://news.google.com/rss/articles/CBMiugFBVV95cUxQbmI5cmkyMjVpY284NFlBVkJxc0NFSUJnckk3ZWM0V0NaYzJIY2ZhcTFRM3RLVUxWOUtJME1FZTdxLW9lQ0JRQXppSGJWSWlaWEx3NnlWelRaemJpT0FZRnlDeU1UUDVmQWVXRHJsQmN6Vk9ldnBnbkd4dFdMeWlOQThMUEJxcmZ6RDNUSjF3Ui1BZzdWaGVRTWVJMGI5djl4ZEVPRXd3dVhob3NFUGVVVjc1WUkxWVA4ZXc?oc=5)
+
+`Fri, 05 Jun 2026 09:52:57 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxQbmI5cmkyMjVpY284NFlBVkJxc0NFSUJnckk3ZWM0V0NaYzJIY2ZhcTFRM3RLVUxWOUtJME1FZTdxLW9lQ0JRQXppSGJWSWlaWEx3NnlWelRaemJpT0FZRnlDeU1UUDVmQWVXRHJsQmN6Vk9ldnBnbkd4dFdMeWlOQThMUEJxcmZ6RDNUSjF3Ui1BZzdWaGVRTWVJMGI5djl4ZEVPRXd3dVhob3NFUGVVVjc1WUkxWVA4ZXc?oc=5" target="_blank">EXCLUSIF - Transparence salariale : ce que prévoit le projet de loi</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Emploi : la progression « irréversible » et « massive » des contractuels dans la fonction publique - Les Echos](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOb3JjanR0QUtqd1Qta1Z2Y0VTaDkzS0JBRkY0U3hCamRnWkl6bHBIM2dRd0poQlU5b1JhM2xKSktCb25Fa1NLbTZIS0tLeE5pdklXN0JKcmc1akFZaXM4V3FyMVV6b2JveFQyS2FCdEhTUG9fRVR5YnJwMDl3MWxLOEpUU0ltNUZhUjZOMnVUWlRZM2x5LWJUT2wtNEEtck5zeFdnNGlMVWJiV2hNUEZ1Uk8xRHRNUXMyRG1RN1Nra2kzUUptN2s0OUFsUjJ6T1FfUFlzSnlFWkJOMms?oc=5)
+
+`Fri, 05 Jun 2026 10:00:38 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi2wFBVV95cUxOb3JjanR0QUtqd1Qta1Z2Y0VTaDkzS0JBRkY0U3hCamRnWkl6bHBIM2dRd0poQlU5b1JhM2xKSktCb25Fa1NLbTZIS0tLeE5pdklXN0JKcmc1akFZaXM4V3FyMVV6b2JveFQyS2FCdEhTUG9fRVR5YnJwMDl3MWxLOEpUU0ltNUZhUjZOMnVUWlRZM2x5LWJUT2wtNEEtck5zeFdnNGlMVWJiV2hNUEZ1Uk8xRHRNUXMyRG1RN1Nra2kzUUptN2s0OUFsUjJ6T1FfUFlzSnlFWkJOMms?oc=5" target="_blank">Emploi : la progression « irréversible » et « massive » des contractuels dans la fonction publique</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -738,13 +762,5 @@
 `Wed, 06 May 2026 15:22:19 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi5AFBVV95cUxOejNfXy0zY0lxdkVXU0R1aG1XdGJ1NFJlbWppaXNSNmdxamRvRVZzeUJZbm5HNVRrd25fUGFKZzZST2cycjlPd2M5OEJvVTNYWi1zRnk4eTctd1RvWFBFZ0ZwTU9oZHJXa3BmX2xZdjdXQnlfNzZKeXNYZDhQM212UUN2NlkxSXZBMDdCUV96VDVzSlRPZUIzblBNN1o3QVpLRHVnbDI5MkN2bWswTnFzOEhsajRiUFJQZVNpXzNnRFh2aHk4LTNoUWt6aUZrNlJpV0J5TndCcFdYQ2s4bEpPb2huMjM?oc=5" target="_blank">SONDAGE EXCLUSIF - Financement de la protection sociale : les Français divisés sur la bonne recette</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Guerre au Moyen-Orient : les perspectives de recrutement des cadres s'assombrissent dans les entreprises - Les Echos](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZ0dLZUpwRWhxMmNVdEtCMEEwb3oyZHpTWjB6dHhtSzJFVDhERC1FeDc0MjNYUkViVk5qZjQyLS1UNVV2OWVNMnZxSWRYVjV3djZSM3Y1U29rejhSNk1WSGdudDNaV2Vrck5CMHFabGR6MlVqaWdianNVNHZiT2RtWlUzRzc2WW5OVVdrYWJUSmw0bzRrb2pmS3NZQnVackQ2LWFYaExhUFR3UmtqVTVoNWU3bl90UHZBNHRGOHJWYjZMbzk5MEk5TkQ1ZWszb0UxUERxOXl6YUkxWHp1bjRNaGdGM24xa2RHSlY1Rw?oc=5)
-
-`Wed, 06 May 2026 10:00:51 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZ0dLZUpwRWhxMmNVdEtCMEEwb3oyZHpTWjB6dHhtSzJFVDhERC1FeDc0MjNYUkViVk5qZjQyLS1UNVV2OWVNMnZxSWRYVjV3djZSM3Y1U29rejhSNk1WSGdudDNaV2Vrck5CMHFabGR6MlVqaWdianNVNHZiT2RtWlUzRzc2WW5OVVdrYWJUSmw0bzRrb2pmS3NZQnVackQ2LWFYaExhUFR3UmtqVTVoNWU3bl90UHZBNHRGOHJWYjZMbzk5MEk5TkQ1ZWszb0UxUERxOXl6YUkxWHp1bjRNaGdGM24xa2RHSlY1Rw?oc=5" target="_blank">Guerre au Moyen-Orient : les perspectives de recrutement des cadres s'assombrissent dans les entreprises</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
