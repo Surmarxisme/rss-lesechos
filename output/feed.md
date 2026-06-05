@@ -1,7 +1,23 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Fri, 05 Jun 2026 14:29:02 +0000`
+> Derniere mise a jour : `Fri, 05 Jun 2026 18:52:38 +0000`
 > 95 articles (30 derniers jours)
+
+---
+
+### [Sophie Binet confortée à la tête d'une CGT « rassemblée » - Les Echos](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPejFvTHA4WlljVWtXYUs5ajA0cEZyNy1DVG5MTEdpbDNfMWpLT2RraU5uSnllTWlOT3FVWnM3TFBaZHlON0NhSlF4dS1DQ2VjTF9JdTJNRTE3aVA1TTdxcFFaS0tVQVE3Y2JmX3ItMkZKbDI5RGZwc3RIa1Y2REdLRl9LVGVRRFpYdEFyYlJBbG5fQ3I3ZVJfTkhQOThJbGgyTFlNZGEwSDdFQkU?oc=5)
+
+`Fri, 05 Jun 2026 18:20:56 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxPejFvTHA4WlljVWtXYUs5ajA0cEZyNy1DVG5MTEdpbDNfMWpLT2RraU5uSnllTWlOT3FVWnM3TFBaZHlON0NhSlF4dS1DQ2VjTF9JdTJNRTE3aVA1TTdxcFFaS0tVQVE3Y2JmX3ItMkZKbDI5RGZwc3RIa1Y2REdLRl9LVGVRRFpYdEFyYlJBbG5fQ3I3ZVJfTkhQOThJbGgyTFlNZGEwSDdFQkU?oc=5" target="_blank">Sophie Binet confortée à la tête d'une CGT « rassemblée »</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Sécu : le gouvernement veut une « prise de conscience » sur le coût des soins - Les Echos](https://news.google.com/rss/articles/CBMixAFBVV95cUxOWXoxaE9FbWVyR2xJVWVRTlctWFB0NWVjcHJQNXctMjdiVDdJbUxTYVdVaklJbmlVcXZDT0dZR3BkbzQxSlJqOEM4NGFmSGJvOW1ZWEgwbGRuVDNWa1VMcW1XbElGczJrbkpab0NTdGRNWHJfYUZINm1EckRWdkcwX18yM1Qzd01BOGc0TlIxZWR5M1FORHJUV28waW81UTVLQmNINkNhZzYwQkJvMEtkb3JMaFZaNlRWaG1SOGZSNzN1eHo2?oc=5)
+
+`Fri, 05 Jun 2026 14:40:51 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMixAFBVV95cUxOWXoxaE9FbWVyR2xJVWVRTlctWFB0NWVjcHJQNXctMjdiVDdJbUxTYVdVaklJbmlVcXZDT0dZR3BkbzQxSlJqOEM4NGFmSGJvOW1ZWEgwbGRuVDNWa1VMcW1XbElGczJrbkpab0NTdGRNWHJfYUZINm1EckRWdkcwX18yM1Qzd01BOGc0TlIxZWR5M1FORHJUV28waW81UTVLQmNINkNhZzYwQkJvMEtkb3JMaFZaNlRWaG1SOGZSNzN1eHo2?oc=5" target="_blank">Sécu : le gouvernement veut une « prise de conscience » sur le coût des soins</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -746,21 +762,5 @@
 `Thu, 07 May 2026 04:05:08 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxOWHFRbkpjUkVHdXJGUmpYVEhTeW9KNGwxSTlob1dqVm93QjR2VmNxSkpwYmJyalc1X01UOU9Ya2xEU2pTd244N1FuSjBNNUJQYjN3dVE4c0Ezc2RMbXJtUlNXdmlJSTkwLXZsZUFLd1RUeWpSV01fZExLb3gtUHFJNEZRd2RvN3oxRFhidndNandWSFFuY1RLQjk5Mnlzd3FxR0ZUOXJTRTJlSnA5NVg3MHNDR19WTUNPNm5kQmdNYkdKX0VINnFaeVdR?oc=5" target="_blank">Impôt sur le revenu : 900.000 foyers sont devenus imposables en 2025</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [EXCLUSIF - Budget : la réponse cash de Sébastien Lecornu au président du Medef Patrick Martin - Les Echos](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPV3pNbzBBeVdVX21vX0JXRHF0U2R3UFVhcGJpV1MxYndFa3NJaERLcllQYmdSSEVyQjRBUFl4VlZSYlRIMU1LaTY4aFh3OFV3cGhQSzZRQ0FYSzkxVzA5NVZmdHpUYzR0bnAwald6dXp2VGp0VkNaSTlQbWVIa2VFbmxWeUg3SXVuU3BXZUVGa1didmVZdjlLOWVKYlk2eURfSWJ5MV9xRUtGWkVmOEsyWTg3el91S3BtQ1RVeW9CNmZsMWRPU3dFZXUyOHNjZl83cU5nckJ6bUV0MC1yQ09yNUFqUEdqM1hkSkE?oc=5)
-
-`Wed, 06 May 2026 15:38:35 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi6gFBVV95cUxPV3pNbzBBeVdVX21vX0JXRHF0U2R3UFVhcGJpV1MxYndFa3NJaERLcllQYmdSSEVyQjRBUFl4VlZSYlRIMU1LaTY4aFh3OFV3cGhQSzZRQ0FYSzkxVzA5NVZmdHpUYzR0bnAwald6dXp2VGp0VkNaSTlQbWVIa2VFbmxWeUg3SXVuU3BXZUVGa1didmVZdjlLOWVKYlk2eURfSWJ5MV9xRUtGWkVmOEsyWTg3el91S3BtQ1RVeW9CNmZsMWRPU3dFZXUyOHNjZl83cU5nckJ6bUV0MC1yQ09yNUFqUEdqM1hkSkE?oc=5" target="_blank">EXCLUSIF - Budget : la réponse cash de Sébastien Lecornu au président du Medef Patrick Martin</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [SONDAGE EXCLUSIF - Financement de la protection sociale : les Français divisés sur la bonne recette - Les Echos](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOejNfXy0zY0lxdkVXU0R1aG1XdGJ1NFJlbWppaXNSNmdxamRvRVZzeUJZbm5HNVRrd25fUGFKZzZST2cycjlPd2M5OEJvVTNYWi1zRnk4eTctd1RvWFBFZ0ZwTU9oZHJXa3BmX2xZdjdXQnlfNzZKeXNYZDhQM212UUN2NlkxSXZBMDdCUV96VDVzSlRPZUIzblBNN1o3QVpLRHVnbDI5MkN2bWswTnFzOEhsajRiUFJQZVNpXzNnRFh2aHk4LTNoUWt6aUZrNlJpV0J5TndCcFdYQ2s4bEpPb2huMjM?oc=5)
-
-`Wed, 06 May 2026 15:22:19 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi5AFBVV95cUxOejNfXy0zY0lxdkVXU0R1aG1XdGJ1NFJlbWppaXNSNmdxamRvRVZzeUJZbm5HNVRrd25fUGFKZzZST2cycjlPd2M5OEJvVTNYWi1zRnk4eTctd1RvWFBFZ0ZwTU9oZHJXa3BmX2xZdjdXQnlfNzZKeXNYZDhQM212UUN2NlkxSXZBMDdCUV96VDVzSlRPZUIzblBNN1o3QVpLRHVnbDI5MkN2bWswTnFzOEhsajRiUFJQZVNpXzNnRFh2aHk4LTNoUWt6aUZrNlJpV0J5TndCcFdYQ2s4bEpPb2huMjM?oc=5" target="_blank">SONDAGE EXCLUSIF - Financement de la protection sociale : les Français divisés sur la bonne recette</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
