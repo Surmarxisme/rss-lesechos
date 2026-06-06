@@ -1,7 +1,7 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Fri, 05 Jun 2026 18:52:38 +0000`
-> 95 articles (30 derniers jours)
+> Derniere mise a jour : `Sat, 06 Jun 2026 10:55:43 +0000`
+> 93 articles (30 derniers jours)
 
 ---
 
@@ -746,21 +746,5 @@
 `Thu, 07 May 2026 18:21:59 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMijgJBVV95cUxNLTI3TDRmVUxXQ3NpTlhtRVFJTVZOSE94ekthTDVHUE9nTnBaTUlzVG5qMzRCM3BqMWNLVmlGX0NXajh0VWd2QUdnMXlscElEMWtUUGRfZDc3M0VrZG8zTGFsakNWWDFmem9RUWhYcnk2akFwTmJnaldVSDlNems0WXhIeXZqT1FKNll2YThvSHR5bDFTN3d3bnRKOHo3ZEhocFlRdUZrY1phQ3MzVFF2NVAxbVlNaEZMVVlWcE1wUGhWUWh3Ml9XbTVZdmRPNUhrWEx6YUlGdmxsNmxmMmRDZERweTN3c1FSTVZPTWNEQTRocWFoemIzakx6MVNxdmpiYllTVXVjUXlqN3VMbVE?oc=5" target="_blank">« InserScore », nouvelle appli, immersion en entreprise : le plan du gouvernement pour améliorer l'emploi des jeunes sans dépenser plus</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Guerre au Moyen-Orient : la facture énergétique creuse le déficit commercial de la France - Les Echos](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNX2FyYmVvVGJnUjJzUFF4bmJ5LXJuTnMxeC14UUpuTVpyYzd6dl9FVW5RMENONzl0TEJORVhPdUtFOGhDc21qQWpGRkJfR2JVUFVUT0FjSVBtZWEtZF9kR1NoYnFlSm50V2kzaERNN3dwRGJUZzdVTUs1MnpaeHQ5SWFTamc4WlpITy1vRHExM2dBYnR5a2NQaEVlbHUxY1JleHlFMEZMem9RTFlBY1RTMlFuemZLeDBRZ2xReDVyS3lRVHJCdF9jUEpHZEl2c0I2Zkp0UVJEa3l1Tzc5VW91Wg?oc=5)
-
-`Thu, 07 May 2026 10:30:26 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi4AFBVV95cUxNX2FyYmVvVGJnUjJzUFF4bmJ5LXJuTnMxeC14UUpuTVpyYzd6dl9FVW5RMENONzl0TEJORVhPdUtFOGhDc21qQWpGRkJfR2JVUFVUT0FjSVBtZWEtZF9kR1NoYnFlSm50V2kzaERNN3dwRGJUZzdVTUs1MnpaeHQ5SWFTamc4WlpITy1vRHExM2dBYnR5a2NQaEVlbHUxY1JleHlFMEZMem9RTFlBY1RTMlFuemZLeDBRZ2xReDVyS3lRVHJCdF9jUEpHZEl2c0I2Zkp0UVJEa3l1Tzc5VW91Wg?oc=5" target="_blank">Guerre au Moyen-Orient : la facture énergétique creuse le déficit commercial de la France</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Impôt sur le revenu : 900.000 foyers sont devenus imposables en 2025 - Les Echos](https://news.google.com/rss/articles/CBMiygFBVV95cUxOWHFRbkpjUkVHdXJGUmpYVEhTeW9KNGwxSTlob1dqVm93QjR2VmNxSkpwYmJyalc1X01UOU9Ya2xEU2pTd244N1FuSjBNNUJQYjN3dVE4c0Ezc2RMbXJtUlNXdmlJSTkwLXZsZUFLd1RUeWpSV01fZExLb3gtUHFJNEZRd2RvN3oxRFhidndNandWSFFuY1RLQjk5Mnlzd3FxR0ZUOXJTRTJlSnA5NVg3MHNDR19WTUNPNm5kQmdNYkdKX0VINnFaeVdR?oc=5)
-
-`Thu, 07 May 2026 04:05:08 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxOWHFRbkpjUkVHdXJGUmpYVEhTeW9KNGwxSTlob1dqVm93QjR2VmNxSkpwYmJyalc1X01UOU9Ya2xEU2pTd244N1FuSjBNNUJQYjN3dVE4c0Ezc2RMbXJtUlNXdmlJSTkwLXZsZUFLd1RUeWpSV01fZExLb3gtUHFJNEZRd2RvN3oxRFhidndNandWSFFuY1RLQjk5Mnlzd3FxR0ZUOXJTRTJlSnA5NVg3MHNDR19WTUNPNm5kQmdNYkdKX0VINnFaeVdR?oc=5" target="_blank">Impôt sur le revenu : 900.000 foyers sont devenus imposables en 2025</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
