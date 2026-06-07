@@ -1,7 +1,7 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Sat, 06 Jun 2026 10:55:43 +0000`
-> 93 articles (30 derniers jours)
+> Derniere mise a jour : `Sun, 07 Jun 2026 11:10:49 +0000`
+> 92 articles (30 derniers jours)
 
 ---
 
@@ -738,13 +738,5 @@
 `Sat, 09 May 2026 07:01:04 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMijgJBVV95cUxNNWp2Si1tWVZ2REVuUlZRY0NtTEFlQUtFX2Zmd1N0aFlVcGk3XzVFdDRvT3hJd2ZzMUpMal9RTmY2eGFuWVN5MWhYdmoxazVyeS1UOTh0RUt6dkctN2dmVEZUcUpEdjJtUURjNnVMOXVrQ3gzSHBLeGpTa3dleFZmd1NDNFJxRjFkUklUYVFWUmFGQkljVlJqOUM5eHIwbHF6T09ZOWlsUVZwdjVyVlhrelpHck5ncU9saGVaaTZFTUl4ZFdPM3FkV3Q2aWJaS25oV1J3cG01Ny1YWWVCT3FWTU84Y1d4SGdLRGIzaDZkZWQ5NHNKeUFtUTJNdGlidGNDME5WWDNiSjhSUjVtRkE?oc=5" target="_blank">Budget 2027 : le gouvernement veut couper court à l'idée d'une « loi spéciale » permettant de tenir jusqu'à la présidentielle</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [« InserScore », nouvelle appli, immersion en entreprise : le plan du gouvernement pour améliorer l'emploi des jeunes sans dépenser plus - Les Echos](https://news.google.com/rss/articles/CBMijgJBVV95cUxNLTI3TDRmVUxXQ3NpTlhtRVFJTVZOSE94ekthTDVHUE9nTnBaTUlzVG5qMzRCM3BqMWNLVmlGX0NXajh0VWd2QUdnMXlscElEMWtUUGRfZDc3M0VrZG8zTGFsakNWWDFmem9RUWhYcnk2akFwTmJnaldVSDlNems0WXhIeXZqT1FKNll2YThvSHR5bDFTN3d3bnRKOHo3ZEhocFlRdUZrY1phQ3MzVFF2NVAxbVlNaEZMVVlWcE1wUGhWUWh3Ml9XbTVZdmRPNUhrWEx6YUlGdmxsNmxmMmRDZERweTN3c1FSTVZPTWNEQTRocWFoemIzakx6MVNxdmpiYllTVXVjUXlqN3VMbVE?oc=5)
-
-`Thu, 07 May 2026 18:21:59 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMijgJBVV95cUxNLTI3TDRmVUxXQ3NpTlhtRVFJTVZOSE94ekthTDVHUE9nTnBaTUlzVG5qMzRCM3BqMWNLVmlGX0NXajh0VWd2QUdnMXlscElEMWtUUGRfZDc3M0VrZG8zTGFsakNWWDFmem9RUWhYcnk2akFwTmJnaldVSDlNems0WXhIeXZqT1FKNll2YThvSHR5bDFTN3d3bnRKOHo3ZEhocFlRdUZrY1phQ3MzVFF2NVAxbVlNaEZMVVlWcE1wUGhWUWh3Ml9XbTVZdmRPNUhrWEx6YUlGdmxsNmxmMmRDZERweTN3c1FSTVZPTWNEQTRocWFoemIzakx6MVNxdmpiYllTVXVjUXlqN3VMbVE?oc=5" target="_blank">« InserScore », nouvelle appli, immersion en entreprise : le plan du gouvernement pour améliorer l'emploi des jeunes sans dépenser plus</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
