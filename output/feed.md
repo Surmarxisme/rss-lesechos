@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Mon, 08 Jun 2026 10:09:12 +0000`
-> 94 articles (30 derniers jours)
+> Derniere mise a jour : `Mon, 08 Jun 2026 13:11:44 +0000`
+> 95 articles (30 derniers jours)
+
+---
+
+### [EXCLUSIF - Comment la baisse de la natalité va peser sur le déficit des retraites - Les Echos](https://news.google.com/rss/articles/CBMizwFBVV95cUxNdEJoeGxDSzZaeGNldmp5VjJNeUZ2Ulg0dzROOGE1OF9YVUhYRlFISEhPenhldUUwaEV2SVBMT3RMcE9YRl9HTlNsYVpNekZ5S0xRLWQ3Vkt4Qkx6MWUzRndpcHRZWGd2dU5MZTZ6M2xOOUNiQTVFdTU0MnN0TzRkQ1NNTFpYeGduRXIzdzBaNTBwcTNIcENMaU1hQVQ4TG5VQzV2VmROY1lMZHYzeWdpb1hGM1ZCRmViaGNaZkNrZlBfdUxlUTdxYjdKTmZaOE0?oc=5)
+
+`Mon, 08 Jun 2026 12:55:06 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMizwFBVV95cUxNdEJoeGxDSzZaeGNldmp5VjJNeUZ2Ulg0dzROOGE1OF9YVUhYRlFISEhPenhldUUwaEV2SVBMT3RMcE9YRl9HTlNsYVpNekZ5S0xRLWQ3Vkt4Qkx6MWUzRndpcHRZWGd2dU5MZTZ6M2xOOUNiQTVFdTU0MnN0TzRkQ1NNTFpYeGduRXIzdzBaNTBwcTNIcENMaU1hQVQ4TG5VQzV2VmROY1lMZHYzeWdpb1hGM1ZCRmViaGNaZkNrZlBfdUxlUTdxYjdKTmZaOE0?oc=5" target="_blank">EXCLUSIF - Comment la baisse de la natalité va peser sur le déficit des retraites</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
