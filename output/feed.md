@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Mon, 08 Jun 2026 15:33:03 +0000`
-> 96 articles (30 derniers jours)
+> Derniere mise a jour : `Mon, 08 Jun 2026 19:13:44 +0000`
+> 97 articles (30 derniers jours)
+
+---
+
+### [Budget : pour redresser les comptes publics, trois scénarios et beaucoup d'impôts - Les Echos](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPLTFsQUV5bVVmcDBubkwxMWoyMmJsODBVSGNhRnAtMDBzR0JQODllbEtlcDJocnhMVTBFNUpiN0RMb2dCTnMyTVhwYzJxajJNdHZpR3dGRTlQSW04b3hjVU1lN0VtemJ6UXAwSXJ3UXBPU3prOTJyQkU3bzBEdHdWcDYyeHk2cXFVTXlKVDR4QmdwYVk5WU44TWRabmg2Z2QyWjE5UlVjWWZfY0Nna2tpUWdHa180MFBPNFI0YkNGQVNTMGdDT1BOS1VQcGJzNjhvOVhEU0pqb2lwUQ?oc=5)
+
+`Mon, 08 Jun 2026 15:47:19 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi2gFBVV95cUxPLTFsQUV5bVVmcDBubkwxMWoyMmJsODBVSGNhRnAtMDBzR0JQODllbEtlcDJocnhMVTBFNUpiN0RMb2dCTnMyTVhwYzJxajJNdHZpR3dGRTlQSW04b3hjVU1lN0VtemJ6UXAwSXJ3UXBPU3prOTJyQkU3bzBEdHdWcDYyeHk2cXFVTXlKVDR4QmdwYVk5WU44TWRabmg2Z2QyWjE5UlVjWWZfY0Nna2tpUWdHa180MFBPNFI0YkNGQVNTMGdDT1BOS1VQcGJzNjhvOVhEU0pqb2lwUQ?oc=5" target="_blank">Budget : pour redresser les comptes publics, trois scénarios et beaucoup d'impôts</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
