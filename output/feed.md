@@ -1,7 +1,31 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Sun, 07 Jun 2026 11:10:49 +0000`
-> 92 articles (30 derniers jours)
+> Derniere mise a jour : `Mon, 08 Jun 2026 10:09:12 +0000`
+> 94 articles (30 derniers jours)
+
+---
+
+### [EXCLUSIF - Fraudes à l'apprentissage : l'estimation explosive de la Cour des comptes - Les Echos](https://news.google.com/rss/articles/CBMizgFBVV95cUxPU3czdlNsWExGbFVPM2NTRmxmU1ZzNzA3RDBqRGxTcFYyeF9oMERobGdUcFUwNVJYYTk1VzJLcFpwamFsQllSZkZ4ODRaMnVmSVdtRndDb2lfOXM0czZWZDV4RjZrRWJfZjRZTHdXazVuWDRuY2I0M21RUHRRcjNob2U0Nl9fOVNSWnhQb1kzV3RqVExFNjA5ODNWZmY5ZHR4aFo0NGh0eEZzeFlzNWFoNG9xRW04MUdxTzRLV0gwSXBUejNXUzViMzM0aWFMdw?oc=5)
+
+`Mon, 08 Jun 2026 04:00:08 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMizgFBVV95cUxPU3czdlNsWExGbFVPM2NTRmxmU1ZzNzA3RDBqRGxTcFYyeF9oMERobGdUcFUwNVJYYTk1VzJLcFpwamFsQllSZkZ4ODRaMnVmSVdtRndDb2lfOXM0czZWZDV4RjZrRWJfZjRZTHdXazVuWDRuY2I0M21RUHRRcjNob2U0Nl9fOVNSWnhQb1kzV3RqVExFNjA5ODNWZmY5ZHR4aFo0NGh0eEZzeFlzNWFoNG9xRW04MUdxTzRLV0gwSXBUejNXUzViMzM0aWFMdw?oc=5" target="_blank">EXCLUSIF - Fraudes à l'apprentissage : l'estimation explosive de la Cour des comptes</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [A horizon 2070, la France pourrait compter 3 millions d'habitants en moins qu'aujourd'hui - Les Echos](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcE4wck1ScHBjeGN6RmRwY0dVTXRDOV92c0ZpV1BjbDNMWUNNbVQwNGFtNjZDMF9nZmNzdE9ZdFhVNS1jbkJhalIyQkYyMkFRRGRMN3dncVZkamR0V0pWUktoNERrU1VvYUJFYWZvc2laMm9reC1lbE5qbkVWV3h0eXJjekFLRWRHUGFZdDg1Z3VaZlVwRU41NmozUWdGMmtUNFB0UDRwamZpRllqX0VHTWtmTkx4VHBtbHQ4X0xjQzVqZm9vMnE2c2hJQlVMaVFKTWM5WHZLbVNSWTcwM0E?oc=5)
+
+`Mon, 08 Jun 2026 09:00:19 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcE4wck1ScHBjeGN6RmRwY0dVTXRDOV92c0ZpV1BjbDNMWUNNbVQwNGFtNjZDMF9nZmNzdE9ZdFhVNS1jbkJhalIyQkYyMkFRRGRMN3dncVZkamR0V0pWUktoNERrU1VvYUJFYWZvc2laMm9reC1lbE5qbkVWV3h0eXJjekFLRWRHUGFZdDg1Z3VaZlVwRU41NmozUWdGMmtUNFB0UDRwamZpRllqX0VHTWtmTkx4VHBtbHQ4X0xjQzVqZm9vMnE2c2hJQlVMaVFKTWM5WHZLbVNSWTcwM0E?oc=5" target="_blank">A horizon 2070, la France pourrait compter 3 millions d'habitants en moins qu'aujourd'hui</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [L'affaire Lyhanna met la pression sur le gouvernement et la justice, des propositions émergent - Les Echos](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOVnpYU3gxWE92M3AyOWpQcVEybXgwN2xhbGRKRTNud2prbS0zZWhtSXlZYVdCZDBFTnBPVm44WGp1aC1SR1NyZ1FvWGx6VnQtbDFrMmx5b0F2NVUyYjZhWTlBS0ZkeEUwUW9Ed2hMcFFjVUJyWmwtamxOVFc5TkxNM1pjb19JQWppajBmZHg0Zmx6MnpWX2Z3VUV0Q0hidDdKUWUxOEJ2V205S2lrWDh1VXhMYkRDQURpZzFyaF9XN0JVcm5mU0ZIWkZNZmUtQkZQWXR2Q2ZtOFN3U0tpQnVNcQ?oc=5)
+
+`Sun, 07 Jun 2026 15:37:25 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi4AFBVV95cUxOVnpYU3gxWE92M3AyOWpQcVEybXgwN2xhbGRKRTNud2prbS0zZWhtSXlZYVdCZDBFTnBPVm44WGp1aC1SR1NyZ1FvWGx6VnQtbDFrMmx5b0F2NVUyYjZhWTlBS0ZkeEUwUW9Ed2hMcFFjVUJyWmwtamxOVFc5TkxNM1pjb19JQWppajBmZHg0Zmx6MnpWX2Z3VUV0Q0hidDdKUWUxOEJ2V205S2lrWDh1VXhMYkRDQURpZzFyaF9XN0JVcm5mU0ZIWkZNZmUtQkZQWXR2Q2ZtOFN3U0tpQnVNcQ?oc=5" target="_blank">L'affaire Lyhanna met la pression sur le gouvernement et la justice, des propositions émergent</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -730,13 +754,5 @@
 `Sun, 10 May 2026 06:25:35 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMihgJBVV95cUxPYzh1bFMtUHR4aUYwN3BMZmdEOGFRM3hZQVVpSlNoX1hpeHB3Q2JYUmFqVnp4TWtiNC1uVFphbk1YZ1p4ZVlkM2ZJWmRUc0pLdU9RbTBTckpTa3h1M1lTMUV3Ym0yc3UyYlJteml1Szd3bWFOTmtXUS1GaXk1QXR3d2J2VEFFRXFOWXBuNGp6QmxENmVzNmpyc3BFUzlMTGh5bThpRlkzNnczdDJhLUJLSnNGSXNGY2szaEROb0F4VUV5ajdYUWdxc3BfMjczLTJzWE9vSWtoQUltcE03a1JvNU9yTlY5THExQ2JHSHhOWENKMk01SzRSeUpweUVubWJHWU96LUdn?oc=5" target="_blank">A peine plus d'un cotisant pour un retraité : la bombe financière du régime des hospitaliers et fonctionnaires territoriaux</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Budget 2027 : le gouvernement veut couper court à l'idée d'une « loi spéciale » permettant de tenir jusqu'à la présidentielle - Les Echos](https://news.google.com/rss/articles/CBMijgJBVV95cUxNNWp2Si1tWVZ2REVuUlZRY0NtTEFlQUtFX2Zmd1N0aFlVcGk3XzVFdDRvT3hJd2ZzMUpMal9RTmY2eGFuWVN5MWhYdmoxazVyeS1UOTh0RUt6dkctN2dmVEZUcUpEdjJtUURjNnVMOXVrQ3gzSHBLeGpTa3dleFZmd1NDNFJxRjFkUklUYVFWUmFGQkljVlJqOUM5eHIwbHF6T09ZOWlsUVZwdjVyVlhrelpHck5ncU9saGVaaTZFTUl4ZFdPM3FkV3Q2aWJaS25oV1J3cG01Ny1YWWVCT3FWTU84Y1d4SGdLRGIzaDZkZWQ5NHNKeUFtUTJNdGlidGNDME5WWDNiSjhSUjVtRkE?oc=5)
-
-`Sat, 09 May 2026 07:01:04 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMijgJBVV95cUxNNWp2Si1tWVZ2REVuUlZRY0NtTEFlQUtFX2Zmd1N0aFlVcGk3XzVFdDRvT3hJd2ZzMUpMal9RTmY2eGFuWVN5MWhYdmoxazVyeS1UOTh0RUt6dkctN2dmVEZUcUpEdjJtUURjNnVMOXVrQ3gzSHBLeGpTa3dleFZmd1NDNFJxRjFkUklUYVFWUmFGQkljVlJqOUM5eHIwbHF6T09ZOWlsUVZwdjVyVlhrelpHck5ncU9saGVaaTZFTUl4ZFdPM3FkV3Q2aWJaS25oV1J3cG01Ny1YWWVCT3FWTU84Y1d4SGdLRGIzaDZkZWQ5NHNKeUFtUTJNdGlidGNDME5WWDNiSjhSUjVtRkE?oc=5" target="_blank">Budget 2027 : le gouvernement veut couper court à l'idée d'une « loi spéciale » permettant de tenir jusqu'à la présidentielle</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
