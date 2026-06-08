@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Mon, 08 Jun 2026 13:11:44 +0000`
-> 95 articles (30 derniers jours)
+> Derniere mise a jour : `Mon, 08 Jun 2026 15:33:03 +0000`
+> 96 articles (30 derniers jours)
+
+---
+
+### [Réforme des ruptures conventionnelles et chômage en hausse : temps maussade pour l'emploi - Les Echos](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSWlOUTB0Z24tbnlKODZOaXNHbG5ENEl5Yzg5UDBaZUg0RS1wUDgtUXotUXNKY2xOSmZhRGlmbWZ5WGFHLXhJWlZZNC1FcjRBaVZlLWpBamhLZ3VQMXhRUzhYMHNSRGZrX3FETzQ5eVBCYXRVT3dDZ0tLcjgtZHJaV0x3Z3RxQkFXQzRwWENodFE3NWtxSFZzdjNqRWl4NW1Vd19aenhIT1VUZzFFcDBBOVpwWkt5ZmFkMk5ORFdJbWJLLW5kaEV0NnllXzhzUWh2YlMyNXA1TV8?oc=5)
+
+`Mon, 08 Jun 2026 15:00:30 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSWlOUTB0Z24tbnlKODZOaXNHbG5ENEl5Yzg5UDBaZUg0RS1wUDgtUXotUXNKY2xOSmZhRGlmbWZ5WGFHLXhJWlZZNC1FcjRBaVZlLWpBamhLZ3VQMXhRUzhYMHNSRGZrX3FETzQ5eVBCYXRVT3dDZ0tLcjgtZHJaV0x3Z3RxQkFXQzRwWENodFE3NWtxSFZzdjNqRWl4NW1Vd19aenhIT1VUZzFFcDBBOVpwWkt5ZmFkMk5ORFdJbWJLLW5kaEV0NnllXzhzUWh2YlMyNXA1TV8?oc=5" target="_blank">Réforme des ruptures conventionnelles et chômage en hausse : temps maussade pour l'emploi</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
