@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Tue, 09 Jun 2026 14:30:23 +0000`
+> Derniere mise a jour : `Tue, 09 Jun 2026 19:05:11 +0000`
 > 96 articles (30 derniers jours)
+
+---
+
+### [Impôt sur les sociétés : pas touche à la « niche Copé », recommande la Cour de Comptes - Les Echos](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOUVlfMUtrZWdLcU5NVmZRNVFDMkNzYmtjYnRnNXh4VjF0dDRxdU1PdlZIT2RfZ2ExenVidHd1cW9MRVlKM0NqS3VUc1JUbTFqRlY3ckRFMFhYNVl4aTlfa0d3UmJkS0x2THhSVDJRUm5KdlNCTFhiNWhqdWtHUWxYbmdha3djc3BFUERaVFVmcm54NUZFVzhSdndUNC1XYXloNUVEeVQ4SVdoUnRDamZkYjdlQ3FIT0xwbEswYW11WkRVck1aTy12dWpCYzNOcUhremZPTVVOemUtZlR5?oc=5)
+
+`Tue, 09 Jun 2026 15:22:43 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi3AFBVV95cUxOUVlfMUtrZWdLcU5NVmZRNVFDMkNzYmtjYnRnNXh4VjF0dDRxdU1PdlZIT2RfZ2ExenVidHd1cW9MRVlKM0NqS3VUc1JUbTFqRlY3ckRFMFhYNVl4aTlfa0d3UmJkS0x2THhSVDJRUm5KdlNCTFhiNWhqdWtHUWxYbmdha3djc3BFUERaVFVmcm54NUZFVzhSdndUNC1XYXloNUVEeVQ4SVdoUnRDamZkYjdlQ3FIT0xwbEswYW11WkRVck1aTy12dWpCYzNOcUhremZPTVVOemUtZlR5?oc=5" target="_blank">Impôt sur les sociétés : pas touche à la « niche Copé », recommande la Cour de Comptes</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -754,14 +762,6 @@
 `Mon, 11 May 2026 17:45:08 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi7wFBVV95cUxNc19Kd0xpN3N3akZ2TmN5ZVpVdm1EY3FQcEp1Q0IzTWxuTEJQRFVOVmRpTFU4OHNjNGF0a1RNc2gyZGJoX2JzcFl0cHN4b1JySTVOajhua3FjYW4wTk03UlVtYTRjZmVhbVB3a2tsVXA5eVFXQkQxTndELTMtdEZHUUs5RlB1cFY5NTlGLUQ3YndRenNuc1AxbWFsTnlRak5hd2VKUVFSbngweXBNSWh3LWVBWGlHXzdRZU9XM0J4eVR5ZUpQUjZoZ3dOM3ZoNnZTU3BzN2dGc2xxQUt0VlJmc3JwT1lmdlJYZXlmQnlWaw?oc=5" target="_blank">« Il ne s'agit pas de vendre les bijoux de famille » : l'Etat actionnaire réorganise son portefeuille</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Hantavirus : un des Français rapatriés présente des « symptômes » - Les Echos](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMjNxR1d0bEN6cWRDNEstbEp2OHgwT2xicHB6dmc0TFdxQkNWaWdxQ3RVX3hnS2loQUlZajMtNXlOOFhodEcwZzZHXzJES0tnRXRGWWpjN2lKOXNwVFY2TDJwaUtaVjRpczlsMEc4RkJxV1hXaURSb3BtSW4wSjA2RlJ0QlRNZnl6ZlloY1ZoT0VobGE0WUpiRUU1dGxjWWthWmdFX0NmNHlIbHF4eW1OdXZpdlI3VE56N0xNM25GLVRtSTVING1XTEZmV0FER1J6V0V1Q1pB?oc=5)
-
-`Sun, 10 May 2026 15:29:43 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMjNxR1d0bEN6cWRDNEstbEp2OHgwT2xicHB6dmc0TFdxQkNWaWdxQ3RVX3hnS2loQUlZajMtNXlOOFhodEcwZzZHXzJES0tnRXRGWWpjN2lKOXNwVFY2TDJwaUtaVjRpczlsMEc4RkJxV1hXaURSb3BtSW4wSjA2RlJ0QlRNZnl6ZlloY1ZoT0VobGE0WUpiRUU1dGxjWWthWmdFX0NmNHlIbHF4eW1OdXZpdlI3VE56N0xNM25GLVRtSTVING1XTEZmV0FER1J6V0V1Q1pB?oc=5" target="_blank">Hantavirus : un des Français rapatriés présente des « symptômes »</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
