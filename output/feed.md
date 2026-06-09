@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Mon, 08 Jun 2026 19:13:44 +0000`
+> Derniere mise a jour : `Tue, 09 Jun 2026 08:53:18 +0000`
 > 97 articles (30 derniers jours)
+
+---
+
+### [Alerte aux dépassements d'honoraires : les pistes sur la table pour limiter la facture des médecins spécialistes - Les Echos](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNV25NUGZ3MHVyNkluREhLWmFVcTFxNnBHcnRCRUdUUHlJMXJkY1Rpb1BlZk1QNHhhQVBHTXVtZi1yVzdVNVQyNEZmOVBUWXlaRjEyMDQtck5leEhvYTBXU0NhVW43YUVxRHNyWHZBcE0tVzRMLWhOZTkzSlV6ZURTUzBDYURxcm9MOXBZaTlfRzJhQ0JrWFVRMWh0dlNXS2JlaF9EVC1YQktfZmI1NDVOME1LNXlNczhkcllJazdHVUduWTVMSjNvR3ExcUhtekhTdU1Xd19SUmt5WXY0aVNLWW1zN0RzdWJLYkVjUUg0bHo5TWZ2QW5v?oc=5)
+
+`Tue, 09 Jun 2026 04:05:28 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi9wFBVV95cUxNV25NUGZ3MHVyNkluREhLWmFVcTFxNnBHcnRCRUdUUHlJMXJkY1Rpb1BlZk1QNHhhQVBHTXVtZi1yVzdVNVQyNEZmOVBUWXlaRjEyMDQtck5leEhvYTBXU0NhVW43YUVxRHNyWHZBcE0tVzRMLWhOZTkzSlV6ZURTUzBDYURxcm9MOXBZaTlfRzJhQ0JrWFVRMWh0dlNXS2JlaF9EVC1YQktfZmI1NDVOME1LNXlNczhkcllJazdHVUduWTVMSjNvR3ExcUhtekhTdU1Xd19SUmt5WXY0aVNLWW1zN0RzdWJLYkVjUUg0bHo5TWZ2QW5v?oc=5" target="_blank">Alerte aux dépassements d'honoraires : les pistes sur la table pour limiter la facture des médecins spécialistes</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -770,13 +778,5 @@
 `Sun, 10 May 2026 14:30:22 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi3AFBVV95cUxNeUgzQ29sVnFia0FJSVNkcENJVmVrMTdJUFV5TW9rUDNGWXR2UkdBcS0yRjhHckNGdHNkeGEyM3R3NFhwQkxXNS13c0pHaFlYV0xiLS1LMG5RZlVsWWRxNGZKajBfekFfSkdWeDJpMFFzZEhBZjR5T3dZeWdpMU1tRkhjTE5IVXF0VTc0OXhfVUNRM3ZxVUNBa2tQY3pFblN0MzBJbXpBM0twR1NLY0cxaVNCLW4zVU9NNFRxU0tselZXS0N5WVR2ajZnRU93a0xzZ1dNQ1J3eXRRcEpm?oc=5" target="_blank">Thierry Breton : « La règle d'or ne préjuge en rien des choix budgétaires et fiscaux »</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [A peine plus d'un cotisant pour un retraité : la bombe financière du régime des hospitaliers et fonctionnaires territoriaux - Les Echos](https://news.google.com/rss/articles/CBMihgJBVV95cUxPYzh1bFMtUHR4aUYwN3BMZmdEOGFRM3hZQVVpSlNoX1hpeHB3Q2JYUmFqVnp4TWtiNC1uVFphbk1YZ1p4ZVlkM2ZJWmRUc0pLdU9RbTBTckpTa3h1M1lTMUV3Ym0yc3UyYlJteml1Szd3bWFOTmtXUS1GaXk1QXR3d2J2VEFFRXFOWXBuNGp6QmxENmVzNmpyc3BFUzlMTGh5bThpRlkzNnczdDJhLUJLSnNGSXNGY2szaEROb0F4VUV5ajdYUWdxc3BfMjczLTJzWE9vSWtoQUltcE03a1JvNU9yTlY5THExQ2JHSHhOWENKMk01SzRSeUpweUVubWJHWU96LUdn?oc=5)
-
-`Sun, 10 May 2026 06:25:35 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMihgJBVV95cUxPYzh1bFMtUHR4aUYwN3BMZmdEOGFRM3hZQVVpSlNoX1hpeHB3Q2JYUmFqVnp4TWtiNC1uVFphbk1YZ1p4ZVlkM2ZJWmRUc0pLdU9RbTBTckpTa3h1M1lTMUV3Ym0yc3UyYlJteml1Szd3bWFOTmtXUS1GaXk1QXR3d2J2VEFFRXFOWXBuNGp6QmxENmVzNmpyc3BFUzlMTGh5bThpRlkzNnczdDJhLUJLSnNGSXNGY2szaEROb0F4VUV5ajdYUWdxc3BfMjczLTJzWE9vSWtoQUltcE03a1JvNU9yTlY5THExQ2JHSHhOWENKMk01SzRSeUpweUVubWJHWU96LUdn?oc=5" target="_blank">A peine plus d'un cotisant pour un retraité : la bombe financière du régime des hospitaliers et fonctionnaires territoriaux</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
