@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Tue, 09 Jun 2026 12:09:30 +0000`
-> 97 articles (30 derniers jours)
+> Derniere mise a jour : `Tue, 09 Jun 2026 14:30:23 +0000`
+> 96 articles (30 derniers jours)
+
+---
+
+### [François Hommeril l'iconoclaste laisse à sa successeure, Christelle Thieffinne, une CFE-CGC en plein essor - Les Echos](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPTUdROFNUclktUGRBczVIc2xlQjM1amNwbzVzUkJUQlY2TE9Rbm5ESkpma1JSblhueHRiSTZSSnhBV3RqSHh0a09SaWxJUU1wbXRmRDQxSjFjdmk0ZVhRZU5kS3BvTU9uZ3F0RDdHUlFKY0R4eWQwV01nYVFfMFFUYUt2OHZGb051V1pDeWl6M2tmS1NERDh0UXh3eVc0VXZ0U2o2NkxDQ2RyNnhmZ01sWHVhRXdGTnJjMFN3MmY3b0hlYThxWEFZenpXNHV6el9NajFORjZpV1NodU1mN01jd2dPRjRZaVpIeEhoUzBQQQ?oc=5)
+
+`Tue, 09 Jun 2026 13:15:15 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi7wFBVV95cUxPTUdROFNUclktUGRBczVIc2xlQjM1amNwbzVzUkJUQlY2TE9Rbm5ESkpma1JSblhueHRiSTZSSnhBV3RqSHh0a09SaWxJUU1wbXRmRDQxSjFjdmk0ZVhRZU5kS3BvTU9uZ3F0RDdHUlFKY0R4eWQwV01nYVFfMFFUYUt2OHZGb051V1pDeWl6M2tmS1NERDh0UXh3eVc0VXZ0U2o2NkxDQ2RyNnhmZ01sWHVhRXdGTnJjMFN3MmY3b0hlYThxWEFZenpXNHV6el9NajFORjZpV1NodU1mN01jd2dPRjRZaVpIeEhoUzBQQQ?oc=5" target="_blank">François Hommeril l'iconoclaste laisse à sa successeure, Christelle Thieffinne, une CFE-CGC en plein essor</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -762,21 +770,5 @@
 `Mon, 11 May 2026 08:33:46 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxPZFQ5N1dKR1NuVzBXUGdudUh4aEo5Q0dSekdUaFBjNjlhMmZLUklOcS1pR3Z1XzhnQnpLNkVWUmZZRWwtS1Fud1RwY0dyR05VOV9CalZUOUxwT2k5c085U01KZDlJRENmeExZc2dXcE1WVjJMSkxRSHlieWhvdmdJSEltb2RvZmp4eGtoT3J3Tm1SQ2JZZUp4dFVLcU5KRmh5dTZLWUJLR1JFYmpwcVFLb2ZQSVNRZ0NfbnFhYjBtQQ?oc=5" target="_blank">Hantavirus : 22 cas contacts identifiés, une Française testée positive</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Budget : le patronat uni pour préserver les allègements de charges - Les Echos](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNc0xRc05PSHRrMEhDcUE1aHBNeFliSl9rdnRQNGJ4d1NITGhoNWlHMGNSQXhmUDNCZzNRTUNnbEY2VE1heFdicFBtVFZuX0ZSVjRlVlMyWERYQkU1dW4tajU1V0gxd3UwNGdWb2EtTDZIX2xkT0VWQ0ZTSTQxdDhTNkdaejFERS11TWtDOEV6Mk9lMUJpbkVYTHF1QnlEY0tzWFNFOXlBa2tuLVRfXzBNcFpyRW1kdGl6Q1pDc3hCZTY3REN2RFZiZA?oc=5)
-
-`Sun, 10 May 2026 13:57:38 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxNc0xRc05PSHRrMEhDcUE1aHBNeFliSl9rdnRQNGJ4d1NITGhoNWlHMGNSQXhmUDNCZzNRTUNnbEY2VE1heFdicFBtVFZuX0ZSVjRlVlMyWERYQkU1dW4tajU1V0gxd3UwNGdWb2EtTDZIX2xkT0VWQ0ZTSTQxdDhTNkdaejFERS11TWtDOEV6Mk9lMUJpbkVYTHF1QnlEY0tzWFNFOXlBa2tuLVRfXzBNcFpyRW1kdGl6Q1pDc3hCZTY3REN2RFZiZA?oc=5" target="_blank">Budget : le patronat uni pour préserver les allègements de charges</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Thierry Breton : « La règle d'or ne préjuge en rien des choix budgétaires et fiscaux » - Les Echos](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNeUgzQ29sVnFia0FJSVNkcENJVmVrMTdJUFV5TW9rUDNGWXR2UkdBcS0yRjhHckNGdHNkeGEyM3R3NFhwQkxXNS13c0pHaFlYV0xiLS1LMG5RZlVsWWRxNGZKajBfekFfSkdWeDJpMFFzZEhBZjR5T3dZeWdpMU1tRkhjTE5IVXF0VTc0OXhfVUNRM3ZxVUNBa2tQY3pFblN0MzBJbXpBM0twR1NLY0cxaVNCLW4zVU9NNFRxU0tselZXS0N5WVR2ajZnRU93a0xzZ1dNQ1J3eXRRcEpm?oc=5)
-
-`Sun, 10 May 2026 14:30:22 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi3AFBVV95cUxNeUgzQ29sVnFia0FJSVNkcENJVmVrMTdJUFV5TW9rUDNGWXR2UkdBcS0yRjhHckNGdHNkeGEyM3R3NFhwQkxXNS13c0pHaFlYV0xiLS1LMG5RZlVsWWRxNGZKajBfekFfSkdWeDJpMFFzZEhBZjR5T3dZeWdpMU1tRkhjTE5IVXF0VTc0OXhfVUNRM3ZxVUNBa2tQY3pFblN0MzBJbXpBM0twR1NLY0cxaVNCLW4zVU9NNFRxU0tselZXS0N5WVR2ajZnRU93a0xzZ1dNQ1J3eXRRcEpm?oc=5" target="_blank">Thierry Breton : « La règle d'or ne préjuge en rien des choix budgétaires et fiscaux »</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
