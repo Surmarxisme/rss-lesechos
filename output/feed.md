@@ -1,7 +1,23 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Tue, 09 Jun 2026 19:05:11 +0000`
-> 96 articles (30 derniers jours)
+> Derniere mise a jour : `Wed, 10 Jun 2026 09:34:10 +0000`
+> 97 articles (30 derniers jours)
+
+---
+
+### [« Elle défend fermement ses positions et a l'industrie chevillée au corps » : Christelle Thieffinne prend la tête de la CFE-CGC - Les Echos](https://news.google.com/rss/articles/CBMihgJBVV95cUxOT0ZNR0xMSWYzRkxXeWdwY21QUWYxaWhRbWxjZHJTVEVTOGR1LXpRSVVJdjdLMlZHdFpmcEJYTGUxck9TS3hOeVF1cUc2NTRXcFZ3SWFuajZXcXRGdjNoTFBVYWxxR0VsMEVYVHhtZ3R1TVVLMmVVWUVsa0FGcWcyRzBIZTB1U2FyMk1jd2RIdDBhaVhHODVjSWZ4VkhlSWdKVU5MOERnWVlZeEx1Y3RNdmRDek1wX0xUZzhWdkFDT09PQVF3U0ZaR1UxVWNySHoxSEFzNVZuRXpkSUJtMmQ1RlVXWTNrN2VTUUs5Nlpod094dWthZFRycVBJWGg5bjhSREZZNHJR?oc=5)
+
+`Wed, 10 Jun 2026 04:55:08 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMihgJBVV95cUxOT0ZNR0xMSWYzRkxXeWdwY21QUWYxaWhRbWxjZHJTVEVTOGR1LXpRSVVJdjdLMlZHdFpmcEJYTGUxck9TS3hOeVF1cUc2NTRXcFZ3SWFuajZXcXRGdjNoTFBVYWxxR0VsMEVYVHhtZ3R1TVVLMmVVWUVsa0FGcWcyRzBIZTB1U2FyMk1jd2RIdDBhaVhHODVjSWZ4VkhlSWdKVU5MOERnWVlZeEx1Y3RNdmRDek1wX0xUZzhWdkFDT09PQVF3U0ZaR1UxVWNySHoxSEFzNVZuRXpkSUJtMmQ1RlVXWTNrN2VTUUs5Nlpod094dWthZFRycVBJWGg5bjhSREZZNHJR?oc=5" target="_blank">« Elle défend fermement ses positions et a l'industrie chevillée au corps » : Christelle Thieffinne prend la tête de la CFE-CGC</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Affaire Lyhanna : « en voie de clochardisation » il y a dix ans, la justice a-t-elle suffisamment de moyens aujourd'hui - Les Echos](https://news.google.com/rss/articles/CBMihwJBVV95cUxPMUx6djdXUnBpQzlZYWRVMUEtVXUyVHBkelYwYXJtYk1VNHB3VnNFWnNwSnN2MGJTejlXQi1PRDg1QWttc0JVTW44ckFfNVZaTVFRVVlqM0JuMEp3eXhHWnF6OTJCZGxKQXRlVkpPUG12OFk5MHJFZmJFeUNiRnhyUW1KVGI2b1dVVzZRY2xDLTg5TTE4d1M0TnF1S2I0blUwRmNnam5tM0dEZzlqOXZDSm5aX2hJdVVGdFd5WGlxaHNuOVBUdmtnbUlMV1NVellsZG13UUZLd2d3SGZxWS1ObWpqbC1YU0tpMHVHY0lOUHZRQ1hrTjdmUlVNejFTanBmZW1JUzd4UQ?oc=5)
+
+`Wed, 10 Jun 2026 04:30:08 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMihwJBVV95cUxPMUx6djdXUnBpQzlZYWRVMUEtVXUyVHBkelYwYXJtYk1VNHB3VnNFWnNwSnN2MGJTejlXQi1PRDg1QWttc0JVTW44ckFfNVZaTVFRVVlqM0JuMEp3eXhHWnF6OTJCZGxKQXRlVkpPUG12OFk5MHJFZmJFeUNiRnhyUW1KVGI2b1dVVzZRY2xDLTg5TTE4d1M0TnF1S2I0blUwRmNnam5tM0dEZzlqOXZDSm5aX2hJdVVGdFd5WGlxaHNuOVBUdmtnbUlMV1NVellsZG13UUZLd2d3SGZxWS1ObWpqbC1YU0tpMHVHY0lOUHZRQ1hrTjdmUlVNejFTanBmZW1JUzd4UQ?oc=5" target="_blank">Affaire Lyhanna : « en voie de clochardisation » il y a dix ans, la justice a-t-elle suffisamment de moyens aujourd'hui</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -762,13 +778,5 @@
 `Mon, 11 May 2026 17:45:08 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi7wFBVV95cUxNc19Kd0xpN3N3akZ2TmN5ZVpVdm1EY3FQcEp1Q0IzTWxuTEJQRFVOVmRpTFU4OHNjNGF0a1RNc2gyZGJoX2JzcFl0cHN4b1JySTVOajhua3FjYW4wTk03UlVtYTRjZmVhbVB3a2tsVXA5eVFXQkQxTndELTMtdEZHUUs5RlB1cFY5NTlGLUQ3YndRenNuc1AxbWFsTnlRak5hd2VKUVFSbngweXBNSWh3LWVBWGlHXzdRZU9XM0J4eVR5ZUpQUjZoZ3dOM3ZoNnZTU3BzN2dGc2xxQUt0VlJmc3JwT1lmdlJYZXlmQnlWaw?oc=5" target="_blank">« Il ne s'agit pas de vendre les bijoux de famille » : l'Etat actionnaire réorganise son portefeuille</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Hantavirus : 22 cas contacts identifiés, une Française testée positive - Les Echos](https://news.google.com/rss/articles/CBMivwFBVV95cUxPZFQ5N1dKR1NuVzBXUGdudUh4aEo5Q0dSekdUaFBjNjlhMmZLUklOcS1pR3Z1XzhnQnpLNkVWUmZZRWwtS1Fud1RwY0dyR05VOV9CalZUOUxwT2k5c085U01KZDlJRENmeExZc2dXcE1WVjJMSkxRSHlieWhvdmdJSEltb2RvZmp4eGtoT3J3Tm1SQ2JZZUp4dFVLcU5KRmh5dTZLWUJLR1JFYmpwcVFLb2ZQSVNRZ0NfbnFhYjBtQQ?oc=5)
-
-`Mon, 11 May 2026 08:33:46 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxPZFQ5N1dKR1NuVzBXUGdudUh4aEo5Q0dSekdUaFBjNjlhMmZLUklOcS1pR3Z1XzhnQnpLNkVWUmZZRWwtS1Fud1RwY0dyR05VOV9CalZUOUxwT2k5c085U01KZDlJRENmeExZc2dXcE1WVjJMSkxRSHlieWhvdmdJSEltb2RvZmp4eGtoT3J3Tm1SQ2JZZUp4dFVLcU5KRmh5dTZLWUJLR1JFYmpwcVFLb2ZQSVNRZ0NfbnFhYjBtQQ?oc=5" target="_blank">Hantavirus : 22 cas contacts identifiés, une Française testée positive</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
