@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Thu, 11 Jun 2026 15:39:05 +0000`
-> 97 articles (30 derniers jours)
+> Derniere mise a jour : `Thu, 11 Jun 2026 19:27:48 +0000`
+> 96 articles (30 derniers jours)
+
+---
+
+### [Gouvernance des entreprises : les pistes pour accroître l'influence des représentants de salariés - Les Echos](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPSkdmYlR3WWhNUVAwTkFVakQ2ZzIzMFhGVW9LY012NEZQbm9KZTRsU2RDYUJ3cTBjY2dGLWl6M2M5MnZaMGw3VkRJM3llTHVYaVQ1M0ZWN3YzSnFnUlp5bTlXQm1TNlJsaGotamJUNkN0OHhkQkFoRjdyS0kzUEQwUEo0UXE2b3l4QUhZbTNEaFJ0bWQ4QndiYVhHQVY2TTVDYk1wYnIzNE0xUV9vOW9GakFNWHM2YVJnMnhiQmY0eWl6UVRxYU5EREdkamhzdVhnRVhvdkl6ZDZxRzhVUFhaUmR5bw?oc=5)
+
+`Thu, 11 Jun 2026 16:28:58 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi4wFBVV95cUxPSkdmYlR3WWhNUVAwTkFVakQ2ZzIzMFhGVW9LY012NEZQbm9KZTRsU2RDYUJ3cTBjY2dGLWl6M2M5MnZaMGw3VkRJM3llTHVYaVQ1M0ZWN3YzSnFnUlp5bTlXQm1TNlJsaGotamJUNkN0OHhkQkFoRjdyS0kzUEQwUEo0UXE2b3l4QUhZbTNEaFJ0bWQ4QndiYVhHQVY2TTVDYk1wYnIzNE0xUV9vOW9GakFNWHM2YVJnMnhiQmY0eWl6UVRxYU5EREdkamhzdVhnRVhvdkl6ZDZxRzhVUFhaUmR5bw?oc=5" target="_blank">Gouvernance des entreprises : les pistes pour accroître l'influence des représentants de salariés</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -762,21 +770,5 @@
 `Wed, 13 May 2026 05:52:02 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxNbHZZSU9xMmNqTlRGcDdDeVEwZ1BKR3lUSmJVRDVXZVpDS3JJd1FzRFBxMFpIcGVieDROVFQ5Tmh4Z1Rib0dYMmhZaVhVUlc3VGdLLXFTUV9rZ0owWVFIdDhLVExSb3lfWEFmUDB6WGpMYlJrd1FRc0UtV1ppeDdjMVRHNnc2Z1U0dzEtc2N6MlJuVl9hN3FHaXFqak5mSDVnLUNISS1WeWMtcldZM2ZmdHdrMEhFNXF2b2dUOVc3dw?oc=5" target="_blank">Le taux de chômage repasse la barre des 8 %, un plus haut depuis 5 ans</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Guerre au Moyen-Orient : l'économie française sous la menace d'un net ralentissement - Les Echos](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQaXJ0Q3RkMlRIUnVlX2VCUzcxSURKZ3N6aHAzanF4bVpZT3NZRWtCWldOQ3ByYzJIcVU4QkZtdEoySngzb0ZqVnRrZHhyeUpGQTRTeUo5d3pMUFJtLXJFdnpQQUg0UC1zbEN6bmZiOFl0MXdMQkx2MXVuWHZEcUV0bnN0ODBpRF9LekM0RFNYQmFKZ3B1eWx4RE02b0E3M3M3OTRMaGI1X2o4OWpuN0ZZLXg1OGdWT2NwdHFXZjNlOVpGYV9UQ0pTVnZ5czhVcXg0THlWSlNsNA?oc=5)
-
-`Tue, 12 May 2026 18:00:41 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi1wFBVV95cUxQaXJ0Q3RkMlRIUnVlX2VCUzcxSURKZ3N6aHAzanF4bVpZT3NZRWtCWldOQ3ByYzJIcVU4QkZtdEoySngzb0ZqVnRrZHhyeUpGQTRTeUo5d3pMUFJtLXJFdnpQQUg0UC1zbEN6bmZiOFl0MXdMQkx2MXVuWHZEcUV0bnN0ODBpRF9LekM0RFNYQmFKZ3B1eWx4RE02b0E3M3M3OTRMaGI1X2o4OWpuN0ZZLXg1OGdWT2NwdHFXZjNlOVpGYV9UQ0pTVnZ5czhVcXg0THlWSlNsNA?oc=5" target="_blank">Guerre au Moyen-Orient : l'économie française sous la menace d'un net ralentissement</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Hantavirus : sous pression, le gouvernement mise sur la transparence - Les Echos](https://news.google.com/rss/articles/CBMivAFBVV95cUxPRGxFMWVPd0g4R3A3OVFaOFE3eHdINUFNQVk2RHpBMTlBYWVjZVFsX3ZLNjlJeHZudk9jSjNWeVduY0pER3NQNl9rQ0V0UVJKTG92YVhsend3SWNXbTl3YnpaMzg0S2RPbEw0eEQ3SlZHX2JERE1PeHBfWFZJWUdseGVycjNLOWo4cGlPcGlRb2MwZVlvUjZSaWtfTnRCQ1BleEZLTGxMaFd3eUhLWHFWd0N1bEt4RHFZU0UyQQ?oc=5)
-
-`Tue, 12 May 2026 17:29:06 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxPRGxFMWVPd0g4R3A3OVFaOFE3eHdINUFNQVk2RHpBMTlBYWVjZVFsX3ZLNjlJeHZudk9jSjNWeVduY0pER3NQNl9rQ0V0UVJKTG92YVhsend3SWNXbTl3YnpaMzg0S2RPbEw0eEQ3SlZHX2JERE1PeHBfWFZJWUdseGVycjNLOWo4cGlPcGlRb2MwZVlvUjZSaWtfTnRCQ1BleEZLTGxMaFd3eUhLWHFWd0N1bEt4RHFZU0UyQQ?oc=5" target="_blank">Hantavirus : sous pression, le gouvernement mise sur la transparence</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
