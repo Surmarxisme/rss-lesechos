@@ -1,7 +1,7 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Fri, 12 Jun 2026 14:38:59 +0000`
-> 92 articles (30 derniers jours)
+> Derniere mise a jour : `Fri, 12 Jun 2026 18:56:51 +0000`
+> 91 articles (30 derniers jours)
 
 ---
 
@@ -698,14 +698,6 @@
 `Mon, 18 May 2026 15:52:53 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMiigJBVV95cUxNUWhFRkVNSExPS0tMZVlzTDhtZ3FkZjFrcmVkcUdPXzlobjh1S2VBczhCT2lfdGNfQWZyUlZkQzZxVnRxRXJuaURDR21JLS1DT01MUUpXZGVpTDI3Tzh6RUNiNUQ4QkEzeUt0NEdJRHJZU3l3MmEzU2trdWZaOWJiRm5GTjZ5UTYwUlN5Q0dnYWpGekJPenpmOWZQTkpJT2ItY2dNYm5RS2dQV0JLT19VaUJjYUJmbGszbmg2aXlTVl9sbGQxM1Q2elZ0RUNfNHB0RFUtXzVXRDFMQ0lZZ1VJUGZYVnI5UzJsbUNtV0JFQS12Vy14TE9RcFY1NWFxMC1xeFhjSGhrTU1aZw?oc=5" target="_blank">Les droits de succession pour financer la dépendance ? La fédération des hôpitaux et Ehpad publics jette un pavé dans la mare</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Inflation : actualités, chiffres, analyses et vidéos - Les Echos | Page 326 - Les Echos](https://news.google.com/rss/articles/CBMihAFBVV95cUxOeDhHTVYzQUo5OV94ZjljSmpPQ25zUm9MRk1FVlNLaGFHWFgzclJoUVdERklJdmlXZ09KdDFUeDUxSlJEMm9tbFJiWkRoZmlXZUpaTHYtZ2VBb1NXN0pQaGN5MUFIcVFxZUo3OUQ3WHZqbmw0eG9kUnpEYzFuT2FCVmFNa1Q?oc=5)
-
-`Wed, 13 May 2026 15:13:40 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOeDhHTVYzQUo5OV94ZjljSmpPQ25zUm9MRk1FVlNLaGFHWFgzclJoUVdERklJdmlXZ09KdDFUeDUxSlJEMm9tbFJiWkRoZmlXZUpaTHYtZ2VBb1NXN0pQaGN5MUFIcVFxZUo3OUQ3WHZqbmw0eG9kUnpEYzFuT2FCVmFNa1Q?oc=5" target="_blank">Inflation : actualités, chiffres, analyses et vidéos - Les Echos | Page 326</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
