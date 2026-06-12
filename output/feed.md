@@ -1,7 +1,7 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Thu, 11 Jun 2026 19:27:48 +0000`
-> 96 articles (30 derniers jours)
+> Derniere mise a jour : `Fri, 12 Jun 2026 09:49:05 +0000`
+> 93 articles (30 derniers jours)
 
 ---
 
@@ -746,29 +746,5 @@
 `Wed, 13 May 2026 11:02:26 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRmFrUTVsZERfdm5mdDRNNExDSVp1SzBjd1kzNWtFSW5OWXdNVnhLYzFCLXAtTVpZREJ4SFVieFV1dGd0bTVQcDJaS2d1YlVvYWVNXzhxeDV2N0ZWOWVoRkkyM3J1V3M3TzRMbGk0bTUyellORW90SXJxVGFKMXhWNHoxUVRBQ0tnTTZQSDJSd01fQ3B5V0FWd0NnYzVabHk0LVpGVzZvYkNZa25UQjlYSlp4VUgzdzIyOWU4?oc=5" target="_blank">Prime d'activité, RSA : la réforme des déclarations porte ses fruits</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Le SMIC va augmenter de près de 45 euros par mois au 1er juin - Les Echos](https://news.google.com/rss/articles/CBMitwFBVV95cUxQd3A3TnJmeFhkanVJME5EOVBQcnVqT3hiVERjZzBRQml3YTZYTk5NSExmd1VsV0dXdk93NVZLWU8xZXFPYjNScmRLVnJLQ3FRM1BxSHZXdnJpMGh1ZC00SnFvbG1YTjN6NElIU01GVmRwN3VsdmZQUHVZYkpnSjJhRmJhU05rNHdRcTZMdkJPeVRZekQyNXVxeE4xWVZYQ1BpbnZrdTMzS0pIanV0THdyM251VFVOUlE?oc=5)
-
-`Wed, 13 May 2026 07:40:48 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxQd3A3TnJmeFhkanVJME5EOVBQcnVqT3hiVERjZzBRQml3YTZYTk5NSExmd1VsV0dXdk93NVZLWU8xZXFPYjNScmRLVnJLQ3FRM1BxSHZXdnJpMGh1ZC00SnFvbG1YTjN6NElIU01GVmRwN3VsdmZQUHVZYkpnSjJhRmJhU05rNHdRcTZMdkJPeVRZekQyNXVxeE4xWVZYQ1BpbnZrdTMzS0pIanV0THdyM251VFVOUlE?oc=5" target="_blank">Le SMIC va augmenter de près de 45 euros par mois au 1er juin</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Hantavirus : « A chaque nouvel épisode épidémique, Ebola, Covid-19, on a gagné en temps de réaction - Les Echos](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNQUUySUpQSkE4Qi1iZ2RtMUlYcWQzYjU1UmY1N2N0Mm9DT1lzMThITzdLb0FwYWpVRUJwaEJIUVBXampUcjdVcXQxd3BXVUtrUEdYZGotRFRtd1AxLTVfUnhWRTZkUEZSOUJydG90NjVfbUJmVnBYbHdGMkczbXJHZzI1SFA4M2tRR2t4OFVMR1BULVcxMVRhMUkyRU12QTNGNVdRQy0xT0tJRWxGSTdpVHJYSUpUUTNfRDNKMmRqeV9LQ0VRX2tSUkdBVmpGb183ckszN01uQV9LSjE1WWpMVg?oc=5)
-
-`Wed, 13 May 2026 05:45:08 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi4AFBVV95cUxNQUUySUpQSkE4Qi1iZ2RtMUlYcWQzYjU1UmY1N2N0Mm9DT1lzMThITzdLb0FwYWpVRUJwaEJIUVBXampUcjdVcXQxd3BXVUtrUEdYZGotRFRtd1AxLTVfUnhWRTZkUEZSOUJydG90NjVfbUJmVnBYbHdGMkczbXJHZzI1SFA4M2tRR2t4OFVMR1BULVcxMVRhMUkyRU12QTNGNVdRQy0xT0tJRWxGSTdpVHJYSUpUUTNfRDNKMmRqeV9LQ0VRX2tSUkdBVmpGb183ckszN01uQV9LSjE1WWpMVg?oc=5" target="_blank">Hantavirus : « A chaque nouvel épisode épidémique, Ebola, Covid-19, on a gagné en temps de réaction</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Le taux de chômage repasse la barre des 8 %, un plus haut depuis 5 ans - Les Echos](https://news.google.com/rss/articles/CBMivwFBVV95cUxNbHZZSU9xMmNqTlRGcDdDeVEwZ1BKR3lUSmJVRDVXZVpDS3JJd1FzRFBxMFpIcGVieDROVFQ5Tmh4Z1Rib0dYMmhZaVhVUlc3VGdLLXFTUV9rZ0owWVFIdDhLVExSb3lfWEFmUDB6WGpMYlJrd1FRc0UtV1ppeDdjMVRHNnc2Z1U0dzEtc2N6MlJuVl9hN3FHaXFqak5mSDVnLUNISS1WeWMtcldZM2ZmdHdrMEhFNXF2b2dUOVc3dw?oc=5)
-
-`Wed, 13 May 2026 05:52:02 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxNbHZZSU9xMmNqTlRGcDdDeVEwZ1BKR3lUSmJVRDVXZVpDS3JJd1FzRFBxMFpIcGVieDROVFQ5Tmh4Z1Rib0dYMmhZaVhVUlc3VGdLLXFTUV9rZ0owWVFIdDhLVExSb3lfWEFmUDB6WGpMYlJrd1FRc0UtV1ppeDdjMVRHNnc2Z1U0dzEtc2N6MlJuVl9hN3FHaXFqak5mSDVnLUNISS1WeWMtcldZM2ZmdHdrMEhFNXF2b2dUOVc3dw?oc=5" target="_blank">Le taux de chômage repasse la barre des 8 %, un plus haut depuis 5 ans</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
