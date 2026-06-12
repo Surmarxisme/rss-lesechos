@@ -1,7 +1,7 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Fri, 12 Jun 2026 09:49:05 +0000`
-> 93 articles (30 derniers jours)
+> Derniere mise a jour : `Fri, 12 Jun 2026 12:24:00 +0000`
+> 92 articles (30 derniers jours)
 
 ---
 
@@ -738,13 +738,5 @@
 `Thu, 14 May 2026 09:31:09 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxOT053TTk5dFNCZ0dSRk5VOUpQNDY2bEw3V0ViakZGaGNVZ2VpVW01UHVOekxGdFRRQUk2eHVsOEk0ZFdRaVJYWEJfb1ZJdXFhb1ctNmdDZlZERk4yWDI2YWVKVDNsVTVRV1Z2QVZUdzJIZVRfTHJyQjlVZGFpR3hiWUYyYWd1aDhtQjctckVxcV9OVUdYd1RJUEVpVTltcGstUWlTWXBINUQzRmRzajJmaG9BdEhDYlVadDJ1aF95QjFOVWNPTHc?oc=5" target="_blank">Le gouvernement face au casse-tête des allègements de charges patronales</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Prime d'activité, RSA : la réforme des déclarations porte ses fruits - Les Echos](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRmFrUTVsZERfdm5mdDRNNExDSVp1SzBjd1kzNWtFSW5OWXdNVnhLYzFCLXAtTVpZREJ4SFVieFV1dGd0bTVQcDJaS2d1YlVvYWVNXzhxeDV2N0ZWOWVoRkkyM3J1V3M3TzRMbGk0bTUyellORW90SXJxVGFKMXhWNHoxUVRBQ0tnTTZQSDJSd01fQ3B5V0FWd0NnYzVabHk0LVpGVzZvYkNZa25UQjlYSlp4VUgzdzIyOWU4?oc=5)
-
-`Wed, 13 May 2026 11:02:26 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRmFrUTVsZERfdm5mdDRNNExDSVp1SzBjd1kzNWtFSW5OWXdNVnhLYzFCLXAtTVpZREJ4SFVieFV1dGd0bTVQcDJaS2d1YlVvYWVNXzhxeDV2N0ZWOWVoRkkyM3J1V3M3TzRMbGk0bTUyellORW90SXJxVGFKMXhWNHoxUVRBQ0tnTTZQSDJSd01fQ3B5V0FWd0NnYzVabHk0LVpGVzZvYkNZa25UQjlYSlp4VUgzdzIyOWU4?oc=5" target="_blank">Prime d'activité, RSA : la réforme des déclarations porte ses fruits</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
