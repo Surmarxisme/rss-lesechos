@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Fri, 12 Jun 2026 18:56:51 +0000`
+> Derniere mise a jour : `Sat, 13 Jun 2026 11:18:27 +0000`
 > 91 articles (30 derniers jours)
+
+---
+
+### [Arrêts de travail : ce que va changer la nouvelle règle des plafonds pour les salariés et les employeurs - Les Echos](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPR0RZYU1OR2hkcHlHbWNtdGtnNjI1aVpjZ0pqU1lkYVB6Y3JVaDVmTFZkXzVEZ1FrWlBJcHJsRy15Sm8teHJmazFjZ01BMGFGSjF3LWRtTjdncmpuNmVOdWM2RWY1OFRHeXN4ZWFvaDU1SGdHM1c5RzBCTUJlMUxaei1OOFVzSGdFLXdJWVJwRVplMWQ3MmNFOXZvb3pndGZmdDkzbzBDLTVQSkJFYUI1M05zUTBpZTJ1TmNBYWx4OFlqNlVnU1ZMTGZldy1zdjJXWXljUVZSbEZsVjMyS0I5X1FRT1ptU3hsanI1UnhR?oc=5)
+
+`Sat, 13 Jun 2026 10:06:59 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi7gFBVV95cUxPR0RZYU1OR2hkcHlHbWNtdGtnNjI1aVpjZ0pqU1lkYVB6Y3JVaDVmTFZkXzVEZ1FrWlBJcHJsRy15Sm8teHJmazFjZ01BMGFGSjF3LWRtTjdncmpuNmVOdWM2RWY1OFRHeXN4ZWFvaDU1SGdHM1c5RzBCTUJlMUxaei1OOFVzSGdFLXdJWVJwRVplMWQ3MmNFOXZvb3pndGZmdDkzbzBDLTVQSkJFYUI1M05zUTBpZTJ1TmNBYWx4OFlqNlVnU1ZMTGZldy1zdjJXWXljUVZSbEZsVjMyS0I5X1FRT1ptU3hsanI1UnhR?oc=5" target="_blank">Arrêts de travail : ce que va changer la nouvelle règle des plafonds pour les salariés et les employeurs</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -722,13 +730,5 @@
 `Mon, 18 May 2026 09:00:49 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaEo0Zk83MjRfdG5HY3Y2TnZuZjRfQzZZTGMyYWNSUWhzLWJ0NDV4VDNiWm5nR05GVkJFRzQyT2pwenZEOFEyRDRKUHdmVldPMjVqSWdYTlhfaGNyd1Z4YjQ2Y29rZXdURWNTU2ladXlrVi1XYk8xTG04eFZ2b3dVaERHOVNEZW1rSTI4WEtEQ3pnOC16MTlZRmtUbmxyQWlCYV9UMlhoOVBRZw?oc=5" target="_blank">Emploi : de plus en plus de salariés au forfait-jours</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Le gouvernement face au casse-tête des allègements de charges patronales - Les Echos](https://news.google.com/rss/articles/CBMixgFBVV95cUxOT053TTk5dFNCZ0dSRk5VOUpQNDY2bEw3V0ViakZGaGNVZ2VpVW01UHVOekxGdFRRQUk2eHVsOEk0ZFdRaVJYWEJfb1ZJdXFhb1ctNmdDZlZERk4yWDI2YWVKVDNsVTVRV1Z2QVZUdzJIZVRfTHJyQjlVZGFpR3hiWUYyYWd1aDhtQjctckVxcV9OVUdYd1RJUEVpVTltcGstUWlTWXBINUQzRmRzajJmaG9BdEhDYlVadDJ1aF95QjFOVWNPTHc?oc=5)
-
-`Thu, 14 May 2026 09:31:09 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxOT053TTk5dFNCZ0dSRk5VOUpQNDY2bEw3V0ViakZGaGNVZ2VpVW01UHVOekxGdFRRQUk2eHVsOEk0ZFdRaVJYWEJfb1ZJdXFhb1ctNmdDZlZERk4yWDI2YWVKVDNsVTVRV1Z2QVZUdzJIZVRfTHJyQjlVZGFpR3hiWUYyYWd1aDhtQjctckVxcV9OVUdYd1RJUEVpVTltcGstUWlTWXBINUQzRmRzajJmaG9BdEhDYlVadDJ1aF95QjFOVWNPTHc?oc=5" target="_blank">Le gouvernement face au casse-tête des allègements de charges patronales</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
