@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Sat, 13 Jun 2026 11:18:27 +0000`
-> 91 articles (30 derniers jours)
+> Derniere mise a jour : `Sun, 14 Jun 2026 11:33:01 +0000`
+> 92 articles (30 derniers jours)
+
+---
+
+### [Budget 2027 : le gouvernement sans marge de manoeuvre devant l'accumulation des dépenses incompressibles - Les Echos](https://news.google.com/rss/articles/CBMi-gFBVV95cUxNc0ppeW1XTUtzRGtYWFB1bW9JSzhiMnZwMUVRc2gxS0E3X0tyMlNHcThfM2xSZDBUMklGckZLYXBjbWM5ajU4aGlvM2l3TFByNG4wZmhnOGx0eFl1b2V2QTYzQUVnWWszb0xXZF9GQ0hrcnJ2RG16TE4yQUlLMm1GczRpU1NLb3p4dnpHVzRadk5Vc2I4UmsxNG95OHpsMXpsY292NWluR3lVeThMTmxTMmRobkxlYW9HeDlIWkRoWFNTVGptLXdjY2VES2tSbm9zaXVWZjhZbk5NZ3BkOHdhYVFoeXFObEU5WENHc1ktVzVWVi1Wc19jN1ZR?oc=5)
+
+`Sun, 14 Jun 2026 09:00:17 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi-gFBVV95cUxNc0ppeW1XTUtzRGtYWFB1bW9JSzhiMnZwMUVRc2gxS0E3X0tyMlNHcThfM2xSZDBUMklGckZLYXBjbWM5ajU4aGlvM2l3TFByNG4wZmhnOGx0eFl1b2V2QTYzQUVnWWszb0xXZF9GQ0hrcnJ2RG16TE4yQUlLMm1GczRpU1NLb3p4dnpHVzRadk5Vc2I4UmsxNG95OHpsMXpsY292NWluR3lVeThMTmxTMmRobkxlYW9HeDlIWkRoWFNTVGptLXdjY2VES2tSbm9zaXVWZjhZbk5NZ3BkOHdhYVFoeXFObEU5WENHc1ktVzVWVi1Wc19jN1ZR?oc=5" target="_blank">Budget 2027 : le gouvernement sans marge de manoeuvre devant l'accumulation des dépenses incompressibles</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
