@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Mon, 15 Jun 2026 15:20:56 +0000`
-> 93 articles (30 derniers jours)
+> Derniere mise a jour : `Mon, 15 Jun 2026 17:01:38 +0000`
+> 94 articles (30 derniers jours)
+
+---
+
+### [« Chacun se renvoie la balle, personne ne se sent responsable du déficit » - Les Echos](https://news.google.com/rss/articles/CBMizwFBVV95cUxPVC0wV0s0TS0wZjFyN2dIRjdRZ1VfRkY3SUc2UFNpdzVUNlI5a2F5c1FwVG5WbUl0aEM2ZkRpVGdGWFRSamxrcGRXUjFYU2twOTVNYkNlRm1sVXRGUkRCcDFuZ21scko1eFFyMUZTVVVvNlJyTUN1OWt2Wmh1b2JnX3lxYk02LWU5S2haRUJCU1B4THFocG1QREVLTjZUR2lWcTNJRHNtcXB1WHU3XzBrdU11aWQydU4ySFZUY0pKR2VkN0RfTnRnRzM4TWYzN0k?oc=5)
+
+`Mon, 15 Jun 2026 15:20:48 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMizwFBVV95cUxPVC0wV0s0TS0wZjFyN2dIRjdRZ1VfRkY3SUc2UFNpdzVUNlI5a2F5c1FwVG5WbUl0aEM2ZkRpVGdGWFRSamxrcGRXUjFYU2twOTVNYkNlRm1sVXRGUkRCcDFuZ21scko1eFFyMUZTVVVvNlJyTUN1OWt2Wmh1b2JnX3lxYk02LWU5S2haRUJCU1B4THFocG1QREVLTjZUR2lWcTNJRHNtcXB1WHU3XzBrdU11aWQydU4ySFZUY0pKR2VkN0RfTnRnRzM4TWYzN0k?oc=5" target="_blank">« Chacun se renvoie la balle, personne ne se sent responsable du déficit »</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
