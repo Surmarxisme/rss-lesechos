@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Sun, 14 Jun 2026 11:33:01 +0000`
-> 92 articles (30 derniers jours)
+> Derniere mise a jour : `Mon, 15 Jun 2026 11:36:59 +0000`
+> 93 articles (30 derniers jours)
+
+---
+
+### [Supprimer l'âge légal de départ en retraite ? Le débat explosif qui monte - Les Echos](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNXZBMVl2WVJnbXIwdTBzUWgyRU1kN2ZROGJmelhqMmhXaEJSUk52bi1zOTl2cTVldDg1aWdxMXFTR1VSRXE0a3dJQ3UtYndrU3N0OWxnelBzcldMTjI2ZGhLcEo5d3dmY2FvNEo5bThSbUQ2TEZyNlNKRGpiSkc1aG1uS1RKUjRpX0JBV21qdWVXaUhWTDBFRHp2Ml9zS0xCWXZCSDNhRmR1cEt5TEVHMzNTWGJoRURyWVl4NjRnUWEyLW8?oc=5)
+
+`Mon, 15 Jun 2026 05:01:17 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNXZBMVl2WVJnbXIwdTBzUWgyRU1kN2ZROGJmelhqMmhXaEJSUk52bi1zOTl2cTVldDg1aWdxMXFTR1VSRXE0a3dJQ3UtYndrU3N0OWxnelBzcldMTjI2ZGhLcEo5d3dmY2FvNEo5bThSbUQ2TEZyNlNKRGpiSkc1aG1uS1RKUjRpX0JBV21qdWVXaUhWTDBFRHp2Ml9zS0xCWXZCSDNhRmR1cEt5TEVHMzNTWGJoRURyWVl4NjRnUWEyLW8?oc=5" target="_blank">Supprimer l'âge légal de départ en retraite ? Le débat explosif qui monte</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
