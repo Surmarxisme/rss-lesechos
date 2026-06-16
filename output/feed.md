@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Tue, 16 Jun 2026 14:22:01 +0000`
-> 94 articles (30 derniers jours)
+> Derniere mise a jour : `Tue, 16 Jun 2026 16:27:03 +0000`
+> 95 articles (30 derniers jours)
+
+---
+
+### [Fraudes à l'apprentissage : le gouvernement divisé sur les réponses à apporter - Les Echos](https://news.google.com/rss/articles/CBMiygFBVV95cUxQZFp2LTNiYloyUGhSZUsxNVVBQWJfb05SakNteFRGeDEyT1R4dXJJVTlVV1dfREJtdms3RTFmdWhTRWdpNjZZRENCSDFmZ3drOGRsaUd1Y2c2Z1A2NGhqOGNTWkVNVzlMSDBmekJfUndYOGZqMUNnWHRBODZVRUMwTFF0bko3Z1FLSXp4d2lkUW42eXlRMFQ3NXNGZkNGS09kSzRaVzhWaXZ0VENWOE9XejRFX2taTWFtZU9sOFk0TUR2a0tUcUNLQ1F3?oc=5)
+
+`Tue, 16 Jun 2026 15:35:05 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxQZFp2LTNiYloyUGhSZUsxNVVBQWJfb05SakNteFRGeDEyT1R4dXJJVTlVV1dfREJtdms3RTFmdWhTRWdpNjZZRENCSDFmZ3drOGRsaUd1Y2c2Z1A2NGhqOGNTWkVNVzlMSDBmekJfUndYOGZqMUNnWHRBODZVRUMwTFF0bko3Z1FLSXp4d2lkUW42eXlRMFQ3NXNGZkNGS09kSzRaVzhWaXZ0VENWOE9XejRFX2taTWFtZU9sOFk0TUR2a0tUcUNLQ1F3?oc=5" target="_blank">Fraudes à l'apprentissage : le gouvernement divisé sur les réponses à apporter</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
