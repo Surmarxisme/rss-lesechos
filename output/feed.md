@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Mon, 15 Jun 2026 20:19:41 +0000`
-> 94 articles (30 derniers jours)
+> Derniere mise a jour : `Tue, 16 Jun 2026 10:46:57 +0000`
+> 95 articles (30 derniers jours)
+
+---
+
+### [Pourquoi les familles nombreuses sont les premières victimes du budget 2026 - Les Echos](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQYXNmUkNoYjF5ODNmZnp1ODREQVRIYnA5aXJ0OUhObjBLQVdydndmZE03NXZrTTZ2MlVSNVQ3a25PSGJOZm96c05LTFRnWXIyUjlvSW5Sd2pIb1JBNTNDX2duM3g0MnZlay1RMUZLZ1Jnck01cTIzSDBUN0ZPQTZmaG5UbmlDMTBBUFlsakpibWFmYWkxTHU1a0JEb0Z6YTlKTmM1Qm5CdEkwdlVkbGxncTNQUHpReEsxYjlGd2Fud0MxTnJqMGtFSjhhemdqWkVRS3ZPUEVFbw?oc=5)
+
+`Tue, 16 Jun 2026 04:10:08 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi1wFBVV95cUxQYXNmUkNoYjF5ODNmZnp1ODREQVRIYnA5aXJ0OUhObjBLQVdydndmZE03NXZrTTZ2MlVSNVQ3a25PSGJOZm96c05LTFRnWXIyUjlvSW5Sd2pIb1JBNTNDX2duM3g0MnZlay1RMUZLZ1Jnck01cTIzSDBUN0ZPQTZmaG5UbmlDMTBBUFlsakpibWFmYWkxTHU1a0JEb0Z6YTlKTmM1Qm5CdEkwdlVkbGxncTNQUHpReEsxYjlGd2Fud0MxTnJqMGtFSjhhemdqWkVRS3ZPUEVFbw?oc=5" target="_blank">Pourquoi les familles nombreuses sont les premières victimes du budget 2026</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
