@@ -1,7 +1,7 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Tue, 16 Jun 2026 10:46:57 +0000`
-> 95 articles (30 derniers jours)
+> Derniere mise a jour : `Tue, 16 Jun 2026 14:22:01 +0000`
+> 94 articles (30 derniers jours)
 
 ---
 
@@ -738,14 +738,6 @@
 `Mon, 18 May 2026 15:52:53 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMiigJBVV95cUxNUWhFRkVNSExPS0tMZVlzTDhtZ3FkZjFrcmVkcUdPXzlobjh1S2VBczhCT2lfdGNfQWZyUlZkQzZxVnRxRXJuaURDR21JLS1DT01MUUpXZGVpTDI3Tzh6RUNiNUQ4QkEzeUt0NEdJRHJZU3l3MmEzU2trdWZaOWJiRm5GTjZ5UTYwUlN5Q0dnYWpGekJPenpmOWZQTkpJT2ItY2dNYm5RS2dQV0JLT19VaUJjYUJmbGszbmg2aXlTVl9sbGQxM1Q2elZ0RUNfNHB0RFUtXzVXRDFMQ0lZZ1VJUGZYVnI5UzJsbUNtV0JFQS12Vy14TE9RcFY1NWFxMC1xeFhjSGhrTU1aZw?oc=5" target="_blank">Les droits de succession pour financer la dépendance ? La fédération des hôpitaux et Ehpad publics jette un pavé dans la mare</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Pour Marylise Léon (CFDT), il est « impératif de rouvrir des négociations salariales » - Les Echos](https://news.google.com/rss/articles/CBMizwFBVV95cUxPNEZ5NGVjLVI2enRiSlM0cGdTZjY1VHJiajFYa0pxa25YMVB4bUZiU0FQX080anExS1RBRk5TMDhTbXhxbm9VRGVSNU9RdTB4anU1Rk4xRUJ2OHNYXzB6QWhNMmc2LUdoQXJzNGFLVjJoazFuc0l4bktaakhKZUhzNnR4NVZZVFMzQ1FLMXZJVnJNUjJsSDhvZEZyVUNjalZhS3VtTjRFdHdpdXpVNjg2UGVabGs3TWRRcW83TkRaVDRIMWk4d1EtSTFYWjktT2s?oc=5)
-
-`Sun, 17 May 2026 12:30:21 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMizwFBVV95cUxPNEZ5NGVjLVI2enRiSlM0cGdTZjY1VHJiajFYa0pxa25YMVB4bUZiU0FQX080anExS1RBRk5TMDhTbXhxbm9VRGVSNU9RdTB4anU1Rk4xRUJ2OHNYXzB6QWhNMmc2LUdoQXJzNGFLVjJoazFuc0l4bktaakhKZUhzNnR4NVZZVFMzQ1FLMXZJVnJNUjJsSDhvZEZyVUNjalZhS3VtTjRFdHdpdXpVNjg2UGVabGs3TWRRcW83TkRaVDRIMWk4d1EtSTFYWjktT2s?oc=5" target="_blank">Pour Marylise Léon (CFDT), il est « impératif de rouvrir des négociations salariales »</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
