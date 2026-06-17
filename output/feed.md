@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Wed, 17 Jun 2026 12:54:26 +0000`
-> 96 articles (30 derniers jours)
+> Derniere mise a jour : `Wed, 17 Jun 2026 14:54:48 +0000`
+> 97 articles (30 derniers jours)
+
+---
+
+### [Assurance-chômage : l'alerte de l'Unédic à Lecornu - Les Echos](https://news.google.com/rss/articles/CBMiowFBVV95cUxQbzRPbGdRWkk2cnZHSVROQTZMQTl3UURkaFBaeUNOOUVsS3ZwcHZrb3J3c3dRU195Ym0tNDZGOThwblpodkpCZS0xd0ZSckdZeXNZS2dRcjYyUGxsUjc2SjhlRmMwZ3JvekhWbWc1NVhVVzhkMkdVWjhKNFY0Vy1IaUFQQWw3UFE2YkZmdi0zREpfdWxvZzcwT1dLUnVZMzZHUkUw?oc=5)
+
+`Wed, 17 Jun 2026 14:36:13 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiowFBVV95cUxQbzRPbGdRWkk2cnZHSVROQTZMQTl3UURkaFBaeUNOOUVsS3ZwcHZrb3J3c3dRU195Ym0tNDZGOThwblpodkpCZS0xd0ZSckdZeXNZS2dRcjYyUGxsUjc2SjhlRmMwZ3JvekhWbWc1NVhVVzhkMkdVWjhKNFY0Vy1IaUFQQWw3UFE2YkZmdi0zREpfdWxvZzcwT1dLUnVZMzZHUkUw?oc=5" target="_blank">Assurance-chômage : l'alerte de l'Unédic à Lecornu</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
