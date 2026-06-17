@@ -1,7 +1,7 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Wed, 17 Jun 2026 14:54:48 +0000`
-> 97 articles (30 derniers jours)
+> Derniere mise a jour : `Wed, 17 Jun 2026 19:15:55 +0000`
+> 94 articles (30 derniers jours)
 
 ---
 
@@ -754,29 +754,5 @@
 `Tue, 19 May 2026 15:18:45 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxQY3dacDBNelFqVjV6STdVSVctWEF0MEMwRmZJOHBsUTJRSUt1V29vQlNFUEh6ODZOVDEyVkVBQ2ZPX19BZGx4QmVCQXMyZDlQR0V5YmxDeWZUalZsd0VkRHBkb19LcjFQUWV4SkdkMWRTeHVCMDRBSW9GbDhhY20zcnNFUFU4dC1DY1ZMUURTTHBaU0hOQUtfandBYTZhWFRQQUE2TERIZnI2ejZfeEdBWQ?oc=5" target="_blank">Le télétravail permet des gains mesurés mais réels en productivité, selon l'Insee</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Livreurs à domicile : Uber Eats et Deliveroo visés par une action de groupe - Les Echos](https://news.google.com/rss/articles/CBMixwFBVV95cUxPeGhLc2RJWFc1WmpEcjFNN2hLLThhTVVYb1dHWG5kU2oyLUp0MDR6S21SRzg3SjFoeWlBVUg1YlpKYUN5TVVfM3dzc3FubXVUeGdhYi0tUVU4Ri04dmxibG1FX0ZNQnlBSTN0WndyTU1hNkpocVlDNVU0LUlDamMtTFJ4bnJYVGJVUmV1SGpzdHh6ZGkyOTlJb2J6eFZEVkRmVzdlb3ZRTGk4TUctdi1QVjVpd1NNenZKbnVka1RFclNoZXpzQWdr?oc=5)
-
-`Mon, 18 May 2026 17:12:05 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMixwFBVV95cUxPeGhLc2RJWFc1WmpEcjFNN2hLLThhTVVYb1dHWG5kU2oyLUp0MDR6S21SRzg3SjFoeWlBVUg1YlpKYUN5TVVfM3dzc3FubXVUeGdhYi0tUVU4Ri04dmxibG1FX0ZNQnlBSTN0WndyTU1hNkpocVlDNVU0LUlDamMtTFJ4bnJYVGJVUmV1SGpzdHh6ZGkyOTlJb2J6eFZEVkRmVzdlb3ZRTGk4TUctdi1QVjVpd1NNenZKbnVka1RFclNoZXpzQWdr?oc=5" target="_blank">Livreurs à domicile : Uber Eats et Deliveroo visés par une action de groupe</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [L'équivalent de deux fois l'intégrale des « Misérables » : l'inflation des normes se poursuit inexorablement - Les Echos](https://news.google.com/rss/articles/CBMi8AFBVV95cUxORmJMWVJwQzk2YWQxR3dkSUZEZVVnUlBoeDZiSE5WdUE3U0lFYTZuQWlvellhV3BjcWFDa2VnYkttVktzNEs2SjRxZTRoSlNHZWx5aWtfVkRXNDBFVFlQS2doV0liNjR5RmtYc1hkenI5a0JvbWItMVU3aTRMWU9LRHpSMlBwX1FJblJUWVJ1WThLVDVNRmhsaG1sdE9wTzBQQlR2VDFKM2E4TjRyb0NZTVFBQlNGSWI0S0hQbW12ZzRoN2xEX2xQNzdyRnlfdWRwdF84SGVqMWgzNXVubDU2YmswMUR2MEwtakJNYVF5VU8?oc=5)
-
-`Mon, 18 May 2026 17:29:17 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi8AFBVV95cUxORmJMWVJwQzk2YWQxR3dkSUZEZVVnUlBoeDZiSE5WdUE3U0lFYTZuQWlvellhV3BjcWFDa2VnYkttVktzNEs2SjRxZTRoSlNHZWx5aWtfVkRXNDBFVFlQS2doV0liNjR5RmtYc1hkenI5a0JvbWItMVU3aTRMWU9LRHpSMlBwX1FJblJUWVJ1WThLVDVNRmhsaG1sdE9wTzBQQlR2VDFKM2E4TjRyb0NZTVFBQlNGSWI0S0hQbW12ZzRoN2xEX2xQNzdyRnlfdWRwdF84SGVqMWgzNXVubDU2YmswMUR2MEwtakJNYVF5VU8?oc=5" target="_blank">L'équivalent de deux fois l'intégrale des « Misérables » : l'inflation des normes se poursuit inexorablement</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Les droits de succession pour financer la dépendance ? La fédération des hôpitaux et Ehpad publics jette un pavé dans la mare - Les Echos](https://news.google.com/rss/articles/CBMiigJBVV95cUxNUWhFRkVNSExPS0tMZVlzTDhtZ3FkZjFrcmVkcUdPXzlobjh1S2VBczhCT2lfdGNfQWZyUlZkQzZxVnRxRXJuaURDR21JLS1DT01MUUpXZGVpTDI3Tzh6RUNiNUQ4QkEzeUt0NEdJRHJZU3l3MmEzU2trdWZaOWJiRm5GTjZ5UTYwUlN5Q0dnYWpGekJPenpmOWZQTkpJT2ItY2dNYm5RS2dQV0JLT19VaUJjYUJmbGszbmg2aXlTVl9sbGQxM1Q2elZ0RUNfNHB0RFUtXzVXRDFMQ0lZZ1VJUGZYVnI5UzJsbUNtV0JFQS12Vy14TE9RcFY1NWFxMC1xeFhjSGhrTU1aZw?oc=5)
-
-`Mon, 18 May 2026 15:52:53 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiigJBVV95cUxNUWhFRkVNSExPS0tMZVlzTDhtZ3FkZjFrcmVkcUdPXzlobjh1S2VBczhCT2lfdGNfQWZyUlZkQzZxVnRxRXJuaURDR21JLS1DT01MUUpXZGVpTDI3Tzh6RUNiNUQ4QkEzeUt0NEdJRHJZU3l3MmEzU2trdWZaOWJiRm5GTjZ5UTYwUlN5Q0dnYWpGekJPenpmOWZQTkpJT2ItY2dNYm5RS2dQV0JLT19VaUJjYUJmbGszbmg2aXlTVl9sbGQxM1Q2elZ0RUNfNHB0RFUtXzVXRDFMQ0lZZ1VJUGZYVnI5UzJsbUNtV0JFQS12Vy14TE9RcFY1NWFxMC1xeFhjSGhrTU1aZw?oc=5" target="_blank">Les droits de succession pour financer la dépendance ? La fédération des hôpitaux et Ehpad publics jette un pavé dans la mare</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
