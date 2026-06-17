@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Tue, 16 Jun 2026 20:00:42 +0000`
+> Derniere mise a jour : `Wed, 17 Jun 2026 10:19:37 +0000`
 > 96 articles (30 derniers jours)
+
+---
+
+### [Salaires, pouvoir d'achat, temps libre… : à quoi aspirent les Français ? - Les Echos](https://news.google.com/rss/articles/CBMiuwFBVV95cUxONkhHOXNoSFVNUUFXN3VlckgtZ25QR2l2dS1XYjlleklhQVZHT2Foa2REaHVJekxqbDEwS1hmajFBeXkxUFpZVXIydkJVU2tIN2pCanlyWlRSLWVDci16bzRUR2diV3R0VWdLSWU1TjhXQ1VYWlpKbmxVb0U0NnQwdWlQN0pFaGc0RDlhVzN3cHdLa1p6d3djeGtuaFhmTmk2dGY3SHRyZnBuekc4b1NhZjdIWHdpMUU5Mlk4?oc=5)
+
+`Wed, 17 Jun 2026 05:50:08 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxONkhHOXNoSFVNUUFXN3VlckgtZ25QR2l2dS1XYjlleklhQVZHT2Foa2REaHVJekxqbDEwS1hmajFBeXkxUFpZVXIydkJVU2tIN2pCanlyWlRSLWVDci16bzRUR2diV3R0VWdLSWU1TjhXQ1VYWlpKbmxVb0U0NnQwdWlQN0pFaGc0RDlhVzN3cHdLa1p6d3djeGtuaFhmTmk2dGY3SHRyZnBuekc4b1NhZjdIWHdpMUU5Mlk4?oc=5" target="_blank">Salaires, pouvoir d'achat, temps libre… : à quoi aspirent les Français ?</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -762,13 +770,5 @@
 `Mon, 18 May 2026 15:52:53 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMiigJBVV95cUxNUWhFRkVNSExPS0tMZVlzTDhtZ3FkZjFrcmVkcUdPXzlobjh1S2VBczhCT2lfdGNfQWZyUlZkQzZxVnRxRXJuaURDR21JLS1DT01MUUpXZGVpTDI3Tzh6RUNiNUQ4QkEzeUt0NEdJRHJZU3l3MmEzU2trdWZaOWJiRm5GTjZ5UTYwUlN5Q0dnYWpGekJPenpmOWZQTkpJT2ItY2dNYm5RS2dQV0JLT19VaUJjYUJmbGszbmg2aXlTVl9sbGQxM1Q2elZ0RUNfNHB0RFUtXzVXRDFMQ0lZZ1VJUGZYVnI5UzJsbUNtV0JFQS12Vy14TE9RcFY1NWFxMC1xeFhjSGhrTU1aZw?oc=5" target="_blank">Les droits de succession pour financer la dépendance ? La fédération des hôpitaux et Ehpad publics jette un pavé dans la mare</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Emploi : de plus en plus de salariés au forfait-jours - Les Echos](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaEo0Zk83MjRfdG5HY3Y2TnZuZjRfQzZZTGMyYWNSUWhzLWJ0NDV4VDNiWm5nR05GVkJFRzQyT2pwenZEOFEyRDRKUHdmVldPMjVqSWdYTlhfaGNyd1Z4YjQ2Y29rZXdURWNTU2ladXlrVi1XYk8xTG04eFZ2b3dVaERHOVNEZW1rSTI4WEtEQ3pnOC16MTlZRmtUbmxyQWlCYV9UMlhoOVBRZw?oc=5)
-
-`Mon, 18 May 2026 09:00:49 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaEo0Zk83MjRfdG5HY3Y2TnZuZjRfQzZZTGMyYWNSUWhzLWJ0NDV4VDNiWm5nR05GVkJFRzQyT2pwenZEOFEyRDRKUHdmVldPMjVqSWdYTlhfaGNyd1Z4YjQ2Y29rZXdURWNTU2ladXlrVi1XYk8xTG04eFZ2b3dVaERHOVNEZW1rSTI4WEtEQ3pnOC16MTlZRmtUbmxyQWlCYV9UMlhoOVBRZw?oc=5" target="_blank">Emploi : de plus en plus de salariés au forfait-jours</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
