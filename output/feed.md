@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Fri, 19 Jun 2026 10:06:05 +0000`
+> Derniere mise a jour : `Fri, 19 Jun 2026 12:51:56 +0000`
 > 101 articles (30 derniers jours)
+
+---
+
+### [Canicule : ce que dit le Code du travail en cas de fortes chaleurs - Les Echos](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSUh6UDkwUjktMTMySGR0cXpzRDhKSC1qeGxsVGxIdDlFRTl5SVVrYThndzkwYzVlX1pUVnBSdC1PUk84S1gyNktOM2toSF9lOHJQUVhULTRXTXNFUk5ONVZjOVlENm02ekVnTGZYV0RsR1lEZk9GTklDVTFFczVDYVN1QUFZakJhQmNEdnBnZXlRbW5WZ0tzMXdyclVoc0RzNXh1OUxfMG1kUktUcDJ1SjNIVFl5Z0hrRTF3?oc=5)
+
+`Fri, 19 Jun 2026 10:28:52 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSUh6UDkwUjktMTMySGR0cXpzRDhKSC1qeGxsVGxIdDlFRTl5SVVrYThndzkwYzVlX1pUVnBSdC1PUk84S1gyNktOM2toSF9lOHJQUVhULTRXTXNFUk5ONVZjOVlENm02ekVnTGZYV0RsR1lEZk9GTklDVTFFczVDYVN1QUFZakJhQmNEdnBnZXlRbW5WZ0tzMXdyclVoc0RzNXh1OUxfMG1kUktUcDJ1SjNIVFl5Z0hrRTF3?oc=5" target="_blank">Canicule : ce que dit le Code du travail en cas de fortes chaleurs</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -802,13 +810,5 @@
 `Wed, 20 May 2026 15:55:34 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSi1SVDctWldUVUVYOURnMVA3Z0VmSmpYdVA2NDJoN3RuTVdtdGJGZk4zNTBCcWQ4c1FvaEZSS08xUHZSa0dyOU1VWHU5S0pQa01VRURKVElTdGN5bjNuUWxGU3FIckJ3THNzLTBvSjA3bnNLazZnUTlFc1B3NTVGZWFXV01XTkd2Q3paald5Q1RnY3FHdVAwbl85QlExSnRSaXE2d296SmNVNWFkM0pTaUZrbktjM2M0dzFvTXlQc3prbHFmc29rMkcyV0Rrd3JyNFVOZA?oc=5" target="_blank">Avec la hausse du SMIC, le gouvernement face au regain des revendications salariales</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Banque de France : le Parlement confirme la nomination d'Emmanuel Moulin comme futur gouverneur - Les Echos](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZHZFcWlZVFJwYmJTbENiT0M3Z0JMcVlOdVR0UUhQa0pqaDJxck1EaFAzcXF2NFcyR204ZUE4TVpkQ19JS0RCeVN1TGNvSGVJXzRzTGREVjRtRE44ellmMVlsa2c0bl9qNGsyaFJCZDItdWVGR3plRDJfNGp1RUtkOGZVQXVyWkg5d0djSlo0bnZTUmVobmgxaFhKRk5ESG50MGRJeWxEMjcwaFo4Wk1wRkFBSW9FM2xtdV9QNVRHQVFyS2lGYkhVUDQ4M3BnMGt5bEMtQk1zY2xZOVVqR3piZldaNExzbVBxZms3ckZR?oc=5)
-
-`Wed, 20 May 2026 11:58:05 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZHZFcWlZVFJwYmJTbENiT0M3Z0JMcVlOdVR0UUhQa0pqaDJxck1EaFAzcXF2NFcyR204ZUE4TVpkQ19JS0RCeVN1TGNvSGVJXzRzTGREVjRtRE44ellmMVlsa2c0bl9qNGsyaFJCZDItdWVGR3plRDJfNGp1RUtkOGZVQXVyWkg5d0djSlo0bnZTUmVobmgxaFhKRk5ESG50MGRJeWxEMjcwaFo4Wk1wRkFBSW9FM2xtdV9QNVRHQVFyS2lGYkhVUDQ4M3BnMGt5bEMtQk1zY2xZOVVqR3piZldaNExzbVBxZms3ckZR?oc=5" target="_blank">Banque de France : le Parlement confirme la nomination d'Emmanuel Moulin comme futur gouverneur</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
