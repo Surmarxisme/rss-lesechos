@@ -1,7 +1,31 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Thu, 18 Jun 2026 19:14:45 +0000`
-> 98 articles (30 derniers jours)
+> Derniere mise a jour : `Fri, 19 Jun 2026 10:06:05 +0000`
+> 101 articles (30 derniers jours)
+
+---
+
+### [Transparence salariale : les syndicats restent sur leur faim - Les Echos](https://news.google.com/rss/articles/CBMiswFBVV95cUxONzVhNmhEb29SSUFpb3lIWm56RVJ3U19YdENZdjVaTDA1X3ZsbFprZjgwTG85bEE4bmt6cnZ4b3ZWRU1tT1lhdU1SSUFPRGdRbEdYZWR0VEZGWk12M0FxTExRbzlubl94YUtWZFJMcTFmbHNjMHh2MldrX0ZlSk1kMzRZaHlGemdoYmZKVUxIQ2F6QjBtMnU5MEhvVFZXS0JzdmJsN01TYzZBbW1CcEFSU0RSMA?oc=5)
+
+`Fri, 19 Jun 2026 04:30:29 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxONzVhNmhEb29SSUFpb3lIWm56RVJ3U19YdENZdjVaTDA1X3ZsbFprZjgwTG85bEE4bmt6cnZ4b3ZWRU1tT1lhdU1SSUFPRGdRbEdYZWR0VEZGWk12M0FxTExRbzlubl94YUtWZFJMcTFmbHNjMHh2MldrX0ZlSk1kMzRZaHlGemdoYmZKVUxIQ2F6QjBtMnU5MEhvVFZXS0JzdmJsN01TYzZBbW1CcEFSU0RSMA?oc=5" target="_blank">Transparence salariale : les syndicats restent sur leur faim</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [EXCLUSIF - Transparence salariale : comment seront calculés les indicateurs d'inégalités femme-homme - Les Echos](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOektrRll4TzFIcnBNYzB6RlhabUhQR2M0VmZqcEQyYmNWXzZpVENQMjF3bWNxbHBpaUI4bWladFZKZVlQSGdXdk1GWERudGdfclVwWnRaNlY1UjBzbWQ2WXlpb0FRYmEwQWRneGg0bkNXbGZXaWZ6aTQ4Vlc4R2xOSmVKUXRBOXRMYzZWZldmbE5YWjVyUmdPYmZiUTY5LWZWNUNhSEdDN2h0T3VuS0FqNUJraDVNWV9hYzVCQ1Y1bXpRVGxWYmRpelEyd3Z3aVBTUkRzc0ZuUTVMclBNRGpDRlhUU3I?oc=5)
+
+`Fri, 19 Jun 2026 05:00:29 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi5AFBVV95cUxOektrRll4TzFIcnBNYzB6RlhabUhQR2M0VmZqcEQyYmNWXzZpVENQMjF3bWNxbHBpaUI4bWladFZKZVlQSGdXdk1GWERudGdfclVwWnRaNlY1UjBzbWQ2WXlpb0FRYmEwQWRneGg0bkNXbGZXaWZ6aTQ4Vlc4R2xOSmVKUXRBOXRMYzZWZldmbE5YWjVyUmdPYmZiUTY5LWZWNUNhSEdDN2h0T3VuS0FqNUJraDVNWV9hYzVCQ1Y1bXpRVGxWYmRpelEyd3Z3aVBTUkRzc0ZuUTVMclBNRGpDRlhUU3I?oc=5" target="_blank">EXCLUSIF - Transparence salariale : comment seront calculés les indicateurs d'inégalités femme-homme</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Médicaments, transports sanitaires : le gouvernement prêt à frapper fort avec de nouveaux déremboursements - Les Echos](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOaHRDR3dyT1IxTzJuSUFhamJ6VGxjY3dzMUFOWllLRGVxR3RCVHZIS3N0UXdZWWdQMTNjTnMtanlWNjRvTFBmVTFHQlF3eTZYWm5nTDZaSkNzZzF6dndMMXBVU2pTeFVDOG9fekFiODBDMGg4SUlZbXBfYzQyUllHaXREQThfSHdwSGVjSGN1QVRBTU43UUNqMjVnYl81akd5WUwxUU41M1liclY1c0RJaHg3MGx5YWtvY2lXZ0t0WlVXWTlqdHE0UmljMEVxZnJTYmNoc3pYSlN4Zw?oc=5)
+
+`Fri, 19 Jun 2026 06:40:51 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi2gFBVV95cUxOaHRDR3dyT1IxTzJuSUFhamJ6VGxjY3dzMUFOWllLRGVxR3RCVHZIS3N0UXdZWWdQMTNjTnMtanlWNjRvTFBmVTFHQlF3eTZYWm5nTDZaSkNzZzF6dndMMXBVU2pTeFVDOG9fekFiODBDMGg4SUlZbXBfYzQyUllHaXREQThfSHdwSGVjSGN1QVRBTU43UUNqMjVnYl81akd5WUwxUU41M1liclY1c0RJaHg3MGx5YWtvY2lXZ0t0WlVXWTlqdHE0UmljMEVxZnJTYmNoc3pYSlN4Zw?oc=5" target="_blank">Médicaments, transports sanitaires : le gouvernement prêt à frapper fort avec de nouveaux déremboursements</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
