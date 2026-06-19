@@ -1,7 +1,7 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Fri, 19 Jun 2026 14:46:07 +0000`
-> 101 articles (30 derniers jours)
+> Derniere mise a jour : `Fri, 19 Jun 2026 18:26:49 +0000`
+> 99 articles (30 derniers jours)
 
 ---
 
@@ -794,21 +794,5 @@
 `Thu, 21 May 2026 04:00:30 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxNTGtWNUdqamw3UTVWX3k3RUwzNklVc0M2QXlQTmlFT0lOQzNmR0ppRGVMMFU1S2hjRVQtLW9rUXlBRmJoSVlSek9Wa3djX05INlFycmUwa3J4SWFxR1hzMXgwY1pneWxmeE82U0Y0Nmt1TEFaSGllcEthaGEyX09IdjFiemtGSFdoV1BYVmxZX0JheTZMWDZRRkw1MDE4ZlBxWnZjRS04c3g3NlRHNUt4bXRQVXI?oc=5" target="_blank">La baisse toute relative des impôts de production</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [La militante associative Claire Thoury élue présidente du Cese - Les Echos](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbWtDclVtNU51N0dMazZ2aGRTVVlNRS13YUdsSUtoVl9NemwwbWw4SGZib0dxcHhqekJTa011akUtS2ZFck5SV0k0ZWRtNTUwcV91REZWZEItTWtLX2J3bU1BVnNTVjd5X0xsNjQ4MlQyLU5Xcm9IN1BjTjJTMjlTcUV5V2ZEeVZwM2gxSFBnNkowZ2lySDQ0NW1pR09FSHZjTWhTMnk4dktMTlBfRzE1d0VQcU5pVDFF?oc=5)
-
-`Wed, 20 May 2026 16:11:20 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbWtDclVtNU51N0dMazZ2aGRTVVlNRS13YUdsSUtoVl9NemwwbWw4SGZib0dxcHhqekJTa011akUtS2ZFck5SV0k0ZWRtNTUwcV91REZWZEItTWtLX2J3bU1BVnNTVjd5X0xsNjQ4MlQyLU5Xcm9IN1BjTjJTMjlTcUV5V2ZEeVZwM2gxSFBnNkowZ2lySDQ0NW1pR09FSHZjTWhTMnk4dktMTlBfRzE1d0VQcU5pVDFF?oc=5" target="_blank">La militante associative Claire Thoury élue présidente du Cese</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Avec la hausse du SMIC, le gouvernement face au regain des revendications salariales - Les Echos](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSi1SVDctWldUVUVYOURnMVA3Z0VmSmpYdVA2NDJoN3RuTVdtdGJGZk4zNTBCcWQ4c1FvaEZSS08xUHZSa0dyOU1VWHU5S0pQa01VRURKVElTdGN5bjNuUWxGU3FIckJ3THNzLTBvSjA3bnNLazZnUTlFc1B3NTVGZWFXV01XTkd2Q3paald5Q1RnY3FHdVAwbl85QlExSnRSaXE2d296SmNVNWFkM0pTaUZrbktjM2M0dzFvTXlQc3prbHFmc29rMkcyV0Rrd3JyNFVOZA?oc=5)
-
-`Wed, 20 May 2026 15:55:34 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSi1SVDctWldUVUVYOURnMVA3Z0VmSmpYdVA2NDJoN3RuTVdtdGJGZk4zNTBCcWQ4c1FvaEZSS08xUHZSa0dyOU1VWHU5S0pQa01VRURKVElTdGN5bjNuUWxGU3FIckJ3THNzLTBvSjA3bnNLazZnUTlFc1B3NTVGZWFXV01XTkd2Q3paald5Q1RnY3FHdVAwbl85QlExSnRSaXE2d296SmNVNWFkM0pTaUZrbktjM2M0dzFvTXlQc3prbHFmc29rMkcyV0Rrd3JyNFVOZA?oc=5" target="_blank">Avec la hausse du SMIC, le gouvernement face au regain des revendications salariales</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
