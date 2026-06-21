@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Sat, 20 Jun 2026 11:20:55 +0000`
-> 94 articles (30 derniers jours)
+> Derniere mise a jour : `Sun, 21 Jun 2026 11:47:38 +0000`
+> 91 articles (30 derniers jours)
+
+---
+
+### [Salaires : ces chiffres qui démontent les idées reçues sur l'écart entre le brut et le net - Les Echos](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbFdTRjVJQlJMczBleDdvQXhpS1M5eVJZZWVXazlDbkMtdE0tUkdKa3JlTG5WVG1VMnNHMnFDd2Rka3Z3VTFyR0diSDNMY1B0VEJ4aXN2XzhtTmh3QmtmM1ZrbmJHVTVZRGVpVF9OQnlVZU8xVmJ4Sy04eTU1UW5FellPQmVDQ1k4ZkNBOW9fM1hVSmRIejdkUFZvREFmc1J1MXhIem9oZVBMX3plWEtIc1JjNHRXY2xtNHZtS0Y4amVDeG5Fbi11NjRTdDhBSEhXQ3p2a1Bockx1QQ?oc=5)
+
+`Sun, 21 Jun 2026 06:45:11 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbFdTRjVJQlJMczBleDdvQXhpS1M5eVJZZWVXazlDbkMtdE0tUkdKa3JlTG5WVG1VMnNHMnFDd2Rka3Z3VTFyR0diSDNMY1B0VEJ4aXN2XzhtTmh3QmtmM1ZrbmJHVTVZRGVpVF9OQnlVZU8xVmJ4Sy04eTU1UW5FellPQmVDQ1k4ZkNBOW9fM1hVSmRIejdkUFZvREFmc1J1MXhIem9oZVBMX3plWEtIc1JjNHRXY2xtNHZtS0Y4amVDeG5Fbi11NjRTdDhBSEhXQ3p2a1Bockx1QQ?oc=5" target="_blank">Salaires : ces chiffres qui démontent les idées reçues sur l'écart entre le brut et le net</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -722,37 +730,5 @@
 `Mon, 25 May 2026 09:34:53 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxOSDc4eWxOemdrSVJ2NHhzdUVHQUdPeUd5cm9rekZZa3hpS0R6VU1Qa29nYXMzTEJnVTZYcTY1QXliMDN4XzlXQnY1aXdGSDJUd2dPWFI0NlFicmo3eS15czhNLWdtMzFJakVHVUI0U29BYl9tMGVjcWs2ZWdrb1FKQkpDdDNRN20xdlZFVkkzZnFSTWFVQmp6aWp3WVBVOEtMVEZSNHV3cU9hYm9oTzZTc2t3NGNZMFVZclhWdUlwYlp6SkRVb2c?oc=5" target="_blank">Allègements de charges : le gouvernement a raison de « reprendre le contrôle »</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Le gouvernement acte le gel des allègements de charges patronales pour 2026 - Les Echos](https://news.google.com/rss/articles/CBMiygFBVV95cUxNNDZGNGthd3VpazMwNGhGREQwNXI5R25KNGhrd25GSDhZS01aN3VhOGt1MU93S19lcHBUYm9wYUIxVXctekNxVVZkQ3lUaXBGQmJPZFNGMW1VVXZ1U1ZSYXUxRmdOYUtaZnFrRjRQTjJfa2hScnhtek9NUXoyOXprNjVwUDkzSlBTUWp0dWg3LWVJTjVYTFE3bFFpd19JWW9Mdkc0ODlQV3NGZ2w4VTE2MkZnUXRsTllLeTV3V0g3R3A5QnAxakxUZ3RB?oc=5)
-
-`Fri, 22 May 2026 08:10:51 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxNNDZGNGthd3VpazMwNGhGREQwNXI5R25KNGhrd25GSDhZS01aN3VhOGt1MU93S19lcHBUYm9wYUIxVXctekNxVVZkQ3lUaXBGQmJPZFNGMW1VVXZ1U1ZSYXUxRmdOYUtaZnFrRjRQTjJfa2hScnhtek9NUXoyOXprNjVwUDkzSlBTUWp0dWg3LWVJTjVYTFE3bFFpd19JWW9Mdkc0ODlQV3NGZ2w4VTE2MkZnUXRsTllLeTV3V0g3R3A5QnAxakxUZ3RB?oc=5" target="_blank">Le gouvernement acte le gel des allègements de charges patronales pour 2026</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Santé, chômage, retraites : le FMI appelle la France à freiner ses dépenses sociales - Les Echos](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPclFKV3JubjBuQU5vOWo3TExwaFZISGk3SW5zWXdjZ0hpNFhaSUZMZUxELXJPeHg3dU1ULWFHNDlGalpuXzRCXzVKNWJYRFBVbjlnc3gwYVV0SmhlTk45VXBVUzhNZDVqV25qd3FpYmI4d096V2ZWSkpFb2hQTkFaa21WRldWZWR6TnkzWFpZX0Z1YzF5dy00OWxYdGRYUXdyTUFrRFBYYXRVVkp1T0RDMmVQamhlUS1vYjRIZGJtbm15WEZXeXp3VEpaVlEwR2hmQ0VmQzR5dE5IeEQ5OGc?oc=5)
-
-`Thu, 21 May 2026 17:16:02 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi3gFBVV95cUxPclFKV3JubjBuQU5vOWo3TExwaFZISGk3SW5zWXdjZ0hpNFhaSUZMZUxELXJPeHg3dU1ULWFHNDlGalpuXzRCXzVKNWJYRFBVbjlnc3gwYVV0SmhlTk45VXBVUzhNZDVqV25qd3FpYmI4d096V2ZWSkpFb2hQTkFaa21WRldWZWR6TnkzWFpZX0Z1YzF5dy00OWxYdGRYUXdyTUFrRFBYYXRVVkp1T0RDMmVQamhlUS1vYjRIZGJtbm15WEZXeXp3VEpaVlEwR2hmQ0VmQzR5dE5IeEQ5OGc?oc=5" target="_blank">Santé, chômage, retraites : le FMI appelle la France à freiner ses dépenses sociales</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Prime carburants, aides grands rouleurs… ces nouvelles aides de Lecornu pour « soutenir l'activité » face à une crise qui va durer - Les Echos](https://news.google.com/rss/articles/CBMihgJBVV95cUxPS3Z6eUxtSHg3TVlBZE02ekJxaWxpSVU4anRhbWZ3U0Q3SHZENVRYdlJqX3puZXhoNWhlNFNJNWcxbGViWkU0V3ZESDEzMllkWTc0eUY5bjVLS1ZaWk1HaTlna2dWRG15Zkg4anotUVBicVgzOThDdVlxckl3V2tZVWRFMUhfN0FRRnBxSERIc3dlV0FaX0pNUEZmcjJYdmF3R2c2TVNSZkZMdl90OENocTVSbldQTmltcmp5ckQ4Qmw2Q3lBOGRXZWR5bk5LWkZMWXp3UkJ3UnFMSkV1aGs4azZPS2ZPVExFZXZXV2tUbUhVMU1HbTk4ZFk4d1pEcEdURWhlQk1B?oc=5)
-
-`Thu, 21 May 2026 16:13:00 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMihgJBVV95cUxPS3Z6eUxtSHg3TVlBZE02ekJxaWxpSVU4anRhbWZ3U0Q3SHZENVRYdlJqX3puZXhoNWhlNFNJNWcxbGViWkU0V3ZESDEzMllkWTc0eUY5bjVLS1ZaWk1HaTlna2dWRG15Zkg4anotUVBicVgzOThDdVlxckl3V2tZVWRFMUhfN0FRRnBxSERIc3dlV0FaX0pNUEZmcjJYdmF3R2c2TVNSZkZMdl90OENocTVSbldQTmltcmp5ckQ4Qmw2Q3lBOGRXZWR5bk5LWkZMWXp3UkJ3UnFMSkV1aGs4azZPS2ZPVExFZXZXV2tUbUhVMU1HbTk4ZFk4d1pEcEdURWhlQk1B?oc=5" target="_blank">Prime carburants, aides grands rouleurs… ces nouvelles aides de Lecornu pour « soutenir l'activité » face à une crise qui va durer</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Recrutement de cadres : l'IA s'impose peu à peu dans les pratiques des DRH - Les Echos](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYUNkN2RNQ1JZMmRUdGxGb3BQYkhOU0FBRzlRLWlEWGE2ak1CVnVoQndkZmRzUHRrRThoSHdIZlVVNW9abkkzNHlPVHQwNjdSU1c1d21iakdSZFoyQUgxUGxvbFdtblgzUC1uMXZPT3NQS2o1WlVoaHFzbl9mR01UaDhqZmNZVTE4bGxDTDBHc2NCck51WnVUQ2RqdGlXZUltRE41bDc4aHRTLXZGcVJOLVIyd1pIU0Q4MUg5M1locHZfVUE?oc=5)
-
-`Thu, 21 May 2026 12:06:51 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYUNkN2RNQ1JZMmRUdGxGb3BQYkhOU0FBRzlRLWlEWGE2ak1CVnVoQndkZmRzUHRrRThoSHdIZlVVNW9abkkzNHlPVHQwNjdSU1c1d21iakdSZFoyQUgxUGxvbFdtblgzUC1uMXZPT3NQS2o1WlVoaHFzbl9mR01UaDhqZmNZVTE4bGxDTDBHc2NCck51WnVUQ2RqdGlXZUltRE41bDc4aHRTLXZGcVJOLVIyd1pIU0Q4MUg5M1locHZfVUE?oc=5" target="_blank">Recrutement de cadres : l'IA s'impose peu à peu dans les pratiques des DRH</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
