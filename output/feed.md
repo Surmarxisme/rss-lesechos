@@ -1,7 +1,23 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Mon, 22 Jun 2026 16:40:07 +0000`
-> 92 articles (30 derniers jours)
+> Derniere mise a jour : `Mon, 22 Jun 2026 19:58:59 +0000`
+> 94 articles (30 derniers jours)
+
+---
+
+### [La CFDT revendique sa « combativité » et fustige l'extrême droite - Les Echos](https://news.google.com/rss/articles/CBMitgFBVV95cUxPMDhlb0hTcVZycmxfOFBienIxNjgzZm9KdW9qTUhidVZLS0U5TF80ZlozQ09Gek9zMGt6c2x4V0RfQmxQREpjemE3VjgyZGxUamMtR3ZIWFJMalRlbklybGFiY0dnSW93amtTM0xhQ2REVmpYdVBwRVBBOU15X2pWYVlVemlYeXlOZXZKM0l3cnhXM0ZUOU5ZLUFTMVZBTE9vV1loc1pNV3pXa0NLNW1ZcTdEcmMtUQ?oc=5)
+
+`Mon, 22 Jun 2026 17:10:23 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxPMDhlb0hTcVZycmxfOFBienIxNjgzZm9KdW9qTUhidVZLS0U5TF80ZlozQ09Gek9zMGt6c2x4V0RfQmxQREpjemE3VjgyZGxUamMtR3ZIWFJMalRlbklybGFiY0dnSW93amtTM0xhQ2REVmpYdVBwRVBBOU15X2pWYVlVemlYeXlOZXZKM0l3cnhXM0ZUOU5ZLUFTMVZBTE9vV1loc1pNV3pXa0NLNW1ZcTdEcmMtUQ?oc=5" target="_blank">La CFDT revendique sa « combativité » et fustige l'extrême droite</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [A l'approche du budget 2027, le Medef sonne l'alarme sur la France « qui décroche » - Les Echos](https://news.google.com/rss/articles/CBMiywFBVV95cUxQVGxvQmpSOTFpT1ZYVVkxdVpGQmZKNVNsQnhaRDZxNjVicWVHVGFEWllIZU1RM2xYZ2V0UXo1N2JKTVR0WUlHbTVwZS1FclJ4VVA3dE5FNi1DMmdBcE10MFhXWGx0WF9DdUltT1FyTTlYTzVwakZOa0J0a2Q4ZEVQcVlTRktWcmZEcWlXLXBOS1dUMU1uSFlwTlg2SzhyWE9xTzZMMDNxaXcwWm5wc0VOSERvZkRSY2xMNkVwSW5mZWY1R2dJamFwQmczQQ?oc=5)
+
+`Mon, 22 Jun 2026 16:20:38 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiywFBVV95cUxQVGxvQmpSOTFpT1ZYVVkxdVpGQmZKNVNsQnhaRDZxNjVicWVHVGFEWllIZU1RM2xYZ2V0UXo1N2JKTVR0WUlHbTVwZS1FclJ4VVA3dE5FNi1DMmdBcE10MFhXWGx0WF9DdUltT1FyTTlYTzVwakZOa0J0a2Q4ZEVQcVlTRktWcmZEcWlXLXBOS1dUMU1uSFlwTlg2SzhyWE9xTzZMMDNxaXcwWm5wc0VOSERvZkRSY2xMNkVwSW5mZWY1R2dJamFwQmczQQ?oc=5" target="_blank">A l'approche du budget 2027, le Medef sonne l'alarme sur la France « qui décroche »</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
