@@ -1,7 +1,23 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Sun, 21 Jun 2026 11:47:38 +0000`
-> 91 articles (30 derniers jours)
+> Derniere mise a jour : `Mon, 22 Jun 2026 11:25:32 +0000`
+> 92 articles (30 derniers jours)
+
+---
+
+### [Comment le Medef veut financer une grande baisse des charges sur les salaires - Les Echos](https://news.google.com/rss/articles/CBMizAFBVV95cUxOc01LWFNMRjFjOXQ1UFdZVURHOUVBVFo4NzVwWC15UnFDVUd6bEZYcGJfNW9WTU5rNjgxblpfZmhDMlE3NUx2aHVyNEZmOTNZVkx2dS1uRURPTVl6N2pqR3Fqdlg0N1BnRU1EVHFwajAxVW5pX29Ib1RwTlMxSTY0OUdWS1BhRkQ2M2N3LVgtR2JUQ29wSFUxSnl6dVdRSERFdFFfQUh6Q0hrT3RoRGNYRkJpYUtncU80MU5aOHBxNlRPNFEzNjJWUXJhU0s?oc=5)
+
+`Mon, 22 Jun 2026 04:05:08 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMizAFBVV95cUxOc01LWFNMRjFjOXQ1UFdZVURHOUVBVFo4NzVwWC15UnFDVUd6bEZYcGJfNW9WTU5rNjgxblpfZmhDMlE3NUx2aHVyNEZmOTNZVkx2dS1uRURPTVl6N2pqR3Fqdlg0N1BnRU1EVHFwajAxVW5pX29Ib1RwTlMxSTY0OUdWS1BhRkQ2M2N3LVgtR2JUQ29wSFUxSnl6dVdRSERFdFFfQUh6Q0hrT3RoRGNYRkJpYUtncU80MU5aOHBxNlRPNFEzNjJWUXJhU0s?oc=5" target="_blank">Comment le Medef veut financer une grande baisse des charges sur les salaires</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [La CFDT affûte ses armes en amont de l'élection présidentielle - Les Echos](https://news.google.com/rss/articles/CBMitwFBVV95cUxOUlg3VWFKQWdBMTMxbTMzZ1ZwcGFUTWZQejZDLTBYXzBJY3d1ME90TWlNM2ViMkRMTjlEcUxvRzluTUV1angwMkdyTGhwUGthZ0lDMy1YQWs4aV9qYXMzRE5OZUZMQm9vRG9MSG9jMG9UM1RLRFhfZllBMmpZaGZXM0EyV2tBNmREZGYzbDE1RWpTYzFReEo2SVZ2Yndzam9wWDFiR0JhNmZnbl83dDAxNUFoQTFTUjg?oc=5)
+
+`Mon, 22 Jun 2026 04:50:09 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxOUlg3VWFKQWdBMTMxbTMzZ1ZwcGFUTWZQejZDLTBYXzBJY3d1ME90TWlNM2ViMkRMTjlEcUxvRzluTUV1angwMkdyTGhwUGthZ0lDMy1YQWs4aV9qYXMzRE5OZUZMQm9vRG9MSG9jMG9UM1RLRFhfZllBMmpZaGZXM0EyV2tBNmREZGYzbDE1RWpTYzFReEo2SVZ2Yndzam9wWDFiR0JhNmZnbl83dDAxNUFoQTFTUjg?oc=5" target="_blank">La CFDT affûte ses armes en amont de l'élection présidentielle</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -674,14 +690,6 @@
 `Wed, 27 May 2026 08:01:45 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi5AFBVV95cUxOeEctck5UZGc0LVpiS3l0a0ZGaFVhcFJnNHRhaERPY2pFcXYwUWhfYlpyZUNVOEo4UFp3NVJwMVdfS3VLU1h4cG5BU3Z4ZFZQbTBNbWxHeDFiRXNuMkdXSDFxMGVHOGtJdi12YWttcXJkd09vRHNvdXFwc2dOT25GazRBLTlVVzM0OVdEaHRKWG5vMTZCdmhYbEFDaEtkRkpPZFNTaHFPVlQzUEdSSHpZTEpodmQyQXRfLWVuMEdmRVk2ZGpBQVhhODVpZGxta0dxb3pSZFdDd1hMYmp6d2ZQSEJheF8?oc=5" target="_blank">Franchises, taxis, ambulances… les pistes explosives de la Cour des comptes pour redresser la Sécu</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Syndicats : actualités, discours, élections et vidéos - Les Echos | Page 310 - Les Echos](https://news.google.com/rss/articles/CBMic0FVX3lxTFBjSGpWVU0zUTJkcTJJcDNYQlJzMjNpa0VSdzM3dXdiYllnSjEtbDZwand1QXhPSFJjRUROWG16TDJWMi1vN3JPZWRXM0RVcHhDeWpQdXBiUGZYeFZxSXg2aEpHMUFrOVVjbmJXbHljQ3NoRkk?oc=5)
-
-`Fri, 22 May 2026 14:31:12 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMic0FVX3lxTFBjSGpWVU0zUTJkcTJJcDNYQlJzMjNpa0VSdzM3dXdiYllnSjEtbDZwand1QXhPSFJjRUROWG16TDJWMi1vN3JPZWRXM0RVcHhDeWpQdXBiUGZYeFZxSXg2aEpHMUFrOVVjbmJXbHljQ3NoRkk?oc=5" target="_blank">Syndicats : actualités, discours, élections et vidéos - Les Echos | Page 310</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
