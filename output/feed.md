@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Mon, 22 Jun 2026 19:58:59 +0000`
-> 94 articles (30 derniers jours)
+> Derniere mise a jour : `Tue, 23 Jun 2026 08:51:34 +0000`
+> 95 articles (30 derniers jours)
+
+---
+
+### [EXCLUSIF - Déficit : les gouvernements qui l'ont creusé et les rares qui l'ont réduit - Les Echos](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYXJTT1Q4VUdaMlduUEZtdklHVWR6azkzYTBGN0tUSG02RzJiamstaEl5SmFXYXJBMlRoMWtxdFRUdXVZY0tRNWF1NDhmampBdEQ1UFUxVm9IOVR2OWFzbkU4WDVJd2xNOEx5NjhMTWZwRWNVT2lCbVFWVFFrbnhTT0Zfdks1dkQwamVmOWgtTHVWQ0tPTWFVWjNqZGZRemNGUlFMRW5HS0VHZFZ0cmVBUHZySzhIbHRYSHRacnlneDR0alZ1SUhOajN3bnZUYVZPeFlibndYZldCMUJZ?oc=5)
+
+`Tue, 23 Jun 2026 04:30:29 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYXJTT1Q4VUdaMlduUEZtdklHVWR6azkzYTBGN0tUSG02RzJiamstaEl5SmFXYXJBMlRoMWtxdFRUdXVZY0tRNWF1NDhmampBdEQ1UFUxVm9IOVR2OWFzbkU4WDVJd2xNOEx5NjhMTWZwRWNVT2lCbVFWVFFrbnhTT0Zfdks1dkQwamVmOWgtTHVWQ0tPTWFVWjNqZGZRemNGUlFMRW5HS0VHZFZ0cmVBUHZySzhIbHRYSHRacnlneDR0alZ1SUhOajN3bnZUYVZPeFlibndYZldCMUJZ?oc=5" target="_blank">EXCLUSIF - Déficit : les gouvernements qui l'ont creusé et les rares qui l'ont réduit</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
