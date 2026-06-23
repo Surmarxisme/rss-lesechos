@@ -1,7 +1,23 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Tue, 23 Jun 2026 14:31:07 +0000`
-> 95 articles (30 derniers jours)
+> Derniere mise a jour : `Tue, 23 Jun 2026 19:00:03 +0000`
+> 97 articles (30 derniers jours)
+
+---
+
+### [Budget des Armées : le Parlement valide une hausse de 36 milliards d'euros d'ici à 2030 - Les Echos](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOWGM0T3RXeC14NndFWUdlam1SbkwxMDJUZjFYUWE0SEstRExuSXFzSEhtb1M4TGxidDdNenJFMlpuc2N0U1ZNQ1ZmaEZNNXRJMVNZUDRHeC1BSnlwUENKRFBDNFZGTW1oRDRFSTNZWUpnbjNRRUpFN1VBWlJuVGJsSnJxYjBYbjZNT1lxV2tub3lKeW9VanV4TWpUZUNvbm1LdzNkOGFncnY0dVVxb0JQX3N5cDZOWnVUakJ6aGxqUTIzR2I2aGlTUy1GOVFKUmduSWlBcWVCZW5WRXRwRXhINmZB?oc=5)
+
+`Tue, 23 Jun 2026 17:39:42 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi4gFBVV95cUxOWGM0T3RXeC14NndFWUdlam1SbkwxMDJUZjFYUWE0SEstRExuSXFzSEhtb1M4TGxidDdNenJFMlpuc2N0U1ZNQ1ZmaEZNNXRJMVNZUDRHeC1BSnlwUENKRFBDNFZGTW1oRDRFSTNZWUpnbjNRRUpFN1VBWlJuVGJsSnJxYjBYbjZNT1lxV2tub3lKeW9VanV4TWpUZUNvbm1LdzNkOGFncnY0dVVxb0JQX3N5cDZOWnVUakJ6aGxqUTIzR2I2aGlTUy1GOVFKUmduSWlBcWVCZW5WRXRwRXhINmZB?oc=5" target="_blank">Budget des Armées : le Parlement valide une hausse de 36 milliards d'euros d'ici à 2030</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Les entreprises face à des retards de paiement au plus haut depuis douze ans - Les Echos](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPelVNSkZLaGxrRHJySU9waENHTG5Qekd6cFJUWW1rbkNOcVdzMlpFZmc0WGlZd1NPT0d0RVUtbHZKMjJnTmhvQlhkRmZSbjhWazJmQ1JlWXAyRjZyTHk1OWRmbVpRem03VW9lN1FPd296cWhmUDJSQWF6WTg0UzNYeVNkdC1JWmsxT3JPMkJrbF9tWURzRmIxUzN6ZXhPRk9pOU9INi1GRTB6bTAzUzdzUFlkRTFBbWdBZ05WalI2cjZCUUVVM3NweEJIcjNWVDR4RlE?oc=5)
+
+`Tue, 23 Jun 2026 16:16:19 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi0gFBVV95cUxPelVNSkZLaGxrRHJySU9waENHTG5Qekd6cFJUWW1rbkNOcVdzMlpFZmc0WGlZd1NPT0d0RVUtbHZKMjJnTmhvQlhkRmZSbjhWazJmQ1JlWXAyRjZyTHk1OWRmbVpRem03VW9lN1FPd296cWhmUDJSQWF6WTg0UzNYeVNkdC1JWmsxT3JPMkJrbF9tWURzRmIxUzN6ZXhPRk9pOU9INi1GRTB6bTAzUzdzUFlkRTFBbWdBZ05WalI2cjZCUUVVM3NweEJIcjNWVDR4RlE?oc=5" target="_blank">Les entreprises face à des retards de paiement au plus haut depuis douze ans</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
