@@ -1,7 +1,7 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Tue, 23 Jun 2026 12:10:55 +0000`
-> 96 articles (30 derniers jours)
+> Derniere mise a jour : `Tue, 23 Jun 2026 14:31:07 +0000`
+> 95 articles (30 derniers jours)
 
 ---
 
@@ -754,14 +754,6 @@
 `Mon, 25 May 2026 15:37:20 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxPQVV2NUUybDhsVGZzMkhzdGk4QzVnb3FNOVRVWHBjZW83Z3BONExGMVU4dzZZN3U0V3ppeXFrYkZwLTlzWGpFOW5KTTluUC05My00RG55aVA4UTBBcHBuVVVvVVNJeU5sYUNieERFZjhpTEJNeUhfQWY0MzF1UEd5UzFCZS1XSk95M3YxRzdPR1JUT2xSLTRIMXVsNXhwd0ZNZC1pclZhVmxEWDJSdjRpZV9fOG1oRGt4dnJtOXdUWnVmTTNvekpYZnFR?oc=5" target="_blank">CGT : Sophie Binet mise en examen pour diffamation après une plainte de Tefal</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Allocation de solidarité unifiée : le gouvernement va « retravailler » son projet de loi - Les Echos](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOS2tnWDQwa0ZSR1Z3eWlxbG5oZVpfLVh4bFlwUW1mVHpwOVFia1RzNzM1S2VJUmZiRmhIY3FuYkNUY2RmVDJ3eldtLTFjN3VpMS1YaDUxWVR1ZF9tcExpQ2R0djZiWHZWTW10WjhSVVlJajBXY2xGMUJySlFVWXROV1dyYXNDV20xVDlva3hrUms5azgxbnhQTERVTlp0VnRKZFdqMTR1aHZvd3YwbkxOYmhUMDFRM0V5Yk5YRGZSbTlmaEF0WFU5aW5UVHRvVDJoWndr?oc=5)
-
-`Sun, 24 May 2026 12:50:53 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi0wFBVV95cUxOS2tnWDQwa0ZSR1Z3eWlxbG5oZVpfLVh4bFlwUW1mVHpwOVFia1RzNzM1S2VJUmZiRmhIY3FuYkNUY2RmVDJ3eldtLTFjN3VpMS1YaDUxWVR1ZF9tcExpQ2R0djZiWHZWTW10WjhSVVlJajBXY2xGMUJySlFVWXROV1dyYXNDV20xVDlva3hrUms5azgxbnhQTERVTlp0VnRKZFdqMTR1aHZvd3YwbkxOYmhUMDFRM0V5Yk5YRGZSbTlmaEF0WFU5aW5UVHRvVDJoWndr?oc=5" target="_blank">Allocation de solidarité unifiée : le gouvernement va « retravailler » son projet de loi</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
