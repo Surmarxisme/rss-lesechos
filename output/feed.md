@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Tue, 23 Jun 2026 08:51:34 +0000`
-> 95 articles (30 derniers jours)
+> Derniere mise a jour : `Tue, 23 Jun 2026 12:10:55 +0000`
+> 96 articles (30 derniers jours)
+
+---
+
+### [En France, l'Insee pointe une dégradation continue et préoccupante du marché de l'emploi - Les Echos](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOSmNtUnBsbDgzT04yMEJtV1RxS2lyTlNRbnNKRENBS3RHV2VSNHZBX0ZYRXg2QUtSbTRWYzd0MVctamFFdGlhalFyRlM0UFNoeGFvQTB0emQ2QWZ5WXpjVEtwbVlpbFBrLWRqMDFnNlZmZFFjTDl5U0N3RGFUQzRVRDZUenNxRF80UXRXQWFKTEhtRVFLNWFrdGhTSXdEVm13andYY1RQUS1SZ2k2cFdvLW83ajc2R09nQUduUmo0a2dLUmZ4b2Y1NU1oeUNnSkozME1GenpnWWRCamp3M0E?oc=5)
+
+`Tue, 23 Jun 2026 09:25:58 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi3gFBVV95cUxOSmNtUnBsbDgzT04yMEJtV1RxS2lyTlNRbnNKRENBS3RHV2VSNHZBX0ZYRXg2QUtSbTRWYzd0MVctamFFdGlhalFyRlM0UFNoeGFvQTB0emQ2QWZ5WXpjVEtwbVlpbFBrLWRqMDFnNlZmZFFjTDl5U0N3RGFUQzRVRDZUenNxRF80UXRXQWFKTEhtRVFLNWFrdGhTSXdEVm13andYY1RQUS1SZ2k2cFdvLW83ajc2R09nQUduUmo0a2dLUmZ4b2Y1NU1oeUNnSkozME1GenpnWWRCamp3M0E?oc=5" target="_blank">En France, l'Insee pointe une dégradation continue et préoccupante du marché de l'emploi</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
