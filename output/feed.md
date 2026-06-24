@@ -1,7 +1,7 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Wed, 24 Jun 2026 08:47:18 +0000`
-> 97 articles (30 derniers jours)
+> Derniere mise a jour : `Wed, 24 Jun 2026 11:49:40 +0000`
+> 96 articles (30 derniers jours)
 
 ---
 
@@ -770,13 +770,5 @@
 `Mon, 25 May 2026 15:37:20 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxPQVV2NUUybDhsVGZzMkhzdGk4QzVnb3FNOVRVWHBjZW83Z3BONExGMVU4dzZZN3U0V3ppeXFrYkZwLTlzWGpFOW5KTTluUC05My00RG55aVA4UTBBcHBuVVVvVVNJeU5sYUNieERFZjhpTEJNeUhfQWY0MzF1UEd5UzFCZS1XSk95M3YxRzdPR1JUT2xSLTRIMXVsNXhwd0ZNZC1pclZhVmxEWDJSdjRpZV9fOG1oRGt4dnJtOXdUWnVmTTNvekpYZnFR?oc=5" target="_blank">CGT : Sophie Binet mise en examen pour diffamation après une plainte de Tefal</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Allègements de charges : le gouvernement a raison de « reprendre le contrôle » - Les Echos](https://news.google.com/rss/articles/CBMixgFBVV95cUxOSDc4eWxOemdrSVJ2NHhzdUVHQUdPeUd5cm9rekZZa3hpS0R6VU1Qa29nYXMzTEJnVTZYcTY1QXliMDN4XzlXQnY1aXdGSDJUd2dPWFI0NlFicmo3eS15czhNLWdtMzFJakVHVUI0U29BYl9tMGVjcWs2ZWdrb1FKQkpDdDNRN20xdlZFVkkzZnFSTWFVQmp6aWp3WVBVOEtMVEZSNHV3cU9hYm9oTzZTc2t3NGNZMFVZclhWdUlwYlp6SkRVb2c?oc=5)
-
-`Mon, 25 May 2026 09:34:53 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxOSDc4eWxOemdrSVJ2NHhzdUVHQUdPeUd5cm9rekZZa3hpS0R6VU1Qa29nYXMzTEJnVTZYcTY1QXliMDN4XzlXQnY1aXdGSDJUd2dPWFI0NlFicmo3eS15czhNLWdtMzFJakVHVUI0U29BYl9tMGVjcWs2ZWdrb1FKQkpDdDNRN20xdlZFVkkzZnFSTWFVQmp6aWp3WVBVOEtMVEZSNHV3cU9hYm9oTzZTc2t3NGNZMFVZclhWdUlwYlp6SkRVb2c?oc=5" target="_blank">Allègements de charges : le gouvernement a raison de « reprendre le contrôle »</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
