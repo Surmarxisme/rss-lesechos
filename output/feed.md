@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Wed, 24 Jun 2026 14:10:23 +0000`
+> Derniere mise a jour : `Wed, 24 Jun 2026 18:26:15 +0000`
 > 96 articles (30 derniers jours)
+
+---
+
+### [Impôts : l'étude qui veut couper court au débat sur la taxe Zucman avant la présidentielle - Les Echos](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNaUZOYy1hQWkyWEJrSTFkTWN3N0hYRmVhcnJzbGhxUlowUFU3VlJMZlIyWV9vWWtaVllWQVJDcWJINDRZVkhPOHVzc2ltYWpVQ3ZxTkhObUtRUGdCUnZ3V2I4clAtaEphZFMxNThDSUlMaHJIbGNqVjRvQ290T21oeHBlRGZWbi1ZS0dqSmltR0xUaHZHajJ0bGdDZGJVZFp1aGpFdW51MEpON19FclcwZHMyRjlxVDlaMG5lbjctSmF2S0w1YVNiMl9sSnJzOVhIWUgyV2NlR1NzVmRWUTg2c2FSWjFaWXM?oc=5)
+
+`Wed, 24 Jun 2026 15:48:38 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi5wFBVV95cUxNaUZOYy1hQWkyWEJrSTFkTWN3N0hYRmVhcnJzbGhxUlowUFU3VlJMZlIyWV9vWWtaVllWQVJDcWJINDRZVkhPOHVzc2ltYWpVQ3ZxTkhObUtRUGdCUnZ3V2I4clAtaEphZFMxNThDSUlMaHJIbGNqVjRvQ290T21oeHBlRGZWbi1ZS0dqSmltR0xUaHZHajJ0bGdDZGJVZFp1aGpFdW51MEpON19FclcwZHMyRjlxVDlaMG5lbjctSmF2S0w1YVNiMl9sSnJzOVhIWUgyV2NlR1NzVmRWUTg2c2FSWjFaWXM?oc=5" target="_blank">Impôts : l'étude qui veut couper court au débat sur la taxe Zucman avant la présidentielle</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -762,13 +770,5 @@
 `Tue, 26 May 2026 04:00:09 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi1gFBVV95cUxNaUNMa24ybUpWMTFpYlUwUk1kZGhDYXhWNVk3b2gtSWY5by1xWmt3a19yMVhEckJ5U1U5UlhLVllzS1JyRGN5dmlkclhzaGEtYXdub2JzZElpbElVUXJOSHJDUTVrbVdDalNrTXd1MHc5NnVHNDBZdFEtYVRZcnJ0V3JMRDZZbUhqd3ZCYnhKRnZtWVZiYlpOc1VvMVVwcnBNb1Mtam5XNmt5VGIzWktNSGtKakF0S0EtQV9uYXE3dlVFbFBidnUzTDlIVFFIbEE0LWthdFhR?oc=5" target="_blank">Le plaidoyer du patron des Hôpitaux de Paris pour fidéliser les soignants à l'hôpital</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [CGT : Sophie Binet mise en examen pour diffamation après une plainte de Tefal - Les Echos](https://news.google.com/rss/articles/CBMiygFBVV95cUxPQVV2NUUybDhsVGZzMkhzdGk4QzVnb3FNOVRVWHBjZW83Z3BONExGMVU4dzZZN3U0V3ppeXFrYkZwLTlzWGpFOW5KTTluUC05My00RG55aVA4UTBBcHBuVVVvVVNJeU5sYUNieERFZjhpTEJNeUhfQWY0MzF1UEd5UzFCZS1XSk95M3YxRzdPR1JUT2xSLTRIMXVsNXhwd0ZNZC1pclZhVmxEWDJSdjRpZV9fOG1oRGt4dnJtOXdUWnVmTTNvekpYZnFR?oc=5)
-
-`Mon, 25 May 2026 15:37:20 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxPQVV2NUUybDhsVGZzMkhzdGk4QzVnb3FNOVRVWHBjZW83Z3BONExGMVU4dzZZN3U0V3ppeXFrYkZwLTlzWGpFOW5KTTluUC05My00RG55aVA4UTBBcHBuVVVvVVNJeU5sYUNieERFZjhpTEJNeUhfQWY0MzF1UEd5UzFCZS1XSk95M3YxRzdPR1JUT2xSLTRIMXVsNXhwd0ZNZC1pclZhVmxEWDJSdjRpZV9fOG1oRGt4dnJtOXdUWnVmTTNvekpYZnFR?oc=5" target="_blank">CGT : Sophie Binet mise en examen pour diffamation après une plainte de Tefal</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
