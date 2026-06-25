@@ -1,7 +1,39 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Thu, 25 Jun 2026 14:07:32 +0000`
-> 97 articles (30 derniers jours)
+> Derniere mise a jour : `Thu, 25 Jun 2026 18:59:46 +0000`
+> 100 articles (30 derniers jours)
+
+---
+
+### [« Pour l'instant, ça tient » : les Ehpad face au défi de la canicule - Les Echos](https://news.google.com/rss/articles/CBMitgFBVV95cUxPb2pTS3lPTUFQeEtFWXRsQUNqcGEtSDJFSm96eF94WUhkMnFMX19NRzVaTHVlek05N1ljMkRXOElFN3Jrclp4Wmk0dXM0M2NhMnpWVWI2TVl4RU84b095VUo2NEtCSWU1Y25xOTdjLWlOZ0d4Y1YySDcwb2tYcUJpR3VDSHNRdHhqMW91UktFQnRNSjdrZkZLcUllR0hfTXIxM1NoWVVnRGRrX3FkZms4eHdnNDMzUQ?oc=5)
+
+`Thu, 25 Jun 2026 17:02:54 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxPb2pTS3lPTUFQeEtFWXRsQUNqcGEtSDJFSm96eF94WUhkMnFMX19NRzVaTHVlek05N1ljMkRXOElFN3Jrclp4Wmk0dXM0M2NhMnpWVWI2TVl4RU84b095VUo2NEtCSWU1Y25xOTdjLWlOZ0d4Y1YySDcwb2tYcUJpR3VDSHNRdHhqMW91UktFQnRNSjdrZkZLcUllR0hfTXIxM1NoWVVnRGRrX3FkZms4eHdnNDMzUQ?oc=5" target="_blank">« Pour l'instant, ça tient » : les Ehpad face au défi de la canicule</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Marylise Léon plébiscitée à la tête d'une CFDT inquiète pour la démocratie - Les Echos](https://news.google.com/rss/articles/CBMixwFBVV95cUxPYWRReFo1bHJWRVI4R0ZyUXo2MkVNUzNMbHpkVEF3Vjh1Ym9lMWRjQ0doVTNvaHl5R3BIRjFvNXlwbUZsVkI5c1IwaXVrZEoyNTB0SkpYbmR5YkdmV25FY0dPWGNvcVoyRFZTR0V0ZXN0cDg1RGJYRFBUVFVTVEswSG5jY2dvWUhOS2dPb2hfbzBVWVFSZWhqaVBLRnpKRjE3ZG5TcWFMTlNsWXhTUjNoek9MUndBNkpIUW5pcl96TnMwTnp0VWcw?oc=5)
+
+`Thu, 25 Jun 2026 16:25:41 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMixwFBVV95cUxPYWRReFo1bHJWRVI4R0ZyUXo2MkVNUzNMbHpkVEF3Vjh1Ym9lMWRjQ0doVTNvaHl5R3BIRjFvNXlwbUZsVkI5c1IwaXVrZEoyNTB0SkpYbmR5YkdmV25FY0dPWGNvcVoyRFZTR0V0ZXN0cDg1RGJYRFBUVFVTVEswSG5jY2dvWUhOS2dPb2hfbzBVWVFSZWhqaVBLRnpKRjE3ZG5TcWFMTlNsWXhTUjNoek9MUndBNkpIUW5pcl96TnMwTnp0VWcw?oc=5" target="_blank">Marylise Léon plébiscitée à la tête d'une CFDT inquiète pour la démocratie</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Export : Business France contraint de se réorganiser face à la baisse de sa subvention - Les Echos](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUmxKQ2dOTjNGTm5QTUd4dG9VYnVrR1lmNE5pdWh3OTBrNDFKNXVIc01Qc0pRQXgwNFlJaTVUVFIySUo5QkFYSWJ0TFExeHJ6T1dsODNsWVc4MFVLS0pmTlU2dnc3SVdaRVNhRDNJRXRSdjBjUTM5aTBxbDJhMDFWV05rVDFMTVdCSG92cFdjZm9OckJFVjRvU202ZmY1R3dlbXFsNC1Hc0JBaU1UX3dzbFdJWHkwS1ZsQ3ZfQ3RLLWVKb2lTTU1ONjFUZzc3TEN5RjVfdXY3NkMzamNw?oc=5)
+
+`Thu, 25 Jun 2026 17:02:45 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUmxKQ2dOTjNGTm5QTUd4dG9VYnVrR1lmNE5pdWh3OTBrNDFKNXVIc01Qc0pRQXgwNFlJaTVUVFIySUo5QkFYSWJ0TFExeHJ6T1dsODNsWVc4MFVLS0pmTlU2dnc3SVdaRVNhRDNJRXRSdjBjUTM5aTBxbDJhMDFWV05rVDFMTVdCSG92cFdjZm9OckJFVjRvU202ZmY1R3dlbXFsNC1Hc0JBaU1UX3dzbFdJWHkwS1ZsQ3ZfQ3RLLWVKb2lTTU1ONjFUZzc3TEN5RjVfdXY3NkMzamNw?oc=5" target="_blank">Export : Business France contraint de se réorganiser face à la baisse de sa subvention</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Canicule : le système de santé en état d'alerte - Les Echos](https://news.google.com/rss/articles/CBMioAFBVV95cUxNZm5GNTBxZW1zZGNScjZVT2NvT2ZicEFWblp5S2lIUjlYUXNzdnlIY0ZNRUxJSXNvNFp4SmZPZ1cwYm9tWnVSRVR3bzN4QlY0bGI5dW5QdXR1V0NuWnVXUkR3Y2FENmd4ZFFlSW1pSXZiNHBwaDhDS091V1NPU0Q5TjRYOHNtOXMxUm11bWJNdmRobUVTbUV1Q2JCRDZUUUZ2?oc=5)
+
+`Thu, 25 Jun 2026 16:03:14 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMioAFBVV95cUxNZm5GNTBxZW1zZGNScjZVT2NvT2ZicEFWblp5S2lIUjlYUXNzdnlIY0ZNRUxJSXNvNFp4SmZPZ1cwYm9tWnVSRVR3bzN4QlY0bGI5dW5QdXR1V0NuWnVXUkR3Y2FENmd4ZFFlSW1pSXZiNHBwaDhDS091V1NPU0Q5TjRYOHNtOXMxUm11bWJNdmRobUVTbUV1Q2JCRDZUUUZ2?oc=5" target="_blank">Canicule : le système de santé en état d'alerte</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -770,13 +802,5 @@
 `Wed, 27 May 2026 08:01:45 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi5AFBVV95cUxOeEctck5UZGc0LVpiS3l0a0ZGaFVhcFJnNHRhaERPY2pFcXYwUWhfYlpyZUNVOEo4UFp3NVJwMVdfS3VLU1h4cG5BU3Z4ZFZQbTBNbWxHeDFiRXNuMkdXSDFxMGVHOGtJdi12YWttcXJkd09vRHNvdXFwc2dOT25GazRBLTlVVzM0OVdEaHRKWG5vMTZCdmhYbEFDaEtkRkpPZFNTaHFPVlQzUEdSSHpZTEpodmQyQXRfLWVuMEdmRVk2ZGpBQVhhODVpZGxta0dxb3pSZFdDd1hMYmp6d2ZQSEJheF8?oc=5" target="_blank">Franchises, taxis, ambulances… les pistes explosives de la Cour des comptes pour redresser la Sécu</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [L'étonnante initiative de Bercy pour préparer le budget 2027 - Les Echos](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVWRXeHdoVHlYRTNkS3NfX1JqcTFOSHFhOGFwQldBQ0Z3Y0ZHUy1EeElhZ3o5LTJsSVk3WnJ5d2prLWN1Q0N6QThwR0ROMmI3enFMb0s4ckFhbFVGM3dGUnFya1hfWHRtZVJrU2R1Qm4xUmpuam1rOGlIU0NJRmNxT2MzYng0T003MlJHbDNaS1FpWHF0SjBHazlCTWFzM0tocFhRLW5maXZBN1dYQVpaYUQ3NmZDM1l5UUM2VldRYTB4Zw?oc=5)
-
-`Tue, 26 May 2026 15:59:27 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVWRXeHdoVHlYRTNkS3NfX1JqcTFOSHFhOGFwQldBQ0Z3Y0ZHUy1EeElhZ3o5LTJsSVk3WnJ5d2prLWN1Q0N6QThwR0ROMmI3enFMb0s4ckFhbFVGM3dGUnFya1hfWHRtZVJrU2R1Qm4xUmpuam1rOGlIU0NJRmNxT2MzYng0T003MlJHbDNaS1FpWHF0SjBHazlCTWFzM0tocFhRLW5maXZBN1dYQVpaYUQ3NmZDM1l5UUM2VldRYTB4Zw?oc=5" target="_blank">L'étonnante initiative de Bercy pour préparer le budget 2027</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
