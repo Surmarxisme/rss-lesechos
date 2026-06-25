@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Thu, 25 Jun 2026 08:42:24 +0000`
-> 96 articles (30 derniers jours)
+> Derniere mise a jour : `Thu, 25 Jun 2026 11:44:04 +0000`
+> 97 articles (30 derniers jours)
+
+---
+
+### [Déficit : face à une situation « alarmante », la Cour des comptes appelle à des mesures « fortes et rapides » - Les Echos](https://news.google.com/rss/articles/CBMi9gFBVV95cUxOQjg0TEJzVjdZWnREaTFseUxla3VHOFItc25hWDRVTnhkX2c2MlNjSmlXQnB4ZXRUdWxjVmt0WS1aSnpkak5UOEtJRXEyOE5vMF96OEZmRjZGTWJqVVp2Yi1nUlQ4dnR6bjhmZHlESDJsRWFEdE5aTThiR1lqalVwaFIyX2R6eU5kVHJzNmpjWDRKWVZSaXIzQ0NFQUpkZTVmWEVLX2M0ajJMZVRtQ3Z5Z1VZaDZNM1A0WWpGT2VvcVg2ZGxRazZjUjQwVDhVUGJVc3BvUmR2ZEdDeXdTLXFkcjZ5aThUSVlGY1FmdjVEc1hpam1rLWc?oc=5)
+
+`Thu, 25 Jun 2026 10:00:09 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi9gFBVV95cUxOQjg0TEJzVjdZWnREaTFseUxla3VHOFItc25hWDRVTnhkX2c2MlNjSmlXQnB4ZXRUdWxjVmt0WS1aSnpkak5UOEtJRXEyOE5vMF96OEZmRjZGTWJqVVp2Yi1nUlQ4dnR6bjhmZHlESDJsRWFEdE5aTThiR1lqalVwaFIyX2R6eU5kVHJzNmpjWDRKWVZSaXIzQ0NFQUpkZTVmWEVLX2M0ajJMZVRtQ3Z5Z1VZaDZNM1A0WWpGT2VvcVg2ZGxRazZjUjQwVDhVUGJVc3BvUmR2ZEdDeXdTLXFkcjZ5aThUSVlGY1FmdjVEc1hpam1rLWc?oc=5" target="_blank">Déficit : face à une situation « alarmante », la Cour des comptes appelle à des mesures « fortes et rapides »</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
