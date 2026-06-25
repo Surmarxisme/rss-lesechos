@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Wed, 24 Jun 2026 18:26:15 +0000`
+> Derniere mise a jour : `Thu, 25 Jun 2026 08:42:24 +0000`
 > 96 articles (30 derniers jours)
+
+---
+
+### [La CPME veut élargir sa base en se rebaptisant « Les entrepreneurs » - Les Echos](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMWg1MVQ3XzhhRTFBdTVleV9CdzU4ZXpTMmtIRHFjNEpuYmN5dGE1c1JxdEY3dDQ5UnR6ZEN4b3VaYW4tNF9SUXl2Qy1RYkY5U2l6NG9qelBwVy13N0ZrOEhJZjZGb2dfa1RVdU9MSmdnSVphMTYtc2JzNC1SQ3NYZVotNkQzckIzR2tReUlHWGFGYzlNZVZQZU5BQlY4LVpSeVZfcG83LXVheTZvTUZXdWJQVndSeXRyblFR?oc=5)
+
+`Thu, 25 Jun 2026 06:02:56 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMWg1MVQ3XzhhRTFBdTVleV9CdzU4ZXpTMmtIRHFjNEpuYmN5dGE1c1JxdEY3dDQ5UnR6ZEN4b3VaYW4tNF9SUXl2Qy1RYkY5U2l6NG9qelBwVy13N0ZrOEhJZjZGb2dfa1RVdU9MSmdnSVphMTYtc2JzNC1SQ3NYZVotNkQzckIzR2tReUlHWGFGYzlNZVZQZU5BQlY4LVpSeVZfcG83LXVheTZvTUZXdWJQVndSeXRyblFR?oc=5" target="_blank">La CPME veut élargir sa base en se rebaptisant « Les entrepreneurs »</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -762,13 +770,5 @@
 `Tue, 26 May 2026 13:05:15 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdllZcmpOU0pDR2w1VjlxSV9KWEt0X3dVaElnbXJyNnVQZWNmd0Q5NVJLTlJadzgtWVppMFhjeWkzeDF2SmlCNHNfMVhHYWhadjI0dm5hWmdtZnplX0p3X0xfVlhJVnA4bGFsQ0lMNlFPZUpnUE9fam9rZDNQT1R1ZTV0VWQwcGJCd1lTSHA1Nkw0WkNkX0U0QjlDa1NFaVV1Qi11QlZPUXR2YndqZ21kMUhnOXZJVFVIRU9SdnE4MWRyRmU3OTEwLTFFVjFWeWdfMFdlX1cxai1zT1VlRE5V?oc=5" target="_blank">Nous voulons rassembler largement » : la CPME donne rendez-vous aux patrons au Parc des Princes et défie le Medef</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Le plaidoyer du patron des Hôpitaux de Paris pour fidéliser les soignants à l'hôpital - Les Echos](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNaUNMa24ybUpWMTFpYlUwUk1kZGhDYXhWNVk3b2gtSWY5by1xWmt3a19yMVhEckJ5U1U5UlhLVllzS1JyRGN5dmlkclhzaGEtYXdub2JzZElpbElVUXJOSHJDUTVrbVdDalNrTXd1MHc5NnVHNDBZdFEtYVRZcnJ0V3JMRDZZbUhqd3ZCYnhKRnZtWVZiYlpOc1VvMVVwcnBNb1Mtam5XNmt5VGIzWktNSGtKakF0S0EtQV9uYXE3dlVFbFBidnUzTDlIVFFIbEE0LWthdFhR?oc=5)
-
-`Tue, 26 May 2026 04:00:09 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi1gFBVV95cUxNaUNMa24ybUpWMTFpYlUwUk1kZGhDYXhWNVk3b2gtSWY5by1xWmt3a19yMVhEckJ5U1U5UlhLVllzS1JyRGN5dmlkclhzaGEtYXdub2JzZElpbElVUXJOSHJDUTVrbVdDalNrTXd1MHc5NnVHNDBZdFEtYVRZcnJ0V3JMRDZZbUhqd3ZCYnhKRnZtWVZiYlpOc1VvMVVwcnBNb1Mtam5XNmt5VGIzWktNSGtKakF0S0EtQV9uYXE3dlVFbFBidnUzTDlIVFFIbEE0LWthdFhR?oc=5" target="_blank">Le plaidoyer du patron des Hôpitaux de Paris pour fidéliser les soignants à l'hôpital</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
