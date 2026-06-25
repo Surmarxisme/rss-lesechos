@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Thu, 25 Jun 2026 11:44:04 +0000`
+> Derniere mise a jour : `Thu, 25 Jun 2026 14:07:32 +0000`
 > 97 articles (30 derniers jours)
+
+---
+
+### [« L'étouffement par la dette n'est pas un risque, c'est une réalité » : la Cour des comptes redoute une perte de contrôle des finances publiques - Les Echos](https://news.google.com/rss/articles/CBMipgJBVV95cUxNc1NxUThJamdWLVVpMEdCSDZyVTlCUjA0SUsxR2VVM1ZvQXFQMUlqeS03XzhKYmx4aEhPT3FoeU1mWjhZMml6X2RvMVlMUmk1ZWxmUDFic01zRFN6QjhaQkFoRmtmNy1TOHJ6MDhmZlh2S3NkUE92eEFqNGtGUnEtVDZaaGtoSXVnYTYtV1JRdXFLS2tvOXYtaF9ybDZaaVlzNVROOFp5d3dxYUJnbHBSR0FKcFcwUllvekJhTlh0d3FyMzhESzFLUl9QRzZSNXJjVlFUTG9FS3dkODJtNnAteklFYVVtWEhXam0zQlFJcFZRZU9CazF1OHVsSVUyd0taMFU1WHlhZHBwUmNJelk3SWZtczZhLUk2OVlaUFhodk9taG9uZnc?oc=5)
+
+`Thu, 25 Jun 2026 13:00:48 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMipgJBVV95cUxNc1NxUThJamdWLVVpMEdCSDZyVTlCUjA0SUsxR2VVM1ZvQXFQMUlqeS03XzhKYmx4aEhPT3FoeU1mWjhZMml6X2RvMVlMUmk1ZWxmUDFic01zRFN6QjhaQkFoRmtmNy1TOHJ6MDhmZlh2S3NkUE92eEFqNGtGUnEtVDZaaGtoSXVnYTYtV1JRdXFLS2tvOXYtaF9ybDZaaVlzNVROOFp5d3dxYUJnbHBSR0FKcFcwUllvekJhTlh0d3FyMzhESzFLUl9QRzZSNXJjVlFUTG9FS3dkODJtNnAteklFYVVtWEhXam0zQlFJcFZRZU9CazF1OHVsSVUyd0taMFU1WHlhZHBwUmNJelk3SWZtczZhLUk2OVlaUFhodk9taG9uZnc?oc=5" target="_blank">« L'étouffement par la dette n'est pas un risque, c'est une réalité » : la Cour des comptes redoute une perte de contrôle des finances publiques</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -770,13 +778,5 @@
 `Tue, 26 May 2026 15:59:27 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVWRXeHdoVHlYRTNkS3NfX1JqcTFOSHFhOGFwQldBQ0Z3Y0ZHUy1EeElhZ3o5LTJsSVk3WnJ5d2prLWN1Q0N6QThwR0ROMmI3enFMb0s4ckFhbFVGM3dGUnFya1hfWHRtZVJrU2R1Qm4xUmpuam1rOGlIU0NJRmNxT2MzYng0T003MlJHbDNaS1FpWHF0SjBHazlCTWFzM0tocFhRLW5maXZBN1dYQVpaYUQ3NmZDM1l5UUM2VldRYTB4Zw?oc=5" target="_blank">L'étonnante initiative de Bercy pour préparer le budget 2027</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Nous voulons rassembler largement » : la CPME donne rendez-vous aux patrons au Parc des Princes et défie le Medef - Les Echos](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdllZcmpOU0pDR2w1VjlxSV9KWEt0X3dVaElnbXJyNnVQZWNmd0Q5NVJLTlJadzgtWVppMFhjeWkzeDF2SmlCNHNfMVhHYWhadjI0dm5hWmdtZnplX0p3X0xfVlhJVnA4bGFsQ0lMNlFPZUpnUE9fam9rZDNQT1R1ZTV0VWQwcGJCd1lTSHA1Nkw0WkNkX0U0QjlDa1NFaVV1Qi11QlZPUXR2YndqZ21kMUhnOXZJVFVIRU9SdnE4MWRyRmU3OTEwLTFFVjFWeWdfMFdlX1cxai1zT1VlRE5V?oc=5)
-
-`Tue, 26 May 2026 13:05:15 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdllZcmpOU0pDR2w1VjlxSV9KWEt0X3dVaElnbXJyNnVQZWNmd0Q5NVJLTlJadzgtWVppMFhjeWkzeDF2SmlCNHNfMVhHYWhadjI0dm5hWmdtZnplX0p3X0xfVlhJVnA4bGFsQ0lMNlFPZUpnUE9fam9rZDNQT1R1ZTV0VWQwcGJCd1lTSHA1Nkw0WkNkX0U0QjlDa1NFaVV1Qi11QlZPUXR2YndqZ21kMUhnOXZJVFVIRU9SdnE4MWRyRmU3OTEwLTFFVjFWeWdfMFdlX1cxai1zT1VlRE5V?oc=5" target="_blank">Nous voulons rassembler largement » : la CPME donne rendez-vous aux patrons au Parc des Princes et défie le Medef</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
