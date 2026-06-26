@@ -1,7 +1,7 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Thu, 25 Jun 2026 18:59:46 +0000`
-> 100 articles (30 derniers jours)
+> Derniere mise a jour : `Fri, 26 Jun 2026 08:43:45 +0000`
+> 95 articles (30 derniers jours)
 
 ---
 
@@ -749,14 +749,6 @@
 
 ---
 
-### [Production industrielle : chiffres, analyses et vidéos - Les Echos | Page 143 - Les Echos](https://news.google.com/rss/articles/CBMijAFBVV95cUxQS1BKMGt6Q21MR055NlRVRTZFZDluRlI5OXBkbW1yOXF6bmZSQlpSdHRHMlRHa2s3LUJWU05MQ3lGZHRYNTVYUFJmd1BqRWFOeXNKZUEzMEs2VGxzNWJrTlRVbklGNjc1NjFBVEZPczNoZV81R0loc2dvNmNlT0stU0FoRDNSek9zZ1pmZQ?oc=5)
-
-`Wed, 27 May 2026 05:42:32 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMijAFBVV95cUxQS1BKMGt6Q21MR055NlRVRTZFZDluRlI5OXBkbW1yOXF6bmZSQlpSdHRHMlRHa2s3LUJWU05MQ3lGZHRYNTVYUFJmd1BqRWFOeXNKZUEzMEs2VGxzNWJrTlRVbklGNjc1NjFBVEZPczNoZV81R0loc2dvNmNlT0stU0FoRDNSek9zZ1pmZQ?oc=5" target="_blank">Production industrielle : chiffres, analyses et vidéos - Les Echos | Page 143</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
 ### [EXCLUSIF - Guerre au Moyen-Orient : une facture déjà proche de 4 milliards pour la Sécurité sociale - Les Echos](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPLXZlaUdhSEp3Z3N2RmNXZ25vUnFyak16NWlEcmFrTDdKWUtTbXdneTY3WHhvbW5kakdwSS0xVDlKbWFEVHcxaW1yZk9nM2g5SkV2Z3JJc3IzUEpoNDFyazRUcXY2MjRENDJnNXZ1YjZlcWlUelg0V1JQRWJWOFZGUkZ0WFY5cFNPOXB1N3ZpVXVyZWtQYlBZS2pQWGNQaVlCbHMxRG9PeVJiTmdfanRiWXlGUlQ0Sm1GR0ZiUnpLclQyLXRmWmRadHZyTWp1SHBaV2Uzcy1YNlY?oc=5)
 
 `Wed, 27 May 2026 14:39:20 GMT`
@@ -770,37 +762,5 @@
 `Wed, 27 May 2026 10:09:15 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi4AFBVV95cUxPX2c0LVg5MG9PTkhCSUdkX2U0LUViSnluNHhTOFVSMHNNd1pRYjE3NXVEMUw5cmFjSEd3VjdiMnNXVXIwVGlSMVJTRVVoNjhTTHdrX3ZxdVNubGJUX0NSSFlCQUtpbVhJdWNJMTctR0s4Rkk1bzNfZGxXOUpwMEVVVVlWTFlmYU4xdjFqSzM3YjhTZktwZWdLZ0JRRzJfMlgtWXhRVjFNeDZCRVNYaU9nWXlJUHpSY1ZXQ3RjNF9UVHNmZUoydExabURRbmo0OE9LTnRGNWFVZGRmM0g4OFdZeg?oc=5" target="_blank">Prix des carburants : les « grands rouleurs » peuvent commencer à réclamer l'aide de 100 euros</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Lobbying : dix ans après la loi Sapin II, l'encadrement reste ignoré des Français - Les Echos](https://news.google.com/rss/articles/CBMizAFBVV95cUxPX0hob2RoUER5LWpmc3NRMFVqcWZneHVPaTJ6MXhuejNmYmxCd1hSUm9YOXFHNDZYci00VVcxVFpUUHEtUjZlZHROWXM3SE5GaUJYSjNZVGttb0I3Q0Etdm5Ec0stZERRdHJrTUR2REVveFhuNTh6d2xvSUhRNU5XMko5cy1NdXhHVmg5bDZaajh4TWdSZjRTblJmVUozQXU3WUZaSUs0Znk5aFk3a2FiTW9EZGZWdk50cnhuS1JPNDdlNjdnNmdzQmxEM08?oc=5)
-
-`Wed, 27 May 2026 04:30:08 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMizAFBVV95cUxPX0hob2RoUER5LWpmc3NRMFVqcWZneHVPaTJ6MXhuejNmYmxCd1hSUm9YOXFHNDZYci00VVcxVFpUUHEtUjZlZHROWXM3SE5GaUJYSjNZVGttb0I3Q0Etdm5Ec0stZERRdHJrTUR2REVveFhuNTh6d2xvSUhRNU5XMko5cy1NdXhHVmg5bDZaajh4TWdSZjRTblJmVUozQXU3WUZaSUs0Znk5aFk3a2FiTW9EZGZWdk50cnhuS1JPNDdlNjdnNmdzQmxEM08?oc=5" target="_blank">Lobbying : dix ans après la loi Sapin II, l'encadrement reste ignoré des Français</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Ruptures conventionnelles : le projet de loi durcissant les règles d'indemnisation en passe d'être définitivement adopté - Les Echos](https://news.google.com/rss/articles/CBMigAJBVV95cUxOMlRiM3hRRUNjemEyUnZzZFV0X2RaM0NKRVRuSTEzX0luUVpRTDdBYTZhUFJFYXpJVE9ybW1zTGVYa1JhNTB3SFNwdTZ5cmtEM2ZIX2JEcTJGQmpqdlc2amRfRTlfMU1WNFZLRUJJY3R0UHlFVFpUTDY2cnd5MU9VeTc4T0JIVHBrd21TN1hqVS11bGFWYWlkdUZENl9KRlVpcjJEM1p3dWlTdlBZYmVfNTVXOVpSSU9BVFpCNGlhUnpabUZKdkh3alhpRXJlbzlfb0w0YldvLXRLSFRJWnpuUjdwYXNNOVY0WUJjR1RwQzcwV2syR012a1d4UlBmdlA0?oc=5)
-
-`Tue, 26 May 2026 19:20:00 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMigAJBVV95cUxOMlRiM3hRRUNjemEyUnZzZFV0X2RaM0NKRVRuSTEzX0luUVpRTDdBYTZhUFJFYXpJVE9ybW1zTGVYa1JhNTB3SFNwdTZ5cmtEM2ZIX2JEcTJGQmpqdlc2amRfRTlfMU1WNFZLRUJJY3R0UHlFVFpUTDY2cnd5MU9VeTc4T0JIVHBrd21TN1hqVS11bGFWYWlkdUZENl9KRlVpcjJEM1p3dWlTdlBZYmVfNTVXOVpSSU9BVFpCNGlhUnpabUZKdkh3alhpRXJlbzlfb0w0YldvLXRLSFRJWnpuUjdwYXNNOVY0WUJjR1RwQzcwV2syR012a1d4UlBmdlA0?oc=5" target="_blank">Ruptures conventionnelles : le projet de loi durcissant les règles d'indemnisation en passe d'être définitivement adopté</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Nouveau recul du moral des ménages, qui tombe à son plus bas niveau en trois ans - Les Echos](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbXFXUUNYNUdobXQtaHNFMXZYbVNDWTN1aE5NN1VvSzNyZlp1ZXg1ZjJfWHRCWkY5OENnTXgwVTNpMkNxalJ3LUU2YkpfdXFjVVEzaDVmU1Zsd3NwTnpMTkQ1QzJ5U3Jqc0FMNUdUQlRMWkw1Ykw3ME9TUTFldnl0SmtMWmVmMXhhQk5YWjNOZ0lkOGR6LTJZN21YbVB6V3ZuRDdpRFR6U201NzJ3aXdFSlhMT2RBU1hOVHdBNkxZRU0tV2pIeVlSNTFqWmxmMDRNMHM2bFlB?oc=5)
-
-`Wed, 27 May 2026 07:32:25 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbXFXUUNYNUdobXQtaHNFMXZYbVNDWTN1aE5NN1VvSzNyZlp1ZXg1ZjJfWHRCWkY5OENnTXgwVTNpMkNxalJ3LUU2YkpfdXFjVVEzaDVmU1Zsd3NwTnpMTkQ1QzJ5U3Jqc0FMNUdUQlRMWkw1Ykw3ME9TUTFldnl0SmtMWmVmMXhhQk5YWjNOZ0lkOGR6LTJZN21YbVB6V3ZuRDdpRFR6U201NzJ3aXdFSlhMT2RBU1hOVHdBNkxZRU0tV2pIeVlSNTFqWmxmMDRNMHM2bFlB?oc=5" target="_blank">Nouveau recul du moral des ménages, qui tombe à son plus bas niveau en trois ans</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Franchises, taxis, ambulances… les pistes explosives de la Cour des comptes pour redresser la Sécu - Les Echos](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOeEctck5UZGc0LVpiS3l0a0ZGaFVhcFJnNHRhaERPY2pFcXYwUWhfYlpyZUNVOEo4UFp3NVJwMVdfS3VLU1h4cG5BU3Z4ZFZQbTBNbWxHeDFiRXNuMkdXSDFxMGVHOGtJdi12YWttcXJkd09vRHNvdXFwc2dOT25GazRBLTlVVzM0OVdEaHRKWG5vMTZCdmhYbEFDaEtkRkpPZFNTaHFPVlQzUEdSSHpZTEpodmQyQXRfLWVuMEdmRVk2ZGpBQVhhODVpZGxta0dxb3pSZFdDd1hMYmp6d2ZQSEJheF8?oc=5)
-
-`Wed, 27 May 2026 08:01:45 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi5AFBVV95cUxOeEctck5UZGc0LVpiS3l0a0ZGaFVhcFJnNHRhaERPY2pFcXYwUWhfYlpyZUNVOEo4UFp3NVJwMVdfS3VLU1h4cG5BU3Z4ZFZQbTBNbWxHeDFiRXNuMkdXSDFxMGVHOGtJdi12YWttcXJkd09vRHNvdXFwc2dOT25GazRBLTlVVzM0OVdEaHRKWG5vMTZCdmhYbEFDaEtkRkpPZFNTaHFPVlQzUEdSSHpZTEpodmQyQXRfLWVuMEdmRVk2ZGpBQVhhODVpZGxta0dxb3pSZFdDd1hMYmp6d2ZQSEJheF8?oc=5" target="_blank">Franchises, taxis, ambulances… les pistes explosives de la Cour des comptes pour redresser la Sécu</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
