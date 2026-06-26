@@ -1,7 +1,7 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Fri, 26 Jun 2026 14:06:36 +0000`
-> 93 articles (30 derniers jours)
+> Derniere mise a jour : `Fri, 26 Jun 2026 18:20:48 +0000`
+> 91 articles (30 derniers jours)
 
 ---
 
@@ -589,14 +589,6 @@
 
 ---
 
-### [Économie | Page 238 - Les Echos](https://news.google.com/rss/articles/CBMiXEFVX3lxTE00ZzFYZThfeHZtbmhPLWJWOUtWVVFjWThmV1RXcXZRMERhTTY1b0M1UFpvbHBLd1AyeVpvajNJaG92QjRjRnEzZjNkamhObmFHX0NWQTBvejRZQ21k?oc=5)
-
-`Wed, 27 May 2026 17:46:51 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiXEFVX3lxTE00ZzFYZThfeHZtbmhPLWJWOUtWVVFjWThmV1RXcXZRMERhTTY1b0M1UFpvbHBLd1AyeVpvajNJaG92QjRjRnEzZjNkamhObmFHX0NWQTBvejRZQ21k?oc=5" target="_blank">Économie | Page 238</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
 ### [L'incroyable croissance cachée de l'économie française - Les Echos](https://news.google.com/rss/articles/CBMisgFBVV95cUxQdU5zWS1qVWQ5eXdyRnZKRDY1UFZGLTdtYmNYeVZXbnhWOHlXcTF6NkpFWW1ZdnRYX2I1bmlQRUZ5YWFHR3RDS21UTjFQWGF4LWNLc2w0eUJxZEl1c0dxNnBqdFJWY1hHNTlTU3dGb3ZncTJCck9SODJoSkl0OWdRTnV2cjRfc0pTRVhUSy1tLWN3N1YyTFBRN3p6T2dnNV83ZHJJQ1Z0VlhLbFd6NHVPbjFn?oc=5)
 
 `Tue, 02 Jun 2026 15:00:13 GMT`
@@ -738,13 +730,5 @@
 `Thu, 28 May 2026 14:45:17 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZzNVX3dfUm1jU0NzNVl5TmhpRTRDeUJ0bVpkd0JjVkFWQmJfUG1XOGtmcTE1b25kUVVBRXlWVUhBN2dMbU95TllKYUZFc1cxdkpjczdOcHZuM2VFNG1kS3BmS1dudzhQTm5GT3hhYTBfRHdvczdXZVRLcC1YRkdyMmpId0xCZ3VhbkhjQXVVQUVFVEw2Y1dJZ0xsSzd5S0R5VWhmOHFRV1NHQ3M?oc=5" target="_blank">Les fonctionnaires massivement rattrapés par le SMIC</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [EXCLUSIF - Guerre au Moyen-Orient : une facture déjà proche de 4 milliards pour la Sécurité sociale - Les Echos](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPLXZlaUdhSEp3Z3N2RmNXZ25vUnFyak16NWlEcmFrTDdKWUtTbXdneTY3WHhvbW5kakdwSS0xVDlKbWFEVHcxaW1yZk9nM2g5SkV2Z3JJc3IzUEpoNDFyazRUcXY2MjRENDJnNXZ1YjZlcWlUelg0V1JQRWJWOFZGUkZ0WFY5cFNPOXB1N3ZpVXVyZWtQYlBZS2pQWGNQaVlCbHMxRG9PeVJiTmdfanRiWXlGUlQ0Sm1GR0ZiUnpLclQyLXRmWmRadHZyTWp1SHBaV2Uzcy1YNlY?oc=5)
-
-`Wed, 27 May 2026 14:39:20 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi2AFBVV95cUxPLXZlaUdhSEp3Z3N2RmNXZ25vUnFyak16NWlEcmFrTDdKWUtTbXdneTY3WHhvbW5kakdwSS0xVDlKbWFEVHcxaW1yZk9nM2g5SkV2Z3JJc3IzUEpoNDFyazRUcXY2MjRENDJnNXZ1YjZlcWlUelg0V1JQRWJWOFZGUkZ0WFY5cFNPOXB1N3ZpVXVyZWtQYlBZS2pQWGNQaVlCbHMxRG9PeVJiTmdfanRiWXlGUlQ0Sm1GR0ZiUnpLclQyLXRmWmRadHZyTWp1SHBaV2Uzcy1YNlY?oc=5" target="_blank">EXCLUSIF - Guerre au Moyen-Orient : une facture déjà proche de 4 milliards pour la Sécurité sociale</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
