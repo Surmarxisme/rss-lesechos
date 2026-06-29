@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Sun, 28 Jun 2026 11:10:44 +0000`
-> 85 articles (30 derniers jours)
+> Derniere mise a jour : `Mon, 29 Jun 2026 10:14:03 +0000`
+> 84 articles (30 derniers jours)
+
+---
+
+### [« Il existe une inertie » : la canicule s'achève mais la pression reste maximale dans les hôpitaux - Les Echos](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSmlDa1lJMUNOdjdYUHlfQUQ3S0haZDl1RjF5OHVhcEItQnpiVTZhUGhYcmdQVzZTTHJHVmpQVkZPeFRnZE1lR2FzNS1VNEt6Um1iSDl2U0NWUDZod3VndTJxNlRBWU5XSEN1TGRCeDh2LWpLZFpIWERZem9teWJtWUFka1lzYU9SdDFMWkRTSHc2Y2NLQTdSOTVUOFNfcVJQdG83c293OE1mZ2kyUHJrLVBSY2xQOXd0ZmxkWXJmRTE2SE9WQmdzYWtkYjNGdzVoWXdWakUwUzM0QUdILUxv?oc=5)
+
+`Sun, 28 Jun 2026 13:56:11 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSmlDa1lJMUNOdjdYUHlfQUQ3S0haZDl1RjF5OHVhcEItQnpiVTZhUGhYcmdQVzZTTHJHVmpQVkZPeFRnZE1lR2FzNS1VNEt6Um1iSDl2U0NWUDZod3VndTJxNlRBWU5XSEN1TGRCeDh2LWpLZFpIWERZem9teWJtWUFka1lzYU9SdDFMWkRTSHc2Y2NLQTdSOTVUOFNfcVJQdG83c293OE1mZ2kyUHJrLVBSY2xQOXd0ZmxkWXJmRTE2SE9WQmdzYWtkYjNGdzVoWXdWakUwUzM0QUdILUxv?oc=5" target="_blank">« Il existe une inertie » : la canicule s'achève mais la pression reste maximale dans les hôpitaux</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -666,21 +674,5 @@
 `Sun, 31 May 2026 10:00:08 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRGZzTlA5czMtNVRQdWZGMmNmVmxMbWV3dEo3dFF1ZmlCMWtLbGhESjNhQkZMU2xTalE0UWFiNHRHUHdkVThaczBJYzZmY3pMcmFucDAwTzRkeWtRRVF2dVVVVU9pbkNRdV9kMVJ2YWpfbjhDMkQwbWlORThIQVFpOWU1Ri04Q0YxWjgtS0NVejZYU2UxQlM0YVl5c2VBSUNFTXl4ZUxYbnVzQmE0ZENTdE5zcTU5MURNdEx3Z3BmbU1sLWFDZzV5ZQ?oc=5" target="_blank">Prix du gaz, SMIC, aides aux véhicules électriques… ce qui change au 1er juin</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Dette : S&P maintient la note souveraine de la France - Les Echos](https://news.google.com/rss/articles/CBMitgFBVV95cUxQTEVNS0NNbFNIUFNXVW1Nb2lGQlFhM1ZFUGxVVFVEYjB4Sk9iNlVvaWlkUW1Jb1NPTEJOaS1iYzZ5RWZnbk45ZjRLZV9nSWxlVTg0ZjhjclFlYzdxYkQyUHpzeWZpYmVaT2ZBVm9BS18yQzRfZ1U1ODZaU1A2Q0JfRlAyNTlZMjVwMldHYnA4U0hPd0wtSkxCeW13cHVFMmplZ0psQUhVUGRnSnR0OFVUZG9uQmJSdw?oc=5)
-
-`Fri, 29 May 2026 20:32:03 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxQTEVNS0NNbFNIUFNXVW1Nb2lGQlFhM1ZFUGxVVFVEYjB4Sk9iNlVvaWlkUW1Jb1NPTEJOaS1iYzZ5RWZnbk45ZjRLZV9nSWxlVTg0ZjhjclFlYzdxYkQyUHpzeWZpYmVaT2ZBVm9BS18yQzRfZ1U1ODZaU1A2Q0JfRlAyNTlZMjVwMldHYnA4U0hPd0wtSkxCeW13cHVFMmplZ0psQUhVUGRnSnR0OFVUZG9uQmJSdw?oc=5" target="_blank">Dette : S&amp;P maintient la note souveraine de la France</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Vers un report de la réforme de la couverture santé des agents des hôpitaux - Les Echos](https://news.google.com/rss/articles/CBMiygFBVV95cUxQRjBBQ0czRnJ4U2JVNS1mcUxpUmpiZlBmcVlDRlV3d3dWcVVLY1hOUkZIc01hYmQ4MFdOSVZxZ3FQa0dEb1B3MnBxRzBYbU5uc3RBeC12SEVRTjg5cmgwdEhRZVhMaks5b3RpeFZ6LTZtYkl6UG5vUjAzc1RDdGFRTHdObUliMzJ3SXZIN1B4RGhBSHk0UFJCR284TnR2Z2UzRXBHTjNMSFhQcS1Eb3ZOSDQ5VlRlc1NIYk11T0ZkYmZjb3F2Q0Mtb2Zn?oc=5)
-
-`Sat, 30 May 2026 08:28:48 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxQRjBBQ0czRnJ4U2JVNS1mcUxpUmpiZlBmcVlDRlV3d3dWcVVLY1hOUkZIc01hYmQ4MFdOSVZxZ3FQa0dEb1B3MnBxRzBYbU5uc3RBeC12SEVRTjg5cmgwdEhRZVhMaks5b3RpeFZ6LTZtYkl6UG5vUjAzc1RDdGFRTHdObUliMzJ3SXZIN1B4RGhBSHk0UFJCR284TnR2Z2UzRXBHTjNMSFhQcS1Eb3ZOSDQ5VlRlc1NIYk11T0ZkYmZjb3F2Q0Mtb2Zn?oc=5" target="_blank">Vers un report de la réforme de la couverture santé des agents des hôpitaux</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
