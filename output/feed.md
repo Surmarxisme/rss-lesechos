@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Mon, 29 Jun 2026 15:33:13 +0000`
-> 84 articles (30 derniers jours)
+> Derniere mise a jour : `Mon, 29 Jun 2026 18:56:48 +0000`
+> 85 articles (30 derniers jours)
+
+---
+
+### [Accidents du travail : le gouvernement réclame près d'un milliard d'économies aux partenaires sociaux - Les Echos](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQallISDVNc3N0LTdHTkhqeHdORFo3c2NXb1Zkb1ppVHBSanE5b1lzMWt1RnBUZ2l5NUtRTEl1c2JXM1NtOTJHdU50aGFydlJONWdscHZwWlJTUmJKMGZ3b3MwV01FR0tvQzlBbGZIQlQ3UXBfTUtPc3E0T1ZVMVFZUG14VUxMYzd2ZFdFZDdudUN4cy1qbW5iUFZORjl5TVdVZ0hWRndWalhuSUl1SlU4MXRCWTRBajJjLTAwcnJZNTZEdlRhbWZHZDJHLXR3WTNVVnFHU0VvQUQ3RUs5aFZJTEEwdG9melU?oc=5)
+
+`Mon, 29 Jun 2026 15:48:17 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi5wFBVV95cUxQallISDVNc3N0LTdHTkhqeHdORFo3c2NXb1Zkb1ppVHBSanE5b1lzMWt1RnBUZ2l5NUtRTEl1c2JXM1NtOTJHdU50aGFydlJONWdscHZwWlJTUmJKMGZ3b3MwV01FR0tvQzlBbGZIQlQ3UXBfTUtPc3E0T1ZVMVFZUG14VUxMYzd2ZFdFZDdudUN4cy1qbW5iUFZORjl5TVdVZ0hWRndWalhuSUl1SlU4MXRCWTRBajJjLTAwcnJZNTZEdlRhbWZHZDJHLXR3WTNVVnFHU0VvQUQ3RUs5aFZJTEEwdG9melU?oc=5" target="_blank">Accidents du travail : le gouvernement réclame près d'un milliard d'économies aux partenaires sociaux</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
