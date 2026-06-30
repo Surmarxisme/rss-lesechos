@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Tue, 30 Jun 2026 08:49:28 +0000`
+> Derniere mise a jour : `Tue, 30 Jun 2026 11:47:16 +0000`
 > 88 articles (30 derniers jours)
+
+---
+
+### [Congé de naissance, taxe sur les petits colis, prix du gaz… ce qui change au 1er juillet - Les Echos](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPSXh3Rlo3MGdRa3JSdG5KZGhLZW04akJyU3VCbkF4V1ZrTFotaU5BaTJrenhiTzdvTFQ2R1d3bkl2RUx0V2JSLWlGQnBMUmFNZ3hYVmV3TGlOaDhfdjJuVTlZMGd0OGRIclY0R2p5OFpreXBIX1hqeThPUTdELXg1WWpoNWlrLTI3bWw1eTJ4b3FHbG4xczcyRjZhcFhSUFhoRmdPRVJCNWw3ZGRQeDBsdG9Iekh1dXZ1UnhxNDl0aFlPdWJiQTZQYjZsbVlVaDFzTklQM19fVQ?oc=5)
+
+`Tue, 30 Jun 2026 10:00:09 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi1wFBVV95cUxPSXh3Rlo3MGdRa3JSdG5KZGhLZW04akJyU3VCbkF4V1ZrTFotaU5BaTJrenhiTzdvTFQ2R1d3bkl2RUx0V2JSLWlGQnBMUmFNZ3hYVmV3TGlOaDhfdjJuVTlZMGd0OGRIclY0R2p5OFpreXBIX1hqeThPUTdELXg1WWpoNWlrLTI3bWw1eTJ4b3FHbG4xczcyRjZhcFhSUFhoRmdPRVJCNWw3ZGRQeDBsdG9Iekh1dXZ1UnhxNDl0aFlPdWJiQTZQYjZsbVlVaDFzTklQM19fVQ?oc=5" target="_blank">Congé de naissance, taxe sur les petits colis, prix du gaz… ce qui change au 1er juillet</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -698,13 +706,5 @@
 `Mon, 01 Jun 2026 05:45:08 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMikwFBVV95cUxNTEpCRzBPYmJBOXk4MW4wS01sZDNDa3kyTTVPNkN4Ulp1ZmNKMFpzUzBDT29JdGlpa1Z3SWh4NFNrY2VIN1BNYVdQY0cyU3NYcVlyTVc0UEdpeTA5TDljZFFHV3huM3hHQTJRTUdieWJzOVE3WmVsYU1PZ2p4Vm8yeG5pVlVRQWlYLS0tTDE4LWxwQVE?oc=5" target="_blank">La CGT en congrès pour se relancer</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Prix du gaz, SMIC, aides aux véhicules électriques… ce qui change au 1er juin - Les Echos](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRGZzTlA5czMtNVRQdWZGMmNmVmxMbWV3dEo3dFF1ZmlCMWtLbGhESjNhQkZMU2xTalE0UWFiNHRHUHdkVThaczBJYzZmY3pMcmFucDAwTzRkeWtRRVF2dVVVVU9pbkNRdV9kMVJ2YWpfbjhDMkQwbWlORThIQVFpOWU1Ri04Q0YxWjgtS0NVejZYU2UxQlM0YVl5c2VBSUNFTXl4ZUxYbnVzQmE0ZENTdE5zcTU5MURNdEx3Z3BmbU1sLWFDZzV5ZQ?oc=5)
-
-`Sun, 31 May 2026 10:00:08 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRGZzTlA5czMtNVRQdWZGMmNmVmxMbWV3dEo3dFF1ZmlCMWtLbGhESjNhQkZMU2xTalE0UWFiNHRHUHdkVThaczBJYzZmY3pMcmFucDAwTzRkeWtRRVF2dVVVVU9pbkNRdV9kMVJ2YWpfbjhDMkQwbWlORThIQVFpOWU1Ri04Q0YxWjgtS0NVejZYU2UxQlM0YVl5c2VBSUNFTXl4ZUxYbnVzQmE0ZENTdE5zcTU5MURNdEx3Z3BmbU1sLWFDZzV5ZQ?oc=5" target="_blank">Prix du gaz, SMIC, aides aux véhicules électriques… ce qui change au 1er juin</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
