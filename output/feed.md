@@ -1,7 +1,23 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Tue, 30 Jun 2026 11:47:16 +0000`
-> 88 articles (30 derniers jours)
+> Derniere mise a jour : `Tue, 30 Jun 2026 14:00:26 +0000`
+> 90 articles (30 derniers jours)
+
+---
+
+### [Chômage : pas de revalorisation des allocations au 1er juillet malgré l'inflation - Les Echos](https://news.google.com/rss/articles/CBMizgFBVV95cUxNbkpzQjZ5NzNlcVhkbTFIZjZMU3FPaDNBd1BUemszc0hpX1NPSUlFSEFERDM0NDNpUDFHT2U3azlSLUEwbFVkRGVzdDAwSWVTalNBUlJzSE1TcHd3cVN6TWJlVFliMFB1ZFFwRFQyMlhtWFRPekJwRlpsNUwwaVhqam5YOEx2Mjh2MzN0Qkg5OUptTDE0akhEUUtTQ3I2SVNOdHZxblZVNi1zbDJWbEl2TjhORkxmTk5rYVNDOU9DQnN0Ukxlcm8yQjE0N2hKZw?oc=5)
+
+`Tue, 30 Jun 2026 12:32:46 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMizgFBVV95cUxNbkpzQjZ5NzNlcVhkbTFIZjZMU3FPaDNBd1BUemszc0hpX1NPSUlFSEFERDM0NDNpUDFHT2U3azlSLUEwbFVkRGVzdDAwSWVTalNBUlJzSE1TcHd3cVN6TWJlVFliMFB1ZFFwRFQyMlhtWFRPekJwRlpsNUwwaVhqam5YOEx2Mjh2MzN0Qkg5OUptTDE0akhEUUtTQ3I2SVNOdHZxblZVNi1zbDJWbEl2TjhORkxmTk5rYVNDOU9DQnN0Ukxlcm8yQjE0N2hKZw?oc=5" target="_blank">Chômage : pas de revalorisation des allocations au 1er juillet malgré l'inflation</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Retraites, santé, éducation : le remède de cheval de l'OCDE pour éviter l'emballement de la dette française - Les Echos](https://news.google.com/rss/articles/CBMi-gFBVV95cUxQNHBFYlR1Y2w5bDQ0Tm1JVUwxbmc3d2tpdzF5UmtEV2RMMTA3YXd4VllmZGt4Q1dBanlocVJfclBVRGxyVXpFcFBGam9VSDdGclI3RlRGWl9IX1RWTnZIeGpsc0tBR0MwYWxkeU5EcHQzRXdqNGhHTy01SmhmcmxQLWQybEJmdEU3OWpwTXJoMGgzR3J5TnAyRW5ZT3doU1QxckRQMkp4Szhmbmx3ZU9vUFRyWGJWeF96aVhYVWtYcVYxc3hvNU5vdlpGOUtadl9zXzFlN0hpckhZcXNYYUgzcVgzVFhCb1VDbkhqVEFyTGFSNGNmOUlZN3Vn?oc=5)
+
+`Tue, 30 Jun 2026 13:30:29 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi-gFBVV95cUxQNHBFYlR1Y2w5bDQ0Tm1JVUwxbmc3d2tpdzF5UmtEV2RMMTA3YXd4VllmZGt4Q1dBanlocVJfclBVRGxyVXpFcFBGam9VSDdGclI3RlRGWl9IX1RWTnZIeGpsc0tBR0MwYWxkeU5EcHQzRXdqNGhHTy01SmhmcmxQLWQybEJmdEU3OWpwTXJoMGgzR3J5TnAyRW5ZT3doU1QxckRQMkp4Szhmbmx3ZU9vUFRyWGJWeF96aVhYVWtYcVYxc3hvNU5vdlpGOUtadl9zXzFlN0hpckhZcXNYYUgzcVgzVFhCb1VDbkhqVEFyTGFSNGNmOUlZN3Vn?oc=5" target="_blank">Retraites, santé, éducation : le remède de cheval de l'OCDE pour éviter l'emballement de la dette française</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
