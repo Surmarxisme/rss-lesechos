@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Tue, 30 Jun 2026 14:00:26 +0000`
+> Derniere mise a jour : `Tue, 30 Jun 2026 18:26:39 +0000`
 > 90 articles (30 derniers jours)
+
+---
+
+### [Emploi : un bilan mitigé de l'accompagnement rénové des bénéficiaires du RSA - Les Echos](https://news.google.com/rss/articles/CBMixwFBVV95cUxPWHNUaWJTeEhFVVBZR0VxQWJKNlctRlJDNmdJLWNUNE9jME5tX3MycUJ3OF9rMGFVcXFUSWVvdlJLQ2ZyRUgydnhlRmdlZ1hEX1ltbEIyVllockZnTlNCTG1hektBNjlpNm05VmlaMzNRYl9abFZQcEpZMlBWRW1XZFlkRXY1OVU0YzY2WDRILS1PSEJEaXNtWVgtSU1yalZFbl9vbm9QSThmdWduWW5UTmtZb1A0aHh6Zk9ya05tYV9XWkF5Q0dJ?oc=5)
+
+`Tue, 30 Jun 2026 17:08:47 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMixwFBVV95cUxPWHNUaWJTeEhFVVBZR0VxQWJKNlctRlJDNmdJLWNUNE9jME5tX3MycUJ3OF9rMGFVcXFUSWVvdlJLQ2ZyRUgydnhlRmdlZ1hEX1ltbEIyVllockZnTlNCTG1hektBNjlpNm05VmlaMzNRYl9abFZQcEpZMlBWRW1XZFlkRXY1OVU0YzY2WDRILS1PSEJEaXNtWVgtSU1yalZFbl9vbm9QSThmdWduWW5UTmtZb1A0aHh6Zk9ya05tYV9XWkF5Q0dJ?oc=5" target="_blank">Emploi : un bilan mitigé de l'accompagnement rénové des bénéficiaires du RSA</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -698,14 +706,6 @@
 `Mon, 01 Jun 2026 13:07:11 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxPOWYwSVAzVGQ2RzlxU2NFXzJUX3dRVXo1TTAyelRKNUNBRlRsOXNOMGlDdlpDTGg4M3k3RXBLNkRqbHVZcURqQjY1amQ3cktraTR0UFNsY0s0SDVuQWQ3X1puS3p4N1p3b194Vy1jYlFTYnpucUdKTmIwdHc0cUhMMUptLWRBU01UV1dZanUwRGpsVVExMElTSjIyYVRKdS1UenIxTG1JV2lsRk96MXZTQllURnM2QWM?oc=5" target="_blank">Chômage : des reprises d'emploi souvent rapides mais précaires</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [« Les investissements étrangers en France ne sont plus un tabou » : neuf ans de Choose France entre succès fulgurants et promesses en suspens - Les Echos](https://news.google.com/rss/articles/CBMioAJBVV95cUxNRnNUd0Z4Y1hyckU3TlpjWTloTnNKZHc1RTZhaWw4TGwwc28xVXhmMnpWbjdVcTBTeV96WE1ESE9IazdIby1YZ1g1cS1tMEpSRmd0Qld1ZXJDU1RvMmJ5MmtvMWRqbUt5SEFkMU1NaHdPdnRVbUtsbnBoVDBVUE1QUjBEMjVEZVBpSW1Cd1ZTN1lKODVOdloyd2ZkVG1mblh3VVMzLTc0UGYxVF9fbXVkNnZ4bzk1cDdoQWgyTEtZYzJnLXRuNU9UT3hMSFdvT1VKeE9kdnRkcFZLT005VHpoeWgwYWRieHQ4X29WMmJvZ3RrUVpXbnAycXZqNXVUVkN3UXpnNFJjTS04Yy1KRDg2bjZ4dnVwR2hkYm53U3M5akY?oc=5)
-
-`Sun, 31 May 2026 14:33:29 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMioAJBVV95cUxNRnNUd0Z4Y1hyckU3TlpjWTloTnNKZHc1RTZhaWw4TGwwc28xVXhmMnpWbjdVcTBTeV96WE1ESE9IazdIby1YZ1g1cS1tMEpSRmd0Qld1ZXJDU1RvMmJ5MmtvMWRqbUt5SEFkMU1NaHdPdnRVbUtsbnBoVDBVUE1QUjBEMjVEZVBpSW1Cd1ZTN1lKODVOdloyd2ZkVG1mblh3VVMzLTc0UGYxVF9fbXVkNnZ4bzk1cDdoQWgyTEtZYzJnLXRuNU9UT3hMSFdvT1VKeE9kdnRkcFZLT005VHpoeWgwYWRieHQ4X29WMmJvZ3RrUVpXbnAycXZqNXVUVkN3UXpnNFJjTS04Yy1KRDg2bjZ4dnVwR2hkYm53U3M5akY?oc=5" target="_blank">« Les investissements étrangers en France ne sont plus un tabou » : neuf ans de Choose France entre succès fulgurants et promesses en suspens</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
