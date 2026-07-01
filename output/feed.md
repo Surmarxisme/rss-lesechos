@@ -1,7 +1,23 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Wed, 01 Jul 2026 14:13:25 +0000`
+> Derniere mise a jour : `Wed, 01 Jul 2026 18:53:47 +0000`
 > 87 articles (30 derniers jours)
+
+---
+
+### [Canicule : les hôpitaux publics réclament plus de moyens pour s'adapter - Les Echos](https://news.google.com/rss/articles/CBMiwAFBVV95cUxONlEzLXVwTzIyampWQS1BT0NfLTFWZHdKN2xUbnZla0loUFVXbzA1UXhYSXhWcDk2dmVvbDBtbVBGRU9CM1c0UDRxMk5td1g4Nnd3aERELWQ2cmFSbFdRc2poS0dGNXNJelZCa200bHNZUE5nTjZlX2pVZmxFR2xVTENfYnc0djMxZTkwb2VfOEszRk5BTzM5R2prQUtGNUJsVnVrLS1lcmV1SFRpSGxzUEpPZTVQWFZ6RG85TTI4SnE?oc=5)
+
+`Wed, 01 Jul 2026 15:40:19 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxONlEzLXVwTzIyampWQS1BT0NfLTFWZHdKN2xUbnZla0loUFVXbzA1UXhYSXhWcDk2dmVvbDBtbVBGRU9CM1c0UDRxMk5td1g4Nnd3aERELWQ2cmFSbFdRc2poS0dGNXNJelZCa200bHNZUE5nTjZlX2pVZmxFR2xVTENfYnc0djMxZTkwb2VfOEszRk5BTzM5R2prQUtGNUJsVnVrLS1lcmV1SFRpSGxzUEpPZTVQWFZ6RG85TTI4SnE?oc=5" target="_blank">Canicule : les hôpitaux publics réclament plus de moyens pour s'adapter</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [« La productivité croît à un rythme trop faible » : pourquoi la France reste à la traîne de l'Europe - Les Echos](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPTmZ1Rnd2cHBPUzRWLTRhRVdMOHNzcy1yLUFhalk5Zmw3WHhXclJiT014ZTluRWVXUFZMd0NxdzBFTkZuSEFZMTg4cmJqSU5GckN2QmlDaDloV2dBb1MxYkh1ZWduMTVjblUxbUtjVGNyaV9yZ1NYQ1A3Z1h1YnJyMTV5bnNBTF9uREZzR1lMMWx6LXRWSHZoSi0wV3A2ODRsUVZYZVB3UktkU052V29HWGMtWUV3ek12SW0teU5WSHpJNGRIZ3kwdU9GNnNMN0RnbENZd2NZcUJ1VkxWWmJDVHltdFdlN0Jm?oc=5)
+
+`Wed, 01 Jul 2026 14:50:14 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi6AFBVV95cUxPTmZ1Rnd2cHBPUzRWLTRhRVdMOHNzcy1yLUFhalk5Zmw3WHhXclJiT014ZTluRWVXUFZMd0NxdzBFTkZuSEFZMTg4cmJqSU5GckN2QmlDaDloV2dBb1MxYkh1ZWduMTVjblUxbUtjVGNyaV9yZ1NYQ1A3Z1h1YnJyMTV5bnNBTF9uREZzR1lMMWx6LXRWSHZoSi0wV3A2ODRsUVZYZVB3UktkU052V29HWGMtWUV3ek12SW0teU5WSHpJNGRIZ3kwdU9GNnNMN0RnbENZd2NZcUJ1VkxWWmJDVHltdFdlN0Jm?oc=5" target="_blank">« La productivité croît à un rythme trop faible » : pourquoi la France reste à la traîne de l'Europe</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -682,21 +698,5 @@
 `Tue, 02 Jun 2026 04:15:09 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdk9SODVXVVBKV2FqSWxMQVVvS2xJXzNKbTJyTDFYazNpNUc1cnBMVndySEp5aGVWZnF2S3V3MGJ0QnpERDBuR09ZOUVTeDJiM2xrSDVoNnd3cUVQb3hPZjR0ak1TODQ0eXpJeHR1SU85dWNvZzJpU3d0UVh2SW9ZSmQ3Z2x1bkdrdEg3VDZtU3lUSHdXd3pQUFJLNjRDdXVSUnM0bHh5NEQtYXlITXRrb1dFbWd0c1RtYUlnTjZwa1dQTmdCTlpGQ2wzbDVuN1BFYmlQS3NueDRvdkxsR2pieE1uZ1dCN09xaHc?oc=5" target="_blank">Police, prisons, emplois, Fonds vert : les cibles prioritaires des coupes budgétaires de Bercy</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [« C'est la preuve concrète de l'attractivité du pays » : Emmanuel Macron vante le succès de son dernier Choose France - Les Echos](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNWE9JTzVJczhZTVhoZURHU0dOdkllb3RYamlSOE5YUk15V2JBWFZEWXJsd0pfVGFzcVZmUVZMR1A2bmxXdHJMNThlRWM4dDFRYVg4MXhmTjBjbERCY0ROaThnMTN2TTU0RmdveXl2TVE2M2JHTUtKcWUxS2NOeFZEZk1ZdDRrdEUtblZ0emtFQUc4NHJDLWdNbnNNUDFvNVhoTERSU19kZ1VnMXhUNzk3MXg1Um1mNk9NRUhWcE9xZG1FelBXVzNhVjlFb054Unh2TDlNdGZYZVFkbGRheXh0bVc0MmNJUS16MXdBb0lzdkJqSXNSRWZHVXBiTV9mUQ?oc=5)
-
-`Mon, 01 Jun 2026 18:00:16 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi_gFBVV95cUxNWE9JTzVJczhZTVhoZURHU0dOdkllb3RYamlSOE5YUk15V2JBWFZEWXJsd0pfVGFzcVZmUVZMR1A2bmxXdHJMNThlRWM4dDFRYVg4MXhmTjBjbERCY0ROaThnMTN2TTU0RmdveXl2TVE2M2JHTUtKcWUxS2NOeFZEZk1ZdDRrdEUtblZ0emtFQUc4NHJDLWdNbnNNUDFvNVhoTERSU19kZ1VnMXhUNzk3MXg1Um1mNk9NRUhWcE9xZG1FelBXVzNhVjlFb054Unh2TDlNdGZYZVFkbGRheXh0bVc0MmNJUS16MXdBb0lzdkJqSXNSRWZHVXBiTV9mUQ?oc=5" target="_blank">« C'est la preuve concrète de l'attractivité du pays » : Emmanuel Macron vante le succès de son dernier Choose France</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Congrès de la CGT : Sophie Binet sonne la charge contre l'extrême droite - Les Echos](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcl9hbnNqeUYzZkhSSThUMUhPeTVDSkh0S0VNN0hiWXRFU2pEcjhpb3ZxTENzQzBHbzhXdFQtWi03Y2xqbkFyMVhyaFhhUWxJS1R2MWpUSnFldDc5bFNWZTdnVzE5Ty11QlRzbHhjbjNITU11RlExN3UwV08xeGZZbDNOVnVlaUtGaVc3c3p2bEt5YlIwczBDbEdhYTJOTlBwc1RhcVpOTDJoMGV2Ry1CVldudEl1N0lFVVJiNGx1V1FnUQ?oc=5)
-
-`Mon, 01 Jun 2026 17:18:00 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcl9hbnNqeUYzZkhSSThUMUhPeTVDSkh0S0VNN0hiWXRFU2pEcjhpb3ZxTENzQzBHbzhXdFQtWi03Y2xqbkFyMVhyaFhhUWxJS1R2MWpUSnFldDc5bFNWZTdnVzE5Ty11QlRzbHhjbjNITU11RlExN3UwV08xeGZZbDNOVnVlaUtGaVc3c3p2bEt5YlIwczBDbEdhYTJOTlBwc1RhcVpOTDJoMGV2Ry1CVldudEl1N0lFVVJiNGx1V1FnUQ?oc=5" target="_blank">Congrès de la CGT : Sophie Binet sonne la charge contre l'extrême droite</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
