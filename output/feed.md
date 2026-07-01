@@ -1,7 +1,7 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Tue, 30 Jun 2026 18:26:39 +0000`
-> 90 articles (30 derniers jours)
+> Derniere mise a jour : `Wed, 01 Jul 2026 09:23:08 +0000`
+> 88 articles (30 derniers jours)
 
 ---
 
@@ -706,21 +706,5 @@
 `Mon, 01 Jun 2026 13:07:11 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxPOWYwSVAzVGQ2RzlxU2NFXzJUX3dRVXo1TTAyelRKNUNBRlRsOXNOMGlDdlpDTGg4M3k3RXBLNkRqbHVZcURqQjY1amQ3cktraTR0UFNsY0s0SDVuQWQ3X1puS3p4N1p3b194Vy1jYlFTYnpucUdKTmIwdHc0cUhMMUptLWRBU01UV1dZanUwRGpsVVExMElTSjIyYVRKdS1UenIxTG1JV2lsRk96MXZTQllURnM2QWM?oc=5" target="_blank">Chômage : des reprises d'emploi souvent rapides mais précaires</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Plus de 90 milliards d'euros d'investissements pour le dernier Choose France d'Emmanuel Macron - Les Echos](https://news.google.com/rss/articles/CBMiygFBVV95cUxOX3ZnTk5oVlY4aTlGWTlSZm82NV9ldGNDai1DTUY4dloxUmJqcDJhNXJwOVdpTUFkUXRKdDN5emU2NnVKT3I3U1VzdzJoVm1hZHVjenp5XzdCb2I1ODBBWVBUNHp1aGZpNE9SdXE2WUZiQ3d5MllQcmlHNXRTRVpvMVJVbE8yazhBYnpxX2xGMlpUcHZVN09JODg5a3NSNjQ3TTVjem43Vy1ybE9qcUd0R0JOWTdhOElkSzdTYWQwU0EwbmFPclFFVGRR?oc=5)
-
-`Mon, 01 Jun 2026 03:58:09 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxOX3ZnTk5oVlY4aTlGWTlSZm82NV9ldGNDai1DTUY4dloxUmJqcDJhNXJwOVdpTUFkUXRKdDN5emU2NnVKT3I3U1VzdzJoVm1hZHVjenp5XzdCb2I1ODBBWVBUNHp1aGZpNE9SdXE2WUZiQ3d5MllQcmlHNXRTRVpvMVJVbE8yazhBYnpxX2xGMlpUcHZVN09JODg5a3NSNjQ3TTVjem43Vy1ybE9qcUd0R0JOWTdhOElkSzdTYWQwU0EwbmFPclFFVGRR?oc=5" target="_blank">Plus de 90 milliards d'euros d'investissements pour le dernier Choose France d'Emmanuel Macron</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [La CGT en congrès pour se relancer - Les Echos](https://news.google.com/rss/articles/CBMikwFBVV95cUxNTEpCRzBPYmJBOXk4MW4wS01sZDNDa3kyTTVPNkN4Ulp1ZmNKMFpzUzBDT29JdGlpa1Z3SWh4NFNrY2VIN1BNYVdQY0cyU3NYcVlyTVc0UEdpeTA5TDljZFFHV3huM3hHQTJRTUdieWJzOVE3WmVsYU1PZ2p4Vm8yeG5pVlVRQWlYLS0tTDE4LWxwQVE?oc=5)
-
-`Mon, 01 Jun 2026 05:45:08 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMikwFBVV95cUxNTEpCRzBPYmJBOXk4MW4wS01sZDNDa3kyTTVPNkN4Ulp1ZmNKMFpzUzBDT29JdGlpa1Z3SWh4NFNrY2VIN1BNYVdQY0cyU3NYcVlyTVc0UEdpeTA5TDljZFFHV3huM3hHQTJRTUdieWJzOVE3WmVsYU1PZ2p4Vm8yeG5pVlVRQWlYLS0tTDE4LWxwQVE?oc=5" target="_blank">La CGT en congrès pour se relancer</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
