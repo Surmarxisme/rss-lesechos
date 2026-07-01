@@ -1,7 +1,7 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Wed, 01 Jul 2026 12:12:07 +0000`
-> 88 articles (30 derniers jours)
+> Derniere mise a jour : `Wed, 01 Jul 2026 14:13:25 +0000`
+> 87 articles (30 derniers jours)
 
 ---
 
@@ -698,13 +698,5 @@
 `Mon, 01 Jun 2026 17:18:00 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcl9hbnNqeUYzZkhSSThUMUhPeTVDSkh0S0VNN0hiWXRFU2pEcjhpb3ZxTENzQzBHbzhXdFQtWi03Y2xqbkFyMVhyaFhhUWxJS1R2MWpUSnFldDc5bFNWZTdnVzE5Ty11QlRzbHhjbjNITU11RlExN3UwV08xeGZZbDNOVnVlaUtGaVc3c3p2bEt5YlIwczBDbEdhYTJOTlBwc1RhcVpOTDJoMGV2Ry1CVldudEl1N0lFVVJiNGx1V1FnUQ?oc=5" target="_blank">Congrès de la CGT : Sophie Binet sonne la charge contre l'extrême droite</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Chômage : des reprises d'emploi souvent rapides mais précaires - Les Echos](https://news.google.com/rss/articles/CBMitwFBVV95cUxPOWYwSVAzVGQ2RzlxU2NFXzJUX3dRVXo1TTAyelRKNUNBRlRsOXNOMGlDdlpDTGg4M3k3RXBLNkRqbHVZcURqQjY1amQ3cktraTR0UFNsY0s0SDVuQWQ3X1puS3p4N1p3b194Vy1jYlFTYnpucUdKTmIwdHc0cUhMMUptLWRBU01UV1dZanUwRGpsVVExMElTSjIyYVRKdS1UenIxTG1JV2lsRk96MXZTQllURnM2QWM?oc=5)
-
-`Mon, 01 Jun 2026 13:07:11 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxPOWYwSVAzVGQ2RzlxU2NFXzJUX3dRVXo1TTAyelRKNUNBRlRsOXNOMGlDdlpDTGg4M3k3RXBLNkRqbHVZcURqQjY1amQ3cktraTR0UFNsY0s0SDVuQWQ3X1puS3p4N1p3b194Vy1jYlFTYnpucUdKTmIwdHc0cUhMMUptLWRBU01UV1dZanUwRGpsVVExMElTSjIyYVRKdS1UenIxTG1JV2lsRk96MXZTQllURnM2QWM?oc=5" target="_blank">Chômage : des reprises d'emploi souvent rapides mais précaires</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
