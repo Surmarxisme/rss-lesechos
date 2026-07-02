@@ -1,7 +1,7 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Thu, 02 Jul 2026 08:36:23 +0000`
-> 87 articles (30 derniers jours)
+> Derniere mise a jour : `Thu, 02 Jul 2026 11:38:28 +0000`
+> 86 articles (30 derniers jours)
 
 ---
 
@@ -690,13 +690,5 @@
 `Tue, 02 Jun 2026 15:00:13 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxQdU5zWS1qVWQ5eXdyRnZKRDY1UFZGLTdtYmNYeVZXbnhWOHlXcTF6NkpFWW1ZdnRYX2I1bmlQRUZ5YWFHR3RDS21UTjFQWGF4LWNLc2w0eUJxZEl1c0dxNnBqdFJWY1hHNTlTU3dGb3ZncTJCck9SODJoSkl0OWdRTnV2cjRfc0pTRVhUSy1tLWN3N1YyTFBRN3p6T2dnNV83ZHJJQ1Z0VlhLbFd6NHVPbjFn?oc=5" target="_blank">L'incroyable croissance cachée de l'économie française</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [« On a passé l'après-midi avec des Chinois et des Japonais, c'est génial ! » : la fin d'une époque, le dernier Choose France d'Emmanuel Macron - Les Echos](https://news.google.com/rss/articles/CBMilwJBVV95cUxQZTY0T3FSQ1dKV2xEUjJsd20weGNHVldTUk9fYWhmOWxJem54emtXcWxlT09jb3Ixc1RHcWNPZTJpcmNBTFZBclJLT1FJZWdUOFhuUDVQaVpYZVA2QUNndTlKVllLZmxvMzNRUWRfWndSbnVsbEVvazVQSzNBVHoxNmV1U1p5TGdtN3pBZHVicUp4MC1MOHZ5WDcyT3MtMW9qNzd6cHUwZE5OcXF4WmRseGVqOXJsRUpkeVE1aDBwSE1kOWFWNzZDUTZvN3NfSFNaSF9jR1lSSzhVTHBYRmFVaDMzYWtvd1JVMlZOWkotYmtZMEdkSDFMaGVlcHlhZjFpbUNmWDI3eXEzVWJVZ24tc3JhM1NRaTg?oc=5)
-
-`Tue, 02 Jun 2026 10:16:28 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMilwJBVV95cUxQZTY0T3FSQ1dKV2xEUjJsd20weGNHVldTUk9fYWhmOWxJem54emtXcWxlT09jb3Ixc1RHcWNPZTJpcmNBTFZBclJLT1FJZWdUOFhuUDVQaVpYZVA2QUNndTlKVllLZmxvMzNRUWRfWndSbnVsbEVvazVQSzNBVHoxNmV1U1p5TGdtN3pBZHVicUp4MC1MOHZ5WDcyT3MtMW9qNzd6cHUwZE5OcXF4WmRseGVqOXJsRUpkeVE1aDBwSE1kOWFWNzZDUTZvN3NfSFNaSF9jR1lSSzhVTHBYRmFVaDMzYWtvd1JVMlZOWkotYmtZMEdkSDFMaGVlcHlhZjFpbUNmWDI3eXEzVWJVZ24tc3JhM1NRaTg?oc=5" target="_blank">« On a passé l'après-midi avec des Chinois et des Japonais, c'est génial ! » : la fin d'une époque, le dernier Choose France d'Emmanuel Macron</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
