@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Wed, 01 Jul 2026 18:53:47 +0000`
+> Derniere mise a jour : `Thu, 02 Jul 2026 08:36:23 +0000`
 > 87 articles (30 derniers jours)
+
+---
+
+### [A Aix-en-Provence, des rencontres économiques dans l'ombre de la présidentielle - Les Echos](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOLUc0TlFNaG1LdV96a2FNNUpkRzBzU0lMNUZacTZQckc0VkNvSUh3dmpHLUFvQjNOT1MtMzRXWGYwVDN4MnhPRjJDU2h1UEJVNzhmZ3UxQ204bW45VUlqZ3huTEd1d09oTHg2UDVpRzdjYXRTX25qNEwxSFFXQ0NDUnFqTjJvOEprRXN6eHY5TW96b25RUU9adGRHcEloODZQNG1tUjRVdTFTLWxSWDN5ZEl3RmRtR29SQlFlLWRPUi13dlBMWno0YjRxZDBrakZuYnlR?oc=5)
+
+`Thu, 02 Jul 2026 05:10:09 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi0wFBVV95cUxOLUc0TlFNaG1LdV96a2FNNUpkRzBzU0lMNUZacTZQckc0VkNvSUh3dmpHLUFvQjNOT1MtMzRXWGYwVDN4MnhPRjJDU2h1UEJVNzhmZ3UxQ204bW45VUlqZ3huTEd1d09oTHg2UDVpRzdjYXRTX25qNEwxSFFXQ0NDUnFqTjJvOEprRXN6eHY5TW96b25RUU9adGRHcEloODZQNG1tUjRVdTFTLWxSWDN5ZEl3RmRtR29SQlFlLWRPUi13dlBMWno0YjRxZDBrakZuYnlR?oc=5" target="_blank">A Aix-en-Provence, des rencontres économiques dans l'ombre de la présidentielle</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -690,13 +698,5 @@
 `Tue, 02 Jun 2026 10:16:28 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMilwJBVV95cUxQZTY0T3FSQ1dKV2xEUjJsd20weGNHVldTUk9fYWhmOWxJem54emtXcWxlT09jb3Ixc1RHcWNPZTJpcmNBTFZBclJLT1FJZWdUOFhuUDVQaVpYZVA2QUNndTlKVllLZmxvMzNRUWRfWndSbnVsbEVvazVQSzNBVHoxNmV1U1p5TGdtN3pBZHVicUp4MC1MOHZ5WDcyT3MtMW9qNzd6cHUwZE5OcXF4WmRseGVqOXJsRUpkeVE1aDBwSE1kOWFWNzZDUTZvN3NfSFNaSF9jR1lSSzhVTHBYRmFVaDMzYWtvd1JVMlZOWkotYmtZMEdkSDFMaGVlcHlhZjFpbUNmWDI3eXEzVWJVZ24tc3JhM1NRaTg?oc=5" target="_blank">« On a passé l'après-midi avec des Chinois et des Japonais, c'est génial ! » : la fin d'une époque, le dernier Choose France d'Emmanuel Macron</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Police, prisons, emplois, Fonds vert : les cibles prioritaires des coupes budgétaires de Bercy - Les Echos](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdk9SODVXVVBKV2FqSWxMQVVvS2xJXzNKbTJyTDFYazNpNUc1cnBMVndySEp5aGVWZnF2S3V3MGJ0QnpERDBuR09ZOUVTeDJiM2xrSDVoNnd3cUVQb3hPZjR0ak1TODQ0eXpJeHR1SU85dWNvZzJpU3d0UVh2SW9ZSmQ3Z2x1bkdrdEg3VDZtU3lUSHdXd3pQUFJLNjRDdXVSUnM0bHh5NEQtYXlITXRrb1dFbWd0c1RtYUlnTjZwa1dQTmdCTlpGQ2wzbDVuN1BFYmlQS3NueDRvdkxsR2pieE1uZ1dCN09xaHc?oc=5)
-
-`Tue, 02 Jun 2026 04:15:09 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdk9SODVXVVBKV2FqSWxMQVVvS2xJXzNKbTJyTDFYazNpNUc1cnBMVndySEp5aGVWZnF2S3V3MGJ0QnpERDBuR09ZOUVTeDJiM2xrSDVoNnd3cUVQb3hPZjR0ak1TODQ0eXpJeHR1SU85dWNvZzJpU3d0UVh2SW9ZSmQ3Z2x1bkdrdEg3VDZtU3lUSHdXd3pQUFJLNjRDdXVSUnM0bHh5NEQtYXlITXRrb1dFbWd0c1RtYUlnTjZwa1dQTmdCTlpGQ2wzbDVuN1BFYmlQS3NueDRvdkxsR2pieE1uZ1dCN09xaHc?oc=5" target="_blank">Police, prisons, emplois, Fonds vert : les cibles prioritaires des coupes budgétaires de Bercy</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
