@@ -1,7 +1,23 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Fri, 03 Jul 2026 13:45:38 +0000`
+> Derniere mise a jour : `Fri, 03 Jul 2026 18:06:40 +0000`
 > 88 articles (30 derniers jours)
+
+---
+
+### [L'IA chez les fonctionnaires : des usages foisonnants mais largement incontrôlés - Les Echos](https://news.google.com/rss/articles/CBMizwFBVV95cUxOSm9NenZfYVNFMjkxcGZWRUVlaXdFVHNpNTFLZTg4cWF5N3QwSGZHTlRPcFZUTklVU01pcWs3WW4yN05OQVhFUnYtVGdpT25nMVhnTUZqcjMwQk9fSkVEWEZrbDkyMG5oTzA5elRHNFhGODFYdDZBem5FRWF3Sk5JZFpxZ1MxYk5DNFE4SjZpYkVPdF90d0pfZnJ6NUN0NGNVakltWUdrOTV6M0hyLTZNcmlYM0tpdzNmVFhJaEtYelNZTmNPR1hrQzhTY3VLM28?oc=5)
+
+`Fri, 03 Jul 2026 16:19:16 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMizwFBVV95cUxOSm9NenZfYVNFMjkxcGZWRUVlaXdFVHNpNTFLZTg4cWF5N3QwSGZHTlRPcFZUTklVU01pcWs3WW4yN05OQVhFUnYtVGdpT25nMVhnTUZqcjMwQk9fSkVEWEZrbDkyMG5oTzA5elRHNFhGODFYdDZBem5FRWF3Sk5JZFpxZ1MxYk5DNFE4SjZpYkVPdF90d0pfZnJ6NUN0NGNVakltWUdrOTV6M0hyLTZNcmlYM0tpdzNmVFhJaEtYelNZTmNPR1hrQzhTY3VLM28?oc=5" target="_blank">L'IA chez les fonctionnaires : des usages foisonnants mais largement incontrôlés</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Coût du travail : quand la France reperd une partie du terrain gagné sur l'Allemagne - Les Echos](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVm1rb01pdXZucjZiUUtSZEptZVFEdlBDY2JyUnhwd0g3OUxiVHNyRnJWdDJFVjRPUnJsZUJjSVU5MUZrMGhTZUYwcnAxLWZLSG1fZURsc1lCd2w2MkdwQlFhRTVfeEVPWjUtWnRqaTUzWldhRFVGS2tYSlRxc0NHSnM5eGVDYXFxNnpFMDlqcHZpRXIzejlGRkJ3dmNoVk9tdk1kc3BCZ3l5Y3NWay1CX1ZXanhFQUdIMGQyRXdCMVByY1ZBb01DaDZyVDJDOElHTUZDZy1YMHY?oc=5)
+
+`Fri, 03 Jul 2026 17:47:52 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVm1rb01pdXZucjZiUUtSZEptZVFEdlBDY2JyUnhwd0g3OUxiVHNyRnJWdDJFVjRPUnJsZUJjSVU5MUZrMGhTZUYwcnAxLWZLSG1fZURsc1lCd2w2MkdwQlFhRTVfeEVPWjUtWnRqaTUzWldhRFVGS2tYSlRxc0NHSnM5eGVDYXFxNnpFMDlqcHZpRXIzejlGRkJ3dmNoVk9tdk1kc3BCZ3l5Y3NWay1CX1ZXanhFQUdIMGQyRXdCMVByY1ZBb01DaDZyVDJDOElHTUZDZy1YMHY?oc=5" target="_blank">Coût du travail : quand la France reperd une partie du terrain gagné sur l'Allemagne</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -690,21 +706,5 @@
 `Thu, 04 Jun 2026 09:30:49 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMizwFBVV95cUxOeURKRUdJdi1maUxwZ09FUkFpVWVQRTBFUHdNQXBPUzkxU1BoZjlCUVhXZ1J6S1ZycUdOeFRjWWRsNUtKcnVMazB2aENodmEwaDZieV8zVF90ZG9hVHlXUFdJaXI1djJzVlJGSm9KSl9BNm9LdXptdnhpeTZEQjIzM0tOcjJ5QmNyZFNIenlmZ2ZMRXhnOG1KTm1fNXE3cG1JUU5ORFdjcE1FYktuTnVPYUppYmVpZkdjc0UwZUt2cGdMaUdERjNSeUh1VEV6Y3M?oc=5" target="_blank">Cumul emploi-retraite : cette réforme passée inapercue qui alarme les entreprises</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Coupes budgétaires : les parlementaires dénoncent une « cacophonie gouvernementale » - Les Echos](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOMjNCLTFLQzZ6R2Z2YmdPX0lJTDVqQTZqN1AydV94THBzR0FhZ3JNWXpNZHVaZ3NMcDFEMFo5U05mOWJPdDR5TFBIR3ZCWU4zbDZvZ3E1M2RFcl8ybE5KX2wwZG5GRUlmaTktMWEweWpKc2VxU2ZoRWgtVnRLMlpyY2xIS054aHhwbmh2dmxkU25mVnJCcVNqMGh3cW9Rcm5IU1A5MndBeVExY1ZId3hqUEhzNTVDT3RkYUplTVBmVkFMNGg1bUxOLThfU09HRzZRQVYwZkdVVm1Yak0?oc=5)
-
-`Wed, 03 Jun 2026 17:29:40 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi2wFBVV95cUxOMjNCLTFLQzZ6R2Z2YmdPX0lJTDVqQTZqN1AydV94THBzR0FhZ3JNWXpNZHVaZ3NMcDFEMFo5U05mOWJPdDR5TFBIR3ZCWU4zbDZvZ3E1M2RFcl8ybE5KX2wwZG5GRUlmaTktMWEweWpKc2VxU2ZoRWgtVnRLMlpyY2xIS054aHhwbmh2dmxkU25mVnJCcVNqMGh3cW9Rcm5IU1A5MndBeVExY1ZId3hqUEhzNTVDT3RkYUplTVBmVkFMNGg1bUxOLThfU09HRzZRQVYwZkdVVm1Yak0?oc=5" target="_blank">Coupes budgétaires : les parlementaires dénoncent une « cacophonie gouvernementale »</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [« La fonction publique s'effondre et les gouvernements regardent ailleurs » : les syndicats somment Bercy d'agir sur les salaires - Les Echos](https://news.google.com/rss/articles/CBMihwJBVV95cUxOSUNyYlFMMHU5b0JDMVN0djVlekJycmF6dERTQTBzdlA5MDdIaFJqcGVUZ3VFbENTMU9mWGcxbHJEMV9Fb2R3b2NtMFhrUkQtMGtiQjRWRGlsdVA1d1dVdVg5TE5CRDU5NGtaSnVFbHFiQ0pfOVJXRGd1Yi1MRml1U3p4QTlRa3lIUUZhck8xOVdydUp1S2R1VEF5SGhqdTdVRi1ubTBpNEsxdkVqYno1akdBM0hHVTczb2VYUWI3ZXRXUngyb1h3am9VR1ZpSzVGTDhUaE1ZSVFYbmlyczlJak1aRjJZelFuZ0tRbkNfTHp0R09RSFVVdE54TVhrMW1QeUdfM1lkaw?oc=5)
-
-`Wed, 03 Jun 2026 15:26:19 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMihwJBVV95cUxOSUNyYlFMMHU5b0JDMVN0djVlekJycmF6dERTQTBzdlA5MDdIaFJqcGVUZ3VFbENTMU9mWGcxbHJEMV9Fb2R3b2NtMFhrUkQtMGtiQjRWRGlsdVA1d1dVdVg5TE5CRDU5NGtaSnVFbHFiQ0pfOVJXRGd1Yi1MRml1U3p4QTlRa3lIUUZhck8xOVdydUp1S2R1VEF5SGhqdTdVRi1ubTBpNEsxdkVqYno1akdBM0hHVTczb2VYUWI3ZXRXUngyb1h3am9VR1ZpSzVGTDhUaE1ZSVFYbmlyczlJak1aRjJZelFuZ0tRbkNfTHp0R09RSFVVdE54TVhrMW1QeUdfM1lkaw?oc=5" target="_blank">« La fonction publique s'effondre et les gouvernements regardent ailleurs » : les syndicats somment Bercy d'agir sur les salaires</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
