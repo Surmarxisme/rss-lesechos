@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Fri, 03 Jul 2026 11:36:47 +0000`
+> Derniere mise a jour : `Fri, 03 Jul 2026 13:45:38 +0000`
 > 88 articles (30 derniers jours)
+
+---
+
+### [Déficit : Bercy dit accueillir « positivement » les idées du Medef - Les Echos](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTTBFRDRBUDY2a29tN1RjVmo3bWpmMXB1RGtHcXl6cTI3c3A4dVZIOGY0TTV6TGxFbnFlZnNaZGNZSFNZckNsUkppbWVDRktyTGxwUXpXSzVBT1laclZwMTFiTi1LclI4VFkyRlN4NXFtRUZ4aHA0aHNFQUZ2TUxXY3M4Uk5DMGpHV0lyM3MxUEFnek9FNDFBaXdYRmZsWEEtQjNjQWtNUGpuQ0U2d01KNWNITDE1eDhKZjFLZXJLX0wwSTA?oc=5)
+
+`Fri, 03 Jul 2026 12:51:26 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTTBFRDRBUDY2a29tN1RjVmo3bWpmMXB1RGtHcXl6cTI3c3A4dVZIOGY0TTV6TGxFbnFlZnNaZGNZSFNZckNsUkppbWVDRktyTGxwUXpXSzVBT1laclZwMTFiTi1LclI4VFkyRlN4NXFtRUZ4aHA0aHNFQUZ2TUxXY3M4Uk5DMGpHV0lyM3MxUEFnek9FNDFBaXdYRmZsWEEtQjNjQWtNUGpuQ0U2d01KNWNITDE1eDhKZjFLZXJLX0wwSTA?oc=5" target="_blank">Déficit : Bercy dit accueillir « positivement » les idées du Medef</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -698,13 +706,5 @@
 `Wed, 03 Jun 2026 15:26:19 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMihwJBVV95cUxOSUNyYlFMMHU5b0JDMVN0djVlekJycmF6dERTQTBzdlA5MDdIaFJqcGVUZ3VFbENTMU9mWGcxbHJEMV9Fb2R3b2NtMFhrUkQtMGtiQjRWRGlsdVA1d1dVdVg5TE5CRDU5NGtaSnVFbHFiQ0pfOVJXRGd1Yi1MRml1U3p4QTlRa3lIUUZhck8xOVdydUp1S2R1VEF5SGhqdTdVRi1ubTBpNEsxdkVqYno1akdBM0hHVTczb2VYUWI3ZXRXUngyb1h3am9VR1ZpSzVGTDhUaE1ZSVFYbmlyczlJak1aRjJZelFuZ0tRbkNfTHp0R09RSFVVdE54TVhrMW1QeUdfM1lkaw?oc=5" target="_blank">« La fonction publique s'effondre et les gouvernements regardent ailleurs » : les syndicats somment Bercy d'agir sur les salaires</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Déficit : Bruxelles reste indulgente avec la France mais demande plus d'économies - Les Echos](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZzM2V2VsYm4wSWJqcE9CS0MybE5POUUxYmlhclVYUHdkYXFfRWtleUxJdTkyYVhLUWF1MTFYZUZVUk1sR3RXR0dSR0lZVDhwZVNTM2Z4UnhwQnlxQ0Q5X1ZCQnFtU2VIajl2MDNTY05xZmIyNnZPaW5nN2tiMHl1cklhdlM0aEwxUzRQcHhiSmtPUUJ1aXVvWXhrN3Z0emQwUl95RElHYjRoeU43Q2JIQm1xNVhrQlJNRnh1cXFZZE5zcDdXenJVbDFvS01mSkk2RWFJb0dOWS0xdTQ?oc=5)
-
-`Wed, 03 Jun 2026 13:12:50 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZzM2V2VsYm4wSWJqcE9CS0MybE5POUUxYmlhclVYUHdkYXFfRWtleUxJdTkyYVhLUWF1MTFYZUZVUk1sR3RXR0dSR0lZVDhwZVNTM2Z4UnhwQnlxQ0Q5X1ZCQnFtU2VIajl2MDNTY05xZmIyNnZPaW5nN2tiMHl1cklhdlM0aEwxUzRQcHhiSmtPUUJ1aXVvWXhrN3Z0emQwUl95RElHYjRoeU43Q2JIQm1xNVhrQlJNRnh1cXFZZE5zcDdXenJVbDFvS01mSkk2RWFJb0dOWS0xdTQ?oc=5" target="_blank">Déficit : Bruxelles reste indulgente avec la France mais demande plus d'économies</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
