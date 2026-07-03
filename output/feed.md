@@ -1,7 +1,7 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Fri, 03 Jul 2026 08:41:06 +0000`
-> 89 articles (30 derniers jours)
+> Derniere mise a jour : `Fri, 03 Jul 2026 11:36:47 +0000`
+> 88 articles (30 derniers jours)
 
 ---
 
@@ -698,14 +698,6 @@
 `Wed, 03 Jun 2026 15:26:19 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMihwJBVV95cUxOSUNyYlFMMHU5b0JDMVN0djVlekJycmF6dERTQTBzdlA5MDdIaFJqcGVUZ3VFbENTMU9mWGcxbHJEMV9Fb2R3b2NtMFhrUkQtMGtiQjRWRGlsdVA1d1dVdVg5TE5CRDU5NGtaSnVFbHFiQ0pfOVJXRGd1Yi1MRml1U3p4QTlRa3lIUUZhck8xOVdydUp1S2R1VEF5SGhqdTdVRi1ubTBpNEsxdkVqYno1akdBM0hHVTczb2VYUWI3ZXRXUngyb1h3am9VR1ZpSzVGTDhUaE1ZSVFYbmlyczlJak1aRjJZelFuZ0tRbkNfTHp0R09RSFVVdE54TVhrMW1QeUdfM1lkaw?oc=5" target="_blank">« La fonction publique s'effondre et les gouvernements regardent ailleurs » : les syndicats somment Bercy d'agir sur les salaires</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Baisse de la natalité : l'alerte envoyée aux maires sur les places en crèches - Les Echos](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOc3RlRVk3RFQzbW45S2tPSWpfXzh6SFlnNHRUV3ROLTVhc2VIdlhSVnJJUHRlOGZKcXhIWC03YWppZHR3S25UOVpERTNjUm85VDlwY29hWGM1cGc0QTFIYTl6V2NiZEh6cWYyeV82VWo1RFJwS1VzZ0V0VlRFc0VuT0N2RE1odjdfWFFwaE1SRlZtZVhvQS1hQ2Q5Y3YwanFKdFRCVkRuaHRYa0NObHVBazNsX21wODlON1R1and6LVV5TUNpOF9NZA?oc=5)
-
-`Wed, 03 Jun 2026 11:02:18 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxOc3RlRVk3RFQzbW45S2tPSWpfXzh6SFlnNHRUV3ROLTVhc2VIdlhSVnJJUHRlOGZKcXhIWC03YWppZHR3S25UOVpERTNjUm85VDlwY29hWGM1cGc0QTFIYTl6V2NiZEh6cWYyeV82VWo1RFJwS1VzZ0V0VlRFc0VuT0N2RE1odjdfWFFwaE1SRlZtZVhvQS1hQ2Q5Y3YwanFKdFRCVkRuaHRYa0NObHVBazNsX21wODlON1R1and6LVV5TUNpOF9NZA?oc=5" target="_blank">Baisse de la natalité : l'alerte envoyée aux maires sur les places en crèches</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
