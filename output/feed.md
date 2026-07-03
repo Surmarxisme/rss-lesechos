@@ -1,7 +1,23 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Thu, 02 Jul 2026 18:21:31 +0000`
+> Derniere mise a jour : `Fri, 03 Jul 2026 08:41:06 +0000`
 > 89 articles (30 derniers jours)
+
+---
+
+### [Aux Rencontres d'Aix, Sébastien Lecornu plaide pour un budget de compromis - Les Echos](https://news.google.com/rss/articles/CBMizAFBVV95cUxQWkh0STY2Tl9GQmszOWQxVmU3SGF6cmdGX05FQ1U1b2lIaUlKZmZBRE45SXE2M1VLSlMyT3NTUU5kTnFReVJTdmVfemx4U092blFpUXRPdGQ5LVNhaFExLW1GQ1hyZnFpOHdGdFZJTmtrR2hGTzF5ZjI1NDZrZmxzNTF3ZUhTSmhVYTVRbjluZER0d1NmbUJybTZzTm9PRFBWcEp5ZlBXaENpNURYVGZrNE96cUJ1el9xbk9jLXRNdVdhSXN0eTg4cVd4V24?oc=5)
+
+`Thu, 02 Jul 2026 20:01:35 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMizAFBVV95cUxQWkh0STY2Tl9GQmszOWQxVmU3SGF6cmdGX05FQ1U1b2lIaUlKZmZBRE45SXE2M1VLSlMyT3NTUU5kTnFReVJTdmVfemx4U092blFpUXRPdGQ5LVNhaFExLW1GQ1hyZnFpOHdGdFZJTmtrR2hGTzF5ZjI1NDZrZmxzNTF3ZUhTSmhVYTVRbjluZER0d1NmbUJybTZzTm9PRFBWcEp5ZlBXaENpNURYVGZrNE96cUJ1el9xbk9jLXRNdVdhSXN0eTg4cVd4V24?oc=5" target="_blank">Aux Rencontres d'Aix, Sébastien Lecornu plaide pour un budget de compromis</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Patrick Martin : « Il n'y a pas d'alternative sérieuse à une année blanche sur les prestations sociales en 2027 - Les Echos](https://news.google.com/rss/articles/CBMi_wFBVV95cUxQZ2l0M1N5dE5jd0hzUjdoMHBpMFlYUl96bnlkZkRTdkxNWFNxSzY2cUFmSmJnODJDaHBlY1l1bzdlNnZOR095Ujg0d3MzWDA3VGJjbXVISm1CbjllekotX0FwUjl6YmpFanRNWHFfeUtJLTFEWC1EWDVtR2hhRjNtVzRHZXN1TEdlbllEdDV3ZzlMT1hsbElGbWIwVTNOTjJkSXNWZXMtT01OUTFGYkg3ZWgwSWY0bTlXY0ZMdEpzLWN2b05ONHpqbFhaRzRtZ2tKLVNLQW1xY1Fxd09CcmJWUXZOazRJcGdJWmZyUEtBdWZfRlNJWmtoU1RtRlJrZHM?oc=5)
+
+`Fri, 03 Jul 2026 04:44:00 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi_wFBVV95cUxQZ2l0M1N5dE5jd0hzUjdoMHBpMFlYUl96bnlkZkRTdkxNWFNxSzY2cUFmSmJnODJDaHBlY1l1bzdlNnZOR095Ujg0d3MzWDA3VGJjbXVISm1CbjllekotX0FwUjl6YmpFanRNWHFfeUtJLTFEWC1EWDVtR2hhRjNtVzRHZXN1TEdlbllEdDV3ZzlMT1hsbElGbWIwVTNOTjJkSXNWZXMtT01OUTFGYkg3ZWgwSWY0bTlXY0ZMdEpzLWN2b05ONHpqbFhaRzRtZ2tKLVNLQW1xY1Fxd09CcmJWUXZOazRJcGdJWmZyUEtBdWZfRlNJWmtoU1RtRlJrZHM?oc=5" target="_blank">Patrick Martin : « Il n'y a pas d'alternative sérieuse à une année blanche sur les prestations sociales en 2027</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -698,21 +714,5 @@
 `Wed, 03 Jun 2026 13:12:50 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZzM2V2VsYm4wSWJqcE9CS0MybE5POUUxYmlhclVYUHdkYXFfRWtleUxJdTkyYVhLUWF1MTFYZUZVUk1sR3RXR0dSR0lZVDhwZVNTM2Z4UnhwQnlxQ0Q5X1ZCQnFtU2VIajl2MDNTY05xZmIyNnZPaW5nN2tiMHl1cklhdlM0aEwxUzRQcHhiSmtPUUJ1aXVvWXhrN3Z0emQwUl95RElHYjRoeU43Q2JIQm1xNVhrQlJNRnh1cXFZZE5zcDdXenJVbDFvS01mSkk2RWFJb0dOWS0xdTQ?oc=5" target="_blank">Déficit : Bruxelles reste indulgente avec la France mais demande plus d'économies</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Les départements vent debout après le coup de pouce salarial pour les aides à domicile - Les Echos](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTVROTWhDQ2o1UWw4V1lDSTVWRGZ3TTlfMUpJZ014RDBfV0Y5RXJzTEJLdVJTck9YR21ldElBNVY5ek9hdThuRXRZTmM2bEZ5QXZOME9CUFFFa2VraHdWblRCRlZ6dFZUeTNuNE5xRzZIN0NzVEZTYjBidGYwb25kT0hyT0w2b2xXcU9oOF9hT0lsVF9pZHFBSW1HNFJodkVOY0pvaUF6TjVSX3NGU0RzNVhZT1E0YUYzSnR0dFpNVVZVbDNJazdjNWZtQUtnS2d1S0tKRU1ZcWc?oc=5)
-
-`Wed, 03 Jun 2026 04:36:09 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTVROTWhDQ2o1UWw4V1lDSTVWRGZ3TTlfMUpJZ014RDBfV0Y5RXJzTEJLdVJTck9YR21ldElBNVY5ek9hdThuRXRZTmM2bEZ5QXZOME9CUFFFa2VraHdWblRCRlZ6dFZUeTNuNE5xRzZIN0NzVEZTYjBidGYwb25kT0hyT0w2b2xXcU9oOF9hT0lsVF9pZHFBSW1HNFJodkVOY0pvaUF6TjVSX3NGU0RzNVhZT1E0YUYzSnR0dFpNVVZVbDNJazdjNWZtQUtnS2d1S0tKRU1ZcWc?oc=5" target="_blank">Les départements vent debout après le coup de pouce salarial pour les aides à domicile</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Crise énergétique : le rapport qui plaide pour ne surtout pas baisser les taxes sur le carburant - Les Echos](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPOUhPM09rTWN6N1QxUXRQVU10WC11SHNoR1RMSGI0VFZKMVVhdEw3NHdjX0tya1lyREx0ZGtsemVwYy1fUHY3UjJKMFFfMDgwMUpwWFZMQWdGRXZTRXBPaXV6ejctcURFWlVDR3pfaURncTR2YmlpaVRoUXB5WW1jUlBJQ1RwdUd4SFgyXzNhQlNpckpWSFREMlN5Nkk2NkhjNG1uUklhMU03RmpOQmNVNFhVTnY0VWlwUVNTaWhTcmloTGxsSUpKLWdvNFRna0xxZFpUaWVMcnMtb3BYQW5tZWZRUk01dnVhY3JmMFdzOUg?oc=5)
-
-`Wed, 03 Jun 2026 08:00:55 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi8AFBVV95cUxPOUhPM09rTWN6N1QxUXRQVU10WC11SHNoR1RMSGI0VFZKMVVhdEw3NHdjX0tya1lyREx0ZGtsemVwYy1fUHY3UjJKMFFfMDgwMUpwWFZMQWdGRXZTRXBPaXV6ejctcURFWlVDR3pfaURncTR2YmlpaVRoUXB5WW1jUlBJQ1RwdUd4SFgyXzNhQlNpckpWSFREMlN5Nkk2NkhjNG1uUklhMU03RmpOQmNVNFhVTnY0VWlwUVNTaWhTcmloTGxsSUpKLWdvNFRna0xxZFpUaWVMcnMtb3BYQW5tZWZRUk01dnVhY3JmMFdzOUg?oc=5" target="_blank">Crise énergétique : le rapport qui plaide pour ne surtout pas baisser les taxes sur le carburant</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
