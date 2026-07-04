@@ -1,7 +1,7 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Fri, 03 Jul 2026 18:06:40 +0000`
-> 88 articles (30 derniers jours)
+> Derniere mise a jour : `Sat, 04 Jul 2026 10:55:54 +0000`
+> 86 articles (30 derniers jours)
 
 ---
 
@@ -690,21 +690,5 @@
 `Thu, 04 Jun 2026 15:28:27 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUnpmRUVnQ1Vjd0ptOHRpOHZpZENVY0tmb3d2V1RBTzFUcy1SMEJmeEkzSEdJbUxnS0w2ajFnbHpjQW83ZTkyRjdWUlUycTlBRk85OXM5eTM1dDhUOWYtdlh0SEs4SU1pOFhWajlWZWw3alpYMmRpVGNSZGlHMVk1VERhT1JnSnpWOG1pU2wxMWZ0ZDUzeVY1S2xUQlJ1VWQ4VzFOLWRnOUxLRzhkWGhzVVNWcjJId3FmVE5uV0VYWjk2Vnc?oc=5" target="_blank">Immigration : radiographie des derniers étrangers arrivés en France</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Transparence salariale : plusieurs organisations patronales européennes veulent une pause dans la transposition de la directive - Les Echos](https://news.google.com/rss/articles/CBMijAJBVV95cUxONWJmMk5wYnpwTzV1dzVWLTNLZ3dGWFN0czl1TVR6aUc0OHotWWVJdUVHNWxGMVZveWVPUnc5MVB3YnlqN0hYUjRMdTQ0eU4tVEMxMjU3NkVFM1NISHZkdlpfTnV2LWxzSEZJdFFURTBsdHFXLUg1ellpMzJJaTJVMS10UWtscXEwWFNwWjBoLXVRVHBGc09pMVA3T2FjSWo3d3E1MUxsUlJGVTNqUEhFLTBLd3Bpei1QR0xmLVByOFNCN2tDX0ZZcjVEWHUxTXpmTkotb2hLbUd5MDdHUDkzbnJzN2RFRVF6X1luTF9jQXA0ckFrTHJ0V0huYmNUamRmd2kwR1luOHNaUnZL?oc=5)
-
-`Thu, 04 Jun 2026 10:45:14 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMijAJBVV95cUxONWJmMk5wYnpwTzV1dzVWLTNLZ3dGWFN0czl1TVR6aUc0OHotWWVJdUVHNWxGMVZveWVPUnc5MVB3YnlqN0hYUjRMdTQ0eU4tVEMxMjU3NkVFM1NISHZkdlpfTnV2LWxzSEZJdFFURTBsdHFXLUg1ellpMzJJaTJVMS10UWtscXEwWFNwWjBoLXVRVHBGc09pMVA3T2FjSWo3d3E1MUxsUlJGVTNqUEhFLTBLd3Bpei1QR0xmLVByOFNCN2tDX0ZZcjVEWHUxTXpmTkotb2hLbUd5MDdHUDkzbnJzN2RFRVF6X1luTF9jQXA0ckFrTHJ0V0huYmNUamRmd2kwR1luOHNaUnZL?oc=5" target="_blank">Transparence salariale : plusieurs organisations patronales européennes veulent une pause dans la transposition de la directive</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Cumul emploi-retraite : cette réforme passée inapercue qui alarme les entreprises - Les Echos](https://news.google.com/rss/articles/CBMizwFBVV95cUxOeURKRUdJdi1maUxwZ09FUkFpVWVQRTBFUHdNQXBPUzkxU1BoZjlCUVhXZ1J6S1ZycUdOeFRjWWRsNUtKcnVMazB2aENodmEwaDZieV8zVF90ZG9hVHlXUFdJaXI1djJzVlJGSm9KSl9BNm9LdXptdnhpeTZEQjIzM0tOcjJ5QmNyZFNIenlmZ2ZMRXhnOG1KTm1fNXE3cG1JUU5ORFdjcE1FYktuTnVPYUppYmVpZkdjc0UwZUt2cGdMaUdERjNSeUh1VEV6Y3M?oc=5)
-
-`Thu, 04 Jun 2026 09:30:49 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMizwFBVV95cUxOeURKRUdJdi1maUxwZ09FUkFpVWVQRTBFUHdNQXBPUzkxU1BoZjlCUVhXZ1J6S1ZycUdOeFRjWWRsNUtKcnVMazB2aENodmEwaDZieV8zVF90ZG9hVHlXUFdJaXI1djJzVlJGSm9KSl9BNm9LdXptdnhpeTZEQjIzM0tOcjJ5QmNyZFNIenlmZ2ZMRXhnOG1KTm1fNXE3cG1JUU5ORFdjcE1FYktuTnVPYUppYmVpZkdjc0UwZUt2cGdMaUdERjNSeUh1VEV6Y3M?oc=5" target="_blank">Cumul emploi-retraite : cette réforme passée inapercue qui alarme les entreprises</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
