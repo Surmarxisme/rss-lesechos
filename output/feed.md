@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Mon, 06 Jul 2026 12:53:49 +0000`
-> 77 articles (30 derniers jours)
+> Derniere mise a jour : `Mon, 06 Jul 2026 15:14:46 +0000`
+> 78 articles (30 derniers jours)
+
+---
+
+### [Démographie : en France, la baisse des naissances se poursuit - Les Echos](https://news.google.com/rss/articles/CBMiswFBVV95cUxQYTNNZFRkZENqeXEwVHRYMUN3ODA0djlXS3Zob0d5VUhuV1E4d29kRFBmbXYtbjhDbTNTVmpOTUZUQmNxSVo3NHNVXzM1cE9wRFZVNENMNm8xNUI4ampVOG9ZbE9VS3JmNHZoRWk1N2JjUEJxRDdiMGJyUUw1TkRVaHJRRW5DUWlBOEEyLWMzSXVRdEhsb0RsSF9IWVEtUWdKRVZBcjJLVGpRX0JNLU1RZzEyMA?oc=5)
+
+`Mon, 06 Jul 2026 15:00:27 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxQYTNNZFRkZENqeXEwVHRYMUN3ODA0djlXS3Zob0d5VUhuV1E4d29kRFBmbXYtbjhDbTNTVmpOTUZUQmNxSVo3NHNVXzM1cE9wRFZVNENMNm8xNUI4ampVOG9ZbE9VS3JmNHZoRWk1N2JjUEJxRDdiMGJyUUw1TkRVaHJRRW5DUWlBOEEyLWMzSXVRdEhsb0RsSF9IWVEtUWdKRVZBcjJLVGpRX0JNLU1RZzEyMA?oc=5" target="_blank">Démographie : en France, la baisse des naissances se poursuit</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
