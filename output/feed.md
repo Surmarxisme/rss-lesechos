@@ -1,7 +1,7 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Sun, 05 Jul 2026 11:06:33 +0000`
-> 79 articles (30 derniers jours)
+> Derniere mise a jour : `Mon, 06 Jul 2026 09:46:45 +0000`
+> 77 articles (30 derniers jours)
 
 ---
 
@@ -618,21 +618,5 @@
 `Sun, 07 Jun 2026 15:37:25 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi4AFBVV95cUxOVnpYU3gxWE92M3AyOWpQcVEybXgwN2xhbGRKRTNud2prbS0zZWhtSXlZYVdCZDBFTnBPVm44WGp1aC1SR1NyZ1FvWGx6VnQtbDFrMmx5b0F2NVUyYjZhWTlBS0ZkeEUwUW9Ed2hMcFFjVUJyWmwtamxOVFc5TkxNM1pjb19JQWppajBmZHg0Zmx6MnpWX2Z3VUV0Q0hidDdKUWUxOEJ2V205S2lrWDh1VXhMYkRDQURpZzFyaF9XN0JVcm5mU0ZIWkZNZmUtQkZQWXR2Q2ZtOFN3U0tpQnVNcQ?oc=5" target="_blank">L'affaire Lyhanna met la pression sur le gouvernement et la justice, des propositions émergent</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Sophie Binet confortée à la tête d'une CGT « rassemblée » - Les Echos](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPejFvTHA4WlljVWtXYUs5ajA0cEZyNy1DVG5MTEdpbDNfMWpLT2RraU5uSnllTWlOT3FVWnM3TFBaZHlON0NhSlF4dS1DQ2VjTF9JdTJNRTE3aVA1TTdxcFFaS0tVQVE3Y2JmX3ItMkZKbDI5RGZwc3RIa1Y2REdLRl9LVGVRRFpYdEFyYlJBbG5fQ3I3ZVJfTkhQOThJbGgyTFlNZGEwSDdFQkU?oc=5)
-
-`Fri, 05 Jun 2026 18:20:56 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxPejFvTHA4WlljVWtXYUs5ajA0cEZyNy1DVG5MTEdpbDNfMWpLT2RraU5uSnllTWlOT3FVWnM3TFBaZHlON0NhSlF4dS1DQ2VjTF9JdTJNRTE3aVA1TTdxcFFaS0tVQVE3Y2JmX3ItMkZKbDI5RGZwc3RIa1Y2REdLRl9LVGVRRFpYdEFyYlJBbG5fQ3I3ZVJfTkhQOThJbGgyTFlNZGEwSDdFQkU?oc=5" target="_blank">Sophie Binet confortée à la tête d'une CGT « rassemblée »</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Sécu : le gouvernement veut une « prise de conscience » sur le coût des soins - Les Echos](https://news.google.com/rss/articles/CBMixAFBVV95cUxOWXoxaE9FbWVyR2xJVWVRTlctWFB0NWVjcHJQNXctMjdiVDdJbUxTYVdVaklJbmlVcXZDT0dZR3BkbzQxSlJqOEM4NGFmSGJvOW1ZWEgwbGRuVDNWa1VMcW1XbElGczJrbkpab0NTdGRNWHJfYUZINm1EckRWdkcwX18yM1Qzd01BOGc0TlIxZWR5M1FORHJUV28waW81UTVLQmNINkNhZzYwQkJvMEtkb3JMaFZaNlRWaG1SOGZSNzN1eHo2?oc=5)
-
-`Fri, 05 Jun 2026 14:40:51 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMixAFBVV95cUxOWXoxaE9FbWVyR2xJVWVRTlctWFB0NWVjcHJQNXctMjdiVDdJbUxTYVdVaklJbmlVcXZDT0dZR3BkbzQxSlJqOEM4NGFmSGJvOW1ZWEgwbGRuVDNWa1VMcW1XbElGczJrbkpab0NTdGRNWHJfYUZINm1EckRWdkcwX18yM1Qzd01BOGc0TlIxZWR5M1FORHJUV28waW81UTVLQmNINkNhZzYwQkJvMEtkb3JMaFZaNlRWaG1SOGZSNzN1eHo2?oc=5" target="_blank">Sécu : le gouvernement veut une « prise de conscience » sur le coût des soins</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
