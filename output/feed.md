@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Mon, 06 Jul 2026 15:14:46 +0000`
-> 78 articles (30 derniers jours)
+> Derniere mise a jour : `Mon, 06 Jul 2026 18:48:35 +0000`
+> 79 articles (30 derniers jours)
+
+---
+
+### [Budget : le gouvernement au défi de contenir le déficit à 5 % du PIB cette année - Les Echos](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQM056SmtVWnhsUl90aEotZFc2WGZDMGdhSFlrUENTdDN3TEUzYWUwUHdwelJSNkZPbm1nOFMtQzJrYkVUZWw4dW1pekZBT2hnbE5qbUFsQnUtYmRsTjNjY3YyRnl4ZnhERFJOb0Q4NG5XaS13YTFIVUk1X3MxU3FySTlyV2tXQlZ3ZlNsVnJ3cVZqdXV3NTFMaEQ1U0J2TFFRUTJUOFl6RTlwclp6WjE3dlNpcHdnMEZXNG5VMUlDSWlXRVUwdVR6WnpLM0Qxb3hDSFVBU3JHWmU?oc=5)
+
+`Mon, 06 Jul 2026 16:05:15 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi2AFBVV95cUxQM056SmtVWnhsUl90aEotZFc2WGZDMGdhSFlrUENTdDN3TEUzYWUwUHdwelJSNkZPbm1nOFMtQzJrYkVUZWw4dW1pekZBT2hnbE5qbUFsQnUtYmRsTjNjY3YyRnl4ZnhERFJOb0Q4NG5XaS13YTFIVUk1X3MxU3FySTlyV2tXQlZ3ZlNsVnJ3cVZqdXV3NTFMaEQ1U0J2TFFRUTJUOFl6RTlwclp6WjE3dlNpcHdnMEZXNG5VMUlDSWlXRVUwdVR6WnpLM0Qxb3hDSFVBU3JHWmU?oc=5" target="_blank">Budget : le gouvernement au défi de contenir le déficit à 5 % du PIB cette année</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
