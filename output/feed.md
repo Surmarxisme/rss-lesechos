@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Tue, 07 Jul 2026 08:58:49 +0000`
-> 80 articles (30 derniers jours)
+> Derniere mise a jour : `Tue, 07 Jul 2026 11:57:07 +0000`
+> 81 articles (30 derniers jours)
+
+---
+
+### [Budget : le gouvernement n'attend plus que 0,7 % de croissance en 2026 - Les Echos](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcEFOQVAydFJBT1hGME9TbWUzNGZDYmNHMi1lcm9xQjBac3NLb3hDM0cyY3lTeklQdF9DNF9hSG95eUp3QkZYb1pCRDlpUjVodXV1Vm45OEtfRjRJdGlKNmVpWGhZd0lXUGxsajl4bnR2Vk1uZGJqdlBlcU52clhSWmJSOU5Canp2dVhYald6THAyWmZuNEFxTFpLUEkzS2hJemRfMnY0cXpXV0IzdlpuNTV3Z2tDdDZfTGFxOGVtSFMzb0JIdnpiMg?oc=5)
+
+`Tue, 07 Jul 2026 10:09:22 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcEFOQVAydFJBT1hGME9TbWUzNGZDYmNHMi1lcm9xQjBac3NLb3hDM0cyY3lTeklQdF9DNF9hSG95eUp3QkZYb1pCRDlpUjVodXV1Vm45OEtfRjRJdGlKNmVpWGhZd0lXUGxsajl4bnR2Vk1uZGJqdlBlcU52clhSWmJSOU5Canp2dVhYald6THAyWmZuNEFxTFpLUEkzS2hJemRfMnY0cXpXV0IzdlpuNTV3Z2tDdDZfTGFxOGVtSFMzb0JIdnpiMg?oc=5" target="_blank">Budget : le gouvernement n'attend plus que 0,7 % de croissance en 2026</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
