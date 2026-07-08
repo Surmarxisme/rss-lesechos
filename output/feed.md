@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Wed, 08 Jul 2026 08:01:37 +0000`
+> Derniere mise a jour : `Wed, 08 Jul 2026 11:09:12 +0000`
 > 81 articles (30 derniers jours)
+
+---
+
+### [« A chaque fois, il faut retaper du poing sur la table » : les entreprises voient rouge sur les retards de paiement des hôpitaux - Les Echos](https://news.google.com/rss/articles/CBMihwJBVV95cUxOM1hZTUFRbjZaeDhlVTNUQ3M5UUZsUkxlTVBaUzJEWk1uM1dsTmJoaS1JTHFiTWdpSWh2Z05SZUk3R3VEYzVNUXY2anNnOHZsOUlPdjFjSlprUUNJYm9DaG9nbmNnUXVNN3hRSFNueXpCRndPM0ZrWEYtM3JUX3dSQnJFemZLY05tWUhIR3h6WUxwMmExTlN1TndOMk9SUkNPQlJPWjlEMndjR25aR081STNhWEdpY1I5SkVOdUNzaFV1cFl3eGVBRUxJd09xTVJCWWdGQk96Qk1Ra1BqOU9HcDJzVnNkSlR0NFJ6XzNhV19PeEJoWWxOanVpS1FUZldVak05aUw2RQ?oc=5)
+
+`Wed, 08 Jul 2026 09:05:36 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMihwJBVV95cUxOM1hZTUFRbjZaeDhlVTNUQ3M5UUZsUkxlTVBaUzJEWk1uM1dsTmJoaS1JTHFiTWdpSWh2Z05SZUk3R3VEYzVNUXY2anNnOHZsOUlPdjFjSlprUUNJYm9DaG9nbmNnUXVNN3hRSFNueXpCRndPM0ZrWEYtM3JUX3dSQnJFemZLY05tWUhIR3h6WUxwMmExTlN1TndOMk9SUkNPQlJPWjlEMndjR25aR081STNhWEdpY1I5SkVOdUNzaFV1cFl3eGVBRUxJd09xTVJCWWdGQk96Qk1Ra1BqOU9HcDJzVnNkSlR0NFJ6XzNhV19PeEJoWWxOanVpS1FUZldVak05aUw2RQ?oc=5" target="_blank">« A chaque fois, il faut retaper du poing sur la table » : les entreprises voient rouge sur les retards de paiement des hôpitaux</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -642,13 +650,5 @@
 `Mon, 08 Jun 2026 12:55:06 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMizwFBVV95cUxNdEJoeGxDSzZaeGNldmp5VjJNeUZ2Ulg0dzROOGE1OF9YVUhYRlFISEhPenhldUUwaEV2SVBMT3RMcE9YRl9HTlNsYVpNekZ5S0xRLWQ3Vkt4Qkx6MWUzRndpcHRZWGd2dU5MZTZ6M2xOOUNiQTVFdTU0MnN0TzRkQ1NNTFpYeGduRXIzdzBaNTBwcTNIcENMaU1hQVQ4TG5VQzV2VmROY1lMZHYzeWdpb1hGM1ZCRmViaGNaZkNrZlBfdUxlUTdxYjdKTmZaOE0?oc=5" target="_blank">EXCLUSIF - Comment la baisse de la natalité va peser sur le déficit des retraites</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [A horizon 2070, la France pourrait compter 3 millions d'habitants en moins qu'aujourd'hui - Les Echos](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcE4wck1ScHBjeGN6RmRwY0dVTXRDOV92c0ZpV1BjbDNMWUNNbVQwNGFtNjZDMF9nZmNzdE9ZdFhVNS1jbkJhalIyQkYyMkFRRGRMN3dncVZkamR0V0pWUktoNERrU1VvYUJFYWZvc2laMm9reC1lbE5qbkVWV3h0eXJjekFLRWRHUGFZdDg1Z3VaZlVwRU41NmozUWdGMmtUNFB0UDRwamZpRllqX0VHTWtmTkx4VHBtbHQ4X0xjQzVqZm9vMnE2c2hJQlVMaVFKTWM5WHZLbVNSWTcwM0E?oc=5)
-
-`Mon, 08 Jun 2026 09:00:19 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcE4wck1ScHBjeGN6RmRwY0dVTXRDOV92c0ZpV1BjbDNMWUNNbVQwNGFtNjZDMF9nZmNzdE9ZdFhVNS1jbkJhalIyQkYyMkFRRGRMN3dncVZkamR0V0pWUktoNERrU1VvYUJFYWZvc2laMm9reC1lbE5qbkVWV3h0eXJjekFLRWRHUGFZdDg1Z3VaZlVwRU41NmozUWdGMmtUNFB0UDRwamZpRllqX0VHTWtmTkx4VHBtbHQ4X0xjQzVqZm9vMnE2c2hJQlVMaVFKTWM5WHZLbVNSWTcwM0E?oc=5" target="_blank">A horizon 2070, la France pourrait compter 3 millions d'habitants en moins qu'aujourd'hui</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
