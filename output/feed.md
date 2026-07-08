@@ -1,7 +1,23 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Wed, 08 Jul 2026 11:09:12 +0000`
-> 81 articles (30 derniers jours)
+> Derniere mise a jour : `Wed, 08 Jul 2026 18:11:58 +0000`
+> 80 articles (30 derniers jours)
+
+---
+
+### [La rentrée sera-t-elle chaude dans la fonction publique ? Le gouvernement rate son rendez-vous salarial avec les syndicats - Les Echos](https://news.google.com/rss/articles/CBMihgJBVV95cUxQRlZPMDhMWWJOQ3JXMDI2NS1hdGJrTWJ3RDJkbnJmYUxGdTVqQXpLSW1pck1SVzFUdUJwemZVMnF4YkI4eUhqeUJkV2d2Tmp1YnlKckFmYkRlZmZBVU9NRDVHOHhUcmpkRmxaR3Qxa0V2aGR1ekZpLWNTTTFUWFBJZnNpU0M3eGpQbkVzM2JqTVZhQndGNnl0MEtGVXI3bWJGa3ZUVXRmSVNTemhwQTJWd2tXdmZnOHVKUzRBXy1Ob0djREVYWm1zeGdTSGhPUEFGWjNGS3UzV0hUUzRsa3FKRDdJQUdHeEdubGluRDh5QXctaHYyaTNsX1FGa3Y2cC13MDVFS29B?oc=5)
+
+`Wed, 08 Jul 2026 13:37:24 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMihgJBVV95cUxQRlZPMDhMWWJOQ3JXMDI2NS1hdGJrTWJ3RDJkbnJmYUxGdTVqQXpLSW1pck1SVzFUdUJwemZVMnF4YkI4eUhqeUJkV2d2Tmp1YnlKckFmYkRlZmZBVU9NRDVHOHhUcmpkRmxaR3Qxa0V2aGR1ekZpLWNTTTFUWFBJZnNpU0M3eGpQbkVzM2JqTVZhQndGNnl0MEtGVXI3bWJGa3ZUVXRmSVNTemhwQTJWd2tXdmZnOHVKUzRBXy1Ob0djREVYWm1zeGdTSGhPUEFGWjNGS3UzV0hUUzRsa3FKRDdJQUdHeEdubGluRDh5QXctaHYyaTNsX1FGa3Y2cC13MDVFS29B?oc=5" target="_blank">La rentrée sera-t-elle chaude dans la fonction publique ? Le gouvernement rate son rendez-vous salarial avec les syndicats</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Commerce extérieur : ces nouveaux chiffres qui douchent les espoirs tricolores - Les Echos](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRFZxbVJlMU5oTzhNQl9nR1Q1WVBjTEppV1cwdG9XNEgxY0lvdG16VVNSTnJOV1VtT0YwRVhrYUJrbl9ZQ3liOFpaWkRiaG1KRXpKZzVEbmstZmt0VzVCSW1JeDctemVFQnByTmh0SGFJaVRKVFlCUzRNeXE5U2g3MTlraE9QdU9adjRvbE9IanVQSFZlcVFZUTZ5OVctdUFEUTVXMjR5aS1feElNMTZJVmw3bkNqSFNPei1PdDdwWGhwVVctdzRHbUdaaFRYUVI5OS1ZYkFaQTlhZw?oc=5)
+
+`Wed, 08 Jul 2026 13:25:34 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRFZxbVJlMU5oTzhNQl9nR1Q1WVBjTEppV1cwdG9XNEgxY0lvdG16VVNSTnJOV1VtT0YwRVhrYUJrbl9ZQ3liOFpaWkRiaG1KRXpKZzVEbmstZmt0VzVCSW1JeDctemVFQnByTmh0SGFJaVRKVFlCUzRNeXE5U2g3MTlraE9QdU9adjRvbE9IanVQSFZlcVFZUTZ5OVctdUFEUTVXMjR5aS1feElNMTZJVmw3bkNqSFNPei1PdDdwWGhwVVctdzRHbUdaaFRYUVI5OS1ZYkFaQTlhZw?oc=5" target="_blank">Commerce extérieur : ces nouveaux chiffres qui douchent les espoirs tricolores</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -626,29 +642,5 @@
 `Tue, 09 Jun 2026 04:05:28 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi9wFBVV95cUxNV25NUGZ3MHVyNkluREhLWmFVcTFxNnBHcnRCRUdUUHlJMXJkY1Rpb1BlZk1QNHhhQVBHTXVtZi1yVzdVNVQyNEZmOVBUWXlaRjEyMDQtck5leEhvYTBXU0NhVW43YUVxRHNyWHZBcE0tVzRMLWhOZTkzSlV6ZURTUzBDYURxcm9MOXBZaTlfRzJhQ0JrWFVRMWh0dlNXS2JlaF9EVC1YQktfZmI1NDVOME1LNXlNczhkcllJazdHVUduWTVMSjNvR3ExcUhtekhTdU1Xd19SUmt5WXY0aVNLWW1zN0RzdWJLYkVjUUg0bHo5TWZ2QW5v?oc=5" target="_blank">Alerte aux dépassements d'honoraires : les pistes sur la table pour limiter la facture des médecins spécialistes</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Budget : pour redresser les comptes publics, trois scénarios et beaucoup d'impôts - Les Echos](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPLTFsQUV5bVVmcDBubkwxMWoyMmJsODBVSGNhRnAtMDBzR0JQODllbEtlcDJocnhMVTBFNUpiN0RMb2dCTnMyTVhwYzJxajJNdHZpR3dGRTlQSW04b3hjVU1lN0VtemJ6UXAwSXJ3UXBPU3prOTJyQkU3bzBEdHdWcDYyeHk2cXFVTXlKVDR4QmdwYVk5WU44TWRabmg2Z2QyWjE5UlVjWWZfY0Nna2tpUWdHa180MFBPNFI0YkNGQVNTMGdDT1BOS1VQcGJzNjhvOVhEU0pqb2lwUQ?oc=5)
-
-`Mon, 08 Jun 2026 15:47:19 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi2gFBVV95cUxPLTFsQUV5bVVmcDBubkwxMWoyMmJsODBVSGNhRnAtMDBzR0JQODllbEtlcDJocnhMVTBFNUpiN0RMb2dCTnMyTVhwYzJxajJNdHZpR3dGRTlQSW04b3hjVU1lN0VtemJ6UXAwSXJ3UXBPU3prOTJyQkU3bzBEdHdWcDYyeHk2cXFVTXlKVDR4QmdwYVk5WU44TWRabmg2Z2QyWjE5UlVjWWZfY0Nna2tpUWdHa180MFBPNFI0YkNGQVNTMGdDT1BOS1VQcGJzNjhvOVhEU0pqb2lwUQ?oc=5" target="_blank">Budget : pour redresser les comptes publics, trois scénarios et beaucoup d'impôts</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Réforme des ruptures conventionnelles et chômage en hausse : temps maussade pour l'emploi - Les Echos](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSWlOUTB0Z24tbnlKODZOaXNHbG5ENEl5Yzg5UDBaZUg0RS1wUDgtUXotUXNKY2xOSmZhRGlmbWZ5WGFHLXhJWlZZNC1FcjRBaVZlLWpBamhLZ3VQMXhRUzhYMHNSRGZrX3FETzQ5eVBCYXRVT3dDZ0tLcjgtZHJaV0x3Z3RxQkFXQzRwWENodFE3NWtxSFZzdjNqRWl4NW1Vd19aenhIT1VUZzFFcDBBOVpwWkt5ZmFkMk5ORFdJbWJLLW5kaEV0NnllXzhzUWh2YlMyNXA1TV8?oc=5)
-
-`Mon, 08 Jun 2026 15:00:30 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSWlOUTB0Z24tbnlKODZOaXNHbG5ENEl5Yzg5UDBaZUg0RS1wUDgtUXotUXNKY2xOSmZhRGlmbWZ5WGFHLXhJWlZZNC1FcjRBaVZlLWpBamhLZ3VQMXhRUzhYMHNSRGZrX3FETzQ5eVBCYXRVT3dDZ0tLcjgtZHJaV0x3Z3RxQkFXQzRwWENodFE3NWtxSFZzdjNqRWl4NW1Vd19aenhIT1VUZzFFcDBBOVpwWkt5ZmFkMk5ORFdJbWJLLW5kaEV0NnllXzhzUWh2YlMyNXA1TV8?oc=5" target="_blank">Réforme des ruptures conventionnelles et chômage en hausse : temps maussade pour l'emploi</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [EXCLUSIF - Comment la baisse de la natalité va peser sur le déficit des retraites - Les Echos](https://news.google.com/rss/articles/CBMizwFBVV95cUxNdEJoeGxDSzZaeGNldmp5VjJNeUZ2Ulg0dzROOGE1OF9YVUhYRlFISEhPenhldUUwaEV2SVBMT3RMcE9YRl9HTlNsYVpNekZ5S0xRLWQ3Vkt4Qkx6MWUzRndpcHRZWGd2dU5MZTZ6M2xOOUNiQTVFdTU0MnN0TzRkQ1NNTFpYeGduRXIzdzBaNTBwcTNIcENMaU1hQVQ4TG5VQzV2VmROY1lMZHYzeWdpb1hGM1ZCRmViaGNaZkNrZlBfdUxlUTdxYjdKTmZaOE0?oc=5)
-
-`Mon, 08 Jun 2026 12:55:06 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMizwFBVV95cUxNdEJoeGxDSzZaeGNldmp5VjJNeUZ2Ulg0dzROOGE1OF9YVUhYRlFISEhPenhldUUwaEV2SVBMT3RMcE9YRl9HTlNsYVpNekZ5S0xRLWQ3Vkt4Qkx6MWUzRndpcHRZWGd2dU5MZTZ6M2xOOUNiQTVFdTU0MnN0TzRkQ1NNTFpYeGduRXIzdzBaNTBwcTNIcENMaU1hQVQ4TG5VQzV2VmROY1lMZHYzeWdpb1hGM1ZCRmViaGNaZkNrZlBfdUxlUTdxYjdKTmZaOE0?oc=5" target="_blank">EXCLUSIF - Comment la baisse de la natalité va peser sur le déficit des retraites</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
