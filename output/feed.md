@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Tue, 07 Jul 2026 18:53:30 +0000`
+> Derniere mise a jour : `Wed, 08 Jul 2026 08:01:37 +0000`
 > 81 articles (30 derniers jours)
+
+---
+
+### [Budget 2027 : la menace d'une nouvelle ponction de l'Etat plane sur l'assurance-chômage - Les Echos](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSXJ2aHNpSFJEd1J0cVY4elZMVlR0R0JBTjVleGQ0Mk5rUnN4bENvdnU1WU9aaXY5ZzFENmdJTDFtVmVwbWZZOTBuSjhIeWVvd0lJLWRoRUFMRUd2ejVBajVyTGhaNlF1eTBRLXhaT284bG1OdFRfREtiRlpKSVJTc2tSbGwxZWZKaHBpa3ktd3FWVmQzWTREZVlYUUhtYnc2ZTlpRlZTRHhvTk1CUThNM3NaSk5PSUExMzRHdENlVEtFbGxmN1oydUVnUkVpQTFuaTI4?oc=5)
+
+`Wed, 08 Jul 2026 04:15:08 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSXJ2aHNpSFJEd1J0cVY4elZMVlR0R0JBTjVleGQ0Mk5rUnN4bENvdnU1WU9aaXY5ZzFENmdJTDFtVmVwbWZZOTBuSjhIeWVvd0lJLWRoRUFMRUd2ejVBajVyTGhaNlF1eTBRLXhaT284bG1OdFRfREtiRlpKSVJTc2tSbGwxZWZKaHBpa3ktd3FWVmQzWTREZVlYUUhtYnc2ZTlpRlZTRHhvTk1CUThNM3NaSk5PSUExMzRHdENlVEtFbGxmN1oydUVnUkVpQTFuaTI4?oc=5" target="_blank">Budget 2027 : la menace d'une nouvelle ponction de l'Etat plane sur l'assurance-chômage</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -634,14 +642,6 @@
 `Mon, 08 Jun 2026 12:55:06 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMizwFBVV95cUxNdEJoeGxDSzZaeGNldmp5VjJNeUZ2Ulg0dzROOGE1OF9YVUhYRlFISEhPenhldUUwaEV2SVBMT3RMcE9YRl9HTlNsYVpNekZ5S0xRLWQ3Vkt4Qkx6MWUzRndpcHRZWGd2dU5MZTZ6M2xOOUNiQTVFdTU0MnN0TzRkQ1NNTFpYeGduRXIzdzBaNTBwcTNIcENMaU1hQVQ4TG5VQzV2VmROY1lMZHYzeWdpb1hGM1ZCRmViaGNaZkNrZlBfdUxlUTdxYjdKTmZaOE0?oc=5" target="_blank">EXCLUSIF - Comment la baisse de la natalité va peser sur le déficit des retraites</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [EXCLUSIF - Fraudes à l'apprentissage : l'estimation explosive de la Cour des comptes - Les Echos](https://news.google.com/rss/articles/CBMizgFBVV95cUxPU3czdlNsWExGbFVPM2NTRmxmU1ZzNzA3RDBqRGxTcFYyeF9oMERobGdUcFUwNVJYYTk1VzJLcFpwamFsQllSZkZ4ODRaMnVmSVdtRndDb2lfOXM0czZWZDV4RjZrRWJfZjRZTHdXazVuWDRuY2I0M21RUHRRcjNob2U0Nl9fOVNSWnhQb1kzV3RqVExFNjA5ODNWZmY5ZHR4aFo0NGh0eEZzeFlzNWFoNG9xRW04MUdxTzRLV0gwSXBUejNXUzViMzM0aWFMdw?oc=5)
-
-`Mon, 08 Jun 2026 04:00:08 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMizgFBVV95cUxPU3czdlNsWExGbFVPM2NTRmxmU1ZzNzA3RDBqRGxTcFYyeF9oMERobGdUcFUwNVJYYTk1VzJLcFpwamFsQllSZkZ4ODRaMnVmSVdtRndDb2lfOXM0czZWZDV4RjZrRWJfZjRZTHdXazVuWDRuY2I0M21RUHRRcjNob2U0Nl9fOVNSWnhQb1kzV3RqVExFNjA5ODNWZmY5ZHR4aFo0NGh0eEZzeFlzNWFoNG9xRW04MUdxTzRLV0gwSXBUejNXUzViMzM0aWFMdw?oc=5" target="_blank">EXCLUSIF - Fraudes à l'apprentissage : l'estimation explosive de la Cour des comptes</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
