@@ -1,7 +1,7 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Thu, 09 Jul 2026 12:10:43 +0000`
-> 81 articles (30 derniers jours)
+> Derniere mise a jour : `Thu, 09 Jul 2026 14:36:01 +0000`
+> 80 articles (30 derniers jours)
 
 ---
 
@@ -642,13 +642,5 @@
 `Tue, 09 Jun 2026 15:22:43 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi3AFBVV95cUxOUVlfMUtrZWdLcU5NVmZRNVFDMkNzYmtjYnRnNXh4VjF0dDRxdU1PdlZIT2RfZ2ExenVidHd1cW9MRVlKM0NqS3VUc1JUbTFqRlY3ckRFMFhYNVl4aTlfa0d3UmJkS0x2THhSVDJRUm5KdlNCTFhiNWhqdWtHUWxYbmdha3djc3BFUERaVFVmcm54NUZFVzhSdndUNC1XYXloNUVEeVQ4SVdoUnRDamZkYjdlQ3FIT0xwbEswYW11WkRVck1aTy12dWpCYzNOcUhremZPTVVOemUtZlR5?oc=5" target="_blank">Impôt sur les sociétés : pas touche à la « niche Copé », recommande la Cour de Comptes</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [François Hommeril l'iconoclaste laisse à sa successeure, Christelle Thieffinne, une CFE-CGC en plein essor - Les Echos](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPTUdROFNUclktUGRBczVIc2xlQjM1amNwbzVzUkJUQlY2TE9Rbm5ESkpma1JSblhueHRiSTZSSnhBV3RqSHh0a09SaWxJUU1wbXRmRDQxSjFjdmk0ZVhRZU5kS3BvTU9uZ3F0RDdHUlFKY0R4eWQwV01nYVFfMFFUYUt2OHZGb051V1pDeWl6M2tmS1NERDh0UXh3eVc0VXZ0U2o2NkxDQ2RyNnhmZ01sWHVhRXdGTnJjMFN3MmY3b0hlYThxWEFZenpXNHV6el9NajFORjZpV1NodU1mN01jd2dPRjRZaVpIeEhoUzBQQQ?oc=5)
-
-`Tue, 09 Jun 2026 13:15:15 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi7wFBVV95cUxPTUdROFNUclktUGRBczVIc2xlQjM1amNwbzVzUkJUQlY2TE9Rbm5ESkpma1JSblhueHRiSTZSSnhBV3RqSHh0a09SaWxJUU1wbXRmRDQxSjFjdmk0ZVhRZU5kS3BvTU9uZ3F0RDdHUlFKY0R4eWQwV01nYVFfMFFUYUt2OHZGb051V1pDeWl6M2tmS1NERDh0UXh3eVc0VXZ0U2o2NkxDQ2RyNnhmZ01sWHVhRXdGTnJjMFN3MmY3b0hlYThxWEFZenpXNHV6el9NajFORjZpV1NodU1mN01jd2dPRjRZaVpIeEhoUzBQQQ?oc=5" target="_blank">François Hommeril l'iconoclaste laisse à sa successeure, Christelle Thieffinne, une CFE-CGC en plein essor</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
