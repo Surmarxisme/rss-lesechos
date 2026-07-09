@@ -1,7 +1,39 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Thu, 09 Jul 2026 14:36:01 +0000`
-> 80 articles (30 derniers jours)
+> Derniere mise a jour : `Thu, 09 Jul 2026 18:44:28 +0000`
+> 83 articles (30 derniers jours)
+
+---
+
+### [Le taux de pauvreté toujours à un niveau record en France - Les Echos](https://news.google.com/rss/articles/CBMisgFBVV95cUxNbXBWTlp5c3R5djZaOW84ZDNLc3pUYjJCVzY4cHc5ZEQwNzhDdHljcDVTME96RE9JNzhqZk5GNDRfUHQ1eF8tVGdXczA0Rm5pY2NTX2dhNEk4R2NxYTZuZFJPTGlRdXlwRzZlY19XYnhqNy1PN0diX1NhZ3JIM0NWUGpEVW9BajVKTFIyTngzdFpiSEpZeHl5T3ZrRUFvM25WSXNCQzRwejFqVF9JTmZFV2N3?oc=5)
+
+`Thu, 09 Jul 2026 15:01:36 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxNbXBWTlp5c3R5djZaOW84ZDNLc3pUYjJCVzY4cHc5ZEQwNzhDdHljcDVTME96RE9JNzhqZk5GNDRfUHQ1eF8tVGdXczA0Rm5pY2NTX2dhNEk4R2NxYTZuZFJPTGlRdXlwRzZlY19XYnhqNy1PN0diX1NhZ3JIM0NWUGpEVW9BajVKTFIyTngzdFpiSEpZeHl5T3ZrRUFvM25WSXNCQzRwejFqVF9JTmZFV2N3?oc=5" target="_blank">Le taux de pauvreté toujours à un niveau record en France</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [La Banque de France revoit à la hausse sa prévision de croissance après un rebond inattendu de l'activité en juin - Les Echos](https://news.google.com/rss/articles/CBMiggJBVV95cUxOa3M3TEdSSjIyZ3FIR1FZeWlfSHVRZWtVSnUtaVJoeENIdk5xbVZfMGlSY0pSdkViR3Vfbm9HX3FNRmhMZUJEbXdvbXQtM3N3dFg5M0htM3FXbEdLTkdhTXp4Q0F5bU1iZnFsQ0ZDX0hlRXlyNzF2WHowU1NvSVgyVklQenFJdE5ORnJucGNsdXhyTU9lR2x6Z1JmMVZzWl9STDBqMUNyOU9vRXV2bG9sZzQtOU05alFwSGRWMnpVNUdPSUZqT3FzVHpfZks1Vml1dlZ3ZFFYNWZGclBnNGZhNEFRR0U1TDkzV3FuVHdXcjVoMC1adW52R3VKeUIya0gyUXc?oc=5)
+
+`Thu, 09 Jul 2026 18:00:19 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiggJBVV95cUxOa3M3TEdSSjIyZ3FIR1FZeWlfSHVRZWtVSnUtaVJoeENIdk5xbVZfMGlSY0pSdkViR3Vfbm9HX3FNRmhMZUJEbXdvbXQtM3N3dFg5M0htM3FXbEdLTkdhTXp4Q0F5bU1iZnFsQ0ZDX0hlRXlyNzF2WHowU1NvSVgyVklQenFJdE5ORnJucGNsdXhyTU9lR2x6Z1JmMVZzWl9STDBqMUNyOU9vRXV2bG9sZzQtOU05alFwSGRWMnpVNUdPSUZqT3FzVHpfZks1Vml1dlZ3ZFFYNWZGclBnNGZhNEFRR0U1TDkzV3FuVHdXcjVoMC1adW52R3VKeUIya0gyUXc?oc=5" target="_blank">La Banque de France revoit à la hausse sa prévision de croissance après un rebond inattendu de l'activité en juin</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Retraites : nouveau plaidoyer pour un coup de frein sur les hausses de pensions - Les Echos](https://news.google.com/rss/articles/CBMizAFBVV95cUxPbUNhVkZmWjhGV3ZKVDJkLVdLVUFzdXJOMjVFNHhTYWd3ZFNIdUJ3Uzl5T1h6Z0VIWWpSZ2huaUsxbEY5RERzR0s1Z0xjVXg3RnhNSS1IR0RCeUVLSk5GV3EyY21MQml5dnZ3aFdZc1UyQkw1SExyV0JKcEkzc0hlSUNOVFkzUFZUc0RDTkJMZDNzVlNvTXNWYVFIN2hHZ3ZVclZ2WHJad0tvczVkLUVHMjB4R2dBeXdaUHJiMWV4LWZ6ZFhXd05zSUF2Y2Q?oc=5)
+
+`Thu, 09 Jul 2026 16:52:43 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMizAFBVV95cUxPbUNhVkZmWjhGV3ZKVDJkLVdLVUFzdXJOMjVFNHhTYWd3ZFNIdUJ3Uzl5T1h6Z0VIWWpSZ2huaUsxbEY5RERzR0s1Z0xjVXg3RnhNSS1IR0RCeUVLSk5GV3EyY21MQml5dnZ3aFdZc1UyQkw1SExyV0JKcEkzc0hlSUNOVFkzUFZUc0RDTkJMZDNzVlNvTXNWYVFIN2hHZ3ZVclZ2WHJad0tvczVkLUVHMjB4R2dBeXdaUHJiMWV4LWZ6ZFhXd05zSUF2Y2Q?oc=5" target="_blank">Retraites : nouveau plaidoyer pour un coup de frein sur les hausses de pensions</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Budget : nouvelle alerte sur le déficit des collectivités locales - Les Echos](https://news.google.com/rss/articles/CBMixwFBVV95cUxPVWY4RzF2TjlOX1RhVFZZS09fa294d0ZSNGhSVlRhYlUtS2R6RW04bDVrTGdEY1ZRbzJCVVFSLWEyRGJHN1p2U2FQN01EeWc2SnN4T2RYMlRaQjRyQ25XU1YtVGZpODJ0dXR5WTFhcWY2TG8yUTF2RExsWTMxeTdUQU1wdS16eXNwTWlBVmxEcVEyenlybUM3VmR1bXFQOENQbkZaanNBVG5zSFAySWMzT2tXbjBuZXBsS18waDFqWFRvd2VMTm1n?oc=5)
+
+`Thu, 09 Jul 2026 14:36:49 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMixwFBVV95cUxPVWY4RzF2TjlOX1RhVFZZS09fa294d0ZSNGhSVlRhYlUtS2R6RW04bDVrTGdEY1ZRbzJCVVFSLWEyRGJHN1p2U2FQN01EeWc2SnN4T2RYMlRaQjRyQ25XU1YtVGZpODJ0dXR5WTFhcWY2TG8yUTF2RExsWTMxeTdUQU1wdS16eXNwTWlBVmxEcVEyenlybUM3VmR1bXFQOENQbkZaanNBVG5zSFAySWMzT2tXbjBuZXBsS18waDFqWFRvd2VMTm1n?oc=5" target="_blank">Budget : nouvelle alerte sur le déficit des collectivités locales</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -634,13 +666,5 @@
 `Wed, 10 Jun 2026 04:30:08 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMihwJBVV95cUxPMUx6djdXUnBpQzlZYWRVMUEtVXUyVHBkelYwYXJtYk1VNHB3VnNFWnNwSnN2MGJTejlXQi1PRDg1QWttc0JVTW44ckFfNVZaTVFRVVlqM0JuMEp3eXhHWnF6OTJCZGxKQXRlVkpPUG12OFk5MHJFZmJFeUNiRnhyUW1KVGI2b1dVVzZRY2xDLTg5TTE4d1M0TnF1S2I0blUwRmNnam5tM0dEZzlqOXZDSm5aX2hJdVVGdFd5WGlxaHNuOVBUdmtnbUlMV1NVellsZG13UUZLd2d3SGZxWS1ObWpqbC1YU0tpMHVHY0lOUHZRQ1hrTjdmUlVNejFTanBmZW1JUzd4UQ?oc=5" target="_blank">Affaire Lyhanna : « en voie de clochardisation » il y a dix ans, la justice a-t-elle suffisamment de moyens aujourd'hui</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Impôt sur les sociétés : pas touche à la « niche Copé », recommande la Cour de Comptes - Les Echos](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOUVlfMUtrZWdLcU5NVmZRNVFDMkNzYmtjYnRnNXh4VjF0dDRxdU1PdlZIT2RfZ2ExenVidHd1cW9MRVlKM0NqS3VUc1JUbTFqRlY3ckRFMFhYNVl4aTlfa0d3UmJkS0x2THhSVDJRUm5KdlNCTFhiNWhqdWtHUWxYbmdha3djc3BFUERaVFVmcm54NUZFVzhSdndUNC1XYXloNUVEeVQ4SVdoUnRDamZkYjdlQ3FIT0xwbEswYW11WkRVck1aTy12dWpCYzNOcUhremZPTVVOemUtZlR5?oc=5)
-
-`Tue, 09 Jun 2026 15:22:43 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi3AFBVV95cUxOUVlfMUtrZWdLcU5NVmZRNVFDMkNzYmtjYnRnNXh4VjF0dDRxdU1PdlZIT2RfZ2ExenVidHd1cW9MRVlKM0NqS3VUc1JUbTFqRlY3ckRFMFhYNVl4aTlfa0d3UmJkS0x2THhSVDJRUm5KdlNCTFhiNWhqdWtHUWxYbmdha3djc3BFUERaVFVmcm54NUZFVzhSdndUNC1XYXloNUVEeVQ4SVdoUnRDamZkYjdlQ3FIT0xwbEswYW11WkRVck1aTy12dWpCYzNOcUhremZPTVVOemUtZlR5?oc=5" target="_blank">Impôt sur les sociétés : pas touche à la « niche Copé », recommande la Cour de Comptes</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
