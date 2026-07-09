@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Wed, 08 Jul 2026 18:11:58 +0000`
+> Derniere mise a jour : `Thu, 09 Jul 2026 08:57:32 +0000`
 > 80 articles (30 derniers jours)
+
+---
+
+### [2,7 milliards de dette : quand les hôpitaux ne parviennent plus à payer leurs charges - Les Echos](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYkM3UkFBLS1PYi1YcG5jTjdBRTNKNExVVDJwWkNFWk1zOXFSSVFleFg4NW1vWlpadmxyOUkwTWlTV1o4Wng2YzlpeTZ6bE5GaG1CSlNOWmpab05Ca1R0a0pLa3NTWUZDbDlKUUd4bXlMejFocXdKbGdSdGN3SGtoWlVkR2JHOEpjZVRpVGMtVWhpVmRNWXBrTU14T0NFMUJyOTZJbkJRUWdnaXRFMDllQjVYNFh0WktkWWd3dVpZMU1XWEp2c080S3lZdTlYaU9OLThZ?oc=5)
+
+`Thu, 09 Jul 2026 04:25:08 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYkM3UkFBLS1PYi1YcG5jTjdBRTNKNExVVDJwWkNFWk1zOXFSSVFleFg4NW1vWlpadmxyOUkwTWlTV1o4Wng2YzlpeTZ6bE5GaG1CSlNOWmpab05Ca1R0a0pLa3NTWUZDbDlKUUd4bXlMejFocXdKbGdSdGN3SGtoWlVkR2JHOEpjZVRpVGMtVWhpVmRNWXBrTU14T0NFMUJyOTZJbkJRUWdnaXRFMDllQjVYNFh0WktkWWd3dVpZMU1XWEp2c080S3lZdTlYaU9OLThZ?oc=5" target="_blank">2,7 milliards de dette : quand les hôpitaux ne parviennent plus à payer leurs charges</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -634,13 +642,5 @@
 `Tue, 09 Jun 2026 13:15:15 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi7wFBVV95cUxPTUdROFNUclktUGRBczVIc2xlQjM1amNwbzVzUkJUQlY2TE9Rbm5ESkpma1JSblhueHRiSTZSSnhBV3RqSHh0a09SaWxJUU1wbXRmRDQxSjFjdmk0ZVhRZU5kS3BvTU9uZ3F0RDdHUlFKY0R4eWQwV01nYVFfMFFUYUt2OHZGb051V1pDeWl6M2tmS1NERDh0UXh3eVc0VXZ0U2o2NkxDQ2RyNnhmZ01sWHVhRXdGTnJjMFN3MmY3b0hlYThxWEFZenpXNHV6el9NajFORjZpV1NodU1mN01jd2dPRjRZaVpIeEhoUzBQQQ?oc=5" target="_blank">François Hommeril l'iconoclaste laisse à sa successeure, Christelle Thieffinne, une CFE-CGC en plein essor</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Alerte aux dépassements d'honoraires : les pistes sur la table pour limiter la facture des médecins spécialistes - Les Echos](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNV25NUGZ3MHVyNkluREhLWmFVcTFxNnBHcnRCRUdUUHlJMXJkY1Rpb1BlZk1QNHhhQVBHTXVtZi1yVzdVNVQyNEZmOVBUWXlaRjEyMDQtck5leEhvYTBXU0NhVW43YUVxRHNyWHZBcE0tVzRMLWhOZTkzSlV6ZURTUzBDYURxcm9MOXBZaTlfRzJhQ0JrWFVRMWh0dlNXS2JlaF9EVC1YQktfZmI1NDVOME1LNXlNczhkcllJazdHVUduWTVMSjNvR3ExcUhtekhTdU1Xd19SUmt5WXY0aVNLWW1zN0RzdWJLYkVjUUg0bHo5TWZ2QW5v?oc=5)
-
-`Tue, 09 Jun 2026 04:05:28 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi9wFBVV95cUxNV25NUGZ3MHVyNkluREhLWmFVcTFxNnBHcnRCRUdUUHlJMXJkY1Rpb1BlZk1QNHhhQVBHTXVtZi1yVzdVNVQyNEZmOVBUWXlaRjEyMDQtck5leEhvYTBXU0NhVW43YUVxRHNyWHZBcE0tVzRMLWhOZTkzSlV6ZURTUzBDYURxcm9MOXBZaTlfRzJhQ0JrWFVRMWh0dlNXS2JlaF9EVC1YQktfZmI1NDVOME1LNXlNczhkcllJazdHVUduWTVMSjNvR3ExcUhtekhTdU1Xd19SUmt5WXY0aVNLWW1zN0RzdWJLYkVjUUg0bHo5TWZ2QW5v?oc=5" target="_blank">Alerte aux dépassements d'honoraires : les pistes sur la table pour limiter la facture des médecins spécialistes</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
