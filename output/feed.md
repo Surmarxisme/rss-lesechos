@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Thu, 09 Jul 2026 08:57:32 +0000`
-> 80 articles (30 derniers jours)
+> Derniere mise a jour : `Thu, 09 Jul 2026 12:10:43 +0000`
+> 81 articles (30 derniers jours)
+
+---
+
+### [Huit TPE-PME se disent 10 impactées par la crise au Moyen-Orient - Les Echos](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSXlodXp4OGJpcVM0Y0w3Q0hZVU5GOE1IdlpKZ3VPY1lkSUgzb3BUbkw2RlJwSjdMOV8xVXItSkVSWEwxMlpmZ0JrOERSd29FWmx5R3lzVFB5dTRrcWczT19xZEQ2dGkyUTE0c0lBZXY0LURNM1hsaVRHYVJPYjZhSXNCZnczVnN1cW5jMVd0Skx0WHowcTRuVWRiRi11N09vZU0yR0dhcWo0bFR2QXdzVlhhcVpZdnVTNHBxQkV3dFk5QQ?oc=5)
+
+`Thu, 09 Jul 2026 11:40:46 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSXlodXp4OGJpcVM0Y0w3Q0hZVU5GOE1IdlpKZ3VPY1lkSUgzb3BUbkw2RlJwSjdMOV8xVXItSkVSWEwxMlpmZ0JrOERSd29FWmx5R3lzVFB5dTRrcWczT19xZEQ2dGkyUTE0c0lBZXY0LURNM1hsaVRHYVJPYjZhSXNCZnczVnN1cW5jMVd0Skx0WHowcTRuVWRiRi11N09vZU0yR0dhcWo0bFR2QXdzVlhhcVpZdnVTNHBxQkV3dFk5QQ?oc=5" target="_blank">Huit TPE-PME se disent 10 impactées par la crise au Moyen-Orient</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
