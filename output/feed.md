@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Fri, 10 Jul 2026 08:53:35 +0000`
-> 82 articles (30 derniers jours)
+> Derniere mise a jour : `Fri, 10 Jul 2026 11:59:05 +0000`
+> 83 articles (30 derniers jours)
+
+---
+
+### [Les trois priorités des dirigeants de TPE pour la rentrée 2026 - Les Echos](https://news.google.com/rss/articles/CBMivwFBVV95cUxPT2dEOEp2VjZnOWo4SDd3WmNRN3pkNlRaQ2VadWJMak9GS1VQWHRGR1lVTEdfdWVRWnZySXo5WV9RMEZ3TUxnbVZQVzk4ejl5Z3JMYkE1YnFVeHRVWnZsNEsyZlAtbmVYalFyOXB5eFp5ZWs4UGVuaEIyLWc3RUpHalBELXVKUlUwcXFJdmZ4TDVkLXhSeHNxTEhKT0NoX3RkWXFKb2tKcmdMV01ZRV9RODRGei0tWDA1b2R6ZzhTbw?oc=5)
+
+`Fri, 10 Jul 2026 09:08:46 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxPT2dEOEp2VjZnOWo4SDd3WmNRN3pkNlRaQ2VadWJMak9GS1VQWHRGR1lVTEdfdWVRWnZySXo5WV9RMEZ3TUxnbVZQVzk4ejl5Z3JMYkE1YnFVeHRVWnZsNEsyZlAtbmVYalFyOXB5eFp5ZWs4UGVuaEIyLWc3RUpHalBELXVKUlUwcXFJdmZ4TDVkLXhSeHNxTEhKT0NoX3RkWXFKb2tKcmdMV01ZRV9RODRGei0tWDA1b2R6ZzhTbw?oc=5" target="_blank">Les trois priorités des dirigeants de TPE pour la rentrée 2026</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
