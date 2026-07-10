@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Thu, 09 Jul 2026 18:44:28 +0000`
-> 83 articles (30 derniers jours)
+> Derniere mise a jour : `Fri, 10 Jul 2026 08:53:35 +0000`
+> 82 articles (30 derniers jours)
+
+---
+
+### [Assurance-chômage : pourquoi le déficit du régime des intermittents s'envole - Les Echos](https://news.google.com/rss/articles/CBMixwFBVV95cUxPXy1HY0dJM2RBcExIeWVSWF8telRBWFVnY045WDhNd3NfRnhSOXJycUU5b0xwbnBJR1luODc1akVpOU5renJRcVNWb2w5SERoS040VVotWVFoTm5iSDJhaGVBMGVWOFpmQ1Q4U2ZtSjJEam1XVmVqUUM2ZFBUUkdXZDBWX3N1N0ZYUllVWU0tdDJBaG1TSUs0X2ZjRzkxSzlINTdGWU0tR0M1bjUzbkFVOW1pY3R1LU1BdFhXNDNwcll4eExaYU1N?oc=5)
+
+`Fri, 10 Jul 2026 04:05:09 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMixwFBVV95cUxPXy1HY0dJM2RBcExIeWVSWF8telRBWFVnY045WDhNd3NfRnhSOXJycUU5b0xwbnBJR1luODc1akVpOU5renJRcVNWb2w5SERoS040VVotWVFoTm5iSDJhaGVBMGVWOFpmQ1Q4U2ZtSjJEam1XVmVqUUM2ZFBUUkdXZDBWX3N1N0ZYUllVWU0tdDJBaG1TSUs0X2ZjRzkxSzlINTdGWU0tR0M1bjUzbkFVOW1pY3R1LU1BdFhXNDNwcll4eExaYU1N?oc=5" target="_blank">Assurance-chômage : pourquoi le déficit du régime des intermittents s'envole</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -650,21 +658,5 @@
 `Wed, 10 Jun 2026 15:33:53 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeGhmTnNrZlliV2tCSWdQb2JGYUM1R25OMnJXZGg1WlFvbW5MRDJSa1dpd2pjT25EeV9obmlLeE1CRDBHR3Z1Qld3bko0WHZnRnBobUdzdmtnZWNYUFBQUFdzc3JXYXU5TEVfQkE1Y09mdEZYRzRQV1Uyd1dXQUFIT3VZNU84OWdDZ2N0UXFvN2lwRG1YTjVqekhMNU9ITkhjVVAxZHZ3Yng5VnZ6dFZncHBtMzM4elRrSW1nX21mTjYwUQ?oc=5" target="_blank">Chute de la population française : ces indicateurs qui ont forcé l'Insee à revoir ses prévisions</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [« Elle défend fermement ses positions et a l'industrie chevillée au corps » : Christelle Thieffinne prend la tête de la CFE-CGC - Les Echos](https://news.google.com/rss/articles/CBMihgJBVV95cUxOT0ZNR0xMSWYzRkxXeWdwY21QUWYxaWhRbWxjZHJTVEVTOGR1LXpRSVVJdjdLMlZHdFpmcEJYTGUxck9TS3hOeVF1cUc2NTRXcFZ3SWFuajZXcXRGdjNoTFBVYWxxR0VsMEVYVHhtZ3R1TVVLMmVVWUVsa0FGcWcyRzBIZTB1U2FyMk1jd2RIdDBhaVhHODVjSWZ4VkhlSWdKVU5MOERnWVlZeEx1Y3RNdmRDek1wX0xUZzhWdkFDT09PQVF3U0ZaR1UxVWNySHoxSEFzNVZuRXpkSUJtMmQ1RlVXWTNrN2VTUUs5Nlpod094dWthZFRycVBJWGg5bjhSREZZNHJR?oc=5)
-
-`Wed, 10 Jun 2026 04:55:08 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMihgJBVV95cUxOT0ZNR0xMSWYzRkxXeWdwY21QUWYxaWhRbWxjZHJTVEVTOGR1LXpRSVVJdjdLMlZHdFpmcEJYTGUxck9TS3hOeVF1cUc2NTRXcFZ3SWFuajZXcXRGdjNoTFBVYWxxR0VsMEVYVHhtZ3R1TVVLMmVVWUVsa0FGcWcyRzBIZTB1U2FyMk1jd2RIdDBhaVhHODVjSWZ4VkhlSWdKVU5MOERnWVlZeEx1Y3RNdmRDek1wX0xUZzhWdkFDT09PQVF3U0ZaR1UxVWNySHoxSEFzNVZuRXpkSUJtMmQ1RlVXWTNrN2VTUUs5Nlpod094dWthZFRycVBJWGg5bjhSREZZNHJR?oc=5" target="_blank">« Elle défend fermement ses positions et a l'industrie chevillée au corps » : Christelle Thieffinne prend la tête de la CFE-CGC</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Affaire Lyhanna : « en voie de clochardisation » il y a dix ans, la justice a-t-elle suffisamment de moyens aujourd'hui - Les Echos](https://news.google.com/rss/articles/CBMihwJBVV95cUxPMUx6djdXUnBpQzlZYWRVMUEtVXUyVHBkelYwYXJtYk1VNHB3VnNFWnNwSnN2MGJTejlXQi1PRDg1QWttc0JVTW44ckFfNVZaTVFRVVlqM0JuMEp3eXhHWnF6OTJCZGxKQXRlVkpPUG12OFk5MHJFZmJFeUNiRnhyUW1KVGI2b1dVVzZRY2xDLTg5TTE4d1M0TnF1S2I0blUwRmNnam5tM0dEZzlqOXZDSm5aX2hJdVVGdFd5WGlxaHNuOVBUdmtnbUlMV1NVellsZG13UUZLd2d3SGZxWS1ObWpqbC1YU0tpMHVHY0lOUHZRQ1hrTjdmUlVNejFTanBmZW1JUzd4UQ?oc=5)
-
-`Wed, 10 Jun 2026 04:30:08 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMihwJBVV95cUxPMUx6djdXUnBpQzlZYWRVMUEtVXUyVHBkelYwYXJtYk1VNHB3VnNFWnNwSnN2MGJTejlXQi1PRDg1QWttc0JVTW44ckFfNVZaTVFRVVlqM0JuMEp3eXhHWnF6OTJCZGxKQXRlVkpPUG12OFk5MHJFZmJFeUNiRnhyUW1KVGI2b1dVVzZRY2xDLTg5TTE4d1M0TnF1S2I0blUwRmNnam5tM0dEZzlqOXZDSm5aX2hJdVVGdFd5WGlxaHNuOVBUdmtnbUlMV1NVellsZG13UUZLd2d3SGZxWS1ObWpqbC1YU0tpMHVHY0lOUHZRQ1hrTjdmUlVNejFTanBmZW1JUzd4UQ?oc=5" target="_blank">Affaire Lyhanna : « en voie de clochardisation » il y a dix ans, la justice a-t-elle suffisamment de moyens aujourd'hui</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
