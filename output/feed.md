@@ -1,7 +1,7 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Fri, 10 Jul 2026 18:15:22 +0000`
-> 81 articles (30 derniers jours)
+> Derniere mise a jour : `Sat, 11 Jul 2026 10:17:41 +0000`
+> 79 articles (30 derniers jours)
 
 ---
 
@@ -634,21 +634,5 @@
 `Thu, 11 Jun 2026 16:28:58 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi4wFBVV95cUxPSkdmYlR3WWhNUVAwTkFVakQ2ZzIzMFhGVW9LY012NEZQbm9KZTRsU2RDYUJ3cTBjY2dGLWl6M2M5MnZaMGw3VkRJM3llTHVYaVQ1M0ZWN3YzSnFnUlp5bTlXQm1TNlJsaGotamJUNkN0OHhkQkFoRjdyS0kzUEQwUEo0UXE2b3l4QUhZbTNEaFJ0bWQ4QndiYVhHQVY2TTVDYk1wYnIzNE0xUV9vOW9GakFNWHM2YVJnMnhiQmY0eWl6UVRxYU5EREdkamhzdVhnRVhvdkl6ZDZxRzhVUFhaUmR5bw?oc=5" target="_blank">Gouvernance des entreprises : les pistes pour accroître l'influence des représentants de salariés</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Les effets de la prime d'activité sur l'emploi mis en doute - Les Echos](https://news.google.com/rss/articles/CBMisgFBVV95cUxPbkhyUHhnT1p1eUhPbkI4Z09FVkE1cEZpYjFtM01YRGt5c0ZRelV0ZWtldHhwNFAyamxFZldNUXliVzR5ZnRjaXNJV2o4endGTDBXd3h2bzlDV3BEUmtpRE9wUFRYNU53Q0ZBeTFPZ2ZRSWRFRUVIOFUwQXBQUHkzMFUwQ1F1SmdxNDNGRm1lR0RfUEJPeEFJYWFJUjVZLUxYS2wzOHRqSVBuUDBQcEt6bmh3?oc=5)
-
-`Thu, 11 Jun 2026 04:00:12 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxPbkhyUHhnT1p1eUhPbkI4Z09FVkE1cEZpYjFtM01YRGt5c0ZRelV0ZWtldHhwNFAyamxFZldNUXliVzR5ZnRjaXNJV2o4endGTDBXd3h2bzlDV3BEUmtpRE9wUFRYNU53Q0ZBeTFPZ2ZRSWRFRUVIOFUwQXBQUHkzMFUwQ1F1SmdxNDNGRm1lR0RfUEJPeEFJYWFJUjVZLUxYS2wzOHRqSVBuUDBQcEt6bmh3?oc=5" target="_blank">Les effets de la prime d'activité sur l'emploi mis en doute</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Démographie : « D'une pyramide des âges en ogive à une pyramide des âges en kebab… », les transformations et défis qui attendent la France - Les Echos](https://news.google.com/rss/articles/CBMimAJBVV95cUxQMWlYQ3JiYVZFQXhRVVdobjYxdE9rWWR2Nk9KcTEwN2hlTTFIWVVucEVjem5kVXV4dlhLbnVIbnBtcXIxQXZJZUJzT2tPbnR5dGtHaEQxaVctcGNUUTJ2Ukhpb0FfU2xIMC1Wb1BydmhRSWd5QjU5Vm5wbVNxX3diekxKM1Q4X3I0OTFsU2tJeXVaZE00Tm9jc3NUdHcyOU9SR1JWM3c4VlNHaVhhczVZelg0T3ZBUnpmb1E4U3EyWml1TnN0WWUxUkVEdlBnZnNRZ21NRUd1d3JMRHAybnJHWVluMHpJNEF3MFFMNFphaTl6QWg3UmVNc05pMmpxYU1RLTg5ZmZqQnY4MmM4c3RFaThodUw5a0I5?oc=5)
-
-`Thu, 11 Jun 2026 04:55:10 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMimAJBVV95cUxQMWlYQ3JiYVZFQXhRVVdobjYxdE9rWWR2Nk9KcTEwN2hlTTFIWVVucEVjem5kVXV4dlhLbnVIbnBtcXIxQXZJZUJzT2tPbnR5dGtHaEQxaVctcGNUUTJ2Ukhpb0FfU2xIMC1Wb1BydmhRSWd5QjU5Vm5wbVNxX3diekxKM1Q4X3I0OTFsU2tJeXVaZE00Tm9jc3NUdHcyOU9SR1JWM3c4VlNHaVhhczVZelg0T3ZBUnpmb1E4U3EyWml1TnN0WWUxUkVEdlBnZnNRZ21NRUd1d3JMRHAybnJHWVluMHpJNEF3MFFMNFphaTl6QWg3UmVNc05pMmpxYU1RLTg5ZmZqQnY4MmM4c3RFaThodUw5a0I5?oc=5" target="_blank">Démographie : « D'une pyramide des âges en ogive à une pyramide des âges en kebab… », les transformations et défis qui attendent la France</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
