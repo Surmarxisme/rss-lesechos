@@ -1,7 +1,7 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Sat, 11 Jul 2026 10:17:41 +0000`
-> 79 articles (30 derniers jours)
+> Derniere mise a jour : `Sun, 12 Jul 2026 10:36:44 +0000`
+> 78 articles (30 derniers jours)
 
 ---
 
@@ -626,13 +626,5 @@
 `Sat, 13 Jun 2026 10:06:59 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi7gFBVV95cUxPR0RZYU1OR2hkcHlHbWNtdGtnNjI1aVpjZ0pqU1lkYVB6Y3JVaDVmTFZkXzVEZ1FrWlBJcHJsRy15Sm8teHJmazFjZ01BMGFGSjF3LWRtTjdncmpuNmVOdWM2RWY1OFRHeXN4ZWFvaDU1SGdHM1c5RzBCTUJlMUxaei1OOFVzSGdFLXdJWVJwRVplMWQ3MmNFOXZvb3pndGZmdDkzbzBDLTVQSkJFYUI1M05zUTBpZTJ1TmNBYWx4OFlqNlVnU1ZMTGZldy1zdjJXWXljUVZSbEZsVjMyS0I5X1FRT1ptU3hsanI1UnhR?oc=5" target="_blank">Arrêts de travail : ce que va changer la nouvelle règle des plafonds pour les salariés et les employeurs</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Gouvernance des entreprises : les pistes pour accroître l'influence des représentants de salariés - Les Echos](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPSkdmYlR3WWhNUVAwTkFVakQ2ZzIzMFhGVW9LY012NEZQbm9KZTRsU2RDYUJ3cTBjY2dGLWl6M2M5MnZaMGw3VkRJM3llTHVYaVQ1M0ZWN3YzSnFnUlp5bTlXQm1TNlJsaGotamJUNkN0OHhkQkFoRjdyS0kzUEQwUEo0UXE2b3l4QUhZbTNEaFJ0bWQ4QndiYVhHQVY2TTVDYk1wYnIzNE0xUV9vOW9GakFNWHM2YVJnMnhiQmY0eWl6UVRxYU5EREdkamhzdVhnRVhvdkl6ZDZxRzhVUFhaUmR5bw?oc=5)
-
-`Thu, 11 Jun 2026 16:28:58 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi4wFBVV95cUxPSkdmYlR3WWhNUVAwTkFVakQ2ZzIzMFhGVW9LY012NEZQbm9KZTRsU2RDYUJ3cTBjY2dGLWl6M2M5MnZaMGw3VkRJM3llTHVYaVQ1M0ZWN3YzSnFnUlp5bTlXQm1TNlJsaGotamJUNkN0OHhkQkFoRjdyS0kzUEQwUEo0UXE2b3l4QUhZbTNEaFJ0bWQ4QndiYVhHQVY2TTVDYk1wYnIzNE0xUV9vOW9GakFNWHM2YVJnMnhiQmY0eWl6UVRxYU5EREdkamhzdVhnRVhvdkl6ZDZxRzhVUFhaUmR5bw?oc=5" target="_blank">Gouvernance des entreprises : les pistes pour accroître l'influence des représentants de salariés</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
