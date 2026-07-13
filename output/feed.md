@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Sun, 12 Jul 2026 10:36:44 +0000`
-> 78 articles (30 derniers jours)
+> Derniere mise a jour : `Mon, 13 Jul 2026 08:38:11 +0000`
+> 79 articles (30 derniers jours)
+
+---
+
+### [Tabac : les ventes chutent, les recettes fiscales avec - Les Echos](https://news.google.com/rss/articles/CBMitwFBVV95cUxPaDNVWkNFRE9zQTlDeWwxQngxdmstRGdDcG5oUjk0dElxUGJxZ3dJd1pPeTJSUlJPUmtuQUxqMWdDTFM1ZElodVZYVFRvNTYwR01LVEtKS3U0VE02R0JEbTdDSEp1TVRyOTcyV2UyUm5GelVweE9JWERkR0htNWZVWWtUME8yNHBnd0N4RkMzNHJ0bGV6dTVfSlVzV2pwcW1zR2VVOVNKQXZXM1E0Tl80M1FxSldBeGs?oc=5)
+
+`Mon, 13 Jul 2026 05:30:08 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxPaDNVWkNFRE9zQTlDeWwxQngxdmstRGdDcG5oUjk0dElxUGJxZ3dJd1pPeTJSUlJPUmtuQUxqMWdDTFM1ZElodVZYVFRvNTYwR01LVEtKS3U0VE02R0JEbTdDSEp1TVRyOTcyV2UyUm5GelVweE9JWERkR0htNWZVWWtUME8yNHBnd0N4RkMzNHJ0bGV6dTVfSlVzV2pwcW1zR2VVOVNKQXZXM1E0Tl80M1FxSldBeGs?oc=5" target="_blank">Tabac : les ventes chutent, les recettes fiscales avec</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
