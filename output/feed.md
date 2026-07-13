@@ -1,7 +1,7 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Mon, 13 Jul 2026 08:38:11 +0000`
-> 79 articles (30 derniers jours)
+> Derniere mise a jour : `Mon, 13 Jul 2026 12:11:38 +0000`
+> 78 articles (30 derniers jours)
 
 ---
 
@@ -626,13 +626,5 @@
 `Sun, 14 Jun 2026 09:00:17 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi-gFBVV95cUxNc0ppeW1XTUtzRGtYWFB1bW9JSzhiMnZwMUVRc2gxS0E3X0tyMlNHcThfM2xSZDBUMklGckZLYXBjbWM5ajU4aGlvM2l3TFByNG4wZmhnOGx0eFl1b2V2QTYzQUVnWWszb0xXZF9GQ0hrcnJ2RG16TE4yQUlLMm1GczRpU1NLb3p4dnpHVzRadk5Vc2I4UmsxNG95OHpsMXpsY292NWluR3lVeThMTmxTMmRobkxlYW9HeDlIWkRoWFNTVGptLXdjY2VES2tSbm9zaXVWZjhZbk5NZ3BkOHdhYVFoeXFObEU5WENHc1ktVzVWVi1Wc19jN1ZR?oc=5" target="_blank">Budget 2027 : le gouvernement sans marge de manoeuvre devant l'accumulation des dépenses incompressibles</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Arrêts de travail : ce que va changer la nouvelle règle des plafonds pour les salariés et les employeurs - Les Echos](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPR0RZYU1OR2hkcHlHbWNtdGtnNjI1aVpjZ0pqU1lkYVB6Y3JVaDVmTFZkXzVEZ1FrWlBJcHJsRy15Sm8teHJmazFjZ01BMGFGSjF3LWRtTjdncmpuNmVOdWM2RWY1OFRHeXN4ZWFvaDU1SGdHM1c5RzBCTUJlMUxaei1OOFVzSGdFLXdJWVJwRVplMWQ3MmNFOXZvb3pndGZmdDkzbzBDLTVQSkJFYUI1M05zUTBpZTJ1TmNBYWx4OFlqNlVnU1ZMTGZldy1zdjJXWXljUVZSbEZsVjMyS0I5X1FRT1ptU3hsanI1UnhR?oc=5)
-
-`Sat, 13 Jun 2026 10:06:59 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi7gFBVV95cUxPR0RZYU1OR2hkcHlHbWNtdGtnNjI1aVpjZ0pqU1lkYVB6Y3JVaDVmTFZkXzVEZ1FrWlBJcHJsRy15Sm8teHJmazFjZ01BMGFGSjF3LWRtTjdncmpuNmVOdWM2RWY1OFRHeXN4ZWFvaDU1SGdHM1c5RzBCTUJlMUxaei1OOFVzSGdFLXdJWVJwRVplMWQ3MmNFOXZvb3pndGZmdDkzbzBDLTVQSkJFYUI1M05zUTBpZTJ1TmNBYWx4OFlqNlVnU1ZMTGZldy1zdjJXWXljUVZSbEZsVjMyS0I5X1FRT1ptU3hsanI1UnhR?oc=5" target="_blank">Arrêts de travail : ce que va changer la nouvelle règle des plafonds pour les salariés et les employeurs</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
