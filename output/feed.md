@@ -1,7 +1,7 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Tue, 14 Jul 2026 07:30:25 +0000`
-> 78 articles (30 derniers jours)
+> Derniere mise a jour : `Tue, 14 Jul 2026 10:51:49 +0000`
+> 77 articles (30 derniers jours)
 
 ---
 
@@ -618,13 +618,5 @@
 `Mon, 15 Jun 2026 05:01:17 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNXZBMVl2WVJnbXIwdTBzUWgyRU1kN2ZROGJmelhqMmhXaEJSUk52bi1zOTl2cTVldDg1aWdxMXFTR1VSRXE0a3dJQ3UtYndrU3N0OWxnelBzcldMTjI2ZGhLcEo5d3dmY2FvNEo5bThSbUQ2TEZyNlNKRGpiSkc1aG1uS1RKUjRpX0JBV21qdWVXaUhWTDBFRHp2Ml9zS0xCWXZCSDNhRmR1cEt5TEVHMzNTWGJoRURyWVl4NjRnUWEyLW8?oc=5" target="_blank">Supprimer l'âge légal de départ en retraite ? Le débat explosif qui monte</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Budget 2027 : le gouvernement sans marge de manoeuvre devant l'accumulation des dépenses incompressibles - Les Echos](https://news.google.com/rss/articles/CBMi-gFBVV95cUxNc0ppeW1XTUtzRGtYWFB1bW9JSzhiMnZwMUVRc2gxS0E3X0tyMlNHcThfM2xSZDBUMklGckZLYXBjbWM5ajU4aGlvM2l3TFByNG4wZmhnOGx0eFl1b2V2QTYzQUVnWWszb0xXZF9GQ0hrcnJ2RG16TE4yQUlLMm1GczRpU1NLb3p4dnpHVzRadk5Vc2I4UmsxNG95OHpsMXpsY292NWluR3lVeThMTmxTMmRobkxlYW9HeDlIWkRoWFNTVGptLXdjY2VES2tSbm9zaXVWZjhZbk5NZ3BkOHdhYVFoeXFObEU5WENHc1ktVzVWVi1Wc19jN1ZR?oc=5)
-
-`Sun, 14 Jun 2026 09:00:17 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi-gFBVV95cUxNc0ppeW1XTUtzRGtYWFB1bW9JSzhiMnZwMUVRc2gxS0E3X0tyMlNHcThfM2xSZDBUMklGckZLYXBjbWM5ajU4aGlvM2l3TFByNG4wZmhnOGx0eFl1b2V2QTYzQUVnWWszb0xXZF9GQ0hrcnJ2RG16TE4yQUlLMm1GczRpU1NLb3p4dnpHVzRadk5Vc2I4UmsxNG95OHpsMXpsY292NWluR3lVeThMTmxTMmRobkxlYW9HeDlIWkRoWFNTVGptLXdjY2VES2tSbm9zaXVWZjhZbk5NZ3BkOHdhYVFoeXFObEU5WENHc1ktVzVWVi1Wc19jN1ZR?oc=5" target="_blank">Budget 2027 : le gouvernement sans marge de manoeuvre devant l'accumulation des dépenses incompressibles</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
