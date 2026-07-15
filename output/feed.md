@@ -1,7 +1,7 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Tue, 14 Jul 2026 17:55:12 +0000`
-> 77 articles (30 derniers jours)
+> Derniere mise a jour : `Wed, 15 Jul 2026 07:44:03 +0000`
+> 76 articles (30 derniers jours)
 
 ---
 
@@ -610,13 +610,5 @@
 `Mon, 15 Jun 2026 15:20:48 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMizwFBVV95cUxPVC0wV0s0TS0wZjFyN2dIRjdRZ1VfRkY3SUc2UFNpdzVUNlI5a2F5c1FwVG5WbUl0aEM2ZkRpVGdGWFRSamxrcGRXUjFYU2twOTVNYkNlRm1sVXRGUkRCcDFuZ21scko1eFFyMUZTVVVvNlJyTUN1OWt2Wmh1b2JnX3lxYk02LWU5S2haRUJCU1B4THFocG1QREVLTjZUR2lWcTNJRHNtcXB1WHU3XzBrdU11aWQydU4ySFZUY0pKR2VkN0RfTnRnRzM4TWYzN0k?oc=5" target="_blank">« Chacun se renvoie la balle, personne ne se sent responsable du déficit »</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Supprimer l'âge légal de départ en retraite ? Le débat explosif qui monte - Les Echos](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNXZBMVl2WVJnbXIwdTBzUWgyRU1kN2ZROGJmelhqMmhXaEJSUk52bi1zOTl2cTVldDg1aWdxMXFTR1VSRXE0a3dJQ3UtYndrU3N0OWxnelBzcldMTjI2ZGhLcEo5d3dmY2FvNEo5bThSbUQ2TEZyNlNKRGpiSkc1aG1uS1RKUjRpX0JBV21qdWVXaUhWTDBFRHp2Ml9zS0xCWXZCSDNhRmR1cEt5TEVHMzNTWGJoRURyWVl4NjRnUWEyLW8?oc=5)
-
-`Mon, 15 Jun 2026 05:01:17 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNXZBMVl2WVJnbXIwdTBzUWgyRU1kN2ZROGJmelhqMmhXaEJSUk52bi1zOTl2cTVldDg1aWdxMXFTR1VSRXE0a3dJQ3UtYndrU3N0OWxnelBzcldMTjI2ZGhLcEo5d3dmY2FvNEo5bThSbUQ2TEZyNlNKRGpiSkc1aG1uS1RKUjRpX0JBV21qdWVXaUhWTDBFRHp2Ml9zS0xCWXZCSDNhRmR1cEt5TEVHMzNTWGJoRURyWVl4NjRnUWEyLW8?oc=5" target="_blank">Supprimer l'âge légal de départ en retraite ? Le débat explosif qui monte</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
