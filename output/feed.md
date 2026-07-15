@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Wed, 15 Jul 2026 13:17:27 +0000`
+> Derniere mise a jour : `Wed, 15 Jul 2026 17:59:38 +0000`
 > 76 articles (30 derniers jours)
+
+---
+
+### [Budget : un effort de 125 milliards d'euros à fournir d'ici la fin du prochain quinquennat - Les Echos](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQQkRMSG9mNjlZTlVMa0xOY1F0blpXMDJ5cmo2OEhNUVB5Q3lTelB4cEhSUExMZGF0WV9IZHZqU21yUUJkbGY5VC1CS1MtbFhJSXdYV2JJVWs4SWw5VUVSOUpiWWtfdXVueEs5QlpHUWF1bEl1MG9xOFhBOUxXdDFlV25tMkNfb3VqbEpScnBITkhsLTdXZHplNzQ5eURqQ25aZnEyU2FXYU5ubVJEZkYtM0JTOFlGNG5sZjNYX1FGY2lnY0tHUDZydmFMa2E1MzZFQXA3Q2NocXJfV29CaC1hQ1c5YlNrZw?oc=5)
+
+`Wed, 15 Jul 2026 17:11:01 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi5gFBVV95cUxQQkRMSG9mNjlZTlVMa0xOY1F0blpXMDJ5cmo2OEhNUVB5Q3lTelB4cEhSUExMZGF0WV9IZHZqU21yUUJkbGY5VC1CS1MtbFhJSXdYV2JJVWs4SWw5VUVSOUpiWWtfdXVueEs5QlpHUWF1bEl1MG9xOFhBOUxXdDFlV25tMkNfb3VqbEpScnBITkhsLTdXZHplNzQ5eURqQ25aZnEyU2FXYU5ubVJEZkYtM0JTOFlGNG5sZjNYX1FGY2lnY0tHUDZydmFMa2E1MzZFQXA3Q2NocXJfV29CaC1hQ1c5YlNrZw?oc=5" target="_blank">Budget : un effort de 125 milliards d'euros à fournir d'ici la fin du prochain quinquennat</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -602,13 +610,5 @@
 `Tue, 16 Jun 2026 04:10:08 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi1wFBVV95cUxQYXNmUkNoYjF5ODNmZnp1ODREQVRIYnA5aXJ0OUhObjBLQVdydndmZE03NXZrTTZ2MlVSNVQ3a25PSGJOZm96c05LTFRnWXIyUjlvSW5Sd2pIb1JBNTNDX2duM3g0MnZlay1RMUZLZ1Jnck01cTIzSDBUN0ZPQTZmaG5UbmlDMTBBUFlsakpibWFmYWkxTHU1a0JEb0Z6YTlKTmM1Qm5CdEkwdlVkbGxncTNQUHpReEsxYjlGd2Fud0MxTnJqMGtFSjhhemdqWkVRS3ZPUEVFbw?oc=5" target="_blank">Pourquoi les familles nombreuses sont les premières victimes du budget 2026</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [« Chacun se renvoie la balle, personne ne se sent responsable du déficit » - Les Echos](https://news.google.com/rss/articles/CBMizwFBVV95cUxPVC0wV0s0TS0wZjFyN2dIRjdRZ1VfRkY3SUc2UFNpdzVUNlI5a2F5c1FwVG5WbUl0aEM2ZkRpVGdGWFRSamxrcGRXUjFYU2twOTVNYkNlRm1sVXRGUkRCcDFuZ21scko1eFFyMUZTVVVvNlJyTUN1OWt2Wmh1b2JnX3lxYk02LWU5S2haRUJCU1B4THFocG1QREVLTjZUR2lWcTNJRHNtcXB1WHU3XzBrdU11aWQydU4ySFZUY0pKR2VkN0RfTnRnRzM4TWYzN0k?oc=5)
-
-`Mon, 15 Jun 2026 15:20:48 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMizwFBVV95cUxPVC0wV0s0TS0wZjFyN2dIRjdRZ1VfRkY3SUc2UFNpdzVUNlI5a2F5c1FwVG5WbUl0aEM2ZkRpVGdGWFRSamxrcGRXUjFYU2twOTVNYkNlRm1sVXRGUkRCcDFuZ21scko1eFFyMUZTVVVvNlJyTUN1OWt2Wmh1b2JnX3lxYk02LWU5S2haRUJCU1B4THFocG1QREVLTjZUR2lWcTNJRHNtcXB1WHU3XzBrdU11aWQydU4ySFZUY0pKR2VkN0RfTnRnRzM4TWYzN0k?oc=5" target="_blank">« Chacun se renvoie la balle, personne ne se sent responsable du déficit »</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
