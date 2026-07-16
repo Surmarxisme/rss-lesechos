@@ -1,7 +1,7 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Wed, 15 Jul 2026 17:59:38 +0000`
-> 76 articles (30 derniers jours)
+> Derniere mise a jour : `Thu, 16 Jul 2026 07:49:12 +0000`
+> 75 articles (30 derniers jours)
 
 ---
 
@@ -602,13 +602,5 @@
 `Tue, 16 Jun 2026 15:35:05 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxQZFp2LTNiYloyUGhSZUsxNVVBQWJfb05SakNteFRGeDEyT1R4dXJJVTlVV1dfREJtdms3RTFmdWhTRWdpNjZZRENCSDFmZ3drOGRsaUd1Y2c2Z1A2NGhqOGNTWkVNVzlMSDBmekJfUndYOGZqMUNnWHRBODZVRUMwTFF0bko3Z1FLSXp4d2lkUW42eXlRMFQ3NXNGZkNGS09kSzRaVzhWaXZ0VENWOE9XejRFX2taTWFtZU9sOFk0TUR2a0tUcUNLQ1F3?oc=5" target="_blank">Fraudes à l'apprentissage : le gouvernement divisé sur les réponses à apporter</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Pourquoi les familles nombreuses sont les premières victimes du budget 2026 - Les Echos](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQYXNmUkNoYjF5ODNmZnp1ODREQVRIYnA5aXJ0OUhObjBLQVdydndmZE03NXZrTTZ2MlVSNVQ3a25PSGJOZm96c05LTFRnWXIyUjlvSW5Sd2pIb1JBNTNDX2duM3g0MnZlay1RMUZLZ1Jnck01cTIzSDBUN0ZPQTZmaG5UbmlDMTBBUFlsakpibWFmYWkxTHU1a0JEb0Z6YTlKTmM1Qm5CdEkwdlVkbGxncTNQUHpReEsxYjlGd2Fud0MxTnJqMGtFSjhhemdqWkVRS3ZPUEVFbw?oc=5)
-
-`Tue, 16 Jun 2026 04:10:08 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi1wFBVV95cUxQYXNmUkNoYjF5ODNmZnp1ODREQVRIYnA5aXJ0OUhObjBLQVdydndmZE03NXZrTTZ2MlVSNVQ3a25PSGJOZm96c05LTFRnWXIyUjlvSW5Sd2pIb1JBNTNDX2duM3g0MnZlay1RMUZLZ1Jnck01cTIzSDBUN0ZPQTZmaG5UbmlDMTBBUFlsakpibWFmYWkxTHU1a0JEb0Z6YTlKTmM1Qm5CdEkwdlVkbGxncTNQUHpReEsxYjlGd2Fud0MxTnJqMGtFSjhhemdqWkVRS3ZPUEVFbw?oc=5" target="_blank">Pourquoi les familles nombreuses sont les premières victimes du budget 2026</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
