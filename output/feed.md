@@ -1,7 +1,23 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Thu, 16 Jul 2026 13:24:57 +0000`
-> 77 articles (30 derniers jours)
+> Derniere mise a jour : `Thu, 16 Jul 2026 17:57:48 +0000`
+> 78 articles (30 derniers jours)
+
+---
+
+### [Retraites complémentaires Agirc-Arrco : coup de pression syndical sur la revalorisation des pensions - Les Echos](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQWk4xZW5yeUhSWlR3VHl0dENna2w5T1RBR1FXS3AxaUg0Mm5TS19UVmhUZkRLTDBTR1VTd1hzMzZYSWJVek0yT20wN0Vud2duRHJvelR5WmlxbHptd1ItbXlFT2Ytc0lmRklvNUJIQVZBcktQNmpMdWgxdlRUSzBkODkySzY4OVA5V21BQUtHSUpVZGxsR0R5QnBoakU4TmVleDhSSjZQVFZRYlFNLVJsNHh3RFNlVVlSbFVGVDFuQ19VUkVBdUVoQkhWX0d2a20zNjFnakRCb1ZPREZTZ29ydDc0b2wxa0Fm?oc=5)
+
+`Thu, 16 Jul 2026 15:38:14 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi6AFBVV95cUxQWk4xZW5yeUhSWlR3VHl0dENna2w5T1RBR1FXS3AxaUg0Mm5TS19UVmhUZkRLTDBTR1VTd1hzMzZYSWJVek0yT20wN0Vud2duRHJvelR5WmlxbHptd1ItbXlFT2Ytc0lmRklvNUJIQVZBcktQNmpMdWgxdlRUSzBkODkySzY4OVA5V21BQUtHSUpVZGxsR0R5QnBoakU4TmVleDhSSjZQVFZRYlFNLVJsNHh3RFNlVVlSbFVGVDFuQ19VUkVBdUVoQkhWX0d2a20zNjFnakRCb1ZPREZTZ29ydDc0b2wxa0Fm?oc=5" target="_blank">Retraites complémentaires Agirc-Arrco : coup de pression syndical sur la revalorisation des pensions</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Jean-Pierre Farandou : « Les crédits de l'apprentissage seront préservés, par les temps qui courent, c'est un choix fort - Les Echos](https://news.google.com/rss/articles/CBMi-wFBVV95cUxOYjdFSno0WHVJazBsVVB1STl3aTIxalZnUF80QW5TM2xkUDJiYzNpdjhsSWZiSnFBdXJyOWpqVk1wX3RWSVFqcTdZRUVNdmwtcUZHWUlXQUlGUUpzZ1pGOW52ZmJjYWpRWktXQmJJRFluLXNfSklYT3IwTHFEX0otTzN1djhrRnozVFg5eDgtMUZkUW83Y0puekxXRHR1M2dBUU91eEdZR05iOXhqNkJUSXhUQjVWSDE5a013TDR2UGpfTHdoc2FaMnZSWVl4THByYjBqeXRoakhQZ3dBRUFjRGlFeFJSQkNWejdkbExrdVc2dVRCZTlHWUsyNA?oc=5)
+
+`Thu, 16 Jul 2026 17:26:47 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi-wFBVV95cUxOYjdFSno0WHVJazBsVVB1STl3aTIxalZnUF80QW5TM2xkUDJiYzNpdjhsSWZiSnFBdXJyOWpqVk1wX3RWSVFqcTdZRUVNdmwtcUZHWUlXQUlGUUpzZ1pGOW52ZmJjYWpRWktXQmJJRFluLXNfSklYT3IwTHFEX0otTzN1djhrRnozVFg5eDgtMUZkUW83Y0puekxXRHR1M2dBUU91eEdZR05iOXhqNkJUSXhUQjVWSDE5a013TDR2UGpfTHdoc2FaMnZSWVl4THByYjBqeXRoakhQZ3dBRUFjRGlFeFJSQkNWejdkbExrdVc2dVRCZTlHWUsyNA?oc=5" target="_blank">Jean-Pierre Farandou : « Les crédits de l'apprentissage seront préservés, par les temps qui courent, c'est un choix fort</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -610,13 +626,5 @@
 `Tue, 16 Jun 2026 18:30:13 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxORkRpN0ZfaWRNNWsydGc1d29rNVM5Tll3Rm1TREFDMEtVUFB6ckdySkZNX2NkYWFYSmI2NTlfckZ4OUlDUnJDZGNiOVFmNjZxLVNLc2JwM1dZa3NEVjllS1l3aVpkeTFQcXNscUxvTmNQb29maHVCWXU5d1l5Tl9pT1pCYXk0dS0zd1pwY3g1QzkxdEViREhzazhzcWF0WnhZeVdmcUdRT1pvejZKcEZhWTl6SFhadkp6WjdmNF9Pb2RaOTcxY2d5NXRB?oc=5" target="_blank">Pouvoir d'achat en berne, exportations en hausse : ce qui attend la France</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Fraudes à l'apprentissage : le gouvernement divisé sur les réponses à apporter - Les Echos](https://news.google.com/rss/articles/CBMiygFBVV95cUxQZFp2LTNiYloyUGhSZUsxNVVBQWJfb05SakNteFRGeDEyT1R4dXJJVTlVV1dfREJtdms3RTFmdWhTRWdpNjZZRENCSDFmZ3drOGRsaUd1Y2c2Z1A2NGhqOGNTWkVNVzlMSDBmekJfUndYOGZqMUNnWHRBODZVRUMwTFF0bko3Z1FLSXp4d2lkUW42eXlRMFQ3NXNGZkNGS09kSzRaVzhWaXZ0VENWOE9XejRFX2taTWFtZU9sOFk0TUR2a0tUcUNLQ1F3?oc=5)
-
-`Tue, 16 Jun 2026 15:35:05 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxQZFp2LTNiYloyUGhSZUsxNVVBQWJfb05SakNteFRGeDEyT1R4dXJJVTlVV1dfREJtdms3RTFmdWhTRWdpNjZZRENCSDFmZ3drOGRsaUd1Y2c2Z1A2NGhqOGNTWkVNVzlMSDBmekJfUndYOGZqMUNnWHRBODZVRUMwTFF0bko3Z1FLSXp4d2lkUW42eXlRMFQ3NXNGZkNGS09kSzRaVzhWaXZ0VENWOE9XejRFX2taTWFtZU9sOFk0TUR2a0tUcUNLQ1F3?oc=5" target="_blank">Fraudes à l'apprentissage : le gouvernement divisé sur les réponses à apporter</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
