@@ -1,7 +1,23 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Thu, 16 Jul 2026 07:49:12 +0000`
-> 75 articles (30 derniers jours)
+> Derniere mise a jour : `Thu, 16 Jul 2026 11:04:26 +0000`
+> 77 articles (30 derniers jours)
+
+---
+
+### [Moins de mariages, plus de recompositions, plus d'homoparentalité : le profond bouleversement des familles françaises - Les Echos](https://news.google.com/rss/articles/CBMi-wFBVV95cUxOVXc1QnlibG9qV19Za3FSeEpYSk5YSDRMZUlMRFlwdDc2SUxhR2o0dkdDMHNhUkJJbmZuQ3dqTlpqTmRUX0NxSFkxUFRvTno4dmM5Zk9KUEstWEtCb2p6Y09pdjRUU0RfTTktTzZWcWlmbzVoVzBfX3M5UGR2LVdXY2d1WG9uc0lHSUFINjByMEFTSloyYlJoSTJwWkdzaUIzc1NENnczSFB3MTliVm1JdDJ4dVpvcWJpaGJFRHMxVks2WElCeHpJdGtGVDRDUWdwY3Z4N05vTV9DMUROTnlHUENEajVRSFRPUl95UkNWR0pDRUl4a1l6RVhVbw?oc=5)
+
+`Thu, 16 Jul 2026 09:47:17 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi-wFBVV95cUxOVXc1QnlibG9qV19Za3FSeEpYSk5YSDRMZUlMRFlwdDc2SUxhR2o0dkdDMHNhUkJJbmZuQ3dqTlpqTmRUX0NxSFkxUFRvTno4dmM5Zk9KUEstWEtCb2p6Y09pdjRUU0RfTTktTzZWcWlmbzVoVzBfX3M5UGR2LVdXY2d1WG9uc0lHSUFINjByMEFTSloyYlJoSTJwWkdzaUIzc1NENnczSFB3MTliVm1JdDJ4dVpvcWJpaGJFRHMxVks2WElCeHpJdGtGVDRDUWdwY3Z4N05vTV9DMUROTnlHUENEajVRSFRPUl95UkNWR0pDRUl4a1l6RVhVbw?oc=5" target="_blank">Moins de mariages, plus de recompositions, plus d'homoparentalité : le profond bouleversement des familles françaises</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Budget 2027 : le gouvernement met presque tous les ministères à contribution - Les Echos](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWkh2RHRaUlI1TzVXMDg4bjJZWG9Ua1BEWWxybGM5Y2Y2UU9vM181RWpVTHRoUG1ZRjBFcG1neFpjbVVnYjBKOXdIOThvUjQwOXpjWFplbkgyanliMG5Oek5kZVdOT253VFo4TXZ6NWZTRHFySG5QTk9WSVVBZjBXcjdDNFp1c2xmUXlnRWpXODdwbXF0Wi14QVlrZzZUTlQybXJGc1M5ZVFXN05qTU5nNFVKVmsxTFhGX0FNVmN0WjJGUVU1NTJNS3V0Z0pqVWxodHpQdklR?oc=5)
+
+`Thu, 16 Jul 2026 09:13:52 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWkh2RHRaUlI1TzVXMDg4bjJZWG9Ua1BEWWxybGM5Y2Y2UU9vM181RWpVTHRoUG1ZRjBFcG1neFpjbVVnYjBKOXdIOThvUjQwOXpjWFplbkgyanliMG5Oek5kZVdOT253VFo4TXZ6NWZTRHFySG5QTk9WSVVBZjBXcjdDNFp1c2xmUXlnRWpXODdwbXF0Wi14QVlrZzZUTlQybXJGc1M5ZVFXN05qTU5nNFVKVmsxTFhGX0FNVmN0WjJGUVU1NTJNS3V0Z0pqVWxodHpQdklR?oc=5" target="_blank">Budget 2027 : le gouvernement met presque tous les ministères à contribution</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
