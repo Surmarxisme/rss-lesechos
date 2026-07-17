@@ -1,7 +1,7 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Thu, 16 Jul 2026 17:57:48 +0000`
-> 78 articles (30 derniers jours)
+> Derniere mise a jour : `Fri, 17 Jul 2026 07:46:42 +0000`
+> 75 articles (30 derniers jours)
 
 ---
 
@@ -602,29 +602,5 @@
 `Wed, 17 Jun 2026 14:36:13 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMiowFBVV95cUxQbzRPbGdRWkk2cnZHSVROQTZMQTl3UURkaFBaeUNOOUVsS3ZwcHZrb3J3c3dRU195Ym0tNDZGOThwblpodkpCZS0xd0ZSckdZeXNZS2dRcjYyUGxsUjc2SjhlRmMwZ3JvekhWbWc1NVhVVzhkMkdVWjhKNFY0Vy1IaUFQQWw3UFE2YkZmdi0zREpfdWxvZzcwT1dLUnVZMzZHUkUw?oc=5" target="_blank">Assurance-chômage : l'alerte de l'Unédic à Lecornu</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Salaires, pouvoir d'achat, temps libre… : à quoi aspirent les Français ? - Les Echos](https://news.google.com/rss/articles/CBMiuwFBVV95cUxONkhHOXNoSFVNUUFXN3VlckgtZ25QR2l2dS1XYjlleklhQVZHT2Foa2REaHVJekxqbDEwS1hmajFBeXkxUFpZVXIydkJVU2tIN2pCanlyWlRSLWVDci16bzRUR2diV3R0VWdLSWU1TjhXQ1VYWlpKbmxVb0U0NnQwdWlQN0pFaGc0RDlhVzN3cHdLa1p6d3djeGtuaFhmTmk2dGY3SHRyZnBuekc4b1NhZjdIWHdpMUU5Mlk4?oc=5)
-
-`Wed, 17 Jun 2026 05:50:08 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxONkhHOXNoSFVNUUFXN3VlckgtZ25QR2l2dS1XYjlleklhQVZHT2Foa2REaHVJekxqbDEwS1hmajFBeXkxUFpZVXIydkJVU2tIN2pCanlyWlRSLWVDci16bzRUR2diV3R0VWdLSWU1TjhXQ1VYWlpKbmxVb0U0NnQwdWlQN0pFaGc0RDlhVzN3cHdLa1p6d3djeGtuaFhmTmk2dGY3SHRyZnBuekc4b1NhZjdIWHdpMUU5Mlk4?oc=5" target="_blank">Salaires, pouvoir d'achat, temps libre… : à quoi aspirent les Français ?</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [« L'économie française fait face à un choc énergétique persistant » - Les Echos](https://news.google.com/rss/articles/CBMivwFBVV95cUxQV0lTZkl6S2lxc0xSSVJVUnl3X1lHYUFVb0ZBRVlka09hSWdUSTBnX3NROVk4Y2QxSE5pdGlkM25nbFZLOEs3WE40djZUYWlmazBVMHFjTW8zblZVTjczMnlyYkw4SWRhOHJUaUxta01UMUVSeV9OZDVSak1VckdBZ1JmNEtoSW9mVlZXZGMyZXgzRlI5ODQ5VDhKTlQyWXViSU1JOWVwYnBJVnFscTBEWEEzVWFtSkNhcnQwU0VMSQ?oc=5)
-
-`Tue, 16 Jun 2026 18:00:13 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxQV0lTZkl6S2lxc0xSSVJVUnl3X1lHYUFVb0ZBRVlka09hSWdUSTBnX3NROVk4Y2QxSE5pdGlkM25nbFZLOEs3WE40djZUYWlmazBVMHFjTW8zblZVTjczMnlyYkw4SWRhOHJUaUxta01UMUVSeV9OZDVSak1VckdBZ1JmNEtoSW9mVlZXZGMyZXgzRlI5ODQ5VDhKTlQyWXViSU1JOWVwYnBJVnFscTBEWEEzVWFtSkNhcnQwU0VMSQ?oc=5" target="_blank">« L'économie française fait face à un choc énergétique persistant »</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Pouvoir d'achat en berne, exportations en hausse : ce qui attend la France - Les Echos](https://news.google.com/rss/articles/CBMiygFBVV95cUxORkRpN0ZfaWRNNWsydGc1d29rNVM5Tll3Rm1TREFDMEtVUFB6ckdySkZNX2NkYWFYSmI2NTlfckZ4OUlDUnJDZGNiOVFmNjZxLVNLc2JwM1dZa3NEVjllS1l3aVpkeTFQcXNscUxvTmNQb29maHVCWXU5d1l5Tl9pT1pCYXk0dS0zd1pwY3g1QzkxdEViREhzazhzcWF0WnhZeVdmcUdRT1pvejZKcEZhWTl6SFhadkp6WjdmNF9Pb2RaOTcxY2d5NXRB?oc=5)
-
-`Tue, 16 Jun 2026 18:30:13 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxORkRpN0ZfaWRNNWsydGc1d29rNVM5Tll3Rm1TREFDMEtVUFB6ckdySkZNX2NkYWFYSmI2NTlfckZ4OUlDUnJDZGNiOVFmNjZxLVNLc2JwM1dZa3NEVjllS1l3aVpkeTFQcXNscUxvTmNQb29maHVCWXU5d1l5Tl9pT1pCYXk0dS0zd1pwY3g1QzkxdEViREhzazhzcWF0WnhZeVdmcUdRT1pvejZKcEZhWTl6SFhadkp6WjdmNF9Pb2RaOTcxY2d5NXRB?oc=5" target="_blank">Pouvoir d'achat en berne, exportations en hausse : ce qui attend la France</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
