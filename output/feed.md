@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Fri, 17 Jul 2026 10:52:21 +0000`
-> 76 articles (30 derniers jours)
+> Derniere mise a jour : `Fri, 17 Jul 2026 13:09:12 +0000`
+> 77 articles (30 derniers jours)
+
+---
+
+### [Après la polémique de l'an dernier, les nouveaux chiffres des aides publiques aux entreprises - Les Echos](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPVDh6REZFQ3Zwel81U3hiLWtVRDJsT3dFd25xU25lWWgwNFNhM2s1WVc5MzFKX3IzSDRhZzhoQkJkVzdCWkxKbGVvN0pueFpUamRkUFBSc1hnY0xVbzFUV0FsR0JnWnZKcnNCODN2ZThWVXJzWEtWNTd4YVpSMkxZaUNielV5aHV6T2hCRXItVVhpT3BEM2FRY0Z2alhmOWlzU2ZDeHBTRW1NQkl4dEwzM1dqaWRzVXZWc2hkS2NuUGo1QThISUlXMlpPLUc5aVdiVmt2dTVCcHdIWGxpeXdsNC1wS1BmZw?oc=5)
+
+`Fri, 17 Jul 2026 13:08:13 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi5gFBVV95cUxPVDh6REZFQ3Zwel81U3hiLWtVRDJsT3dFd25xU25lWWgwNFNhM2s1WVc5MzFKX3IzSDRhZzhoQkJkVzdCWkxKbGVvN0pueFpUamRkUFBSc1hnY0xVbzFUV0FsR0JnWnZKcnNCODN2ZThWVXJzWEtWNTd4YVpSMkxZaUNielV5aHV6T2hCRXItVVhpT3BEM2FRY0Z2alhmOWlzU2ZDeHBTRW1NQkl4dEwzM1dqaWRzVXZWc2hkS2NuUGo1QThISUlXMlpPLUc5aVdiVmt2dTVCcHdIWGxpeXdsNC1wS1BmZw?oc=5" target="_blank">Après la polémique de l'an dernier, les nouveaux chiffres des aides publiques aux entreprises</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
