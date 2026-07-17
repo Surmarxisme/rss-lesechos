@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Fri, 17 Jul 2026 07:46:42 +0000`
-> 75 articles (30 derniers jours)
+> Derniere mise a jour : `Fri, 17 Jul 2026 10:52:21 +0000`
+> 76 articles (30 derniers jours)
+
+---
+
+### [Les situations de fragilité augmentent au sein des PME et des ETI françaises - Les Echos](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSER0ODRNSXhhbWw2RW1RQVJ4QjhraV9iZWtMejQ2cTNJU0JqN2JQSERJUXp1NzA4bUdUTllnMlJPaW5TazRTSkxyZExfWlpoMTJzMlQta3BuOW0tMXlXUlBTZU5EUjZtREhvZFRDalduV0pZRWNreFZtV1o0ekp6V1ctMmhlVGZPYlR4c0xEQUIyNWZkTXVPNnVWUDd5enZwcE9DQXgza3d2ZndRdWthZVNrNmczZlBteWozeXlSNG1lVUprbHRLanRTWTQzdGJIcGc?oc=5)
+
+`Fri, 17 Jul 2026 08:00:00 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSER0ODRNSXhhbWw2RW1RQVJ4QjhraV9iZWtMejQ2cTNJU0JqN2JQSERJUXp1NzA4bUdUTllnMlJPaW5TazRTSkxyZExfWlpoMTJzMlQta3BuOW0tMXlXUlBTZU5EUjZtREhvZFRDalduV0pZRWNreFZtV1o0ekp6V1ctMmhlVGZPYlR4c0xEQUIyNWZkTXVPNnVWUDd5enZwcE9DQXgza3d2ZndRdWthZVNrNmczZlBteWozeXlSNG1lVUprbHRLanRTWTQzdGJIcGc?oc=5" target="_blank">Les situations de fragilité augmentent au sein des PME et des ETI françaises</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
