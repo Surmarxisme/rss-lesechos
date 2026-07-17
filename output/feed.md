@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Fri, 17 Jul 2026 13:09:12 +0000`
-> 77 articles (30 derniers jours)
+> Derniere mise a jour : `Fri, 17 Jul 2026 17:56:06 +0000`
+> 76 articles (30 derniers jours)
+
+---
+
+### [Faire valider chaque achat de formation : le virage sur l'aile du gouvernement sur le CPF - Les Echos](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNejNDTXVFNXlSN0p3elBTQTI5NDdmWFhZRnFXMElMRy05WDJMeUtoS3I2MkdXUWlzZVlTcFk0TXVwMk9rNHQtVzJTUk13VTc2cHp4M196S1FHbFJDZkhZclhDbVhvM2RDMFNmajQtem9aeGxCMTZCbWJhYjB1dkY4ZkIxT282bWUzWmV2RVpoeDVfTXJScHVwYlRMWEY1LVRRMTJyZ2E4SDFzVzJ2UW5LX2tjOWNhckJPOEFvMHJ4a3dsM1BPODlIbm5qRUt0YjNvbFRUcHZ5MU4?oc=5)
+
+`Fri, 17 Jul 2026 14:37:54 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi2AFBVV95cUxNejNDTXVFNXlSN0p3elBTQTI5NDdmWFhZRnFXMElMRy05WDJMeUtoS3I2MkdXUWlzZVlTcFk0TXVwMk9rNHQtVzJTUk13VTc2cHp4M196S1FHbFJDZkhZclhDbVhvM2RDMFNmajQtem9aeGxCMTZCbWJhYjB1dkY4ZkIxT282bWUzWmV2RVpoeDVfTXJScHVwYlRMWEY1LVRRMTJyZ2E4SDFzVzJ2UW5LX2tjOWNhckJPOEFvMHJ4a3dsM1BPODlIbm5qRUt0YjNvbFRUcHZ5MU4?oc=5" target="_blank">Faire valider chaque achat de formation : le virage sur l'aile du gouvernement sur le CPF</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -589,14 +597,6 @@
 
 ---
 
-### [Croissance, déficit : l'équation se complique pour le gouvernement Lecornu - Les Echos](https://news.google.com/rss/articles/CBMiygFBVV95cUxQZlFRTVN2X2kwb1ZiUTFBYnZ5NzcyeEY2SU8zZ0NJYkFBNVBJVG9lODdrVjktdnI1T3FlTFFZNUgteDR6d19tXzZYTHk0SHlqZGVSOUVXemY3akNicG1Ha1lVRUFmMW9rRFJ6QlZpeU40T1BPUzBIZzZ0a0tpMDhMUlc2czE2bHl6cTZBYWl5UEFZZW5jQmphWTluQXdZTE1XMFNyQ2RJUU5oMzlwSGlXTWs4bGNKNGM3REdxMGJINmdudG5HbDVnQUJ3?oc=5)
-
-`Wed, 17 Jun 2026 15:00:55 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxQZlFRTVN2X2kwb1ZiUTFBYnZ5NzcyeEY2SU8zZ0NJYkFBNVBJVG9lODdrVjktdnI1T3FlTFFZNUgteDR6d19tXzZYTHk0SHlqZGVSOUVXemY3akNicG1Ha1lVRUFmMW9rRFJ6QlZpeU40T1BPUzBIZzZ0a0tpMDhMUlc2czE2bHl6cTZBYWl5UEFZZW5jQmphWTluQXdZTE1XMFNyQ2RJUU5oMzlwSGlXTWs4bGNKNGM3REdxMGJINmdudG5HbDVnQUJ3?oc=5" target="_blank">Croissance, déficit : l'équation se complique pour le gouvernement Lecornu</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
 ### [« La France ne sait plus qui sont ses riches » : le Sénat veut rouvrir la « boîte noire » du patrimoine des Français - Les Echos](https://news.google.com/rss/articles/CBMigAJBVV95cUxPeVBEcTBkZmxNdGs3SGMxUW03a2RtWnI1TVpWd3FNbjBITzduYklURDQwSUdjN0UzUFpmUUVWeHplYjhnMUNGX2ZFU2kyYjdzZjBLSTFzWXc4UlNTSzJnMGhoRUFIcjRtbkV1MVVLQW01eHVoUm1HT3EyeWc2NV9PamNXYll6eEtDUUFPN0NJY19MQ2J3THhjd19WX3hCZGtLUXlmTUNucHZyZTB3c2hMWHpXaWVfeDMwYkVKRzBkNnprLXdxMXhnYVRfMjlPajB4WTZjbTFVTmJwYUxzLXprbWdXM2cxY3ppR3dISGhrYi05UTI2c1ZUSEtxQkZaRUli?oc=5)
 
 `Thu, 18 Jun 2026 04:30:08 GMT`
@@ -610,13 +610,5 @@
 `Thu, 18 Jun 2026 08:16:17 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZ2JibzNFTkNYOC1XbWJiaFpJWGx6SDRkcVZMQjNDMTNQc2tidy0yXzNJUGM0dmltYWZpR2FDeENVaFBUZFFLUDNFdlpGTUM2cjk3TnBxMkY1RjhnekZ3WDBNTWJKTzBSVkthaXl6T1ZacGp4N0N4Q1l1Y0F3UTN6eWhyRmRXbVAzN0VEZlZSLThfVkVtejk0VFFyaTBVVE1sQldwRXB5bkxnR0luM3pvWVIxVlF5SEd3R2drdjlFZVJqbnAzenJ2d2RkdmI1NTRnNC1qSF94ajdDVnBYT2tEeDVDNkw?oc=5" target="_blank">Métier exercé, nombre d'heures, bien-être : comment les apprentis jugent leurs conditions de travail</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Assurance-chômage : l'alerte de l'Unédic à Lecornu - Les Echos](https://news.google.com/rss/articles/CBMiowFBVV95cUxQbzRPbGdRWkk2cnZHSVROQTZMQTl3UURkaFBaeUNOOUVsS3ZwcHZrb3J3c3dRU195Ym0tNDZGOThwblpodkpCZS0xd0ZSckdZeXNZS2dRcjYyUGxsUjc2SjhlRmMwZ3JvekhWbWc1NVhVVzhkMkdVWjhKNFY0Vy1IaUFQQWw3UFE2YkZmdi0zREpfdWxvZzcwT1dLUnVZMzZHUkUw?oc=5)
-
-`Wed, 17 Jun 2026 14:36:13 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiowFBVV95cUxQbzRPbGdRWkk2cnZHSVROQTZMQTl3UURkaFBaeUNOOUVsS3ZwcHZrb3J3c3dRU195Ym0tNDZGOThwblpodkpCZS0xd0ZSckdZeXNZS2dRcjYyUGxsUjc2SjhlRmMwZ3JvekhWbWc1NVhVVzhkMkdVWjhKNFY0Vy1IaUFQQWw3UFE2YkZmdi0zREpfdWxvZzcwT1dLUnVZMzZHUkUw?oc=5" target="_blank">Assurance-chômage : l'alerte de l'Unédic à Lecornu</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
