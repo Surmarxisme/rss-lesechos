@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Fri, 17 Jul 2026 17:56:06 +0000`
-> 76 articles (30 derniers jours)
+> Derniere mise a jour : `Sat, 18 Jul 2026 10:20:45 +0000`
+> 75 articles (30 derniers jours)
+
+---
+
+### [Formation : les achats réalisés via le CPF continuent de baisser - Les Echos](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWUU5MFZMcU9jMjBTODRMbENBTDhfOHlka3Zzd05rdGdfVmtGNlAyZkJ4cEpURm1jQ0JaQ1RnbFgyMVNfZndUdktIRWV5TnYyeHBueVNiNGRVb1ZKSHRIbUdHRkRYajRockd1VkNqZXZLbVh0cmhFTGpVczRubjZ2ODJXZjZVMzd0blJ4Mm8tbE8xdjhUM2ZERkxMUmFiejNjVmxlaWhpV3FuX1drZW50ZDgtRFNneXdo?oc=5)
+
+`Sat, 18 Jul 2026 06:44:09 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWUU5MFZMcU9jMjBTODRMbENBTDhfOHlka3Zzd05rdGdfVmtGNlAyZkJ4cEpURm1jQ0JaQ1RnbFgyMVNfZndUdktIRWV5TnYyeHBueVNiNGRVb1ZKSHRIbUdHRkRYajRockd1VkNqZXZLbVh0cmhFTGpVczRubjZ2ODJXZjZVMzd0blJ4Mm8tbE8xdjhUM2ZERkxMUmFiejNjVmxlaWhpV3FuX1drZW50ZDgtRFNneXdo?oc=5" target="_blank">Formation : les achats réalisés via le CPF continuent de baisser</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -594,21 +602,5 @@
 `Thu, 18 Jun 2026 16:06:00 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxPU1NPQVRhUldwOWVoUjUtNk81aFFOcExxaXRFU3EwSlRKQ0VkaVJSLUZrUzV3cklTYVlhMV9JZjdjWHN4enBkeTZ3UDRnSS1qbUx2b0Y4bWRXcDZ6b2JNLU1BMThwcXE5Sk9Eb0dSMl9HQ19zQkJMbGZSbjFhTFJQMUVFM2EwWE1NZDRGdkVmR0VIVzJqQXFKbzRWc2JMXzBrTTlNRWk2eFpJcHpVTG1GbHR1aWctSjJpMFFGNWxsc19ZVGxzVFEzTw?oc=5" target="_blank">La multiplication des canicules pourrait coûter très cher à la France</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [« La France ne sait plus qui sont ses riches » : le Sénat veut rouvrir la « boîte noire » du patrimoine des Français - Les Echos](https://news.google.com/rss/articles/CBMigAJBVV95cUxPeVBEcTBkZmxNdGs3SGMxUW03a2RtWnI1TVpWd3FNbjBITzduYklURDQwSUdjN0UzUFpmUUVWeHplYjhnMUNGX2ZFU2kyYjdzZjBLSTFzWXc4UlNTSzJnMGhoRUFIcjRtbkV1MVVLQW01eHVoUm1HT3EyeWc2NV9PamNXYll6eEtDUUFPN0NJY19MQ2J3THhjd19WX3hCZGtLUXlmTUNucHZyZTB3c2hMWHpXaWVfeDMwYkVKRzBkNnprLXdxMXhnYVRfMjlPajB4WTZjbTFVTmJwYUxzLXprbWdXM2cxY3ppR3dISGhrYi05UTI2c1ZUSEtxQkZaRUli?oc=5)
-
-`Thu, 18 Jun 2026 04:30:08 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMigAJBVV95cUxPeVBEcTBkZmxNdGs3SGMxUW03a2RtWnI1TVpWd3FNbjBITzduYklURDQwSUdjN0UzUFpmUUVWeHplYjhnMUNGX2ZFU2kyYjdzZjBLSTFzWXc4UlNTSzJnMGhoRUFIcjRtbkV1MVVLQW01eHVoUm1HT3EyeWc2NV9PamNXYll6eEtDUUFPN0NJY19MQ2J3THhjd19WX3hCZGtLUXlmTUNucHZyZTB3c2hMWHpXaWVfeDMwYkVKRzBkNnprLXdxMXhnYVRfMjlPajB4WTZjbTFVTmJwYUxzLXprbWdXM2cxY3ppR3dISGhrYi05UTI2c1ZUSEtxQkZaRUli?oc=5" target="_blank">« La France ne sait plus qui sont ses riches » : le Sénat veut rouvrir la « boîte noire » du patrimoine des Français</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Métier exercé, nombre d'heures, bien-être : comment les apprentis jugent leurs conditions de travail - Les Echos](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZ2JibzNFTkNYOC1XbWJiaFpJWGx6SDRkcVZMQjNDMTNQc2tidy0yXzNJUGM0dmltYWZpR2FDeENVaFBUZFFLUDNFdlpGTUM2cjk3TnBxMkY1RjhnekZ3WDBNTWJKTzBSVkthaXl6T1ZacGp4N0N4Q1l1Y0F3UTN6eWhyRmRXbVAzN0VEZlZSLThfVkVtejk0VFFyaTBVVE1sQldwRXB5bkxnR0luM3pvWVIxVlF5SEd3R2drdjlFZVJqbnAzenJ2d2RkdmI1NTRnNC1qSF94ajdDVnBYT2tEeDVDNkw?oc=5)
-
-`Thu, 18 Jun 2026 08:16:17 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZ2JibzNFTkNYOC1XbWJiaFpJWGx6SDRkcVZMQjNDMTNQc2tidy0yXzNJUGM0dmltYWZpR2FDeENVaFBUZFFLUDNFdlpGTUM2cjk3TnBxMkY1RjhnekZ3WDBNTWJKTzBSVkthaXl6T1ZacGp4N0N4Q1l1Y0F3UTN6eWhyRmRXbVAzN0VEZlZSLThfVkVtejk0VFFyaTBVVE1sQldwRXB5bkxnR0luM3pvWVIxVlF5SEd3R2drdjlFZVJqbnAzenJ2d2RkdmI1NTRnNC1qSF94ajdDVnBYT2tEeDVDNkw?oc=5" target="_blank">Métier exercé, nombre d'heures, bien-être : comment les apprentis jugent leurs conditions de travail</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
