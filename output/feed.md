@@ -1,7 +1,7 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Sat, 18 Jul 2026 10:20:45 +0000`
-> 75 articles (30 derniers jours)
+> Derniere mise a jour : `Sun, 19 Jul 2026 10:37:02 +0000`
+> 69 articles (30 derniers jours)
 
 ---
 
@@ -554,53 +554,5 @@
 `Sun, 21 Jun 2026 06:45:11 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbFdTRjVJQlJMczBleDdvQXhpS1M5eVJZZWVXazlDbkMtdE0tUkdKa3JlTG5WVG1VMnNHMnFDd2Rka3Z3VTFyR0diSDNMY1B0VEJ4aXN2XzhtTmh3QmtmM1ZrbmJHVTVZRGVpVF9OQnlVZU8xVmJ4Sy04eTU1UW5FellPQmVDQ1k4ZkNBOW9fM1hVSmRIejdkUFZvREFmc1J1MXhIem9oZVBMX3plWEtIc1JjNHRXY2xtNHZtS0Y4amVDeG5Fbi11NjRTdDhBSEhXQ3p2a1Bockx1QQ?oc=5" target="_blank">Salaires : ces chiffres qui démontent les idées reçues sur l'écart entre le brut et le net</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Canicule : ce que dit le Code du travail en cas de fortes chaleurs - Les Echos](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSUh6UDkwUjktMTMySGR0cXpzRDhKSC1qeGxsVGxIdDlFRTl5SVVrYThndzkwYzVlX1pUVnBSdC1PUk84S1gyNktOM2toSF9lOHJQUVhULTRXTXNFUk5ONVZjOVlENm02ekVnTGZYV0RsR1lEZk9GTklDVTFFczVDYVN1QUFZakJhQmNEdnBnZXlRbW5WZ0tzMXdyclVoc0RzNXh1OUxfMG1kUktUcDJ1SjNIVFl5Z0hrRTF3?oc=5)
-
-`Fri, 19 Jun 2026 10:28:52 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSUh6UDkwUjktMTMySGR0cXpzRDhKSC1qeGxsVGxIdDlFRTl5SVVrYThndzkwYzVlX1pUVnBSdC1PUk84S1gyNktOM2toSF9lOHJQUVhULTRXTXNFUk5ONVZjOVlENm02ekVnTGZYV0RsR1lEZk9GTklDVTFFczVDYVN1QUFZakJhQmNEdnBnZXlRbW5WZ0tzMXdyclVoc0RzNXh1OUxfMG1kUktUcDJ1SjNIVFl5Z0hrRTF3?oc=5" target="_blank">Canicule : ce que dit le Code du travail en cas de fortes chaleurs</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Transparence salariale : les syndicats restent sur leur faim - Les Echos](https://news.google.com/rss/articles/CBMiswFBVV95cUxONzVhNmhEb29SSUFpb3lIWm56RVJ3U19YdENZdjVaTDA1X3ZsbFprZjgwTG85bEE4bmt6cnZ4b3ZWRU1tT1lhdU1SSUFPRGdRbEdYZWR0VEZGWk12M0FxTExRbzlubl94YUtWZFJMcTFmbHNjMHh2MldrX0ZlSk1kMzRZaHlGemdoYmZKVUxIQ2F6QjBtMnU5MEhvVFZXS0JzdmJsN01TYzZBbW1CcEFSU0RSMA?oc=5)
-
-`Fri, 19 Jun 2026 04:30:29 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxONzVhNmhEb29SSUFpb3lIWm56RVJ3U19YdENZdjVaTDA1X3ZsbFprZjgwTG85bEE4bmt6cnZ4b3ZWRU1tT1lhdU1SSUFPRGdRbEdYZWR0VEZGWk12M0FxTExRbzlubl94YUtWZFJMcTFmbHNjMHh2MldrX0ZlSk1kMzRZaHlGemdoYmZKVUxIQ2F6QjBtMnU5MEhvVFZXS0JzdmJsN01TYzZBbW1CcEFSU0RSMA?oc=5" target="_blank">Transparence salariale : les syndicats restent sur leur faim</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [EXCLUSIF - Transparence salariale : comment seront calculés les indicateurs d'inégalités femme-homme - Les Echos](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOektrRll4TzFIcnBNYzB6RlhabUhQR2M0VmZqcEQyYmNWXzZpVENQMjF3bWNxbHBpaUI4bWladFZKZVlQSGdXdk1GWERudGdfclVwWnRaNlY1UjBzbWQ2WXlpb0FRYmEwQWRneGg0bkNXbGZXaWZ6aTQ4Vlc4R2xOSmVKUXRBOXRMYzZWZldmbE5YWjVyUmdPYmZiUTY5LWZWNUNhSEdDN2h0T3VuS0FqNUJraDVNWV9hYzVCQ1Y1bXpRVGxWYmRpelEyd3Z3aVBTUkRzc0ZuUTVMclBNRGpDRlhUU3I?oc=5)
-
-`Fri, 19 Jun 2026 05:00:29 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi5AFBVV95cUxOektrRll4TzFIcnBNYzB6RlhabUhQR2M0VmZqcEQyYmNWXzZpVENQMjF3bWNxbHBpaUI4bWladFZKZVlQSGdXdk1GWERudGdfclVwWnRaNlY1UjBzbWQ2WXlpb0FRYmEwQWRneGg0bkNXbGZXaWZ6aTQ4Vlc4R2xOSmVKUXRBOXRMYzZWZldmbE5YWjVyUmdPYmZiUTY5LWZWNUNhSEdDN2h0T3VuS0FqNUJraDVNWV9hYzVCQ1Y1bXpRVGxWYmRpelEyd3Z3aVBTUkRzc0ZuUTVMclBNRGpDRlhUU3I?oc=5" target="_blank">EXCLUSIF - Transparence salariale : comment seront calculés les indicateurs d'inégalités femme-homme</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Médicaments, transports sanitaires : le gouvernement prêt à frapper fort avec de nouveaux déremboursements - Les Echos](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOaHRDR3dyT1IxTzJuSUFhamJ6VGxjY3dzMUFOWllLRGVxR3RCVHZIS3N0UXdZWWdQMTNjTnMtanlWNjRvTFBmVTFHQlF3eTZYWm5nTDZaSkNzZzF6dndMMXBVU2pTeFVDOG9fekFiODBDMGg4SUlZbXBfYzQyUllHaXREQThfSHdwSGVjSGN1QVRBTU43UUNqMjVnYl81akd5WUwxUU41M1liclY1c0RJaHg3MGx5YWtvY2lXZ0t0WlVXWTlqdHE0UmljMEVxZnJTYmNoc3pYSlN4Zw?oc=5)
-
-`Fri, 19 Jun 2026 06:40:51 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi2gFBVV95cUxOaHRDR3dyT1IxTzJuSUFhamJ6VGxjY3dzMUFOWllLRGVxR3RCVHZIS3N0UXdZWWdQMTNjTnMtanlWNjRvTFBmVTFHQlF3eTZYWm5nTDZaSkNzZzF6dndMMXBVU2pTeFVDOG9fekFiODBDMGg4SUlZbXBfYzQyUllHaXREQThfSHdwSGVjSGN1QVRBTU43UUNqMjVnYl81akd5WUwxUU41M1liclY1c0RJaHg3MGx5YWtvY2lXZ0t0WlVXWTlqdHE0UmljMEVxZnJTYmNoc3pYSlN4Zw?oc=5" target="_blank">Médicaments, transports sanitaires : le gouvernement prêt à frapper fort avec de nouveaux déremboursements</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Loi contre les fraudes : le Conseil constitutionnel valide l'essentiel du texte - Les Echos](https://news.google.com/rss/articles/CBMiywFBVV95cUxPLUJKcENjWlBFWkhoYURueUpPYnMyajFNZWZ2THhoU21HdUhHeERYLVc2SURRbTA1d3NEWjhmMG1zUGxMUUNGellQLWFoYkVnLWZzajVDZUw2dXM0Si14N0ZTakNOSjljX3JkU1lMNjA3RjB2S0s3M2lhY3hMQ210SEIwR01VcmZuRkNHdnh2bnhyTDJBMFJWS2Y3NEtXNUdFZzY4T2laN285ZUZmczBZemZJcVFybXV5MmtreGcyaUVwdUhka3h0bFFNYw?oc=5)
-
-`Thu, 18 Jun 2026 17:23:16 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiywFBVV95cUxPLUJKcENjWlBFWkhoYURueUpPYnMyajFNZWZ2THhoU21HdUhHeERYLVc2SURRbTA1d3NEWjhmMG1zUGxMUUNGellQLWFoYkVnLWZzajVDZUw2dXM0Si14N0ZTakNOSjljX3JkU1lMNjA3RjB2S0s3M2lhY3hMQ210SEIwR01VcmZuRkNHdnh2bnhyTDJBMFJWS2Y3NEtXNUdFZzY4T2laN285ZUZmczBZemZJcVFybXV5MmtreGcyaUVwdUhka3h0bFFNYw?oc=5" target="_blank">Loi contre les fraudes : le Conseil constitutionnel valide l'essentiel du texte</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [La multiplication des canicules pourrait coûter très cher à la France - Les Echos](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPU1NPQVRhUldwOWVoUjUtNk81aFFOcExxaXRFU3EwSlRKQ0VkaVJSLUZrUzV3cklTYVlhMV9JZjdjWHN4enBkeTZ3UDRnSS1qbUx2b0Y4bWRXcDZ6b2JNLU1BMThwcXE5Sk9Eb0dSMl9HQ19zQkJMbGZSbjFhTFJQMUVFM2EwWE1NZDRGdkVmR0VIVzJqQXFKbzRWc2JMXzBrTTlNRWk2eFpJcHpVTG1GbHR1aWctSjJpMFFGNWxsc19ZVGxzVFEzTw?oc=5)
-
-`Thu, 18 Jun 2026 16:06:00 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxPU1NPQVRhUldwOWVoUjUtNk81aFFOcExxaXRFU3EwSlRKQ0VkaVJSLUZrUzV3cklTYVlhMV9JZjdjWHN4enBkeTZ3UDRnSS1qbUx2b0Y4bWRXcDZ6b2JNLU1BMThwcXE5Sk9Eb0dSMl9HQ19zQkJMbGZSbjFhTFJQMUVFM2EwWE1NZDRGdkVmR0VIVzJqQXFKbzRWc2JMXzBrTTlNRWk2eFpJcHpVTG1GbHR1aWctSjJpMFFGNWxsc19ZVGxzVFEzTw?oc=5" target="_blank">La multiplication des canicules pourrait coûter très cher à la France</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
