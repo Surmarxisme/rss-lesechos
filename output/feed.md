@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Mon, 20 Jul 2026 08:30:14 +0000`
-> 70 articles (30 derniers jours)
+> Derniere mise a jour : `Mon, 20 Jul 2026 11:50:28 +0000`
+> 71 articles (30 derniers jours)
+
+---
+
+### [ISF, taxe Zucman : la mission d'enquête des députés balaie les solutions de la gauche mais avance un plan concret contre l'optimisation fiscale des grandes fortunes - Les Echos](https://news.google.com/rss/articles/CBMixwJBVV95cUxPbEUtZ1NIZjVDS2Zva3NobjMyQnhvS2NxX0FtR1N0cG10S3JHR3hydG45OGY2TlVHZnVHcWNleGtvRllIeWt3aGNXbWVJMG9CX19WSmdvVE9WNXpteFdKZ1BjM1NCSE5kT3RreXZVVkFxbTJfSjdYSVpWeVR5SHh3bmd2ZnpHSUNTQ0RLZG5DTjM3UFY4RUU4OU45Sk13VTFzQ1hpYi1FNkZMbExNc2ItV3JzMVZjQXIzZHBSUzA1TWIwazBNOFEyZ2luRC1rVm1DZXJPN1pVaTZUUmdmTDBpSDNPM3ZhY3FSYWFuSUs3bnFtanRzcUZmMUVySmJrQjdtcFNNMnd3QVMybVNBazFpbWRZNDFmUG5PVHI2ZDd2Nm0yU0JsVER0T3NnRE5BUnRyR2w5QWI5bVZFbF9jbkRuZzJyYUdKRkE?oc=5)
+
+`Mon, 20 Jul 2026 11:45:09 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMixwJBVV95cUxPbEUtZ1NIZjVDS2Zva3NobjMyQnhvS2NxX0FtR1N0cG10S3JHR3hydG45OGY2TlVHZnVHcWNleGtvRllIeWt3aGNXbWVJMG9CX19WSmdvVE9WNXpteFdKZ1BjM1NCSE5kT3RreXZVVkFxbTJfSjdYSVpWeVR5SHh3bmd2ZnpHSUNTQ0RLZG5DTjM3UFY4RUU4OU45Sk13VTFzQ1hpYi1FNkZMbExNc2ItV3JzMVZjQXIzZHBSUzA1TWIwazBNOFEyZ2luRC1rVm1DZXJPN1pVaTZUUmdmTDBpSDNPM3ZhY3FSYWFuSUs3bnFtanRzcUZmMUVySmJrQjdtcFNNMnd3QVMybVNBazFpbWRZNDFmUG5PVHI2ZDd2Nm0yU0JsVER0T3NnRE5BUnRyR2w5QWI5bVZFbF9jbkRuZzJyYUdKRkE?oc=5" target="_blank">ISF, taxe Zucman : la mission d'enquête des députés balaie les solutions de la gauche mais avance un plan concret contre l'optimisation fiscale des grandes fortunes</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
