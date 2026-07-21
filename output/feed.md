@@ -1,7 +1,23 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Mon, 20 Jul 2026 13:50:40 +0000`
-> 71 articles (30 derniers jours)
+> Derniere mise a jour : `Tue, 21 Jul 2026 08:01:01 +0000`
+> 72 articles (30 derniers jours)
+
+---
+
+### [Canicule, dette, délai de paiement, l'hôpital en surchauffe - Les Echos](https://news.google.com/rss/articles/CBMirwFBVV95cUxObzBrTm04dzIxV3pGMllVZGVZQ19aUllmQlNPdDVhZ3cwb1NlMnRnZW1UZVBVUXBpZl9QY2pybjNzdHdldlU2a0wyNjNQTWp2R29UTzBhemp3OHBzcUJpc0dlMTMzUk1teXBNcU43SXBTQV84bHA3cWNrUHdCdVdOVGNCUndGWjJXV1NWaXFRRTJhZzV6enU5RTV3T21CUGZJemQ4MzRtclFfNldram5F?oc=5)
+
+`Mon, 20 Jul 2026 15:00:47 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxObzBrTm04dzIxV3pGMllVZGVZQ19aUllmQlNPdDVhZ3cwb1NlMnRnZW1UZVBVUXBpZl9QY2pybjNzdHdldlU2a0wyNjNQTWp2R29UTzBhemp3OHBzcUJpc0dlMTMzUk1teXBNcU43SXBTQV84bHA3cWNrUHdCdVdOVGNCUndGWjJXV1NWaXFRRTJhZzV6enU5RTV3T21CUGZJemQ4MzRtclFfNldram5F?oc=5" target="_blank">Canicule, dette, délai de paiement, l'hôpital en surchauffe</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Budget 2027 : l'avantage fiscal de l'apprentissage à nouveau sur la sellette pour les contribuables - Les Echos](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOT1JwYXpBaTF0NElxMzdhWlR5SE1nSUZ4S2U1bldTNUdzV1lwSm1BQ1Q2anh1aU16TkpiTktiS0ViZ1FKTW5LT0xSZmdOR04tVnBXZ1dlQWlaWTZUQmlyMHVGZDBubFRzU1pTMlZBQmhxemtxMUtTU2NQXzB0WGVfdk4wSU5PNm9mSDFHcUVLMm9LQUtwZElUcVJGTWJ0aHItZFBEODdKdVd0MmNYVHpHUGRtZnJzdXRxV2dyR1pBMzhMcS1BSGd2cTA3ZGJSVkxrNFMxYmtlNFItYWZ1aTdEUFlmZW4?oc=5)
+
+`Tue, 21 Jul 2026 04:30:11 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi5AFBVV95cUxOT1JwYXpBaTF0NElxMzdhWlR5SE1nSUZ4S2U1bldTNUdzV1lwSm1BQ1Q2anh1aU16TkpiTktiS0ViZ1FKTW5LT0xSZmdOR04tVnBXZ1dlQWlaWTZUQmlyMHVGZDBubFRzU1pTMlZBQmhxemtxMUtTU2NQXzB0WGVfdk4wSU5PNm9mSDFHcUVLMm9LQUtwZElUcVJGTWJ0aHItZFBEODdKdVd0MmNYVHpHUGRtZnJzdXRxV2dyR1pBMzhMcS1BSGd2cTA3ZGJSVkxrNFMxYmtlNFItYWZ1aTdEUFlmZW4?oc=5" target="_blank">Budget 2027 : l'avantage fiscal de l'apprentissage à nouveau sur la sellette pour les contribuables</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -562,13 +578,5 @@
 `Mon, 22 Jun 2026 04:50:09 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxOUlg3VWFKQWdBMTMxbTMzZ1ZwcGFUTWZQejZDLTBYXzBJY3d1ME90TWlNM2ViMkRMTjlEcUxvRzluTUV1angwMkdyTGhwUGthZ0lDMy1YQWs4aV9qYXMzRE5OZUZMQm9vRG9MSG9jMG9UM1RLRFhfZllBMmpZaGZXM0EyV2tBNmREZGYzbDE1RWpTYzFReEo2SVZ2Yndzam9wWDFiR0JhNmZnbl83dDAxNUFoQTFTUjg?oc=5" target="_blank">La CFDT affûte ses armes en amont de l'élection présidentielle</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Salaires : ces chiffres qui démontent les idées reçues sur l'écart entre le brut et le net - Les Echos](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbFdTRjVJQlJMczBleDdvQXhpS1M5eVJZZWVXazlDbkMtdE0tUkdKa3JlTG5WVG1VMnNHMnFDd2Rka3Z3VTFyR0diSDNMY1B0VEJ4aXN2XzhtTmh3QmtmM1ZrbmJHVTVZRGVpVF9OQnlVZU8xVmJ4Sy04eTU1UW5FellPQmVDQ1k4ZkNBOW9fM1hVSmRIejdkUFZvREFmc1J1MXhIem9oZVBMX3plWEtIc1JjNHRXY2xtNHZtS0Y4amVDeG5Fbi11NjRTdDhBSEhXQ3p2a1Bockx1QQ?oc=5)
-
-`Sun, 21 Jun 2026 06:45:11 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbFdTRjVJQlJMczBleDdvQXhpS1M5eVJZZWVXazlDbkMtdE0tUkdKa3JlTG5WVG1VMnNHMnFDd2Rka3Z3VTFyR0diSDNMY1B0VEJ4aXN2XzhtTmh3QmtmM1ZrbmJHVTVZRGVpVF9OQnlVZU8xVmJ4Sy04eTU1UW5FellPQmVDQ1k4ZkNBOW9fM1hVSmRIejdkUFZvREFmc1J1MXhIem9oZVBMX3plWEtIc1JjNHRXY2xtNHZtS0Y4amVDeG5Fbi11NjRTdDhBSEhXQ3p2a1Bockx1QQ?oc=5" target="_blank">Salaires : ces chiffres qui démontent les idées reçues sur l'écart entre le brut et le net</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
