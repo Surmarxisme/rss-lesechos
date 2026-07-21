@@ -2,10 +2,19 @@
   "source": "Les Echos - Economie France",
   "source_url": "https://www.lesechos.fr/economie-france",
   "language": "fr-FR",
-  "last_fetched": "Tue, 21 Jul 2026 08:01:01 +0000",
-  "total_items": 72,
-  "new_items_this_run": 2,
+  "last_fetched": "Tue, 21 Jul 2026 11:12:04 +0000",
+  "total_items": 73,
+  "new_items_this_run": 1,
   "articles": [
+    {
+      "id": "CBMiyAFBVV95cUxQV3NDWWR1ak9jUVQxTjVDOTlodzJrYkdJTzZoY0hVeFdMSWxwcWhOY2JuQlVqZzZMdDMwN2lRT3E1anVzM281enJnVUdrNFJwS0o4RXZkMG5hNUJ2VTI4QnRvY2J1aFFQcGV0eEIxTUdGTERfV3VrNXFOVFZ1YjJjTUxuWXlLRnF1RjN2ajd5NlBjRGljQVhYUDVnUVBJbEtzZDJYOFh6WEgzcWRUTXBZZTJJQVpWNFhJclA2WlZ1b2ppX1J2cmJSdw",
+      "title": "Les Français toujours plus nombreux à se lancer dans l'entrepreneuriat - Les Echos",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQV3NDWWR1ak9jUVQxTjVDOTlodzJrYkdJTzZoY0hVeFdMSWxwcWhOY2JuQlVqZzZMdDMwN2lRT3E1anVzM281enJnVUdrNFJwS0o4RXZkMG5hNUJ2VTI4QnRvY2J1aFFQcGV0eEIxTUdGTERfV3VrNXFOVFZ1YjJjTUxuWXlLRnF1RjN2ajd5NlBjRGljQVhYUDVnUVBJbEtzZDJYOFh6WEgzcWRUTXBZZTJJQVpWNFhJclA2WlZ1b2ppX1J2cmJSdw?oc=5\" target=\"_blank\">Les Français toujours plus nombreux à se lancer dans l'entrepreneuriat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Les Echos</font>",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQV3NDWWR1ak9jUVQxTjVDOTlodzJrYkdJTzZoY0hVeFdMSWxwcWhOY2JuQlVqZzZMdDMwN2lRT3E1anVzM281enJnVUdrNFJwS0o4RXZkMG5hNUJ2VTI4QnRvY2J1aFFQcGV0eEIxTUdGTERfV3VrNXFOVFZ1YjJjTUxuWXlLRnF1RjN2ajd5NlBjRGljQVhYUDVnUVBJbEtzZDJYOFh6WEgzcWRUTXBZZTJJQVpWNFhJclA2WlZ1b2ppX1J2cmJSdw?oc=5",
+      "source": "Les Echos",
+      "pub_date": "Tue, 21 Jul 2026 08:50:34 GMT",
+      "pub_date_iso": "2026-07-21T08:50:34+00:00"
+    },
     {
       "id": "CBMirwFBVV95cUxObzBrTm04dzIxV3pGMllVZGVZQ19aUllmQlNPdDVhZ3cwb1NlMnRnZW1UZVBVUXBpZl9QY2pybjNzdHdldlU2a0wyNjNQTWp2R29UTzBhemp3OHBzcUJpc0dlMTMzUk1teXBNcU43SXBTQV84bHA3cWNrUHdCdVdOVGNCUndGWjJXV1NWaXFRRTJhZzV6enU5RTV3T21CUGZJemQ4MzRtclFfNldram5F",
       "title": "Canicule, dette, délai de paiement, l'hôpital en surchauffe - Les Echos",
