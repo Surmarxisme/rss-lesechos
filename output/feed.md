@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Tue, 21 Jul 2026 13:19:55 +0000`
-> 73 articles (30 derniers jours)
+> Derniere mise a jour : `Tue, 21 Jul 2026 18:07:08 +0000`
+> 74 articles (30 derniers jours)
+
+---
+
+### [Contrôle des investissements étrangers : l'Etat face à ses limites budgétaires - Les Echos](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTlo1T1B2eDJnMk9rVW5jV1BMSHhURzR3VTZVR0FzQUFEVUZPYmVXODduaEw4QzVHMXVnWWtRNWFrS0t2TzFFUTNXWkVybEFmb3Z3NFdjcGhtZ0JXZXNDTUhLc0w3MXdvaXcxaVo3ZGQwSkhUNVJkV3VWWG9vZFVPdmpmSU54ZWhrZm9Bd1VER2V5dnFjY3R0YkFOb0pqQkt5dGlScjVzc014Y1pCWkZvZFVveWxHR2p0VndMdUFxbTBhV3pfS295bmZwWk93YllQZ1pGRVh3MA?oc=5)
+
+`Tue, 21 Jul 2026 14:57:15 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTlo1T1B2eDJnMk9rVW5jV1BMSHhURzR3VTZVR0FzQUFEVUZPYmVXODduaEw4QzVHMXVnWWtRNWFrS0t2TzFFUTNXWkVybEFmb3Z3NFdjcGhtZ0JXZXNDTUhLc0w3MXdvaXcxaVo3ZGQwSkhUNVJkV3VWWG9vZFVPdmpmSU54ZWhrZm9Bd1VER2V5dnFjY3R0YkFOb0pqQkt5dGlScjVzc014Y1pCWkZvZFVveWxHR2p0VndMdUFxbTBhV3pfS295bmZwWk93YllQZ1pGRVh3MA?oc=5" target="_blank">Contrôle des investissements étrangers : l'Etat face à ses limites budgétaires</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
