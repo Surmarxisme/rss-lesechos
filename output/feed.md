@@ -1,7 +1,31 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Tue, 21 Jul 2026 18:07:08 +0000`
-> 74 articles (30 derniers jours)
+> Derniere mise a jour : `Wed, 22 Jul 2026 08:01:16 +0000`
+> 75 articles (30 derniers jours)
+
+---
+
+### [Budget : « pas très optimiste » sur le déficit, Sébastien Lecornu prêt à durcir les franchises médicales - Les Echos](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOYVNsTkNjeEx2SGMwcGNKVVFzNlFjQW8yeVZ5NTNNM2F6eXdRdVBjUE1VVEpUQ19HV2FhSFBDdTJ1dl9NbmUxeTJpREVkQTFCckNhOXNsOHJpSWdnVVZmVnVwYldHay1yOHI3M0IwdTRpeG9TbzlnNFdYY3pIZVlYbmNPMG5sWm1odVM4SS1PdUJrSFVTNGdrVlg3VWtPbWhrWUdSeG9CT1RMZWY3WEVJeDdhQ05WQndVRV9RWjQ4LTdMdnp5QUpWTXY0SXRzeEJMdjQ1TGxTcUZiLUVibGlDdGxRblU1Nm8xWFRfMjMxa25SUTdN?oc=5)
+
+`Wed, 22 Jul 2026 06:30:51 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi9AFBVV95cUxOYVNsTkNjeEx2SGMwcGNKVVFzNlFjQW8yeVZ5NTNNM2F6eXdRdVBjUE1VVEpUQ19HV2FhSFBDdTJ1dl9NbmUxeTJpREVkQTFCckNhOXNsOHJpSWdnVVZmVnVwYldHay1yOHI3M0IwdTRpeG9TbzlnNFdYY3pIZVlYbmNPMG5sWm1odVM4SS1PdUJrSFVTNGdrVlg3VWtPbWhrWUdSeG9CT1RMZWY3WEVJeDdhQ05WQndVRV9RWjQ4LTdMdnp5QUpWTXY0SXRzeEJMdjQ1TGxTcUZiLUVibGlDdGxRblU1Nm8xWFRfMjMxa25SUTdN?oc=5" target="_blank">Budget : « pas très optimiste » sur le déficit, Sébastien Lecornu prêt à durcir les franchises médicales</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Impôts : le fisc défend avec vigueur ses méthodes et ses résultats sur le contrôle fiscal - Les Echos](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNOGV0dUluTUxOOVNod3dvQm84SmRXZXR4a28xdWRDNDJoQ0tnYUMyWWN0bWt3Y2FVaDUydzBuMWl2WThpcHpHTXdqV3BRVlVKbEVBV0ZRQjFmYzB3WS1WTXpkVkNjY25LcjJQOVlPV2dsamhaeThVVGpXUktTYWdrYlZybXJYd01vOTZXNUhmNWhZdjExLUZ0U3FBYk5MZ0FTUWdhUXoxQXhtMm95M3IySFpTMnlyWVl4WDI5aFhaYWZ3SXdrZ2dOeERzTDgyOWNWejk0SkZ4ejBYZFJmejlmWk53bGlUVDA?oc=5)
+
+`Wed, 22 Jul 2026 04:30:09 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi5wFBVV95cUxNOGV0dUluTUxOOVNod3dvQm84SmRXZXR4a28xdWRDNDJoQ0tnYUMyWWN0bWt3Y2FVaDUydzBuMWl2WThpcHpHTXdqV3BRVlVKbEVBV0ZRQjFmYzB3WS1WTXpkVkNjY25LcjJQOVlPV2dsamhaeThVVGpXUktTYWdrYlZybXJYd01vOTZXNUhmNWhZdjExLUZ0U3FBYk5MZ0FTUWdhUXoxQXhtMm95M3IySFpTMnlyWVl4WDI5aFhaYWZ3SXdrZ2dOeERzTDgyOWNWejk0SkZ4ejBYZFJmejlmWk53bGlUVDA?oc=5" target="_blank">Impôts : le fisc défend avec vigueur ses méthodes et ses résultats sur le contrôle fiscal</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Cinq ans après s'être lancés, que deviennent les micro-entrepreneurs ? - Les Echos](https://news.google.com/rss/articles/CBMivgFBVV95cUxPRW0taWFadnR0VjVKNWdjdmk2N2VLLTA2NGNuVlpQdGRETldJcE43eUI4bjN1UWs4eWRfeHNyMXhsbGtUWThDX25nUzk0UEVBV2NCQWQ3ak1VUFVhdld5bWFIdlI4Nk1kZElYMWFhOVlyZ3hvSkdFcnFhelQ0SXZlRzh2dkF0ZWN1cnNGdUN0NEtzSVRJekN1VERHc3ZMUXdmMVlHQzFWYzAwY3FlVm5mZG5iVVR4Zy1yX0NSSWx3?oc=5)
+
+`Wed, 22 Jul 2026 04:45:08 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxPRW0taWFadnR0VjVKNWdjdmk2N2VLLTA2NGNuVlpQdGRETldJcE43eUI4bjN1UWs4eWRfeHNyMXhsbGtUWThDX25nUzk0UEVBV2NCQWQ3ak1VUFVhdld5bWFIdlI4Nk1kZElYMWFhOVlyZ3hvSkdFcnFhelQ0SXZlRzh2dkF0ZWN1cnNGdUN0NEtzSVRJekN1VERHc3ZMUXdmMVlHQzFWYzAwY3FlVm5mZG5iVVR4Zy1yX0NSSWx3?oc=5" target="_blank">Cinq ans après s'être lancés, que deviennent les micro-entrepreneurs ?</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -578,21 +602,5 @@
 `Mon, 22 Jun 2026 16:20:38 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMiywFBVV95cUxQVGxvQmpSOTFpT1ZYVVkxdVpGQmZKNVNsQnhaRDZxNjVicWVHVGFEWllIZU1RM2xYZ2V0UXo1N2JKTVR0WUlHbTVwZS1FclJ4VVA3dE5FNi1DMmdBcE10MFhXWGx0WF9DdUltT1FyTTlYTzVwakZOa0J0a2Q4ZEVQcVlTRktWcmZEcWlXLXBOS1dUMU1uSFlwTlg2SzhyWE9xTzZMMDNxaXcwWm5wc0VOSERvZkRSY2xMNkVwSW5mZWY1R2dJamFwQmczQQ?oc=5" target="_blank">A l'approche du budget 2027, le Medef sonne l'alarme sur la France « qui décroche »</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Comment le Medef veut financer une grande baisse des charges sur les salaires - Les Echos](https://news.google.com/rss/articles/CBMizAFBVV95cUxOc01LWFNMRjFjOXQ1UFdZVURHOUVBVFo4NzVwWC15UnFDVUd6bEZYcGJfNW9WTU5rNjgxblpfZmhDMlE3NUx2aHVyNEZmOTNZVkx2dS1uRURPTVl6N2pqR3Fqdlg0N1BnRU1EVHFwajAxVW5pX29Ib1RwTlMxSTY0OUdWS1BhRkQ2M2N3LVgtR2JUQ29wSFUxSnl6dVdRSERFdFFfQUh6Q0hrT3RoRGNYRkJpYUtncU80MU5aOHBxNlRPNFEzNjJWUXJhU0s?oc=5)
-
-`Mon, 22 Jun 2026 04:05:08 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMizAFBVV95cUxOc01LWFNMRjFjOXQ1UFdZVURHOUVBVFo4NzVwWC15UnFDVUd6bEZYcGJfNW9WTU5rNjgxblpfZmhDMlE3NUx2aHVyNEZmOTNZVkx2dS1uRURPTVl6N2pqR3Fqdlg0N1BnRU1EVHFwajAxVW5pX29Ib1RwTlMxSTY0OUdWS1BhRkQ2M2N3LVgtR2JUQ29wSFUxSnl6dVdRSERFdFFfQUh6Q0hrT3RoRGNYRkJpYUtncU80MU5aOHBxNlRPNFEzNjJWUXJhU0s?oc=5" target="_blank">Comment le Medef veut financer une grande baisse des charges sur les salaires</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [La CFDT affûte ses armes en amont de l'élection présidentielle - Les Echos](https://news.google.com/rss/articles/CBMitwFBVV95cUxOUlg3VWFKQWdBMTMxbTMzZ1ZwcGFUTWZQejZDLTBYXzBJY3d1ME90TWlNM2ViMkRMTjlEcUxvRzluTUV1angwMkdyTGhwUGthZ0lDMy1YQWs4aV9qYXMzRE5OZUZMQm9vRG9MSG9jMG9UM1RLRFhfZllBMmpZaGZXM0EyV2tBNmREZGYzbDE1RWpTYzFReEo2SVZ2Yndzam9wWDFiR0JhNmZnbl83dDAxNUFoQTFTUjg?oc=5)
-
-`Mon, 22 Jun 2026 04:50:09 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxOUlg3VWFKQWdBMTMxbTMzZ1ZwcGFUTWZQejZDLTBYXzBJY3d1ME90TWlNM2ViMkRMTjlEcUxvRzluTUV1angwMkdyTGhwUGthZ0lDMy1YQWs4aV9qYXMzRE5OZUZMQm9vRG9MSG9jMG9UM1RLRFhfZllBMmpZaGZXM0EyV2tBNmREZGYzbDE1RWpTYzFReEo2SVZ2Yndzam9wWDFiR0JhNmZnbl83dDAxNUFoQTFTUjg?oc=5" target="_blank">La CFDT affûte ses armes en amont de l'élection présidentielle</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
