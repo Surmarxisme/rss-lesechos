@@ -1,7 +1,23 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Wed, 22 Jul 2026 13:24:18 +0000`
-> 75 articles (30 derniers jours)
+> Derniere mise a jour : `Thu, 23 Jul 2026 08:04:16 +0000`
+> 74 articles (30 derniers jours)
+
+---
+
+### [Lecornu met en garde les politiques contre une absence « irresponsable » de budget pour 2027 - Les Echos](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNMVh2aDJKcTNtVEs5U1JNNGVsNnEyZm4zakFERzRVWFJBdC0yOGxkeHhPM3p1WVlCTUJkT25nXzFJUjhGOVR4LWJvVmtDQ2hIYXE3MTRWUkwyZFBzRFk3NnpJMldzVkRJYjZ4THRtVmJVU2tkaG8xTElOczFhai1kTjVWNUYyanM4ckZXbUJGUFpvamF1RDFlMmZ3S2NVSXBpT2cteGdQSENLYW5raElfOFJIVzMxZjhEV3MxcjVYLUtMeWhybEF0ZEI5Y1V6TGxLdUdyVG1kWUNJV09IcUIycXRRTXFLajVY?oc=5)
+
+`Wed, 22 Jul 2026 15:38:06 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi6AFBVV95cUxNMVh2aDJKcTNtVEs5U1JNNGVsNnEyZm4zakFERzRVWFJBdC0yOGxkeHhPM3p1WVlCTUJkT25nXzFJUjhGOVR4LWJvVmtDQ2hIYXE3MTRWUkwyZFBzRFk3NnpJMldzVkRJYjZ4THRtVmJVU2tkaG8xTElOczFhai1kTjVWNUYyanM4ckZXbUJGUFpvamF1RDFlMmZ3S2NVSXBpT2cteGdQSENLYW5raElfOFJIVzMxZjhEV3MxcjVYLUtMeWhybEF0ZEI5Y1V6TGxLdUdyVG1kWUNJV09IcUIycXRRTXFLajVY?oc=5" target="_blank">Lecornu met en garde les politiques contre une absence « irresponsable » de budget pour 2027</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [EXCLUSIF - Déremboursements, franchises : le plan du gouvernement pour faire des économies sur les médicaments - Les Echos](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPdk1YcEZwUkNQdmlnZGhfVWFkMUF3TDU3NDNqYkU5LVBBQWRNOFY5clR0S2pwUUd6OEJ1cl9lVGRvVm1FNVRveThzM2F6R09mS0ZTZk9yQW03Unp4bDF3NWgtcXhIOXgzMFNVelppdmcybnVCX3F3NWlRQVlxMTdqcThkYWFHWk53RWxLOUJKVmJvSGpYc0lNcHdqWE9TXzY5R3JsNDZTQ1BNYlR1dVYzN2RXTElid09JZVJWdldlSVN5cXJoR2tHMDF6SmFkVnc1U3JWZmtkWDZVWHB4dGhELUtpTERRTHZMTkJUM1BHWEZBUQ?oc=5)
+
+`Thu, 23 Jul 2026 04:00:09 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi8gFBVV95cUxPdk1YcEZwUkNQdmlnZGhfVWFkMUF3TDU3NDNqYkU5LVBBQWRNOFY5clR0S2pwUUd6OEJ1cl9lVGRvVm1FNVRveThzM2F6R09mS0ZTZk9yQW03Unp4bDF3NWgtcXhIOXgzMFNVelppdmcybnVCX3F3NWlRQVlxMTdqcThkYWFHWk53RWxLOUJKVmJvSGpYc0lNcHdqWE9TXzY5R3JsNDZTQ1BNYlR1dVYzN2RXTElid09JZVJWdldlSVN5cXJoR2tHMDF6SmFkVnc1U3JWZmtkWDZVWHB4dGhELUtpTERRTHZMTkJUM1BHWEZBUQ?oc=5" target="_blank">EXCLUSIF - Déremboursements, franchises : le plan du gouvernement pour faire des économies sur les médicaments</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -578,29 +594,5 @@
 `Tue, 23 Jun 2026 09:25:58 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi3gFBVV95cUxOSmNtUnBsbDgzT04yMEJtV1RxS2lyTlNRbnNKRENBS3RHV2VSNHZBX0ZYRXg2QUtSbTRWYzd0MVctamFFdGlhalFyRlM0UFNoeGFvQTB0emQ2QWZ5WXpjVEtwbVlpbFBrLWRqMDFnNlZmZFFjTDl5U0N3RGFUQzRVRDZUenNxRF80UXRXQWFKTEhtRVFLNWFrdGhTSXdEVm13andYY1RQUS1SZ2k2cFdvLW83ajc2R09nQUduUmo0a2dLUmZ4b2Y1NU1oeUNnSkozME1GenpnWWRCamp3M0E?oc=5" target="_blank">En France, l'Insee pointe une dégradation continue et préoccupante du marché de l'emploi</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [EXCLUSIF - Déficit : les gouvernements qui l'ont creusé et les rares qui l'ont réduit - Les Echos](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYXJTT1Q4VUdaMlduUEZtdklHVWR6azkzYTBGN0tUSG02RzJiamstaEl5SmFXYXJBMlRoMWtxdFRUdXVZY0tRNWF1NDhmampBdEQ1UFUxVm9IOVR2OWFzbkU4WDVJd2xNOEx5NjhMTWZwRWNVT2lCbVFWVFFrbnhTT0Zfdks1dkQwamVmOWgtTHVWQ0tPTWFVWjNqZGZRemNGUlFMRW5HS0VHZFZ0cmVBUHZySzhIbHRYSHRacnlneDR0alZ1SUhOajN3bnZUYVZPeFlibndYZldCMUJZ?oc=5)
-
-`Tue, 23 Jun 2026 04:30:29 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYXJTT1Q4VUdaMlduUEZtdklHVWR6azkzYTBGN0tUSG02RzJiamstaEl5SmFXYXJBMlRoMWtxdFRUdXVZY0tRNWF1NDhmampBdEQ1UFUxVm9IOVR2OWFzbkU4WDVJd2xNOEx5NjhMTWZwRWNVT2lCbVFWVFFrbnhTT0Zfdks1dkQwamVmOWgtTHVWQ0tPTWFVWjNqZGZRemNGUlFMRW5HS0VHZFZ0cmVBUHZySzhIbHRYSHRacnlneDR0alZ1SUhOajN3bnZUYVZPeFlibndYZldCMUJZ?oc=5" target="_blank">EXCLUSIF - Déficit : les gouvernements qui l'ont creusé et les rares qui l'ont réduit</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [La CFDT revendique sa « combativité » et fustige l'extrême droite - Les Echos](https://news.google.com/rss/articles/CBMitgFBVV95cUxPMDhlb0hTcVZycmxfOFBienIxNjgzZm9KdW9qTUhidVZLS0U5TF80ZlozQ09Gek9zMGt6c2x4V0RfQmxQREpjemE3VjgyZGxUamMtR3ZIWFJMalRlbklybGFiY0dnSW93amtTM0xhQ2REVmpYdVBwRVBBOU15X2pWYVlVemlYeXlOZXZKM0l3cnhXM0ZUOU5ZLUFTMVZBTE9vV1loc1pNV3pXa0NLNW1ZcTdEcmMtUQ?oc=5)
-
-`Mon, 22 Jun 2026 17:10:23 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxPMDhlb0hTcVZycmxfOFBienIxNjgzZm9KdW9qTUhidVZLS0U5TF80ZlozQ09Gek9zMGt6c2x4V0RfQmxQREpjemE3VjgyZGxUamMtR3ZIWFJMalRlbklybGFiY0dnSW93amtTM0xhQ2REVmpYdVBwRVBBOU15X2pWYVlVemlYeXlOZXZKM0l3cnhXM0ZUOU5ZLUFTMVZBTE9vV1loc1pNV3pXa0NLNW1ZcTdEcmMtUQ?oc=5" target="_blank">La CFDT revendique sa « combativité » et fustige l'extrême droite</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [A l'approche du budget 2027, le Medef sonne l'alarme sur la France « qui décroche » - Les Echos](https://news.google.com/rss/articles/CBMiywFBVV95cUxQVGxvQmpSOTFpT1ZYVVkxdVpGQmZKNVNsQnhaRDZxNjVicWVHVGFEWllIZU1RM2xYZ2V0UXo1N2JKTVR0WUlHbTVwZS1FclJ4VVA3dE5FNi1DMmdBcE10MFhXWGx0WF9DdUltT1FyTTlYTzVwakZOa0J0a2Q4ZEVQcVlTRktWcmZEcWlXLXBOS1dUMU1uSFlwTlg2SzhyWE9xTzZMMDNxaXcwWm5wc0VOSERvZkRSY2xMNkVwSW5mZWY1R2dJamFwQmczQQ?oc=5)
-
-`Mon, 22 Jun 2026 16:20:38 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiywFBVV95cUxQVGxvQmpSOTFpT1ZYVVkxdVpGQmZKNVNsQnhaRDZxNjVicWVHVGFEWllIZU1RM2xYZ2V0UXo1N2JKTVR0WUlHbTVwZS1FclJ4VVA3dE5FNi1DMmdBcE10MFhXWGx0WF9DdUltT1FyTTlYTzVwakZOa0J0a2Q4ZEVQcVlTRktWcmZEcWlXLXBOS1dUMU1uSFlwTlg2SzhyWE9xTzZMMDNxaXcwWm5wc0VOSERvZkRSY2xMNkVwSW5mZWY1R2dJamFwQmczQQ?oc=5" target="_blank">A l'approche du budget 2027, le Medef sonne l'alarme sur la France « qui décroche »</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
