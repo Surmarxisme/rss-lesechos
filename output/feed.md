@@ -1,7 +1,7 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Thu, 23 Jul 2026 14:26:45 +0000`
-> 74 articles (30 derniers jours)
+> Derniere mise a jour : `Thu, 23 Jul 2026 18:05:34 +0000`
+> 72 articles (30 derniers jours)
 
 ---
 
@@ -578,21 +578,5 @@
 `Wed, 24 Jun 2026 15:48:38 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi5wFBVV95cUxNaUZOYy1hQWkyWEJrSTFkTWN3N0hYRmVhcnJzbGhxUlowUFU3VlJMZlIyWV9vWWtaVllWQVJDcWJINDRZVkhPOHVzc2ltYWpVQ3ZxTkhObUtRUGdCUnZ3V2I4clAtaEphZFMxNThDSUlMaHJIbGNqVjRvQ290T21oeHBlRGZWbi1ZS0dqSmltR0xUaHZHajJ0bGdDZGJVZFp1aGpFdW51MEpON19FclcwZHMyRjlxVDlaMG5lbjctSmF2S0w1YVNiMl9sSnJzOVhIWUgyV2NlR1NzVmRWUTg2c2FSWjFaWXM?oc=5" target="_blank">Impôts : l'étude qui veut couper court au débat sur la taxe Zucman avant la présidentielle</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Budget des Armées : le Parlement valide une hausse de 36 milliards d'euros d'ici à 2030 - Les Echos](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOWGM0T3RXeC14NndFWUdlam1SbkwxMDJUZjFYUWE0SEstRExuSXFzSEhtb1M4TGxidDdNenJFMlpuc2N0U1ZNQ1ZmaEZNNXRJMVNZUDRHeC1BSnlwUENKRFBDNFZGTW1oRDRFSTNZWUpnbjNRRUpFN1VBWlJuVGJsSnJxYjBYbjZNT1lxV2tub3lKeW9VanV4TWpUZUNvbm1LdzNkOGFncnY0dVVxb0JQX3N5cDZOWnVUakJ6aGxqUTIzR2I2aGlTUy1GOVFKUmduSWlBcWVCZW5WRXRwRXhINmZB?oc=5)
-
-`Tue, 23 Jun 2026 17:39:42 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi4gFBVV95cUxOWGM0T3RXeC14NndFWUdlam1SbkwxMDJUZjFYUWE0SEstRExuSXFzSEhtb1M4TGxidDdNenJFMlpuc2N0U1ZNQ1ZmaEZNNXRJMVNZUDRHeC1BSnlwUENKRFBDNFZGTW1oRDRFSTNZWUpnbjNRRUpFN1VBWlJuVGJsSnJxYjBYbjZNT1lxV2tub3lKeW9VanV4TWpUZUNvbm1LdzNkOGFncnY0dVVxb0JQX3N5cDZOWnVUakJ6aGxqUTIzR2I2aGlTUy1GOVFKUmduSWlBcWVCZW5WRXRwRXhINmZB?oc=5" target="_blank">Budget des Armées : le Parlement valide une hausse de 36 milliards d'euros d'ici à 2030</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Les entreprises face à des retards de paiement au plus haut depuis douze ans - Les Echos](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPelVNSkZLaGxrRHJySU9waENHTG5Qekd6cFJUWW1rbkNOcVdzMlpFZmc0WGlZd1NPT0d0RVUtbHZKMjJnTmhvQlhkRmZSbjhWazJmQ1JlWXAyRjZyTHk1OWRmbVpRem03VW9lN1FPd296cWhmUDJSQWF6WTg0UzNYeVNkdC1JWmsxT3JPMkJrbF9tWURzRmIxUzN6ZXhPRk9pOU9INi1GRTB6bTAzUzdzUFlkRTFBbWdBZ05WalI2cjZCUUVVM3NweEJIcjNWVDR4RlE?oc=5)
-
-`Tue, 23 Jun 2026 16:16:19 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi0gFBVV95cUxPelVNSkZLaGxrRHJySU9waENHTG5Qekd6cFJUWW1rbkNOcVdzMlpFZmc0WGlZd1NPT0d0RVUtbHZKMjJnTmhvQlhkRmZSbjhWazJmQ1JlWXAyRjZyTHk1OWRmbVpRem03VW9lN1FPd296cWhmUDJSQWF6WTg0UzNYeVNkdC1JWmsxT3JPMkJrbF9tWURzRmIxUzN6ZXhPRk9pOU9INi1GRTB6bTAzUzdzUFlkRTFBbWdBZ05WalI2cjZCUUVVM3NweEJIcjNWVDR4RlE?oc=5" target="_blank">Les entreprises face à des retards de paiement au plus haut depuis douze ans</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
