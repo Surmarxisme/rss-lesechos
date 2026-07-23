@@ -1,4 +1,4 @@
-import json, os, sys, requests, feedparser
+import json, os, sys, time, requests, feedparser
 from datetime import datetime, timezone, timedelta
 from email.utils import parsedate_to_datetime
 from xml.etree.ElementTree import Element, SubElement, tostring
@@ -35,16 +35,19 @@ def save_seen_ids(seen_ids):
         json.dump({"ids": list(seen_ids), "updated": datetime.now(timezone.utc).isoformat()}, f, ensure_ascii=False, indent=2)
 
 def fetch_feed():
-    try:
-        r = requests.get(RSS_URL, headers=HEADERS, timeout=30)
-        r.raise_for_status()
-        return r.content
-    except requests.HTTPError as e:
-        print(f"Erreur HTTP : {e}", file=sys.stderr)
-        sys.exit(1)
-    except requests.RequestException as e:
-        print(f"Erreur reseau : {e}", file=sys.stderr)
-        sys.exit(1)
+    last_err = None
+    for attempt in range(1, 4):
+        try:
+            r = requests.get(RSS_URL, headers=HEADERS, timeout=30)
+            r.raise_for_status()
+            return r.content
+        except requests.RequestException as e:
+            last_err = e
+            print(f"Tentative {attempt}/3 echouee : {e}", file=sys.stderr)
+            if attempt < 3:
+                time.sleep(5 * attempt)
+    print(f"Fetch impossible apres 3 tentatives ({last_err}) - run ignore, feed conserve.", file=sys.stderr)
+    return None
 
 def parse_pub_date(entry):
     pub = entry.get("published", "")
@@ -142,6 +145,9 @@ def main():
     print(f"IDs deja vus : {len(seen_ids)}")
 
     content = fetch_feed()
+    if content is None:
+        print("Pas de fetch ce run : feed existant conserve, sortie propre.")
+        return
     feed = feedparser.parse(content)
     total_raw = len(feed.entries)
 
