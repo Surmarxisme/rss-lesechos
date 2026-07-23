@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Thu, 23 Jul 2026 08:04:16 +0000`
+> Derniere mise a jour : `Thu, 23 Jul 2026 11:15:16 +0000`
 > 74 articles (30 derniers jours)
+
+---
+
+### [Climat des affaires : un rebond fragile face aux tensions au Moyen-Orient - Les Echos](https://news.google.com/rss/articles/CBMiywFBVV95cUxNalNtd2lyYnl6VURsU3RiY2FmNTBaWkozRU1OUHB5emhFZW9KUWtYQUU2WE1hLWlCMkV3T29sbFJBYmNxd0psMVpQS1pUeWJOY3cxek4wSkpMeVg1c21EM19nYVk0QWRiVkJwN0E5RHhnSHdmeHoxQ244THc5VGdYTDFXMlYxWUQxWXotV0tBS1MyVkVZakJITmZPYXgzVEgyWGU4ZzgwYVBfaDNTYk1qUVg0RENPTEFWal83T1ZEbFQzRWhaeVE0YW84Yw?oc=5)
+
+`Thu, 23 Jul 2026 10:26:47 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiywFBVV95cUxNalNtd2lyYnl6VURsU3RiY2FmNTBaWkozRU1OUHB5emhFZW9KUWtYQUU2WE1hLWlCMkV3T29sbFJBYmNxd0psMVpQS1pUeWJOY3cxek4wSkpMeVg1c21EM19nYVk0QWRiVkJwN0E5RHhnSHdmeHoxQ244THc5VGdYTDFXMlYxWUQxWXotV0tBS1MyVkVZakJITmZPYXgzVEgyWGU4ZzgwYVBfaDNTYk1qUVg0RENPTEFWal83T1ZEbFQzRWhaeVE0YW84Yw?oc=5" target="_blank">Climat des affaires : un rebond fragile face aux tensions au Moyen-Orient</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -586,13 +594,5 @@
 `Tue, 23 Jun 2026 16:16:19 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi0gFBVV95cUxPelVNSkZLaGxrRHJySU9waENHTG5Qekd6cFJUWW1rbkNOcVdzMlpFZmc0WGlZd1NPT0d0RVUtbHZKMjJnTmhvQlhkRmZSbjhWazJmQ1JlWXAyRjZyTHk1OWRmbVpRem03VW9lN1FPd296cWhmUDJSQWF6WTg0UzNYeVNkdC1JWmsxT3JPMkJrbF9tWURzRmIxUzN6ZXhPRk9pOU9INi1GRTB6bTAzUzdzUFlkRTFBbWdBZ05WalI2cjZCUUVVM3NweEJIcjNWVDR4RlE?oc=5" target="_blank">Les entreprises face à des retards de paiement au plus haut depuis douze ans</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [En France, l'Insee pointe une dégradation continue et préoccupante du marché de l'emploi - Les Echos](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOSmNtUnBsbDgzT04yMEJtV1RxS2lyTlNRbnNKRENBS3RHV2VSNHZBX0ZYRXg2QUtSbTRWYzd0MVctamFFdGlhalFyRlM0UFNoeGFvQTB0emQ2QWZ5WXpjVEtwbVlpbFBrLWRqMDFnNlZmZFFjTDl5U0N3RGFUQzRVRDZUenNxRF80UXRXQWFKTEhtRVFLNWFrdGhTSXdEVm13andYY1RQUS1SZ2k2cFdvLW83ajc2R09nQUduUmo0a2dLUmZ4b2Y1NU1oeUNnSkozME1GenpnWWRCamp3M0E?oc=5)
-
-`Tue, 23 Jun 2026 09:25:58 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi3gFBVV95cUxOSmNtUnBsbDgzT04yMEJtV1RxS2lyTlNRbnNKRENBS3RHV2VSNHZBX0ZYRXg2QUtSbTRWYzd0MVctamFFdGlhalFyRlM0UFNoeGFvQTB0emQ2QWZ5WXpjVEtwbVlpbFBrLWRqMDFnNlZmZFFjTDl5U0N3RGFUQzRVRDZUenNxRF80UXRXQWFKTEhtRVFLNWFrdGhTSXdEVm13andYY1RQUS1SZ2k2cFdvLW83ajc2R09nQUduUmo0a2dLUmZ4b2Y1NU1oeUNnSkozME1GenpnWWRCamp3M0E?oc=5" target="_blank">En France, l'Insee pointe une dégradation continue et préoccupante du marché de l'emploi</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
