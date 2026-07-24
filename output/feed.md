@@ -1,7 +1,7 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Fri, 24 Jul 2026 13:20:19 +0000`
-> 73 articles (30 derniers jours)
+> Derniere mise a jour : `Fri, 24 Jul 2026 18:09:07 +0000`
+> 72 articles (30 derniers jours)
 
 ---
 
@@ -578,13 +578,5 @@
 `Thu, 25 Jun 2026 06:02:56 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMWg1MVQ3XzhhRTFBdTVleV9CdzU4ZXpTMmtIRHFjNEpuYmN5dGE1c1JxdEY3dDQ5UnR6ZEN4b3VaYW4tNF9SUXl2Qy1RYkY5U2l6NG9qelBwVy13N0ZrOEhJZjZGb2dfa1RVdU9MSmdnSVphMTYtc2JzNC1SQ3NYZVotNkQzckIzR2tReUlHWGFGYzlNZVZQZU5BQlY4LVpSeVZfcG83LXVheTZvTUZXdWJQVndSeXRyblFR?oc=5" target="_blank">La CPME veut élargir sa base en se rebaptisant « Les entrepreneurs »</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Impôts : l'étude qui veut couper court au débat sur la taxe Zucman avant la présidentielle - Les Echos](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNaUZOYy1hQWkyWEJrSTFkTWN3N0hYRmVhcnJzbGhxUlowUFU3VlJMZlIyWV9vWWtaVllWQVJDcWJINDRZVkhPOHVzc2ltYWpVQ3ZxTkhObUtRUGdCUnZ3V2I4clAtaEphZFMxNThDSUlMaHJIbGNqVjRvQ290T21oeHBlRGZWbi1ZS0dqSmltR0xUaHZHajJ0bGdDZGJVZFp1aGpFdW51MEpON19FclcwZHMyRjlxVDlaMG5lbjctSmF2S0w1YVNiMl9sSnJzOVhIWUgyV2NlR1NzVmRWUTg2c2FSWjFaWXM?oc=5)
-
-`Wed, 24 Jun 2026 15:48:38 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi5wFBVV95cUxNaUZOYy1hQWkyWEJrSTFkTWN3N0hYRmVhcnJzbGhxUlowUFU3VlJMZlIyWV9vWWtaVllWQVJDcWJINDRZVkhPOHVzc2ltYWpVQ3ZxTkhObUtRUGdCUnZ3V2I4clAtaEphZFMxNThDSUlMaHJIbGNqVjRvQ290T21oeHBlRGZWbi1ZS0dqSmltR0xUaHZHajJ0bGdDZGJVZFp1aGpFdW51MEpON19FclcwZHMyRjlxVDlaMG5lbjctSmF2S0w1YVNiMl9sSnJzOVhIWUgyV2NlR1NzVmRWUTg2c2FSWjFaWXM?oc=5" target="_blank">Impôts : l'étude qui veut couper court au débat sur la taxe Zucman avant la présidentielle</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
