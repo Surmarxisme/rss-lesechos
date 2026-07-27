@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Sun, 26 Jul 2026 10:45:59 +0000`
-> 66 articles (30 derniers jours)
+> Derniere mise a jour : `Mon, 27 Jul 2026 08:59:59 +0000`
+> 67 articles (30 derniers jours)
+
+---
+
+### [Finances Publiques : actualités, analyses et vidéos - Les Echos | Page 1022 - Les Echos](https://news.google.com/rss/articles/CBMijgFBVV95cUxNX3BvUHRBSlgxNkJCc3NiUEZpaTFGMTdXRFNOdGwyaEMwc1B1TUhJSE1ZX2lIOVNHTXJmREVyMjVnV2Q3b2xHRFFOLU14NUNiS3VtT2Y1WTRkak5qQVYyMUtmNjl2MkVWd1lrU0hmRVlYVjgxSDRoWHUwc2dGdG1PWTl5TkQ5X3NWemFzWEV3?oc=5)
+
+`Fri, 24 Jul 2026 08:31:55 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMijgFBVV95cUxNX3BvUHRBSlgxNkJCc3NiUEZpaTFGMTdXRFNOdGwyaEMwc1B1TUhJSE1ZX2lIOVNHTXJmREVyMjVnV2Q3b2xHRFFOLU14NUNiS3VtT2Y1WTRkak5qQVYyMUtmNjl2MkVWd1lrU0hmRVlYVjgxSDRoWHUwc2dGdG1PWTl5TkQ5X3NWemFzWEV3?oc=5" target="_blank">Finances Publiques : actualités, analyses et vidéos - Les Echos | Page 1022</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
