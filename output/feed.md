@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Mon, 27 Jul 2026 14:13:14 +0000`
-> 67 articles (30 derniers jours)
+> Derniere mise a jour : `Mon, 27 Jul 2026 18:17:04 +0000`
+> 68 articles (30 derniers jours)
+
+---
+
+### [Incendies, inondations… : l'activité partielle reste sous-utilisée en cas de catastrophes naturelles - Les Echos](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQTGlUaGZpdWRYOFVHMFozUkdJN0hXWXFlUktxNlctQzNOYmtwajNqVjdwaDV3NldMOGZORTg2RGdzUWNNNnF2U0xZN1p3SDB0aFM3UXBXalF4NnJUcGdUeTRNVGhEYkR5bXoxSllBZlZNR0d0bEV0UjJTVnRZWDFkYnZlT0dTYVNzanJXVHdoMEhTek03M0NtVkMzUmlJSHA3ZlZFMENfTUVKcmF5MUxUdUIwSVNUQUl3bUhic0xTdFQ1dE1UWlgyeTdwbWE5Z1p2S3ZEV1hJRVlYODJ0RmNwdmFlX3I?oc=5)
+
+`Mon, 27 Jul 2026 14:44:09 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi5AFBVV95cUxQTGlUaGZpdWRYOFVHMFozUkdJN0hXWXFlUktxNlctQzNOYmtwajNqVjdwaDV3NldMOGZORTg2RGdzUWNNNnF2U0xZN1p3SDB0aFM3UXBXalF4NnJUcGdUeTRNVGhEYkR5bXoxSllBZlZNR0d0bEV0UjJTVnRZWDFkYnZlT0dTYVNzanJXVHdoMEhTek03M0NtVkMzUmlJSHA3ZlZFMENfTUVKcmF5MUxUdUIwSVNUQUl3bUhic0xTdFQ1dE1UWlgyeTdwbWE5Z1p2S3ZEV1hJRVlYODJ0RmNwdmFlX3I?oc=5" target="_blank">Incendies, inondations… : l'activité partielle reste sous-utilisée en cas de catastrophes naturelles</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
