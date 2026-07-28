@@ -1,7 +1,23 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Tue, 28 Jul 2026 13:44:22 +0000`
-> 71 articles (30 derniers jours)
+> Derniere mise a jour : `Tue, 28 Jul 2026 18:05:43 +0000`
+> 72 articles (30 derniers jours)
+
+---
+
+### [Incendies et activité partielle : mode d'emploi - Les Echos](https://news.google.com/rss/articles/CBMioAFBVV95cUxNWlctY1JhaVdwSF9JN2VNNFhZd0FlLWNEMGo3Y21PaHk1QVJsS29CWUlqbi14RUdqRnV6LTRLbG85VFVpY3ViUm5rcVZfTHFRYWl6ZzZBYlRpRFJfcFdsT3U3dEVUazNabXNobWNMRlpZWlVHcmxTblBOQkhqZDZHUXJSQ1N0RDFqUk45THcxb2I5eGprSWlrdUlkTDJyRVhW?oc=5)
+
+`Tue, 28 Jul 2026 14:25:59 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMioAFBVV95cUxNWlctY1JhaVdwSF9JN2VNNFhZd0FlLWNEMGo3Y21PaHk1QVJsS29CWUlqbi14RUdqRnV6LTRLbG85VFVpY3ViUm5rcVZfTHFRYWl6ZzZBYlRpRFJfcFdsT3U3dEVUazNabXNobWNMRlpZWlVHcmxTblBOQkhqZDZHUXJSQ1N0RDFqUk45THcxb2I5eGprSWlrdUlkTDJyRVhW?oc=5" target="_blank">Incendies et activité partielle : mode d'emploi</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Accidents du travail : des salariés arrêtés de plus en plus longtemps - Les Echos](https://news.google.com/rss/articles/CBMivwFBVV95cUxNb0lIZ01GdW4wcHRQMWdqMG85RDF6aXQtNjhHNm4wUTRkMXduWVNmQV9NeHMzMXl6NnhNZE1GRkw1MFAyYXhia2NmMmJyd3o3dWJwNDJSU3Jta2ljWUF3YVlhdUFnZnVNSVlUSGNrd2hBMzcxbGkxRWhFZ0szOXhnT2hMOTRLSUlQdDVuQ0xRV2NsRWx0V0liVlRZUjN2cW1qR0VkdFV1emJlNmZUd215OXZmMW54Ym5CYUE5cGVzYw?oc=5)
+
+`Tue, 28 Jul 2026 14:00:09 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxNb0lIZ01GdW4wcHRQMWdqMG85RDF6aXQtNjhHNm4wUTRkMXduWVNmQV9NeHMzMXl6NnhNZE1GRkw1MFAyYXhia2NmMmJyd3o3dWJwNDJSU3Jta2ljWUF3YVlhdUFnZnVNSVlUSGNrd2hBMzcxbGkxRWhFZ0szOXhnT2hMOTRLSUlQdDVuQ0xRV2NsRWx0V0liVlRZUjN2cW1qR0VkdFV1emJlNmZUd215OXZmMW54Ym5CYUE5cGVzYw?oc=5" target="_blank">Accidents du travail : des salariés arrêtés de plus en plus longtemps</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -562,13 +578,5 @@
 `Mon, 29 Jun 2026 15:48:17 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi5wFBVV95cUxQallISDVNc3N0LTdHTkhqeHdORFo3c2NXb1Zkb1ppVHBSanE5b1lzMWt1RnBUZ2l5NUtRTEl1c2JXM1NtOTJHdU50aGFydlJONWdscHZwWlJTUmJKMGZ3b3MwV01FR0tvQzlBbGZIQlQ3UXBfTUtPc3E0T1ZVMVFZUG14VUxMYzd2ZFdFZDdudUN4cy1qbW5iUFZORjl5TVdVZ0hWRndWalhuSUl1SlU4MXRCWTRBajJjLTAwcnJZNTZEdlRhbWZHZDJHLXR3WTNVVnFHU0VvQUQ3RUs5aFZJTEEwdG9melU?oc=5" target="_blank">Accidents du travail : le gouvernement réclame près d'un milliard d'économies aux partenaires sociaux</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [« Il existe une inertie » : la canicule s'achève mais la pression reste maximale dans les hôpitaux - Les Echos](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSmlDa1lJMUNOdjdYUHlfQUQ3S0haZDl1RjF5OHVhcEItQnpiVTZhUGhYcmdQVzZTTHJHVmpQVkZPeFRnZE1lR2FzNS1VNEt6Um1iSDl2U0NWUDZod3VndTJxNlRBWU5XSEN1TGRCeDh2LWpLZFpIWERZem9teWJtWUFka1lzYU9SdDFMWkRTSHc2Y2NLQTdSOTVUOFNfcVJQdG83c293OE1mZ2kyUHJrLVBSY2xQOXd0ZmxkWXJmRTE2SE9WQmdzYWtkYjNGdzVoWXdWakUwUzM0QUdILUxv?oc=5)
-
-`Sun, 28 Jun 2026 13:56:11 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSmlDa1lJMUNOdjdYUHlfQUQ3S0haZDl1RjF5OHVhcEItQnpiVTZhUGhYcmdQVzZTTHJHVmpQVkZPeFRnZE1lR2FzNS1VNEt6Um1iSDl2U0NWUDZod3VndTJxNlRBWU5XSEN1TGRCeDh2LWpLZFpIWERZem9teWJtWUFka1lzYU9SdDFMWkRTSHc2Y2NLQTdSOTVUOFNfcVJQdG83c293OE1mZ2kyUHJrLVBSY2xQOXd0ZmxkWXJmRTE2SE9WQmdzYWtkYjNGdzVoWXdWakUwUzM0QUdILUxv?oc=5" target="_blank">« Il existe une inertie » : la canicule s'achève mais la pression reste maximale dans les hôpitaux</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
