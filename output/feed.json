@@ -2,10 +2,37 @@
   "source": "Les Echos - Economie France",
   "source_url": "https://www.lesechos.fr/economie-france",
   "language": "fr-FR",
-  "last_fetched": "Tue, 28 Jul 2026 08:07:58 +0000",
-  "total_items": 68,
-  "new_items_this_run": 0,
+  "last_fetched": "Tue, 28 Jul 2026 11:23:22 +0000",
+  "total_items": 71,
+  "new_items_this_run": 3,
   "articles": [
+    {
+      "id": "CBMizwFBVV95cUxQenE4eGFTZExmd0hDbmEtMHNXOGRpOVNHNFc5V184ZVFZbm9kRkFzbW5PXzYxYlB5UkQ3R0RNU1g2SjAxOU9JM2NFWDFBZXVjRlNPTEhFZGpFWGlQZl9qS1BnUXVEc3hoSV9PbnNscHpjZmFzOEl4c3M4YTFxVFJfUkU2VjkyRXZiZ25kOW1xRlRmZFhGTkVmNm5aR05sMnV3ZUNaYUw5end3UEY3dkFLNWRNZUVmSnRJWUQyRU9QdFVWa2NlYzdQdVEtWHVaMlk",
+      "title": "Un peu plus optimistes, les Français veulent néanmoins continuer à épargner - Les Echos",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQenE4eGFTZExmd0hDbmEtMHNXOGRpOVNHNFc5V184ZVFZbm9kRkFzbW5PXzYxYlB5UkQ3R0RNU1g2SjAxOU9JM2NFWDFBZXVjRlNPTEhFZGpFWGlQZl9qS1BnUXVEc3hoSV9PbnNscHpjZmFzOEl4c3M4YTFxVFJfUkU2VjkyRXZiZ25kOW1xRlRmZFhGTkVmNm5aR05sMnV3ZUNaYUw5end3UEY3dkFLNWRNZUVmSnRJWUQyRU9QdFVWa2NlYzdQdVEtWHVaMlk?oc=5\" target=\"_blank\">Un peu plus optimistes, les Français veulent néanmoins continuer à épargner</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Les Echos</font>",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQenE4eGFTZExmd0hDbmEtMHNXOGRpOVNHNFc5V184ZVFZbm9kRkFzbW5PXzYxYlB5UkQ3R0RNU1g2SjAxOU9JM2NFWDFBZXVjRlNPTEhFZGpFWGlQZl9qS1BnUXVEc3hoSV9PbnNscHpjZmFzOEl4c3M4YTFxVFJfUkU2VjkyRXZiZ25kOW1xRlRmZFhGTkVmNm5aR05sMnV3ZUNaYUw5end3UEY3dkFLNWRNZUVmSnRJWUQyRU9QdFVWa2NlYzdQdVEtWHVaMlk?oc=5",
+      "source": "Les Echos",
+      "pub_date": "Tue, 28 Jul 2026 10:25:26 GMT",
+      "pub_date_iso": "2026-07-28T10:25:26+00:00"
+    },
+    {
+      "id": "CBMimgFBVV95cUxPUzRxbk5oVDBXcmtnTGF5SGt2WGhPS2JVOHRNV0xNeWxKbks5TnpQYUltYThReF9rVmlyY0hXZ2FQT195Y3pkM2N4OVpQSjNBMDBmVHg1QUtoUnFMbG9QeTl4cFNrQi05WlpHQW1fbkxidXViWjdOTGVVTXZiZ1VIendlelZrUHg0cXVyVVhiaHhjN05VNDU0YUhB",
+      "title": "Le chômage stable au deuxième trimestre - Les Echos",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPUzRxbk5oVDBXcmtnTGF5SGt2WGhPS2JVOHRNV0xNeWxKbks5TnpQYUltYThReF9rVmlyY0hXZ2FQT195Y3pkM2N4OVpQSjNBMDBmVHg1QUtoUnFMbG9QeTl4cFNrQi05WlpHQW1fbkxidXViWjdOTGVVTXZiZ1VIendlelZrUHg0cXVyVVhiaHhjN05VNDU0YUhB?oc=5\" target=\"_blank\">Le chômage stable au deuxième trimestre</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Les Echos</font>",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUzRxbk5oVDBXcmtnTGF5SGt2WGhPS2JVOHRNV0xNeWxKbks5TnpQYUltYThReF9rVmlyY0hXZ2FQT195Y3pkM2N4OVpQSjNBMDBmVHg1QUtoUnFMbG9QeTl4cFNrQi05WlpHQW1fbkxidXViWjdOTGVVTXZiZ1VIendlelZrUHg0cXVyVVhiaHhjN05VNDU0YUhB?oc=5",
+      "source": "Les Echos",
+      "pub_date": "Tue, 28 Jul 2026 10:05:41 GMT",
+      "pub_date_iso": "2026-07-28T10:05:41+00:00"
+    },
+    {
+      "id": "CBMi3AFBVV95cUxPSzBwZ3B0c2swUnREcmtndEdKdUo1NVI0V0p0dW9SRE1KQU94bVZzRXN4M0U5S29GV1RJNXdkZXdjWHhuNkVKdmREakF1WnZLZ19DMVIzQUlMTEc2SzdkZjhJRDdJeXNkTEVFS3pXN3dGVEJaMlBQdFhFWWxmb09IeERlUkFfXzRoSjBDWHgzMnd4akFSZU1iVTJsT2VYc1JzaHV4TDg1MFNBTWNrQnFwUHJzODdzWDRLNmR5VVdPbFFiRFlvZU4yTFhqWFZQYnJJaU8tZGNUdGQ1bnJT",
+      "title": "EXCLUSIF - Accidents du travail : comment le gouvernement veut économiser 800 millions d'euros - Les Echos",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSzBwZ3B0c2swUnREcmtndEdKdUo1NVI0V0p0dW9SRE1KQU94bVZzRXN4M0U5S29GV1RJNXdkZXdjWHhuNkVKdmREakF1WnZLZ19DMVIzQUlMTEc2SzdkZjhJRDdJeXNkTEVFS3pXN3dGVEJaMlBQdFhFWWxmb09IeERlUkFfXzRoSjBDWHgzMnd4akFSZU1iVTJsT2VYc1JzaHV4TDg1MFNBTWNrQnFwUHJzODdzWDRLNmR5VVdPbFFiRFlvZU4yTFhqWFZQYnJJaU8tZGNUdGQ1bnJT?oc=5\" target=\"_blank\">EXCLUSIF - Accidents du travail : comment le gouvernement veut économiser 800 millions d'euros</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Les Echos</font>",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSzBwZ3B0c2swUnREcmtndEdKdUo1NVI0V0p0dW9SRE1KQU94bVZzRXN4M0U5S29GV1RJNXdkZXdjWHhuNkVKdmREakF1WnZLZ19DMVIzQUlMTEc2SzdkZjhJRDdJeXNkTEVFS3pXN3dGVEJaMlBQdFhFWWxmb09IeERlUkFfXzRoSjBDWHgzMnd4akFSZU1iVTJsT2VYc1JzaHV4TDg1MFNBTWNrQnFwUHJzODdzWDRLNmR5VVdPbFFiRFlvZU4yTFhqWFZQYnJJaU8tZGNUdGQ1bnJT?oc=5",
+      "source": "Les Echos",
+      "pub_date": "Tue, 28 Jul 2026 09:30:59 GMT",
+      "pub_date_iso": "2026-07-28T09:30:59+00:00"
+    },
     {
       "id": "CBMi5AFBVV95cUxQTGlUaGZpdWRYOFVHMFozUkdJN0hXWXFlUktxNlctQzNOYmtwajNqVjdwaDV3NldMOGZORTg2RGdzUWNNNnF2U0xZN1p3SDB0aFM3UXBXalF4NnJUcGdUeTRNVGhEYkR5bXoxSllBZlZNR0d0bEV0UjJTVnRZWDFkYnZlT0dTYVNzanJXVHdoMEhTek03M0NtVkMzUmlJSHA3ZlZFMENfTUVKcmF5MUxUdUIwSVNUQUl3bUhic0xTdFQ1dE1UWlgyeTdwbWE5Z1p2S3ZEV1hJRVlYODJ0RmNwdmFlX3I",
       "title": "Incendies, inondations… : l'activité partielle reste sous-utilisée en cas de catastrophes naturelles - Les Echos",
