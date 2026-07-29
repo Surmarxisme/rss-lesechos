@@ -1,7 +1,23 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Tue, 28 Jul 2026 18:05:43 +0000`
-> 72 articles (30 derniers jours)
+> Derniere mise a jour : `Wed, 29 Jul 2026 08:12:16 +0000`
+> 74 articles (30 derniers jours)
+
+---
+
+### [Incendies : au-delà des critiques et des polémiques, les vrais chiffres des moyens déployés par l'Etat - Les Echos](https://news.google.com/rss/articles/CBMi9gFBVV95cUxNaHo3ZkJqM0hvdjZCUDZfZy1DYVoydHItRUNYTXZiOTNfaTU5aFdLZFhSdzV5Z1dxRENrUUI5UDZTQnZCOXdvVUVQdFNxTEhVdHNxcS1PbVRhNlhId1dEOGlkanJjMXlyTXdjYVJEYkd4YVEzOXdWSi1uVmZaLXdjVjhlWU1PWEpGMjJuOFFfcnZxajRqeFhNOXJEMjF4TU54MTVHajFvS3dvWlMyWlZPLWxTVWpYemU0RG1WdVFhYkt5SVBIUG1kMFJIRWxFWWR1MDN4OTkybVVlRmluOVljMzJmcG5fWU9yajcxYmU3a082eE1GX2c?oc=5)
+
+`Wed, 29 Jul 2026 04:15:10 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi9gFBVV95cUxNaHo3ZkJqM0hvdjZCUDZfZy1DYVoydHItRUNYTXZiOTNfaTU5aFdLZFhSdzV5Z1dxRENrUUI5UDZTQnZCOXdvVUVQdFNxTEhVdHNxcS1PbVRhNlhId1dEOGlkanJjMXlyTXdjYVJEYkd4YVEzOXdWSi1uVmZaLXdjVjhlWU1PWEpGMjJuOFFfcnZxajRqeFhNOXJEMjF4TU54MTVHajFvS3dvWlMyWlZPLWxTVWpYemU0RG1WdVFhYkt5SVBIUG1kMFJIRWxFWWR1MDN4OTkybVVlRmluOVljMzJmcG5fWU9yajcxYmU3a082eE1GX2c?oc=5" target="_blank">Incendies : au-delà des critiques et des polémiques, les vrais chiffres des moyens déployés par l'Etat</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Accidents du travail : quels salariés sont les plus exposés ? - Les Echos](https://news.google.com/rss/articles/CBMisgFBVV95cUxOSHFpTUtxbjMwR0pwejlDNDFWU1AwSHItTnRxZUlRdnR3UGVWX3FHOEpFeFNaN0U5SlBWdEFCLXBQWjZuRXlwY2pxMElOMmFVR0lqVER3X0N0VFQ0S25SQjI0X1czd2JTUDhHc3NtbE5OWG1CQlZSSXI1MzlZd0JJYU55cWhSZDNCQ3RmQmkwOXZLTEpFcWJjcmstU2FyOGxmb0dpeGFreER2cU9RRXdvUHFn?oc=5)
+
+`Wed, 29 Jul 2026 07:25:08 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxOSHFpTUtxbjMwR0pwejlDNDFWU1AwSHItTnRxZUlRdnR3UGVWX3FHOEpFeFNaN0U5SlBWdEFCLXBQWjZuRXlwY2pxMElOMmFVR0lqVER3X0N0VFQ0S25SQjI0X1czd2JTUDhHc3NtbE5OWG1CQlZSSXI1MzlZd0JJYU55cWhSZDNCQ3RmQmkwOXZLTEpFcWJjcmstU2FyOGxmb0dpeGFreER2cU9RRXdvUHFn?oc=5" target="_blank">Accidents du travail : quels salariés sont les plus exposés ?</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
