@@ -2,10 +2,28 @@
   "source": "Les Echos - Economie France",
   "source_url": "https://www.lesechos.fr/economie-france",
   "language": "fr-FR",
-  "last_fetched": "Wed, 29 Jul 2026 13:49:30 +0000",
-  "total_items": 75,
-  "new_items_this_run": 0,
+  "last_fetched": "Wed, 29 Jul 2026 18:00:20 +0000",
+  "total_items": 76,
+  "new_items_this_run": 2,
   "articles": [
+    {
+      "id": "CBMi1wFBVV95cUxNOUtSbjF1OXhpZDFDdm1JV29uSXZJX195czlqblF6U0hZUHlHRE16bGpmOHNCb1Jrb25mT0UxQjJ6OGo0b3g0WV9tZlRqSm9FdjE4YWhlNnNQTDQ3MURaU1NuWk0xS0cyY2VnOTU0WEpPVGNjMzFBQ3J0UldJRzcza2UzdkhNMVVsNkdFUkZJd1hXUThQX29tSS1IUWMzeEVVSVpLRUd5OURSTDVic3gwQ2FQSHdWeGF3ZVRhbndUdGwzMF9Da3ZjQjAwa1BSU09NbGwyZi0ySQ",
+      "title": "Pourquoi le lien entre études et emploi ne concerne qu'une petite majorité de Français - Les Echos",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxNOUtSbjF1OXhpZDFDdm1JV29uSXZJX195czlqblF6U0hZUHlHRE16bGpmOHNCb1Jrb25mT0UxQjJ6OGo0b3g0WV9tZlRqSm9FdjE4YWhlNnNQTDQ3MURaU1NuWk0xS0cyY2VnOTU0WEpPVGNjMzFBQ3J0UldJRzcza2UzdkhNMVVsNkdFUkZJd1hXUThQX29tSS1IUWMzeEVVSVpLRUd5OURSTDVic3gwQ2FQSHdWeGF3ZVRhbndUdGwzMF9Da3ZjQjAwa1BSU09NbGwyZi0ySQ?oc=5\" target=\"_blank\">Pourquoi le lien entre études et emploi ne concerne qu'une petite majorité de Français</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Les Echos</font>",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNOUtSbjF1OXhpZDFDdm1JV29uSXZJX195czlqblF6U0hZUHlHRE16bGpmOHNCb1Jrb25mT0UxQjJ6OGo0b3g0WV9tZlRqSm9FdjE4YWhlNnNQTDQ3MURaU1NuWk0xS0cyY2VnOTU0WEpPVGNjMzFBQ3J0UldJRzcza2UzdkhNMVVsNkdFUkZJd1hXUThQX29tSS1IUWMzeEVVSVpLRUd5OURSTDVic3gwQ2FQSHdWeGF3ZVRhbndUdGwzMF9Da3ZjQjAwa1BSU09NbGwyZi0ySQ?oc=5",
+      "source": "Les Echos",
+      "pub_date": "Wed, 29 Jul 2026 15:00:29 GMT",
+      "pub_date_iso": "2026-07-29T15:00:29+00:00"
+    },
+    {
+      "id": "CBMixgFBVV95cUxPQzJudGc3WEl1ZEwtWUhMODhNNllqWmhSNVg4RmxmMUhYSmdyV05Tc1U5cWVDNGdtTlRrcllTUHFYZjhDYjlvX2tZNzlSYzBGUVEyYnRNX0h2bXdvZ3ZhYjB3SmpmY0hxREtjY3JXS08ycXozUFVVUk41cVdOYU81Y3NoUm5GMVA4VVA5a0R3TUYxMUdDUFhmOU95WlA5MlpKM2ltLU9uaVpIZUVrUlMzS25NTjVXWm52SklkMEJYT3E1WGZGUWc",
+      "title": "Le nombre de contrats d'apprentissage dans la fonction publique en baisse - Les Echos",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPQzJudGc3WEl1ZEwtWUhMODhNNllqWmhSNVg4RmxmMUhYSmdyV05Tc1U5cWVDNGdtTlRrcllTUHFYZjhDYjlvX2tZNzlSYzBGUVEyYnRNX0h2bXdvZ3ZhYjB3SmpmY0hxREtjY3JXS08ycXozUFVVUk41cVdOYU81Y3NoUm5GMVA4VVA5a0R3TUYxMUdDUFhmOU95WlA5MlpKM2ltLU9uaVpIZUVrUlMzS25NTjVXWm52SklkMEJYT3E1WGZGUWc?oc=5\" target=\"_blank\">Le nombre de contrats d'apprentissage dans la fonction publique en baisse</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Les Echos</font>",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQzJudGc3WEl1ZEwtWUhMODhNNllqWmhSNVg4RmxmMUhYSmdyV05Tc1U5cWVDNGdtTlRrcllTUHFYZjhDYjlvX2tZNzlSYzBGUVEyYnRNX0h2bXdvZ3ZhYjB3SmpmY0hxREtjY3JXS08ycXozUFVVUk41cVdOYU81Y3NoUm5GMVA4VVA5a0R3TUYxMUdDUFhmOU95WlA5MlpKM2ltLU9uaVpIZUVrUlMzS25NTjVXWm52SklkMEJYT3E1WGZGUWc?oc=5",
+      "source": "Les Echos",
+      "pub_date": "Wed, 29 Jul 2026 13:56:29 GMT",
+      "pub_date_iso": "2026-07-29T13:56:29+00:00"
+    },
     {
       "id": "CBMi2wFBVV95cUxNaUJoaGFXQnU1a2tNTnVMWDBIVml4Q2xOOXlKWWRnYm14N09qdVZyZ0pkZmJWZjdHNVo1U1VqcnZjWkRTY1huU1hfc1NtMzRBY0FPN2hrcHJuLXJqUnBidm5SUXMyUEc1UnBHZ0NPblp2cTB1M2g5c1lrYm05XzJ1NXVWSEd3NzcycG9RRFc4TlZLd0gteWNYLWpxVzFmWmVUZ2xGbEtiampkUlRxbERnOFE4ZUJ1bTFjVWh4YXFpaTVjRlpMX3Q5ellSNkNxN2JhTFdGczJtR2tSdTQ",
       "title": "« Le changement climatique peut effacer une grande partie de la croissance économique » - Les Echos",
@@ -671,15 +689,6 @@
       "source": "Les Echos",
       "pub_date": "Tue, 30 Jun 2026 04:12:09 GMT",
       "pub_date_iso": "2026-06-30T04:12:09+00:00"
-    },
-    {
-      "id": "CBMi5wFBVV95cUxQallISDVNc3N0LTdHTkhqeHdORFo3c2NXb1Zkb1ppVHBSanE5b1lzMWt1RnBUZ2l5NUtRTEl1c2JXM1NtOTJHdU50aGFydlJONWdscHZwWlJTUmJKMGZ3b3MwV01FR0tvQzlBbGZIQlQ3UXBfTUtPc3E0T1ZVMVFZUG14VUxMYzd2ZFdFZDdudUN4cy1qbW5iUFZORjl5TVdVZ0hWRndWalhuSUl1SlU4MXRCWTRBajJjLTAwcnJZNTZEdlRhbWZHZDJHLXR3WTNVVnFHU0VvQUQ3RUs5aFZJTEEwdG9melU",
-      "title": "Accidents du travail : le gouvernement réclame près d'un milliard d'économies aux partenaires sociaux - Les Echos",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxQallISDVNc3N0LTdHTkhqeHdORFo3c2NXb1Zkb1ppVHBSanE5b1lzMWt1RnBUZ2l5NUtRTEl1c2JXM1NtOTJHdU50aGFydlJONWdscHZwWlJTUmJKMGZ3b3MwV01FR0tvQzlBbGZIQlQ3UXBfTUtPc3E0T1ZVMVFZUG14VUxMYzd2ZFdFZDdudUN4cy1qbW5iUFZORjl5TVdVZ0hWRndWalhuSUl1SlU4MXRCWTRBajJjLTAwcnJZNTZEdlRhbWZHZDJHLXR3WTNVVnFHU0VvQUQ3RUs5aFZJTEEwdG9melU?oc=5\" target=\"_blank\">Accidents du travail : le gouvernement réclame près d'un milliard d'économies aux partenaires sociaux</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Les Echos</font>",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQallISDVNc3N0LTdHTkhqeHdORFo3c2NXb1Zkb1ppVHBSanE5b1lzMWt1RnBUZ2l5NUtRTEl1c2JXM1NtOTJHdU50aGFydlJONWdscHZwWlJTUmJKMGZ3b3MwV01FR0tvQzlBbGZIQlQ3UXBfTUtPc3E0T1ZVMVFZUG14VUxMYzd2ZFdFZDdudUN4cy1qbW5iUFZORjl5TVdVZ0hWRndWalhuSUl1SlU4MXRCWTRBajJjLTAwcnJZNTZEdlRhbWZHZDJHLXR3WTNVVnFHU0VvQUQ3RUs5aFZJTEEwdG9melU?oc=5",
-      "source": "Les Echos",
-      "pub_date": "Mon, 29 Jun 2026 15:48:17 GMT",
-      "pub_date_iso": "2026-06-29T15:48:17+00:00"
     }
   ]
 }

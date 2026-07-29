@@ -1,7 +1,23 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Wed, 29 Jul 2026 13:49:30 +0000`
-> 75 articles (30 derniers jours)
+> Derniere mise a jour : `Wed, 29 Jul 2026 18:00:20 +0000`
+> 76 articles (30 derniers jours)
+
+---
+
+### [Pourquoi le lien entre études et emploi ne concerne qu'une petite majorité de Français - Les Echos](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNOUtSbjF1OXhpZDFDdm1JV29uSXZJX195czlqblF6U0hZUHlHRE16bGpmOHNCb1Jrb25mT0UxQjJ6OGo0b3g0WV9tZlRqSm9FdjE4YWhlNnNQTDQ3MURaU1NuWk0xS0cyY2VnOTU0WEpPVGNjMzFBQ3J0UldJRzcza2UzdkhNMVVsNkdFUkZJd1hXUThQX29tSS1IUWMzeEVVSVpLRUd5OURSTDVic3gwQ2FQSHdWeGF3ZVRhbndUdGwzMF9Da3ZjQjAwa1BSU09NbGwyZi0ySQ?oc=5)
+
+`Wed, 29 Jul 2026 15:00:29 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi1wFBVV95cUxNOUtSbjF1OXhpZDFDdm1JV29uSXZJX195czlqblF6U0hZUHlHRE16bGpmOHNCb1Jrb25mT0UxQjJ6OGo0b3g0WV9tZlRqSm9FdjE4YWhlNnNQTDQ3MURaU1NuWk0xS0cyY2VnOTU0WEpPVGNjMzFBQ3J0UldJRzcza2UzdkhNMVVsNkdFUkZJd1hXUThQX29tSS1IUWMzeEVVSVpLRUd5OURSTDVic3gwQ2FQSHdWeGF3ZVRhbndUdGwzMF9Da3ZjQjAwa1BSU09NbGwyZi0ySQ?oc=5" target="_blank">Pourquoi le lien entre études et emploi ne concerne qu'une petite majorité de Français</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Le nombre de contrats d'apprentissage dans la fonction publique en baisse - Les Echos](https://news.google.com/rss/articles/CBMixgFBVV95cUxPQzJudGc3WEl1ZEwtWUhMODhNNllqWmhSNVg4RmxmMUhYSmdyV05Tc1U5cWVDNGdtTlRrcllTUHFYZjhDYjlvX2tZNzlSYzBGUVEyYnRNX0h2bXdvZ3ZhYjB3SmpmY0hxREtjY3JXS08ycXozUFVVUk41cVdOYU81Y3NoUm5GMVA4VVA5a0R3TUYxMUdDUFhmOU95WlA5MlpKM2ltLU9uaVpIZUVrUlMzS25NTjVXWm52SklkMEJYT3E1WGZGUWc?oc=5)
+
+`Wed, 29 Jul 2026 13:56:29 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxPQzJudGc3WEl1ZEwtWUhMODhNNllqWmhSNVg4RmxmMUhYSmdyV05Tc1U5cWVDNGdtTlRrcllTUHFYZjhDYjlvX2tZNzlSYzBGUVEyYnRNX0h2bXdvZ3ZhYjB3SmpmY0hxREtjY3JXS08ycXozUFVVUk41cVdOYU81Y3NoUm5GMVA4VVA5a0R3TUYxMUdDUFhmOU95WlA5MlpKM2ltLU9uaVpIZUVrUlMzS25NTjVXWm52SklkMEJYT3E1WGZGUWc?oc=5" target="_blank">Le nombre de contrats d'apprentissage dans la fonction publique en baisse</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -594,13 +610,5 @@
 `Tue, 30 Jun 2026 04:12:09 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMizgFBVV95cUxPR18wcENyeXRjNjBfVXNYNG5Tbll3cFdIcjd5QTBqSlJUTjlrMDZHQTJLZjlPeG1TaEdUWFItdHo4dWRSbVVIbzZndDlPR3hjWDl5ZHFObVhKOXIwQUxuVzlCMlFKSzB1RmZiZE1kalZOZ1A1bjBrdnNEX0pxUUlLNW9UVUtfZExsM3BfbTZQajhGajRHcWxla1hFUU9fbl81ZjdtM1NxaWI4UGVfZXVMMHNtZV9yb1V3TDJ1VGNXam1qTzBDNU1waWRFRmF1Zw?oc=5" target="_blank">Accès à l'emploi : en France, 500 entreprises s'engagent contre les discriminations</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Accidents du travail : le gouvernement réclame près d'un milliard d'économies aux partenaires sociaux - Les Echos](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQallISDVNc3N0LTdHTkhqeHdORFo3c2NXb1Zkb1ppVHBSanE5b1lzMWt1RnBUZ2l5NUtRTEl1c2JXM1NtOTJHdU50aGFydlJONWdscHZwWlJTUmJKMGZ3b3MwV01FR0tvQzlBbGZIQlQ3UXBfTUtPc3E0T1ZVMVFZUG14VUxMYzd2ZFdFZDdudUN4cy1qbW5iUFZORjl5TVdVZ0hWRndWalhuSUl1SlU4MXRCWTRBajJjLTAwcnJZNTZEdlRhbWZHZDJHLXR3WTNVVnFHU0VvQUQ3RUs5aFZJTEEwdG9melU?oc=5)
-
-`Mon, 29 Jun 2026 15:48:17 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi5wFBVV95cUxQallISDVNc3N0LTdHTkhqeHdORFo3c2NXb1Zkb1ppVHBSanE5b1lzMWt1RnBUZ2l5NUtRTEl1c2JXM1NtOTJHdU50aGFydlJONWdscHZwWlJTUmJKMGZ3b3MwV01FR0tvQzlBbGZIQlQ3UXBfTUtPc3E0T1ZVMVFZUG14VUxMYzd2ZFdFZDdudUN4cy1qbW5iUFZORjl5TVdVZ0hWRndWalhuSUl1SlU4MXRCWTRBajJjLTAwcnJZNTZEdlRhbWZHZDJHLXR3WTNVVnFHU0VvQUQ3RUs5aFZJTEEwdG9melU?oc=5" target="_blank">Accidents du travail : le gouvernement réclame près d'un milliard d'économies aux partenaires sociaux</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
