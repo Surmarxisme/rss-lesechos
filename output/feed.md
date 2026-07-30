@@ -1,7 +1,23 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Wed, 29 Jul 2026 18:00:20 +0000`
-> 76 articles (30 derniers jours)
+> Derniere mise a jour : `Thu, 30 Jul 2026 08:00:11 +0000`
+> 75 articles (30 derniers jours)
+
+---
+
+### [Formation professionnelle, apprentissage : vers un durcissement des règles - Les Echos](https://news.google.com/rss/articles/CBMixAFBVV95cUxQWEtyRjdaU1BDSHAxUmVicG5GMF96eWpnQzJsQnVnclV2eXN2dXoyNmZPRmc0ZGtXMmZFR1lsZXV0cFhRVzhCeE9aNk12NV9GTERyZ0IyeUZ5a1ZoNExPZVViT3FEUDBvRE9SMWFOUnRDRjJLOTNQNWpqemNfQmFwbFVYdzJzMHJyV09uajJLT2lKZm4yWGc4dTJTeUlYS2V4UUZVZUhqbDZsMGJrV1Z3TjFrRThodEU5eXFZem9WdEVxTXJK?oc=5)
+
+`Thu, 30 Jul 2026 04:30:23 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMixAFBVV95cUxQWEtyRjdaU1BDSHAxUmVicG5GMF96eWpnQzJsQnVnclV2eXN2dXoyNmZPRmc0ZGtXMmZFR1lsZXV0cFhRVzhCeE9aNk12NV9GTERyZ0IyeUZ5a1ZoNExPZVViT3FEUDBvRE9SMWFOUnRDRjJLOTNQNWpqemNfQmFwbFVYdzJzMHJyV09uajJLT2lKZm4yWGc4dTJTeUlYS2V4UUZVZUhqbDZsMGJrV1Z3TjFrRThodEU5eXFZem9WdEVxTXJK?oc=5" target="_blank">Formation professionnelle, apprentissage : vers un durcissement des règles</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [La bonne surprise de la croissance française - Les Echos](https://news.google.com/rss/articles/CBMipwFBVV95cUxPNkI3VzlYOWkwbVluOFZ5RWpqTlRNaVd2SVZ4ZTdySUJER0d1WnVCeTVvTDlJRTBTcXpMblJaUUcyY2FpWkZyVlF2dDZpZFh5Z2pFU2tmNFBpVGY4d3IwY0c2Uk1KMnBOUVp2bzl6Zi1zVDFlMjBZTHI3NzRRZ19oVVdpdk1VaXBsLVVUUVRTMVRVZUh1b1hkdmptZExxTWJxMjRzOFM5NA?oc=5)
+
+`Thu, 30 Jul 2026 05:52:06 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxPNkI3VzlYOWkwbVluOFZ5RWpqTlRNaVd2SVZ4ZTdySUJER0d1WnVCeTVvTDlJRTBTcXpMblJaUUcyY2FpWkZyVlF2dDZpZFh5Z2pFU2tmNFBpVGY4d3IwY0c2Uk1KMnBOUVp2bzl6Zi1zVDFlMjBZTHI3NzRRZ19oVVdpdk1VaXBsLVVUUVRTMVRVZUh1b1hkdmptZExxTWJxMjRzOFM5NA?oc=5" target="_blank">La bonne surprise de la croissance française</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -586,29 +602,5 @@
 `Tue, 30 Jun 2026 10:00:09 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi1wFBVV95cUxPSXh3Rlo3MGdRa3JSdG5KZGhLZW04akJyU3VCbkF4V1ZrTFotaU5BaTJrenhiTzdvTFQ2R1d3bkl2RUx0V2JSLWlGQnBMUmFNZ3hYVmV3TGlOaDhfdjJuVTlZMGd0OGRIclY0R2p5OFpreXBIX1hqeThPUTdELXg1WWpoNWlrLTI3bWw1eTJ4b3FHbG4xczcyRjZhcFhSUFhoRmdPRVJCNWw3ZGRQeDBsdG9Iekh1dXZ1UnhxNDl0aFlPdWJiQTZQYjZsbVlVaDFzTklQM19fVQ?oc=5" target="_blank">Congé de naissance, taxe sur les petits colis, prix du gaz… ce qui change au 1er juillet</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Nette décrue de l'inflation en France - Les Echos](https://news.google.com/rss/articles/CBMinAFBVV95cUxPVmoyQ2VkWUIwTTRqb1U5S1Q1bEJ0V3c2bC03QW1mcVFwSHZDcEhVSUVQY182bjkzT1pXWnR1WVRYM2M1d3dkRFFYY0NnWFNJc1lxVlpVdF9vMWh3UENnNHZCSVB3MkV4LXd5UEM2Nk55ZW16andndjVSYXVqcVAtYThCZDZJamNreFdwZWh1NFhNWU4wa0psNU9lcWY?oc=5)
-
-`Tue, 30 Jun 2026 07:12:05 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMinAFBVV95cUxPVmoyQ2VkWUIwTTRqb1U5S1Q1bEJ0V3c2bC03QW1mcVFwSHZDcEhVSUVQY182bjkzT1pXWnR1WVRYM2M1d3dkRFFYY0NnWFNJc1lxVlpVdF9vMWh3UENnNHZCSVB3MkV4LXd5UEM2Nk55ZW16andndjVSYXVqcVAtYThCZDZJamNreFdwZWh1NFhNWU4wa0psNU9lcWY?oc=5" target="_blank">Nette décrue de l'inflation en France</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Multiplication des normes : comment la France se met des bâtons dans les roues - Les Echos](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcjRGdlRWUDROYjdYSldMNEdsYTN2cEtjUl9ucTllYVhHUE9OMUh6OWlmcFNZaDZoTjV6Y3BMSkJsU2RHTVhlZi01WDMza2dFRWQ1VWtnZWNiTnhDaWQ1SmVnV3dOTGR3ekE1dHVaYi1iQnJybmdMeGtUMmNKMjhlXzFrOVVONDh5WXFsYVRzcHpOc0VXQ085YnM0czNlYklxcU1xRXZmOVFOb2ZFR25raV9RZ1lELUJBN0c4LTVmd1daN0FGVFFGLWFweGpXcWtEd3c?oc=5)
-
-`Tue, 30 Jun 2026 04:22:08 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcjRGdlRWUDROYjdYSldMNEdsYTN2cEtjUl9ucTllYVhHUE9OMUh6OWlmcFNZaDZoTjV6Y3BMSkJsU2RHTVhlZi01WDMza2dFRWQ1VWtnZWNiTnhDaWQ1SmVnV3dOTGR3ekE1dHVaYi1iQnJybmdMeGtUMmNKMjhlXzFrOVVONDh5WXFsYVRzcHpOc0VXQ085YnM0czNlYklxcU1xRXZmOVFOb2ZFR25raV9RZ1lELUJBN0c4LTVmd1daN0FGVFFGLWFweGpXcWtEd3c?oc=5" target="_blank">Multiplication des normes : comment la France se met des bâtons dans les roues</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Accès à l'emploi : en France, 500 entreprises s'engagent contre les discriminations - Les Echos](https://news.google.com/rss/articles/CBMizgFBVV95cUxPR18wcENyeXRjNjBfVXNYNG5Tbll3cFdIcjd5QTBqSlJUTjlrMDZHQTJLZjlPeG1TaEdUWFItdHo4dWRSbVVIbzZndDlPR3hjWDl5ZHFObVhKOXIwQUxuVzlCMlFKSzB1RmZiZE1kalZOZ1A1bjBrdnNEX0pxUUlLNW9UVUtfZExsM3BfbTZQajhGajRHcWxla1hFUU9fbl81ZjdtM1NxaWI4UGVfZXVMMHNtZV9yb1V3TDJ1VGNXam1qTzBDNU1waWRFRmF1Zw?oc=5)
-
-`Tue, 30 Jun 2026 04:12:09 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMizgFBVV95cUxPR18wcENyeXRjNjBfVXNYNG5Tbll3cFdIcjd5QTBqSlJUTjlrMDZHQTJLZjlPeG1TaEdUWFItdHo4dWRSbVVIbzZndDlPR3hjWDl5ZHFObVhKOXIwQUxuVzlCMlFKSzB1RmZiZE1kalZOZ1A1bjBrdnNEX0pxUUlLNW9UVUtfZExsM3BfbTZQajhGajRHcWxla1hFUU9fbl81ZjdtM1NxaWI4UGVfZXVMMHNtZV9yb1V3TDJ1VGNXam1qTzBDNU1waWRFRmF1Zw?oc=5" target="_blank">Accès à l'emploi : en France, 500 entreprises s'engagent contre les discriminations</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
