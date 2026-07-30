@@ -1,7 +1,23 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Thu, 30 Jul 2026 13:40:06 +0000`
-> 73 articles (30 derniers jours)
+> Derniere mise a jour : `Thu, 30 Jul 2026 18:08:10 +0000`
+> 74 articles (30 derniers jours)
+
+---
+
+### [« Ça va être difficile » : Bercy très prudent sur la réduction du déficit malgré le rebond de la croissance - lesechos.fr](https://news.google.com/rss/articles/CBMi-gFBVV95cUxQV1M1SWRWZEtrSHZQVWJza0dZdVQzb1AtR2UydEFLZWNFbVQ5cnNNRmd1S1dSa2FhbnhiZm1BZU5IYUp2S1FlNDRSQ01fOXBHcGpsa2xYQ3BFUk9jQWtoR1FiTUlsVklXZ3l3V2RXMV9VZXY3Zm9adHhGUGxHM0NMY2lxWXRFVlB4ZmxrTTl1UEMyN2ZyY2RRSG91b1FMOHB1aFZ4R1pQTy1oeEd1bkJfbERFSlRKUHBNOUJZRUVUZ3lKTU1nQ2p1MElKN2hPVWM2VEM1MGt5WVN2X2pNbWdmTWwyd29BNXFUb1pUR1p3aHhVYVR0aWpaREp3?oc=5)
+
+`Thu, 30 Jul 2026 17:14:38 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi-gFBVV95cUxQV1M1SWRWZEtrSHZQVWJza0dZdVQzb1AtR2UydEFLZWNFbVQ5cnNNRmd1S1dSa2FhbnhiZm1BZU5IYUp2S1FlNDRSQ01fOXBHcGpsa2xYQ3BFUk9jQWtoR1FiTUlsVklXZ3l3V2RXMV9VZXY3Zm9adHhGUGxHM0NMY2lxWXRFVlB4ZmxrTTl1UEMyN2ZyY2RRSG91b1FMOHB1aFZ4R1pQTy1oeEd1bkJfbERFSlRKUHBNOUJZRUVUZ3lKTU1nQ2p1MElKN2hPVWM2VEM1MGt5WVN2X2pNbWdmTWwyd29BNXFUb1pUR1p3aHhVYVR0aWpaREp3?oc=5" target="_blank">« Ça va être difficile » : Bercy très prudent sur la réduction du déficit malgré le rebond de la croissance</a>&nbsp;&nbsp;<font color="#6f6f6f">lesechos.fr</font>
+
+---
+
+### [SONDAGE EXCLUSIF - Médicaments, dentistes : les Français rejettent le plan d'économies du gouvernement pour la santé - lesechos.fr](https://news.google.com/rss/articles/CBMi-AFBVV95cUxQbU9iNFY3WUw2T3pFbzBackpwbkotLWVQODlfMk5PZm9yczFKYlJrWFZBTURjc3BFWFBOWG5DZEdDSVlpLUNtOVhrRzVKQXpBRm1jWF80NFkzMjJjWmt2S1FYZ2dMVHVhSUh3N3lTRlZsc2s2OUpSQVJNZWxQZ3VPUkN0cEhrZ19aV05kZTk1bllaTUl0OVBVbFhaSjJpRjR0NXdsNXFsMVFjTXFXanBFZFloNWdfRHRFcHNvaFNWa04wS2txQW9XU2FTbVI5MUFiRml6UDdZUkFRYVFzUHI2OFlqUWptY1AzOTFfemRjUGZLNi13TmJvNQ?oc=5)
+
+`Thu, 30 Jul 2026 15:00:11 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi-AFBVV95cUxQbU9iNFY3WUw2T3pFbzBackpwbkotLWVQODlfMk5PZm9yczFKYlJrWFZBTURjc3BFWFBOWG5DZEdDSVlpLUNtOVhrRzVKQXpBRm1jWF80NFkzMjJjWmt2S1FYZ2dMVHVhSUh3N3lTRlZsc2s2OUpSQVJNZWxQZ3VPUkN0cEhrZ19aV05kZTk1bllaTUl0OVBVbFhaSjJpRjR0NXdsNXFsMVFjTXFXanBFZFloNWdfRHRFcHNvaFNWa04wS2txQW9XU2FTbVI5MUFiRml6UDdZUkFRYVFzUHI2OFlqUWptY1AzOTFfemRjUGZLNi13TmJvNQ?oc=5" target="_blank">SONDAGE EXCLUSIF - Médicaments, dentistes : les Français rejettent le plan d'économies du gouvernement pour la santé</a>&nbsp;&nbsp;<font color="#6f6f6f">lesechos.fr</font>
 
 ---
 
@@ -578,13 +594,5 @@
 `Wed, 01 Jul 2026 14:50:14 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi6AFBVV95cUxPTmZ1Rnd2cHBPUzRWLTRhRVdMOHNzcy1yLUFhalk5Zmw3WHhXclJiT014ZTluRWVXUFZMd0NxdzBFTkZuSEFZMTg4cmJqSU5GckN2QmlDaDloV2dBb1MxYkh1ZWduMTVjblUxbUtjVGNyaV9yZ1NYQ1A3Z1h1YnJyMTV5bnNBTF9uREZzR1lMMWx6LXRWSHZoSi0wV3A2ODRsUVZYZVB3UktkU052V29HWGMtWUV3ek12SW0teU5WSHpJNGRIZ3kwdU9GNnNMN0RnbENZd2NZcUJ1VkxWWmJDVHltdFdlN0Jm?oc=5" target="_blank">« La productivité croît à un rythme trop faible » : pourquoi la France reste à la traîne de l'Europe</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Emploi : un bilan mitigé de l'accompagnement rénové des bénéficiaires du RSA - Les Echos](https://news.google.com/rss/articles/CBMixwFBVV95cUxPWHNUaWJTeEhFVVBZR0VxQWJKNlctRlJDNmdJLWNUNE9jME5tX3MycUJ3OF9rMGFVcXFUSWVvdlJLQ2ZyRUgydnhlRmdlZ1hEX1ltbEIyVllockZnTlNCTG1hektBNjlpNm05VmlaMzNRYl9abFZQcEpZMlBWRW1XZFlkRXY1OVU0YzY2WDRILS1PSEJEaXNtWVgtSU1yalZFbl9vbm9QSThmdWduWW5UTmtZb1A0aHh6Zk9ya05tYV9XWkF5Q0dJ?oc=5)
-
-`Tue, 30 Jun 2026 17:08:47 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMixwFBVV95cUxPWHNUaWJTeEhFVVBZR0VxQWJKNlctRlJDNmdJLWNUNE9jME5tX3MycUJ3OF9rMGFVcXFUSWVvdlJLQ2ZyRUgydnhlRmdlZ1hEX1ltbEIyVllockZnTlNCTG1hektBNjlpNm05VmlaMzNRYl9abFZQcEpZMlBWRW1XZFlkRXY1OVU0YzY2WDRILS1PSEJEaXNtWVgtSU1yalZFbl9vbm9QSThmdWduWW5UTmtZb1A0aHh6Zk9ya05tYV9XWkF5Q0dJ?oc=5" target="_blank">Emploi : un bilan mitigé de l'accompagnement rénové des bénéficiaires du RSA</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
