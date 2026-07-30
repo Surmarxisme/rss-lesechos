@@ -2,10 +2,19 @@
   "source": "Les Echos - Economie France",
   "source_url": "https://www.lesechos.fr/economie-france",
   "language": "fr-FR",
-  "last_fetched": "Thu, 30 Jul 2026 11:13:18 +0000",
-  "total_items": 74,
-  "new_items_this_run": 0,
+  "last_fetched": "Thu, 30 Jul 2026 13:40:06 +0000",
+  "total_items": 73,
+  "new_items_this_run": 1,
   "articles": [
+    {
+      "id": "CBMipwFBVV95cUxQRFFkUEF0ZFhaSTF4SXM3NWE0N1V1bzJ6VGJrNTcwZThjUUtpUUJrS1EtMnYtLXljcUNuS2o2QXg1eFJsaVZ5N2JYcEFLSDY4eC1yWkpQOWZ2WEI4MUZPVHdVbmQ1TGItZ3p0dVdVZUNla2NUUWxCd3luYXgySHRZUTFoNzNtdWt1Y3o2N181SUFaVUpLbmxyMVE3aFFUTlU5ckJmcnE1SQ",
+      "title": "Naissances : toujours moins de bébés en France - Les Echos",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQRFFkUEF0ZFhaSTF4SXM3NWE0N1V1bzJ6VGJrNTcwZThjUUtpUUJrS1EtMnYtLXljcUNuS2o2QXg1eFJsaVZ5N2JYcEFLSDY4eC1yWkpQOWZ2WEI4MUZPVHdVbmQ1TGItZ3p0dVdVZUNla2NUUWxCd3luYXgySHRZUTFoNzNtdWt1Y3o2N181SUFaVUpLbmxyMVE3aFFUTlU5ckJmcnE1SQ?oc=5\" target=\"_blank\">Naissances : toujours moins de bébés en France</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Les Echos</font>",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRFFkUEF0ZFhaSTF4SXM3NWE0N1V1bzJ6VGJrNTcwZThjUUtpUUJrS1EtMnYtLXljcUNuS2o2QXg1eFJsaVZ5N2JYcEFLSDY4eC1yWkpQOWZ2WEI4MUZPVHdVbmQ1TGItZ3p0dVdVZUNla2NUUWxCd3luYXgySHRZUTFoNzNtdWt1Y3o2N181SUFaVUpLbmxyMVE3aFFUTlU5ckJmcnE1SQ?oc=5",
+      "source": "Les Echos",
+      "pub_date": "Thu, 30 Jul 2026 13:17:59 GMT",
+      "pub_date_iso": "2026-07-30T13:17:59+00:00"
+    },
     {
       "id": "CBMixAFBVV95cUxQWEtyRjdaU1BDSHAxUmVicG5GMF96eWpnQzJsQnVnclV2eXN2dXoyNmZPRmc0ZGtXMmZFR1lsZXV0cFhRVzhCeE9aNk12NV9GTERyZ0IyeUZ5a1ZoNExPZVViT3FEUDBvRE9SMWFOUnRDRjJLOTNQNWpqemNfQmFwbFVYdzJzMHJyV09uajJLT2lKZm4yWGc4dTJTeUlYS2V4UUZVZUhqbDZsMGJrV1Z3TjFrRThodEU5eXFZem9WdEVxTXJK",
       "title": "Formation professionnelle, apprentissage : vers un durcissement des règles - Les Echos",
@@ -653,24 +662,6 @@
       "source": "Les Echos",
       "pub_date": "Tue, 30 Jun 2026 17:08:47 GMT",
       "pub_date_iso": "2026-06-30T17:08:47+00:00"
-    },
-    {
-      "id": "CBMizgFBVV95cUxNbkpzQjZ5NzNlcVhkbTFIZjZMU3FPaDNBd1BUemszc0hpX1NPSUlFSEFERDM0NDNpUDFHT2U3azlSLUEwbFVkRGVzdDAwSWVTalNBUlJzSE1TcHd3cVN6TWJlVFliMFB1ZFFwRFQyMlhtWFRPekJwRlpsNUwwaVhqam5YOEx2Mjh2MzN0Qkg5OUptTDE0akhEUUtTQ3I2SVNOdHZxblZVNi1zbDJWbEl2TjhORkxmTk5rYVNDOU9DQnN0Ukxlcm8yQjE0N2hKZw",
-      "title": "Chômage : pas de revalorisation des allocations au 1er juillet malgré l'inflation - Les Echos",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNbkpzQjZ5NzNlcVhkbTFIZjZMU3FPaDNBd1BUemszc0hpX1NPSUlFSEFERDM0NDNpUDFHT2U3azlSLUEwbFVkRGVzdDAwSWVTalNBUlJzSE1TcHd3cVN6TWJlVFliMFB1ZFFwRFQyMlhtWFRPekJwRlpsNUwwaVhqam5YOEx2Mjh2MzN0Qkg5OUptTDE0akhEUUtTQ3I2SVNOdHZxblZVNi1zbDJWbEl2TjhORkxmTk5rYVNDOU9DQnN0Ukxlcm8yQjE0N2hKZw?oc=5\" target=\"_blank\">Chômage : pas de revalorisation des allocations au 1er juillet malgré l'inflation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Les Echos</font>",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbkpzQjZ5NzNlcVhkbTFIZjZMU3FPaDNBd1BUemszc0hpX1NPSUlFSEFERDM0NDNpUDFHT2U3azlSLUEwbFVkRGVzdDAwSWVTalNBUlJzSE1TcHd3cVN6TWJlVFliMFB1ZFFwRFQyMlhtWFRPekJwRlpsNUwwaVhqam5YOEx2Mjh2MzN0Qkg5OUptTDE0akhEUUtTQ3I2SVNOdHZxblZVNi1zbDJWbEl2TjhORkxmTk5rYVNDOU9DQnN0Ukxlcm8yQjE0N2hKZw?oc=5",
-      "source": "Les Echos",
-      "pub_date": "Tue, 30 Jun 2026 12:32:46 GMT",
-      "pub_date_iso": "2026-06-30T12:32:46+00:00"
-    },
-    {
-      "id": "CBMi-gFBVV95cUxQNHBFYlR1Y2w5bDQ0Tm1JVUwxbmc3d2tpdzF5UmtEV2RMMTA3YXd4VllmZGt4Q1dBanlocVJfclBVRGxyVXpFcFBGam9VSDdGclI3RlRGWl9IX1RWTnZIeGpsc0tBR0MwYWxkeU5EcHQzRXdqNGhHTy01SmhmcmxQLWQybEJmdEU3OWpwTXJoMGgzR3J5TnAyRW5ZT3doU1QxckRQMkp4Szhmbmx3ZU9vUFRyWGJWeF96aVhYVWtYcVYxc3hvNU5vdlpGOUtadl9zXzFlN0hpckhZcXNYYUgzcVgzVFhCb1VDbkhqVEFyTGFSNGNmOUlZN3Vn",
-      "title": "Retraites, santé, éducation : le remède de cheval de l'OCDE pour éviter l'emballement de la dette française - Les Echos",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxQNHBFYlR1Y2w5bDQ0Tm1JVUwxbmc3d2tpdzF5UmtEV2RMMTA3YXd4VllmZGt4Q1dBanlocVJfclBVRGxyVXpFcFBGam9VSDdGclI3RlRGWl9IX1RWTnZIeGpsc0tBR0MwYWxkeU5EcHQzRXdqNGhHTy01SmhmcmxQLWQybEJmdEU3OWpwTXJoMGgzR3J5TnAyRW5ZT3doU1QxckRQMkp4Szhmbmx3ZU9vUFRyWGJWeF96aVhYVWtYcVYxc3hvNU5vdlpGOUtadl9zXzFlN0hpckhZcXNYYUgzcVgzVFhCb1VDbkhqVEFyTGFSNGNmOUlZN3Vn?oc=5\" target=\"_blank\">Retraites, santé, éducation : le remède de cheval de l'OCDE pour éviter l'emballement de la dette française</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Les Echos</font>",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQNHBFYlR1Y2w5bDQ0Tm1JVUwxbmc3d2tpdzF5UmtEV2RMMTA3YXd4VllmZGt4Q1dBanlocVJfclBVRGxyVXpFcFBGam9VSDdGclI3RlRGWl9IX1RWTnZIeGpsc0tBR0MwYWxkeU5EcHQzRXdqNGhHTy01SmhmcmxQLWQybEJmdEU3OWpwTXJoMGgzR3J5TnAyRW5ZT3doU1QxckRQMkp4Szhmbmx3ZU9vUFRyWGJWeF96aVhYVWtYcVYxc3hvNU5vdlpGOUtadl9zXzFlN0hpckhZcXNYYUgzcVgzVFhCb1VDbkhqVEFyTGFSNGNmOUlZN3Vn?oc=5",
-      "source": "Les Echos",
-      "pub_date": "Tue, 30 Jun 2026 13:30:29 GMT",
-      "pub_date_iso": "2026-06-30T13:30:29+00:00"
     }
   ]
 }

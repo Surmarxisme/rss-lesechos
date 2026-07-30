@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Thu, 30 Jul 2026 11:13:18 +0000`
-> 74 articles (30 derniers jours)
+> Derniere mise a jour : `Thu, 30 Jul 2026 13:40:06 +0000`
+> 73 articles (30 derniers jours)
+
+---
+
+### [Naissances : toujours moins de bébés en France - Les Echos](https://news.google.com/rss/articles/CBMipwFBVV95cUxQRFFkUEF0ZFhaSTF4SXM3NWE0N1V1bzJ6VGJrNTcwZThjUUtpUUJrS1EtMnYtLXljcUNuS2o2QXg1eFJsaVZ5N2JYcEFLSDY4eC1yWkpQOWZ2WEI4MUZPVHdVbmQ1TGItZ3p0dVdVZUNla2NUUWxCd3luYXgySHRZUTFoNzNtdWt1Y3o2N181SUFaVUpLbmxyMVE3aFFUTlU5ckJmcnE1SQ?oc=5)
+
+`Thu, 30 Jul 2026 13:17:59 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxQRFFkUEF0ZFhaSTF4SXM3NWE0N1V1bzJ6VGJrNTcwZThjUUtpUUJrS1EtMnYtLXljcUNuS2o2QXg1eFJsaVZ5N2JYcEFLSDY4eC1yWkpQOWZ2WEI4MUZPVHdVbmQ1TGItZ3p0dVdVZUNla2NUUWxCd3luYXgySHRZUTFoNzNtdWt1Y3o2N181SUFaVUpLbmxyMVE3aFFUTlU5ckJmcnE1SQ?oc=5" target="_blank">Naissances : toujours moins de bébés en France</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -578,21 +586,5 @@
 `Tue, 30 Jun 2026 17:08:47 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMixwFBVV95cUxPWHNUaWJTeEhFVVBZR0VxQWJKNlctRlJDNmdJLWNUNE9jME5tX3MycUJ3OF9rMGFVcXFUSWVvdlJLQ2ZyRUgydnhlRmdlZ1hEX1ltbEIyVllockZnTlNCTG1hektBNjlpNm05VmlaMzNRYl9abFZQcEpZMlBWRW1XZFlkRXY1OVU0YzY2WDRILS1PSEJEaXNtWVgtSU1yalZFbl9vbm9QSThmdWduWW5UTmtZb1A0aHh6Zk9ya05tYV9XWkF5Q0dJ?oc=5" target="_blank">Emploi : un bilan mitigé de l'accompagnement rénové des bénéficiaires du RSA</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Chômage : pas de revalorisation des allocations au 1er juillet malgré l'inflation - Les Echos](https://news.google.com/rss/articles/CBMizgFBVV95cUxNbkpzQjZ5NzNlcVhkbTFIZjZMU3FPaDNBd1BUemszc0hpX1NPSUlFSEFERDM0NDNpUDFHT2U3azlSLUEwbFVkRGVzdDAwSWVTalNBUlJzSE1TcHd3cVN6TWJlVFliMFB1ZFFwRFQyMlhtWFRPekJwRlpsNUwwaVhqam5YOEx2Mjh2MzN0Qkg5OUptTDE0akhEUUtTQ3I2SVNOdHZxblZVNi1zbDJWbEl2TjhORkxmTk5rYVNDOU9DQnN0Ukxlcm8yQjE0N2hKZw?oc=5)
-
-`Tue, 30 Jun 2026 12:32:46 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMizgFBVV95cUxNbkpzQjZ5NzNlcVhkbTFIZjZMU3FPaDNBd1BUemszc0hpX1NPSUlFSEFERDM0NDNpUDFHT2U3azlSLUEwbFVkRGVzdDAwSWVTalNBUlJzSE1TcHd3cVN6TWJlVFliMFB1ZFFwRFQyMlhtWFRPekJwRlpsNUwwaVhqam5YOEx2Mjh2MzN0Qkg5OUptTDE0akhEUUtTQ3I2SVNOdHZxblZVNi1zbDJWbEl2TjhORkxmTk5rYVNDOU9DQnN0Ukxlcm8yQjE0N2hKZw?oc=5" target="_blank">Chômage : pas de revalorisation des allocations au 1er juillet malgré l'inflation</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Retraites, santé, éducation : le remède de cheval de l'OCDE pour éviter l'emballement de la dette française - Les Echos](https://news.google.com/rss/articles/CBMi-gFBVV95cUxQNHBFYlR1Y2w5bDQ0Tm1JVUwxbmc3d2tpdzF5UmtEV2RMMTA3YXd4VllmZGt4Q1dBanlocVJfclBVRGxyVXpFcFBGam9VSDdGclI3RlRGWl9IX1RWTnZIeGpsc0tBR0MwYWxkeU5EcHQzRXdqNGhHTy01SmhmcmxQLWQybEJmdEU3OWpwTXJoMGgzR3J5TnAyRW5ZT3doU1QxckRQMkp4Szhmbmx3ZU9vUFRyWGJWeF96aVhYVWtYcVYxc3hvNU5vdlpGOUtadl9zXzFlN0hpckhZcXNYYUgzcVgzVFhCb1VDbkhqVEFyTGFSNGNmOUlZN3Vn?oc=5)
-
-`Tue, 30 Jun 2026 13:30:29 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi-gFBVV95cUxQNHBFYlR1Y2w5bDQ0Tm1JVUwxbmc3d2tpdzF5UmtEV2RMMTA3YXd4VllmZGt4Q1dBanlocVJfclBVRGxyVXpFcFBGam9VSDdGclI3RlRGWl9IX1RWTnZIeGpsc0tBR0MwYWxkeU5EcHQzRXdqNGhHTy01SmhmcmxQLWQybEJmdEU3OWpwTXJoMGgzR3J5TnAyRW5ZT3doU1QxckRQMkp4Szhmbmx3ZU9vUFRyWGJWeF96aVhYVWtYcVYxc3hvNU5vdlpGOUtadl9zXzFlN0hpckhZcXNYYUgzcVgzVFhCb1VDbkhqVEFyTGFSNGNmOUlZN3Vn?oc=5" target="_blank">Retraites, santé, éducation : le remède de cheval de l'OCDE pour éviter l'emballement de la dette française</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
