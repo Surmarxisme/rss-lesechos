@@ -1,7 +1,7 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Thu, 30 Jul 2026 08:00:11 +0000`
-> 75 articles (30 derniers jours)
+> Derniere mise a jour : `Thu, 30 Jul 2026 11:13:18 +0000`
+> 74 articles (30 derniers jours)
 
 ---
 
@@ -594,13 +594,5 @@
 `Tue, 30 Jun 2026 13:30:29 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi-gFBVV95cUxQNHBFYlR1Y2w5bDQ0Tm1JVUwxbmc3d2tpdzF5UmtEV2RMMTA3YXd4VllmZGt4Q1dBanlocVJfclBVRGxyVXpFcFBGam9VSDdGclI3RlRGWl9IX1RWTnZIeGpsc0tBR0MwYWxkeU5EcHQzRXdqNGhHTy01SmhmcmxQLWQybEJmdEU3OWpwTXJoMGgzR3J5TnAyRW5ZT3doU1QxckRQMkp4Szhmbmx3ZU9vUFRyWGJWeF96aVhYVWtYcVYxc3hvNU5vdlpGOUtadl9zXzFlN0hpckhZcXNYYUgzcVgzVFhCb1VDbkhqVEFyTGFSNGNmOUlZN3Vn?oc=5" target="_blank">Retraites, santé, éducation : le remède de cheval de l'OCDE pour éviter l'emballement de la dette française</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Congé de naissance, taxe sur les petits colis, prix du gaz… ce qui change au 1er juillet - Les Echos](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPSXh3Rlo3MGdRa3JSdG5KZGhLZW04akJyU3VCbkF4V1ZrTFotaU5BaTJrenhiTzdvTFQ2R1d3bkl2RUx0V2JSLWlGQnBMUmFNZ3hYVmV3TGlOaDhfdjJuVTlZMGd0OGRIclY0R2p5OFpreXBIX1hqeThPUTdELXg1WWpoNWlrLTI3bWw1eTJ4b3FHbG4xczcyRjZhcFhSUFhoRmdPRVJCNWw3ZGRQeDBsdG9Iekh1dXZ1UnhxNDl0aFlPdWJiQTZQYjZsbVlVaDFzTklQM19fVQ?oc=5)
-
-`Tue, 30 Jun 2026 10:00:09 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi1wFBVV95cUxPSXh3Rlo3MGdRa3JSdG5KZGhLZW04akJyU3VCbkF4V1ZrTFotaU5BaTJrenhiTzdvTFQ2R1d3bkl2RUx0V2JSLWlGQnBMUmFNZ3hYVmV3TGlOaDhfdjJuVTlZMGd0OGRIclY0R2p5OFpreXBIX1hqeThPUTdELXg1WWpoNWlrLTI3bWw1eTJ4b3FHbG4xczcyRjZhcFhSUFhoRmdPRVJCNWw3ZGRQeDBsdG9Iekh1dXZ1UnhxNDl0aFlPdWJiQTZQYjZsbVlVaDFzTklQM19fVQ?oc=5" target="_blank">Congé de naissance, taxe sur les petits colis, prix du gaz… ce qui change au 1er juillet</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
