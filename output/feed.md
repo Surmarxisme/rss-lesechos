@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Fri, 31 Jul 2026 13:44:26 +0000`
-> 75 articles (30 derniers jours)
+> Derniere mise a jour : `Fri, 31 Jul 2026 18:13:56 +0000`
+> 74 articles (30 derniers jours)
+
+---
+
+### [Les décès ont bondi de près de 11 % en juin sous l'effet de la canicule - Les Echos](https://news.google.com/rss/articles/CBMixwFBVV95cUxQczRPd3B6V20xT01MWncteUVUbW5Cc09WZ2tzMGZCMnBXbVV3Z1hxMExrZWl1eGxBeXdfakNMTmptT045NjVqclozTGl2Mlg1N2F6MFFndzJsMGFpelpMM2Q2VHd6REh1ZFFGUkc3ZlN2b0tOTzE0RTU5ZGVtZ1RGSjg0d2xTWGx2NlliNWpxR1B3MlJfQnMwU3U3NlV0cjNzQm9pOGNUSXdySkRKcm81dnVyamtfTmMwM1BveUktNnN6WFpxamxZ?oc=5)
+
+`Fri, 31 Jul 2026 14:53:16 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMixwFBVV95cUxQczRPd3B6V20xT01MWncteUVUbW5Cc09WZ2tzMGZCMnBXbVV3Z1hxMExrZWl1eGxBeXdfakNMTmptT045NjVqclozTGl2Mlg1N2F6MFFndzJsMGFpelpMM2Q2VHd6REh1ZFFGUkc3ZlN2b0tOTzE0RTU5ZGVtZ1RGSjg0d2xTWGx2NlliNWpxR1B3MlJfQnMwU3U3NlV0cjNzQm9pOGNUSXdySkRKcm81dnVyamtfTmMwM1BveUktNnN6WFpxamxZ?oc=5" target="_blank">Les décès ont bondi de près de 11 % en juin sous l'effet de la canicule</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -586,21 +594,5 @@
 `Thu, 02 Jul 2026 05:10:09 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi0wFBVV95cUxOLUc0TlFNaG1LdV96a2FNNUpkRzBzU0lMNUZacTZQckc0VkNvSUh3dmpHLUFvQjNOT1MtMzRXWGYwVDN4MnhPRjJDU2h1UEJVNzhmZ3UxQ204bW45VUlqZ3huTEd1d09oTHg2UDVpRzdjYXRTX25qNEwxSFFXQ0NDUnFqTjJvOEprRXN6eHY5TW96b25RUU9adGRHcEloODZQNG1tUjRVdTFTLWxSWDN5ZEl3RmRtR29SQlFlLWRPUi13dlBMWno0YjRxZDBrakZuYnlR?oc=5" target="_blank">A Aix-en-Provence, des rencontres économiques dans l'ombre de la présidentielle</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Canicule : les hôpitaux publics réclament plus de moyens pour s'adapter - Les Echos](https://news.google.com/rss/articles/CBMiwAFBVV95cUxONlEzLXVwTzIyampWQS1BT0NfLTFWZHdKN2xUbnZla0loUFVXbzA1UXhYSXhWcDk2dmVvbDBtbVBGRU9CM1c0UDRxMk5td1g4Nnd3aERELWQ2cmFSbFdRc2poS0dGNXNJelZCa200bHNZUE5nTjZlX2pVZmxFR2xVTENfYnc0djMxZTkwb2VfOEszRk5BTzM5R2prQUtGNUJsVnVrLS1lcmV1SFRpSGxzUEpPZTVQWFZ6RG85TTI4SnE?oc=5)
-
-`Wed, 01 Jul 2026 15:40:19 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxONlEzLXVwTzIyampWQS1BT0NfLTFWZHdKN2xUbnZla0loUFVXbzA1UXhYSXhWcDk2dmVvbDBtbVBGRU9CM1c0UDRxMk5td1g4Nnd3aERELWQ2cmFSbFdRc2poS0dGNXNJelZCa200bHNZUE5nTjZlX2pVZmxFR2xVTENfYnc0djMxZTkwb2VfOEszRk5BTzM5R2prQUtGNUJsVnVrLS1lcmV1SFRpSGxzUEpPZTVQWFZ6RG85TTI4SnE?oc=5" target="_blank">Canicule : les hôpitaux publics réclament plus de moyens pour s'adapter</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [« La productivité croît à un rythme trop faible » : pourquoi la France reste à la traîne de l'Europe - Les Echos](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPTmZ1Rnd2cHBPUzRWLTRhRVdMOHNzcy1yLUFhalk5Zmw3WHhXclJiT014ZTluRWVXUFZMd0NxdzBFTkZuSEFZMTg4cmJqSU5GckN2QmlDaDloV2dBb1MxYkh1ZWduMTVjblUxbUtjVGNyaV9yZ1NYQ1A3Z1h1YnJyMTV5bnNBTF9uREZzR1lMMWx6LXRWSHZoSi0wV3A2ODRsUVZYZVB3UktkU052V29HWGMtWUV3ek12SW0teU5WSHpJNGRIZ3kwdU9GNnNMN0RnbENZd2NZcUJ1VkxWWmJDVHltdFdlN0Jm?oc=5)
-
-`Wed, 01 Jul 2026 14:50:14 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi6AFBVV95cUxPTmZ1Rnd2cHBPUzRWLTRhRVdMOHNzcy1yLUFhalk5Zmw3WHhXclJiT014ZTluRWVXUFZMd0NxdzBFTkZuSEFZMTg4cmJqSU5GckN2QmlDaDloV2dBb1MxYkh1ZWduMTVjblUxbUtjVGNyaV9yZ1NYQ1A3Z1h1YnJyMTV5bnNBTF9uREZzR1lMMWx6LXRWSHZoSi0wV3A2ODRsUVZYZVB3UktkU052V29HWGMtWUV3ek12SW0teU5WSHpJNGRIZ3kwdU9GNnNMN0RnbENZd2NZcUJ1VkxWWmJDVHltdFdlN0Jm?oc=5" target="_blank">« La productivité croît à un rythme trop faible » : pourquoi la France reste à la traîne de l'Europe</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
