@@ -1,7 +1,7 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Fri, 31 Jul 2026 18:13:56 +0000`
-> 74 articles (30 derniers jours)
+> Derniere mise a jour : `Sat, 01 Aug 2026 10:43:06 +0000`
+> 73 articles (30 derniers jours)
 
 ---
 
@@ -586,13 +586,5 @@
 `Thu, 02 Jul 2026 14:32:09 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi7gFBVV95cUxNV0tEeV9XZTBKckdfRnZIdG5sRF9qbDNzMU1hQ2w5M3ZMQnRvanE4STJQU0k0TnhhLS1MR3lDUEtldVAyNzNWbVl6d3Uwd1dzRnl5bm1XdUs1RzdrR0dqbzA3cXZCTEZpZnc0UmFCaDdxaGd6cTJvUGJSMG9paGdfZGhaMUdHa3dzcXVDSE5EdGI2cVF4Ui1NdG8zcXhaLWUtQVB4b1NLY3VLZVhHMW14WTM5YXBsTjd1NXBJYjE4MVFRUjlQTGlPZDlHLVJPVmh1T1hZZmNsZVhxUFdiYmNFdmlnS3Jrdy11bHk4YmVB?oc=5" target="_blank">Climat : les émissions de CO2 importées, la face cachée du bilan carbone de la France enfin dévoilée</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [A Aix-en-Provence, des rencontres économiques dans l'ombre de la présidentielle - Les Echos](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOLUc0TlFNaG1LdV96a2FNNUpkRzBzU0lMNUZacTZQckc0VkNvSUh3dmpHLUFvQjNOT1MtMzRXWGYwVDN4MnhPRjJDU2h1UEJVNzhmZ3UxQ204bW45VUlqZ3huTEd1d09oTHg2UDVpRzdjYXRTX25qNEwxSFFXQ0NDUnFqTjJvOEprRXN6eHY5TW96b25RUU9adGRHcEloODZQNG1tUjRVdTFTLWxSWDN5ZEl3RmRtR29SQlFlLWRPUi13dlBMWno0YjRxZDBrakZuYnlR?oc=5)
-
-`Thu, 02 Jul 2026 05:10:09 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi0wFBVV95cUxOLUc0TlFNaG1LdV96a2FNNUpkRzBzU0lMNUZacTZQckc0VkNvSUh3dmpHLUFvQjNOT1MtMzRXWGYwVDN4MnhPRjJDU2h1UEJVNzhmZ3UxQ204bW45VUlqZ3huTEd1d09oTHg2UDVpRzdjYXRTX25qNEwxSFFXQ0NDUnFqTjJvOEprRXN6eHY5TW96b25RUU9adGRHcEloODZQNG1tUjRVdTFTLWxSWDN5ZEl3RmRtR29SQlFlLWRPUi13dlBMWno0YjRxZDBrakZuYnlR?oc=5" target="_blank">A Aix-en-Provence, des rencontres économiques dans l'ombre de la présidentielle</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
