@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Mon, 03 Aug 2026 08:53:17 +0000`
-> 62 articles (30 derniers jours)
+> Derniere mise a jour : `Mon, 03 Aug 2026 12:30:30 +0000`
+> 63 articles (30 derniers jours)
+
+---
+
+### [La France durcit son contrôle sur les investissements étrangers - Les Echos](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOTU4ekIyRG1LQ1liS1lzWm9QVFh1d3FIWHlUUjdHLXlnZ0doNkRZY3owOHdnMEFuSnZMUjlWYkp0QTdhOVpVVlpXT1pxaW9GRklKc0xKbWxCVWo4ejMyNGxCRjBvajJsYmY3ckRaSGxOajV4a3k0MEc5WWEzR1VSbjJrcmhnZHI5eVVoNUhlTmswMjl1TjdCLVhWU0lhUnBjczczLTkxUUxoOWRqem91N1JEVzQ1QUowZUxaTFhNZXI?oc=5)
+
+`Mon, 03 Aug 2026 09:15:41 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOTU4ekIyRG1LQ1liS1lzWm9QVFh1d3FIWHlUUjdHLXlnZ0doNkRZY3owOHdnMEFuSnZMUjlWYkp0QTdhOVpVVlpXT1pxaW9GRklKc0xKbWxCVWo4ejMyNGxCRjBvajJsYmY3ckRaSGxOajV4a3k0MEc5WWEzR1VSbjJrcmhnZHI5eVVoNUhlTmswMjl1TjdCLVhWU0lhUnBjczczLTkxUUxoOWRqem91N1JEVzQ1QUowZUxaTFhNZXI?oc=5" target="_blank">La France durcit son contrôle sur les investissements étrangers</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
