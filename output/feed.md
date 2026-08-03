@@ -1,7 +1,7 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Sun, 02 Aug 2026 10:43:00 +0000`
-> 65 articles (30 derniers jours)
+> Derniere mise a jour : `Mon, 03 Aug 2026 08:53:17 +0000`
+> 62 articles (30 derniers jours)
 
 ---
 
@@ -498,29 +498,5 @@
 `Sat, 04 Jul 2026 14:00:41 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZmF0T1MwRndnalliN3ZkSll1SDN3czQwSXQtSjNDaUFWWVJrb0Y1T1pCRWJOVmFyRUV1NDVjeVNTaXRaUDhnNVBaSjJyaGw4SnhKQVFxSUJUS241cXhxemdWaXlEc2hXd2ZDaGJhWlhYY1pvSVFkMFptQkt4bnFMcnNUWFlQcHZOYkRqWW05LWczcHBaMG1IdjdlMVN5aU5rWW5FcDloTnFQcHI4R1FPVElEbmk4NmI1dVpVOWFWWGVNM21zOGd2UlVoNWZVQTNpeTQ5dkFpaktHVUFzY2dUWlNiSjMzcE0?oc=5" target="_blank">« Il va falloir du patriotisme » : aux rencontres d'Aix, la dette et le budget dans toutes les têtes</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [L'IA chez les fonctionnaires : des usages foisonnants mais largement incontrôlés - Les Echos](https://news.google.com/rss/articles/CBMizwFBVV95cUxOSm9NenZfYVNFMjkxcGZWRUVlaXdFVHNpNTFLZTg4cWF5N3QwSGZHTlRPcFZUTklVU01pcWs3WW4yN05OQVhFUnYtVGdpT25nMVhnTUZqcjMwQk9fSkVEWEZrbDkyMG5oTzA5elRHNFhGODFYdDZBem5FRWF3Sk5JZFpxZ1MxYk5DNFE4SjZpYkVPdF90d0pfZnJ6NUN0NGNVakltWUdrOTV6M0hyLTZNcmlYM0tpdzNmVFhJaEtYelNZTmNPR1hrQzhTY3VLM28?oc=5)
-
-`Fri, 03 Jul 2026 16:19:16 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMizwFBVV95cUxOSm9NenZfYVNFMjkxcGZWRUVlaXdFVHNpNTFLZTg4cWF5N3QwSGZHTlRPcFZUTklVU01pcWs3WW4yN05OQVhFUnYtVGdpT25nMVhnTUZqcjMwQk9fSkVEWEZrbDkyMG5oTzA5elRHNFhGODFYdDZBem5FRWF3Sk5JZFpxZ1MxYk5DNFE4SjZpYkVPdF90d0pfZnJ6NUN0NGNVakltWUdrOTV6M0hyLTZNcmlYM0tpdzNmVFhJaEtYelNZTmNPR1hrQzhTY3VLM28?oc=5" target="_blank">L'IA chez les fonctionnaires : des usages foisonnants mais largement incontrôlés</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Coût du travail : quand la France reperd une partie du terrain gagné sur l'Allemagne - Les Echos](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVm1rb01pdXZucjZiUUtSZEptZVFEdlBDY2JyUnhwd0g3OUxiVHNyRnJWdDJFVjRPUnJsZUJjSVU5MUZrMGhTZUYwcnAxLWZLSG1fZURsc1lCd2w2MkdwQlFhRTVfeEVPWjUtWnRqaTUzWldhRFVGS2tYSlRxc0NHSnM5eGVDYXFxNnpFMDlqcHZpRXIzejlGRkJ3dmNoVk9tdk1kc3BCZ3l5Y3NWay1CX1ZXanhFQUdIMGQyRXdCMVByY1ZBb01DaDZyVDJDOElHTUZDZy1YMHY?oc=5)
-
-`Fri, 03 Jul 2026 17:47:52 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVm1rb01pdXZucjZiUUtSZEptZVFEdlBDY2JyUnhwd0g3OUxiVHNyRnJWdDJFVjRPUnJsZUJjSVU5MUZrMGhTZUYwcnAxLWZLSG1fZURsc1lCd2w2MkdwQlFhRTVfeEVPWjUtWnRqaTUzWldhRFVGS2tYSlRxc0NHSnM5eGVDYXFxNnpFMDlqcHZpRXIzejlGRkJ3dmNoVk9tdk1kc3BCZ3l5Y3NWay1CX1ZXanhFQUdIMGQyRXdCMVByY1ZBb01DaDZyVDJDOElHTUZDZy1YMHY?oc=5" target="_blank">Coût du travail : quand la France reperd une partie du terrain gagné sur l'Allemagne</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Déficit : Bercy dit accueillir « positivement » les idées du Medef - Les Echos](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTTBFRDRBUDY2a29tN1RjVmo3bWpmMXB1RGtHcXl6cTI3c3A4dVZIOGY0TTV6TGxFbnFlZnNaZGNZSFNZckNsUkppbWVDRktyTGxwUXpXSzVBT1laclZwMTFiTi1LclI4VFkyRlN4NXFtRUZ4aHA0aHNFQUZ2TUxXY3M4Uk5DMGpHV0lyM3MxUEFnek9FNDFBaXdYRmZsWEEtQjNjQWtNUGpuQ0U2d01KNWNITDE1eDhKZjFLZXJLX0wwSTA?oc=5)
-
-`Fri, 03 Jul 2026 12:51:26 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTTBFRDRBUDY2a29tN1RjVmo3bWpmMXB1RGtHcXl6cTI3c3A4dVZIOGY0TTV6TGxFbnFlZnNaZGNZSFNZckNsUkppbWVDRktyTGxwUXpXSzVBT1laclZwMTFiTi1LclI4VFkyRlN4NXFtRUZ4aHA0aHNFQUZ2TUxXY3M4Uk5DMGpHV0lyM3MxUEFnek9FNDFBaXdYRmZsWEEtQjNjQWtNUGpuQ0U2d01KNWNITDE1eDhKZjFLZXJLX0wwSTA?oc=5" target="_blank">Déficit : Bercy dit accueillir « positivement » les idées du Medef</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
