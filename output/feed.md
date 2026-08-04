@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Mon, 03 Aug 2026 18:42:05 +0000`
-> 63 articles (30 derniers jours)
+> Derniere mise a jour : `Tue, 04 Aug 2026 08:11:22 +0000`
+> 64 articles (30 derniers jours)
+
+---
+
+### [Budget 2027 : pourquoi l'« ﻿année blanche » revient dans le débat - Les Echos](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSF9NWlhsS2U0SmVacXM4allwWEdaU0pvdlZibG04MWlYR0VlSlVGZ2hkVERqQVRRaG1MOWY4b09zTURQNzdYaE16RTdidm9XU0FEOEF5NTNNZVk4c2U5OHZnbllLWWtzUVRnenF2b1dXZjlSR2pRbzlWemZ6SVFoVnUyQzYzdGNGSG9NeTB5ZDNYdDd6SjEyUHNTZ0lWNGM3WGlobEZLNzZyTGJrMk5HRWFRZzdaQnFuRFJPMi1aUEg?oc=5)
+
+`Tue, 04 Aug 2026 04:15:08 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSF9NWlhsS2U0SmVacXM4allwWEdaU0pvdlZibG04MWlYR0VlSlVGZ2hkVERqQVRRaG1MOWY4b09zTURQNzdYaE16RTdidm9XU0FEOEF5NTNNZVk4c2U5OHZnbllLWWtzUVRnenF2b1dXZjlSR2pRbzlWemZ6SVFoVnUyQzYzdGNGSG9NeTB5ZDNYdDd6SjEyUHNTZ0lWNGM3WGlobEZLNzZyTGJrMk5HRWFRZzdaQnFuRFJPMi1aUEg?oc=5" target="_blank">Budget 2027 : pourquoi l'« ﻿année blanche » revient dans le débat</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
