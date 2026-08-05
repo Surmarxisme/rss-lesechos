@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Wed, 05 Aug 2026 08:09:45 +0000`
-> 67 articles (30 derniers jours)
+> Derniere mise a jour : `Wed, 05 Aug 2026 11:24:59 +0000`
+> 68 articles (30 derniers jours)
+
+---
+
+### [L'activité industrielle française s'essouffle de façon inattendue - Les Echos](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVnkzR29XNkRDTFVPLWI0ZlE1eGk4TkNVRkxXcE9JemF0TlI1WWFNaXR0d284VGI1cDA4SzZnaG5SR2dSRlJ1ZnFHb0hiaWgwc0JhYlIwaXVud05WT1RyelB5SmlxbThzeW1EcHhlZU8xZlpTRmV4V3dNOXFXSm1mdFBONVI0dnZBeWdzSVIyVHN2UG1xUFM5c2pFODFxeDJfbWZad3ktTkVlSTVCYTVIWl8wYTByUnZ5Qzk2QlNnZTg?oc=5)
+
+`Wed, 05 Aug 2026 09:58:19 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVnkzR29XNkRDTFVPLWI0ZlE1eGk4TkNVRkxXcE9JemF0TlI1WWFNaXR0d284VGI1cDA4SzZnaG5SR2dSRlJ1ZnFHb0hiaWgwc0JhYlIwaXVud05WT1RyelB5SmlxbThzeW1EcHhlZU8xZlpTRmV4V3dNOXFXSm1mdFBONVI0dnZBeWdzSVIyVHN2UG1xUFM5c2pFODFxeDJfbWZad3ktTkVlSTVCYTVIWl8wYTByUnZ5Qzk2QlNnZTg?oc=5" target="_blank">L'activité industrielle française s'essouffle de façon inattendue</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
