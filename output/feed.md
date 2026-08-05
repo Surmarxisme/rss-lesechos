@@ -1,7 +1,7 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Wed, 05 Aug 2026 13:46:52 +0000`
-> 68 articles (30 derniers jours)
+> Derniere mise a jour : `Wed, 05 Aug 2026 18:13:55 +0000`
+> 66 articles (30 derniers jours)
 
 ---
 
@@ -530,21 +530,5 @@
 `Tue, 07 Jul 2026 08:37:41 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxNZks1VFE2TEl6RHdIMExRTzNUcjJidnV3NlVOdUktZzhpNWEzWnhlenJvb3V3djN2a05Zem9LN2s2dG5ZOHY2eTUxeTQxeVhhTVdUTUh0Tl9vTGdxcXR5WWRjb3NZXzJkUkR6VWE1MjJrU0o3WWwzMlN4WVdhTTRXMnVYb2toTGhIc3ZReDc3OFVIckl1d3oyRWQ4UWVFaXVWbjdCUw?oc=5" target="_blank">Mayotte : l'Insee tranche sur la population réelle</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Budget : le gouvernement au défi de contenir le déficit à 5 % du PIB cette année - Les Echos](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQM056SmtVWnhsUl90aEotZFc2WGZDMGdhSFlrUENTdDN3TEUzYWUwUHdwelJSNkZPbm1nOFMtQzJrYkVUZWw4dW1pekZBT2hnbE5qbUFsQnUtYmRsTjNjY3YyRnl4ZnhERFJOb0Q4NG5XaS13YTFIVUk1X3MxU3FySTlyV2tXQlZ3ZlNsVnJ3cVZqdXV3NTFMaEQ1U0J2TFFRUTJUOFl6RTlwclp6WjE3dlNpcHdnMEZXNG5VMUlDSWlXRVUwdVR6WnpLM0Qxb3hDSFVBU3JHWmU?oc=5)
-
-`Mon, 06 Jul 2026 16:05:15 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi2AFBVV95cUxQM056SmtVWnhsUl90aEotZFc2WGZDMGdhSFlrUENTdDN3TEUzYWUwUHdwelJSNkZPbm1nOFMtQzJrYkVUZWw4dW1pekZBT2hnbE5qbUFsQnUtYmRsTjNjY3YyRnl4ZnhERFJOb0Q4NG5XaS13YTFIVUk1X3MxU3FySTlyV2tXQlZ3ZlNsVnJ3cVZqdXV3NTFMaEQ1U0J2TFFRUTJUOFl6RTlwclp6WjE3dlNpcHdnMEZXNG5VMUlDSWlXRVUwdVR6WnpLM0Qxb3hDSFVBU3JHWmU?oc=5" target="_blank">Budget : le gouvernement au défi de contenir le déficit à 5 % du PIB cette année</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Démographie : en France, la baisse des naissances se poursuit - Les Echos](https://news.google.com/rss/articles/CBMiswFBVV95cUxQYTNNZFRkZENqeXEwVHRYMUN3ODA0djlXS3Zob0d5VUhuV1E4d29kRFBmbXYtbjhDbTNTVmpOTUZUQmNxSVo3NHNVXzM1cE9wRFZVNENMNm8xNUI4ampVOG9ZbE9VS3JmNHZoRWk1N2JjUEJxRDdiMGJyUUw1TkRVaHJRRW5DUWlBOEEyLWMzSXVRdEhsb0RsSF9IWVEtUWdKRVZBcjJLVGpRX0JNLU1RZzEyMA?oc=5)
-
-`Mon, 06 Jul 2026 15:00:27 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxQYTNNZFRkZENqeXEwVHRYMUN3ODA0djlXS3Zob0d5VUhuV1E4d29kRFBmbXYtbjhDbTNTVmpOTUZUQmNxSVo3NHNVXzM1cE9wRFZVNENMNm8xNUI4ampVOG9ZbE9VS3JmNHZoRWk1N2JjUEJxRDdiMGJyUUw1TkRVaHJRRW5DUWlBOEEyLWMzSXVRdEhsb0RsSF9IWVEtUWdKRVZBcjJLVGpRX0JNLU1RZzEyMA?oc=5" target="_blank">Démographie : en France, la baisse des naissances se poursuit</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
