@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Tue, 04 Aug 2026 18:20:57 +0000`
-> 66 articles (30 derniers jours)
+> Derniere mise a jour : `Wed, 05 Aug 2026 08:09:45 +0000`
+> 67 articles (30 derniers jours)
+
+---
+
+### [Incendies : l'Etat met la main à la poche pour l'indemnisation de l'activité partielle - Les Echos](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUVhCUHV4bFRzX0MwMEF6aDdBaUxaSjZsTDBnY1NYemoyS3JGUjlMNklMSjZFd1NiU1pHeXk1d3pSVERkX1M1d2lOWXZJV1JLSndyQVMySy0za0oybjdwNnFYWWRqM0FWT1NGWmtpQmtxaURhVWRrdVM0V1dKb0ZRTnNMaTVmWnIyNDNBQWV1WnEzblVKYTVVekNXbkhxT0xfMFFoS2ExQWZyVGJlczZiYkI2MUxsQW5VNllNb0Vyb1pzT0RvM0FFb2IxVW5FQ3NlYkJKT2lkb0xla2VSb3JR?oc=5)
+
+`Tue, 04 Aug 2026 20:19:21 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUVhCUHV4bFRzX0MwMEF6aDdBaUxaSjZsTDBnY1NYemoyS3JGUjlMNklMSjZFd1NiU1pHeXk1d3pSVERkX1M1d2lOWXZJV1JLSndyQVMySy0za0oybjdwNnFYWWRqM0FWT1NGWmtpQmtxaURhVWRrdVM0V1dKb0ZRTnNMaTVmWnIyNDNBQWV1WnEzblVKYTVVekNXbkhxT0xfMFFoS2ExQWZyVGJlczZiYkI2MUxsQW5VNllNb0Vyb1pzT0RvM0FFb2IxVW5FQ3NlYkJKT2lkb0xla2VSb3JR?oc=5" target="_blank">Incendies : l'Etat met la main à la poche pour l'indemnisation de l'activité partielle</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
