@@ -1,7 +1,23 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Wed, 05 Aug 2026 18:13:55 +0000`
-> 66 articles (30 derniers jours)
+> Derniere mise a jour : `Thu, 06 Aug 2026 08:08:41 +0000`
+> 68 articles (30 derniers jours)
+
+---
+
+### [Le Conseil constitutionnel valide sans réserve la hausse du budget des Armées - Les Echos](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOU0lKbXdNV1JoLXBpLWVqZW1Bbk0tV1pyVjdPUGRTS0sxUWpEdHB1aUFGQ1dHSTJwVllsRS1RWFd6MEpqYURocTlqbWxhemtQRVFDbTZTXzhQeHpLMFJFSHZrejFEZERMWnhlcG14UUY3UlVBdnh5S2ZEVFd0Q1R4djUxaUZTd0tmNDM3YjEzVEJsLUtSRkFOQlZ0LVljeEdzWUtNejhzOXJ5WnFpMDByd2RzX3FFZUJOSVlId3JGQldaOC1KcjJ3MkJFbElHZWFWbzFuNzZUMUFzQQ?oc=5)
+
+`Thu, 06 Aug 2026 08:00:29 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi2gFBVV95cUxOU0lKbXdNV1JoLXBpLWVqZW1Bbk0tV1pyVjdPUGRTS0sxUWpEdHB1aUFGQ1dHSTJwVllsRS1RWFd6MEpqYURocTlqbWxhemtQRVFDbTZTXzhQeHpLMFJFSHZrejFEZERMWnhlcG14UUY3UlVBdnh5S2ZEVFd0Q1R4djUxaUZTd0tmNDM3YjEzVEJsLUtSRkFOQlZ0LVljeEdzWUtNejhzOXJ5WnFpMDByd2RzX3FFZUJOSVlId3JGQldaOC1KcjJ3MkJFbElHZWFWbzFuNzZUMUFzQQ?oc=5" target="_blank">Le Conseil constitutionnel valide sans réserve la hausse du budget des Armées</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Budget 2027: les CCI à nouveau sous pression - Les Echos](https://news.google.com/rss/articles/CBMirAFBVV95cUxNdE5XdmZDRmxGM2NYSkd4N0s4UzgyMUp1UWZIMEF0ZzVGSGFGNVBKMWVGbk9yWWQ1bFU0VVVsSUZvdU8wcG05MDFEREd1dXMzY0kwX1VNaUllSnN0UURydzBMMk12Q0x4LXlteU1wREFfSHdNRk5YUmhNcDNiR1RLa2VNMTZrQnFTMG1TVE9VMVN2c3kyZm1iV1ZHLVlmdmtON0tmYk5IQmJDN3VI?oc=5)
+
+`Thu, 06 Aug 2026 04:30:08 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxNdE5XdmZDRmxGM2NYSkd4N0s4UzgyMUp1UWZIMEF0ZzVGSGFGNVBKMWVGbk9yWWQ1bFU0VVVsSUZvdU8wcG05MDFEREd1dXMzY0kwX1VNaUllSnN0UURydzBMMk12Q0x4LXlteU1wREFfSHdNRk5YUmhNcDNiR1RLa2VNMTZrQnFTMG1TVE9VMVN2c3kyZm1iV1ZHLVlmdmtON0tmYk5IQmJDN3VI?oc=5" target="_blank">Budget 2027: les CCI à nouveau sous pression</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
