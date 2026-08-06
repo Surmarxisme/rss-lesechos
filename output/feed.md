@@ -1,7 +1,7 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Thu, 06 Aug 2026 08:08:41 +0000`
-> 68 articles (30 derniers jours)
+> Derniere mise a jour : `Thu, 06 Aug 2026 11:28:04 +0000`
+> 66 articles (30 derniers jours)
 
 ---
 
@@ -530,21 +530,5 @@
 `Tue, 07 Jul 2026 14:12:30 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUWhWb3NuNEYxRmZiRjhfNXVhYXNOQ3FGQmswa2JYb1NmSm1sdjhFSDRxNGRpbTVmYll2cm1pN1kyckVrYm1BeUVtZG1TZkJ3eGN0bW5rNE9mLV9sYTZuZXhSYXpId3hBaGJ1WnNpRFdvUzNuazE2VkJCemxKNG5hd1J1QVRic2dUa1pBVXotVU9JQkJtOGgzY1dyZ1NoZGhMY1ZlbHpnWWszdDFHYURZOU9fZXFPaGhyaU9QcWhRNFUzd28?oc=5" target="_blank">Concilier carrière et famille reste plus facile pour les femmes cadres</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Budget : le gouvernement n'attend plus que 0,7 % de croissance en 2026 - Les Echos](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcEFOQVAydFJBT1hGME9TbWUzNGZDYmNHMi1lcm9xQjBac3NLb3hDM0cyY3lTeklQdF9DNF9hSG95eUp3QkZYb1pCRDlpUjVodXV1Vm45OEtfRjRJdGlKNmVpWGhZd0lXUGxsajl4bnR2Vk1uZGJqdlBlcU52clhSWmJSOU5Canp2dVhYald6THAyWmZuNEFxTFpLUEkzS2hJemRfMnY0cXpXV0IzdlpuNTV3Z2tDdDZfTGFxOGVtSFMzb0JIdnpiMg?oc=5)
-
-`Tue, 07 Jul 2026 10:09:22 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcEFOQVAydFJBT1hGME9TbWUzNGZDYmNHMi1lcm9xQjBac3NLb3hDM0cyY3lTeklQdF9DNF9hSG95eUp3QkZYb1pCRDlpUjVodXV1Vm45OEtfRjRJdGlKNmVpWGhZd0lXUGxsajl4bnR2Vk1uZGJqdlBlcU52clhSWmJSOU5Canp2dVhYald6THAyWmZuNEFxTFpLUEkzS2hJemRfMnY0cXpXV0IzdlpuNTV3Z2tDdDZfTGFxOGVtSFMzb0JIdnpiMg?oc=5" target="_blank">Budget : le gouvernement n'attend plus que 0,7 % de croissance en 2026</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Mayotte : l'Insee tranche sur la population réelle - Les Echos](https://news.google.com/rss/articles/CBMipAFBVV95cUxNZks1VFE2TEl6RHdIMExRTzNUcjJidnV3NlVOdUktZzhpNWEzWnhlenJvb3V3djN2a05Zem9LN2s2dG5ZOHY2eTUxeTQxeVhhTVdUTUh0Tl9vTGdxcXR5WWRjb3NZXzJkUkR6VWE1MjJrU0o3WWwzMlN4WVdhTTRXMnVYb2toTGhIc3ZReDc3OFVIckl1d3oyRWQ4UWVFaXVWbjdCUw?oc=5)
-
-`Tue, 07 Jul 2026 08:37:41 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxNZks1VFE2TEl6RHdIMExRTzNUcjJidnV3NlVOdUktZzhpNWEzWnhlenJvb3V3djN2a05Zem9LN2s2dG5ZOHY2eTUxeTQxeVhhTVdUTUh0Tl9vTGdxcXR5WWRjb3NZXzJkUkR6VWE1MjJrU0o3WWwzMlN4WVdhTTRXMnVYb2toTGhIc3ZReDc3OFVIckl1d3oyRWQ4UWVFaXVWbjdCUw?oc=5" target="_blank">Mayotte : l'Insee tranche sur la population réelle</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
