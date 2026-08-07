@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Fri, 07 Aug 2026 10:05:00 +0000`
-> 66 articles (30 derniers jours)
+> Derniere mise a jour : `Fri, 07 Aug 2026 12:43:02 +0000`
+> 67 articles (30 derniers jours)
+
+---
+
+### [Sans emploi, ni formation, ni études : qui sont les NEET, ces jeunes de plus en plus nombreux en France - Les Echos](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQc0tMOGpTc19OZldxRjJUTTZNRzloUk1WdDQzVm1ZLTlaTU5sT2h0VHdlc0tXMl9TbE1peXY2Nm1wQXFmekRLeW0yYlJlbE9pdmlkanhhS04teEpNNDFhSEkyZTFucEVhTEJYaXFBNjdPT1hkX1FEZnVEVlJBRjBJSHBfYkFsV0hTNGl6NVdaa2wxRnZ0ZnRHMWdpZnlPWS1ZVXZlWjBMaDZDQjJrczRKR2RHTWhicmVkV1F6QzIzUktPREFGS0doLXM3QjB0TUpVbmJ6Um1MWnFjbm5aejY1eDMtaVgyRlJM?oc=5)
+
+`Fri, 07 Aug 2026 10:18:23 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi6AFBVV95cUxQc0tMOGpTc19OZldxRjJUTTZNRzloUk1WdDQzVm1ZLTlaTU5sT2h0VHdlc0tXMl9TbE1peXY2Nm1wQXFmekRLeW0yYlJlbE9pdmlkanhhS04teEpNNDFhSEkyZTFucEVhTEJYaXFBNjdPT1hkX1FEZnVEVlJBRjBJSHBfYkFsV0hTNGl6NVdaa2wxRnZ0ZnRHMWdpZnlPWS1ZVXZlWjBMaDZDQjJrczRKR2RHTWhicmVkV1F6QzIzUktPREFGS0doLXM3QjB0TUpVbmJ6Um1MWnFjbm5aejY1eDMtaVgyRlJM?oc=5" target="_blank">Sans emploi, ni formation, ni études : qui sont les NEET, ces jeunes de plus en plus nombreux en France</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
