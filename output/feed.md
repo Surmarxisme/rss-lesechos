@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Fri, 07 Aug 2026 06:55:09 +0000`
+> Derniere mise a jour : `Fri, 07 Aug 2026 10:05:00 +0000`
 > 66 articles (30 derniers jours)
+
+---
+
+### [La guerre au Moyen-Orient pèse sur le déficit commercial de la France - Les Echos](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOek43YWRraEtaaXczX1Etd0tHRkVxR2JvaUJJRjFSV1F2R09yRGNRMkpaY0ZDSEhUWkpJU2Y5MmIwRGRZejVaOEliVmZNMExaUDVJUmgzQkE3Q1hDaC1GX3pySGMxaGIxZG1RZVNlM0d3THlPRFZyTm1MTGl1MVA3eUU0N3FobmFfSW1MZE5yVVZHQTB6NTYyQy1ZOGItN3BXd3R5NEl5dEhtREQ2akx6RXh4MmdLYlpBZUNXbndHSm5QQmZOZ042WA?oc=5)
+
+`Fri, 07 Aug 2026 08:08:14 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxOek43YWRraEtaaXczX1Etd0tHRkVxR2JvaUJJRjFSV1F2R09yRGNRMkpaY0ZDSEhUWkpJU2Y5MmIwRGRZejVaOEliVmZNMExaUDVJUmgzQkE3Q1hDaC1GX3pySGMxaGIxZG1RZVNlM0d3THlPRFZyTm1MTGl1MVA3eUU0N3FobmFfSW1MZE5yVVZHQTB6NTYyQy1ZOGItN3BXd3R5NEl5dEhtREQ2akx6RXh4MmdLYlpBZUNXbndHSm5QQmZOZ042WA?oc=5" target="_blank">La guerre au Moyen-Orient pèse sur le déficit commercial de la France</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -522,13 +530,5 @@
 `Wed, 08 Jul 2026 13:25:34 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRFZxbVJlMU5oTzhNQl9nR1Q1WVBjTEppV1cwdG9XNEgxY0lvdG16VVNSTnJOV1VtT0YwRVhrYUJrbl9ZQ3liOFpaWkRiaG1KRXpKZzVEbmstZmt0VzVCSW1JeDctemVFQnByTmh0SGFJaVRKVFlCUzRNeXE5U2g3MTlraE9QdU9adjRvbE9IanVQSFZlcVFZUTZ5OVctdUFEUTVXMjR5aS1feElNMTZJVmw3bkNqSFNPei1PdDdwWGhwVVctdzRHbUdaaFRYUVI5OS1ZYkFaQTlhZw?oc=5" target="_blank">Commerce extérieur : ces nouveaux chiffres qui douchent les espoirs tricolores</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [« A chaque fois, il faut retaper du poing sur la table » : les entreprises voient rouge sur les retards de paiement des hôpitaux - Les Echos](https://news.google.com/rss/articles/CBMihwJBVV95cUxOM1hZTUFRbjZaeDhlVTNUQ3M5UUZsUkxlTVBaUzJEWk1uM1dsTmJoaS1JTHFiTWdpSWh2Z05SZUk3R3VEYzVNUXY2anNnOHZsOUlPdjFjSlprUUNJYm9DaG9nbmNnUXVNN3hRSFNueXpCRndPM0ZrWEYtM3JUX3dSQnJFemZLY05tWUhIR3h6WUxwMmExTlN1TndOMk9SUkNPQlJPWjlEMndjR25aR081STNhWEdpY1I5SkVOdUNzaFV1cFl3eGVBRUxJd09xTVJCWWdGQk96Qk1Ra1BqOU9HcDJzVnNkSlR0NFJ6XzNhV19PeEJoWWxOanVpS1FUZldVak05aUw2RQ?oc=5)
-
-`Wed, 08 Jul 2026 09:05:36 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMihwJBVV95cUxOM1hZTUFRbjZaeDhlVTNUQ3M5UUZsUkxlTVBaUzJEWk1uM1dsTmJoaS1JTHFiTWdpSWh2Z05SZUk3R3VEYzVNUXY2anNnOHZsOUlPdjFjSlprUUNJYm9DaG9nbmNnUXVNN3hRSFNueXpCRndPM0ZrWEYtM3JUX3dSQnJFemZLY05tWUhIR3h6WUxwMmExTlN1TndOMk9SUkNPQlJPWjlEMndjR25aR081STNhWEdpY1I5SkVOdUNzaFV1cFl3eGVBRUxJd09xTVJCWWdGQk96Qk1Ra1BqOU9HcDJzVnNkSlR0NFJ6XzNhV19PeEJoWWxOanVpS1FUZldVak05aUw2RQ?oc=5" target="_blank">« A chaque fois, il faut retaper du poing sur la table » : les entreprises voient rouge sur les retards de paiement des hôpitaux</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
