@@ -1,7 +1,23 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Thu, 06 Aug 2026 13:44:37 +0000`
+> Derniere mise a jour : `Fri, 07 Aug 2026 06:55:09 +0000`
 > 66 articles (30 derniers jours)
+
+---
+
+### [Le taux de chômage continue de grimper en France - Les Echos](https://news.google.com/rss/articles/CBMipgFBVV95cUxNOWV2NGprekxLYUJjRkpjdlFRYktxNmxWb3R1S3UxdXdqZDVtcmRlUzRjdUVXdWppZTBLOEUycWF2dzIzc1JrdXhfMkRLeVBvS3BjcEVMNWZubVVPUlBJUUV2a3hiMzNPcXk5QnBYdU9nWmROa3ZKLWd6QlE5WW9ZX2FCS3BHbFNrY1duaDZYOEhwV0FndmgzdW1aajBkYTdIU2NDTzB3?oc=5)
+
+`Fri, 07 Aug 2026 06:01:04 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMipgFBVV95cUxNOWV2NGprekxLYUJjRkpjdlFRYktxNmxWb3R1S3UxdXdqZDVtcmRlUzRjdUVXdWppZTBLOEUycWF2dzIzc1JrdXhfMkRLeVBvS3BjcEVMNWZubVVPUlBJUUV2a3hiMzNPcXk5QnBYdU9nWmROa3ZKLWd6QlE5WW9ZX2FCS3BHbFNrY1duaDZYOEhwV0FndmgzdW1aajBkYTdIU2NDTzB3?oc=5" target="_blank">Le taux de chômage continue de grimper en France</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Retraites : ce qui va changer pour les mères de famille - Les Echos](https://news.google.com/rss/articles/CBMirAFBVV95cUxQQ2hDWExoX2tWcHM4ZmdJbTFuSFNSVkJsa0xFNWVwQm95ZXp0blI2R1FyMUpYd2NVa0JSbkZIWkN2eWUyeFZXdGh4UTBSNjlhcHdENmYzMHZnSWp3dm9hWWNFLVBYLTdKaUJ4c0g2QmYyV2stVy1QdVRwNGJoSkxZZG1tdW9CeUgzU21WVThwQ0UzNXNNWjBMZ1dDRVRFTmdHcXRIei1ycjBsNzNN?oc=5)
+
+`Thu, 06 Aug 2026 15:08:56 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxQQ2hDWExoX2tWcHM4ZmdJbTFuSFNSVkJsa0xFNWVwQm95ZXp0blI2R1FyMUpYd2NVa0JSbkZIWkN2eWUyeFZXdGh4UTBSNjlhcHdENmYzMHZnSWp3dm9hWWNFLVBYLTdKaUJ4c0g2QmYyV2stVy1QdVRwNGJoSkxZZG1tdW9CeUgzU21WVThwQ0UzNXNNWjBMZ1dDRVRFTmdHcXRIei1ycjBsNzNN?oc=5" target="_blank">Retraites : ce qui va changer pour les mères de famille</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -514,21 +530,5 @@
 `Wed, 08 Jul 2026 09:05:36 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMihwJBVV95cUxOM1hZTUFRbjZaeDhlVTNUQ3M5UUZsUkxlTVBaUzJEWk1uM1dsTmJoaS1JTHFiTWdpSWh2Z05SZUk3R3VEYzVNUXY2anNnOHZsOUlPdjFjSlprUUNJYm9DaG9nbmNnUXVNN3hRSFNueXpCRndPM0ZrWEYtM3JUX3dSQnJFemZLY05tWUhIR3h6WUxwMmExTlN1TndOMk9SUkNPQlJPWjlEMndjR25aR081STNhWEdpY1I5SkVOdUNzaFV1cFl3eGVBRUxJd09xTVJCWWdGQk96Qk1Ra1BqOU9HcDJzVnNkSlR0NFJ6XzNhV19PeEJoWWxOanVpS1FUZldVak05aUw2RQ?oc=5" target="_blank">« A chaque fois, il faut retaper du poing sur la table » : les entreprises voient rouge sur les retards de paiement des hôpitaux</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Budget 2027 : la menace d'une nouvelle ponction de l'Etat plane sur l'assurance-chômage - Les Echos](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSXJ2aHNpSFJEd1J0cVY4elZMVlR0R0JBTjVleGQ0Mk5rUnN4bENvdnU1WU9aaXY5ZzFENmdJTDFtVmVwbWZZOTBuSjhIeWVvd0lJLWRoRUFMRUd2ejVBajVyTGhaNlF1eTBRLXhaT284bG1OdFRfREtiRlpKSVJTc2tSbGwxZWZKaHBpa3ktd3FWVmQzWTREZVlYUUhtYnc2ZTlpRlZTRHhvTk1CUThNM3NaSk5PSUExMzRHdENlVEtFbGxmN1oydUVnUkVpQTFuaTI4?oc=5)
-
-`Wed, 08 Jul 2026 04:15:08 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSXJ2aHNpSFJEd1J0cVY4elZMVlR0R0JBTjVleGQ0Mk5rUnN4bENvdnU1WU9aaXY5ZzFENmdJTDFtVmVwbWZZOTBuSjhIeWVvd0lJLWRoRUFMRUd2ejVBajVyTGhaNlF1eTBRLXhaT284bG1OdFRfREtiRlpKSVJTc2tSbGwxZWZKaHBpa3ktd3FWVmQzWTREZVlYUUhtYnc2ZTlpRlZTRHhvTk1CUThNM3NaSk5PSUExMzRHdENlVEtFbGxmN1oydUVnUkVpQTFuaTI4?oc=5" target="_blank">Budget 2027 : la menace d'une nouvelle ponction de l'Etat plane sur l'assurance-chômage</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Concilier carrière et famille reste plus facile pour les femmes cadres - Les Echos](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUWhWb3NuNEYxRmZiRjhfNXVhYXNOQ3FGQmswa2JYb1NmSm1sdjhFSDRxNGRpbTVmYll2cm1pN1kyckVrYm1BeUVtZG1TZkJ3eGN0bW5rNE9mLV9sYTZuZXhSYXpId3hBaGJ1WnNpRFdvUzNuazE2VkJCemxKNG5hd1J1QVRic2dUa1pBVXotVU9JQkJtOGgzY1dyZ1NoZGhMY1ZlbHpnWWszdDFHYURZOU9fZXFPaGhyaU9QcWhRNFUzd28?oc=5)
-
-`Tue, 07 Jul 2026 14:12:30 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUWhWb3NuNEYxRmZiRjhfNXVhYXNOQ3FGQmswa2JYb1NmSm1sdjhFSDRxNGRpbTVmYll2cm1pN1kyckVrYm1BeUVtZG1TZkJ3eGN0bW5rNE9mLV9sYTZuZXhSYXpId3hBaGJ1WnNpRFdvUzNuazE2VkJCemxKNG5hd1J1QVRic2dUa1pBVXotVU9JQkJtOGgzY1dyZ1NoZGhMY1ZlbHpnWWszdDFHYURZOU9fZXFPaGhyaU9QcWhRNFUzd28?oc=5" target="_blank">Concilier carrière et famille reste plus facile pour les femmes cadres</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
