@@ -2,9 +2,9 @@
   "source": "Les Echos - Economie France",
   "source_url": "https://www.lesechos.fr/economie-france",
   "language": "fr-FR",
-  "last_fetched": "Fri, 07 Aug 2026 12:43:02 +0000",
-  "total_items": 67,
-  "new_items_this_run": 1,
+  "last_fetched": "Fri, 07 Aug 2026 17:38:26 +0000",
+  "total_items": 65,
+  "new_items_this_run": 0,
   "articles": [
     {
       "id": "CBMi6AFBVV95cUxQc0tMOGpTc19OZldxRjJUTTZNRzloUk1WdDQzVm1ZLTlaTU5sT2h0VHdlc0tXMl9TbE1peXY2Nm1wQXFmekRLeW0yYlJlbE9pdmlkanhhS04teEpNNDFhSEkyZTFucEVhTEJYaXFBNjdPT1hkX1FEZnVEVlJBRjBJSHBfYkFsV0hTNGl6NVdaa2wxRnZ0ZnRHMWdpZnlPWS1ZVXZlWjBMaDZDQjJrczRKR2RHTWhicmVkV1F6QzIzUktPREFGS0doLXM3QjB0TUpVbmJ6Um1MWnFjbm5aejY1eDMtaVgyRlJM",
@@ -590,24 +590,6 @@
       "source": "Les Echos",
       "pub_date": "Thu, 09 Jul 2026 04:25:08 GMT",
       "pub_date_iso": "2026-07-09T04:25:08+00:00"
-    },
-    {
-      "id": "CBMihgJBVV95cUxQRlZPMDhMWWJOQ3JXMDI2NS1hdGJrTWJ3RDJkbnJmYUxGdTVqQXpLSW1pck1SVzFUdUJwemZVMnF4YkI4eUhqeUJkV2d2Tmp1YnlKckFmYkRlZmZBVU9NRDVHOHhUcmpkRmxaR3Qxa0V2aGR1ekZpLWNTTTFUWFBJZnNpU0M3eGpQbkVzM2JqTVZhQndGNnl0MEtGVXI3bWJGa3ZUVXRmSVNTemhwQTJWd2tXdmZnOHVKUzRBXy1Ob0djREVYWm1zeGdTSGhPUEFGWjNGS3UzV0hUUzRsa3FKRDdJQUdHeEdubGluRDh5QXctaHYyaTNsX1FGa3Y2cC13MDVFS29B",
-      "title": "La rentrée sera-t-elle chaude dans la fonction publique ? Le gouvernement rate son rendez-vous salarial avec les syndicats - Les Echos",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMihgJBVV95cUxQRlZPMDhMWWJOQ3JXMDI2NS1hdGJrTWJ3RDJkbnJmYUxGdTVqQXpLSW1pck1SVzFUdUJwemZVMnF4YkI4eUhqeUJkV2d2Tmp1YnlKckFmYkRlZmZBVU9NRDVHOHhUcmpkRmxaR3Qxa0V2aGR1ekZpLWNTTTFUWFBJZnNpU0M3eGpQbkVzM2JqTVZhQndGNnl0MEtGVXI3bWJGa3ZUVXRmSVNTemhwQTJWd2tXdmZnOHVKUzRBXy1Ob0djREVYWm1zeGdTSGhPUEFGWjNGS3UzV0hUUzRsa3FKRDdJQUdHeEdubGluRDh5QXctaHYyaTNsX1FGa3Y2cC13MDVFS29B?oc=5\" target=\"_blank\">La rentrée sera-t-elle chaude dans la fonction publique ? Le gouvernement rate son rendez-vous salarial avec les syndicats</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Les Echos</font>",
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQRlZPMDhMWWJOQ3JXMDI2NS1hdGJrTWJ3RDJkbnJmYUxGdTVqQXpLSW1pck1SVzFUdUJwemZVMnF4YkI4eUhqeUJkV2d2Tmp1YnlKckFmYkRlZmZBVU9NRDVHOHhUcmpkRmxaR3Qxa0V2aGR1ekZpLWNTTTFUWFBJZnNpU0M3eGpQbkVzM2JqTVZhQndGNnl0MEtGVXI3bWJGa3ZUVXRmSVNTemhwQTJWd2tXdmZnOHVKUzRBXy1Ob0djREVYWm1zeGdTSGhPUEFGWjNGS3UzV0hUUzRsa3FKRDdJQUdHeEdubGluRDh5QXctaHYyaTNsX1FGa3Y2cC13MDVFS29B?oc=5",
-      "source": "Les Echos",
-      "pub_date": "Wed, 08 Jul 2026 13:37:24 GMT",
-      "pub_date_iso": "2026-07-08T13:37:24+00:00"
-    },
-    {
-      "id": "CBMi2gFBVV95cUxNRFZxbVJlMU5oTzhNQl9nR1Q1WVBjTEppV1cwdG9XNEgxY0lvdG16VVNSTnJOV1VtT0YwRVhrYUJrbl9ZQ3liOFpaWkRiaG1KRXpKZzVEbmstZmt0VzVCSW1JeDctemVFQnByTmh0SGFJaVRKVFlCUzRNeXE5U2g3MTlraE9QdU9adjRvbE9IanVQSFZlcVFZUTZ5OVctdUFEUTVXMjR5aS1feElNMTZJVmw3bkNqSFNPei1PdDdwWGhwVVctdzRHbUdaaFRYUVI5OS1ZYkFaQTlhZw",
-      "title": "Commerce extérieur : ces nouveaux chiffres qui douchent les espoirs tricolores - Les Echos",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRFZxbVJlMU5oTzhNQl9nR1Q1WVBjTEppV1cwdG9XNEgxY0lvdG16VVNSTnJOV1VtT0YwRVhrYUJrbl9ZQ3liOFpaWkRiaG1KRXpKZzVEbmstZmt0VzVCSW1JeDctemVFQnByTmh0SGFJaVRKVFlCUzRNeXE5U2g3MTlraE9QdU9adjRvbE9IanVQSFZlcVFZUTZ5OVctdUFEUTVXMjR5aS1feElNMTZJVmw3bkNqSFNPei1PdDdwWGhwVVctdzRHbUdaaFRYUVI5OS1ZYkFaQTlhZw?oc=5\" target=\"_blank\">Commerce extérieur : ces nouveaux chiffres qui douchent les espoirs tricolores</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Les Echos</font>",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRFZxbVJlMU5oTzhNQl9nR1Q1WVBjTEppV1cwdG9XNEgxY0lvdG16VVNSTnJOV1VtT0YwRVhrYUJrbl9ZQ3liOFpaWkRiaG1KRXpKZzVEbmstZmt0VzVCSW1JeDctemVFQnByTmh0SGFJaVRKVFlCUzRNeXE5U2g3MTlraE9QdU9adjRvbE9IanVQSFZlcVFZUTZ5OVctdUFEUTVXMjR5aS1feElNMTZJVmw3bkNqSFNPei1PdDdwWGhwVVctdzRHbUdaaFRYUVI5OS1ZYkFaQTlhZw?oc=5",
-      "source": "Les Echos",
-      "pub_date": "Wed, 08 Jul 2026 13:25:34 GMT",
-      "pub_date_iso": "2026-07-08T13:25:34+00:00"
     }
   ]
 }

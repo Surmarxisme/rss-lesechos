@@ -1,7 +1,7 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Fri, 07 Aug 2026 12:43:02 +0000`
-> 67 articles (30 derniers jours)
+> Derniere mise a jour : `Fri, 07 Aug 2026 17:38:26 +0000`
+> 65 articles (30 derniers jours)
 
 ---
 
@@ -522,21 +522,5 @@
 `Thu, 09 Jul 2026 04:25:08 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYkM3UkFBLS1PYi1YcG5jTjdBRTNKNExVVDJwWkNFWk1zOXFSSVFleFg4NW1vWlpadmxyOUkwTWlTV1o4Wng2YzlpeTZ6bE5GaG1CSlNOWmpab05Ca1R0a0pLa3NTWUZDbDlKUUd4bXlMejFocXdKbGdSdGN3SGtoWlVkR2JHOEpjZVRpVGMtVWhpVmRNWXBrTU14T0NFMUJyOTZJbkJRUWdnaXRFMDllQjVYNFh0WktkWWd3dVpZMU1XWEp2c080S3lZdTlYaU9OLThZ?oc=5" target="_blank">2,7 milliards de dette : quand les hôpitaux ne parviennent plus à payer leurs charges</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [La rentrée sera-t-elle chaude dans la fonction publique ? Le gouvernement rate son rendez-vous salarial avec les syndicats - Les Echos](https://news.google.com/rss/articles/CBMihgJBVV95cUxQRlZPMDhMWWJOQ3JXMDI2NS1hdGJrTWJ3RDJkbnJmYUxGdTVqQXpLSW1pck1SVzFUdUJwemZVMnF4YkI4eUhqeUJkV2d2Tmp1YnlKckFmYkRlZmZBVU9NRDVHOHhUcmpkRmxaR3Qxa0V2aGR1ekZpLWNTTTFUWFBJZnNpU0M3eGpQbkVzM2JqTVZhQndGNnl0MEtGVXI3bWJGa3ZUVXRmSVNTemhwQTJWd2tXdmZnOHVKUzRBXy1Ob0djREVYWm1zeGdTSGhPUEFGWjNGS3UzV0hUUzRsa3FKRDdJQUdHeEdubGluRDh5QXctaHYyaTNsX1FGa3Y2cC13MDVFS29B?oc=5)
-
-`Wed, 08 Jul 2026 13:37:24 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMihgJBVV95cUxQRlZPMDhMWWJOQ3JXMDI2NS1hdGJrTWJ3RDJkbnJmYUxGdTVqQXpLSW1pck1SVzFUdUJwemZVMnF4YkI4eUhqeUJkV2d2Tmp1YnlKckFmYkRlZmZBVU9NRDVHOHhUcmpkRmxaR3Qxa0V2aGR1ekZpLWNTTTFUWFBJZnNpU0M3eGpQbkVzM2JqTVZhQndGNnl0MEtGVXI3bWJGa3ZUVXRmSVNTemhwQTJWd2tXdmZnOHVKUzRBXy1Ob0djREVYWm1zeGdTSGhPUEFGWjNGS3UzV0hUUzRsa3FKRDdJQUdHeEdubGluRDh5QXctaHYyaTNsX1FGa3Y2cC13MDVFS29B?oc=5" target="_blank">La rentrée sera-t-elle chaude dans la fonction publique ? Le gouvernement rate son rendez-vous salarial avec les syndicats</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Commerce extérieur : ces nouveaux chiffres qui douchent les espoirs tricolores - Les Echos](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRFZxbVJlMU5oTzhNQl9nR1Q1WVBjTEppV1cwdG9XNEgxY0lvdG16VVNSTnJOV1VtT0YwRVhrYUJrbl9ZQ3liOFpaWkRiaG1KRXpKZzVEbmstZmt0VzVCSW1JeDctemVFQnByTmh0SGFJaVRKVFlCUzRNeXE5U2g3MTlraE9QdU9adjRvbE9IanVQSFZlcVFZUTZ5OVctdUFEUTVXMjR5aS1feElNMTZJVmw3bkNqSFNPei1PdDdwWGhwVVctdzRHbUdaaFRYUVI5OS1ZYkFaQTlhZw?oc=5)
-
-`Wed, 08 Jul 2026 13:25:34 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRFZxbVJlMU5oTzhNQl9nR1Q1WVBjTEppV1cwdG9XNEgxY0lvdG16VVNSTnJOV1VtT0YwRVhrYUJrbl9ZQ3liOFpaWkRiaG1KRXpKZzVEbmstZmt0VzVCSW1JeDctemVFQnByTmh0SGFJaVRKVFlCUzRNeXE5U2g3MTlraE9QdU9adjRvbE9IanVQSFZlcVFZUTZ5OVctdUFEUTVXMjR5aS1feElNMTZJVmw3bkNqSFNPei1PdDdwWGhwVVctdzRHbUdaaFRYUVI5OS1ZYkFaQTlhZw?oc=5" target="_blank">Commerce extérieur : ces nouveaux chiffres qui douchent les espoirs tricolores</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
