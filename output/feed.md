@@ -1,7 +1,23 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Fri, 07 Aug 2026 17:38:26 +0000`
-> 65 articles (30 derniers jours)
+> Derniere mise a jour : `Sat, 08 Aug 2026 09:40:47 +0000`
+> 66 articles (30 derniers jours)
+
+---
+
+### [Prix du carburant : le gouvernement prolonge l'aide « grands rouleurs » - lesechos.fr](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeFIxY2VBZHl4V21NbEZyenJHR0ROaHcxa2hZU1NOVjZ3ZjRjMTh2QkpXQXpFY1RBaTZqVTZUYVBrNHE0Y0VkMWRiaDYyRHZNN2dvODJrcFZVeTZ5a1puQjhHXy1IQkZLd0dXMzRDSS1zUElEamZTc3Aybkc0dl9aelh2WUVnaDRIMVV3VDNNLWVYdW9KMXJfWlk5RVNDRm9YTklFVjFSanZZUU1TN2JzSDU3NU5jU2FMT2I0?oc=5)
+
+`Sat, 08 Aug 2026 08:15:05 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeFIxY2VBZHl4V21NbEZyenJHR0ROaHcxa2hZU1NOVjZ3ZjRjMTh2QkpXQXpFY1RBaTZqVTZUYVBrNHE0Y0VkMWRiaDYyRHZNN2dvODJrcFZVeTZ5a1puQjhHXy1IQkZLd0dXMzRDSS1zUElEamZTc3Aybkc0dl9aelh2WUVnaDRIMVV3VDNNLWVYdW9KMXJfWlk5RVNDRm9YTklFVjFSanZZUU1TN2JzSDU3NU5jU2FMT2I0?oc=5" target="_blank">Prix du carburant : le gouvernement prolonge l'aide « grands rouleurs »</a>&nbsp;&nbsp;<font color="#6f6f6f">lesechos.fr</font>
+
+---
+
+### [« L'économie française est sur le fil du rasoir » : l'alerte du chef économiste d'AXA - lesechos.fr](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcUNpMGtJZFQwMlV4WmF5cDhJbzZHamlFcWltdTYxVGRkZ3NtcldnZkhyanBiaHJUcWp6RHZGUW0yU2JNN3BTR0dRdkYtVEZadXZ2REV1aG1WUjZSamVlcVFIelpVYlFzQWpJR1J5OG9IN1BaSG9hQmdES0FiajBLaDFCMjkyWUxWLURpZXZQVjloc3dTQ0h4dHBkSUtIWElGQlRBVUk0NE0zX1NFN2VQWWIycjVHX05IYlpzX0daQ2JrMW5KelJ6ZFJqZklHYmZqWlE?oc=5)
+
+`Sat, 08 Aug 2026 07:00:31 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcUNpMGtJZFQwMlV4WmF5cDhJbzZHamlFcWltdTYxVGRkZ3NtcldnZkhyanBiaHJUcWp6RHZGUW0yU2JNN3BTR0dRdkYtVEZadXZ2REV1aG1WUjZSamVlcVFIelpVYlFzQWpJR1J5OG9IN1BaSG9hQmdES0FiajBLaDFCMjkyWUxWLURpZXZQVjloc3dTQ0h4dHBkSUtIWElGQlRBVUk0NE0zX1NFN2VQWWIycjVHX05IYlpzX0daQ2JrMW5KelJ6ZFJqZklHYmZqWlE?oc=5" target="_blank">« L'économie française est sur le fil du rasoir » : l'alerte du chef économiste d'AXA</a>&nbsp;&nbsp;<font color="#6f6f6f">lesechos.fr</font>
 
 ---
 
@@ -514,13 +530,5 @@
 `Thu, 09 Jul 2026 11:40:46 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSXlodXp4OGJpcVM0Y0w3Q0hZVU5GOE1IdlpKZ3VPY1lkSUgzb3BUbkw2RlJwSjdMOV8xVXItSkVSWEwxMlpmZ0JrOERSd29FWmx5R3lzVFB5dTRrcWczT19xZEQ2dGkyUTE0c0lBZXY0LURNM1hsaVRHYVJPYjZhSXNCZnczVnN1cW5jMVd0Skx0WHowcTRuVWRiRi11N09vZU0yR0dhcWo0bFR2QXdzVlhhcVpZdnVTNHBxQkV3dFk5QQ?oc=5" target="_blank">Huit TPE-PME se disent 10 impactées par la crise au Moyen-Orient</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [2,7 milliards de dette : quand les hôpitaux ne parviennent plus à payer leurs charges - Les Echos](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYkM3UkFBLS1PYi1YcG5jTjdBRTNKNExVVDJwWkNFWk1zOXFSSVFleFg4NW1vWlpadmxyOUkwTWlTV1o4Wng2YzlpeTZ6bE5GaG1CSlNOWmpab05Ca1R0a0pLa3NTWUZDbDlKUUd4bXlMejFocXdKbGdSdGN3SGtoWlVkR2JHOEpjZVRpVGMtVWhpVmRNWXBrTU14T0NFMUJyOTZJbkJRUWdnaXRFMDllQjVYNFh0WktkWWd3dVpZMU1XWEp2c080S3lZdTlYaU9OLThZ?oc=5)
-
-`Thu, 09 Jul 2026 04:25:08 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYkM3UkFBLS1PYi1YcG5jTjdBRTNKNExVVDJwWkNFWk1zOXFSSVFleFg4NW1vWlpadmxyOUkwTWlTV1o4Wng2YzlpeTZ6bE5GaG1CSlNOWmpab05Ca1R0a0pLa3NTWUZDbDlKUUd4bXlMejFocXdKbGdSdGN3SGtoWlVkR2JHOEpjZVRpVGMtVWhpVmRNWXBrTU14T0NFMUJyOTZJbkJRUWdnaXRFMDllQjVYNFh0WktkWWd3dVpZMU1XWEp2c080S3lZdTlYaU9OLThZ?oc=5" target="_blank">2,7 milliards de dette : quand les hôpitaux ne parviennent plus à payer leurs charges</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
