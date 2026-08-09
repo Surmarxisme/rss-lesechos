@@ -1,7 +1,7 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Sat, 08 Aug 2026 09:40:47 +0000`
-> 66 articles (30 derniers jours)
+> Derniere mise a jour : `Sun, 09 Aug 2026 09:43:04 +0000`
+> 59 articles (30 derniers jours)
 
 ---
 
@@ -474,61 +474,5 @@
 `Fri, 10 Jul 2026 14:33:38 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi1AFBVV95cUxPLVpUSUNMeGl2a29tUmlndExLX1g3Z1pyRG8xVnZ6WF91RVlqNkRoS3ZtbnhoYWI0VWNKRWxWRWIwc3NZWnNaZThtYXl5eUJMb3Y3SUZ3MFAwWkYyRXJ5NFJ6aXhqc1QzR3lzWGo5MWszRVlEMndDQVFoYlBhalFSanZQbXhEMW84VGZJX2FPV0ozLVhwQmRKZ182bEc0aUpkTnh3eVBLbzRvUzJtSldwZndWVVhWNDhzTVhhZ2FnWnZyUjBuczU1YVRKNzRuWEZ0NGRuSQ?oc=5" target="_blank">Financement du modèle social : l'Elysée donne six mois à quatre experts pour résoudre une équation « existentielle</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Les trois priorités des dirigeants de TPE pour la rentrée 2026 - Les Echos](https://news.google.com/rss/articles/CBMivwFBVV95cUxPT2dEOEp2VjZnOWo4SDd3WmNRN3pkNlRaQ2VadWJMak9GS1VQWHRGR1lVTEdfdWVRWnZySXo5WV9RMEZ3TUxnbVZQVzk4ejl5Z3JMYkE1YnFVeHRVWnZsNEsyZlAtbmVYalFyOXB5eFp5ZWs4UGVuaEIyLWc3RUpHalBELXVKUlUwcXFJdmZ4TDVkLXhSeHNxTEhKT0NoX3RkWXFKb2tKcmdMV01ZRV9RODRGei0tWDA1b2R6ZzhTbw?oc=5)
-
-`Fri, 10 Jul 2026 09:08:46 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxPT2dEOEp2VjZnOWo4SDd3WmNRN3pkNlRaQ2VadWJMak9GS1VQWHRGR1lVTEdfdWVRWnZySXo5WV9RMEZ3TUxnbVZQVzk4ejl5Z3JMYkE1YnFVeHRVWnZsNEsyZlAtbmVYalFyOXB5eFp5ZWs4UGVuaEIyLWc3RUpHalBELXVKUlUwcXFJdmZ4TDVkLXhSeHNxTEhKT0NoX3RkWXFKb2tKcmdMV01ZRV9RODRGei0tWDA1b2R6ZzhTbw?oc=5" target="_blank">Les trois priorités des dirigeants de TPE pour la rentrée 2026</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Assurance-chômage : pourquoi le déficit du régime des intermittents s'envole - Les Echos](https://news.google.com/rss/articles/CBMixwFBVV95cUxPXy1HY0dJM2RBcExIeWVSWF8telRBWFVnY045WDhNd3NfRnhSOXJycUU5b0xwbnBJR1luODc1akVpOU5renJRcVNWb2w5SERoS040VVotWVFoTm5iSDJhaGVBMGVWOFpmQ1Q4U2ZtSjJEam1XVmVqUUM2ZFBUUkdXZDBWX3N1N0ZYUllVWU0tdDJBaG1TSUs0X2ZjRzkxSzlINTdGWU0tR0M1bjUzbkFVOW1pY3R1LU1BdFhXNDNwcll4eExaYU1N?oc=5)
-
-`Fri, 10 Jul 2026 04:05:09 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMixwFBVV95cUxPXy1HY0dJM2RBcExIeWVSWF8telRBWFVnY045WDhNd3NfRnhSOXJycUU5b0xwbnBJR1luODc1akVpOU5renJRcVNWb2w5SERoS040VVotWVFoTm5iSDJhaGVBMGVWOFpmQ1Q4U2ZtSjJEam1XVmVqUUM2ZFBUUkdXZDBWX3N1N0ZYUllVWU0tdDJBaG1TSUs0X2ZjRzkxSzlINTdGWU0tR0M1bjUzbkFVOW1pY3R1LU1BdFhXNDNwcll4eExaYU1N?oc=5" target="_blank">Assurance-chômage : pourquoi le déficit du régime des intermittents s'envole</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Le taux de pauvreté toujours à un niveau record en France - Les Echos](https://news.google.com/rss/articles/CBMisgFBVV95cUxNbXBWTlp5c3R5djZaOW84ZDNLc3pUYjJCVzY4cHc5ZEQwNzhDdHljcDVTME96RE9JNzhqZk5GNDRfUHQ1eF8tVGdXczA0Rm5pY2NTX2dhNEk4R2NxYTZuZFJPTGlRdXlwRzZlY19XYnhqNy1PN0diX1NhZ3JIM0NWUGpEVW9BajVKTFIyTngzdFpiSEpZeHl5T3ZrRUFvM25WSXNCQzRwejFqVF9JTmZFV2N3?oc=5)
-
-`Thu, 09 Jul 2026 15:01:36 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxNbXBWTlp5c3R5djZaOW84ZDNLc3pUYjJCVzY4cHc5ZEQwNzhDdHljcDVTME96RE9JNzhqZk5GNDRfUHQ1eF8tVGdXczA0Rm5pY2NTX2dhNEk4R2NxYTZuZFJPTGlRdXlwRzZlY19XYnhqNy1PN0diX1NhZ3JIM0NWUGpEVW9BajVKTFIyTngzdFpiSEpZeHl5T3ZrRUFvM25WSXNCQzRwejFqVF9JTmZFV2N3?oc=5" target="_blank">Le taux de pauvreté toujours à un niveau record en France</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [La Banque de France revoit à la hausse sa prévision de croissance après un rebond inattendu de l'activité en juin - Les Echos](https://news.google.com/rss/articles/CBMiggJBVV95cUxOa3M3TEdSSjIyZ3FIR1FZeWlfSHVRZWtVSnUtaVJoeENIdk5xbVZfMGlSY0pSdkViR3Vfbm9HX3FNRmhMZUJEbXdvbXQtM3N3dFg5M0htM3FXbEdLTkdhTXp4Q0F5bU1iZnFsQ0ZDX0hlRXlyNzF2WHowU1NvSVgyVklQenFJdE5ORnJucGNsdXhyTU9lR2x6Z1JmMVZzWl9STDBqMUNyOU9vRXV2bG9sZzQtOU05alFwSGRWMnpVNUdPSUZqT3FzVHpfZks1Vml1dlZ3ZFFYNWZGclBnNGZhNEFRR0U1TDkzV3FuVHdXcjVoMC1adW52R3VKeUIya0gyUXc?oc=5)
-
-`Thu, 09 Jul 2026 18:00:19 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiggJBVV95cUxOa3M3TEdSSjIyZ3FIR1FZeWlfSHVRZWtVSnUtaVJoeENIdk5xbVZfMGlSY0pSdkViR3Vfbm9HX3FNRmhMZUJEbXdvbXQtM3N3dFg5M0htM3FXbEdLTkdhTXp4Q0F5bU1iZnFsQ0ZDX0hlRXlyNzF2WHowU1NvSVgyVklQenFJdE5ORnJucGNsdXhyTU9lR2x6Z1JmMVZzWl9STDBqMUNyOU9vRXV2bG9sZzQtOU05alFwSGRWMnpVNUdPSUZqT3FzVHpfZks1Vml1dlZ3ZFFYNWZGclBnNGZhNEFRR0U1TDkzV3FuVHdXcjVoMC1adW52R3VKeUIya0gyUXc?oc=5" target="_blank">La Banque de France revoit à la hausse sa prévision de croissance après un rebond inattendu de l'activité en juin</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Retraites : nouveau plaidoyer pour un coup de frein sur les hausses de pensions - Les Echos](https://news.google.com/rss/articles/CBMizAFBVV95cUxPbUNhVkZmWjhGV3ZKVDJkLVdLVUFzdXJOMjVFNHhTYWd3ZFNIdUJ3Uzl5T1h6Z0VIWWpSZ2huaUsxbEY5RERzR0s1Z0xjVXg3RnhNSS1IR0RCeUVLSk5GV3EyY21MQml5dnZ3aFdZc1UyQkw1SExyV0JKcEkzc0hlSUNOVFkzUFZUc0RDTkJMZDNzVlNvTXNWYVFIN2hHZ3ZVclZ2WHJad0tvczVkLUVHMjB4R2dBeXdaUHJiMWV4LWZ6ZFhXd05zSUF2Y2Q?oc=5)
-
-`Thu, 09 Jul 2026 16:52:43 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMizAFBVV95cUxPbUNhVkZmWjhGV3ZKVDJkLVdLVUFzdXJOMjVFNHhTYWd3ZFNIdUJ3Uzl5T1h6Z0VIWWpSZ2huaUsxbEY5RERzR0s1Z0xjVXg3RnhNSS1IR0RCeUVLSk5GV3EyY21MQml5dnZ3aFdZc1UyQkw1SExyV0JKcEkzc0hlSUNOVFkzUFZUc0RDTkJMZDNzVlNvTXNWYVFIN2hHZ3ZVclZ2WHJad0tvczVkLUVHMjB4R2dBeXdaUHJiMWV4LWZ6ZFhXd05zSUF2Y2Q?oc=5" target="_blank">Retraites : nouveau plaidoyer pour un coup de frein sur les hausses de pensions</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Budget : nouvelle alerte sur le déficit des collectivités locales - Les Echos](https://news.google.com/rss/articles/CBMixwFBVV95cUxPVWY4RzF2TjlOX1RhVFZZS09fa294d0ZSNGhSVlRhYlUtS2R6RW04bDVrTGdEY1ZRbzJCVVFSLWEyRGJHN1p2U2FQN01EeWc2SnN4T2RYMlRaQjRyQ25XU1YtVGZpODJ0dXR5WTFhcWY2TG8yUTF2RExsWTMxeTdUQU1wdS16eXNwTWlBVmxEcVEyenlybUM3VmR1bXFQOENQbkZaanNBVG5zSFAySWMzT2tXbjBuZXBsS18waDFqWFRvd2VMTm1n?oc=5)
-
-`Thu, 09 Jul 2026 14:36:49 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMixwFBVV95cUxPVWY4RzF2TjlOX1RhVFZZS09fa294d0ZSNGhSVlRhYlUtS2R6RW04bDVrTGdEY1ZRbzJCVVFSLWEyRGJHN1p2U2FQN01EeWc2SnN4T2RYMlRaQjRyQ25XU1YtVGZpODJ0dXR5WTFhcWY2TG8yUTF2RExsWTMxeTdUQU1wdS16eXNwTWlBVmxEcVEyenlybUM3VmR1bXFQOENQbkZaanNBVG5zSFAySWMzT2tXbjBuZXBsS18waDFqWFRvd2VMTm1n?oc=5" target="_blank">Budget : nouvelle alerte sur le déficit des collectivités locales</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Huit TPE-PME se disent 10 impactées par la crise au Moyen-Orient - Les Echos](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSXlodXp4OGJpcVM0Y0w3Q0hZVU5GOE1IdlpKZ3VPY1lkSUgzb3BUbkw2RlJwSjdMOV8xVXItSkVSWEwxMlpmZ0JrOERSd29FWmx5R3lzVFB5dTRrcWczT19xZEQ2dGkyUTE0c0lBZXY0LURNM1hsaVRHYVJPYjZhSXNCZnczVnN1cW5jMVd0Skx0WHowcTRuVWRiRi11N09vZU0yR0dhcWo0bFR2QXdzVlhhcVpZdnVTNHBxQkV3dFk5QQ?oc=5)
-
-`Thu, 09 Jul 2026 11:40:46 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSXlodXp4OGJpcVM0Y0w3Q0hZVU5GOE1IdlpKZ3VPY1lkSUgzb3BUbkw2RlJwSjdMOV8xVXItSkVSWEwxMlpmZ0JrOERSd29FWmx5R3lzVFB5dTRrcWczT19xZEQ2dGkyUTE0c0lBZXY0LURNM1hsaVRHYVJPYjZhSXNCZnczVnN1cW5jMVd0Skx0WHowcTRuVWRiRi11N09vZU0yR0dhcWo0bFR2QXdzVlhhcVpZdnVTNHBxQkV3dFk5QQ?oc=5" target="_blank">Huit TPE-PME se disent 10 impactées par la crise au Moyen-Orient</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
