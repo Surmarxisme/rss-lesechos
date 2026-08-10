@@ -1,7 +1,7 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Sun, 09 Aug 2026 09:43:04 +0000`
-> 59 articles (30 derniers jours)
+> Derniere mise a jour : `Mon, 10 Aug 2026 07:00:33 +0000`
+> 58 articles (30 derniers jours)
 
 ---
 
@@ -466,13 +466,5 @@
 `Mon, 13 Jul 2026 05:30:08 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxPaDNVWkNFRE9zQTlDeWwxQngxdmstRGdDcG5oUjk0dElxUGJxZ3dJd1pPeTJSUlJPUmtuQUxqMWdDTFM1ZElodVZYVFRvNTYwR01LVEtKS3U0VE02R0JEbTdDSEp1TVRyOTcyV2UyUm5GelVweE9JWERkR0htNWZVWWtUME8yNHBnd0N4RkMzNHJ0bGV6dTVfSlVzV2pwcW1zR2VVOVNKQXZXM1E0Tl80M1FxSldBeGs?oc=5" target="_blank">Tabac : les ventes chutent, les recettes fiscales avec</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Financement du modèle social : l'Elysée donne six mois à quatre experts pour résoudre une équation « existentielle - Les Echos](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPLVpUSUNMeGl2a29tUmlndExLX1g3Z1pyRG8xVnZ6WF91RVlqNkRoS3ZtbnhoYWI0VWNKRWxWRWIwc3NZWnNaZThtYXl5eUJMb3Y3SUZ3MFAwWkYyRXJ5NFJ6aXhqc1QzR3lzWGo5MWszRVlEMndDQVFoYlBhalFSanZQbXhEMW84VGZJX2FPV0ozLVhwQmRKZ182bEc0aUpkTnh3eVBLbzRvUzJtSldwZndWVVhWNDhzTVhhZ2FnWnZyUjBuczU1YVRKNzRuWEZ0NGRuSQ?oc=5)
-
-`Fri, 10 Jul 2026 14:33:38 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi1AFBVV95cUxPLVpUSUNMeGl2a29tUmlndExLX1g3Z1pyRG8xVnZ6WF91RVlqNkRoS3ZtbnhoYWI0VWNKRWxWRWIwc3NZWnNaZThtYXl5eUJMb3Y3SUZ3MFAwWkYyRXJ5NFJ6aXhqc1QzR3lzWGo5MWszRVlEMndDQVFoYlBhalFSanZQbXhEMW84VGZJX2FPV0ozLVhwQmRKZ182bEc0aUpkTnh3eVBLbzRvUzJtSldwZndWVVhWNDhzTVhhZ2FnWnZyUjBuczU1YVRKNzRuWEZ0NGRuSQ?oc=5" target="_blank">Financement du modèle social : l'Elysée donne six mois à quatre experts pour résoudre une équation « existentielle</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
