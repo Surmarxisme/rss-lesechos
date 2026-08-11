@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Tue, 11 Aug 2026 12:44:02 +0000`
-> 61 articles (30 derniers jours)
+> Derniere mise a jour : `Tue, 11 Aug 2026 17:46:26 +0000`
+> 62 articles (30 derniers jours)
+
+---
+
+### [Décès de Dominique Libault, « défenseur inlassable de la Sécurité sociale » - Les Echos](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSVozY3pDMlgxSXVMR1RZYUR0R1h3N1hmSmZ6bERqWGY4SmFwcWRpVkNmRkFWQzhmcG1YcTZSVTRWTWxsMHgwQ0IzeEpIbHhwOFhEQ2dtbWxFZmxTUEhVZkU0bzUzdFNMMlNQb1pJaFJnc212WjFXQ3hqNV9OU3R2aURUTC1BemVtZWt5STdpTGpSbkVpYWdjRGVKY28zWEN0RVlmLVE0WDlWUnZacWFrZzVWQnNmNG90Nnh2QWIzLU5abm8?oc=5)
+
+`Tue, 11 Aug 2026 17:19:33 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSVozY3pDMlgxSXVMR1RZYUR0R1h3N1hmSmZ6bERqWGY4SmFwcWRpVkNmRkFWQzhmcG1YcTZSVTRWTWxsMHgwQ0IzeEpIbHhwOFhEQ2dtbWxFZmxTUEhVZkU0bzUzdFNMMlNQb1pJaFJnc212WjFXQ3hqNV9OU3R2aURUTC1BemVtZWt5STdpTGpSbkVpYWdjRGVKY28zWEN0RVlmLVE0WDlWUnZacWFrZzVWQnNmNG90Nnh2QWIzLU5abm8?oc=5" target="_blank">Décès de Dominique Libault, « défenseur inlassable de la Sécurité sociale »</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
