@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Tue, 11 Aug 2026 10:03:57 +0000`
-> 60 articles (30 derniers jours)
+> Derniere mise a jour : `Tue, 11 Aug 2026 12:44:02 +0000`
+> 61 articles (30 derniers jours)
+
+---
+
+### [543 dispositifs et un poids croissant dans les rémunérations : l'Etat appelé à s'attaquer au maquis des primes de ses fonctionnaires - Les Echos](https://news.google.com/rss/articles/CBMikAJBVV95cUxQY3lkVHdPRWF6dGFOR3J1bVJGR2RKY3UwaWQ1RlJnSlluODY1cnRaRlFWQ0N3enZlVzBzMGhNb1YyS0l3SFlROXlQcUUwNTloZzVhcjE4T3JySExtRGdWS0ctbmVMcE1jUzhULVVpYnc2bmZEYjlpNEZ4Y2psUFBvbHM0SWVzRzR1ZWl1WnRlUGRsdlU1OG1sVG9WSEY1ZV9XajhKWE40b2ZGNFlqcEE1MXFpUTgwRGJROE9pRzQ3aFVEUHJ2WWIyc1R3ZmlqeUZJcVFoSXFFWDdpai1Sa29BeTRQa0V2Y20yX3VBXzhQMnVXU1pILXo4aFpaeG9zWXY1R3FTVkhPZ1paYks4aTFHeg?oc=5)
+
+`Tue, 11 Aug 2026 10:50:56 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMikAJBVV95cUxQY3lkVHdPRWF6dGFOR3J1bVJGR2RKY3UwaWQ1RlJnSlluODY1cnRaRlFWQ0N3enZlVzBzMGhNb1YyS0l3SFlROXlQcUUwNTloZzVhcjE4T3JySExtRGdWS0ctbmVMcE1jUzhULVVpYnc2bmZEYjlpNEZ4Y2psUFBvbHM0SWVzRzR1ZWl1WnRlUGRsdlU1OG1sVG9WSEY1ZV9XajhKWE40b2ZGNFlqcEE1MXFpUTgwRGJROE9pRzQ3aFVEUHJ2WWIyc1R3ZmlqeUZJcVFoSXFFWDdpai1Sa29BeTRQa0V2Y20yX3VBXzhQMnVXU1pILXo4aFpaeG9zWXY1R3FTVkhPZ1paYks4aTFHeg?oc=5" target="_blank">543 dispositifs et un poids croissant dans les rémunérations : l'Etat appelé à s'attaquer au maquis des primes de ses fonctionnaires</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
