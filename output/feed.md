@@ -1,7 +1,23 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Mon, 10 Aug 2026 17:41:42 +0000`
-> 58 articles (30 derniers jours)
+> Derniere mise a jour : `Tue, 11 Aug 2026 10:03:57 +0000`
+> 60 articles (30 derniers jours)
+
+---
+
+### [« Il faut changer de modèle » : le coût croissant des kinés dans le viseur de l'Assurance Maladie - Les Echos](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQQVFlWFJNVmRRV3dKTnZncnl0S1d2Zjd4T2VQTkRMSmtjTjFiYW1EMmsyYlo5WTE3aDBsWnZRdnY1bS1mZDktQzZpdzdKeEJCVUE4SjR1bDFIMWpCQW1zcjFMbk9tYjJLVDFjc2ZCR01BazlqZTRvM1hQSXkyZlRGMDdUUDlvOGJUNERNaGhMUWJyN25DbnBoNHUzbklKUjJ6WmpGNVRlSGJxVDk2eHRnT05VMEY4YnFDSjVsazhXUEMwTjlBQ01ZZXNKTmt2RWs2VTdBVnp0SF9ISVN3Tnc?oc=5)
+
+`Tue, 11 Aug 2026 04:00:08 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi3gFBVV95cUxQQVFlWFJNVmRRV3dKTnZncnl0S1d2Zjd4T2VQTkRMSmtjTjFiYW1EMmsyYlo5WTE3aDBsWnZRdnY1bS1mZDktQzZpdzdKeEJCVUE4SjR1bDFIMWpCQW1zcjFMbk9tYjJLVDFjc2ZCR01BazlqZTRvM1hQSXkyZlRGMDdUUDlvOGJUNERNaGhMUWJyN25DbnBoNHUzbklKUjJ6WmpGNVRlSGJxVDk2eHRnT05VMEY4YnFDSjVsazhXUEMwTjlBQ01ZZXNKTmt2RWs2VTdBVnp0SF9ISVN3Tnc?oc=5" target="_blank">« Il faut changer de modèle » : le coût croissant des kinés dans le viseur de l'Assurance Maladie</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [« Certains payent 178 euros l'année, d'autres 8.000 euros » : les aspirants kinés toujours dans l'attente d'études moins chères - Les Echos](https://news.google.com/rss/articles/CBMi_wFBVV95cUxNNXA2NkpSRndoR3JjdmxDekprT014ZWhiNVBzbms2N3NfZzVwaTNYVnc3b3pDMUgwOVZBYmNyUVZ0SXFNVWFyazNhckI5dlpvZVNlOWNyNE5mWElteGJHRERxM21lZ2NtLWNiSVFjV0VsN29LdEgyOHp1TFlQNVl5VS1Ea2lKNkhsQ2xEQnV2U25haElrVWZ3WVZJN254a3BIdEZjZlc2ODZzNWx4S2g5dEEwSWlmeXRsUENObHZqbnhJaHJpWkN0YnJYX0JBYm1yak9SZ25qY3VSenM1bC1xc2NnSU5qdnB4ZF9tNkFROGNsUi1uSTFLVXBvY2o1TzQ?oc=5)
+
+`Tue, 11 Aug 2026 09:00:37 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi_wFBVV95cUxNNXA2NkpSRndoR3JjdmxDekprT014ZWhiNVBzbms2N3NfZzVwaTNYVnc3b3pDMUgwOVZBYmNyUVZ0SXFNVWFyazNhckI5dlpvZVNlOWNyNE5mWElteGJHRERxM21lZ2NtLWNiSVFjV0VsN29LdEgyOHp1TFlQNVl5VS1Ea2lKNkhsQ2xEQnV2U25haElrVWZ3WVZJN254a3BIdEZjZlc2ODZzNWx4S2g5dEEwSWlmeXRsUENObHZqbnhJaHJpWkN0YnJYX0JBYm1yak9SZ25qY3VSenM1bC1xc2NnSU5qdnB4ZF9tNkFROGNsUi1uSTFLVXBvY2o1TzQ?oc=5" target="_blank">« Certains payent 178 euros l'année, d'autres 8.000 euros » : les aspirants kinés toujours dans l'attente d'études moins chères</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
