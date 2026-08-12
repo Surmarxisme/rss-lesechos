@@ -1,7 +1,23 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Wed, 12 Aug 2026 12:49:13 +0000`
-> 65 articles (30 derniers jours)
+> Derniere mise a jour : `Wed, 12 Aug 2026 17:48:07 +0000`
+> 67 articles (30 derniers jours)
+
+---
+
+### [Les canicules de l'été 2026 pourraient coûter cher à la France - Les Echos](https://news.google.com/rss/articles/CBMivgFBVV95cUxNTXhKblVuTUJWdFBKMTNRdzZhbFJwcVVkWUVXY1daNjJVbUFkMlgtUGN2aFJtUl9lNVNMbFpsX29nR1B4Z05ZWlJqNW43akJZNDNlUjUxU2tLUkQ4RDZRcm9NS1FESU1oS196WW13SnVscm40ZkV6S3ctaHRjV2RPSGE2aDR4UzZ5TzRyZ1Uydkl6LUF3c1I5Mmx6UnR5RmxqcndnQ0VnTllVTWthLTRFRTdTMDFrSW9SSHl4Q3R3?oc=5)
+
+`Wed, 12 Aug 2026 15:51:05 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxNTXhKblVuTUJWdFBKMTNRdzZhbFJwcVVkWUVXY1daNjJVbUFkMlgtUGN2aFJtUl9lNVNMbFpsX29nR1B4Z05ZWlJqNW43akJZNDNlUjUxU2tLUkQ4RDZRcm9NS1FESU1oS196WW13SnVscm40ZkV6S3ctaHRjV2RPSGE2aDR4UzZ5TzRyZ1Uydkl6LUF3c1I5Mmx6UnR5RmxqcndnQ0VnTllVTWthLTRFRTdTMDFrSW9SSHl4Q3R3?oc=5" target="_blank">Les canicules de l'été 2026 pourraient coûter cher à la France</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [« Les effets de l'IA sur les inégalités de salaires méritent autant d'attention que ceux sur l'emploi » - Les Echos](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNZGxOREhVMk9DR1UxdXJYbERxcWJScFEwd0tfa2VFR192SHQ0U3VOUnpocDFZR0lONW1VX0psX1ZHSjhUY0lycUZQbGRPaFhlYV9vRHkyb1hjUERnWGdXZ3JjMXZ6amd2aXVJN291eEFGTlJFV2o4MXhWbV8zM2NEcGRNbGpXLVBncEZqOTZNUTU5NFNOclVWNkZiQVNJNUVQYXRrdUIwaXJwQ01BR256ZnV3TFdkSnFTa2Z3Qm0zN1lmbUtUaWdINVBxOGFscjNZZzJ6QWx0OEItdnJRMmFUZkxQNDI3dw?oc=5)
+
+`Wed, 12 Aug 2026 14:00:37 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi5gFBVV95cUxNZGxOREhVMk9DR1UxdXJYbERxcWJScFEwd0tfa2VFR192SHQ0U3VOUnpocDFZR0lONW1VX0psX1ZHSjhUY0lycUZQbGRPaFhlYV9vRHkyb1hjUERnWGdXZ3JjMXZ6amd2aXVJN291eEFGTlJFV2o4MXhWbV8zM2NEcGRNbGpXLVBncEZqOTZNUTU5NFNOclVWNkZiQVNJNUVQYXRrdUIwaXJwQ01BR256ZnV3TFdkSnFTa2Z3Qm0zN1lmbUtUaWdINVBxOGFscjNZZzJ6QWx0OEItdnJRMmFUZkxQNDI3dw?oc=5" target="_blank">« Les effets de l'IA sur les inégalités de salaires méritent autant d'attention que ceux sur l'emploi »</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
