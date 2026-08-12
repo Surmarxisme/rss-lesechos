@@ -1,7 +1,31 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Wed, 12 Aug 2026 07:00:48 +0000`
-> 62 articles (30 derniers jours)
+> Derniere mise a jour : `Wed, 12 Aug 2026 12:49:13 +0000`
+> 65 articles (30 derniers jours)
+
+---
+
+### [Impôts : un rapport de Bercy propose une potion amère pour les familles les plus aisées - Les Echos](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNX0VfMFU4djlfT3RjMmhVaGNtVy1LNG1HbWFVQkEyN0FqRm52cW9SX0UxNlN3MzNVOS1LbXE2SVpUd2Y3blJOTFhrOC1HZEplUlFqbUN2Z0IzR1VNVjJRRWhkai1fNGp5U3l4eVJpUHVTNENaSWtfaUY2M3hWTUZrWlFZOG44d0ZNdFh1ZnpJczFVdmVxckEwRlgzTzhXeExYbEQyQl9MXzluc0doYWw3bzRrMDZPcVpHM2FtQ1lmYzhTRUM3UmZtUW9weTRCc3ZzQXItU0VrcVhycFo1R1luRUdVMUY?oc=5)
+
+`Wed, 12 Aug 2026 07:05:08 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi5AFBVV95cUxNX0VfMFU4djlfT3RjMmhVaGNtVy1LNG1HbWFVQkEyN0FqRm52cW9SX0UxNlN3MzNVOS1LbXE2SVpUd2Y3blJOTFhrOC1HZEplUlFqbUN2Z0IzR1VNVjJRRWhkai1fNGp5U3l4eVJpUHVTNENaSWtfaUY2M3hWTUZrWlFZOG44d0ZNdFh1ZnpJczFVdmVxckEwRlgzTzhXeExYbEQyQl9MXzluc0doYWw3bzRrMDZPcVpHM2FtQ1lmYzhTRUM3UmZtUW9weTRCc3ZzQXItU0VrcVhycFo1R1luRUdVMUY?oc=5" target="_blank">Impôts : un rapport de Bercy propose une potion amère pour les familles les plus aisées</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [240.000 places en moins d'ici à 2033 ? Un rapport sonne l'alerte sur les difficultés de la garde d'enfants - Les Echos](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNMm16dy1FQ2JQYWp2WEwzdW9NYi0teXl6eEVzSFNKVV9tZTMteUItOVI4UGtDTmtWSU91OVNWMmlFWXplcUFBeFhzdTg5QXd5NUlpNWJoNmFsV2FzLV9qMFZIUUJubXJaOXJrSWkxUmhtNGVPbm40XzhHM3A1YmpHOVdVbWFoa0JRT3RRVlJreDZkQUp3YUNIWHdRUzZhRGpoMjdGVUJfTUtCNFRuaFBocnF1NW4zbzdCRzk4WWNHNld0SEFfcGFOeFdzcWNnSkNjWEp4NFQwY0wwQW52eTRjaEt6UldRdHAtRDJr?oc=5)
+
+`Wed, 12 Aug 2026 09:00:12 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi6wFBVV95cUxNMm16dy1FQ2JQYWp2WEwzdW9NYi0teXl6eEVzSFNKVV9tZTMteUItOVI4UGtDTmtWSU91OVNWMmlFWXplcUFBeFhzdTg5QXd5NUlpNWJoNmFsV2FzLV9qMFZIUUJubXJaOXJrSWkxUmhtNGVPbm40XzhHM3A1YmpHOVdVbWFoa0JRT3RRVlJreDZkQUp3YUNIWHdRUzZhRGpoMjdGVUJfTUtCNFRuaFBocnF1NW4zbzdCRzk4WWNHNld0SEFfcGFOeFdzcWNnSkNjWEp4NFQwY0wwQW52eTRjaEt6UldRdHAtRDJr?oc=5" target="_blank">240.000 places en moins d'ici à 2033 ? Un rapport sonne l'alerte sur les difficultés de la garde d'enfants</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Santé : le nombre de postes d'internes ouverts en médecine franchit un seuil « historique » - Les Echos](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNY2M5SV9jd2RoNzhhQmlrbnZVTkdsancwYTBGS282LWNlbkxTZWRsdmdDQzFNejlNSDM5Nlk1d3VQaGNLNjNJMW94NEVWZFVkUzZ6akRzUm1nSWRCdFVzc2kwcy0wZ0NEWjBwbWhKelU5VVBLVkliYTQ0T3Y2bXk2MWxCOGlPV05IeGlZRFZNTlliR1ZrR1RQcEdSS1hDLUlpckJLVXBhNW5YbkIybkQ5TzNzRE04bDVvbmtzRUo0U2o4eFp2WURrNjhlUllFcTl0SnJwdkdB?oc=5)
+
+`Wed, 12 Aug 2026 10:05:59 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi1gFBVV95cUxNY2M5SV9jd2RoNzhhQmlrbnZVTkdsancwYTBGS282LWNlbkxTZWRsdmdDQzFNejlNSDM5Nlk1d3VQaGNLNjNJMW94NEVWZFVkUzZ6akRzUm1nSWRCdFVzc2kwcy0wZ0NEWjBwbWhKelU5VVBLVkliYTQ0T3Y2bXk2MWxCOGlPV05IeGlZRFZNTlliR1ZrR1RQcEdSS1hDLUlpckJLVXBhNW5YbkIybkQ5TzNzRE04bDVvbmtzRUo0U2o4eFp2WURrNjhlUllFcTl0SnJwdkdB?oc=5" target="_blank">Santé : le nombre de postes d'internes ouverts en médecine franchit un seuil « historique »</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
