@@ -1,7 +1,31 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Thu, 13 Aug 2026 12:51:06 +0000`
-> 68 articles (30 derniers jours)
+> Derniere mise a jour : `Thu, 13 Aug 2026 17:47:17 +0000`
+> 71 articles (30 derniers jours)
+
+---
+
+### [Les difficultés de retour à l'emploi perdurent pour les travailleurs handicapés - Les Echos](https://news.google.com/rss/articles/CBMizgFBVV95cUxPeGotYnhsS2Q4ZGJfOHd1STRqOXZJTnlwam5KOVpMUUtCUjBuMkpkYmlZVWd6WGwydWZoSVRfdmwzY3laOF8xQWdTb3F3ZXB3R3lwdDdDNGJHc19NeDFwYWZRNWhPMEgyVXVFdC1MWXduYlVLa0lqMzBScXktQ1V5c3JYdzdrc1B3QUx5MEhuQnl3MGVBdHQ1aWhYbWlIeWRWYlM0NHJRRXd5Q1FINkpJSWhjZHpUaXJsbmprbnU5SGdEbldFcEViVExWM0toQQ?oc=5)
+
+`Thu, 13 Aug 2026 15:30:11 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMizgFBVV95cUxPeGotYnhsS2Q4ZGJfOHd1STRqOXZJTnlwam5KOVpMUUtCUjBuMkpkYmlZVWd6WGwydWZoSVRfdmwzY3laOF8xQWdTb3F3ZXB3R3lwdDdDNGJHc19NeDFwYWZRNWhPMEgyVXVFdC1MWXduYlVLa0lqMzBScXktQ1V5c3JYdzdrc1B3QUx5MEhuQnl3MGVBdHQ1aWhYbWlIeWRWYlM0NHJRRXd5Q1FINkpJSWhjZHpUaXJsbmprbnU5SGdEbldFcEViVExWM0toQQ?oc=5" target="_blank">Les difficultés de retour à l'emploi perdurent pour les travailleurs handicapés</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Embauche des travailleurs handicapés : une lente amélioration dans les entreprises - Les Echos](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWGJJdGVFckZidm9mcTUyZjlfQTdWM29ZSDIzYVBpd2hRSFN6OXE4WXVNVy1RSVZNdmJIOWRLanRwWGNmSFhiS05wX2ZsbS10MDVEaWs2UGNLUDF2QmlDaFU4aXYwcDdFSW8yY29FWkhyV0l5bkt1YXlKV0J6M1ktaUZGZWV4bzlIRjlmMFJ2dGtyTUdHUEVXd19HUUN1b2JJUWJXUFpUMktCdW1aR3V4RGNCeExmY3BMUzRsRmtXWV9FVHJxV2Zodm9ObXZ3alFC?oc=5)
+
+`Thu, 13 Aug 2026 13:00:09 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWGJJdGVFckZidm9mcTUyZjlfQTdWM29ZSDIzYVBpd2hRSFN6OXE4WXVNVy1RSVZNdmJIOWRLanRwWGNmSFhiS05wX2ZsbS10MDVEaWs2UGNLUDF2QmlDaFU4aXYwcDdFSW8yY29FWkhyV0l5bkt1YXlKV0J6M1ktaUZGZWV4bzlIRjlmMFJ2dGtyTUdHUEVXd19HUUN1b2JJUWJXUFpUMktCdW1aR3V4RGNCeExmY3BMUzRsRmtXWV9FVHJxV2Zodm9ObXZ3alFC?oc=5" target="_blank">Embauche des travailleurs handicapés : une lente amélioration dans les entreprises</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Formation : sur le site du CPF, la nouvelle ruée vers l'IA - Les Echos](https://news.google.com/rss/articles/CBMirgFBVV95cUxOMFhLUnowaFBUdDFQaFBvemJBa3U0RGdMbVF6dUI5Ym5LWXVZbHJTTUFwci1oWUVVakVKQVM0NmhOZWpvWG9tWlFTamRGcVJNOTlVS0Nxclg5R0Q5b2Q1dEppNGtLQnlzY3lOdTFhNFlZUGpWSjNxaFVUSWx2VENaTGY1VFVOdkhwUmd3bDZiSnhEV1RGRmNXWDZZcHVzYzFWd3RrLUdXSGxRbGlnUWc?oc=5)
+
+`Thu, 13 Aug 2026 13:00:29 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxOMFhLUnowaFBUdDFQaFBvemJBa3U0RGdMbVF6dUI5Ym5LWXVZbHJTTUFwci1oWUVVakVKQVM0NmhOZWpvWG9tWlFTamRGcVJNOTlVS0Nxclg5R0Q5b2Q1dEppNGtLQnlzY3lOdTFhNFlZUGpWSjNxaFVUSWx2VENaTGY1VFVOdkhwUmd3bDZiSnhEV1RGRmNXWDZZcHVzYzFWd3RrLUdXSGxRbGlnUWc?oc=5" target="_blank">Formation : sur le site du CPF, la nouvelle ruée vers l'IA</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
