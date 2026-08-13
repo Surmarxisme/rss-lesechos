@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Wed, 12 Aug 2026 17:48:07 +0000`
-> 67 articles (30 derniers jours)
+> Derniere mise a jour : `Thu, 13 Aug 2026 07:04:41 +0000`
+> 68 articles (30 derniers jours)
+
+---
+
+### [Métiers, embauches, carrières : en France, le chamboule-tout de l'IA sur l'emploi - Les Echos](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMmtINnVUUDlScWpuTVI3MzZuYmpVTnQyVzBjanZVak40VnA5Tkg5UVRqbDI3YWpyUXgycm1tRGNWQW9NcTFRMjhvSmtOOVJ6UEtpV1RqSzJQc3J0QmI0XzU2TzhWRTZiM0RwZXFlcnJQNjNVclFiMFI3ODcyYllUZDFNYTZ4RnlfWnVYT3luSGFHbDBuM29KRWNpVS1JeWhlVHBvRzRPb2kwenB3S3BFbVpnRTFURUlfaVdnbDVKTm13dVM0WXVNMg?oc=5)
+
+`Thu, 13 Aug 2026 04:00:08 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMmtINnVUUDlScWpuTVI3MzZuYmpVTnQyVzBjanZVak40VnA5Tkg5UVRqbDI3YWpyUXgycm1tRGNWQW9NcTFRMjhvSmtOOVJ6UEtpV1RqSzJQc3J0QmI0XzU2TzhWRTZiM0RwZXFlcnJQNjNVclFiMFI3ODcyYllUZDFNYTZ4RnlfWnVYT3luSGFHbDBuM29KRWNpVS1JeWhlVHBvRzRPb2kwenB3S3BFbVpnRTFURUlfaVdnbDVKTm13dVM0WXVNMg?oc=5" target="_blank">Métiers, embauches, carrières : en France, le chamboule-tout de l'IA sur l'emploi</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
