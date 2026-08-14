@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Thu, 13 Aug 2026 17:47:17 +0000`
-> 71 articles (30 derniers jours)
+> Derniere mise a jour : `Fri, 14 Aug 2026 07:01:15 +0000`
+> 72 articles (30 derniers jours)
+
+---
+
+### [37.000 successions « vacantes » : quand Bercy récupère des centaines de millions d'euros faute d'héritiers - Les Echos](https://news.google.com/rss/articles/CBMi9AFBVV95cUxQWlE5SFR0YV93dU1JRkJWM3pXR1dtc3BGWlFGaE9MQkRpelEzcXlWeG1VWFZuR0l3bmp5cjZCRm0xXzV0aERjc0x6SjB1Q2s3TGpJb0hYX0dNYVVINFkwRmFhdUNUV1Jkc1FGMWVPVEN2cmlja1dxbDJ1TGNjZ2tPWFo2QllqaFV0UFhGeFVWSVdTbFJ3U21FN3B6SERmTXg1RHRxLW53bnAyazNwSjdneE1SVFBtclkycURrLU9iV0xCM0dxbUIwSUVseDJtSnZ3c05EbFc1OFA0MTUybF9INlFNbTY3NlV1eHdTSU9waTJ1aTM1?oc=5)
+
+`Fri, 14 Aug 2026 04:25:10 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi9AFBVV95cUxQWlE5SFR0YV93dU1JRkJWM3pXR1dtc3BGWlFGaE9MQkRpelEzcXlWeG1VWFZuR0l3bmp5cjZCRm0xXzV0aERjc0x6SjB1Q2s3TGpJb0hYX0dNYVVINFkwRmFhdUNUV1Jkc1FGMWVPVEN2cmlja1dxbDJ1TGNjZ2tPWFo2QllqaFV0UFhGeFVWSVdTbFJ3U21FN3B6SERmTXg1RHRxLW53bnAyazNwSjdneE1SVFBtclkycURrLU9iV0xCM0dxbUIwSUVseDJtSnZ3c05EbFc1OFA0MTUybF9INlFNbTY3NlV1eHdTSU9waTJ1aTM1?oc=5" target="_blank">37.000 successions « vacantes » : quand Bercy récupère des centaines de millions d'euros faute d'héritiers</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
