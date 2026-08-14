@@ -1,7 +1,23 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Fri, 14 Aug 2026 07:01:15 +0000`
-> 72 articles (30 derniers jours)
+> Derniere mise a jour : `Fri, 14 Aug 2026 10:09:47 +0000`
+> 74 articles (30 derniers jours)
+
+---
+
+### [Inflation, pouvoir d'achat : le grand fossé entre le ressenti des Français et la réalité des chiffres - Les Echos](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPQUxMc1VkemEzZU83bVVaTnVsalJTdklRYTBKb1Jva3Nob1h1a3pzVWVZbVV1UTQ0emt5ZUJuWE1vdGR0U2JwNmlNSGlSdUNNZlN6WEZMX1NjNDg1eXAzV1k5VjBZN2FOQTJCN3JGcWZaY05INHNRUmNVc3hjT29uSzNCWTNuZVVxeUt3SG45NkJxamtjQXN4a1dJNHp1VDB3cEp3NkZYYmw5Z0VwMXoxaUM3S3gydVZwNlphSURSMkd2MVc1WHFISUl0Q295R2NZT3NneUpkQkl3aXpGa0FaaVNRX2dZa3hiU3gwQzhR?oc=5)
+
+`Fri, 14 Aug 2026 10:00:09 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi7gFBVV95cUxPQUxMc1VkemEzZU83bVVaTnVsalJTdklRYTBKb1Jva3Nob1h1a3pzVWVZbVV1UTQ0emt5ZUJuWE1vdGR0U2JwNmlNSGlSdUNNZlN6WEZMX1NjNDg1eXAzV1k5VjBZN2FOQTJCN3JGcWZaY05INHNRUmNVc3hjT29uSzNCWTNuZVVxeUt3SG45NkJxamtjQXN4a1dJNHp1VDB3cEp3NkZYYmw5Z0VwMXoxaUM3S3gydVZwNlphSURSMkd2MVc1WHFISUl0Q295R2NZT3NneUpkQkl3aXpGa0FaaVNRX2dZa3hiU3gwQzhR?oc=5" target="_blank">Inflation, pouvoir d'achat : le grand fossé entre le ressenti des Français et la réalité des chiffres</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Ces comptes bancaires inactifs qui finissent dans les caisses de l'Etat - Les Echos](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdC1HbDVqQ3c5bWktYVhnZkxoSHlrdDQ4YVZiVUVJTmNDeElGaXg2dUQwT2w1YUl4dTQ2WVRsdDFocFJFR1Y2dDhlZjVwdmtqUE1qbDRHQ21vRmpUV3lBaUJwMU5WOHdKTUdNRGVsbDd1S3lmMHAxQXJHSG9aT2ZFVTZGVEVxaUlHdnJVQVNES1NWQUlUX0Iyc3ZkTFBLMGlCSEhJNlNhcFdTNEtlWGQ2S24xMEtjLTJVVndKX2hyc19EM19sNDZZVUQ1dVBoblBj?oc=5)
+
+`Fri, 14 Aug 2026 07:20:09 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdC1HbDVqQ3c5bWktYVhnZkxoSHlrdDQ4YVZiVUVJTmNDeElGaXg2dUQwT2w1YUl4dTQ2WVRsdDFocFJFR1Y2dDhlZjVwdmtqUE1qbDRHQ21vRmpUV3lBaUJwMU5WOHdKTUdNRGVsbDd1S3lmMHAxQXJHSG9aT2ZFVTZGVEVxaUlHdnJVQVNES1NWQUlUX0Iyc3ZkTFBLMGlCSEhJNlNhcFdTNEtlWGQ2S24xMEtjLTJVVndKX2hyc19EM19sNDZZVUQ1dVBoblBj?oc=5" target="_blank">Ces comptes bancaires inactifs qui finissent dans les caisses de l'Etat</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
