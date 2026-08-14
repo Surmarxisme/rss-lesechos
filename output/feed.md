@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Fri, 14 Aug 2026 12:44:20 +0000`
+> Derniere mise a jour : `Fri, 14 Aug 2026 17:42:43 +0000`
 > 74 articles (30 derniers jours)
+
+---
+
+### [L'aide à mourir validée par le Conseil constitutionnel - Les Echos](https://news.google.com/rss/articles/CBMirAFBVV95cUxOcURjdm5jSUwxMDQyZ1F3N0VRUFlvT1p0T1hwOWRfdVU0MHRtXzBxTjdrS3ktc1Q0TEl4akFxZm9iUkliTDBKWkc1SWloNU9jTXdKLXU5ckdzV1c1YWpfSWVaZGJvZ2ZjSm1rcFpyTnM1OFlSTnc4NDdFd2NNWHdCa09remFMZDQ4NWRGTlpScTVUakl2eHNDREFMVG5ZSVcxa2xZRjFnOThBUlVk?oc=5)
+
+`Fri, 14 Aug 2026 13:00:46 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxOcURjdm5jSUwxMDQyZ1F3N0VRUFlvT1p0T1hwOWRfdVU0MHRtXzBxTjdrS3ktc1Q0TEl4akFxZm9iUkliTDBKWkc1SWloNU9jTXdKLXU5ckdzV1c1YWpfSWVaZGJvZ2ZjSm1rcFpyTnM1OFlSTnc4NDdFd2NNWHdCa09remFMZDQ4NWRGTlpScTVUakl2eHNDREFMVG5ZSVcxa2xZRjFnOThBUlVk?oc=5" target="_blank">L'aide à mourir validée par le Conseil constitutionnel</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -586,13 +594,5 @@
 `Thu, 16 Jul 2026 09:13:52 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWkh2RHRaUlI1TzVXMDg4bjJZWG9Ua1BEWWxybGM5Y2Y2UU9vM181RWpVTHRoUG1ZRjBFcG1neFpjbVVnYjBKOXdIOThvUjQwOXpjWFplbkgyanliMG5Oek5kZVdOT253VFo4TXZ6NWZTRHFySG5QTk9WSVVBZjBXcjdDNFp1c2xmUXlnRWpXODdwbXF0Wi14QVlrZzZUTlQybXJGc1M5ZVFXN05qTU5nNFVKVmsxTFhGX0FNVmN0WjJGUVU1NTJNS3V0Z0pqVWxodHpQdklR?oc=5" target="_blank">Budget 2027 : le gouvernement met presque tous les ministères à contribution</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Budget : un effort de 125 milliards d'euros à fournir d'ici la fin du prochain quinquennat - Les Echos](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQQkRMSG9mNjlZTlVMa0xOY1F0blpXMDJ5cmo2OEhNUVB5Q3lTelB4cEhSUExMZGF0WV9IZHZqU21yUUJkbGY5VC1CS1MtbFhJSXdYV2JJVWs4SWw5VUVSOUpiWWtfdXVueEs5QlpHUWF1bEl1MG9xOFhBOUxXdDFlV25tMkNfb3VqbEpScnBITkhsLTdXZHplNzQ5eURqQ25aZnEyU2FXYU5ubVJEZkYtM0JTOFlGNG5sZjNYX1FGY2lnY0tHUDZydmFMa2E1MzZFQXA3Q2NocXJfV29CaC1hQ1c5YlNrZw?oc=5)
-
-`Wed, 15 Jul 2026 17:11:01 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi5gFBVV95cUxQQkRMSG9mNjlZTlVMa0xOY1F0blpXMDJ5cmo2OEhNUVB5Q3lTelB4cEhSUExMZGF0WV9IZHZqU21yUUJkbGY5VC1CS1MtbFhJSXdYV2JJVWs4SWw5VUVSOUpiWWtfdXVueEs5QlpHUWF1bEl1MG9xOFhBOUxXdDFlV25tMkNfb3VqbEpScnBITkhsLTdXZHplNzQ5eURqQ25aZnEyU2FXYU5ubVJEZkYtM0JTOFlGNG5sZjNYX1FGY2lnY0tHUDZydmFMa2E1MzZFQXA3Q2NocXJfV29CaC1hQ1c5YlNrZw?oc=5" target="_blank">Budget : un effort de 125 milliards d'euros à fournir d'ici la fin du prochain quinquennat</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
