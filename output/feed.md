@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Sat, 15 Aug 2026 09:28:38 +0000`
-> 73 articles (30 derniers jours)
+> Derniere mise a jour : `Sun, 16 Aug 2026 09:30:01 +0000`
+> 70 articles (30 derniers jours)
+
+---
+
+### [Pouvoir d'achat : ce qui attend les Français - Les Echos](https://news.google.com/rss/articles/CBMiowFBVV95cUxOeC1xdk5JWW9JYVc2azJzS09qLXh4RUt1ZERhLVVleVVlSWFTTk5oc0lWUm5FdEdXY21DRmtHeGZMdHlPMG1MMThzREZlckZfdWJacDliU3A5THV3RElycjAtcG1IeEdSMXhGLUNEOXJhMmNTT0I1WHVFa1g4b0ZHektjVzVXd1VJOFk1YVZRSW00VGZWLVgtUzZadkNqSnIybHFN?oc=5)
+
+`Sun, 16 Aug 2026 07:00:13 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiowFBVV95cUxOeC1xdk5JWW9JYVc2azJzS09qLXh4RUt1ZERhLVVleVVlSWFTTk5oc0lWUm5FdEdXY21DRmtHeGZMdHlPMG1MMThzREZlckZfdWJacDliU3A5THV3RElycjAtcG1IeEdSMXhGLUNEOXJhMmNTT0I1WHVFa1g4b0ZHektjVzVXd1VJOFk1YVZRSW00VGZWLVgtUzZadkNqSnIybHFN?oc=5" target="_blank">Pouvoir d'achat : ce qui attend les Français</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -554,37 +562,5 @@
 `Fri, 17 Jul 2026 13:08:13 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi5gFBVV95cUxPVDh6REZFQ3Zwel81U3hiLWtVRDJsT3dFd25xU25lWWgwNFNhM2s1WVc5MzFKX3IzSDRhZzhoQkJkVzdCWkxKbGVvN0pueFpUamRkUFBSc1hnY0xVbzFUV0FsR0JnWnZKcnNCODN2ZThWVXJzWEtWNTd4YVpSMkxZaUNielV5aHV6T2hCRXItVVhpT3BEM2FRY0Z2alhmOWlzU2ZDeHBTRW1NQkl4dEwzM1dqaWRzVXZWc2hkS2NuUGo1QThISUlXMlpPLUc5aVdiVmt2dTVCcHdIWGxpeXdsNC1wS1BmZw?oc=5" target="_blank">Après la polémique de l'an dernier, les nouveaux chiffres des aides publiques aux entreprises</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Les situations de fragilité augmentent au sein des PME et des ETI françaises - Les Echos](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSER0ODRNSXhhbWw2RW1RQVJ4QjhraV9iZWtMejQ2cTNJU0JqN2JQSERJUXp1NzA4bUdUTllnMlJPaW5TazRTSkxyZExfWlpoMTJzMlQta3BuOW0tMXlXUlBTZU5EUjZtREhvZFRDalduV0pZRWNreFZtV1o0ekp6V1ctMmhlVGZPYlR4c0xEQUIyNWZkTXVPNnVWUDd5enZwcE9DQXgza3d2ZndRdWthZVNrNmczZlBteWozeXlSNG1lVUprbHRLanRTWTQzdGJIcGc?oc=5)
-
-`Fri, 17 Jul 2026 08:00:00 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSER0ODRNSXhhbWw2RW1RQVJ4QjhraV9iZWtMejQ2cTNJU0JqN2JQSERJUXp1NzA4bUdUTllnMlJPaW5TazRTSkxyZExfWlpoMTJzMlQta3BuOW0tMXlXUlBTZU5EUjZtREhvZFRDalduV0pZRWNreFZtV1o0ekp6V1ctMmhlVGZPYlR4c0xEQUIyNWZkTXVPNnVWUDd5enZwcE9DQXgza3d2ZndRdWthZVNrNmczZlBteWozeXlSNG1lVUprbHRLanRTWTQzdGJIcGc?oc=5" target="_blank">Les situations de fragilité augmentent au sein des PME et des ETI françaises</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Retraites complémentaires Agirc-Arrco : coup de pression syndical sur la revalorisation des pensions - Les Echos](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQWk4xZW5yeUhSWlR3VHl0dENna2w5T1RBR1FXS3AxaUg0Mm5TS19UVmhUZkRLTDBTR1VTd1hzMzZYSWJVek0yT20wN0Vud2duRHJvelR5WmlxbHptd1ItbXlFT2Ytc0lmRklvNUJIQVZBcktQNmpMdWgxdlRUSzBkODkySzY4OVA5V21BQUtHSUpVZGxsR0R5QnBoakU4TmVleDhSSjZQVFZRYlFNLVJsNHh3RFNlVVlSbFVGVDFuQ19VUkVBdUVoQkhWX0d2a20zNjFnakRCb1ZPREZTZ29ydDc0b2wxa0Fm?oc=5)
-
-`Thu, 16 Jul 2026 15:38:14 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi6AFBVV95cUxQWk4xZW5yeUhSWlR3VHl0dENna2w5T1RBR1FXS3AxaUg0Mm5TS19UVmhUZkRLTDBTR1VTd1hzMzZYSWJVek0yT20wN0Vud2duRHJvelR5WmlxbHptd1ItbXlFT2Ytc0lmRklvNUJIQVZBcktQNmpMdWgxdlRUSzBkODkySzY4OVA5V21BQUtHSUpVZGxsR0R5QnBoakU4TmVleDhSSjZQVFZRYlFNLVJsNHh3RFNlVVlSbFVGVDFuQ19VUkVBdUVoQkhWX0d2a20zNjFnakRCb1ZPREZTZ29ydDc0b2wxa0Fm?oc=5" target="_blank">Retraites complémentaires Agirc-Arrco : coup de pression syndical sur la revalorisation des pensions</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Jean-Pierre Farandou : « Les crédits de l'apprentissage seront préservés, par les temps qui courent, c'est un choix fort - Les Echos](https://news.google.com/rss/articles/CBMi-wFBVV95cUxOYjdFSno0WHVJazBsVVB1STl3aTIxalZnUF80QW5TM2xkUDJiYzNpdjhsSWZiSnFBdXJyOWpqVk1wX3RWSVFqcTdZRUVNdmwtcUZHWUlXQUlGUUpzZ1pGOW52ZmJjYWpRWktXQmJJRFluLXNfSklYT3IwTHFEX0otTzN1djhrRnozVFg5eDgtMUZkUW83Y0puekxXRHR1M2dBUU91eEdZR05iOXhqNkJUSXhUQjVWSDE5a013TDR2UGpfTHdoc2FaMnZSWVl4THByYjBqeXRoakhQZ3dBRUFjRGlFeFJSQkNWejdkbExrdVc2dVRCZTlHWUsyNA?oc=5)
-
-`Thu, 16 Jul 2026 17:26:47 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi-wFBVV95cUxOYjdFSno0WHVJazBsVVB1STl3aTIxalZnUF80QW5TM2xkUDJiYzNpdjhsSWZiSnFBdXJyOWpqVk1wX3RWSVFqcTdZRUVNdmwtcUZHWUlXQUlGUUpzZ1pGOW52ZmJjYWpRWktXQmJJRFluLXNfSklYT3IwTHFEX0otTzN1djhrRnozVFg5eDgtMUZkUW83Y0puekxXRHR1M2dBUU91eEdZR05iOXhqNkJUSXhUQjVWSDE5a013TDR2UGpfTHdoc2FaMnZSWVl4THByYjBqeXRoakhQZ3dBRUFjRGlFeFJSQkNWejdkbExrdVc2dVRCZTlHWUsyNA?oc=5" target="_blank">Jean-Pierre Farandou : « Les crédits de l'apprentissage seront préservés, par les temps qui courent, c'est un choix fort</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Moins de mariages, plus de recompositions, plus d'homoparentalité : le profond bouleversement des familles françaises - Les Echos](https://news.google.com/rss/articles/CBMi-wFBVV95cUxOVXc1QnlibG9qV19Za3FSeEpYSk5YSDRMZUlMRFlwdDc2SUxhR2o0dkdDMHNhUkJJbmZuQ3dqTlpqTmRUX0NxSFkxUFRvTno4dmM5Zk9KUEstWEtCb2p6Y09pdjRUU0RfTTktTzZWcWlmbzVoVzBfX3M5UGR2LVdXY2d1WG9uc0lHSUFINjByMEFTSloyYlJoSTJwWkdzaUIzc1NENnczSFB3MTliVm1JdDJ4dVpvcWJpaGJFRHMxVks2WElCeHpJdGtGVDRDUWdwY3Z4N05vTV9DMUROTnlHUENEajVRSFRPUl95UkNWR0pDRUl4a1l6RVhVbw?oc=5)
-
-`Thu, 16 Jul 2026 09:47:17 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi-wFBVV95cUxOVXc1QnlibG9qV19Za3FSeEpYSk5YSDRMZUlMRFlwdDc2SUxhR2o0dkdDMHNhUkJJbmZuQ3dqTlpqTmRUX0NxSFkxUFRvTno4dmM5Zk9KUEstWEtCb2p6Y09pdjRUU0RfTTktTzZWcWlmbzVoVzBfX3M5UGR2LVdXY2d1WG9uc0lHSUFINjByMEFTSloyYlJoSTJwWkdzaUIzc1NENnczSFB3MTliVm1JdDJ4dVpvcWJpaGJFRHMxVks2WElCeHpJdGtGVDRDUWdwY3Z4N05vTV9DMUROTnlHUENEajVRSFRPUl95UkNWR0pDRUl4a1l6RVhVbw?oc=5" target="_blank">Moins de mariages, plus de recompositions, plus d'homoparentalité : le profond bouleversement des familles françaises</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
