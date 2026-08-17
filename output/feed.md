@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Mon, 17 Aug 2026 12:25:55 +0000`
-> 68 articles (30 derniers jours)
+> Derniere mise a jour : `Mon, 17 Aug 2026 17:15:32 +0000`
+> 69 articles (30 derniers jours)
+
+---
+
+### [La réforme du Code du travail par ordonnances - Les Echos](https://news.google.com/rss/articles/CBMiowFBVV95cUxPUk4wR0cxNi1KUTE4aWQzLTRyNFdqSDFlMHVCWVlFMEtFd1d4V1l2MHd6LVNBdGo0MEJ6WDNZakVWdGpjNXJIZ3hab2NQc20tbm11bTI1ekhjajBIN1hWblpZVWh1Tk1fTGJEREFLbGlwakVnOWx0Q1MwV1VzaGdHSUFvMzFXVTBfMDNlR1dpbm5TWHNaWkFGa1EyRU9odXA1OHdZ?oc=5)
+
+`Mon, 17 Aug 2026 13:19:00 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiowFBVV95cUxPUk4wR0cxNi1KUTE4aWQzLTRyNFdqSDFlMHVCWVlFMEtFd1d4V1l2MHd6LVNBdGo0MEJ6WDNZakVWdGpjNXJIZ3hab2NQc20tbm11bTI1ekhjajBIN1hWblpZVWh1Tk1fTGJEREFLbGlwakVnOWx0Q1MwV1VzaGdHSUFvMzFXVTBfMDNlR1dpbm5TWHNaWkFGa1EyRU9odXA1OHdZ?oc=5" target="_blank">La réforme du Code du travail par ordonnances</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
