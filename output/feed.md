@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Sun, 16 Aug 2026 09:30:01 +0000`
-> 70 articles (30 derniers jours)
+> Derniere mise a jour : `Mon, 17 Aug 2026 06:25:06 +0000`
+> 69 articles (30 derniers jours)
+
+---
+
+### [Niches fiscales, retraites, déficit : les premières pistes du budget 2027 commencent à se dessiner - Les Echos](https://news.google.com/rss/articles/CBMi8AFBVV95cUxOR2UyaFdHVHBmZktSQS00c3pXMmJCQ2huRnp3dno1Z0ZOYVAzZVdUY21ZVGJoS0ZONjI4VHBvLXFKQ1c5ZE1oTnIwRGNRQzJ6UkZETUtnLWp3b1E1NDJTZFp2TTNRSGtHaWhPX0Y5UGs2M1dVT1lWYW5oSGRuMTNoVXRLVnhQd0ROTDRtRFQ3cVNtN0w3U0JpOGQ3Mk1PQlZ4VlZwV0tKS3Vpd1d5bjlGNVhCOG9GRGdMbURZRlFyU1B4NmZLbEtOVVRpLWpOSldNZFVSM0w0UFZsbmFJV3V6UlZabmo4QnBuMXVpWFlYQjU?oc=5)
+
+`Mon, 17 Aug 2026 04:00:09 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi8AFBVV95cUxOR2UyaFdHVHBmZktSQS00c3pXMmJCQ2huRnp3dno1Z0ZOYVAzZVdUY21ZVGJoS0ZONjI4VHBvLXFKQ1c5ZE1oTnIwRGNRQzJ6UkZETUtnLWp3b1E1NDJTZFp2TTNRSGtHaWhPX0Y5UGs2M1dVT1lWYW5oSGRuMTNoVXRLVnhQd0ROTDRtRFQ3cVNtN0w3U0JpOGQ3Mk1PQlZ4VlZwV0tKS3Vpd1d5bjlGNVhCOG9GRGdMbURZRlFyU1B4NmZLbEtOVVRpLWpOSldNZFVSM0w0UFZsbmFJV3V6UlZabmo4QnBuMXVpWFlYQjU?oc=5" target="_blank">Niches fiscales, retraites, déficit : les premières pistes du budget 2027 commencent à se dessiner</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -546,21 +554,5 @@
 `Sat, 18 Jul 2026 06:44:09 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWUU5MFZMcU9jMjBTODRMbENBTDhfOHlka3Zzd05rdGdfVmtGNlAyZkJ4cEpURm1jQ0JaQ1RnbFgyMVNfZndUdktIRWV5TnYyeHBueVNiNGRVb1ZKSHRIbUdHRkRYajRockd1VkNqZXZLbVh0cmhFTGpVczRubjZ2ODJXZjZVMzd0blJ4Mm8tbE8xdjhUM2ZERkxMUmFiejNjVmxlaWhpV3FuX1drZW50ZDgtRFNneXdo?oc=5" target="_blank">Formation : les achats réalisés via le CPF continuent de baisser</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Faire valider chaque achat de formation : le virage sur l'aile du gouvernement sur le CPF - Les Echos](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNejNDTXVFNXlSN0p3elBTQTI5NDdmWFhZRnFXMElMRy05WDJMeUtoS3I2MkdXUWlzZVlTcFk0TXVwMk9rNHQtVzJTUk13VTc2cHp4M196S1FHbFJDZkhZclhDbVhvM2RDMFNmajQtem9aeGxCMTZCbWJhYjB1dkY4ZkIxT282bWUzWmV2RVpoeDVfTXJScHVwYlRMWEY1LVRRMTJyZ2E4SDFzVzJ2UW5LX2tjOWNhckJPOEFvMHJ4a3dsM1BPODlIbm5qRUt0YjNvbFRUcHZ5MU4?oc=5)
-
-`Fri, 17 Jul 2026 14:37:54 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi2AFBVV95cUxNejNDTXVFNXlSN0p3elBTQTI5NDdmWFhZRnFXMElMRy05WDJMeUtoS3I2MkdXUWlzZVlTcFk0TXVwMk9rNHQtVzJTUk13VTc2cHp4M196S1FHbFJDZkhZclhDbVhvM2RDMFNmajQtem9aeGxCMTZCbWJhYjB1dkY4ZkIxT282bWUzWmV2RVpoeDVfTXJScHVwYlRMWEY1LVRRMTJyZ2E4SDFzVzJ2UW5LX2tjOWNhckJPOEFvMHJ4a3dsM1BPODlIbm5qRUt0YjNvbFRUcHZ5MU4?oc=5" target="_blank">Faire valider chaque achat de formation : le virage sur l'aile du gouvernement sur le CPF</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Après la polémique de l'an dernier, les nouveaux chiffres des aides publiques aux entreprises - Les Echos](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPVDh6REZFQ3Zwel81U3hiLWtVRDJsT3dFd25xU25lWWgwNFNhM2s1WVc5MzFKX3IzSDRhZzhoQkJkVzdCWkxKbGVvN0pueFpUamRkUFBSc1hnY0xVbzFUV0FsR0JnWnZKcnNCODN2ZThWVXJzWEtWNTd4YVpSMkxZaUNielV5aHV6T2hCRXItVVhpT3BEM2FRY0Z2alhmOWlzU2ZDeHBTRW1NQkl4dEwzM1dqaWRzVXZWc2hkS2NuUGo1QThISUlXMlpPLUc5aVdiVmt2dTVCcHdIWGxpeXdsNC1wS1BmZw?oc=5)
-
-`Fri, 17 Jul 2026 13:08:13 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi5gFBVV95cUxPVDh6REZFQ3Zwel81U3hiLWtVRDJsT3dFd25xU25lWWgwNFNhM2s1WVc5MzFKX3IzSDRhZzhoQkJkVzdCWkxKbGVvN0pueFpUamRkUFBSc1hnY0xVbzFUV0FsR0JnWnZKcnNCODN2ZThWVXJzWEtWNTd4YVpSMkxZaUNielV5aHV6T2hCRXItVVhpT3BEM2FRY0Z2alhmOWlzU2ZDeHBTRW1NQkl4dEwzM1dqaWRzVXZWc2hkS2NuUGo1QThISUlXMlpPLUc5aVdiVmt2dTVCcHdIWGxpeXdsNC1wS1BmZw?oc=5" target="_blank">Après la polémique de l'an dernier, les nouveaux chiffres des aides publiques aux entreprises</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
