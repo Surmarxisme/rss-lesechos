@@ -1,7 +1,23 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Mon, 17 Aug 2026 17:15:32 +0000`
-> 69 articles (30 derniers jours)
+> Derniere mise a jour : `Tue, 18 Aug 2026 06:18:44 +0000`
+> 71 articles (30 derniers jours)
+
+---
+
+### [Des jeunes sacrifiés, des retraités épargnés ? L'équité entre générations divise les économistes - Les Echos](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNdTYtV1dHTHVzVklLcmJSb0tqR2tUVUhPdGI5QUdIOXR1WFVzUTJ1cmk4QnFYN3czLWpobmluVmZWZUFadnBwdDd4ZlBLVlhWRV82VGI0SHJQT2pQbmhuajJXYWRUak91NnZOeVNjY2Q2dmY2T0dxazB6YkQ4M0VydEFRZ0FLZnN6c0tuY0JhMmlBR21xYnhYUXRrNDhSNzk5LWtyRG03OUZjSXVIb1huX1p4VkR2cXVnTG1iak81OXBPX2dTeTlSY3ZERHFJN3pGMUo2LXZ5dlBnRzJRTHJhVnlZcGRKUm8?oc=5)
+
+`Tue, 18 Aug 2026 05:20:10 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi5wFBVV95cUxNdTYtV1dHTHVzVklLcmJSb0tqR2tUVUhPdGI5QUdIOXR1WFVzUTJ1cmk4QnFYN3czLWpobmluVmZWZUFadnBwdDd4ZlBLVlhWRV82VGI0SHJQT2pQbmhuajJXYWRUak91NnZOeVNjY2Q2dmY2T0dxazB6YkQ4M0VydEFRZ0FLZnN6c0tuY0JhMmlBR21xYnhYUXRrNDhSNzk5LWtyRG03OUZjSXVIb1huX1p4VkR2cXVnTG1iak81OXBPX2dTeTlSY3ZERHFJN3pGMUo2LXZ5dlBnRzJRTHJhVnlZcGRKUm8?oc=5" target="_blank">Des jeunes sacrifiés, des retraités épargnés ? L'équité entre générations divise les économistes</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Patrimoine, niveau de vie : la vérité des chiffres sur les écarts entre jeunes et retraités - Les Echos](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQcmJ6ZHZKSGNrczE1RHhKSDBLQVE3bzk5ZWNkZlNsOVgtQ19SRlNzNldKYlBEeXpiOWFVc1JVS2VUbXVaUU40ZUo1Q2g0a0JldlBSR2NzenBDS2d6b3F6VGo2bWNPaldwSDh6RG9GS3lBNEw1UTNHWmdUcEx3Z1pyWDBXVTJuOXRaUUlPUFZFQzJQSG95b3FrVE8wYXNfSDBYb2lqcG9DZEE1SXRrODNIZWk0eGlyTld4MVNoYWVLQ285OTNZdnpiU1pvNlY4MlJodFQwZjZIWWdFLV9FY2U4VHh3?oc=5)
+
+`Tue, 18 Aug 2026 04:30:11 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi4gFBVV95cUxQcmJ6ZHZKSGNrczE1RHhKSDBLQVE3bzk5ZWNkZlNsOVgtQ19SRlNzNldKYlBEeXpiOWFVc1JVS2VUbXVaUU40ZUo1Q2g0a0JldlBSR2NzenBDS2d6b3F6VGo2bWNPaldwSDh6RG9GS3lBNEw1UTNHWmdUcEx3Z1pyWDBXVTJuOXRaUUlPUFZFQzJQSG95b3FrVE8wYXNfSDBYb2lqcG9DZEE1SXRrODNIZWk0eGlyTld4MVNoYWVLQ285OTNZdnpiU1pvNlY4MlJodFQwZjZIWWdFLV9FY2U4VHh3?oc=5" target="_blank">Patrimoine, niveau de vie : la vérité des chiffres sur les écarts entre jeunes et retraités</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
