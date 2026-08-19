@@ -1,7 +1,7 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Tue, 18 Aug 2026 17:16:39 +0000`
-> 72 articles (30 derniers jours)
+> Derniere mise a jour : `Wed, 19 Aug 2026 06:19:29 +0000`
+> 70 articles (30 derniers jours)
 
 ---
 
@@ -469,14 +469,6 @@
 
 ---
 
-### [Indicateurs économiques | Page 774 - Les Echos](https://news.google.com/rss/articles/CBMijAFBVV95cUxQVFNsbTZ5cm1hclpLeWo0VklUVnAzN3NmZnZRU0xmUVRwb3djNGZJc1h4NWpHWjZyanFRWGJYVW5zU0c1OFAzYkVqWlVrellCTlE1ZHc5MHVIYnlyck9DalVUMzg1a1BOckZWVGJtNWRyckpYS0tHWjNUWUotYVNRb2xyZkRWMWdDZk1Keg?oc=5)
-
-`Sun, 19 Jul 2026 19:00:27 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMijAFBVV95cUxQVFNsbTZ5cm1hclpLeWo0VklUVnAzN3NmZnZRU0xmUVRwb3djNGZJc1h4NWpHWjZyanFRWGJYVW5zU0c1OFAzYkVqWlVrellCTlE1ZHc5MHVIYnlyck9DalVUMzg1a1BOckZWVGJtNWRyckpYS0tHWjNUWUotYVNRb2xyZkRWMWdDZk1Keg?oc=5" target="_blank">Indicateurs économiques | Page 774</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
 ### [Médicaments, dentistes, taxis : le gouvernement veut baisser tous azimuts les taux de remboursement de la Sécurité sociale - Les Echos](https://news.google.com/rss/articles/CBMigwJBVV95cUxPVVcxbDNRZEJ4MmhYRHFOcjJlMFpoY2FwRFhIR2pfVkx0X0NuVWE0ei1ScUp5UGpCOXFtTUsya082OGVMcUdzMy1pV1BhMThmVG95Q3QweHpwN25FbWpZSjdCTWRwX2VLczZKX01PV1ZwaFhnOFVISHhOc2VrdTZROEQwSzlacUNZb19yUFhMcmZnSGo0S3ljczFmSWFjSkF1SjhKVUUtOGw1Sl9YZmIyQTBfSEx6aEtMblJ6eUY0VTB0UHlnOUlNYU82dnlaU01XbWlIcVdkZ2FCaFZJZVlRZzZBUFZDVjhtTk9QM1pDNUJNMTFaQUtYWEJXV3BqUHRnd3BB?oc=5)
 
 `Fri, 24 Jul 2026 04:00:09 GMT`
@@ -570,13 +562,5 @@
 `Mon, 20 Jul 2026 11:45:09 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMixwJBVV95cUxPbEUtZ1NIZjVDS2Zva3NobjMyQnhvS2NxX0FtR1N0cG10S3JHR3hydG45OGY2TlVHZnVHcWNleGtvRllIeWt3aGNXbWVJMG9CX19WSmdvVE9WNXpteFdKZ1BjM1NCSE5kT3RreXZVVkFxbTJfSjdYSVpWeVR5SHh3bmd2ZnpHSUNTQ0RLZG5DTjM3UFY4RUU4OU45Sk13VTFzQ1hpYi1FNkZMbExNc2ItV3JzMVZjQXIzZHBSUzA1TWIwazBNOFEyZ2luRC1rVm1DZXJPN1pVaTZUUmdmTDBpSDNPM3ZhY3FSYWFuSUs3bnFtanRzcUZmMUVySmJrQjdtcFNNMnd3QVMybVNBazFpbWRZNDFmUG5PVHI2ZDd2Nm0yU0JsVER0T3NnRE5BUnRyR2w5QWI5bVZFbF9jbkRuZzJyYUdKRkE?oc=5" target="_blank">ISF, taxe Zucman : la mission d'enquête des députés balaie les solutions de la gauche mais avance un plan concret contre l'optimisation fiscale des grandes fortunes</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Les canicules à répétition mettent la croissance française sous pression - Les Echos](https://news.google.com/rss/articles/CBMizAFBVV95cUxNY01LTUVET2FrdUZNU1UyV0pDM3JrYWMxcUh4RkVGN2JVU1pZX3NkallaM2ZQaVAyNGd6MHB0UnpLbkhRSGxPaDhCVzdGRTBkOVYyclNWMjhzUHQ5VmoxQXh3ZjdhUFNXZC1QaDBRT1BZdmpUcmlZalFPRjJ4Y2VfZmhIbG1oWHRIZThzWkIyVG9adFJQVmJpZ1Y0dFEzemhORF9iakFxVWExWnBzOVZ2VDhqZVVJTWxyY3NLUnhzNW1UOC1Kam40Wi1RZUg?oc=5)
-
-`Mon, 20 Jul 2026 04:17:09 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMizAFBVV95cUxNY01LTUVET2FrdUZNU1UyV0pDM3JrYWMxcUh4RkVGN2JVU1pZX3NkallaM2ZQaVAyNGd6MHB0UnpLbkhRSGxPaDhCVzdGRTBkOVYyclNWMjhzUHQ5VmoxQXh3ZjdhUFNXZC1QaDBRT1BZdmpUcmlZalFPRjJ4Y2VfZmhIbG1oWHRIZThzWkIyVG9adFJQVmJpZ1Y0dFEzemhORF9iakFxVWExWnBzOVZ2VDhqZVVJTWxyY3NLUnhzNW1UOC1Kam40Wi1RZUg?oc=5" target="_blank">Les canicules à répétition mettent la croissance française sous pression</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
