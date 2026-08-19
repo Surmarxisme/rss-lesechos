@@ -1,7 +1,31 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Wed, 19 Aug 2026 12:28:06 +0000`
-> 69 articles (30 derniers jours)
+> Derniere mise a jour : `Wed, 19 Aug 2026 17:16:10 +0000`
+> 71 articles (30 derniers jours)
+
+---
+
+### [Canicule : la deuxième vague de chaleur de l'été a fait 1.243 morts - Les Echos](https://news.google.com/rss/articles/CBMiugFBVV95cUxQdkhvWjdvNE0xY3dMczhfOUtMUmt5cFE1RXJjNTlBR1JMZV9Td25KUGlpQWNUaElDWUh3ZW9TUzVCblB2SGNMUW1WXzFoZUdqamZmaW50YmpkdmwxQ01LUUVFQVM3R0pHRHlBRUhWdGtZZkkyRlNMUGZyQzlLWlBGQTBqU19mMHczbWs4ZjFKX2ZOa3J2MHdIR2xLN0kteTl5MEtkYzFxVF9QbjA5Sm5CbjJRRzREUEQ1MEE?oc=5)
+
+`Wed, 19 Aug 2026 15:35:59 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxQdkhvWjdvNE0xY3dMczhfOUtMUmt5cFE1RXJjNTlBR1JMZV9Td25KUGlpQWNUaElDWUh3ZW9TUzVCblB2SGNMUW1WXzFoZUdqamZmaW50YmpkdmwxQ01LUUVFQVM3R0pHRHlBRUhWdGtZZkkyRlNMUGZyQzlLWlBGQTBqU19mMHczbWs4ZjFKX2ZOa3J2MHdIR2xLN0kteTl5MEtkYzFxVF9QbjA5Sm5CbjJRRzREUEQ1MEE?oc=5" target="_blank">Canicule : la deuxième vague de chaleur de l'été a fait 1.243 morts</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Rentrée scolaire : baisse surprise du prix des fournitures - Les Echos](https://news.google.com/rss/articles/CBMisAFBVV95cUxPUnlZRGtYN2RRWXNvVkZlZk5memc1cXlWaGtNNk5CMER6TGZKMU4wbGZ1QTJFakZhTjREMWVaQVBnX2xrd3RqcWxjbEdpQklGZ29TMG5XNmhoX0NtV3AtNFNqdURVRFFpMG5kSXNkbGVHdW1DbkRnTVNsem1QLWZzWFpYd0FCSjJTaE9IYXo5R0xIVUN5MVhlUHFGMXVicXpLYllhWi1YZlpST1NyNWxHeA?oc=5)
+
+`Wed, 19 Aug 2026 13:05:32 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxPUnlZRGtYN2RRWXNvVkZlZk5memc1cXlWaGtNNk5CMER6TGZKMU4wbGZ1QTJFakZhTjREMWVaQVBnX2xrd3RqcWxjbEdpQklGZ29TMG5XNmhoX0NtV3AtNFNqdURVRFFpMG5kSXNkbGVHdW1DbkRnTVNsem1QLWZzWFpYd0FCSjJTaE9IYXo5R0xIVUN5MVhlUHFGMXVicXpLYllhWi1YZlpST1NyNWxHeA?oc=5" target="_blank">Rentrée scolaire : baisse surprise du prix des fournitures</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Emplois vacants, une baisse qui se confirme - Les Echos](https://news.google.com/rss/articles/CBMingFBVV95cUxNLXdHdW1jeFlnWEEwbWVmVGIyemlJa2twUE5fMDZ5UVZaYldCbzhZTWxacUtiZ3llMmJpc2lqYU1hVzlJT3RfVWNDbWdBZkFhcEsxN194YUdvdl95V3lSNnZfVUlDdTlBdnkyWVpWX09yUmtuclRkYnpuX0NpaWttR1psSGxPVU5YdmV3dlpoWUFvN3FWWlE4QjFZWkl5Zw?oc=5)
+
+`Wed, 19 Aug 2026 15:24:56 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMingFBVV95cUxNLXdHdW1jeFlnWEEwbWVmVGIyemlJa2twUE5fMDZ5UVZaYldCbzhZTWxacUtiZ3llMmJpc2lqYU1hVzlJT3RfVWNDbWdBZkFhcEsxN194YUdvdl95V3lSNnZfVUlDdTlBdnkyWVpWX09yUmtuclRkYnpuX0NpaWttR1psSGxPVU5YdmV3dlpoWUFvN3FWWlE4QjFZWkl5Zw?oc=5" target="_blank">Emplois vacants, une baisse qui se confirme</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -538,14 +562,6 @@
 `Tue, 21 Jul 2026 08:50:34 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxQV3NDWWR1ak9jUVQxTjVDOTlodzJrYkdJTzZoY0hVeFdMSWxwcWhOY2JuQlVqZzZMdDMwN2lRT3E1anVzM281enJnVUdrNFJwS0o4RXZkMG5hNUJ2VTI4QnRvY2J1aFFQcGV0eEIxTUdGTERfV3VrNXFOVFZ1YjJjTUxuWXlLRnF1RjN2ajd5NlBjRGljQVhYUDVnUVBJbEtzZDJYOFh6WEgzcWRUTXBZZTJJQVpWNFhJclA2WlZ1b2ppX1J2cmJSdw?oc=5" target="_blank">Les Français toujours plus nombreux à se lancer dans l'entrepreneuriat</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Canicule, dette, délai de paiement, l'hôpital en surchauffe - Les Echos](https://news.google.com/rss/articles/CBMirwFBVV95cUxObzBrTm04dzIxV3pGMllVZGVZQ19aUllmQlNPdDVhZ3cwb1NlMnRnZW1UZVBVUXBpZl9QY2pybjNzdHdldlU2a0wyNjNQTWp2R29UTzBhemp3OHBzcUJpc0dlMTMzUk1teXBNcU43SXBTQV84bHA3cWNrUHdCdVdOVGNCUndGWjJXV1NWaXFRRTJhZzV6enU5RTV3T21CUGZJemQ4MzRtclFfNldram5F?oc=5)
-
-`Mon, 20 Jul 2026 15:00:47 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxObzBrTm04dzIxV3pGMllVZGVZQ19aUllmQlNPdDVhZ3cwb1NlMnRnZW1UZVBVUXBpZl9QY2pybjNzdHdldlU2a0wyNjNQTWp2R29UTzBhemp3OHBzcUJpc0dlMTMzUk1teXBNcU43SXBTQV84bHA3cWNrUHdCdVdOVGNCUndGWjJXV1NWaXFRRTJhZzV6enU5RTV3T21CUGZJemQ4MzRtclFfNldram5F?oc=5" target="_blank">Canicule, dette, délai de paiement, l'hôpital en surchauffe</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
