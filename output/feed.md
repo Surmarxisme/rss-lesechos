@@ -1,7 +1,7 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Wed, 19 Aug 2026 09:39:00 +0000`
-> 70 articles (30 derniers jours)
+> Derniere mise a jour : `Wed, 19 Aug 2026 12:28:06 +0000`
+> 69 articles (30 derniers jours)
 
 ---
 
@@ -554,13 +554,5 @@
 `Tue, 21 Jul 2026 04:30:11 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi5AFBVV95cUxOT1JwYXpBaTF0NElxMzdhWlR5SE1nSUZ4S2U1bldTNUdzV1lwSm1BQ1Q2anh1aU16TkpiTktiS0ViZ1FKTW5LT0xSZmdOR04tVnBXZ1dlQWlaWTZUQmlyMHVGZDBubFRzU1pTMlZBQmhxemtxMUtTU2NQXzB0WGVfdk4wSU5PNm9mSDFHcUVLMm9LQUtwZElUcVJGTWJ0aHItZFBEODdKdVd0MmNYVHpHUGRtZnJzdXRxV2dyR1pBMzhMcS1BSGd2cTA3ZGJSVkxrNFMxYmtlNFItYWZ1aTdEUFlmZW4?oc=5" target="_blank">Budget 2027 : l'avantage fiscal de l'apprentissage à nouveau sur la sellette pour les contribuables</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [ISF, taxe Zucman : la mission d'enquête des députés balaie les solutions de la gauche mais avance un plan concret contre l'optimisation fiscale des grandes fortunes - Les Echos](https://news.google.com/rss/articles/CBMixwJBVV95cUxPbEUtZ1NIZjVDS2Zva3NobjMyQnhvS2NxX0FtR1N0cG10S3JHR3hydG45OGY2TlVHZnVHcWNleGtvRllIeWt3aGNXbWVJMG9CX19WSmdvVE9WNXpteFdKZ1BjM1NCSE5kT3RreXZVVkFxbTJfSjdYSVpWeVR5SHh3bmd2ZnpHSUNTQ0RLZG5DTjM3UFY4RUU4OU45Sk13VTFzQ1hpYi1FNkZMbExNc2ItV3JzMVZjQXIzZHBSUzA1TWIwazBNOFEyZ2luRC1rVm1DZXJPN1pVaTZUUmdmTDBpSDNPM3ZhY3FSYWFuSUs3bnFtanRzcUZmMUVySmJrQjdtcFNNMnd3QVMybVNBazFpbWRZNDFmUG5PVHI2ZDd2Nm0yU0JsVER0T3NnRE5BUnRyR2w5QWI5bVZFbF9jbkRuZzJyYUdKRkE?oc=5)
-
-`Mon, 20 Jul 2026 11:45:09 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMixwJBVV95cUxPbEUtZ1NIZjVDS2Zva3NobjMyQnhvS2NxX0FtR1N0cG10S3JHR3hydG45OGY2TlVHZnVHcWNleGtvRllIeWt3aGNXbWVJMG9CX19WSmdvVE9WNXpteFdKZ1BjM1NCSE5kT3RreXZVVkFxbTJfSjdYSVpWeVR5SHh3bmd2ZnpHSUNTQ0RLZG5DTjM3UFY4RUU4OU45Sk13VTFzQ1hpYi1FNkZMbExNc2ItV3JzMVZjQXIzZHBSUzA1TWIwazBNOFEyZ2luRC1rVm1DZXJPN1pVaTZUUmdmTDBpSDNPM3ZhY3FSYWFuSUs3bnFtanRzcUZmMUVySmJrQjdtcFNNMnd3QVMybVNBazFpbWRZNDFmUG5PVHI2ZDd2Nm0yU0JsVER0T3NnRE5BUnRyR2w5QWI5bVZFbF9jbkRuZzJyYUdKRkE?oc=5" target="_blank">ISF, taxe Zucman : la mission d'enquête des députés balaie les solutions de la gauche mais avance un plan concret contre l'optimisation fiscale des grandes fortunes</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
