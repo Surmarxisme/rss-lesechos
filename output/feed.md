@@ -1,7 +1,7 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Thu, 20 Aug 2026 06:20:36 +0000`
-> 70 articles (30 derniers jours)
+> Derniere mise a jour : `Thu, 20 Aug 2026 09:39:55 +0000`
+> 69 articles (30 derniers jours)
 
 ---
 
@@ -554,13 +554,5 @@
 `Tue, 21 Jul 2026 14:57:15 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTlo1T1B2eDJnMk9rVW5jV1BMSHhURzR3VTZVR0FzQUFEVUZPYmVXODduaEw4QzVHMXVnWWtRNWFrS0t2TzFFUTNXWkVybEFmb3Z3NFdjcGhtZ0JXZXNDTUhLc0w3MXdvaXcxaVo3ZGQwSkhUNVJkV3VWWG9vZFVPdmpmSU54ZWhrZm9Bd1VER2V5dnFjY3R0YkFOb0pqQkt5dGlScjVzc014Y1pCWkZvZFVveWxHR2p0VndMdUFxbTBhV3pfS295bmZwWk93YllQZ1pGRVh3MA?oc=5" target="_blank">Contrôle des investissements étrangers : l'Etat face à ses limites budgétaires</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Les Français toujours plus nombreux à se lancer dans l'entrepreneuriat - Les Echos](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQV3NDWWR1ak9jUVQxTjVDOTlodzJrYkdJTzZoY0hVeFdMSWxwcWhOY2JuQlVqZzZMdDMwN2lRT3E1anVzM281enJnVUdrNFJwS0o4RXZkMG5hNUJ2VTI4QnRvY2J1aFFQcGV0eEIxTUdGTERfV3VrNXFOVFZ1YjJjTUxuWXlLRnF1RjN2ajd5NlBjRGljQVhYUDVnUVBJbEtzZDJYOFh6WEgzcWRUTXBZZTJJQVpWNFhJclA2WlZ1b2ppX1J2cmJSdw?oc=5)
-
-`Tue, 21 Jul 2026 08:50:34 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxQV3NDWWR1ak9jUVQxTjVDOTlodzJrYkdJTzZoY0hVeFdMSWxwcWhOY2JuQlVqZzZMdDMwN2lRT3E1anVzM281enJnVUdrNFJwS0o4RXZkMG5hNUJ2VTI4QnRvY2J1aFFQcGV0eEIxTUdGTERfV3VrNXFOVFZ1YjJjTUxuWXlLRnF1RjN2ajd5NlBjRGljQVhYUDVnUVBJbEtzZDJYOFh6WEgzcWRUTXBZZTJJQVpWNFhJclA2WlZ1b2ppX1J2cmJSdw?oc=5" target="_blank">Les Français toujours plus nombreux à se lancer dans l'entrepreneuriat</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
