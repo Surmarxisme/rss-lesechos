@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Thu, 20 Aug 2026 12:30:00 +0000`
+> Derniere mise a jour : `Thu, 20 Aug 2026 17:17:59 +0000`
 > 69 articles (30 derniers jours)
+
+---
+
+### [Budget 2027: Bercy alerte sur les conséquences coûteuses d'une loi spéciale - Les Echos](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcVBHYXJtLVEtN0xDR2JnWHAtSjBidmpqeFZROHhnVkFRcjBqRFEya0ZpZ1lpX0lWUTlaYzBNNGJxNUVCOGhMVk91MWdEdnBHZkFfT1dKUFljcTNKMExRb2ZaNG1YNXp6YW5uZUt3d3AxdXZSYlVwVXd4R3ZDWFlKYkEtQ3NCQzRKdFNsRlFKZGNYS0E3NndNVUNIMGo4T3piU19BU1RYeXBPNm4xOGNZWFFKTm41c3FPMnlmamhNVzI4Zll5WExabkFWLUVnRHNianNkcQ?oc=5)
+
+`Thu, 20 Aug 2026 16:07:16 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcVBHYXJtLVEtN0xDR2JnWHAtSjBidmpqeFZROHhnVkFRcjBqRFEya0ZpZ1lpX0lWUTlaYzBNNGJxNUVCOGhMVk91MWdEdnBHZkFfT1dKUFljcTNKMExRb2ZaNG1YNXp6YW5uZUt3d3AxdXZSYlVwVXd4R3ZDWFlKYkEtQ3NCQzRKdFNsRlFKZGNYS0E3NndNVUNIMGo4T3piU19BU1RYeXBPNm4xOGNZWFFKTm41c3FPMnlmamhNVzI4Zll5WExabkFWLUVnRHNianNkcQ?oc=5" target="_blank">Budget 2027: Bercy alerte sur les conséquences coûteuses d'une loi spéciale</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -546,13 +554,5 @@
 `Wed, 22 Jul 2026 04:45:08 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxPRW0taWFadnR0VjVKNWdjdmk2N2VLLTA2NGNuVlpQdGRETldJcE43eUI4bjN1UWs4eWRfeHNyMXhsbGtUWThDX25nUzk0UEVBV2NCQWQ3ak1VUFVhdld5bWFIdlI4Nk1kZElYMWFhOVlyZ3hvSkdFcnFhelQ0SXZlRzh2dkF0ZWN1cnNGdUN0NEtzSVRJekN1VERHc3ZMUXdmMVlHQzFWYzAwY3FlVm5mZG5iVVR4Zy1yX0NSSWx3?oc=5" target="_blank">Cinq ans après s'être lancés, que deviennent les micro-entrepreneurs ?</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Contrôle des investissements étrangers : l'Etat face à ses limites budgétaires - Les Echos](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTlo1T1B2eDJnMk9rVW5jV1BMSHhURzR3VTZVR0FzQUFEVUZPYmVXODduaEw4QzVHMXVnWWtRNWFrS0t2TzFFUTNXWkVybEFmb3Z3NFdjcGhtZ0JXZXNDTUhLc0w3MXdvaXcxaVo3ZGQwSkhUNVJkV3VWWG9vZFVPdmpmSU54ZWhrZm9Bd1VER2V5dnFjY3R0YkFOb0pqQkt5dGlScjVzc014Y1pCWkZvZFVveWxHR2p0VndMdUFxbTBhV3pfS295bmZwWk93YllQZ1pGRVh3MA?oc=5)
-
-`Tue, 21 Jul 2026 14:57:15 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTlo1T1B2eDJnMk9rVW5jV1BMSHhURzR3VTZVR0FzQUFEVUZPYmVXODduaEw4QzVHMXVnWWtRNWFrS0t2TzFFUTNXWkVybEFmb3Z3NFdjcGhtZ0JXZXNDTUhLc0w3MXdvaXcxaVo3ZGQwSkhUNVJkV3VWWG9vZFVPdmpmSU54ZWhrZm9Bd1VER2V5dnFjY3R0YkFOb0pqQkt5dGlScjVzc014Y1pCWkZvZFVveWxHR2p0VndMdUFxbTBhV3pfS295bmZwWk93YllQZ1pGRVh3MA?oc=5" target="_blank">Contrôle des investissements étrangers : l'Etat face à ses limites budgétaires</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
