@@ -1,7 +1,7 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Wed, 19 Aug 2026 17:16:10 +0000`
-> 71 articles (30 derniers jours)
+> Derniere mise a jour : `Thu, 20 Aug 2026 06:20:36 +0000`
+> 70 articles (30 derniers jours)
 
 ---
 
@@ -562,13 +562,5 @@
 `Tue, 21 Jul 2026 08:50:34 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxQV3NDWWR1ak9jUVQxTjVDOTlodzJrYkdJTzZoY0hVeFdMSWxwcWhOY2JuQlVqZzZMdDMwN2lRT3E1anVzM281enJnVUdrNFJwS0o4RXZkMG5hNUJ2VTI4QnRvY2J1aFFQcGV0eEIxTUdGTERfV3VrNXFOVFZ1YjJjTUxuWXlLRnF1RjN2ajd5NlBjRGljQVhYUDVnUVBJbEtzZDJYOFh6WEgzcWRUTXBZZTJJQVpWNFhJclA2WlZ1b2ppX1J2cmJSdw?oc=5" target="_blank">Les Français toujours plus nombreux à se lancer dans l'entrepreneuriat</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Budget 2027 : l'avantage fiscal de l'apprentissage à nouveau sur la sellette pour les contribuables - Les Echos](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOT1JwYXpBaTF0NElxMzdhWlR5SE1nSUZ4S2U1bldTNUdzV1lwSm1BQ1Q2anh1aU16TkpiTktiS0ViZ1FKTW5LT0xSZmdOR04tVnBXZ1dlQWlaWTZUQmlyMHVGZDBubFRzU1pTMlZBQmhxemtxMUtTU2NQXzB0WGVfdk4wSU5PNm9mSDFHcUVLMm9LQUtwZElUcVJGTWJ0aHItZFBEODdKdVd0MmNYVHpHUGRtZnJzdXRxV2dyR1pBMzhMcS1BSGd2cTA3ZGJSVkxrNFMxYmtlNFItYWZ1aTdEUFlmZW4?oc=5)
-
-`Tue, 21 Jul 2026 04:30:11 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi5AFBVV95cUxOT1JwYXpBaTF0NElxMzdhWlR5SE1nSUZ4S2U1bldTNUdzV1lwSm1BQ1Q2anh1aU16TkpiTktiS0ViZ1FKTW5LT0xSZmdOR04tVnBXZ1dlQWlaWTZUQmlyMHVGZDBubFRzU1pTMlZBQmhxemtxMUtTU2NQXzB0WGVfdk4wSU5PNm9mSDFHcUVLMm9LQUtwZElUcVJGTWJ0aHItZFBEODdKdVd0MmNYVHpHUGRtZnJzdXRxV2dyR1pBMzhMcS1BSGd2cTA3ZGJSVkxrNFMxYmtlNFItYWZ1aTdEUFlmZW4?oc=5" target="_blank">Budget 2027 : l'avantage fiscal de l'apprentissage à nouveau sur la sellette pour les contribuables</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
