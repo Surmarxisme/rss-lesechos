@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Fri, 21 Aug 2026 09:42:20 +0000`
-> 69 articles (30 derniers jours)
+> Derniere mise a jour : `Fri, 21 Aug 2026 12:29:04 +0000`
+> 70 articles (30 derniers jours)
+
+---
+
+### [Les industriels digèrent l'impact de la guerre en Iran - Les Echos](https://news.google.com/rss/articles/CBMiswFBVV95cUxOdzRiTnpYS3dOc2F3ZE1aWXlwQmFuUElkbUt2NGxRVlRkbm5VdEs5MEpUTGFLaDEycm5nVEJ5cHZnUFc5bnNrc2JqVUt1WVVOSVBCZEJSZEYySHMtMFgyMy03NFlDNGZBaGNONzY2Z3dQaWZzYTluQkJUbWUwSE5DbGpYbG1RckdLcVNXUVVSZlpjVml1X0lGUzNQVnNic3BzSU9QdVNxVkp1N1JZQmY5YjRnWQ?oc=5)
+
+`Fri, 21 Aug 2026 10:25:44 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxOdzRiTnpYS3dOc2F3ZE1aWXlwQmFuUElkbUt2NGxRVlRkbm5VdEs5MEpUTGFLaDEycm5nVEJ5cHZnUFc5bnNrc2JqVUt1WVVOSVBCZEJSZEYySHMtMFgyMy03NFlDNGZBaGNONzY2Z3dQaWZzYTluQkJUbWUwSE5DbGpYbG1RckdLcVNXUVVSZlpjVml1X0lGUzNQVnNic3BzSU9QdVNxVkp1N1JZQmY5YjRnWQ?oc=5" target="_blank">Les industriels digèrent l'impact de la guerre en Iran</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
