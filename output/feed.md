@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Fri, 21 Aug 2026 06:20:40 +0000`
+> Derniere mise a jour : `Fri, 21 Aug 2026 09:42:20 +0000`
 > 69 articles (30 derniers jours)
+
+---
+
+### [Hongrie, Etats-Unis, Italie : comment l'extrême droite affaiblit les syndicats - Les Echos](https://news.google.com/rss/articles/CBMixwFBVV95cUxOWTBuS2dub1d1d2pycV90V1RucVNhejJYUi0wQ2VSSHRxTkstUnlKd0xvWklxZ2NBdDR5R09vWk5pTFBsQ2o0dkRJLThKYjJBZ1c5Ymx4LWVxMkVHcGdyVWdMbHJKSFJCNEczaFNiYUd2aFdqS0VQby13UzdSWkowRG9lbW9uSXM2dHZBSkZVOExhS0VUaVBtc3VmS2hLTGlTblhUaEVaVlFFZ0Vtb3hEanpFSnk1bGR0VnFhWkVqV0M4NGRoNFRZ?oc=5)
+
+`Fri, 21 Aug 2026 07:10:08 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMixwFBVV95cUxOWTBuS2dub1d1d2pycV90V1RucVNhejJYUi0wQ2VSSHRxTkstUnlKd0xvWklxZ2NBdDR5R09vWk5pTFBsQ2o0dkRJLThKYjJBZ1c5Ymx4LWVxMkVHcGdyVWdMbHJKSFJCNEczaFNiYUd2aFdqS0VQby13UzdSWkowRG9lbW9uSXM2dHZBSkZVOExhS0VUaVBtc3VmS2hLTGlTblhUaEVaVlFFZ0Vtb3hEanpFSnk1bGR0VnFhWkVqV0M4NGRoNFRZ?oc=5" target="_blank">Hongrie, Etats-Unis, Italie : comment l'extrême droite affaiblit les syndicats</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -546,13 +554,5 @@
 `Thu, 23 Jul 2026 04:00:09 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi8gFBVV95cUxPdk1YcEZwUkNQdmlnZGhfVWFkMUF3TDU3NDNqYkU5LVBBQWRNOFY5clR0S2pwUUd6OEJ1cl9lVGRvVm1FNVRveThzM2F6R09mS0ZTZk9yQW03Unp4bDF3NWgtcXhIOXgzMFNVelppdmcybnVCX3F3NWlRQVlxMTdqcThkYWFHWk53RWxLOUJKVmJvSGpYc0lNcHdqWE9TXzY5R3JsNDZTQ1BNYlR1dVYzN2RXTElid09JZVJWdldlSVN5cXJoR2tHMDF6SmFkVnc1U3JWZmtkWDZVWHB4dGhELUtpTERRTHZMTkJUM1BHWEZBUQ?oc=5" target="_blank">EXCLUSIF - Déremboursements, franchises : le plan du gouvernement pour faire des économies sur les médicaments</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Budget : « pas très optimiste » sur le déficit, Sébastien Lecornu prêt à durcir les franchises médicales - Les Echos](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOYVNsTkNjeEx2SGMwcGNKVVFzNlFjQW8yeVZ5NTNNM2F6eXdRdVBjUE1VVEpUQ19HV2FhSFBDdTJ1dl9NbmUxeTJpREVkQTFCckNhOXNsOHJpSWdnVVZmVnVwYldHay1yOHI3M0IwdTRpeG9TbzlnNFdYY3pIZVlYbmNPMG5sWm1odVM4SS1PdUJrSFVTNGdrVlg3VWtPbWhrWUdSeG9CT1RMZWY3WEVJeDdhQ05WQndVRV9RWjQ4LTdMdnp5QUpWTXY0SXRzeEJMdjQ1TGxTcUZiLUVibGlDdGxRblU1Nm8xWFRfMjMxa25SUTdN?oc=5)
-
-`Wed, 22 Jul 2026 06:30:51 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi9AFBVV95cUxOYVNsTkNjeEx2SGMwcGNKVVFzNlFjQW8yeVZ5NTNNM2F6eXdRdVBjUE1VVEpUQ19HV2FhSFBDdTJ1dl9NbmUxeTJpREVkQTFCckNhOXNsOHJpSWdnVVZmVnVwYldHay1yOHI3M0IwdTRpeG9TbzlnNFdYY3pIZVlYbmNPMG5sWm1odVM4SS1PdUJrSFVTNGdrVlg3VWtPbWhrWUdSeG9CT1RMZWY3WEVJeDdhQ05WQndVRV9RWjQ4LTdMdnp5QUpWTXY0SXRzeEJMdjQ1TGxTcUZiLUVibGlDdGxRblU1Nm8xWFRfMjMxa25SUTdN?oc=5" target="_blank">Budget : « pas très optimiste » sur le déficit, Sébastien Lecornu prêt à durcir les franchises médicales</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
