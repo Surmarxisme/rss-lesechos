@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Fri, 21 Aug 2026 12:29:04 +0000`
+> Derniere mise a jour : `Fri, 21 Aug 2026 17:17:52 +0000`
 > 70 articles (30 derniers jours)
+
+---
+
+### [Dette : pourquoi l'annulation proposée par Jean-Luc Mélenchon ne peut pas fonctionner - Les Echos](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZGdWbVFpckg4MTdSWmxybU5YaExvR0locldad0JtSDhLb3Rta2tueXNLTUZHbk9wR0lfS05GcVZKMGRjdFBia0hEcV8zTWJCZTVEdEhCODR3QkMzeFNjOC1aM0N4Ny1Yb01STVo4V1hCb09JaUVObXp3TDA4ZV9ZNGN6V0hYM1BFdXZwb1BhTmgwM2tnUkc2aS1iRllZTWdmWG1fVHZrNHdELW52dDBxZzRMMjUyWk02Slg0TGFpQmhabTUtN09QX3ZvV0hqWFdtTk04TXY4NERnQ3lkbTNNcA?oc=5)
+
+`Fri, 21 Aug 2026 14:17:58 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZGdWbVFpckg4MTdSWmxybU5YaExvR0locldad0JtSDhLb3Rta2tueXNLTUZHbk9wR0lfS05GcVZKMGRjdFBia0hEcV8zTWJCZTVEdEhCODR3QkMzeFNjOC1aM0N4Ny1Yb01STVo4V1hCb09JaUVObXp3TDA4ZV9ZNGN6V0hYM1BFdXZwb1BhTmgwM2tnUkc2aS1iRllZTWdmWG1fVHZrNHdELW52dDBxZzRMMjUyWk02Slg0TGFpQmhabTUtN09QX3ZvV0hqWFdtTk04TXY4NERnQ3lkbTNNcA?oc=5" target="_blank">Dette : pourquoi l'annulation proposée par Jean-Luc Mélenchon ne peut pas fonctionner</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -546,14 +554,6 @@
 `Thu, 23 Jul 2026 10:26:47 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMiywFBVV95cUxNalNtd2lyYnl6VURsU3RiY2FmNTBaWkozRU1OUHB5emhFZW9KUWtYQUU2WE1hLWlCMkV3T29sbFJBYmNxd0psMVpQS1pUeWJOY3cxek4wSkpMeVg1c21EM19nYVk0QWRiVkJwN0E5RHhnSHdmeHoxQ244THc5VGdYTDFXMlYxWUQxWXotV0tBS1MyVkVZakJITmZPYXgzVEgyWGU4ZzgwYVBfaDNTYk1qUVg0RENPTEFWal83T1ZEbFQzRWhaeVE0YW84Yw?oc=5" target="_blank">Climat des affaires : un rebond fragile face aux tensions au Moyen-Orient</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Lecornu met en garde les politiques contre une absence « irresponsable » de budget pour 2027 - Les Echos](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNMVh2aDJKcTNtVEs5U1JNNGVsNnEyZm4zakFERzRVWFJBdC0yOGxkeHhPM3p1WVlCTUJkT25nXzFJUjhGOVR4LWJvVmtDQ2hIYXE3MTRWUkwyZFBzRFk3NnpJMldzVkRJYjZ4THRtVmJVU2tkaG8xTElOczFhai1kTjVWNUYyanM4ckZXbUJGUFpvamF1RDFlMmZ3S2NVSXBpT2cteGdQSENLYW5raElfOFJIVzMxZjhEV3MxcjVYLUtMeWhybEF0ZEI5Y1V6TGxLdUdyVG1kWUNJV09IcUIycXRRTXFLajVY?oc=5)
-
-`Wed, 22 Jul 2026 15:38:06 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi6AFBVV95cUxNMVh2aDJKcTNtVEs5U1JNNGVsNnEyZm4zakFERzRVWFJBdC0yOGxkeHhPM3p1WVlCTUJkT25nXzFJUjhGOVR4LWJvVmtDQ2hIYXE3MTRWUkwyZFBzRFk3NnpJMldzVkRJYjZ4THRtVmJVU2tkaG8xTElOczFhai1kTjVWNUYyanM4ckZXbUJGUFpvamF1RDFlMmZ3S2NVSXBpT2cteGdQSENLYW5raElfOFJIVzMxZjhEV3MxcjVYLUtMeWhybEF0ZEI5Y1V6TGxLdUdyVG1kWUNJV09IcUIycXRRTXFLajVY?oc=5" target="_blank">Lecornu met en garde les politiques contre une absence « irresponsable » de budget pour 2027</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
