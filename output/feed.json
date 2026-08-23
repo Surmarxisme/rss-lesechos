@@ -2,10 +2,19 @@
   "source": "Les Echos - Economie France",
   "source_url": "https://www.lesechos.fr/economie-france",
   "language": "fr-FR",
-  "last_fetched": "Sat, 22 Aug 2026 09:30:10 +0000",
-  "total_items": 69,
-  "new_items_this_run": 0,
+  "last_fetched": "Sun, 23 Aug 2026 09:31:02 +0000",
+  "total_items": 67,
+  "new_items_this_run": 1,
   "articles": [
+    {
+      "id": "CBMimwJBVV95cUxOcjNXdXZIS2RwYXlTMHVnSldPa1pVZFVVaGNzSkFWYzZKY00taDRTQjZhTkttbzVoRmNEcnZDTzdldkoxb0p4M3diblc4Ry11bk5ZbEFrOXNoYkJIaV9naWZJOUJfZkotRWdiVFBwWk4tdWFTOWVTOC1CdFRRTmpYOFlacjBGdnJEeGJ0ejdWM0lsb01vb3AydzF5YkdiVTExcVJZR0tCcDVZM1dJM0RHaHZwbTBONk0wbmtnNjBHdktDdVNIak4zalh4eDJveHIwT1d0LXZ5UDFhbFJfalc4TXEyNlR2RVVsdGw2TklkZlczRVlaSXlEdTlRNXVYWC1BUUtsU2g1WjF1dkpnaTNYajdBeS16MjQ1bHo0",
+      "title": "Le développement de la négociation collective dans les entreprises « s'est accompagné d'une baisse très nette de la conflictualité en France - Les Echos",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMimwJBVV95cUxOcjNXdXZIS2RwYXlTMHVnSldPa1pVZFVVaGNzSkFWYzZKY00taDRTQjZhTkttbzVoRmNEcnZDTzdldkoxb0p4M3diblc4Ry11bk5ZbEFrOXNoYkJIaV9naWZJOUJfZkotRWdiVFBwWk4tdWFTOWVTOC1CdFRRTmpYOFlacjBGdnJEeGJ0ejdWM0lsb01vb3AydzF5YkdiVTExcVJZR0tCcDVZM1dJM0RHaHZwbTBONk0wbmtnNjBHdktDdVNIak4zalh4eDJveHIwT1d0LXZ5UDFhbFJfalc4TXEyNlR2RVVsdGw2TklkZlczRVlaSXlEdTlRNXVYWC1BUUtsU2g1WjF1dkpnaTNYajdBeS16MjQ1bHo0?oc=5\" target=\"_blank\">Le développement de la négociation collective dans les entreprises « s'est accompagné d'une baisse très nette de la conflictualité en France</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Les Echos</font>",
+      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOcjNXdXZIS2RwYXlTMHVnSldPa1pVZFVVaGNzSkFWYzZKY00taDRTQjZhTkttbzVoRmNEcnZDTzdldkoxb0p4M3diblc4Ry11bk5ZbEFrOXNoYkJIaV9naWZJOUJfZkotRWdiVFBwWk4tdWFTOWVTOC1CdFRRTmpYOFlacjBGdnJEeGJ0ejdWM0lsb01vb3AydzF5YkdiVTExcVJZR0tCcDVZM1dJM0RHaHZwbTBONk0wbmtnNjBHdktDdVNIak4zalh4eDJveHIwT1d0LXZ5UDFhbFJfalc4TXEyNlR2RVVsdGw2TklkZlczRVlaSXlEdTlRNXVYWC1BUUtsU2g1WjF1dkpnaTNYajdBeS16MjQ1bHo0?oc=5",
+      "source": "Les Echos",
+      "pub_date": "Sun, 23 Aug 2026 08:00:12 GMT",
+      "pub_date_iso": "2026-08-23T08:00:12+00:00"
+    },
     {
       "id": "CBMi4AFBVV95cUxNZGdWbVFpckg4MTdSWmxybU5YaExvR0locldad0JtSDhLb3Rta2tueXNLTUZHbk9wR0lfS05GcVZKMGRjdFBia0hEcV8zTWJCZTVEdEhCODR3QkMzeFNjOC1aM0N4Ny1Yb01STVo4V1hCb09JaUVObXp3TDA4ZV9ZNGN6V0hYM1BFdXZwb1BhTmgwM2tnUkc2aS1iRllZTWdmWG1fVHZrNHdELW52dDBxZzRMMjUyWk02Slg0TGFpQmhabTUtN09QX3ZvV0hqWFdtTk04TXY4NERnQ3lkbTNNcA",
       "title": "Dette : pourquoi l'annulation proposée par Jean-Luc Mélenchon ne peut pas fonctionner - Les Echos",
@@ -599,33 +608,6 @@
       "source": "Les Echos",
       "pub_date": "Mon, 27 Jul 2026 14:44:09 GMT",
       "pub_date_iso": "2026-07-27T14:44:09+00:00"
-    },
-    {
-      "id": "CBMijgFBVV95cUxNX3BvUHRBSlgxNkJCc3NiUEZpaTFGMTdXRFNOdGwyaEMwc1B1TUhJSE1ZX2lIOVNHTXJmREVyMjVnV2Q3b2xHRFFOLU14NUNiS3VtT2Y1WTRkak5qQVYyMUtmNjl2MkVWd1lrU0hmRVlYVjgxSDRoWHUwc2dGdG1PWTl5TkQ5X3NWemFzWEV3",
-      "title": "Finances Publiques : actualités, analyses et vidéos - Les Echos | Page 1022 - Les Echos",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNX3BvUHRBSlgxNkJCc3NiUEZpaTFGMTdXRFNOdGwyaEMwc1B1TUhJSE1ZX2lIOVNHTXJmREVyMjVnV2Q3b2xHRFFOLU14NUNiS3VtT2Y1WTRkak5qQVYyMUtmNjl2MkVWd1lrU0hmRVlYVjgxSDRoWHUwc2dGdG1PWTl5TkQ5X3NWemFzWEV3?oc=5\" target=\"_blank\">Finances Publiques : actualités, analyses et vidéos - Les Echos | Page 1022</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Les Echos</font>",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNX3BvUHRBSlgxNkJCc3NiUEZpaTFGMTdXRFNOdGwyaEMwc1B1TUhJSE1ZX2lIOVNHTXJmREVyMjVnV2Q3b2xHRFFOLU14NUNiS3VtT2Y1WTRkak5qQVYyMUtmNjl2MkVWd1lrU0hmRVlYVjgxSDRoWHUwc2dGdG1PWTl5TkQ5X3NWemFzWEV3?oc=5",
-      "source": "Les Echos",
-      "pub_date": "Fri, 24 Jul 2026 08:31:55 GMT",
-      "pub_date_iso": "2026-07-24T08:31:55+00:00"
-    },
-    {
-      "id": "CBMigwJBVV95cUxPVVcxbDNRZEJ4MmhYRHFOcjJlMFpoY2FwRFhIR2pfVkx0X0NuVWE0ei1ScUp5UGpCOXFtTUsya082OGVMcUdzMy1pV1BhMThmVG95Q3QweHpwN25FbWpZSjdCTWRwX2VLczZKX01PV1ZwaFhnOFVISHhOc2VrdTZROEQwSzlacUNZb19yUFhMcmZnSGo0S3ljczFmSWFjSkF1SjhKVUUtOGw1Sl9YZmIyQTBfSEx6aEtMblJ6eUY0VTB0UHlnOUlNYU82dnlaU01XbWlIcVdkZ2FCaFZJZVlRZzZBUFZDVjhtTk9QM1pDNUJNMTFaQUtYWEJXV3BqUHRnd3BB",
-      "title": "Médicaments, dentistes, taxis : le gouvernement veut baisser tous azimuts les taux de remboursement de la Sécurité sociale - Les Echos",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMigwJBVV95cUxPVVcxbDNRZEJ4MmhYRHFOcjJlMFpoY2FwRFhIR2pfVkx0X0NuVWE0ei1ScUp5UGpCOXFtTUsya082OGVMcUdzMy1pV1BhMThmVG95Q3QweHpwN25FbWpZSjdCTWRwX2VLczZKX01PV1ZwaFhnOFVISHhOc2VrdTZROEQwSzlacUNZb19yUFhMcmZnSGo0S3ljczFmSWFjSkF1SjhKVUUtOGw1Sl9YZmIyQTBfSEx6aEtMblJ6eUY0VTB0UHlnOUlNYU82dnlaU01XbWlIcVdkZ2FCaFZJZVlRZzZBUFZDVjhtTk9QM1pDNUJNMTFaQUtYWEJXV3BqUHRnd3BB?oc=5\" target=\"_blank\">Médicaments, dentistes, taxis : le gouvernement veut baisser tous azimuts les taux de remboursement de la Sécurité sociale</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Les Echos</font>",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPVVcxbDNRZEJ4MmhYRHFOcjJlMFpoY2FwRFhIR2pfVkx0X0NuVWE0ei1ScUp5UGpCOXFtTUsya082OGVMcUdzMy1pV1BhMThmVG95Q3QweHpwN25FbWpZSjdCTWRwX2VLczZKX01PV1ZwaFhnOFVISHhOc2VrdTZROEQwSzlacUNZb19yUFhMcmZnSGo0S3ljczFmSWFjSkF1SjhKVUUtOGw1Sl9YZmIyQTBfSEx6aEtMblJ6eUY0VTB0UHlnOUlNYU82dnlaU01XbWlIcVdkZ2FCaFZJZVlRZzZBUFZDVjhtTk9QM1pDNUJNMTFaQUtYWEJXV3BqUHRnd3BB?oc=5",
-      "source": "Les Echos",
-      "pub_date": "Fri, 24 Jul 2026 04:00:09 GMT",
-      "pub_date_iso": "2026-07-24T04:00:09+00:00"
-    },
-    {
-      "id": "CBMiywFBVV95cUxNalNtd2lyYnl6VURsU3RiY2FmNTBaWkozRU1OUHB5emhFZW9KUWtYQUU2WE1hLWlCMkV3T29sbFJBYmNxd0psMVpQS1pUeWJOY3cxek4wSkpMeVg1c21EM19nYVk0QWRiVkJwN0E5RHhnSHdmeHoxQ244THc5VGdYTDFXMlYxWUQxWXotV0tBS1MyVkVZakJITmZPYXgzVEgyWGU4ZzgwYVBfaDNTYk1qUVg0RENPTEFWal83T1ZEbFQzRWhaeVE0YW84Yw",
-      "title": "Climat des affaires : un rebond fragile face aux tensions au Moyen-Orient - Les Echos",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNalNtd2lyYnl6VURsU3RiY2FmNTBaWkozRU1OUHB5emhFZW9KUWtYQUU2WE1hLWlCMkV3T29sbFJBYmNxd0psMVpQS1pUeWJOY3cxek4wSkpMeVg1c21EM19nYVk0QWRiVkJwN0E5RHhnSHdmeHoxQ244THc5VGdYTDFXMlYxWUQxWXotV0tBS1MyVkVZakJITmZPYXgzVEgyWGU4ZzgwYVBfaDNTYk1qUVg0RENPTEFWal83T1ZEbFQzRWhaeVE0YW84Yw?oc=5\" target=\"_blank\">Climat des affaires : un rebond fragile face aux tensions au Moyen-Orient</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Les Echos</font>",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNalNtd2lyYnl6VURsU3RiY2FmNTBaWkozRU1OUHB5emhFZW9KUWtYQUU2WE1hLWlCMkV3T29sbFJBYmNxd0psMVpQS1pUeWJOY3cxek4wSkpMeVg1c21EM19nYVk0QWRiVkJwN0E5RHhnSHdmeHoxQ244THc5VGdYTDFXMlYxWUQxWXotV0tBS1MyVkVZakJITmZPYXgzVEgyWGU4ZzgwYVBfaDNTYk1qUVg0RENPTEFWal83T1ZEbFQzRWhaeVE0YW84Yw?oc=5",
-      "source": "Les Echos",
-      "pub_date": "Thu, 23 Jul 2026 10:26:47 GMT",
-      "pub_date_iso": "2026-07-23T10:26:47+00:00"
     }
   ]
 }

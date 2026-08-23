@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Sat, 22 Aug 2026 09:30:10 +0000`
-> 69 articles (30 derniers jours)
+> Derniere mise a jour : `Sun, 23 Aug 2026 09:31:02 +0000`
+> 67 articles (30 derniers jours)
+
+---
+
+### [Le développement de la négociation collective dans les entreprises « s'est accompagné d'une baisse très nette de la conflictualité en France - Les Echos](https://news.google.com/rss/articles/CBMimwJBVV95cUxOcjNXdXZIS2RwYXlTMHVnSldPa1pVZFVVaGNzSkFWYzZKY00taDRTQjZhTkttbzVoRmNEcnZDTzdldkoxb0p4M3diblc4Ry11bk5ZbEFrOXNoYkJIaV9naWZJOUJfZkotRWdiVFBwWk4tdWFTOWVTOC1CdFRRTmpYOFlacjBGdnJEeGJ0ejdWM0lsb01vb3AydzF5YkdiVTExcVJZR0tCcDVZM1dJM0RHaHZwbTBONk0wbmtnNjBHdktDdVNIak4zalh4eDJveHIwT1d0LXZ5UDFhbFJfalc4TXEyNlR2RVVsdGw2TklkZlczRVlaSXlEdTlRNXVYWC1BUUtsU2g1WjF1dkpnaTNYajdBeS16MjQ1bHo0?oc=5)
+
+`Sun, 23 Aug 2026 08:00:12 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMimwJBVV95cUxOcjNXdXZIS2RwYXlTMHVnSldPa1pVZFVVaGNzSkFWYzZKY00taDRTQjZhTkttbzVoRmNEcnZDTzdldkoxb0p4M3diblc4Ry11bk5ZbEFrOXNoYkJIaV9naWZJOUJfZkotRWdiVFBwWk4tdWFTOWVTOC1CdFRRTmpYOFlacjBGdnJEeGJ0ejdWM0lsb01vb3AydzF5YkdiVTExcVJZR0tCcDVZM1dJM0RHaHZwbTBONk0wbmtnNjBHdktDdVNIak4zalh4eDJveHIwT1d0LXZ5UDFhbFJfalc4TXEyNlR2RVVsdGw2TklkZlczRVlaSXlEdTlRNXVYWC1BUUtsU2g1WjF1dkpnaTNYajdBeS16MjQ1bHo0?oc=5" target="_blank">Le développement de la négociation collective dans les entreprises « s'est accompagné d'une baisse très nette de la conflictualité en France</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -530,29 +538,5 @@
 `Mon, 27 Jul 2026 14:44:09 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi5AFBVV95cUxQTGlUaGZpdWRYOFVHMFozUkdJN0hXWXFlUktxNlctQzNOYmtwajNqVjdwaDV3NldMOGZORTg2RGdzUWNNNnF2U0xZN1p3SDB0aFM3UXBXalF4NnJUcGdUeTRNVGhEYkR5bXoxSllBZlZNR0d0bEV0UjJTVnRZWDFkYnZlT0dTYVNzanJXVHdoMEhTek03M0NtVkMzUmlJSHA3ZlZFMENfTUVKcmF5MUxUdUIwSVNUQUl3bUhic0xTdFQ1dE1UWlgyeTdwbWE5Z1p2S3ZEV1hJRVlYODJ0RmNwdmFlX3I?oc=5" target="_blank">Incendies, inondations… : l'activité partielle reste sous-utilisée en cas de catastrophes naturelles</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Finances Publiques : actualités, analyses et vidéos - Les Echos | Page 1022 - Les Echos](https://news.google.com/rss/articles/CBMijgFBVV95cUxNX3BvUHRBSlgxNkJCc3NiUEZpaTFGMTdXRFNOdGwyaEMwc1B1TUhJSE1ZX2lIOVNHTXJmREVyMjVnV2Q3b2xHRFFOLU14NUNiS3VtT2Y1WTRkak5qQVYyMUtmNjl2MkVWd1lrU0hmRVlYVjgxSDRoWHUwc2dGdG1PWTl5TkQ5X3NWemFzWEV3?oc=5)
-
-`Fri, 24 Jul 2026 08:31:55 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMijgFBVV95cUxNX3BvUHRBSlgxNkJCc3NiUEZpaTFGMTdXRFNOdGwyaEMwc1B1TUhJSE1ZX2lIOVNHTXJmREVyMjVnV2Q3b2xHRFFOLU14NUNiS3VtT2Y1WTRkak5qQVYyMUtmNjl2MkVWd1lrU0hmRVlYVjgxSDRoWHUwc2dGdG1PWTl5TkQ5X3NWemFzWEV3?oc=5" target="_blank">Finances Publiques : actualités, analyses et vidéos - Les Echos | Page 1022</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Médicaments, dentistes, taxis : le gouvernement veut baisser tous azimuts les taux de remboursement de la Sécurité sociale - Les Echos](https://news.google.com/rss/articles/CBMigwJBVV95cUxPVVcxbDNRZEJ4MmhYRHFOcjJlMFpoY2FwRFhIR2pfVkx0X0NuVWE0ei1ScUp5UGpCOXFtTUsya082OGVMcUdzMy1pV1BhMThmVG95Q3QweHpwN25FbWpZSjdCTWRwX2VLczZKX01PV1ZwaFhnOFVISHhOc2VrdTZROEQwSzlacUNZb19yUFhMcmZnSGo0S3ljczFmSWFjSkF1SjhKVUUtOGw1Sl9YZmIyQTBfSEx6aEtMblJ6eUY0VTB0UHlnOUlNYU82dnlaU01XbWlIcVdkZ2FCaFZJZVlRZzZBUFZDVjhtTk9QM1pDNUJNMTFaQUtYWEJXV3BqUHRnd3BB?oc=5)
-
-`Fri, 24 Jul 2026 04:00:09 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMigwJBVV95cUxPVVcxbDNRZEJ4MmhYRHFOcjJlMFpoY2FwRFhIR2pfVkx0X0NuVWE0ei1ScUp5UGpCOXFtTUsya082OGVMcUdzMy1pV1BhMThmVG95Q3QweHpwN25FbWpZSjdCTWRwX2VLczZKX01PV1ZwaFhnOFVISHhOc2VrdTZROEQwSzlacUNZb19yUFhMcmZnSGo0S3ljczFmSWFjSkF1SjhKVUUtOGw1Sl9YZmIyQTBfSEx6aEtMblJ6eUY0VTB0UHlnOUlNYU82dnlaU01XbWlIcVdkZ2FCaFZJZVlRZzZBUFZDVjhtTk9QM1pDNUJNMTFaQUtYWEJXV3BqUHRnd3BB?oc=5" target="_blank">Médicaments, dentistes, taxis : le gouvernement veut baisser tous azimuts les taux de remboursement de la Sécurité sociale</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Climat des affaires : un rebond fragile face aux tensions au Moyen-Orient - Les Echos](https://news.google.com/rss/articles/CBMiywFBVV95cUxNalNtd2lyYnl6VURsU3RiY2FmNTBaWkozRU1OUHB5emhFZW9KUWtYQUU2WE1hLWlCMkV3T29sbFJBYmNxd0psMVpQS1pUeWJOY3cxek4wSkpMeVg1c21EM19nYVk0QWRiVkJwN0E5RHhnSHdmeHoxQ244THc5VGdYTDFXMlYxWUQxWXotV0tBS1MyVkVZakJITmZPYXgzVEgyWGU4ZzgwYVBfaDNTYk1qUVg0RENPTEFWal83T1ZEbFQzRWhaeVE0YW84Yw?oc=5)
-
-`Thu, 23 Jul 2026 10:26:47 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiywFBVV95cUxNalNtd2lyYnl6VURsU3RiY2FmNTBaWkozRU1OUHB5emhFZW9KUWtYQUU2WE1hLWlCMkV3T29sbFJBYmNxd0psMVpQS1pUeWJOY3cxek4wSkpMeVg1c21EM19nYVk0QWRiVkJwN0E5RHhnSHdmeHoxQ244THc5VGdYTDFXMlYxWUQxWXotV0tBS1MyVkVZakJITmZPYXgzVEgyWGU4ZzgwYVBfaDNTYk1qUVg0RENPTEFWal83T1ZEbFQzRWhaeVE0YW84Yw?oc=5" target="_blank">Climat des affaires : un rebond fragile face aux tensions au Moyen-Orient</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
