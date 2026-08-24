@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Mon, 24 Aug 2026 06:29:05 +0000`
-> 68 articles (30 derniers jours)
+> Derniere mise a jour : `Mon, 24 Aug 2026 09:53:56 +0000`
+> 69 articles (30 derniers jours)
+
+---
+
+### [Budget 2027 : « Si on peut baisser la surtaxe sur les entreprises, on le fera, mais aujourd'hui ce n'est pas facile - Les Echos](https://news.google.com/rss/articles/CBMiggJBVV95cUxQUWZ5c0ZCdy1aTXo4dmY5Q1dibTI0NTlHT0hPT2pZRnpCVDJGcGtBWWMzR083X1hYQVNWcGh0YlZsN1h3UFZ1T0Y3ZmlNczJ0OVBpb3VtRVVhaEc1eG1FQzBieXVfTWZ2LW9tZ0VDaDMzLTZJc05Ub2xKcF9sWXJPa0Z6WUY2aTVHRmlZN3g3aUE4TTZxYmtFclF1Smc0U3RLUWpwX1lMM09HdXp3OVVaU1hIVkxxRDBXQTcxMWQwY2FxQjg0MDhQZ1BTX09uR2VpSFB0VVQ5SzNkUnItSENDWWVlZEpLRU1OaWkycE1HNVZNZ1lPaFk1Q3pDQ2dLSzZpREE?oc=5)
+
+`Mon, 24 Aug 2026 07:23:27 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiggJBVV95cUxQUWZ5c0ZCdy1aTXo4dmY5Q1dibTI0NTlHT0hPT2pZRnpCVDJGcGtBWWMzR083X1hYQVNWcGh0YlZsN1h3UFZ1T0Y3ZmlNczJ0OVBpb3VtRVVhaEc1eG1FQzBieXVfTWZ2LW9tZ0VDaDMzLTZJc05Ub2xKcF9sWXJPa0Z6WUY2aTVHRmlZN3g3aUE4TTZxYmtFclF1Smc0U3RLUWpwX1lMM09HdXp3OVVaU1hIVkxxRDBXQTcxMWQwY2FxQjg0MDhQZ1BTX09uR2VpSFB0VVQ5SzNkUnItSENDWWVlZEpLRU1OaWkycE1HNVZNZ1lPaFk1Q3pDQ2dLSzZpREE?oc=5" target="_blank">Budget 2027 : « Si on peut baisser la surtaxe sur les entreprises, on le fera, mais aujourd'hui ce n'est pas facile</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
