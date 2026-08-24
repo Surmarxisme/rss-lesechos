@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Sun, 23 Aug 2026 09:31:02 +0000`
-> 67 articles (30 derniers jours)
+> Derniere mise a jour : `Mon, 24 Aug 2026 06:29:05 +0000`
+> 68 articles (30 derniers jours)
+
+---
+
+### [Patronat et syndicats cherchent à renouer le dialogue dans une rentrée sociale sous haute tension - Les Echos](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYUJtT3V4TkFvejNka1k2ZWItejBsQ3d2UWc2V0t1S2toXzhINUNXZ2FhZWFSa2YxSWljejdDLTE5c3htemdpZzRDaVhNTE04ZmtVcDZKVDFBbFdRYjVmUGhXR1hlNzItNXI2Y2xOSmJwbjN4VlFxQVhNdFhzcEdxeTVoc1pQNHRJYmQwWDh5WUxfVnlmN3ZISjlyMGQzbWdMbmRqNFpabjB4bjJhYlNURVY1RnYwM2RleFd5NW1BbWhvdm5LcUlOSFZndnQ1V2w2dTRKNg?oc=5)
+
+`Mon, 24 Aug 2026 05:40:13 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYUJtT3V4TkFvejNka1k2ZWItejBsQ3d2UWc2V0t1S2toXzhINUNXZ2FhZWFSa2YxSWljejdDLTE5c3htemdpZzRDaVhNTE04ZmtVcDZKVDFBbFdRYjVmUGhXR1hlNzItNXI2Y2xOSmJwbjN4VlFxQVhNdFhzcEdxeTVoc1pQNHRJYmQwWDh5WUxfVnlmN3ZISjlyMGQzbWdMbmRqNFpabjB4bjJhYlNURVY1RnYwM2RleFd5NW1BbWhvdm5LcUlOSFZndnQ1V2w2dTRKNg?oc=5" target="_blank">Patronat et syndicats cherchent à renouer le dialogue dans une rentrée sociale sous haute tension</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
