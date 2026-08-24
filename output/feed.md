@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Mon, 24 Aug 2026 12:30:33 +0000`
-> 69 articles (30 derniers jours)
+> Derniere mise a jour : `Mon, 24 Aug 2026 17:20:23 +0000`
+> 70 articles (30 derniers jours)
+
+---
+
+### [Budget 2027 : le gouvernement précise sa copie sur les franchises médicales - Les Echos](https://news.google.com/rss/articles/CBMixwFBVV95cUxPSm1aSklfeWJQREtpcXM4dmNKMFJESG1JZ3Iwb09Yb3FOU1ktQUVMWlpQVnpRYWdvNkJFZktIbkFTTGFjd3JSc2N6cWlYcjg4alAzeGRVckFfZDZPUThjYk5MMVNWbHRlbHBxS1NzLWhkNWpSQWxKcEFORkp6NjVRTnNDWVFZUUxQTWJSdGI3M25qenRfVjN0dDZEeW5ObnE5aU9leHNwZkNXVVNOdklSNFRKaG9aZGhHZzYwSi1xNmVOOFc5cjdR?oc=5)
+
+`Mon, 24 Aug 2026 16:25:03 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMixwFBVV95cUxPSm1aSklfeWJQREtpcXM4dmNKMFJESG1JZ3Iwb09Yb3FOU1ktQUVMWlpQVnpRYWdvNkJFZktIbkFTTGFjd3JSc2N6cWlYcjg4alAzeGRVckFfZDZPUThjYk5MMVNWbHRlbHBxS1NzLWhkNWpSQWxKcEFORkp6NjVRTnNDWVFZUUxQTWJSdGI3M25qenRfVjN0dDZEeW5ObnE5aU9leHNwZkNXVVNOdklSNFRKaG9aZGhHZzYwSi1xNmVOOFc5cjdR?oc=5" target="_blank">Budget 2027 : le gouvernement précise sa copie sur les franchises médicales</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
