@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Mon, 24 Aug 2026 17:20:23 +0000`
-> 70 articles (30 derniers jours)
+> Derniere mise a jour : `Tue, 25 Aug 2026 06:21:01 +0000`
+> 71 articles (30 derniers jours)
+
+---
+
+### [Facturation électronique : Bercy tente de rassurer les entreprises avant la grande bascule - Les Echos](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQa2JKRUtKZkxQeERwSm5oWXRQTzZBMHFpTDd4WExMYmhyNlB0ZmhPS3BEaTVVOE16TUgxY1hSeWM2a1RMbVN0YnJUZExnQk5XXzVzcnhMamFlZG9fQ2FNdmdNVmNBNWtwTFN5SG9qRjVhN3pONUpnNFJsRG80UVF1ZUNzdlpCUFVkRjEwZlZDX1BieExmMl82ZVM3M0c1OGF6eFdFWXZCdXVvSXlBbnpLeHZlbWR4SmlZakJFNGl2TElnZTdTcnFidG4yMVhCcVdJM2ZHZlVjTmRBVFhnd05FazVDOW5Qcm4x?oc=5)
+
+`Tue, 25 Aug 2026 04:00:08 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi6AFBVV95cUxQa2JKRUtKZkxQeERwSm5oWXRQTzZBMHFpTDd4WExMYmhyNlB0ZmhPS3BEaTVVOE16TUgxY1hSeWM2a1RMbVN0YnJUZExnQk5XXzVzcnhMamFlZG9fQ2FNdmdNVmNBNWtwTFN5SG9qRjVhN3pONUpnNFJsRG80UVF1ZUNzdlpCUFVkRjEwZlZDX1BieExmMl82ZVM3M0c1OGF6eFdFWXZCdXVvSXlBbnpLeHZlbWR4SmlZakJFNGl2TElnZTdTcnFidG4yMVhCcVdJM2ZHZlVjTmRBVFhnd05FazVDOW5Qcm4x?oc=5" target="_blank">Facturation électronique : Bercy tente de rassurer les entreprises avant la grande bascule</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
