@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Tue, 25 Aug 2026 09:40:54 +0000`
-> 71 articles (30 derniers jours)
+> Derniere mise a jour : `Tue, 25 Aug 2026 12:31:04 +0000`
+> 72 articles (30 derniers jours)
+
+---
+
+### [Emploi des cadres : les intentions d'embauche au plus bas - Les Echos](https://news.google.com/rss/articles/CBMirgFBVV95cUxNeXNPWmE3V3I4cm9JaG5jNV9RT3RJT1dQVjBhbk9Pank4ZFhoMmN4dWtKandkQW1aUi1XZm1Hb0pfVWhqZlN2X2RpSVh1LVVhMTJobkd2WTEwdjUtalM4UV9YVEVuRzE4Tk5DLS1EbmliSFRsTFJCUXNwcHRoS1RELUxabnBSQ0k2NTVsZENZUG5NeERCYmVoc3NJaHZzX3pIeFd3SXBPa0QwWGxDdVE?oc=5)
+
+`Tue, 25 Aug 2026 10:00:23 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxNeXNPWmE3V3I4cm9JaG5jNV9RT3RJT1dQVjBhbk9Pank4ZFhoMmN4dWtKandkQW1aUi1XZm1Hb0pfVWhqZlN2X2RpSVh1LVVhMTJobkd2WTEwdjUtalM4UV9YVEVuRzE4Tk5DLS1EbmliSFRsTFJCUXNwcHRoS1RELUxabnBSQ0k2NTVsZENZUG5NeERCYmVoc3NJaHZzX3pIeFd3SXBPa0QwWGxDdVE?oc=5" target="_blank">Emploi des cadres : les intentions d'embauche au plus bas</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
