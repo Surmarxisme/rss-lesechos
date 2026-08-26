@@ -1,7 +1,31 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Tue, 25 Aug 2026 17:21:12 +0000`
-> 72 articles (30 derniers jours)
+> Derniere mise a jour : `Wed, 26 Aug 2026 06:22:49 +0000`
+> 75 articles (30 derniers jours)
+
+---
+
+### [« Tout le spectre de l'entrepreneuriat est touché désormais » : record de pertes d'emploi chez les patrons - Les Echos](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOblhRS3ZJSDJsbXk4WXlZeXVCd0NuU2kzajJhVlZvQWwwSGpjZkJCT3A2SGhpaVFZZHJnRWVOcmdkMEtaR1paQ1JfWmtfNkVRelhPTHY0M1czc1hXTWFVc1NzRndFbVdrRmhuMXItRWJJbXM4UzJHY2Vva0RjV2dqRC0zRjk2YjduZlpHcXYxS0hHZkFZUHBRVkJSVmJBajFua3hMOGwwZ0VLNmJJQkxScDBpeFBSM0lHM1JFZDBTc1VyNVJKV2lFWVM4SVZYLTR3YllBQTBMblg0MW56VjRFMlpOMVd5NDBL?oc=5)
+
+`Wed, 26 Aug 2026 04:00:11 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi6AFBVV95cUxOblhRS3ZJSDJsbXk4WXlZeXVCd0NuU2kzajJhVlZvQWwwSGpjZkJCT3A2SGhpaVFZZHJnRWVOcmdkMEtaR1paQ1JfWmtfNkVRelhPTHY0M1czc1hXTWFVc1NzRndFbVdrRmhuMXItRWJJbXM4UzJHY2Vva0RjV2dqRC0zRjk2YjduZlpHcXYxS0hHZkFZUHBRVkJSVmJBajFua3hMOGwwZ0VLNmJJQkxScDBpeFBSM0lHM1JFZDBTc1VyNVJKV2lFWVM4SVZYLTR3YllBQTBMblg0MW56VjRFMlpOMVd5NDBL?oc=5" target="_blank">« Tout le spectre de l'entrepreneuriat est touché désormais » : record de pertes d'emploi chez les patrons</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Présidentielle 2027 : la CFDT promet de prendre « toute sa place » dans la campagne - Les Echos](https://news.google.com/rss/articles/CBMizAFBVV95cUxNZ1RvenRpZ0Y0ZDZnZ0xCRDJ3NmpDNmdPWlJIYkwwakxVS3E1NzFqUUc0R3JLeVhBZ1RQX002NVVSZkRvcllmbzVnUFJNcHowLW8xdG1kbi0tWUU2YVJkcjZFR2FaTFFVZ3hSNWc1TzB5VV9MQklSSjUzSmRpRW1Ca1g2MDRhUGVCdHlKVFVWa0pOdlNvSmFoTXM3V2prX2pPaXVNNFI5a2J4Vk9vZk4zRmpVYk5MemV2UTROdE5WUGNNRFBwV0pwRWx2eUY?oc=5)
+
+`Tue, 25 Aug 2026 17:23:25 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMizAFBVV95cUxNZ1RvenRpZ0Y0ZDZnZ0xCRDJ3NmpDNmdPWlJIYkwwakxVS3E1NzFqUUc0R3JLeVhBZ1RQX002NVVSZkRvcllmbzVnUFJNcHowLW8xdG1kbi0tWUU2YVJkcjZFR2FaTFFVZ3hSNWc1TzB5VV9MQklSSjUzSmRpRW1Ca1g2MDRhUGVCdHlKVFVWa0pOdlNvSmFoTXM3V2prX2pPaXVNNFI5a2J4Vk9vZk4zRmpVYk5MemV2UTROdE5WUGNNRFBwV0pwRWx2eUY?oc=5" target="_blank">Présidentielle 2027 : la CFDT promet de prendre « toute sa place » dans la campagne</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Démographie : comment le Medef veut relancer la natalité - Les Echos](https://news.google.com/rss/articles/CBMirgFBVV95cUxPMFlSYWhwTkNnSkw2M1BXM0RuUC1vTDAxX3F5UXk4YmhyWTFWQVBycHFqcGRGRUx1T0F6MGpjN09BaTZUWDU0eEMzUzgzOXdEemlGV3NHWTNjbElNdTFuWFpURWlvYzJZZ24xU0EyUVRsSllXQVBvcE9BRHZKLU1zbjhBYU5QSVdVZElkTzlLQ3NCTWY0bzh1WVNFX1dCSndhMmlkWEx0RnBkNnpsQkE?oc=5)
+
+`Wed, 26 Aug 2026 05:00:09 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxPMFlSYWhwTkNnSkw2M1BXM0RuUC1vTDAxX3F5UXk4YmhyWTFWQVBycHFqcGRGRUx1T0F6MGpjN09BaTZUWDU0eEMzUzgzOXdEemlGV3NHWTNjbElNdTFuWFpURWlvYzJZZ24xU0EyUVRsSllXQVBvcE9BRHZKLU1zbjhBYU5QSVdVZElkTzlLQ3NCTWY0bzh1WVNFX1dCSndhMmlkWEx0RnBkNnpsQkE?oc=5" target="_blank">Démographie : comment le Medef veut relancer la natalité</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
