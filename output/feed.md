@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Wed, 26 Aug 2026 12:34:32 +0000`
+> Derniere mise a jour : `Wed, 26 Aug 2026 18:45:09 +0000`
 > 75 articles (30 derniers jours)
+
+---
+
+### [Les lignes rouges du Medef pour la présidentielle 2027 - Les Echos](https://news.google.com/rss/articles/CBMiswFBVV95cUxPNXc3bjgwdHV6YmJJU2MxWGduZVVXNnBjYzIxU1R3SUJQLWxKekZwWEt6bzNOc3R2dWN0bzBRVG4xWVZHcXhOMUxOblZidlF5TE9JWnIyR3o5WmozVnlFc3hUQzRWX0hwWHNLeWl1SkJiWGVZSUMtQjN6QWRjWjdWRFRvTF9Rd2c1c1dRTjBwS1JFcHFQLTBtbmJDa3ZIbHlJSzlyN0V0aFI5WW5haHFvaE1rNA?oc=5)
+
+`Wed, 26 Aug 2026 16:53:09 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxPNXc3bjgwdHV6YmJJU2MxWGduZVVXNnBjYzIxU1R3SUJQLWxKekZwWEt6bzNOc3R2dWN0bzBRVG4xWVZHcXhOMUxOblZidlF5TE9JWnIyR3o5WmozVnlFc3hUQzRWX0hwWHNLeWl1SkJiWGVZSUMtQjN6QWRjWjdWRFRvTF9Rd2c1c1dRTjBwS1JFcHFQLTBtbmJDa3ZIbHlJSzlyN0V0aFI5WW5haHFvaE1rNA?oc=5" target="_blank">Les lignes rouges du Medef pour la présidentielle 2027</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -594,13 +602,5 @@
 `Tue, 28 Jul 2026 09:30:59 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSzBwZ3B0c2swUnREcmtndEdKdUo1NVI0V0p0dW9SRE1KQU94bVZzRXN4M0U5S29GV1RJNXdkZXdjWHhuNkVKdmREakF1WnZLZ19DMVIzQUlMTEc2SzdkZjhJRDdJeXNkTEVFS3pXN3dGVEJaMlBQdFhFWWxmb09IeERlUkFfXzRoSjBDWHgzMnd4akFSZU1iVTJsT2VYc1JzaHV4TDg1MFNBTWNrQnFwUHJzODdzWDRLNmR5VVdPbFFiRFlvZU4yTFhqWFZQYnJJaU8tZGNUdGQ1bnJT?oc=5" target="_blank">EXCLUSIF - Accidents du travail : comment le gouvernement veut économiser 800 millions d'euros</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Incendies, inondations… : l'activité partielle reste sous-utilisée en cas de catastrophes naturelles - Les Echos](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQTGlUaGZpdWRYOFVHMFozUkdJN0hXWXFlUktxNlctQzNOYmtwajNqVjdwaDV3NldMOGZORTg2RGdzUWNNNnF2U0xZN1p3SDB0aFM3UXBXalF4NnJUcGdUeTRNVGhEYkR5bXoxSllBZlZNR0d0bEV0UjJTVnRZWDFkYnZlT0dTYVNzanJXVHdoMEhTek03M0NtVkMzUmlJSHA3ZlZFMENfTUVKcmF5MUxUdUIwSVNUQUl3bUhic0xTdFQ1dE1UWlgyeTdwbWE5Z1p2S3ZEV1hJRVlYODJ0RmNwdmFlX3I?oc=5)
-
-`Mon, 27 Jul 2026 14:44:09 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi5AFBVV95cUxQTGlUaGZpdWRYOFVHMFozUkdJN0hXWXFlUktxNlctQzNOYmtwajNqVjdwaDV3NldMOGZORTg2RGdzUWNNNnF2U0xZN1p3SDB0aFM3UXBXalF4NnJUcGdUeTRNVGhEYkR5bXoxSllBZlZNR0d0bEV0UjJTVnRZWDFkYnZlT0dTYVNzanJXVHdoMEhTek03M0NtVkMzUmlJSHA3ZlZFMENfTUVKcmF5MUxUdUIwSVNUQUl3bUhic0xTdFQ1dE1UWlgyeTdwbWE5Z1p2S3ZEV1hJRVlYODJ0RmNwdmFlX3I?oc=5" target="_blank">Incendies, inondations… : l'activité partielle reste sous-utilisée en cas de catastrophes naturelles</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
