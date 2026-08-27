@@ -1,7 +1,39 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Wed, 26 Aug 2026 18:45:09 +0000`
-> 75 articles (30 derniers jours)
+> Derniere mise a jour : `Thu, 27 Aug 2026 16:52:46 +0000`
+> 74 articles (30 derniers jours)
+
+---
+
+### [100 détenus coupés du monde extérieur : un an après, retour à Vendin-le-Vieil pour un premier bilan des prisons ultrasécurisées pour narcotrafiquants - Les Echos](https://news.google.com/rss/articles/CBMiqAJBVV95cUxPQ1BuejhOZjdhYmFuVE1heEVhUHNBREJEZGNsV0pZUjVOb21abUtlY2VhTEZZejg5alAtS0k1ZW9xdEZ6OVBZZHY4Qjh0WkswODZJRXNBbDd6dU5sWm83M3ljcFpQN1RwS1FMX2pQa3Y0VDk0RU1zZE1hQmdibjU1a0ZQbEFzZkExVkxQTC0wUTFFdmlKcVRtNjFNd1FZRW9xVkg3UkFmRHFRdEsxOVRFemFDcm9TbXMtOXlsVDBKQzViMnVObmpFQVBrWHJITVlwa0xaUC03d0trM0RhWnFOaUV6RWNrQXg3ZXQyQ08zQ01JU24zYl9qY3NyZE4zV000X0d6X3RQOG9lcVZkMlBERWJIZ3FRNlN6RV9hbzl0ZEdMdGRRZmhwQw?oc=5)
+
+`Thu, 27 Aug 2026 10:36:46 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiqAJBVV95cUxPQ1BuejhOZjdhYmFuVE1heEVhUHNBREJEZGNsV0pZUjVOb21abUtlY2VhTEZZejg5alAtS0k1ZW9xdEZ6OVBZZHY4Qjh0WkswODZJRXNBbDd6dU5sWm83M3ljcFpQN1RwS1FMX2pQa3Y0VDk0RU1zZE1hQmdibjU1a0ZQbEFzZkExVkxQTC0wUTFFdmlKcVRtNjFNd1FZRW9xVkg3UkFmRHFRdEsxOVRFemFDcm9TbXMtOXlsVDBKQzViMnVObmpFQVBrWHJITVlwa0xaUC03d0trM0RhWnFOaUV6RWNrQXg3ZXQyQ08zQ01JU24zYl9qY3NyZE4zV000X0d6X3RQOG9lcVZkMlBERWJIZ3FRNlN6RV9hbzl0ZEdMdGRRZmhwQw?oc=5" target="_blank">100 détenus coupés du monde extérieur : un an après, retour à Vendin-le-Vieil pour un premier bilan des prisons ultrasécurisées pour narcotrafiquants</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [EXCLUSIF - Accidents du travail, maladies professionnelles : tour de vis en vue pour les entreprises et les salariés - Les Echos](https://news.google.com/rss/articles/CBMi-gFBVV95cUxPUDRoR2tSdVI1d1l4b1B5N2ZVdHhEVmNpZUFhd0ZpZWpnTm1lYnY3M08wWHVjM1VJcENRRTA4MFFQN2xyckNBaFJ4VHdacjl6d3lic1lzZ2tPS21namZvSGYzLTRsaG41aDhrSGhLaEVWQTlYekxzZHNjY1ljZVBQRG1rYTE1a0R4ZnJhdzhSOXMteTRiRDVYS0pwUkRPR01GZVhVUGZ3RmxpSVVuRVJYaC1McmNVc2pTb3lFWDJtbkhGNXVXOE02cXpXOUljSGFad0dTamViZlBJWVNoaTJRMmI2T2J0YWVfQ2E5RUJheHJTVG9EX0VGeVpn?oc=5)
+
+`Thu, 27 Aug 2026 15:48:25 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi-gFBVV95cUxPUDRoR2tSdVI1d1l4b1B5N2ZVdHhEVmNpZUFhd0ZpZWpnTm1lYnY3M08wWHVjM1VJcENRRTA4MFFQN2xyckNBaFJ4VHdacjl6d3lic1lzZ2tPS21namZvSGYzLTRsaG41aDhrSGhLaEVWQTlYekxzZHNjY1ljZVBQRG1rYTE1a0R4ZnJhdzhSOXMteTRiRDVYS0pwUkRPR01GZVhVUGZ3RmxpSVVuRVJYaC1McmNVc2pTb3lFWDJtbkhGNXVXOE02cXpXOUljSGFad0dTamViZlBJWVNoaTJRMmI2T2J0YWVfQ2E5RUJheHJTVG9EX0VGeVpn?oc=5" target="_blank">EXCLUSIF - Accidents du travail, maladies professionnelles : tour de vis en vue pour les entreprises et les salariés</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Mayotte : le gouvernement veut prolonger les aides pour les entreprises locales - Les Echos](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZWFlMHpCNEcycTJaUkxkNTdqcTVkU3pJQ3JDNXRFX1Q0OWthZ0xwbzJqRFB0N3ozWHh4VG9Ua2kzVHN1LXJzRzRqUlFUcDNaV3V0ekxzVGR3anAxcHZKdlF5VFFzMzlXMFJKUmQ0d2dvY2xtaU0yVWlrSWlwUm9kdlNDMkpIb21jcHNSQ2ZHU3FqZ2JlOGlnRUtPTkE1SnVqLVNDTGlZamF3ZUJlVVJEdU5nYUZDV2o1ZU1YU1gyU2dYd3FaVVVHQUp6bmhWUGJwYXFn?oc=5)
+
+`Thu, 27 Aug 2026 13:57:24 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZWFlMHpCNEcycTJaUkxkNTdqcTVkU3pJQ3JDNXRFX1Q0OWthZ0xwbzJqRFB0N3ozWHh4VG9Ua2kzVHN1LXJzRzRqUlFUcDNaV3V0ekxzVGR3anAxcHZKdlF5VFFzMzlXMFJKUmQ0d2dvY2xtaU0yVWlrSWlwUm9kdlNDMkpIb21jcHNSQ2ZHU3FqZ2JlOGlnRUtPTkE1SnVqLVNDTGlZamF3ZUJlVVJEdU5nYUZDV2o1ZU1YU1gyU2dYd3FaVVVHQUp6bmhWUGJwYXFn?oc=5" target="_blank">Mayotte : le gouvernement veut prolonger les aides pour les entreprises locales</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Pacte Dutreil, Crédit Impôt Recherche : Roland Lescure promet « un pacte de stabilité » aux entreprises - Les Echos](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQeWxpMno3RWM3VFJaR2dMWlhPMFROcGoxVWdMcGJFbGdqOC1NenhfOG83LVJkWVRINjAxS2NOVmhXV3FVc2t4ekQtRkdMVHZISDBvWTFFRFdHMXpic09qSTJOR2VEZG9RY2VhMDd0RTZiMkZDMFRJcFhpYXl5TzdhT2dtZDFRQ0JSU0p2VDRHN0NzSlJ3VTdwSUx1ME12UUVUSEhxTmp2SXluR1Z0aHc1UkFoYzZtemtGYUVkblA3MG9XNkh3ZE4yNHM2elduTFVJTTJlN2wwLWxWaFdOOFNDMXhqU3lEbWYteEJDRzFkY0JSWVk?oc=5)
+
+`Thu, 27 Aug 2026 09:37:28 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi8wFBVV95cUxQeWxpMno3RWM3VFJaR2dMWlhPMFROcGoxVWdMcGJFbGdqOC1NenhfOG83LVJkWVRINjAxS2NOVmhXV3FVc2t4ekQtRkdMVHZISDBvWTFFRFdHMXpic09qSTJOR2VEZG9RY2VhMDd0RTZiMkZDMFRJcFhpYXl5TzdhT2dtZDFRQ0JSU0p2VDRHN0NzSlJ3VTdwSUx1ME12UUVUSEhxTmp2SXluR1Z0aHc1UkFoYzZtemtGYUVkblA3MG9XNkh3ZE4yNHM2elduTFVJTTJlN2wwLWxWaFdOOFNDMXhqU3lEbWYteEJDRzFkY0JSWVk?oc=5" target="_blank">Pacte Dutreil, Crédit Impôt Recherche : Roland Lescure promet « un pacte de stabilité » aux entreprises</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -562,45 +594,5 @@
 `Wed, 29 Jul 2026 07:25:08 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxOSHFpTUtxbjMwR0pwejlDNDFWU1AwSHItTnRxZUlRdnR3UGVWX3FHOEpFeFNaN0U5SlBWdEFCLXBQWjZuRXlwY2pxMElOMmFVR0lqVER3X0N0VFQ0S25SQjI0X1czd2JTUDhHc3NtbE5OWG1CQlZSSXI1MzlZd0JJYU55cWhSZDNCQ3RmQmkwOXZLTEpFcWJjcmstU2FyOGxmb0dpeGFreER2cU9RRXdvUHFn?oc=5" target="_blank">Accidents du travail : quels salariés sont les plus exposés ?</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Incendies et activité partielle : mode d'emploi - Les Echos](https://news.google.com/rss/articles/CBMioAFBVV95cUxNWlctY1JhaVdwSF9JN2VNNFhZd0FlLWNEMGo3Y21PaHk1QVJsS29CWUlqbi14RUdqRnV6LTRLbG85VFVpY3ViUm5rcVZfTHFRYWl6ZzZBYlRpRFJfcFdsT3U3dEVUazNabXNobWNMRlpZWlVHcmxTblBOQkhqZDZHUXJSQ1N0RDFqUk45THcxb2I5eGprSWlrdUlkTDJyRVhW?oc=5)
-
-`Tue, 28 Jul 2026 14:25:59 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMioAFBVV95cUxNWlctY1JhaVdwSF9JN2VNNFhZd0FlLWNEMGo3Y21PaHk1QVJsS29CWUlqbi14RUdqRnV6LTRLbG85VFVpY3ViUm5rcVZfTHFRYWl6ZzZBYlRpRFJfcFdsT3U3dEVUazNabXNobWNMRlpZWlVHcmxTblBOQkhqZDZHUXJSQ1N0RDFqUk45THcxb2I5eGprSWlrdUlkTDJyRVhW?oc=5" target="_blank">Incendies et activité partielle : mode d'emploi</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Accidents du travail : des salariés arrêtés de plus en plus longtemps - Les Echos](https://news.google.com/rss/articles/CBMivwFBVV95cUxNb0lIZ01GdW4wcHRQMWdqMG85RDF6aXQtNjhHNm4wUTRkMXduWVNmQV9NeHMzMXl6NnhNZE1GRkw1MFAyYXhia2NmMmJyd3o3dWJwNDJSU3Jta2ljWUF3YVlhdUFnZnVNSVlUSGNrd2hBMzcxbGkxRWhFZ0szOXhnT2hMOTRLSUlQdDVuQ0xRV2NsRWx0V0liVlRZUjN2cW1qR0VkdFV1emJlNmZUd215OXZmMW54Ym5CYUE5cGVzYw?oc=5)
-
-`Tue, 28 Jul 2026 14:00:09 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxNb0lIZ01GdW4wcHRQMWdqMG85RDF6aXQtNjhHNm4wUTRkMXduWVNmQV9NeHMzMXl6NnhNZE1GRkw1MFAyYXhia2NmMmJyd3o3dWJwNDJSU3Jta2ljWUF3YVlhdUFnZnVNSVlUSGNrd2hBMzcxbGkxRWhFZ0szOXhnT2hMOTRLSUlQdDVuQ0xRV2NsRWx0V0liVlRZUjN2cW1qR0VkdFV1emJlNmZUd215OXZmMW54Ym5CYUE5cGVzYw?oc=5" target="_blank">Accidents du travail : des salariés arrêtés de plus en plus longtemps</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Un peu plus optimistes, les Français veulent néanmoins continuer à épargner - Les Echos](https://news.google.com/rss/articles/CBMizwFBVV95cUxQenE4eGFTZExmd0hDbmEtMHNXOGRpOVNHNFc5V184ZVFZbm9kRkFzbW5PXzYxYlB5UkQ3R0RNU1g2SjAxOU9JM2NFWDFBZXVjRlNPTEhFZGpFWGlQZl9qS1BnUXVEc3hoSV9PbnNscHpjZmFzOEl4c3M4YTFxVFJfUkU2VjkyRXZiZ25kOW1xRlRmZFhGTkVmNm5aR05sMnV3ZUNaYUw5end3UEY3dkFLNWRNZUVmSnRJWUQyRU9QdFVWa2NlYzdQdVEtWHVaMlk?oc=5)
-
-`Tue, 28 Jul 2026 10:25:26 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMizwFBVV95cUxQenE4eGFTZExmd0hDbmEtMHNXOGRpOVNHNFc5V184ZVFZbm9kRkFzbW5PXzYxYlB5UkQ3R0RNU1g2SjAxOU9JM2NFWDFBZXVjRlNPTEhFZGpFWGlQZl9qS1BnUXVEc3hoSV9PbnNscHpjZmFzOEl4c3M4YTFxVFJfUkU2VjkyRXZiZ25kOW1xRlRmZFhGTkVmNm5aR05sMnV3ZUNaYUw5end3UEY3dkFLNWRNZUVmSnRJWUQyRU9QdFVWa2NlYzdQdVEtWHVaMlk?oc=5" target="_blank">Un peu plus optimistes, les Français veulent néanmoins continuer à épargner</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Le chômage stable au deuxième trimestre - Les Echos](https://news.google.com/rss/articles/CBMimgFBVV95cUxPUzRxbk5oVDBXcmtnTGF5SGt2WGhPS2JVOHRNV0xNeWxKbks5TnpQYUltYThReF9rVmlyY0hXZ2FQT195Y3pkM2N4OVpQSjNBMDBmVHg1QUtoUnFMbG9QeTl4cFNrQi05WlpHQW1fbkxidXViWjdOTGVVTXZiZ1VIendlelZrUHg0cXVyVVhiaHhjN05VNDU0YUhB?oc=5)
-
-`Tue, 28 Jul 2026 10:05:41 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMimgFBVV95cUxPUzRxbk5oVDBXcmtnTGF5SGt2WGhPS2JVOHRNV0xNeWxKbks5TnpQYUltYThReF9rVmlyY0hXZ2FQT195Y3pkM2N4OVpQSjNBMDBmVHg1QUtoUnFMbG9QeTl4cFNrQi05WlpHQW1fbkxidXViWjdOTGVVTXZiZ1VIendlelZrUHg0cXVyVVhiaHhjN05VNDU0YUhB?oc=5" target="_blank">Le chômage stable au deuxième trimestre</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [EXCLUSIF - Accidents du travail : comment le gouvernement veut économiser 800 millions d'euros - Les Echos](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSzBwZ3B0c2swUnREcmtndEdKdUo1NVI0V0p0dW9SRE1KQU94bVZzRXN4M0U5S29GV1RJNXdkZXdjWHhuNkVKdmREakF1WnZLZ19DMVIzQUlMTEc2SzdkZjhJRDdJeXNkTEVFS3pXN3dGVEJaMlBQdFhFWWxmb09IeERlUkFfXzRoSjBDWHgzMnd4akFSZU1iVTJsT2VYc1JzaHV4TDg1MFNBTWNrQnFwUHJzODdzWDRLNmR5VVdPbFFiRFlvZU4yTFhqWFZQYnJJaU8tZGNUdGQ1bnJT?oc=5)
-
-`Tue, 28 Jul 2026 09:30:59 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSzBwZ3B0c2swUnREcmtndEdKdUo1NVI0V0p0dW9SRE1KQU94bVZzRXN4M0U5S29GV1RJNXdkZXdjWHhuNkVKdmREakF1WnZLZ19DMVIzQUlMTEc2SzdkZjhJRDdJeXNkTEVFS3pXN3dGVEJaMlBQdFhFWWxmb09IeERlUkFfXzRoSjBDWHgzMnd4akFSZU1iVTJsT2VYc1JzaHV4TDg1MFNBTWNrQnFwUHJzODdzWDRLNmR5VVdPbFFiRFlvZU4yTFhqWFZQYnJJaU8tZGNUdGQ1bnJT?oc=5" target="_blank">EXCLUSIF - Accidents du travail : comment le gouvernement veut économiser 800 millions d'euros</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
