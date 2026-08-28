@@ -1,7 +1,31 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Fri, 28 Aug 2026 01:11:58 +0000`
-> 74 articles (30 derniers jours)
+> Derniere mise a jour : `Fri, 28 Aug 2026 17:44:22 +0000`
+> 72 articles (30 derniers jours)
+
+---
+
+### [« C'est un impact absolument terrifiant » : les canicules font caler l'économie française - Les Echos](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdFNWMjZkbmVZVU90Tkxfd1BNU0NfT2dBdFRKOVRjNlN4S1dFODlBVE52QVBqdzZqNkU5dEs0VzhRc0tSc1B0RklxcFRTSEx3bURYbHVtSVhpT25QaG1SMGRISG5uS0stSk1iSEtpSzVRcnZqQXowMjVZXzBSSHc1ZUdNcm1xaTIwUHFCSWJpS1NOUU0tN2pMWGwzYlJTa21lNkp3Rzk2RGtkZw?oc=5)
+
+`Fri, 28 Aug 2026 07:08:23 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdFNWMjZkbmVZVU90Tkxfd1BNU0NfT2dBdFRKOVRjNlN4S1dFODlBVE52QVBqdzZqNkU5dEs0VzhRc0tSc1B0RklxcFRTSEx3bURYbHVtSVhpT25QaG1SMGRISG5uS0stSk1iSEtpSzVRcnZqQXowMjVZXzBSSHc1ZUdNcm1xaTIwUHFCSWJpS1NOUU0tN2pMWGwzYlJTa21lNkp3Rzk2RGtkZw?oc=5" target="_blank">« C'est un impact absolument terrifiant » : les canicules font caler l'économie française</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [TVA sociale : cinq choses à savoir sur cette mesure controversée remise sur la table par François Hollande et Bruno Le Maire - Les Echos](https://news.google.com/rss/articles/CBMilgJBVV95cUxOUlgwTl9BZUloN01Ja3k5WmQyOUtib29aYldTV2k4aTA2WUxqOFV4TEhEbUZQQWt2aGFQcUZpTEdBYXl1VUZVUVJVQTRJNi1SUUhGcV9LQlFRUV8tMU05b2otbGR4VFlzQ2FTQ0J5Zmx0WkVhN1dIaU43a2tQSWhxZEJndHNnYnlGbzlhVXBGbXJUUFVnYmpGMFA3X2RDaE5MNm1rNnZjSUp5U0hnVms4N3o5ZXZuaHpsSVpUcy1XSThGcHZqUjVhWE9UY0ZPQ3JxWnJJamYxeUp3YzNZbG01THpYdGRDZEg2UDllZFFGN05xNzBYZ01sLXo2OHZ5ODB4ZHNOMUhiUzFIMnV5amRPTDlWbWxPUQ?oc=5)
+
+`Fri, 28 Aug 2026 04:20:09 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMilgJBVV95cUxOUlgwTl9BZUloN01Ja3k5WmQyOUtib29aYldTV2k4aTA2WUxqOFV4TEhEbUZQQWt2aGFQcUZpTEdBYXl1VUZVUVJVQTRJNi1SUUhGcV9LQlFRUV8tMU05b2otbGR4VFlzQ2FTQ0J5Zmx0WkVhN1dIaU43a2tQSWhxZEJndHNnYnlGbzlhVXBGbXJUUFVnYmpGMFA3X2RDaE5MNm1rNnZjSUp5U0hnVms4N3o5ZXZuaHpsSVpUcy1XSThGcHZqUjVhWE9UY0ZPQ3JxWnJJamYxeUp3YzNZbG01THpYdGRDZEg2UDllZFFGN05xNzBYZ01sLXo2OHZ5ODB4ZHNOMUhiUzFIMnV5amRPTDlWbWxPUQ?oc=5" target="_blank">TVA sociale : cinq choses à savoir sur cette mesure controversée remise sur la table par François Hollande et Bruno Le Maire</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [L'emploi se maintient malgré une croissance française en berne - Les Echos](https://news.google.com/rss/articles/CBMitwFBVV95cUxOV3M5dksyNHp3enhDOXZnOW96TklIb2JNYUppNDFTU1BXTmVsblF1OFJRYlNMMzF4MFZNR2Y1eW51YWY3eEQ5SnJVZkVoMjhkeXNEeXNWRVlQSEdmWHFxN3pFQ1JDODBKOG9yOFoxVlRrWG1kRncwYXV3Tk5KYy1Fb242NjhENkJYbWQwcDV0c2FVelFnQjNCeEViS1JKSmhJQkk1aXkyNVd6OGRnUlBmLUV4d1Q4WXM?oc=5)
+
+`Fri, 28 Aug 2026 07:56:34 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxOV3M5dksyNHp3enhDOXZnOW96TklIb2JNYUppNDFTU1BXTmVsblF1OFJRYlNMMzF4MFZNR2Y1eW51YWY3eEQ5SnJVZkVoMjhkeXNEeXNWRVlQSEdmWHFxN3pFQ1JDODBKOG9yOFoxVlRrWG1kRncwYXV3Tk5KYy1Fb242NjhENkJYbWQwcDV0c2FVelFnQjNCeEViS1JKSmhJQkk1aXkyNVd6OGRnUlBmLUV4d1Q4WXM?oc=5" target="_blank">L'emploi se maintient malgré une croissance française en berne</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -554,45 +578,5 @@
 `Thu, 30 Jul 2026 05:52:06 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxPNkI3VzlYOWkwbVluOFZ5RWpqTlRNaVd2SVZ4ZTdySUJER0d1WnVCeTVvTDlJRTBTcXpMblJaUUcyY2FpWkZyVlF2dDZpZFh5Z2pFU2tmNFBpVGY4d3IwY0c2Uk1KMnBOUVp2bzl6Zi1zVDFlMjBZTHI3NzRRZ19oVVdpdk1VaXBsLVVUUVRTMVRVZUh1b1hkdmptZExxTWJxMjRzOFM5NA?oc=5" target="_blank">La bonne surprise de la croissance française</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Pourquoi le lien entre études et emploi ne concerne qu'une petite majorité de Français - Les Echos](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNOUtSbjF1OXhpZDFDdm1JV29uSXZJX195czlqblF6U0hZUHlHRE16bGpmOHNCb1Jrb25mT0UxQjJ6OGo0b3g0WV9tZlRqSm9FdjE4YWhlNnNQTDQ3MURaU1NuWk0xS0cyY2VnOTU0WEpPVGNjMzFBQ3J0UldJRzcza2UzdkhNMVVsNkdFUkZJd1hXUThQX29tSS1IUWMzeEVVSVpLRUd5OURSTDVic3gwQ2FQSHdWeGF3ZVRhbndUdGwzMF9Da3ZjQjAwa1BSU09NbGwyZi0ySQ?oc=5)
-
-`Wed, 29 Jul 2026 15:00:29 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi1wFBVV95cUxNOUtSbjF1OXhpZDFDdm1JV29uSXZJX195czlqblF6U0hZUHlHRE16bGpmOHNCb1Jrb25mT0UxQjJ6OGo0b3g0WV9tZlRqSm9FdjE4YWhlNnNQTDQ3MURaU1NuWk0xS0cyY2VnOTU0WEpPVGNjMzFBQ3J0UldJRzcza2UzdkhNMVVsNkdFUkZJd1hXUThQX29tSS1IUWMzeEVVSVpLRUd5OURSTDVic3gwQ2FQSHdWeGF3ZVRhbndUdGwzMF9Da3ZjQjAwa1BSU09NbGwyZi0ySQ?oc=5" target="_blank">Pourquoi le lien entre études et emploi ne concerne qu'une petite majorité de Français</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Le nombre de contrats d'apprentissage dans la fonction publique en baisse - Les Echos](https://news.google.com/rss/articles/CBMixgFBVV95cUxPQzJudGc3WEl1ZEwtWUhMODhNNllqWmhSNVg4RmxmMUhYSmdyV05Tc1U5cWVDNGdtTlRrcllTUHFYZjhDYjlvX2tZNzlSYzBGUVEyYnRNX0h2bXdvZ3ZhYjB3SmpmY0hxREtjY3JXS08ycXozUFVVUk41cVdOYU81Y3NoUm5GMVA4VVA5a0R3TUYxMUdDUFhmOU95WlA5MlpKM2ltLU9uaVpIZUVrUlMzS25NTjVXWm52SklkMEJYT3E1WGZGUWc?oc=5)
-
-`Wed, 29 Jul 2026 13:56:29 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxPQzJudGc3WEl1ZEwtWUhMODhNNllqWmhSNVg4RmxmMUhYSmdyV05Tc1U5cWVDNGdtTlRrcllTUHFYZjhDYjlvX2tZNzlSYzBGUVEyYnRNX0h2bXdvZ3ZhYjB3SmpmY0hxREtjY3JXS08ycXozUFVVUk41cVdOYU81Y3NoUm5GMVA4VVA5a0R3TUYxMUdDUFhmOU95WlA5MlpKM2ltLU9uaVpIZUVrUlMzS25NTjVXWm52SklkMEJYT3E1WGZGUWc?oc=5" target="_blank">Le nombre de contrats d'apprentissage dans la fonction publique en baisse</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [« Le changement climatique peut effacer une grande partie de la croissance économique » - Les Echos](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNaUJoaGFXQnU1a2tNTnVMWDBIVml4Q2xOOXlKWWRnYm14N09qdVZyZ0pkZmJWZjdHNVo1U1VqcnZjWkRTY1huU1hfc1NtMzRBY0FPN2hrcHJuLXJqUnBidm5SUXMyUEc1UnBHZ0NPblp2cTB1M2g5c1lrYm05XzJ1NXVWSEd3NzcycG9RRFc4TlZLd0gteWNYLWpxVzFmWmVUZ2xGbEtiampkUlRxbERnOFE4ZUJ1bTFjVWh4YXFpaTVjRlpMX3Q5ellSNkNxN2JhTFdGczJtR2tSdTQ?oc=5)
-
-`Wed, 29 Jul 2026 09:54:40 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi2wFBVV95cUxNaUJoaGFXQnU1a2tNTnVMWDBIVml4Q2xOOXlKWWRnYm14N09qdVZyZ0pkZmJWZjdHNVo1U1VqcnZjWkRTY1huU1hfc1NtMzRBY0FPN2hrcHJuLXJqUnBidm5SUXMyUEc1UnBHZ0NPblp2cTB1M2g5c1lrYm05XzJ1NXVWSEd3NzcycG9RRFc4TlZLd0gteWNYLWpxVzFmWmVUZ2xGbEtiampkUlRxbERnOFE4ZUJ1bTFjVWh4YXFpaTVjRlpMX3Q5ellSNkNxN2JhTFdGczJtR2tSdTQ?oc=5" target="_blank">« Le changement climatique peut effacer une grande partie de la croissance économique »</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Incendies : au-delà des critiques et des polémiques, les vrais chiffres des moyens déployés par l'Etat - Les Echos](https://news.google.com/rss/articles/CBMi9gFBVV95cUxNaHo3ZkJqM0hvdjZCUDZfZy1DYVoydHItRUNYTXZiOTNfaTU5aFdLZFhSdzV5Z1dxRENrUUI5UDZTQnZCOXdvVUVQdFNxTEhVdHNxcS1PbVRhNlhId1dEOGlkanJjMXlyTXdjYVJEYkd4YVEzOXdWSi1uVmZaLXdjVjhlWU1PWEpGMjJuOFFfcnZxajRqeFhNOXJEMjF4TU54MTVHajFvS3dvWlMyWlZPLWxTVWpYemU0RG1WdVFhYkt5SVBIUG1kMFJIRWxFWWR1MDN4OTkybVVlRmluOVljMzJmcG5fWU9yajcxYmU3a082eE1GX2c?oc=5)
-
-`Wed, 29 Jul 2026 04:15:10 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi9gFBVV95cUxNaHo3ZkJqM0hvdjZCUDZfZy1DYVoydHItRUNYTXZiOTNfaTU5aFdLZFhSdzV5Z1dxRENrUUI5UDZTQnZCOXdvVUVQdFNxTEhVdHNxcS1PbVRhNlhId1dEOGlkanJjMXlyTXdjYVJEYkd4YVEzOXdWSi1uVmZaLXdjVjhlWU1PWEpGMjJuOFFfcnZxajRqeFhNOXJEMjF4TU54MTVHajFvS3dvWlMyWlZPLWxTVWpYemU0RG1WdVFhYkt5SVBIUG1kMFJIRWxFWWR1MDN4OTkybVVlRmluOVljMzJmcG5fWU9yajcxYmU3a082eE1GX2c?oc=5" target="_blank">Incendies : au-delà des critiques et des polémiques, les vrais chiffres des moyens déployés par l'Etat</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Accidents du travail : quels salariés sont les plus exposés ? - Les Echos](https://news.google.com/rss/articles/CBMisgFBVV95cUxOSHFpTUtxbjMwR0pwejlDNDFWU1AwSHItTnRxZUlRdnR3UGVWX3FHOEpFeFNaN0U5SlBWdEFCLXBQWjZuRXlwY2pxMElOMmFVR0lqVER3X0N0VFQ0S25SQjI0X1czd2JTUDhHc3NtbE5OWG1CQlZSSXI1MzlZd0JJYU55cWhSZDNCQ3RmQmkwOXZLTEpFcWJjcmstU2FyOGxmb0dpeGFreER2cU9RRXdvUHFn?oc=5)
-
-`Wed, 29 Jul 2026 07:25:08 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxOSHFpTUtxbjMwR0pwejlDNDFWU1AwSHItTnRxZUlRdnR3UGVWX3FHOEpFeFNaN0U5SlBWdEFCLXBQWjZuRXlwY2pxMElOMmFVR0lqVER3X0N0VFQ0S25SQjI0X1czd2JTUDhHc3NtbE5OWG1CQlZSSXI1MzlZd0JJYU55cWhSZDNCQ3RmQmkwOXZLTEpFcWJjcmstU2FyOGxmb0dpeGFreER2cU9RRXdvUHFn?oc=5" target="_blank">Accidents du travail : quels salariés sont les plus exposés ?</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
