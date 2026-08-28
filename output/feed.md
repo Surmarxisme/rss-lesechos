@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Fri, 28 Aug 2026 20:47:37 +0000`
-> 72 articles (30 derniers jours)
+> Derniere mise a jour : `Fri, 28 Aug 2026 21:36:41 +0000`
+> 73 articles (30 derniers jours)
+
+---
+
+### [Dette : l'agence Fitch maintient la note souveraine de la France - Les Echos](https://news.google.com/rss/articles/CBMixAFBVV95cUxQN3dzR0pLaGxUU0U4b0ROWWdaaXhWU1NhcXE3Z2ItWVNHeGJaS29SN0lEai1fUnZETzM5U1hYdkFSeHB6aWI4SVlrb0p0cXJFLThod1JMSXRZdmMwWU03QnM4VXU4TjlPd1lqUndPWnF6UEZQR3RpelpWR0lTV1V0RUJkbURzNlNVVHVFZU9GTnltX2VFWVhNRGZ3THRabDhUZkhraXJmRzM1a3FTNzBtdHNsa1JCME9tek1hRkhqc2Z6V3Q2?oc=5)
+
+`Fri, 28 Aug 2026 21:24:33 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMixAFBVV95cUxQN3dzR0pLaGxUU0U4b0ROWWdaaXhWU1NhcXE3Z2ItWVNHeGJaS29SN0lEai1fUnZETzM5U1hYdkFSeHB6aWI4SVlrb0p0cXJFLThod1JMSXRZdmMwWU03QnM4VXU4TjlPd1lqUndPWnF6UEZQR3RpelpWR0lTV1V0RUJkbURzNlNVVHVFZU9GTnltX2VFWVhNRGZ3THRabDhUZkhraXJmRzM1a3FTNzBtdHNsa1JCME9tek1hRkhqc2Z6V3Q2?oc=5" target="_blank">Dette : l'agence Fitch maintient la note souveraine de la France</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
