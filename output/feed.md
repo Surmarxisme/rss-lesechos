@@ -1,7 +1,7 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Sat, 29 Aug 2026 00:46:38 +0000`
-> 73 articles (30 derniers jours)
+> Derniere mise a jour : `Sat, 29 Aug 2026 14:15:09 +0000`
+> 70 articles (30 derniers jours)
 
 ---
 
@@ -562,29 +562,5 @@
 `Thu, 30 Jul 2026 15:00:11 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi-AFBVV95cUxQbU9iNFY3WUw2T3pFbzBackpwbkotLWVQODlfMk5PZm9yczFKYlJrWFZBTURjc3BFWFBOWG5DZEdDSVlpLUNtOVhrRzVKQXpBRm1jWF80NFkzMjJjWmt2S1FYZ2dMVHVhSUh3N3lTRlZsc2s2OUpSQVJNZWxQZ3VPUkN0cEhrZ19aV05kZTk1bllaTUl0OVBVbFhaSjJpRjR0NXdsNXFsMVFjTXFXanBFZFloNWdfRHRFcHNvaFNWa04wS2txQW9XU2FTbVI5MUFiRml6UDdZUkFRYVFzUHI2OFlqUWptY1AzOTFfemRjUGZLNi13TmJvNQ?oc=5" target="_blank">SONDAGE EXCLUSIF - Médicaments, dentistes : les Français rejettent le plan d'économies du gouvernement pour la santé</a>&nbsp;&nbsp;<font color="#6f6f6f">lesechos.fr</font>
-
----
-
-### [Naissances : toujours moins de bébés en France - Les Echos](https://news.google.com/rss/articles/CBMipwFBVV95cUxQRFFkUEF0ZFhaSTF4SXM3NWE0N1V1bzJ6VGJrNTcwZThjUUtpUUJrS1EtMnYtLXljcUNuS2o2QXg1eFJsaVZ5N2JYcEFLSDY4eC1yWkpQOWZ2WEI4MUZPVHdVbmQ1TGItZ3p0dVdVZUNla2NUUWxCd3luYXgySHRZUTFoNzNtdWt1Y3o2N181SUFaVUpLbmxyMVE3aFFUTlU5ckJmcnE1SQ?oc=5)
-
-`Thu, 30 Jul 2026 13:17:59 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxQRFFkUEF0ZFhaSTF4SXM3NWE0N1V1bzJ6VGJrNTcwZThjUUtpUUJrS1EtMnYtLXljcUNuS2o2QXg1eFJsaVZ5N2JYcEFLSDY4eC1yWkpQOWZ2WEI4MUZPVHdVbmQ1TGItZ3p0dVdVZUNla2NUUWxCd3luYXgySHRZUTFoNzNtdWt1Y3o2N181SUFaVUpLbmxyMVE3aFFUTlU5ckJmcnE1SQ?oc=5" target="_blank">Naissances : toujours moins de bébés en France</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Formation professionnelle, apprentissage : vers un durcissement des règles - Les Echos](https://news.google.com/rss/articles/CBMixAFBVV95cUxQWEtyRjdaU1BDSHAxUmVicG5GMF96eWpnQzJsQnVnclV2eXN2dXoyNmZPRmc0ZGtXMmZFR1lsZXV0cFhRVzhCeE9aNk12NV9GTERyZ0IyeUZ5a1ZoNExPZVViT3FEUDBvRE9SMWFOUnRDRjJLOTNQNWpqemNfQmFwbFVYdzJzMHJyV09uajJLT2lKZm4yWGc4dTJTeUlYS2V4UUZVZUhqbDZsMGJrV1Z3TjFrRThodEU5eXFZem9WdEVxTXJK?oc=5)
-
-`Thu, 30 Jul 2026 04:30:23 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMixAFBVV95cUxQWEtyRjdaU1BDSHAxUmVicG5GMF96eWpnQzJsQnVnclV2eXN2dXoyNmZPRmc0ZGtXMmZFR1lsZXV0cFhRVzhCeE9aNk12NV9GTERyZ0IyeUZ5a1ZoNExPZVViT3FEUDBvRE9SMWFOUnRDRjJLOTNQNWpqemNfQmFwbFVYdzJzMHJyV09uajJLT2lKZm4yWGc4dTJTeUlYS2V4UUZVZUhqbDZsMGJrV1Z3TjFrRThodEU5eXFZem9WdEVxTXJK?oc=5" target="_blank">Formation professionnelle, apprentissage : vers un durcissement des règles</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [La bonne surprise de la croissance française - Les Echos](https://news.google.com/rss/articles/CBMipwFBVV95cUxPNkI3VzlYOWkwbVluOFZ5RWpqTlRNaVd2SVZ4ZTdySUJER0d1WnVCeTVvTDlJRTBTcXpMblJaUUcyY2FpWkZyVlF2dDZpZFh5Z2pFU2tmNFBpVGY4d3IwY0c2Uk1KMnBOUVp2bzl6Zi1zVDFlMjBZTHI3NzRRZ19oVVdpdk1VaXBsLVVUUVRTMVRVZUh1b1hkdmptZExxTWJxMjRzOFM5NA?oc=5)
-
-`Thu, 30 Jul 2026 05:52:06 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxPNkI3VzlYOWkwbVluOFZ5RWpqTlRNaVd2SVZ4ZTdySUJER0d1WnVCeTVvTDlJRTBTcXpMblJaUUcyY2FpWkZyVlF2dDZpZFh5Z2pFU2tmNFBpVGY4d3IwY0c2Uk1KMnBOUVp2bzl6Zi1zVDFlMjBZTHI3NzRRZ19oVVdpdk1VaXBsLVVUUVRTMVRVZUh1b1hkdmptZExxTWJxMjRzOFM5NA?oc=5" target="_blank">La bonne surprise de la croissance française</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
