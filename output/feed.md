@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Sun, 30 Aug 2026 14:19:55 +0000`
+> Derniere mise a jour : `Mon, 31 Aug 2026 11:54:13 +0000`
 > 67 articles (30 derniers jours)
+
+---
+
+### [Facturation électronique : les secteurs qui ont accéléré et les mauvais élèves - Les Echos](https://news.google.com/rss/articles/CBMiywFBVV95cUxPTXJMZk9hZVVucXJNMUUyVkw5YXVseGZfRWNXTjRDNUwwUGI0VFZqWnJlNzRHbF9zcVo3Wmp4VmpDR3BpM1l1THhhR2RkTjVLRHBwbmxuSmpHbzJGcGRnS0F4bWpuck1nRkhvZkh2WThGOXg3T0dWS0wtdmtOdm5qVFdfalZRQzhTenpvXzNPS1hjR0NNRmFfYUotU1ctS0VIMVBoMGFYR014WWIzdnNjWmtTbUlqMmVYTjVyZWp4bUtZNmVQN3J3endmaw?oc=5)
+
+`Mon, 31 Aug 2026 09:52:11 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiywFBVV95cUxPTXJMZk9hZVVucXJNMUUyVkw5YXVseGZfRWNXTjRDNUwwUGI0VFZqWnJlNzRHbF9zcVo3Wmp4VmpDR3BpM1l1THhhR2RkTjVLRHBwbmxuSmpHbzJGcGRnS0F4bWpuck1nRkhvZkh2WThGOXg3T0dWS0wtdmtOdm5qVFdfalZRQzhTenpvXzNPS1hjR0NNRmFfYUotU1ctS0VIMVBoMGFYR014WWIzdnNjWmtTbUlqMmVYTjVyZWp4bUtZNmVQN3J3endmaw?oc=5" target="_blank">Facturation électronique : les secteurs qui ont accéléré et les mauvais élèves</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -530,13 +538,5 @@
 `Mon, 03 Aug 2026 09:15:41 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOTU4ekIyRG1LQ1liS1lzWm9QVFh1d3FIWHlUUjdHLXlnZ0doNkRZY3owOHdnMEFuSnZMUjlWYkp0QTdhOVpVVlpXT1pxaW9GRklKc0xKbWxCVWo4ejMyNGxCRjBvajJsYmY3ckRaSGxOajV4a3k0MEc5WWEzR1VSbjJrcmhnZHI5eVVoNUhlTmswMjl1TjdCLVhWU0lhUnBjczczLTkxUUxoOWRqem91N1JEVzQ1QUowZUxaTFhNZXI?oc=5" target="_blank">La France durcit son contrôle sur les investissements étrangers</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Les décès ont bondi de près de 11 % en juin sous l'effet de la canicule - Les Echos](https://news.google.com/rss/articles/CBMixwFBVV95cUxQczRPd3B6V20xT01MWncteUVUbW5Cc09WZ2tzMGZCMnBXbVV3Z1hxMExrZWl1eGxBeXdfakNMTmptT045NjVqclozTGl2Mlg1N2F6MFFndzJsMGFpelpMM2Q2VHd6REh1ZFFGUkc3ZlN2b0tOTzE0RTU5ZGVtZ1RGSjg0d2xTWGx2NlliNWpxR1B3MlJfQnMwU3U3NlV0cjNzQm9pOGNUSXdySkRKcm81dnVyamtfTmMwM1BveUktNnN6WFpxamxZ?oc=5)
-
-`Fri, 31 Jul 2026 14:53:16 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMixwFBVV95cUxQczRPd3B6V20xT01MWncteUVUbW5Cc09WZ2tzMGZCMnBXbVV3Z1hxMExrZWl1eGxBeXdfakNMTmptT045NjVqclozTGl2Mlg1N2F6MFFndzJsMGFpelpMM2Q2VHd6REh1ZFFGUkc3ZlN2b0tOTzE0RTU5ZGVtZ1RGSjg0d2xTWGx2NlliNWpxR1B3MlJfQnMwU3U3NlV0cjNzQm9pOGNUSXdySkRKcm81dnVyamtfTmMwM1BveUktNnN6WFpxamxZ?oc=5" target="_blank">Les décès ont bondi de près de 11 % en juin sous l'effet de la canicule</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
