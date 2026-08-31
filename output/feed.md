@@ -1,7 +1,23 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Mon, 31 Aug 2026 11:54:13 +0000`
-> 67 articles (30 derniers jours)
+> Derniere mise a jour : `Mon, 31 Aug 2026 16:57:53 +0000`
+> 69 articles (30 derniers jours)
+
+---
+
+### [Retraites : pourquoi une sous-indexation des pensions des plus aisés interroge le système tout entier - Les Echos](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNbVNrTW9mTzFqcFpZcWRIRElycDhOYzItZ3RhOEI5a19fUnRzRVBvUXI5aGVmeTVHVmQ1NmltVVpzd1JlRHNnTTQtWlZHRWFhV3puaEVKRUpJV3BkUlROQTlLTjJuN1E1VUtsTnpnRVRzZE5yRmkweXNXME5NVFhKbjZjeEhBbE9PMVl1azFxSUJtbGh3Q3V3eHJVMkNkdEl4WWhzNjhxNmtaY2lWbVNzR283eDNzQldGc0hnQ190eFV2Sld4WGkxVDRhVHVkRHZNdnBjaEE2TmJ6ZDdGbFdySl90c3ZQeW0tR2c?oc=5)
+
+`Mon, 31 Aug 2026 14:01:09 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi6gFBVV95cUxNbVNrTW9mTzFqcFpZcWRIRElycDhOYzItZ3RhOEI5a19fUnRzRVBvUXI5aGVmeTVHVmQ1NmltVVpzd1JlRHNnTTQtWlZHRWFhV3puaEVKRUpJV3BkUlROQTlLTjJuN1E1VUtsTnpnRVRzZE5yRmkweXNXME5NVFhKbjZjeEhBbE9PMVl1azFxSUJtbGh3Q3V3eHJVMkNkdEl4WWhzNjhxNmtaY2lWbVNzR283eDNzQldGc0hnQ190eFV2Sld4WGkxVDRhVHVkRHZNdnBjaEE2TmJ6ZDdGbFdySl90c3ZQeW0tR2c?oc=5" target="_blank">Retraites : pourquoi une sous-indexation des pensions des plus aisés interroge le système tout entier</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Budget 2027 : les retraités aisés dans le viseur du gouvernement - Les Echos](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZmVmaUNUS1RrMjNXT2xoRzBfNUhsT2xyRjRHbjNfNGZQWUNtZTJqQkNRcFpyU19GVHVycmVFVHdVRnNrekpBLUtxcFZ2eTBlRFdkMTluemM4M2F2ZUxUR3NWNGRaR2tETVF4cGhrX3F6UTEtNy14aHJTRFRFYkZueUJIeEszUWFsUXNVMkw1cVJaS3dFQ01UQmwyVl9iYmRWOHpfamdmLTRoSGg1dE5SWHhZU0JOR3I4?oc=5)
+
+`Mon, 31 Aug 2026 16:45:04 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZmVmaUNUS1RrMjNXT2xoRzBfNUhsT2xyRjRHbjNfNGZQWUNtZTJqQkNRcFpyU19GVHVycmVFVHdVRnNrekpBLUtxcFZ2eTBlRFdkMTluemM4M2F2ZUxUR3NWNGRaR2tETVF4cGhrX3F6UTEtNy14aHJTRFRFYkZueUJIeEszUWFsUXNVMkw1cVJaS3dFQ01UQmwyVl9iYmRWOHpfamdmLTRoSGg1dE5SWHhZU0JOR3I4?oc=5" target="_blank">Budget 2027 : les retraités aisés dans le viseur du gouvernement</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
