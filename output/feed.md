@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Tue, 01 Sep 2026 14:03:37 +0000`
-> 69 articles (30 derniers jours)
+> Derniere mise a jour : `Tue, 01 Sep 2026 15:49:20 +0000`
+> 70 articles (30 derniers jours)
+
+---
+
+### [Déficit, dette, impôts : le rapporteur du Budget demande aux candidats à la présidentielle de sortir du bois - Les Echos](https://news.google.com/rss/articles/CBMi_gFBVV95cUxPQ053RFpfNnNUQ1NRLXR6RmhBdkZSQi1HTEdhMkJ1UGJXdHR4UXlDcFp2N3JiZE9kWWhrS2FtNi1pQUY1NlZNakU4UnVlTlhxSV81S0xPYlF0RFZTLXlvSWxLLVhVbXhYaHpsREZCLTBGSHQweVQ2Xy1XOVQtdmJpMlR2bV9kOU1kVmJUZ01FMExGX1VRLV8wdzljaUpLYk1HTmRuTzl6SFExR09qZGR6TXIyTjlJMzBTTXZQeEd3cHhHRXdzUTBNY1Y4RWUwdGtQUUtmcVUtQ0ZtWVMxWWNzcXF3N2ZEMm5XblJiUWpFYlRzMzJhQ1M5M0lNZXVUdw?oc=5)
+
+`Tue, 01 Sep 2026 15:42:17 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi_gFBVV95cUxPQ053RFpfNnNUQ1NRLXR6RmhBdkZSQi1HTEdhMkJ1UGJXdHR4UXlDcFp2N3JiZE9kWWhrS2FtNi1pQUY1NlZNakU4UnVlTlhxSV81S0xPYlF0RFZTLXlvSWxLLVhVbXhYaHpsREZCLTBGSHQweVQ2Xy1XOVQtdmJpMlR2bV9kOU1kVmJUZ01FMExGX1VRLV8wdzljaUpLYk1HTmRuTzl6SFExR09qZGR6TXIyTjlJMzBTTXZQeEd3cHhHRXdzUTBNY1Y4RWUwdGtQUUtmcVUtQ0ZtWVMxWWNzcXF3N2ZEMm5XblJiUWpFYlRzMzJhQ1M5M0lNZXVUdw?oc=5" target="_blank">Déficit, dette, impôts : le rapporteur du Budget demande aux candidats à la présidentielle de sortir du bois</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
