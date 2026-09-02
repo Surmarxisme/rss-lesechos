@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Wed, 02 Sep 2026 15:42:19 +0000`
-> 71 articles (30 derniers jours)
+> Derniere mise a jour : `Wed, 02 Sep 2026 19:32:20 +0000`
+> 72 articles (30 derniers jours)
+
+---
+
+### [Sécurité sociale : tour de vis en vue sur les arrêts maladie de longue durée - Les Echos](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUWVuT29wNHJEdzFfTkFrZV9OUXZuMUpVcWFoQ3NIeUVNUGZuR0t3cWJpdWpwbVhwdDhrRUMzUDlOV1NRV08tNUxhckNRX0RrcTFtM25IamNKc3RKeXdPdU5nTEE2ZWRCLUZIc1hGckNUUl9kQ3VoR29iajBuTkFZOGxHVDg0TjM4aGgwZFgySE5WNDRtd29CY2pGY0dWT1lRZ0hnTzQxRzlLdzYtSzFoSXpkczJnMGd4Sk1kdk5kbHVnbXhCR0xzdA?oc=5)
+
+`Wed, 02 Sep 2026 16:06:44 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUWVuT29wNHJEdzFfTkFrZV9OUXZuMUpVcWFoQ3NIeUVNUGZuR0t3cWJpdWpwbVhwdDhrRUMzUDlOV1NRV08tNUxhckNRX0RrcTFtM25IamNKc3RKeXdPdU5nTEE2ZWRCLUZIc1hGckNUUl9kQ3VoR29iajBuTkFZOGxHVDg0TjM4aGgwZFgySE5WNDRtd29CY2pGY0dWT1lRZ0hnTzQxRzlLdzYtSzFoSXpkczJnMGd4Sk1kdk5kbHVnbXhCR0xzdA?oc=5" target="_blank">Sécurité sociale : tour de vis en vue sur les arrêts maladie de longue durée</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
