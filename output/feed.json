@@ -2,9 +2,9 @@
   "source": "Les Echos - Economie France",
   "source_url": "https://www.lesechos.fr/economie-france",
   "language": "fr-FR",
-  "last_fetched": "Wed, 02 Sep 2026 09:59:40 +0000",
-  "total_items": 72,
-  "new_items_this_run": 3,
+  "last_fetched": "Wed, 02 Sep 2026 15:42:19 +0000",
+  "total_items": 71,
+  "new_items_this_run": 0,
   "articles": [
     {
       "id": "CBMi3AFBVV95cUxQTlNydHZRaXBRTnpsV18tTXhjNzMxcXBvVWNHMUhVMnpCYkVsR05BcHFRRkZYcTA5MEdaNHowSUQ0OUlvYlh6V2owM2RmcloxM0tWQ1BlOGszTGRmUDdpZUpNaEZ3N19lVTBxZHYtZFNYMjlHM0oweV9lN3hjcUhTR2wwYlFpeVloMVI3cmtjZTFDdEpXb3JOY0FIaU1TY1E1WS11RlEyQkEwYjVCZHRLZ0dtSnZMUVlucWhZcllaMnFpREtacW9MM1J3SXZkUy1zYnNQT0dGU3hRbHlx",
@@ -644,15 +644,6 @@
       "source": "Les Echos",
       "pub_date": "Tue, 04 Aug 2026 04:15:08 GMT",
       "pub_date_iso": "2026-08-04T04:15:08+00:00"
-    },
-    {
-      "id": "CBMirgFBVV95cUxPVXNJSUEyYlNfVmlrdTVFd0lpWG1YdnZLeXF4NUhRMHNhZ3p6UHdjQ1BvYlRXLVBhaGtONGZGSk1tc1ZZN2JVeHJaUTNRakJFNF9FckFxQTRmWlhLQmxmMTVWM3oxZkZ1S1ZSWmY4aW5NdjRrWjZTLUR5cFlVZmdHVmNaUS1NV2Rpb1REUDQxWXhac1pOZkNFSlRZRTNWRGVlME90VEVaaHhFYU5na0E",
-      "title": "Incendies : l'épineuse question du reboisement des forêts - lesechos.fr",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPVXNJSUEyYlNfVmlrdTVFd0lpWG1YdnZLeXF4NUhRMHNhZ3p6UHdjQ1BvYlRXLVBhaGtONGZGSk1tc1ZZN2JVeHJaUTNRakJFNF9FckFxQTRmWlhLQmxmMTVWM3oxZkZ1S1ZSWmY4aW5NdjRrWjZTLUR5cFlVZmdHVmNaUS1NV2Rpb1REUDQxWXhac1pOZkNFSlRZRTNWRGVlME90VEVaaHhFYU5na0E?oc=5\" target=\"_blank\">Incendies : l'épineuse question du reboisement des forêts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">lesechos.fr</font>",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVXNJSUEyYlNfVmlrdTVFd0lpWG1YdnZLeXF4NUhRMHNhZ3p6UHdjQ1BvYlRXLVBhaGtONGZGSk1tc1ZZN2JVeHJaUTNRakJFNF9FckFxQTRmWlhLQmxmMTVWM3oxZkZ1S1ZSWmY4aW5NdjRrWjZTLUR5cFlVZmdHVmNaUS1NV2Rpb1REUDQxWXhac1pOZkNFSlRZRTNWRGVlME90VEVaaHhFYU5na0E?oc=5",
-      "source": "Les Echos",
-      "pub_date": "Mon, 03 Aug 2026 13:09:53 GMT",
-      "pub_date_iso": "2026-08-03T13:09:53+00:00"
     }
   ]
 }
