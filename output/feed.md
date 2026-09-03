@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Thu, 03 Sep 2026 15:32:22 +0000`
-> 72 articles (30 derniers jours)
+> Derniere mise a jour : `Thu, 03 Sep 2026 19:29:06 +0000`
+> 73 articles (30 derniers jours)
+
+---
+
+### [SONDAGE EXCLUSIF - L'inquiétude des Français sur la dette publique est au plus haut - Les Echos](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUkxKSzRrMGZhZGRtNU1lNlBYcTZTdXpKQlBEWEFBX1MtSlA1em1IZnZ2ZGx2c2E3Rkg0aDFNYnFhTzVaUk9FT3NRYXA3bngtS2RwZ3ZsOThVM0V6QkRSQkRyejVvVW5Zck5mSXZaRDhtZTgzM3pmVjNQaWREeVc2NVdYTGp1LXdUaF9PWmR6WEpZRjBNYUhiLUNOX3dkSXZsUmo5dm1nRktFc05ra28xU0VhT0JNd2Y0QlZJWG5Mc0luMkNETnlTZ0d3S2RTamVPWWk2azA4VDJFcVNtbUE?oc=5)
+
+`Thu, 03 Sep 2026 15:40:16 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUkxKSzRrMGZhZGRtNU1lNlBYcTZTdXpKQlBEWEFBX1MtSlA1em1IZnZ2ZGx2c2E3Rkg0aDFNYnFhTzVaUk9FT3NRYXA3bngtS2RwZ3ZsOThVM0V6QkRSQkRyejVvVW5Zck5mSXZaRDhtZTgzM3pmVjNQaWREeVc2NVdYTGp1LXdUaF9PWmR6WEpZRjBNYUhiLUNOX3dkSXZsUmo5dm1nRktFc05ra28xU0VhT0JNd2Y0QlZJWG5Mc0luMkNETnlTZ0d3S2RTamVPWWk2azA4VDJFcVNtbUE?oc=5" target="_blank">SONDAGE EXCLUSIF - L'inquiétude des Français sur la dette publique est au plus haut</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
