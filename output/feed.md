@@ -1,7 +1,7 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Wed, 02 Sep 2026 19:32:20 +0000`
-> 72 articles (30 derniers jours)
+> Derniere mise a jour : `Thu, 03 Sep 2026 13:28:02 +0000`
+> 69 articles (30 derniers jours)
 
 ---
 
@@ -554,29 +554,5 @@
 `Tue, 04 Aug 2026 20:19:21 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUVhCUHV4bFRzX0MwMEF6aDdBaUxaSjZsTDBnY1NYemoyS3JGUjlMNklMSjZFd1NiU1pHeXk1d3pSVERkX1M1d2lOWXZJV1JLSndyQVMySy0za0oybjdwNnFYWWRqM0FWT1NGWmtpQmtxaURhVWRrdVM0V1dKb0ZRTnNMaTVmWnIyNDNBQWV1WnEzblVKYTVVekNXbkhxT0xfMFFoS2ExQWZyVGJlczZiYkI2MUxsQW5VNllNb0Vyb1pzT0RvM0FFb2IxVW5FQ3NlYkJKT2lkb0xla2VSb3JR?oc=5" target="_blank">Incendies : l'Etat met la main à la poche pour l'indemnisation de l'activité partielle</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Climat : juillet 2026, mois le plus chaud jamais enregistré en France - Les Echos](https://news.google.com/rss/articles/CBMivgFBVV95cUxNalZRSVVwTG9YUElfOGNoN1Bhc1daREtET29aWWY0V2JEaktXNXo1eGNfNjFwNU9nc2RFS2wwa0Y3ZlFGdXNiREpGXzhIWTF1akxSNFFuVnlVMlA2eUFEb2FJOEt0MGpvaGVkQVEybkRyVkRpUW1JMXJhOHJlV0ViMmYyMUNRalY2STNmNzJjUWxBb1NoV2RVdnRJdmdwcExLM1k5ZnhOcGh3alVxSEtJQmVRU0VWVXRSeU1adzBB?oc=5)
-
-`Tue, 04 Aug 2026 12:00:33 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxNalZRSVVwTG9YUElfOGNoN1Bhc1daREtET29aWWY0V2JEaktXNXo1eGNfNjFwNU9nc2RFS2wwa0Y3ZlFGdXNiREpGXzhIWTF1akxSNFFuVnlVMlA2eUFEb2FJOEt0MGpvaGVkQVEybkRyVkRpUW1JMXJhOHJlV0ViMmYyMUNRalY2STNmNzJjUWxBb1NoV2RVdnRJdmdwcExLM1k5ZnhOcGh3alVxSEtJQmVRU0VWVXRSeU1adzBB?oc=5" target="_blank">Climat : juillet 2026, mois le plus chaud jamais enregistré en France</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Dette : l'addition s'envole déjà pour l'Etat - Les Echos](https://news.google.com/rss/articles/CBMipwFBVV95cUxOZHRoMnVtX0g4RTMwZGZRQ1Rac3c5QzJTRG5Ib3hkdXI1NlB1XzVGWjNxaDBUMDJZbVlmcWEwQzVlQ21lNUxvcnBUa3AtOVFBVnpfWWZKOWx0UjVHZWxtSU96THQ3Y2Y4VDBGOFBFTXUtTmZzUTBacFZ4cVpSUEVhT21mbWlIc0FoU3N1MGNnLVlWVWRtTU9QUzk1ZnFtUG54R0tVbWNPSQ?oc=5)
-
-`Tue, 04 Aug 2026 12:05:07 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxOZHRoMnVtX0g4RTMwZGZRQ1Rac3c5QzJTRG5Ib3hkdXI1NlB1XzVGWjNxaDBUMDJZbVlmcWEwQzVlQ21lNUxvcnBUa3AtOVFBVnpfWWZKOWx0UjVHZWxtSU96THQ3Y2Y4VDBGOFBFTXUtTmZzUTBacFZ4cVpSUEVhT21mbWlIc0FoU3N1MGNnLVlWVWRtTU9QUzk1ZnFtUG54R0tVbWNPSQ?oc=5" target="_blank">Dette : l'addition s'envole déjà pour l'Etat</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Budget 2027 : pourquoi l'« ﻿année blanche » revient dans le débat - Les Echos](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSF9NWlhsS2U0SmVacXM4allwWEdaU0pvdlZibG04MWlYR0VlSlVGZ2hkVERqQVRRaG1MOWY4b09zTURQNzdYaE16RTdidm9XU0FEOEF5NTNNZVk4c2U5OHZnbllLWWtzUVRnenF2b1dXZjlSR2pRbzlWemZ6SVFoVnUyQzYzdGNGSG9NeTB5ZDNYdDd6SjEyUHNTZ0lWNGM3WGlobEZLNzZyTGJrMk5HRWFRZzdaQnFuRFJPMi1aUEg?oc=5)
-
-`Tue, 04 Aug 2026 04:15:08 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSF9NWlhsS2U0SmVacXM4allwWEdaU0pvdlZibG04MWlYR0VlSlVGZ2hkVERqQVRRaG1MOWY4b09zTURQNzdYaE16RTdidm9XU0FEOEF5NTNNZVk4c2U5OHZnbllLWWtzUVRnenF2b1dXZjlSR2pRbzlWemZ6SVFoVnUyQzYzdGNGSG9NeTB5ZDNYdDd6SjEyUHNTZ0lWNGM3WGlobEZLNzZyTGJrMk5HRWFRZzdaQnFuRFJPMi1aUEg?oc=5" target="_blank">Budget 2027 : pourquoi l'« ﻿année blanche » revient dans le débat</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
