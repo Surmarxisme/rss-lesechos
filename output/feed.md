@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Fri, 04 Sep 2026 15:31:03 +0000`
-> 72 articles (30 derniers jours)
+> Derniere mise a jour : `Fri, 04 Sep 2026 19:11:44 +0000`
+> 73 articles (30 derniers jours)
+
+---
+
+### [Budget : le gouvernement peine à documenter les économies pour éviter un dérapage en 2026 - Les Echos](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNS1pQTTJIalZscFNaOUhLM0cyYm9CRF90ZTRwNFZyVnNSOEhGZXloY3FieFJUc3ZBSTRXU3hCNjJrY3B0WTFCTWNsMm5Qd1AxZGNUQ2dmbkdzWVctajZtX3lsRTIxZlpMYVV0SXE2ZUR1MkNNM0Ywc19VRzFFX1Y1LVpxV3ZXWF9telpibEFwN1RpclloaGRmS3JxUHZoS2lHclA5dmJoeHNob0l3ZkEtd2NiUmpKbU1lMU1EWFRnZGotamliSHdPNFI2STRfdV9Hdlh4bDRwaVNMQ1Y0cDE5ZHl4TjNTOW8?oc=5)
+
+`Fri, 04 Sep 2026 16:15:00 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi5wFBVV95cUxNS1pQTTJIalZscFNaOUhLM0cyYm9CRF90ZTRwNFZyVnNSOEhGZXloY3FieFJUc3ZBSTRXU3hCNjJrY3B0WTFCTWNsMm5Qd1AxZGNUQ2dmbkdzWVctajZtX3lsRTIxZlpMYVV0SXE2ZUR1MkNNM0Ywc19VRzFFX1Y1LVpxV3ZXWF9telpibEFwN1RpclloaGRmS3JxUHZoS2lHclA5dmJoeHNob0l3ZkEtd2NiUmpKbU1lMU1EWFRnZGotamliSHdPNFI2STRfdV9Hdlh4bDRwaVNMQ1Y0cDE5ZHl4TjNTOW8?oc=5" target="_blank">Budget : le gouvernement peine à documenter les économies pour éviter un dérapage en 2026</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
