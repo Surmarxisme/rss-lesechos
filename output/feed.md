@@ -1,7 +1,7 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Thu, 03 Sep 2026 19:29:06 +0000`
-> 73 articles (30 derniers jours)
+> Derniere mise a jour : `Fri, 04 Sep 2026 10:00:03 +0000`
+> 71 articles (30 derniers jours)
 
 ---
 
@@ -570,21 +570,5 @@
 `Thu, 06 Aug 2026 04:30:08 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxNdE5XdmZDRmxGM2NYSkd4N0s4UzgyMUp1UWZIMEF0ZzVGSGFGNVBKMWVGbk9yWWQ1bFU0VVVsSUZvdU8wcG05MDFEREd1dXMzY0kwX1VNaUllSnN0UURydzBMMk12Q0x4LXlteU1wREFfSHdNRk5YUmhNcDNiR1RLa2VNMTZrQnFTMG1TVE9VMVN2c3kyZm1iV1ZHLVlmdmtON0tmYk5IQmJDN3VI?oc=5" target="_blank">Budget 2027: les CCI à nouveau sous pression</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [L'activité industrielle française s'essouffle de façon inattendue - Les Echos](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVnkzR29XNkRDTFVPLWI0ZlE1eGk4TkNVRkxXcE9JemF0TlI1WWFNaXR0d284VGI1cDA4SzZnaG5SR2dSRlJ1ZnFHb0hiaWgwc0JhYlIwaXVud05WT1RyelB5SmlxbThzeW1EcHhlZU8xZlpTRmV4V3dNOXFXSm1mdFBONVI0dnZBeWdzSVIyVHN2UG1xUFM5c2pFODFxeDJfbWZad3ktTkVlSTVCYTVIWl8wYTByUnZ5Qzk2QlNnZTg?oc=5)
-
-`Wed, 05 Aug 2026 09:58:19 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVnkzR29XNkRDTFVPLWI0ZlE1eGk4TkNVRkxXcE9JemF0TlI1WWFNaXR0d284VGI1cDA4SzZnaG5SR2dSRlJ1ZnFHb0hiaWgwc0JhYlIwaXVud05WT1RyelB5SmlxbThzeW1EcHhlZU8xZlpTRmV4V3dNOXFXSm1mdFBONVI0dnZBeWdzSVIyVHN2UG1xUFM5c2pFODFxeDJfbWZad3ktTkVlSTVCYTVIWl8wYTByUnZ5Qzk2QlNnZTg?oc=5" target="_blank">L'activité industrielle française s'essouffle de façon inattendue</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Incendies : l'Etat met la main à la poche pour l'indemnisation de l'activité partielle - Les Echos](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUVhCUHV4bFRzX0MwMEF6aDdBaUxaSjZsTDBnY1NYemoyS3JGUjlMNklMSjZFd1NiU1pHeXk1d3pSVERkX1M1d2lOWXZJV1JLSndyQVMySy0za0oybjdwNnFYWWRqM0FWT1NGWmtpQmtxaURhVWRrdVM0V1dKb0ZRTnNMaTVmWnIyNDNBQWV1WnEzblVKYTVVekNXbkhxT0xfMFFoS2ExQWZyVGJlczZiYkI2MUxsQW5VNllNb0Vyb1pzT0RvM0FFb2IxVW5FQ3NlYkJKT2lkb0xla2VSb3JR?oc=5)
-
-`Tue, 04 Aug 2026 20:19:21 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUVhCUHV4bFRzX0MwMEF6aDdBaUxaSjZsTDBnY1NYemoyS3JGUjlMNklMSjZFd1NiU1pHeXk1d3pSVERkX1M1d2lOWXZJV1JLSndyQVMySy0za0oybjdwNnFYWWRqM0FWT1NGWmtpQmtxaURhVWRrdVM0V1dKb0ZRTnNMaTVmWnIyNDNBQWV1WnEzblVKYTVVekNXbkhxT0xfMFFoS2ExQWZyVGJlczZiYkI2MUxsQW5VNllNb0Vyb1pzT0RvM0FFb2IxVW5FQ3NlYkJKT2lkb0xla2VSb3JR?oc=5" target="_blank">Incendies : l'Etat met la main à la poche pour l'indemnisation de l'activité partielle</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
