@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Fri, 04 Sep 2026 10:00:03 +0000`
-> 71 articles (30 derniers jours)
+> Derniere mise a jour : `Fri, 04 Sep 2026 13:22:38 +0000`
+> 72 articles (30 derniers jours)
+
+---
+
+### [Le gouvernement gèle 40 millions d'euros destinés à la rénovation thermique des écoles - Les Echos](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOTlNaV2VwWnNyNlVtZno4a3R2WFUxRDYyVTVuX0RfOTNScmdHRm42aHBod1dsd3JSRWFWd2htbUlkRHlsQ2NObF9MZzRfSkU2X0p4QmRTeXBuWXdaeFctNU10Z2htTnkxLXdnSUlMSl9Ubll4Wjd2UUdZVVFqOV9UU2NBUXB1Y251ZV9FUm5nTTd5NENtNHdzMGVfWlRXeDBoQ0hoV0hJRWhmWTNtU095bnBOTWpPTmw2eHFEVlVVa09xSkVRQzlyV1FwMUFNX2E0TGw3YWxWMlZWeVdheWJqdVltVkw?oc=5)
+
+`Fri, 04 Sep 2026 11:55:27 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi5AFBVV95cUxOTlNaV2VwWnNyNlVtZno4a3R2WFUxRDYyVTVuX0RfOTNScmdHRm42aHBod1dsd3JSRWFWd2htbUlkRHlsQ2NObF9MZzRfSkU2X0p4QmRTeXBuWXdaeFctNU10Z2htTnkxLXdnSUlMSl9Ubll4Wjd2UUdZVVFqOV9UU2NBUXB1Y251ZV9FUm5nTTd5NENtNHdzMGVfWlRXeDBoQ0hoV0hJRWhmWTNtU095bnBOTWpPTmw2eHFEVlVVa09xSkVRQzlyV1FwMUFNX2E0TGw3YWxWMlZWeVdheWJqdVltVkw?oc=5" target="_blank">Le gouvernement gèle 40 millions d'euros destinés à la rénovation thermique des écoles</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
