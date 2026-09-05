@@ -2,9 +2,9 @@
   "source": "Les Echos - Economie France",
   "source_url": "https://www.lesechos.fr/economie-france",
   "language": "fr-FR",
-  "last_fetched": "Fri, 04 Sep 2026 19:11:44 +0000",
-  "total_items": 73,
-  "new_items_this_run": 1,
+  "last_fetched": "Sat, 05 Sep 2026 12:29:06 +0000",
+  "total_items": 71,
+  "new_items_this_run": 0,
   "articles": [
     {
       "id": "CBMi5wFBVV95cUxNS1pQTTJIalZscFNaOUhLM0cyYm9CRF90ZTRwNFZyVnNSOEhGZXloY3FieFJUc3ZBSTRXU3hCNjJrY3B0WTFCTWNsMm5Qd1AxZGNUQ2dmbkdzWVctajZtX3lsRTIxZlpMYVV0SXE2ZUR1MkNNM0Ywc19VRzFFX1Y1LVpxV3ZXWF9telpibEFwN1RpclloaGRmS3JxUHZoS2lHclA5dmJoeHNob0l3ZkEtd2NiUmpKbU1lMU1EWFRnZGotamliSHdPNFI2STRfdV9Hdlh4bDRwaVNMQ1Y0cDE5ZHl4TjNTOW8",
@@ -644,24 +644,6 @@
       "source": "Les Echos",
       "pub_date": "Thu, 06 Aug 2026 15:08:56 GMT",
       "pub_date_iso": "2026-08-06T15:08:56+00:00"
-    },
-    {
-      "id": "CBMi2gFBVV95cUxOU0lKbXdNV1JoLXBpLWVqZW1Bbk0tV1pyVjdPUGRTS0sxUWpEdHB1aUFGQ1dHSTJwVllsRS1RWFd6MEpqYURocTlqbWxhemtQRVFDbTZTXzhQeHpLMFJFSHZrejFEZERMWnhlcG14UUY3UlVBdnh5S2ZEVFd0Q1R4djUxaUZTd0tmNDM3YjEzVEJsLUtSRkFOQlZ0LVljeEdzWUtNejhzOXJ5WnFpMDByd2RzX3FFZUJOSVlId3JGQldaOC1KcjJ3MkJFbElHZWFWbzFuNzZUMUFzQQ",
-      "title": "Le Conseil constitutionnel valide sans réserve la hausse du budget des Armées - Les Echos",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxOU0lKbXdNV1JoLXBpLWVqZW1Bbk0tV1pyVjdPUGRTS0sxUWpEdHB1aUFGQ1dHSTJwVllsRS1RWFd6MEpqYURocTlqbWxhemtQRVFDbTZTXzhQeHpLMFJFSHZrejFEZERMWnhlcG14UUY3UlVBdnh5S2ZEVFd0Q1R4djUxaUZTd0tmNDM3YjEzVEJsLUtSRkFOQlZ0LVljeEdzWUtNejhzOXJ5WnFpMDByd2RzX3FFZUJOSVlId3JGQldaOC1KcjJ3MkJFbElHZWFWbzFuNzZUMUFzQQ?oc=5\" target=\"_blank\">Le Conseil constitutionnel valide sans réserve la hausse du budget des Armées</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Les Echos</font>",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOU0lKbXdNV1JoLXBpLWVqZW1Bbk0tV1pyVjdPUGRTS0sxUWpEdHB1aUFGQ1dHSTJwVllsRS1RWFd6MEpqYURocTlqbWxhemtQRVFDbTZTXzhQeHpLMFJFSHZrejFEZERMWnhlcG14UUY3UlVBdnh5S2ZEVFd0Q1R4djUxaUZTd0tmNDM3YjEzVEJsLUtSRkFOQlZ0LVljeEdzWUtNejhzOXJ5WnFpMDByd2RzX3FFZUJOSVlId3JGQldaOC1KcjJ3MkJFbElHZWFWbzFuNzZUMUFzQQ?oc=5",
-      "source": "Les Echos",
-      "pub_date": "Thu, 06 Aug 2026 08:00:29 GMT",
-      "pub_date_iso": "2026-08-06T08:00:29+00:00"
-    },
-    {
-      "id": "CBMirAFBVV95cUxNdE5XdmZDRmxGM2NYSkd4N0s4UzgyMUp1UWZIMEF0ZzVGSGFGNVBKMWVGbk9yWWQ1bFU0VVVsSUZvdU8wcG05MDFEREd1dXMzY0kwX1VNaUllSnN0UURydzBMMk12Q0x4LXlteU1wREFfSHdNRk5YUmhNcDNiR1RLa2VNMTZrQnFTMG1TVE9VMVN2c3kyZm1iV1ZHLVlmdmtON0tmYk5IQmJDN3VI",
-      "title": "Budget 2027: les CCI à nouveau sous pression - Les Echos",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNdE5XdmZDRmxGM2NYSkd4N0s4UzgyMUp1UWZIMEF0ZzVGSGFGNVBKMWVGbk9yWWQ1bFU0VVVsSUZvdU8wcG05MDFEREd1dXMzY0kwX1VNaUllSnN0UURydzBMMk12Q0x4LXlteU1wREFfSHdNRk5YUmhNcDNiR1RLa2VNMTZrQnFTMG1TVE9VMVN2c3kyZm1iV1ZHLVlmdmtON0tmYk5IQmJDN3VI?oc=5\" target=\"_blank\">Budget 2027: les CCI à nouveau sous pression</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Les Echos</font>",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdE5XdmZDRmxGM2NYSkd4N0s4UzgyMUp1UWZIMEF0ZzVGSGFGNVBKMWVGbk9yWWQ1bFU0VVVsSUZvdU8wcG05MDFEREd1dXMzY0kwX1VNaUllSnN0UURydzBMMk12Q0x4LXlteU1wREFfSHdNRk5YUmhNcDNiR1RLa2VNMTZrQnFTMG1TVE9VMVN2c3kyZm1iV1ZHLVlmdmtON0tmYk5IQmJDN3VI?oc=5",
-      "source": "Les Echos",
-      "pub_date": "Thu, 06 Aug 2026 04:30:08 GMT",
-      "pub_date_iso": "2026-08-06T04:30:08+00:00"
     }
   ]
 }
