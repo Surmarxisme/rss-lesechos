@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Sat, 05 Sep 2026 12:29:06 +0000`
-> 71 articles (30 derniers jours)
+> Derniere mise a jour : `Sun, 06 Sep 2026 12:42:50 +0000`
+> 68 articles (30 derniers jours)
+
+---
+
+### [Budget 2027 : l'épargne salariale dans le viseur du gouvernement - Les Echos](https://news.google.com/rss/articles/CBMitwFBVV95cUxOM3RoWThWRWxXY0dMNTZKbW9lQ0FUVHluV1ZWZHAwbktVXzh4ZUhON3N3dlczb2FoS0xaNmpYMjQwbTRlWE4yV19HMUNaQ0NuQUdaOTh2WHQyUzRqNGRHcEUxWGpPbk1NS3l0TThYbE1fTTZkdElLUjlxTnBUOW0xazNrbVhSMm1RRDk2bm84TVR0QkpxZm8zMXVaaVh0M01RWk8xa0w1c19nTXhKeWJIZzdPOV9sY00?oc=5)
+
+`Sun, 06 Sep 2026 07:01:27 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxOM3RoWThWRWxXY0dMNTZKbW9lQ0FUVHluV1ZWZHAwbktVXzh4ZUhON3N3dlczb2FoS0xaNmpYMjQwbTRlWE4yV19HMUNaQ0NuQUdaOTh2WHQyUzRqNGRHcEUxWGpPbk1NS3l0TThYbE1fTTZkdElLUjlxTnBUOW0xazNrbVhSMm1RRDk2bm84TVR0QkpxZm8zMXVaaVh0M01RWk8xa0w1c19nTXhKeWJIZzdPOV9sY00?oc=5" target="_blank">Budget 2027 : l'épargne salariale dans le viseur du gouvernement</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -538,37 +546,5 @@
 `Sat, 08 Aug 2026 07:00:31 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcUNpMGtJZFQwMlV4WmF5cDhJbzZHamlFcWltdTYxVGRkZ3NtcldnZkhyanBiaHJUcWp6RHZGUW0yU2JNN3BTR0dRdkYtVEZadXZ2REV1aG1WUjZSamVlcVFIelpVYlFzQWpJR1J5OG9IN1BaSG9hQmdES0FiajBLaDFCMjkyWUxWLURpZXZQVjloc3dTQ0h4dHBkSUtIWElGQlRBVUk0NE0zX1NFN2VQWWIycjVHX05IYlpzX0daQ2JrMW5KelJ6ZFJqZklHYmZqWlE?oc=5" target="_blank">« L'économie française est sur le fil du rasoir » : l'alerte du chef économiste d'AXA</a>&nbsp;&nbsp;<font color="#6f6f6f">lesechos.fr</font>
-
----
-
-### [Sans emploi, ni formation, ni études : qui sont les NEET, ces jeunes de plus en plus nombreux en France - Les Echos](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQc0tMOGpTc19OZldxRjJUTTZNRzloUk1WdDQzVm1ZLTlaTU5sT2h0VHdlc0tXMl9TbE1peXY2Nm1wQXFmekRLeW0yYlJlbE9pdmlkanhhS04teEpNNDFhSEkyZTFucEVhTEJYaXFBNjdPT1hkX1FEZnVEVlJBRjBJSHBfYkFsV0hTNGl6NVdaa2wxRnZ0ZnRHMWdpZnlPWS1ZVXZlWjBMaDZDQjJrczRKR2RHTWhicmVkV1F6QzIzUktPREFGS0doLXM3QjB0TUpVbmJ6Um1MWnFjbm5aejY1eDMtaVgyRlJM?oc=5)
-
-`Fri, 07 Aug 2026 10:18:23 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi6AFBVV95cUxQc0tMOGpTc19OZldxRjJUTTZNRzloUk1WdDQzVm1ZLTlaTU5sT2h0VHdlc0tXMl9TbE1peXY2Nm1wQXFmekRLeW0yYlJlbE9pdmlkanhhS04teEpNNDFhSEkyZTFucEVhTEJYaXFBNjdPT1hkX1FEZnVEVlJBRjBJSHBfYkFsV0hTNGl6NVdaa2wxRnZ0ZnRHMWdpZnlPWS1ZVXZlWjBMaDZDQjJrczRKR2RHTWhicmVkV1F6QzIzUktPREFGS0doLXM3QjB0TUpVbmJ6Um1MWnFjbm5aejY1eDMtaVgyRlJM?oc=5" target="_blank">Sans emploi, ni formation, ni études : qui sont les NEET, ces jeunes de plus en plus nombreux en France</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [La guerre au Moyen-Orient pèse sur le déficit commercial de la France - Les Echos](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOek43YWRraEtaaXczX1Etd0tHRkVxR2JvaUJJRjFSV1F2R09yRGNRMkpaY0ZDSEhUWkpJU2Y5MmIwRGRZejVaOEliVmZNMExaUDVJUmgzQkE3Q1hDaC1GX3pySGMxaGIxZG1RZVNlM0d3THlPRFZyTm1MTGl1MVA3eUU0N3FobmFfSW1MZE5yVVZHQTB6NTYyQy1ZOGItN3BXd3R5NEl5dEhtREQ2akx6RXh4MmdLYlpBZUNXbndHSm5QQmZOZ042WA?oc=5)
-
-`Fri, 07 Aug 2026 08:08:14 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxOek43YWRraEtaaXczX1Etd0tHRkVxR2JvaUJJRjFSV1F2R09yRGNRMkpaY0ZDSEhUWkpJU2Y5MmIwRGRZejVaOEliVmZNMExaUDVJUmgzQkE3Q1hDaC1GX3pySGMxaGIxZG1RZVNlM0d3THlPRFZyTm1MTGl1MVA3eUU0N3FobmFfSW1MZE5yVVZHQTB6NTYyQy1ZOGItN3BXd3R5NEl5dEhtREQ2akx6RXh4MmdLYlpBZUNXbndHSm5QQmZOZ042WA?oc=5" target="_blank">La guerre au Moyen-Orient pèse sur le déficit commercial de la France</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Le taux de chômage continue de grimper en France - Les Echos](https://news.google.com/rss/articles/CBMipgFBVV95cUxNOWV2NGprekxLYUJjRkpjdlFRYktxNmxWb3R1S3UxdXdqZDVtcmRlUzRjdUVXdWppZTBLOEUycWF2dzIzc1JrdXhfMkRLeVBvS3BjcEVMNWZubVVPUlBJUUV2a3hiMzNPcXk5QnBYdU9nWmROa3ZKLWd6QlE5WW9ZX2FCS3BHbFNrY1duaDZYOEhwV0FndmgzdW1aajBkYTdIU2NDTzB3?oc=5)
-
-`Fri, 07 Aug 2026 06:01:04 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMipgFBVV95cUxNOWV2NGprekxLYUJjRkpjdlFRYktxNmxWb3R1S3UxdXdqZDVtcmRlUzRjdUVXdWppZTBLOEUycWF2dzIzc1JrdXhfMkRLeVBvS3BjcEVMNWZubVVPUlBJUUV2a3hiMzNPcXk5QnBYdU9nWmROa3ZKLWd6QlE5WW9ZX2FCS3BHbFNrY1duaDZYOEhwV0FndmgzdW1aajBkYTdIU2NDTzB3?oc=5" target="_blank">Le taux de chômage continue de grimper en France</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Retraites : ce qui va changer pour les mères de famille - Les Echos](https://news.google.com/rss/articles/CBMirAFBVV95cUxQQ2hDWExoX2tWcHM4ZmdJbTFuSFNSVkJsa0xFNWVwQm95ZXp0blI2R1FyMUpYd2NVa0JSbkZIWkN2eWUyeFZXdGh4UTBSNjlhcHdENmYzMHZnSWp3dm9hWWNFLVBYLTdKaUJ4c0g2QmYyV2stVy1QdVRwNGJoSkxZZG1tdW9CeUgzU21WVThwQ0UzNXNNWjBMZ1dDRVRFTmdHcXRIei1ycjBsNzNN?oc=5)
-
-`Thu, 06 Aug 2026 15:08:56 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxQQ2hDWExoX2tWcHM4ZmdJbTFuSFNSVkJsa0xFNWVwQm95ZXp0blI2R1FyMUpYd2NVa0JSbkZIWkN2eWUyeFZXdGh4UTBSNjlhcHdENmYzMHZnSWp3dm9hWWNFLVBYLTdKaUJ4c0g2QmYyV2stVy1QdVRwNGJoSkxZZG1tdW9CeUgzU21WVThwQ0UzNXNNWjBMZ1dDRVRFTmdHcXRIei1ycjBsNzNN?oc=5" target="_blank">Retraites : ce qui va changer pour les mères de famille</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
