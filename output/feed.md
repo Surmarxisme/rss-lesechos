@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Mon, 07 Sep 2026 16:56:06 +0000`
-> 72 articles (30 derniers jours)
+> Derniere mise a jour : `Mon, 07 Sep 2026 20:14:46 +0000`
+> 73 articles (30 derniers jours)
+
+---
+
+### [Epargne salariale : le projet de hausse des taxes fait un tollé, Matignon met le pied sur le frein - Les Echos](https://news.google.com/rss/articles/CBMi5AFBVV95cUxONnI2cWVlUGthZ2plZjdUcFVJYnBtUkRSdWtYaHgzaGswbkgtZ0tYWVFTLVY0MXdrZWd2eUYwUmlEU2dCSWczOXl0ajh3d1VRcHRGcV93cDJzbmNyS2VpbXplVlZ6WlRlRlhENndxQ3RnZ0M5M2FaRERMQ2JLcm9TUDV4QVItaDcybmppOWt2T0FMODlkQnRYeWlaQ19LcVBuVUFjdVZvUUxfeG1CUEpuaFBNRGxJb1R4ZnVFX1BGR0p6Q0tQTXdxZVEySk93dmVzaC1WalBSMTBDVmU0b0hrVW56aEw?oc=5)
+
+`Mon, 07 Sep 2026 18:11:28 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi5AFBVV95cUxONnI2cWVlUGthZ2plZjdUcFVJYnBtUkRSdWtYaHgzaGswbkgtZ0tYWVFTLVY0MXdrZWd2eUYwUmlEU2dCSWczOXl0ajh3d1VRcHRGcV93cDJzbmNyS2VpbXplVlZ6WlRlRlhENndxQ3RnZ0M5M2FaRERMQ2JLcm9TUDV4QVItaDcybmppOWt2T0FMODlkQnRYeWlaQ19LcVBuVUFjdVZvUUxfeG1CUEpuaFBNRGxJb1R4ZnVFX1BGR0p6Q0tQTXdxZVEySk93dmVzaC1WalBSMTBDVmU0b0hrVW56aEw?oc=5" target="_blank">Epargne salariale : le projet de hausse des taxes fait un tollé, Matignon met le pied sur le frein</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
