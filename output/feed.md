@@ -1,7 +1,31 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Sun, 06 Sep 2026 12:42:50 +0000`
-> 68 articles (30 derniers jours)
+> Derniere mise a jour : `Mon, 07 Sep 2026 10:47:18 +0000`
+> 69 articles (30 derniers jours)
+
+---
+
+### [Budget 2027 : le gouvernement prêt à taxer les indemnités de rupture de CDI pour les hauts revenus - Les Echos](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNTi1sTUs4UkNIbXFDalF4VklHVjJTeXR4TjFXckhBSDdlVHoxTmxrMzJUVzNfaE82ZHpXNWtOSllCTFF2NFhjMWhzNmEyengwZXJVWkR3T084TGN0UUxoRFZSRmdlYnQ0Y3Q4eWRBbENHaHZ0UUNhUzBIOHZ0OF90NFhzYXFTTFZHajN1ZDJXWDJhVkxnZWo1X2pEWVc0NFlSN0RuNjRWQVRkLUpzWUMxY0VobXZFbHhZYjdNUlBpNjBZNVlUZTZxZlhvdmFPZWtlcW1mNk94ZjdyZWt0dDdsYzBxbE1FUQ?oc=5)
+
+`Mon, 07 Sep 2026 04:00:10 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi5gFBVV95cUxNTi1sTUs4UkNIbXFDalF4VklHVjJTeXR4TjFXckhBSDdlVHoxTmxrMzJUVzNfaE82ZHpXNWtOSllCTFF2NFhjMWhzNmEyengwZXJVWkR3T084TGN0UUxoRFZSRmdlYnQ0Y3Q4eWRBbENHaHZ0UUNhUzBIOHZ0OF90NFhzYXFTTFZHajN1ZDJXWDJhVkxnZWo1X2pEWVc0NFlSN0RuNjRWQVRkLUpzWUMxY0VobXZFbHhZYjdNUlBpNjBZNVlUZTZxZlhvdmFPZWtlcW1mNk94ZjdyZWt0dDdsYzBxbE1FUQ?oc=5" target="_blank">Budget 2027 : le gouvernement prêt à taxer les indemnités de rupture de CDI pour les hauts revenus</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Consommation : actualités, chiffres, analyses et vidéos - Les Echos | Page 182 - Les Echos](https://news.google.com/rss/articles/CBMifkFVX3lxTFBHaXduYm9yTTBzVGFEeVh6bEI0LWdhc29faUtLMExSbjVYeHNSMldNcG1rb2IyTXJPMEFQcUlZSWV2a0lFRWRjYTBwSXlQVkE1SWJUSGYzM2xnWm1CUkdsS0FsSjFZbE14WVlfUWFUcVdZTVZ2X2tqU0txa0Rjdw?oc=5)
+
+`Thu, 03 Sep 2026 18:50:02 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMifkFVX3lxTFBHaXduYm9yTTBzVGFEeVh6bEI0LWdhc29faUtLMExSbjVYeHNSMldNcG1rb2IyTXJPMEFQcUlZSWV2a0lFRWRjYTBwSXlQVkE1SWJUSGYzM2xnWm1CUkdsS0FsSjFZbE14WVlfUWFUcVdZTVZ2X2tqU0txa0Rjdw?oc=5" target="_blank">Consommation : actualités, chiffres, analyses et vidéos - Les Echos | Page 182</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Finances Publiques : actualités, analyses et vidéos - Les Echos | Page 1026 - Les Echos](https://news.google.com/rss/articles/CBMijgFBVV95cUxPQkZXVFZLSGV2Y1ZnaDd5YllZSWxQTXJKaU1Ybk5UTnBHZjBuLUgzaG5WYU1OdmZpRnQ5RXFkU05JUTFJLVF3YmpzV3FPY3p0NmJ2Wl92U0dtaUN6YzZ0TWtPWnZWdFd6bDVZNks4V2FqQ01GQlN5OXFfNHd1NkViZ0xTYTlvWWxDQkdyMTFB?oc=5)
+
+`Wed, 02 Sep 2026 19:14:04 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMijgFBVV95cUxPQkZXVFZLSGV2Y1ZnaDd5YllZSWxQTXJKaU1Ybk5UTnBHZjBuLUgzaG5WYU1OdmZpRnQ5RXFkU05JUTFJLVF3YmpzV3FPY3p0NmJ2Wl92U0dtaUN6YzZ0TWtPWnZWdFd6bDVZNks4V2FqQ01GQlN5OXFfNHd1NkViZ0xTYTlvWWxDQkdyMTFB?oc=5" target="_blank">Finances Publiques : actualités, analyses et vidéos - Les Echos | Page 1026</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -530,21 +554,5 @@
 `Tue, 11 Aug 2026 09:00:37 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi_wFBVV95cUxNNXA2NkpSRndoR3JjdmxDekprT014ZWhiNVBzbms2N3NfZzVwaTNYVnc3b3pDMUgwOVZBYmNyUVZ0SXFNVWFyazNhckI5dlpvZVNlOWNyNE5mWElteGJHRERxM21lZ2NtLWNiSVFjV0VsN29LdEgyOHp1TFlQNVl5VS1Ea2lKNkhsQ2xEQnV2U25haElrVWZ3WVZJN254a3BIdEZjZlc2ODZzNWx4S2g5dEEwSWlmeXRsUENObHZqbnhJaHJpWkN0YnJYX0JBYm1yak9SZ25qY3VSenM1bC1xc2NnSU5qdnB4ZF9tNkFROGNsUi1uSTFLVXBvY2o1TzQ?oc=5" target="_blank">« Certains payent 178 euros l'année, d'autres 8.000 euros » : les aspirants kinés toujours dans l'attente d'études moins chères</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Prix du carburant : le gouvernement prolonge l'aide « grands rouleurs » - lesechos.fr](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeFIxY2VBZHl4V21NbEZyenJHR0ROaHcxa2hZU1NOVjZ3ZjRjMTh2QkpXQXpFY1RBaTZqVTZUYVBrNHE0Y0VkMWRiaDYyRHZNN2dvODJrcFZVeTZ5a1puQjhHXy1IQkZLd0dXMzRDSS1zUElEamZTc3Aybkc0dl9aelh2WUVnaDRIMVV3VDNNLWVYdW9KMXJfWlk5RVNDRm9YTklFVjFSanZZUU1TN2JzSDU3NU5jU2FMT2I0?oc=5)
-
-`Sat, 08 Aug 2026 08:15:05 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeFIxY2VBZHl4V21NbEZyenJHR0ROaHcxa2hZU1NOVjZ3ZjRjMTh2QkpXQXpFY1RBaTZqVTZUYVBrNHE0Y0VkMWRiaDYyRHZNN2dvODJrcFZVeTZ5a1puQjhHXy1IQkZLd0dXMzRDSS1zUElEamZTc3Aybkc0dl9aelh2WUVnaDRIMVV3VDNNLWVYdW9KMXJfWlk5RVNDRm9YTklFVjFSanZZUU1TN2JzSDU3NU5jU2FMT2I0?oc=5" target="_blank">Prix du carburant : le gouvernement prolonge l'aide « grands rouleurs »</a>&nbsp;&nbsp;<font color="#6f6f6f">lesechos.fr</font>
-
----
-
-### [« L'économie française est sur le fil du rasoir » : l'alerte du chef économiste d'AXA - lesechos.fr](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcUNpMGtJZFQwMlV4WmF5cDhJbzZHamlFcWltdTYxVGRkZ3NtcldnZkhyanBiaHJUcWp6RHZGUW0yU2JNN3BTR0dRdkYtVEZadXZ2REV1aG1WUjZSamVlcVFIelpVYlFzQWpJR1J5OG9IN1BaSG9hQmdES0FiajBLaDFCMjkyWUxWLURpZXZQVjloc3dTQ0h4dHBkSUtIWElGQlRBVUk0NE0zX1NFN2VQWWIycjVHX05IYlpzX0daQ2JrMW5KelJ6ZFJqZklHYmZqWlE?oc=5)
-
-`Sat, 08 Aug 2026 07:00:31 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcUNpMGtJZFQwMlV4WmF5cDhJbzZHamlFcWltdTYxVGRkZ3NtcldnZkhyanBiaHJUcWp6RHZGUW0yU2JNN3BTR0dRdkYtVEZadXZ2REV1aG1WUjZSamVlcVFIelpVYlFzQWpJR1J5OG9IN1BaSG9hQmdES0FiajBLaDFCMjkyWUxWLURpZXZQVjloc3dTQ0h4dHBkSUtIWElGQlRBVUk0NE0zX1NFN2VQWWIycjVHX05IYlpzX0daQ2JrMW5KelJ6ZFJqZklHYmZqWlE?oc=5" target="_blank">« L'économie française est sur le fil du rasoir » : l'alerte du chef économiste d'AXA</a>&nbsp;&nbsp;<font color="#6f6f6f">lesechos.fr</font>
 
 ---
