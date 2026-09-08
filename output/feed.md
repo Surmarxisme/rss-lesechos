@@ -1,7 +1,23 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Tue, 08 Sep 2026 13:26:58 +0000`
-> 76 articles (30 derniers jours)
+> Derniere mise a jour : `Tue, 08 Sep 2026 15:44:00 +0000`
+> 78 articles (30 derniers jours)
+
+---
+
+### [Budget 2027 : la piste d'un encadrement de la TVA des collectivités locales - Les Echos](https://news.google.com/rss/articles/CBMi0wFBVV95cUxObXlBLURaZkpPOWNMR1FHR0IzMTFRMkNQd2xTenFvR3gyNlJJWDhRY1pqSndOeTFrSjl1bmRPUlIwTll0QVN3TTdNYXpUMElXb2RWS29yQjBBdHdSUjhHY2RubW9aang4Z2pFS01NSWdwanozWXZjSkdzQXNFS2pOMzV4aDllUUhmWi1ORXpaTXgzeE5VanM1a1lsdHBUdjgtSG5uYnRGZzMxTTI5WXprNklGTGdHMGVPclJZWHZ1VkNuRTk4VzZqVHhLdmowWUpMWHhB?oc=5)
+
+`Tue, 08 Sep 2026 14:45:56 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi0wFBVV95cUxObXlBLURaZkpPOWNMR1FHR0IzMTFRMkNQd2xTenFvR3gyNlJJWDhRY1pqSndOeTFrSjl1bmRPUlIwTll0QVN3TTdNYXpUMElXb2RWS29yQjBBdHdSUjhHY2RubW9aang4Z2pFS01NSWdwanozWXZjSkdzQXNFS2pOMzV4aDllUUhmWi1ORXpaTXgzeE5VanM1a1lsdHBUdjgtSG5uYnRGZzMxTTI5WXprNklGTGdHMGVPclJZWHZ1VkNuRTk4VzZqVHhLdmowWUpMWHhB?oc=5" target="_blank">Budget 2027 : la piste d'un encadrement de la TVA des collectivités locales</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Impôts : les bonnes rentrées fiscales offrent une bouffée d'air au gouvernement - Les Echos](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQ3dZdVZObThwY3JnOWNGZy1XSWdjMW5mMEZLREtjTWRWbk0waWRwakp0Q0pFNUJjRTJnZnNQcDAyUXZEOGNhTDNMdGZudFFkM0ZyMGRXX2xfbzRJY3FOX1lFSmUyWWxqUFBweWhJeFk2WENGNlJuZmlLQnFUUk1jOXl6cTdQY1JJZkFNWmZBcENzeEhUM1hHSzlOUjRyZGE3bDJ6dGQ4M3RMMkNvTml1Uk9JT1RsTklsNWd6TWR4czgyVzJ4SHpJRUlhcW01eVhKMlhkTFpTOVE?oc=5)
+
+`Tue, 08 Sep 2026 14:53:54 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQ3dZdVZObThwY3JnOWNGZy1XSWdjMW5mMEZLREtjTWRWbk0waWRwakp0Q0pFNUJjRTJnZnNQcDAyUXZEOGNhTDNMdGZudFFkM0ZyMGRXX2xfbzRJY3FOX1lFSmUyWWxqUFBweWhJeFk2WENGNlJuZmlLQnFUUk1jOXl6cTdQY1JJZkFNWmZBcENzeEhUM1hHSzlOUjRyZGE3bDJ6dGQ4M3RMMkNvTml1Uk9JT1RsTklsNWd6TWR4czgyVzJ4SHpJRUlhcW01eVhKMlhkTFpTOVE?oc=5" target="_blank">Impôts : les bonnes rentrées fiscales offrent une bouffée d'air au gouvernement</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
