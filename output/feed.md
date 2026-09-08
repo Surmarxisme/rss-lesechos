@@ -1,7 +1,31 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Mon, 07 Sep 2026 20:14:46 +0000`
-> 73 articles (30 derniers jours)
+> Derniere mise a jour : `Tue, 08 Sep 2026 10:07:48 +0000`
+> 76 articles (30 derniers jours)
+
+---
+
+### [Transparence salariale : la fonction publique encore loin du compte - Les Echos](https://news.google.com/rss/articles/CBMivAFBVV95cUxPRjI2UnlMalNxRElFQnJIZ0hvRTlyT1hIclp4RUMtYmtTV2NTUmdzMGN0bFZod2lGS0t2MXNrWHl3Ym5GWEtMM1RqZjk5SHVpNlRjTlV0YzZ4OWo1RVJ1WUp0UVBmTlVIa0xNWkZnaXV2WlBDY2ZjdzRKY0tFQXJRcUgxSWhqS2tJaEhYem9LeTZJakdhZy0zNVlkRzlLVW1MSmdDaEN1dFBOcnF4X3Fia1JSSGRKcHlPYnZwMw?oc=5)
+
+`Tue, 08 Sep 2026 09:00:09 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxPRjI2UnlMalNxRElFQnJIZ0hvRTlyT1hIclp4RUMtYmtTV2NTUmdzMGN0bFZod2lGS0t2MXNrWHl3Ym5GWEtMM1RqZjk5SHVpNlRjTlV0YzZ4OWo1RVJ1WUp0UVBmTlVIa0xNWkZnaXV2WlBDY2ZjdzRKY0tFQXJRcUgxSWhqS2tJaEhYem9LeTZJakdhZy0zNVlkRzlLVW1MSmdDaEN1dFBOcnF4X3Fia1JSSGRKcHlPYnZwMw?oc=5" target="_blank">Transparence salariale : la fonction publique encore loin du compte</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Transparence salariale : le projet de loi enfin sur la table du Conseil des ministres - Les Echos](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOandOU29lbGl1dDlBT3JKaWtLUTIxYzRtLTBjaXVBRGpoVVpLTDhKYnV2RHFXOVdSNWNBeDNaTlpTV0hTMXdYa0ZZa2ZGNlMzcl83ZjhoUVNUa09KWmNsMFI0MUxLaEFPMlA3blJLNzNscHV0SnZXTTVmVnVDeEgtYTFpS2JUWlVpajc3Z0hUMnF6dzROWjZ4QlRad1V1Y05lX2Iyb0lBQllfOFdzdW80ODJOTUJhei1PYlJDY1FYQWR2VGt5QWlqX3lFY1dFeWZ2aGFXdQ?oc=5)
+
+`Tue, 08 Sep 2026 04:05:10 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi1AFBVV95cUxOandOU29lbGl1dDlBT3JKaWtLUTIxYzRtLTBjaXVBRGpoVVpLTDhKYnV2RHFXOVdSNWNBeDNaTlpTV0hTMXdYa0ZZa2ZGNlMzcl83ZjhoUVNUa09KWmNsMFI0MUxLaEFPMlA3blJLNzNscHV0SnZXTTVmVnVDeEgtYTFpS2JUWlVpajc3Z0hUMnF6dzROWjZ4QlRad1V1Y05lX2Iyb0lBQllfOFdzdW80ODJOTUJhei1PYlJDY1FYQWR2VGt5QWlqX3lFY1dFeWZ2aGFXdQ?oc=5" target="_blank">Transparence salariale : le projet de loi enfin sur la table du Conseil des ministres</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Inflation : actualités, chiffres, analyses et vidéos - Les Echos | Page 333 - Les Echos](https://news.google.com/rss/articles/CBMihAFBVV95cUxPVkFVZ2UwZGVYaXRfR3dxZ2U5S2cwemNMbHFQVHp5bW1ndDc2bWdsMnZ1UUZqSjN4RlBBbU1pQVlzdDhvNXpxSzY4N3FJR0RKb0MwV2kzUl9DR25FMXA1YThBVXkxQnFFbjZZN1YtMEZTcE9OSVEwZnF6ZGo1aWNYejJDZ2E?oc=5)
+
+`Fri, 04 Sep 2026 03:33:47 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPVkFVZ2UwZGVYaXRfR3dxZ2U5S2cwemNMbHFQVHp5bW1ndDc2bWdsMnZ1UUZqSjN4RlBBbU1pQVlzdDhvNXpxSzY4N3FJR0RKb0MwV2kzUl9DR25FMXA1YThBVXkxQnFFbjZZN1YtMEZTcE9OSVEwZnF6ZGo1aWNYejJDZ2E?oc=5" target="_blank">Inflation : actualités, chiffres, analyses et vidéos - Les Echos | Page 333</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
