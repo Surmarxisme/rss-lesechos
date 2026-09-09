@@ -1,7 +1,23 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Tue, 08 Sep 2026 19:38:41 +0000`
-> 80 articles (30 derniers jours)
+> Derniere mise a jour : `Wed, 09 Sep 2026 10:10:22 +0000`
+> 82 articles (30 derniers jours)
+
+---
+
+### [Budget 2027 : pointant du doigt un « risque systémique », les hôpitaux réclament davantage de moyens - Les Echos](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPU3ctcGh1Q1FPdFY5VFZsbWI0Y1B5YjZmMGkxbk1yX05LN3ZwQVBzakxvWFEwUkE2SlJHOUpsUUhSdTFPMXRhWkJLeXZNNFhZRHJZaWdzV2ZsUFl0c2Y4dWE4S1NKTllBbTA2cGlaNkkwT2hGak5vZ0ZVWUtQb2JHbGI5TWg1MWFwSmFGUnJzRlVWYkNVZ3QwcFVOUVRHVnNvNHhpbDZxX3J5eDQ5aVZ3dkhvZEdfZ0lQRWwyakdqQ1VlV242LXliSm0wd2xNLW1RY2NqS003ckxnQ01EdDZlcVdB?oc=5)
+
+`Wed, 09 Sep 2026 05:00:12 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi4gFBVV95cUxPU3ctcGh1Q1FPdFY5VFZsbWI0Y1B5YjZmMGkxbk1yX05LN3ZwQVBzakxvWFEwUkE2SlJHOUpsUUhSdTFPMXRhWkJLeXZNNFhZRHJZaWdzV2ZsUFl0c2Y4dWE4S1NKTllBbTA2cGlaNkkwT2hGak5vZ0ZVWUtQb2JHbGI5TWg1MWFwSmFGUnJzRlVWYkNVZ3QwcFVOUVRHVnNvNHhpbDZxX3J5eDQ5aVZ3dkhvZEdfZ0lQRWwyakdqQ1VlV242LXliSm0wd2xNLW1RY2NqS003ckxnQ01EdDZlcVdB?oc=5" target="_blank">Budget 2027 : pointant du doigt un « risque systémique », les hôpitaux réclament davantage de moyens</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Impôts : contrairement aux idées reçues, la fin de la taxe d'habitation n'a pas été compensée par une hausse de la taxe foncière - Les Echos](https://news.google.com/rss/articles/CBMilwJBVV95cUxQOWJ4MTNvZUVvZmZERGJhRVdTRW9UV1dvMUZPWWJ5SUVObzJnQkFSTFlJSEVoR19zOHFZR3BLX2w2ZDY3WTRPaEFMZm02a19Jb0ZmTTNsTUh1OHA4VkhNQkFNQzRfdE40cXYzRkx1U0k3eWZna19Xd3VNa1dfTHVDbk5ZVWUxSWVQRXhvYllSRXFfak0wZWQ4RFVaSmVFb1ZGc0l6TTVjUEhXdTJ3dUw0a0FTUUhTSlkxajFWVzB6QlFtUjlqQ0xydmpuNGV0NHY3djlfdS1OdnJNZGFWdDJTSHYtN0ZFbmtGd0RvejdVc253c0hiRC1qMWxsMVFhZ1ZEdUZyQm5tRjY1RFVwbFhrdF8xd2hMQUk?oc=5)
+
+`Wed, 09 Sep 2026 09:14:03 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMilwJBVV95cUxQOWJ4MTNvZUVvZmZERGJhRVdTRW9UV1dvMUZPWWJ5SUVObzJnQkFSTFlJSEVoR19zOHFZR3BLX2w2ZDY3WTRPaEFMZm02a19Jb0ZmTTNsTUh1OHA4VkhNQkFNQzRfdE40cXYzRkx1U0k3eWZna19Xd3VNa1dfTHVDbk5ZVWUxSWVQRXhvYllSRXFfak0wZWQ4RFVaSmVFb1ZGc0l6TTVjUEhXdTJ3dUw0a0FTUUhTSlkxajFWVzB6QlFtUjlqQ0xydmpuNGV0NHY3djlfdS1OdnJNZGFWdDJTSHYtN0ZFbmtGd0RvejdVc253c0hiRC1qMWxsMVFhZ1ZEdUZyQm5tRjY1RFVwbFhrdF8xd2hMQUk?oc=5" target="_blank">Impôts : contrairement aux idées reçues, la fin de la taxe d'habitation n'a pas été compensée par une hausse de la taxe foncière</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
