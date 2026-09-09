@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Wed, 09 Sep 2026 10:10:22 +0000`
-> 82 articles (30 derniers jours)
+> Derniere mise a jour : `Wed, 09 Sep 2026 13:37:23 +0000`
+> 83 articles (30 derniers jours)
+
+---
+
+### [Budget 2027 : Lecornu garantit aux entreprises une baisse de la surtaxe exceptionnelle - Les Echos](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTkxCc3BKeTJIdzVmYUNhdUVGUzlVaWlRWERjOW1wQUJmWVNGaGNKQkJHbDd3WUZqWVp0eHpzTF9HTTBNNFVBYlFORldNX1JmOWpUNk9XWnFGTGVYWTRnMFJadTB3MjhNcVFTQ0ZYX1ZZTGkzbEpuREEzT0x1U2RhOGNEXzcyRmhSOGdWS1g4bHRUZ3EzR1Awb2FNVGRRMlJtUDZ5WnJ6T0JUMUdPUjJOWnZ3UGlicnRnWHQ1d3lXSzFzOEgyd2VENFFvbFdLUmMxRHNHN1BlaDIwZjJTRk9EQk52dw?oc=5)
+
+`Wed, 09 Sep 2026 10:28:02 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTkxCc3BKeTJIdzVmYUNhdUVGUzlVaWlRWERjOW1wQUJmWVNGaGNKQkJHbDd3WUZqWVp0eHpzTF9HTTBNNFVBYlFORldNX1JmOWpUNk9XWnFGTGVYWTRnMFJadTB3MjhNcVFTQ0ZYX1ZZTGkzbEpuREEzT0x1U2RhOGNEXzcyRmhSOGdWS1g4bHRUZ3EzR1Awb2FNVGRRMlJtUDZ5WnJ6T0JUMUdPUjJOWnZ3UGlicnRnWHQ1d3lXSzFzOEgyd2VENFFvbFdLUmMxRHNHN1BlaDIwZjJTRk9EQk52dw?oc=5" target="_blank">Budget 2027 : Lecornu garantit aux entreprises une baisse de la surtaxe exceptionnelle</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
