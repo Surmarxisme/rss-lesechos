@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Thu, 10 Sep 2026 15:34:33 +0000`
+> Derniere mise a jour : `Thu, 10 Sep 2026 19:19:19 +0000`
 > 87 articles (30 derniers jours)
+
+---
+
+### [Pourquoi les perspectives du chômage sont toujours mauvaises en France - Les Echos](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdXJxM3pkbnM0dnFWLVRyaFZ5ZG1JNjhQV1ZfSnNKLWhkTXRPbXV4blM0YWQzdDk4V2JPOG9ZckFnazRjSVQyOExEdllEdUJuMkloaldoWXBQM1dxNGs2ZFU5c3JvT1FPU0JZMmdNS0VpWEk4QklUaFNMS1lzVHRYam1IS2Q2c1ZQXzg0TGxJYzZ2eFd2R2VzTWtLSjJ3ZC0zODNNaDdrbTVQaVJfX0FKa2RnTG5GTW5QMkliSXp2V1poZ2s?oc=5)
+
+`Thu, 10 Sep 2026 16:00:52 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdXJxM3pkbnM0dnFWLVRyaFZ5ZG1JNjhQV1ZfSnNKLWhkTXRPbXV4blM0YWQzdDk4V2JPOG9ZckFnazRjSVQyOExEdllEdUJuMkloaldoWXBQM1dxNGs2ZFU5c3JvT1FPU0JZMmdNS0VpWEk4QklUaFNMS1lzVHRYam1IS2Q2c1ZQXzg0TGxJYzZ2eFd2R2VzTWtLSjJ3ZC0zODNNaDdrbTVQaVJfX0FKa2RnTG5GTW5QMkliSXp2V1poZ2s?oc=5" target="_blank">Pourquoi les perspectives du chômage sont toujours mauvaises en France</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -690,13 +698,5 @@
 `Wed, 12 Aug 2026 04:10:09 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMimgJBVV95cUxPTzFvamtkMTIxdE4wVXcwcVZuTVNkVWpQaUNuLUN4QnM3TFBnbWVYSVVhcEZsandNLVl6aVlGNnl0SzJ4U3ZqaFp3YnJ5MHFoODBBNk5sN1pFTzZVS2xRSGd4Z3R5ZWd0cHVTZ3hsRzFRNE1yS3hZMWZjY2pvTDJJSlVwLUF6alpmOXNyOWVwRGJvMjdvd2xtYkdobXF0Rjg2Qzk0MlhBVHFBek81N0owX3haWDNScXBWeUF4aXh0S25LSFg2VDI4ME5MTkMzeGZFNm14c1RVR3E2LW9uR3ZCNEl5M1o5QWYwX2xxSmJWVXVMd05UcmRFVEZZcmVKRjhYc0VMd0gzWGNfSU8xSFIxWER5WFY0eGY3TXc?oc=5" target="_blank">APL, allocs, impôts, retraite : les pistes explosives sur la table du gouvernement pour diminuer le coût des politiques familiales</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Décès de Dominique Libault, « défenseur inlassable de la Sécurité sociale » - Les Echos](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSVozY3pDMlgxSXVMR1RZYUR0R1h3N1hmSmZ6bERqWGY4SmFwcWRpVkNmRkFWQzhmcG1YcTZSVTRWTWxsMHgwQ0IzeEpIbHhwOFhEQ2dtbWxFZmxTUEhVZkU0bzUzdFNMMlNQb1pJaFJnc212WjFXQ3hqNV9OU3R2aURUTC1BemVtZWt5STdpTGpSbkVpYWdjRGVKY28zWEN0RVlmLVE0WDlWUnZacWFrZzVWQnNmNG90Nnh2QWIzLU5abm8?oc=5)
-
-`Tue, 11 Aug 2026 17:19:33 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSVozY3pDMlgxSXVMR1RZYUR0R1h3N1hmSmZ6bERqWGY4SmFwcWRpVkNmRkFWQzhmcG1YcTZSVTRWTWxsMHgwQ0IzeEpIbHhwOFhEQ2dtbWxFZmxTUEhVZkU0bzUzdFNMMlNQb1pJaFJnc212WjFXQ3hqNV9OU3R2aURUTC1BemVtZWt5STdpTGpSbkVpYWdjRGVKY28zWEN0RVlmLVE0WDlWUnZacWFrZzVWQnNmNG90Nnh2QWIzLU5abm8?oc=5" target="_blank">Décès de Dominique Libault, « défenseur inlassable de la Sécurité sociale »</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
