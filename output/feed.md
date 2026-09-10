@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Thu, 10 Sep 2026 13:28:34 +0000`
-> 86 articles (30 derniers jours)
+> Derniere mise a jour : `Thu, 10 Sep 2026 15:34:33 +0000`
+> 87 articles (30 derniers jours)
+
+---
+
+### [Croissance, emploi, pouvoir d'achat : la France décroche - Les Echos](https://news.google.com/rss/articles/CBMisAFBVV95cUxOR0htejgyUm5UeXk3STVWOHlRaU8xZThfS2dmMkpVYS1NVXhtM1luZjJiRXk1bTBDZExpa2FfWDNyYXJ5cHExLVZrZ3pJUTk0S3RqcWVvQ0JJMTE0dGh6S0JoV25UN09ubDNVeV9UaFdxVElpQlhXM3RLLV9tR0o4ZEoyQlgxWGtpYmVYbFItQjRnY25rd3ZFODNfWFhhazV5Q2IxdzU3YU5rSHAtVHBERg?oc=5)
+
+`Thu, 10 Sep 2026 15:01:02 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxOR0htejgyUm5UeXk3STVWOHlRaU8xZThfS2dmMkpVYS1NVXhtM1luZjJiRXk1bTBDZExpa2FfWDNyYXJ5cHExLVZrZ3pJUTk0S3RqcWVvQ0JJMTE0dGh6S0JoV25UN09ubDNVeV9UaFdxVElpQlhXM3RLLV9tR0o4ZEoyQlgxWGtpYmVYbFItQjRnY25rd3ZFODNfWFhhazV5Q2IxdzU3YU5rSHAtVHBERg?oc=5" target="_blank">Croissance, emploi, pouvoir d'achat : la France décroche</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
