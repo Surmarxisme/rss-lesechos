@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Wed, 09 Sep 2026 19:32:40 +0000`
-> 88 articles (30 derniers jours)
+> Derniere mise a jour : `Thu, 10 Sep 2026 10:05:40 +0000`
+> 87 articles (30 derniers jours)
+
+---
+
+### [Travailler sous 40 degrés : le ministre Farandou cherche des idées à Madrid - Les Echos](https://news.google.com/rss/articles/CBMixwFBVV95cUxPcElYNmxGOTBRaVczaXh5LVVVcFcxMjJleEREU1dzM2FoVGJfSFpsM3NRU0p1THgyZExNMzlneVE0NUVwM241YlpRQXVzSG80Y01DUXVydGVISzN6UTVCRk1VempkTjM2VkxiSGhGVFZZS3ZXMjhzdTl4M0tqT3hTbk9Kb2twUzRicThKeTRGakRfcnpMcC0wNVlYQzBqRFpXWlgzVzI0VlluaU5qcFJ4dEw2LThzN0dfendUcU9uS3VCWi1KZ0lj?oc=5)
+
+`Thu, 10 Sep 2026 09:32:55 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMixwFBVV95cUxPcElYNmxGOTBRaVczaXh5LVVVcFcxMjJleEREU1dzM2FoVGJfSFpsM3NRU0p1THgyZExNMzlneVE0NUVwM241YlpRQXVzSG80Y01DUXVydGVISzN6UTVCRk1VempkTjM2VkxiSGhGVFZZS3ZXMjhzdTl4M0tqT3hTbk9Kb2twUzRicThKeTRGakRfcnpMcC0wNVlYQzBqRFpXWlgzVzI0VlluaU5qcFJ4dEw2LThzN0dfendUcU9uS3VCWi1KZ0lj?oc=5" target="_blank">Travailler sous 40 degrés : le ministre Farandou cherche des idées à Madrid</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -690,21 +698,5 @@
 `Tue, 11 Aug 2026 10:50:56 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMikAJBVV95cUxQY3lkVHdPRWF6dGFOR3J1bVJGR2RKY3UwaWQ1RlJnSlluODY1cnRaRlFWQ0N3enZlVzBzMGhNb1YyS0l3SFlROXlQcUUwNTloZzVhcjE4T3JySExtRGdWS0ctbmVMcE1jUzhULVVpYnc2bmZEYjlpNEZ4Y2psUFBvbHM0SWVzRzR1ZWl1WnRlUGRsdlU1OG1sVG9WSEY1ZV9XajhKWE40b2ZGNFlqcEE1MXFpUTgwRGJROE9pRzQ3aFVEUHJ2WWIyc1R3ZmlqeUZJcVFoSXFFWDdpai1Sa29BeTRQa0V2Y20yX3VBXzhQMnVXU1pILXo4aFpaeG9zWXY1R3FTVkhPZ1paYks4aTFHeg?oc=5" target="_blank">543 dispositifs et un poids croissant dans les rémunérations : l'Etat appelé à s'attaquer au maquis des primes de ses fonctionnaires</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [« Il faut changer de modèle » : le coût croissant des kinés dans le viseur de l'Assurance Maladie - Les Echos](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQQVFlWFJNVmRRV3dKTnZncnl0S1d2Zjd4T2VQTkRMSmtjTjFiYW1EMmsyYlo5WTE3aDBsWnZRdnY1bS1mZDktQzZpdzdKeEJCVUE4SjR1bDFIMWpCQW1zcjFMbk9tYjJLVDFjc2ZCR01BazlqZTRvM1hQSXkyZlRGMDdUUDlvOGJUNERNaGhMUWJyN25DbnBoNHUzbklKUjJ6WmpGNVRlSGJxVDk2eHRnT05VMEY4YnFDSjVsazhXUEMwTjlBQ01ZZXNKTmt2RWs2VTdBVnp0SF9ISVN3Tnc?oc=5)
-
-`Tue, 11 Aug 2026 04:00:08 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi3gFBVV95cUxQQVFlWFJNVmRRV3dKTnZncnl0S1d2Zjd4T2VQTkRMSmtjTjFiYW1EMmsyYlo5WTE3aDBsWnZRdnY1bS1mZDktQzZpdzdKeEJCVUE4SjR1bDFIMWpCQW1zcjFMbk9tYjJLVDFjc2ZCR01BazlqZTRvM1hQSXkyZlRGMDdUUDlvOGJUNERNaGhMUWJyN25DbnBoNHUzbklKUjJ6WmpGNVRlSGJxVDk2eHRnT05VMEY4YnFDSjVsazhXUEMwTjlBQ01ZZXNKTmt2RWs2VTdBVnp0SF9ISVN3Tnc?oc=5" target="_blank">« Il faut changer de modèle » : le coût croissant des kinés dans le viseur de l'Assurance Maladie</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [« Certains payent 178 euros l'année, d'autres 8.000 euros » : les aspirants kinés toujours dans l'attente d'études moins chères - Les Echos](https://news.google.com/rss/articles/CBMi_wFBVV95cUxNNXA2NkpSRndoR3JjdmxDekprT014ZWhiNVBzbms2N3NfZzVwaTNYVnc3b3pDMUgwOVZBYmNyUVZ0SXFNVWFyazNhckI5dlpvZVNlOWNyNE5mWElteGJHRERxM21lZ2NtLWNiSVFjV0VsN29LdEgyOHp1TFlQNVl5VS1Ea2lKNkhsQ2xEQnV2U25haElrVWZ3WVZJN254a3BIdEZjZlc2ODZzNWx4S2g5dEEwSWlmeXRsUENObHZqbnhJaHJpWkN0YnJYX0JBYm1yak9SZ25qY3VSenM1bC1xc2NnSU5qdnB4ZF9tNkFROGNsUi1uSTFLVXBvY2o1TzQ?oc=5)
-
-`Tue, 11 Aug 2026 09:00:37 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi_wFBVV95cUxNNXA2NkpSRndoR3JjdmxDekprT014ZWhiNVBzbms2N3NfZzVwaTNYVnc3b3pDMUgwOVZBYmNyUVZ0SXFNVWFyazNhckI5dlpvZVNlOWNyNE5mWElteGJHRERxM21lZ2NtLWNiSVFjV0VsN29LdEgyOHp1TFlQNVl5VS1Ea2lKNkhsQ2xEQnV2U25haElrVWZ3WVZJN254a3BIdEZjZlc2ODZzNWx4S2g5dEEwSWlmeXRsUENObHZqbnhJaHJpWkN0YnJYX0JBYm1yak9SZ25qY3VSenM1bC1xc2NnSU5qdnB4ZF9tNkFROGNsUi1uSTFLVXBvY2o1TzQ?oc=5" target="_blank">« Certains payent 178 euros l'année, d'autres 8.000 euros » : les aspirants kinés toujours dans l'attente d'études moins chères</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
