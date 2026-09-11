@@ -1,7 +1,7 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Fri, 11 Sep 2026 10:02:50 +0000`
-> 87 articles (30 derniers jours)
+> Derniere mise a jour : `Fri, 11 Sep 2026 13:26:38 +0000`
+> 86 articles (30 derniers jours)
 
 ---
 
@@ -690,13 +690,5 @@
 `Wed, 12 Aug 2026 14:00:37 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi5gFBVV95cUxNZGxOREhVMk9DR1UxdXJYbERxcWJScFEwd0tfa2VFR192SHQ0U3VOUnpocDFZR0lONW1VX0psX1ZHSjhUY0lycUZQbGRPaFhlYV9vRHkyb1hjUERnWGdXZ3JjMXZ6amd2aXVJN291eEFGTlJFV2o4MXhWbV8zM2NEcGRNbGpXLVBncEZqOTZNUTU5NFNOclVWNkZiQVNJNUVQYXRrdUIwaXJwQ01BR256ZnV3TFdkSnFTa2Z3Qm0zN1lmbUtUaWdINVBxOGFscjNZZzJ6QWx0OEItdnJRMmFUZkxQNDI3dw?oc=5" target="_blank">« Les effets de l'IA sur les inégalités de salaires méritent autant d'attention que ceux sur l'emploi »</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Santé : le nombre de postes d'internes ouverts en médecine franchit un seuil « historique » - Les Echos](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNY2M5SV9jd2RoNzhhQmlrbnZVTkdsancwYTBGS282LWNlbkxTZWRsdmdDQzFNejlNSDM5Nlk1d3VQaGNLNjNJMW94NEVWZFVkUzZ6akRzUm1nSWRCdFVzc2kwcy0wZ0NEWjBwbWhKelU5VVBLVkliYTQ0T3Y2bXk2MWxCOGlPV05IeGlZRFZNTlliR1ZrR1RQcEdSS1hDLUlpckJLVXBhNW5YbkIybkQ5TzNzRE04bDVvbmtzRUo0U2o4eFp2WURrNjhlUllFcTl0SnJwdkdB?oc=5)
-
-`Wed, 12 Aug 2026 10:05:59 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi1gFBVV95cUxNY2M5SV9jd2RoNzhhQmlrbnZVTkdsancwYTBGS282LWNlbkxTZWRsdmdDQzFNejlNSDM5Nlk1d3VQaGNLNjNJMW94NEVWZFVkUzZ6akRzUm1nSWRCdFVzc2kwcy0wZ0NEWjBwbWhKelU5VVBLVkliYTQ0T3Y2bXk2MWxCOGlPV05IeGlZRFZNTlliR1ZrR1RQcEdSS1hDLUlpckJLVXBhNW5YbkIybkQ5TzNzRE04bDVvbmtzRUo0U2o4eFp2WURrNjhlUllFcTl0SnJwdkdB?oc=5" target="_blank">Santé : le nombre de postes d'internes ouverts en médecine franchit un seuil « historique »</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
