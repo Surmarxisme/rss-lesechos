@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Sat, 12 Sep 2026 12:44:06 +0000`
-> 90 articles (30 derniers jours)
+> Derniere mise a jour : `Sun, 13 Sep 2026 13:43:24 +0000`
+> 84 articles (30 derniers jours)
+
+---
+
+### [Budget 2027 : le gouvernement veut donner un coup de pouce aux donations familiales - Les Echos](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOS3Z2VXZwcWZJQU1tMEFfVjhoYTJwNDZhZUkxcUs0Q0JGOHM5NnV5U3RMcmVaaDhPemp5Q196Tk5zYThDV3BSYTlIWGpHTkQ1Z0xPNWdrc0tJZHRjU1g3STQ5X3hwU3RlNnlzNFZpZGlQOENOQ1k0S3Z5T282MklyaDd4X0VmenVpVHJ4UHg2ODJRNnhPWkgzSWxOWlJmQ2l1R1VzVGdrM3FyZWswYnBrbWxxajBSZWEtaHBwbE5kN0JmVk9TcEJTZTRXb2ZmUnBvdUFPZWtjcDNOeDU3U29J?oc=5)
+
+`Sat, 12 Sep 2026 17:48:21 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi3wFBVV95cUxOS3Z2VXZwcWZJQU1tMEFfVjhoYTJwNDZhZUkxcUs0Q0JGOHM5NnV5U3RMcmVaaDhPemp5Q196Tk5zYThDV3BSYTlIWGpHTkQ1Z0xPNWdrc0tJZHRjU1g3STQ5X3hwU3RlNnlzNFZpZGlQOENOQ1k0S3Z5T282MklyaDd4X0VmenVpVHJ4UHg2ODJRNnhPWkgzSWxOWlJmQ2l1R1VzVGdrM3FyZWswYnBrbWxxajBSZWEtaHBwbE5kN0JmVk9TcEJTZTRXb2ZmUnBvdUFPZWtjcDNOeDU3U29J?oc=5" target="_blank">Budget 2027 : le gouvernement veut donner un coup de pouce aux donations familiales</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -666,61 +674,5 @@
 `Sun, 16 Aug 2026 07:00:13 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMiowFBVV95cUxOeC1xdk5JWW9JYVc2azJzS09qLXh4RUt1ZERhLVVleVVlSWFTTk5oc0lWUm5FdEdXY21DRmtHeGZMdHlPMG1MMThzREZlckZfdWJacDliU3A5THV3RElycjAtcG1IeEdSMXhGLUNEOXJhMmNTT0I1WHVFa1g4b0ZHektjVzVXd1VJOFk1YVZRSW00VGZWLVgtUzZadkNqSnIybHFN?oc=5" target="_blank">Pouvoir d'achat : ce qui attend les Français</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [L'aide à mourir validée par le Conseil constitutionnel - Les Echos](https://news.google.com/rss/articles/CBMirAFBVV95cUxOcURjdm5jSUwxMDQyZ1F3N0VRUFlvT1p0T1hwOWRfdVU0MHRtXzBxTjdrS3ktc1Q0TEl4akFxZm9iUkliTDBKWkc1SWloNU9jTXdKLXU5ckdzV1c1YWpfSWVaZGJvZ2ZjSm1rcFpyTnM1OFlSTnc4NDdFd2NNWHdCa09remFMZDQ4NWRGTlpScTVUakl2eHNDREFMVG5ZSVcxa2xZRjFnOThBUlVk?oc=5)
-
-`Fri, 14 Aug 2026 13:00:46 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxOcURjdm5jSUwxMDQyZ1F3N0VRUFlvT1p0T1hwOWRfdVU0MHRtXzBxTjdrS3ktc1Q0TEl4akFxZm9iUkliTDBKWkc1SWloNU9jTXdKLXU5ckdzV1c1YWpfSWVaZGJvZ2ZjSm1rcFpyTnM1OFlSTnc4NDdFd2NNWHdCa09remFMZDQ4NWRGTlpScTVUakl2eHNDREFMVG5ZSVcxa2xZRjFnOThBUlVk?oc=5" target="_blank">L'aide à mourir validée par le Conseil constitutionnel</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Inflation, pouvoir d'achat : le grand fossé entre le ressenti des Français et la réalité des chiffres - Les Echos](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPQUxMc1VkemEzZU83bVVaTnVsalJTdklRYTBKb1Jva3Nob1h1a3pzVWVZbVV1UTQ0emt5ZUJuWE1vdGR0U2JwNmlNSGlSdUNNZlN6WEZMX1NjNDg1eXAzV1k5VjBZN2FOQTJCN3JGcWZaY05INHNRUmNVc3hjT29uSzNCWTNuZVVxeUt3SG45NkJxamtjQXN4a1dJNHp1VDB3cEp3NkZYYmw5Z0VwMXoxaUM3S3gydVZwNlphSURSMkd2MVc1WHFISUl0Q295R2NZT3NneUpkQkl3aXpGa0FaaVNRX2dZa3hiU3gwQzhR?oc=5)
-
-`Fri, 14 Aug 2026 10:00:09 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi7gFBVV95cUxPQUxMc1VkemEzZU83bVVaTnVsalJTdklRYTBKb1Jva3Nob1h1a3pzVWVZbVV1UTQ0emt5ZUJuWE1vdGR0U2JwNmlNSGlSdUNNZlN6WEZMX1NjNDg1eXAzV1k5VjBZN2FOQTJCN3JGcWZaY05INHNRUmNVc3hjT29uSzNCWTNuZVVxeUt3SG45NkJxamtjQXN4a1dJNHp1VDB3cEp3NkZYYmw5Z0VwMXoxaUM3S3gydVZwNlphSURSMkd2MVc1WHFISUl0Q295R2NZT3NneUpkQkl3aXpGa0FaaVNRX2dZa3hiU3gwQzhR?oc=5" target="_blank">Inflation, pouvoir d'achat : le grand fossé entre le ressenti des Français et la réalité des chiffres</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Ces comptes bancaires inactifs qui finissent dans les caisses de l'Etat - Les Echos](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdC1HbDVqQ3c5bWktYVhnZkxoSHlrdDQ4YVZiVUVJTmNDeElGaXg2dUQwT2w1YUl4dTQ2WVRsdDFocFJFR1Y2dDhlZjVwdmtqUE1qbDRHQ21vRmpUV3lBaUJwMU5WOHdKTUdNRGVsbDd1S3lmMHAxQXJHSG9aT2ZFVTZGVEVxaUlHdnJVQVNES1NWQUlUX0Iyc3ZkTFBLMGlCSEhJNlNhcFdTNEtlWGQ2S24xMEtjLTJVVndKX2hyc19EM19sNDZZVUQ1dVBoblBj?oc=5)
-
-`Fri, 14 Aug 2026 07:20:09 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdC1HbDVqQ3c5bWktYVhnZkxoSHlrdDQ4YVZiVUVJTmNDeElGaXg2dUQwT2w1YUl4dTQ2WVRsdDFocFJFR1Y2dDhlZjVwdmtqUE1qbDRHQ21vRmpUV3lBaUJwMU5WOHdKTUdNRGVsbDd1S3lmMHAxQXJHSG9aT2ZFVTZGVEVxaUlHdnJVQVNES1NWQUlUX0Iyc3ZkTFBLMGlCSEhJNlNhcFdTNEtlWGQ2S24xMEtjLTJVVndKX2hyc19EM19sNDZZVUQ1dVBoblBj?oc=5" target="_blank">Ces comptes bancaires inactifs qui finissent dans les caisses de l'Etat</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [37.000 successions « vacantes » : quand Bercy récupère des centaines de millions d'euros faute d'héritiers - Les Echos](https://news.google.com/rss/articles/CBMi9AFBVV95cUxQWlE5SFR0YV93dU1JRkJWM3pXR1dtc3BGWlFGaE9MQkRpelEzcXlWeG1VWFZuR0l3bmp5cjZCRm0xXzV0aERjc0x6SjB1Q2s3TGpJb0hYX0dNYVVINFkwRmFhdUNUV1Jkc1FGMWVPVEN2cmlja1dxbDJ1TGNjZ2tPWFo2QllqaFV0UFhGeFVWSVdTbFJ3U21FN3B6SERmTXg1RHRxLW53bnAyazNwSjdneE1SVFBtclkycURrLU9iV0xCM0dxbUIwSUVseDJtSnZ3c05EbFc1OFA0MTUybF9INlFNbTY3NlV1eHdTSU9waTJ1aTM1?oc=5)
-
-`Fri, 14 Aug 2026 04:25:10 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi9AFBVV95cUxQWlE5SFR0YV93dU1JRkJWM3pXR1dtc3BGWlFGaE9MQkRpelEzcXlWeG1VWFZuR0l3bmp5cjZCRm0xXzV0aERjc0x6SjB1Q2s3TGpJb0hYX0dNYVVINFkwRmFhdUNUV1Jkc1FGMWVPVEN2cmlja1dxbDJ1TGNjZ2tPWFo2QllqaFV0UFhGeFVWSVdTbFJ3U21FN3B6SERmTXg1RHRxLW53bnAyazNwSjdneE1SVFBtclkycURrLU9iV0xCM0dxbUIwSUVseDJtSnZ3c05EbFc1OFA0MTUybF9INlFNbTY3NlV1eHdTSU9waTJ1aTM1?oc=5" target="_blank">37.000 successions « vacantes » : quand Bercy récupère des centaines de millions d'euros faute d'héritiers</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Les difficultés de retour à l'emploi perdurent pour les travailleurs handicapés - Les Echos](https://news.google.com/rss/articles/CBMizgFBVV95cUxPeGotYnhsS2Q4ZGJfOHd1STRqOXZJTnlwam5KOVpMUUtCUjBuMkpkYmlZVWd6WGwydWZoSVRfdmwzY3laOF8xQWdTb3F3ZXB3R3lwdDdDNGJHc19NeDFwYWZRNWhPMEgyVXVFdC1MWXduYlVLa0lqMzBScXktQ1V5c3JYdzdrc1B3QUx5MEhuQnl3MGVBdHQ1aWhYbWlIeWRWYlM0NHJRRXd5Q1FINkpJSWhjZHpUaXJsbmprbnU5SGdEbldFcEViVExWM0toQQ?oc=5)
-
-`Thu, 13 Aug 2026 15:30:11 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMizgFBVV95cUxPeGotYnhsS2Q4ZGJfOHd1STRqOXZJTnlwam5KOVpMUUtCUjBuMkpkYmlZVWd6WGwydWZoSVRfdmwzY3laOF8xQWdTb3F3ZXB3R3lwdDdDNGJHc19NeDFwYWZRNWhPMEgyVXVFdC1MWXduYlVLa0lqMzBScXktQ1V5c3JYdzdrc1B3QUx5MEhuQnl3MGVBdHQ1aWhYbWlIeWRWYlM0NHJRRXd5Q1FINkpJSWhjZHpUaXJsbmprbnU5SGdEbldFcEViVExWM0toQQ?oc=5" target="_blank">Les difficultés de retour à l'emploi perdurent pour les travailleurs handicapés</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Embauche des travailleurs handicapés : une lente amélioration dans les entreprises - Les Echos](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWGJJdGVFckZidm9mcTUyZjlfQTdWM29ZSDIzYVBpd2hRSFN6OXE4WXVNVy1RSVZNdmJIOWRLanRwWGNmSFhiS05wX2ZsbS10MDVEaWs2UGNLUDF2QmlDaFU4aXYwcDdFSW8yY29FWkhyV0l5bkt1YXlKV0J6M1ktaUZGZWV4bzlIRjlmMFJ2dGtyTUdHUEVXd19HUUN1b2JJUWJXUFpUMktCdW1aR3V4RGNCeExmY3BMUzRsRmtXWV9FVHJxV2Zodm9ObXZ3alFC?oc=5)
-
-`Thu, 13 Aug 2026 13:00:09 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWGJJdGVFckZidm9mcTUyZjlfQTdWM29ZSDIzYVBpd2hRSFN6OXE4WXVNVy1RSVZNdmJIOWRLanRwWGNmSFhiS05wX2ZsbS10MDVEaWs2UGNLUDF2QmlDaFU4aXYwcDdFSW8yY29FWkhyV0l5bkt1YXlKV0J6M1ktaUZGZWV4bzlIRjlmMFJ2dGtyTUdHUEVXd19HUUN1b2JJUWJXUFpUMktCdW1aR3V4RGNCeExmY3BMUzRsRmtXWV9FVHJxV2Zodm9ObXZ3alFC?oc=5" target="_blank">Embauche des travailleurs handicapés : une lente amélioration dans les entreprises</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Formation : sur le site du CPF, la nouvelle ruée vers l'IA - Les Echos](https://news.google.com/rss/articles/CBMirgFBVV95cUxOMFhLUnowaFBUdDFQaFBvemJBa3U0RGdMbVF6dUI5Ym5LWXVZbHJTTUFwci1oWUVVakVKQVM0NmhOZWpvWG9tWlFTamRGcVJNOTlVS0Nxclg5R0Q5b2Q1dEppNGtLQnlzY3lOdTFhNFlZUGpWSjNxaFVUSWx2VENaTGY1VFVOdkhwUmd3bDZiSnhEV1RGRmNXWDZZcHVzYzFWd3RrLUdXSGxRbGlnUWc?oc=5)
-
-`Thu, 13 Aug 2026 13:00:29 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxOMFhLUnowaFBUdDFQaFBvemJBa3U0RGdMbVF6dUI5Ym5LWXVZbHJTTUFwci1oWUVVakVKQVM0NmhOZWpvWG9tWlFTamRGcVJNOTlVS0Nxclg5R0Q5b2Q1dEppNGtLQnlzY3lOdTFhNFlZUGpWSjNxaFVUSWx2VENaTGY1VFVOdkhwUmd3bDZiSnhEV1RGRmNXWDZZcHVzYzFWd3RrLUdXSGxRbGlnUWc?oc=5" target="_blank">Formation : sur le site du CPF, la nouvelle ruée vers l'IA</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
