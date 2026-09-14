@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Mon, 14 Sep 2026 15:48:57 +0000`
-> 86 articles (30 derniers jours)
+> Derniere mise a jour : `Mon, 14 Sep 2026 20:39:47 +0000`
+> 87 articles (30 derniers jours)
+
+---
+
+### [Budget 2027 : les trois mesures à disposition du gouvernement pour mettre les retraités à contribution - Les Echos](https://news.google.com/rss/articles/CBMi-AFBVV95cUxPSFR5N2k1NzFOWFRBMTBNdVV0cW94TlpRU0JRcUFHbVlwbjBsalpLUEFkNmpZNFBOelVLcy04aUNuYkFBOW5pd0VtVHRLV2ExWmNhSlhmSG5DWVZfSXY2R0tRM0Y0Z2U0VE5NenM5dlRtTFVwTU85aUFya0RnZlpIamt0ZW5yNTR3eWN3NWZRbjl1V1h5SUZJS1hoQzVKWGhBaWJBNmktWEVkcnVZN3Z2VFhzUkhubjJlaGloZXd3dG9TTHJDZTVkNXlyakRXT0JtQ3c2MTlxYlZUZHFsTXR2ZmhMT29Hck5SZG9ZMXRNcW5xRVJMdU9oVw?oc=5)
+
+`Mon, 14 Sep 2026 15:46:40 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi-AFBVV95cUxPSFR5N2k1NzFOWFRBMTBNdVV0cW94TlpRU0JRcUFHbVlwbjBsalpLUEFkNmpZNFBOelVLcy04aUNuYkFBOW5pd0VtVHRLV2ExWmNhSlhmSG5DWVZfSXY2R0tRM0Y0Z2U0VE5NenM5dlRtTFVwTU85aUFya0RnZlpIamt0ZW5yNTR3eWN3NWZRbjl1V1h5SUZJS1hoQzVKWGhBaWJBNmktWEVkcnVZN3Z2VFhzUkhubjJlaGloZXd3dG9TTHJDZTVkNXlyakRXT0JtQ3c2MTlxYlZUZHFsTXR2ZmhMT29Hck5SZG9ZMXRNcW5xRVJMdU9oVw?oc=5" target="_blank">Budget 2027 : les trois mesures à disposition du gouvernement pour mettre les retraités à contribution</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
