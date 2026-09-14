@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Sun, 13 Sep 2026 13:43:24 +0000`
-> 84 articles (30 derniers jours)
+> Derniere mise a jour : `Mon, 14 Sep 2026 11:00:51 +0000`
+> 85 articles (30 derniers jours)
+
+---
+
+### [Budget 2027 : le gouvernement face à une équation presque impossible - Les Echos](https://news.google.com/rss/articles/CBMiywFBVV95cUxPaEh6aGZ4Yjd2ZFdlcWhpbERsT2VEZnI2UXM3RGNNejV4bHJZRDctU2RiUWR5bU9JcHlNTGE1Z25HeVIwLW9BMWJPODlkYUk0bmo0Y3Fmdm5WVkVzLXFJZlgxSnlpWGJHWEM3bDh0cW8zUmZlTzc1ZGt1ekZ3LWo0aWFNbjlOOGx3TFo5UjhhTUVRZGQ4M2hhN3hsanhLNkpnVEtpbW9MV050aW5GblpEbUpVZ1FyV3pnT0loakdPQUtqaE9hVVFWQkNEUQ?oc=5)
+
+`Sun, 13 Sep 2026 13:57:55 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiywFBVV95cUxPaEh6aGZ4Yjd2ZFdlcWhpbERsT2VEZnI2UXM3RGNNejV4bHJZRDctU2RiUWR5bU9JcHlNTGE1Z25HeVIwLW9BMWJPODlkYUk0bmo0Y3Fmdm5WVkVzLXFJZlgxSnlpWGJHWEM3bDh0cW8zUmZlTzc1ZGt1ekZ3LWo0aWFNbjlOOGx3TFo5UjhhTUVRZGQ4M2hhN3hsanhLNkpnVEtpbW9MV050aW5GblpEbUpVZ1FyV3pnT0loakdPQUtqaE9hVVFWQkNEUQ?oc=5" target="_blank">Budget 2027 : le gouvernement face à une équation presque impossible</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
