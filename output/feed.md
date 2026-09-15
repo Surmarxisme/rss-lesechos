@@ -1,7 +1,23 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Mon, 14 Sep 2026 20:39:47 +0000`
-> 87 articles (30 derniers jours)
+> Derniere mise a jour : `Tue, 15 Sep 2026 10:30:57 +0000`
+> 88 articles (30 derniers jours)
+
+---
+
+### [L'étonnante amélioration des délais de paiement entre entreprises - Les Echos](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQU3ZUTGpWcWVXU1dpWTJ6UDVzRnFFZUxHNzMydDFJcXdrZEtPRFFHVFFxZHdWWDVwenNJOEFWbUtVVlNxUkxBa0dJb0cyNDl1aXhaOXFLUV9yNXdHZHB0dWlNazFNUG5UNGlOZUNtam1hQUtTZk9DOWdiaUdmYXoxSnk1N19pSXhONFBwbWlkWjEwLWcwNFZMUVVNNXp6TmM0LUtyWHU2REVlZ3NjVXJvVTlZbU1xZWJuakJqWThQeWdUdw?oc=5)
+
+`Tue, 15 Sep 2026 05:00:26 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxQU3ZUTGpWcWVXU1dpWTJ6UDVzRnFFZUxHNzMydDFJcXdrZEtPRFFHVFFxZHdWWDVwenNJOEFWbUtVVlNxUkxBa0dJb0cyNDl1aXhaOXFLUV9yNXdHZHB0dWlNazFNUG5UNGlOZUNtam1hQUtTZk9DOWdiaUdmYXoxSnk1N19pSXhONFBwbWlkWjEwLWcwNFZMUVVNNXp6TmM0LUtyWHU2REVlZ3NjVXJvVTlZbU1xZWJuakJqWThQeWdUdw?oc=5" target="_blank">L'étonnante amélioration des délais de paiement entre entreprises</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [EXCLUSIF - Salaires : ce qui attend les Français en 2027 - Les Echos](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcjBNUmhGWnB2NTJYME5ZdWN6LVJVZlJ5NEhENzN2QzQtbkhaelBlaGt1N0JfSTJLQWlrSXBFMXJadEdtMUVfQjNDN0xlcndscmI1cnBzVmw1eUt0eUFBcUdSaldScWRFbmh2NnhmUmpSMlhvaTIwN0FPWTk3QjNFeHlfYUdKWWRHSll4SGl2ZEVySTVOZ1dKWThRZGFDVlBYZUlEcmY1V1dIUWM?oc=5)
+
+`Tue, 15 Sep 2026 04:00:09 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcjBNUmhGWnB2NTJYME5ZdWN6LVJVZlJ5NEhENzN2QzQtbkhaelBlaGt1N0JfSTJLQWlrSXBFMXJadEdtMUVfQjNDN0xlcndscmI1cnBzVmw1eUt0eUFBcUdSaldScWRFbmh2NnhmUmpSMlhvaTIwN0FPWTk3QjNFeHlfYUdKWWRHSll4SGl2ZEVySTVOZ1dKWThRZGFDVlBYZUlEcmY1V1dIUWM?oc=5" target="_blank">EXCLUSIF - Salaires : ce qui attend les Français en 2027</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -690,13 +706,5 @@
 `Mon, 17 Aug 2026 04:00:09 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi8AFBVV95cUxOR2UyaFdHVHBmZktSQS00c3pXMmJCQ2huRnp3dno1Z0ZOYVAzZVdUY21ZVGJoS0ZONjI4VHBvLXFKQ1c5ZE1oTnIwRGNRQzJ6UkZETUtnLWp3b1E1NDJTZFp2TTNRSGtHaWhPX0Y5UGs2M1dVT1lWYW5oSGRuMTNoVXRLVnhQd0ROTDRtRFQ3cVNtN0w3U0JpOGQ3Mk1PQlZ4VlZwV0tKS3Vpd1d5bjlGNVhCOG9GRGdMbURZRlFyU1B4NmZLbEtOVVRpLWpOSldNZFVSM0w0UFZsbmFJV3V6UlZabmo4QnBuMXVpWFlYQjU?oc=5" target="_blank">Niches fiscales, retraites, déficit : les premières pistes du budget 2027 commencent à se dessiner</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Pouvoir d'achat : ce qui attend les Français - Les Echos](https://news.google.com/rss/articles/CBMiowFBVV95cUxOeC1xdk5JWW9JYVc2azJzS09qLXh4RUt1ZERhLVVleVVlSWFTTk5oc0lWUm5FdEdXY21DRmtHeGZMdHlPMG1MMThzREZlckZfdWJacDliU3A5THV3RElycjAtcG1IeEdSMXhGLUNEOXJhMmNTT0I1WHVFa1g4b0ZHektjVzVXd1VJOFk1YVZRSW00VGZWLVgtUzZadkNqSnIybHFN?oc=5)
-
-`Sun, 16 Aug 2026 07:00:13 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiowFBVV95cUxOeC1xdk5JWW9JYVc2azJzS09qLXh4RUt1ZERhLVVleVVlSWFTTk5oc0lWUm5FdEdXY21DRmtHeGZMdHlPMG1MMThzREZlckZfdWJacDliU3A5THV3RElycjAtcG1IeEdSMXhGLUNEOXJhMmNTT0I1WHVFa1g4b0ZHektjVzVXd1VJOFk1YVZRSW00VGZWLVgtUzZadkNqSnIybHFN?oc=5" target="_blank">Pouvoir d'achat : ce qui attend les Français</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
