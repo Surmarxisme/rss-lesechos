@@ -1,7 +1,23 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Tue, 15 Sep 2026 14:15:40 +0000`
-> 89 articles (30 derniers jours)
+> Derniere mise a jour : `Tue, 15 Sep 2026 15:58:22 +0000`
+> 91 articles (30 derniers jours)
+
+---
+
+### [VIDEO - Combien gagnent les ministres en France ? - Les Echos](https://news.google.com/rss/articles/CBMirwFBVV95cUxNb21GWTJjQXU2aFh0OWVndUhuOHMzakJvVEJyTE1MVWk1RFZnOGtlSGhZbHFaWTBydXdCSFNRNTF0S3BSVFZQeXJTRXQ5QlY4am5iaWdhMlctdk5tQVU3Ukp1RFZRbjFVMHpfWWxGVEZlZXljREZoQjZfT2hadEM5OV9mcGVfc0w0TTZzNUVoWHFEYmVVYzJ0cnJQdTZ1dUJpbkNmUTJTZ3dZS0YzbnI4?oc=5)
+
+`Tue, 15 Sep 2026 14:57:24 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxNb21GWTJjQXU2aFh0OWVndUhuOHMzakJvVEJyTE1MVWk1RFZnOGtlSGhZbHFaWTBydXdCSFNRNTF0S3BSVFZQeXJTRXQ5QlY4am5iaWdhMlctdk5tQVU3Ukp1RFZRbjFVMHpfWWxGVEZlZXljREZoQjZfT2hadEM5OV9mcGVfc0w0TTZzNUVoWHFEYmVVYzJ0cnJQdTZ1dUJpbkNmUTJTZ3dZS0YzbnI4?oc=5" target="_blank">VIDEO - Combien gagnent les ministres en France ?</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Formation professionnelle : l'Afpa engage une lourde restructuration - Les Echos](https://news.google.com/rss/articles/CBMivAFBVV95cUxOZHI1MUFIbzl4NjZrR195TzVLbFB5NkRMNmwzeGN6cUtrTEpNX2w2Um9IYWpJSVlFbHV5d2hsN19LbHcxUXptYVhQRHBhUkZWcE1ZWlU4akJ1d05GR21DLVRyb3BQVE5objFzOTh4ZkxjUW5MeG90MFB6MjFmZkc1MnlwamNXaEg3V2l5eExGclh5RnR6YjgybjNxbktsVVM0b1NTdzVVTHhUN1YwaXdsY1k4OHZkcXVaVHN4aQ?oc=5)
+
+`Tue, 15 Sep 2026 14:42:29 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxOZHI1MUFIbzl4NjZrR195TzVLbFB5NkRMNmwzeGN6cUtrTEpNX2w2Um9IYWpJSVlFbHV5d2hsN19LbHcxUXptYVhQRHBhUkZWcE1ZWlU4akJ1d05GR21DLVRyb3BQVE5objFzOTh4ZkxjUW5MeG90MFB6MjFmZkc1MnlwamNXaEg3V2l5eExGclh5RnR6YjgybjNxbktsVVM0b1NTdzVVTHhUN1YwaXdsY1k4OHZkcXVaVHN4aQ?oc=5" target="_blank">Formation professionnelle : l'Afpa engage une lourde restructuration</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
