@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Tue, 15 Sep 2026 10:30:57 +0000`
-> 88 articles (30 derniers jours)
+> Derniere mise a jour : `Tue, 15 Sep 2026 14:15:40 +0000`
+> 89 articles (30 derniers jours)
+
+---
+
+### [L'industrie veut se faire entendre des candidats à la présidentielle - Les Echos](https://news.google.com/rss/articles/CBMixgFBVV95cUxNYmFtUzhQSXZNYlZQVE1jUlN4TFAwS2l6NG40cVFDRHMxTnFNdUk2RWMwMFg1TmE5Zm1qTEdrMV95ZW16RlFOV3EwbmNEcENlaWpWcEVwazl6QXBlc09pVnNzZUxLbG5qUmt1bF80X1Rndk12VmVPblFOS0E4bjBiUEJSeWpvM1E5NnBldmlBQ0RLeHRiMXRTa296M3Y3N2JlcE9MOVltM0s1Nk0zNlJ1MWtLbzFoTTVWVk9OY2N6U3lORVhKb1E?oc=5)
+
+`Tue, 15 Sep 2026 13:22:41 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxNYmFtUzhQSXZNYlZQVE1jUlN4TFAwS2l6NG40cVFDRHMxTnFNdUk2RWMwMFg1TmE5Zm1qTEdrMV95ZW16RlFOV3EwbmNEcENlaWpWcEVwazl6QXBlc09pVnNzZUxLbG5qUmt1bF80X1Rndk12VmVPblFOS0E4bjBiUEJSeWpvM1E5NnBldmlBQ0RLeHRiMXRTa296M3Y3N2JlcE9MOVltM0s1Nk0zNlJ1MWtLbzFoTTVWVk9OY2N6U3lORVhKb1E?oc=5" target="_blank">L'industrie veut se faire entendre des candidats à la présidentielle</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
