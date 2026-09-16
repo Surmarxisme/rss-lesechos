@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Tue, 15 Sep 2026 19:53:56 +0000`
+> Derniere mise a jour : `Wed, 16 Sep 2026 10:20:01 +0000`
 > 92 articles (30 derniers jours)
+
+---
+
+### [Dette : pourquoi « l'effet boule de neige » est sur le point de s'enclencher en France - lesechos.fr](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPV1F3ZXlWY2RZM3YwdEJBTWY2QW5fT3p2ZmVqNGFiNjh1NkduZmpqUkRfV2ZEbHZfV01VRFo2ckluNldjcmF6TVdkWnVfVnNNTVBTX3JTdDNCdW5XbW9oaGhYYUljRU9EVlpqaFRqcGFpWnhhWU1ldFB6VkRPNDJIN2JiZXhraENuSzlvb2hkU1ZXNFVxMHZLOW4tZ0VDY0o0S3VONjFaZjEzTzY3WFJRR0plVDd3Q19GRUgyZ1BrLUlFR1I3ZXNCWFh2MGo1Rkh2MUUzM0tmUjB0bG8?oc=5)
+
+`Wed, 16 Sep 2026 04:00:08 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi2wFBVV95cUxPV1F3ZXlWY2RZM3YwdEJBTWY2QW5fT3p2ZmVqNGFiNjh1NkduZmpqUkRfV2ZEbHZfV01VRFo2ckluNldjcmF6TVdkWnVfVnNNTVBTX3JTdDNCdW5XbW9oaGhYYUljRU9EVlpqaFRqcGFpWnhhWU1ldFB6VkRPNDJIN2JiZXhraENuSzlvb2hkU1ZXNFVxMHZLOW4tZ0VDY0o0S3VONjFaZjEzTzY3WFJRR0plVDd3Q19GRUgyZ1BrLUlFR1I3ZXNCWFh2MGo1Rkh2MUUzM0tmUjB0bG8?oc=5" target="_blank">Dette : pourquoi « l'effet boule de neige » est sur le point de s'enclencher en France</a>&nbsp;&nbsp;<font color="#6f6f6f">lesechos.fr</font>
 
 ---
 
@@ -730,13 +738,5 @@
 `Mon, 17 Aug 2026 13:19:00 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMiowFBVV95cUxPUk4wR0cxNi1KUTE4aWQzLTRyNFdqSDFlMHVCWVlFMEtFd1d4V1l2MHd6LVNBdGo0MEJ6WDNZakVWdGpjNXJIZ3hab2NQc20tbm11bTI1ekhjajBIN1hWblpZVWh1Tk1fTGJEREFLbGlwakVnOWx0Q1MwV1VzaGdHSUFvMzFXVTBfMDNlR1dpbm5TWHNaWkFGa1EyRU9odXA1OHdZ?oc=5" target="_blank">La réforme du Code du travail par ordonnances</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Niches fiscales, retraites, déficit : les premières pistes du budget 2027 commencent à se dessiner - Les Echos](https://news.google.com/rss/articles/CBMi8AFBVV95cUxOR2UyaFdHVHBmZktSQS00c3pXMmJCQ2huRnp3dno1Z0ZOYVAzZVdUY21ZVGJoS0ZONjI4VHBvLXFKQ1c5ZE1oTnIwRGNRQzJ6UkZETUtnLWp3b1E1NDJTZFp2TTNRSGtHaWhPX0Y5UGs2M1dVT1lWYW5oSGRuMTNoVXRLVnhQd0ROTDRtRFQ3cVNtN0w3U0JpOGQ3Mk1PQlZ4VlZwV0tKS3Vpd1d5bjlGNVhCOG9GRGdMbURZRlFyU1B4NmZLbEtOVVRpLWpOSldNZFVSM0w0UFZsbmFJV3V6UlZabmo4QnBuMXVpWFlYQjU?oc=5)
-
-`Mon, 17 Aug 2026 04:00:09 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi8AFBVV95cUxOR2UyaFdHVHBmZktSQS00c3pXMmJCQ2huRnp3dno1Z0ZOYVAzZVdUY21ZVGJoS0ZONjI4VHBvLXFKQ1c5ZE1oTnIwRGNRQzJ6UkZETUtnLWp3b1E1NDJTZFp2TTNRSGtHaWhPX0Y5UGs2M1dVT1lWYW5oSGRuMTNoVXRLVnhQd0ROTDRtRFQ3cVNtN0w3U0JpOGQ3Mk1PQlZ4VlZwV0tKS3Vpd1d5bjlGNVhCOG9GRGdMbURZRlFyU1B4NmZLbEtOVVRpLWpOSldNZFVSM0w0UFZsbmFJV3V6UlZabmo4QnBuMXVpWFlYQjU?oc=5" target="_blank">Niches fiscales, retraites, déficit : les premières pistes du budget 2027 commencent à se dessiner</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
