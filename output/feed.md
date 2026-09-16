@@ -1,7 +1,7 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Wed, 16 Sep 2026 10:20:01 +0000`
-> 92 articles (30 derniers jours)
+> Derniere mise a jour : `Wed, 16 Sep 2026 14:07:53 +0000`
+> 91 articles (30 derniers jours)
 
 ---
 
@@ -730,13 +730,5 @@
 `Tue, 18 Aug 2026 04:30:11 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi4gFBVV95cUxQcmJ6ZHZKSGNrczE1RHhKSDBLQVE3bzk5ZWNkZlNsOVgtQ19SRlNzNldKYlBEeXpiOWFVc1JVS2VUbXVaUU40ZUo1Q2g0a0JldlBSR2NzenBDS2d6b3F6VGo2bWNPaldwSDh6RG9GS3lBNEw1UTNHWmdUcEx3Z1pyWDBXVTJuOXRaUUlPUFZFQzJQSG95b3FrVE8wYXNfSDBYb2lqcG9DZEE1SXRrODNIZWk0eGlyTld4MVNoYWVLQ285OTNZdnpiU1pvNlY4MlJodFQwZjZIWWdFLV9FY2U4VHh3?oc=5" target="_blank">Patrimoine, niveau de vie : la vérité des chiffres sur les écarts entre jeunes et retraités</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [La réforme du Code du travail par ordonnances - Les Echos](https://news.google.com/rss/articles/CBMiowFBVV95cUxPUk4wR0cxNi1KUTE4aWQzLTRyNFdqSDFlMHVCWVlFMEtFd1d4V1l2MHd6LVNBdGo0MEJ6WDNZakVWdGpjNXJIZ3hab2NQc20tbm11bTI1ekhjajBIN1hWblpZVWh1Tk1fTGJEREFLbGlwakVnOWx0Q1MwV1VzaGdHSUFvMzFXVTBfMDNlR1dpbm5TWHNaWkFGa1EyRU9odXA1OHdZ?oc=5)
-
-`Mon, 17 Aug 2026 13:19:00 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiowFBVV95cUxPUk4wR0cxNi1KUTE4aWQzLTRyNFdqSDFlMHVCWVlFMEtFd1d4V1l2MHd6LVNBdGo0MEJ6WDNZakVWdGpjNXJIZ3hab2NQc20tbm11bTI1ekhjajBIN1hWblpZVWh1Tk1fTGJEREFLbGlwakVnOWx0Q1MwV1VzaGdHSUFvMzFXVTBfMDNlR1dpbm5TWHNaWkFGa1EyRU9odXA1OHdZ?oc=5" target="_blank">La réforme du Code du travail par ordonnances</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
