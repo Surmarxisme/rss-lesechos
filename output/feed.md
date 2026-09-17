@@ -1,7 +1,23 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Thu, 17 Sep 2026 15:56:37 +0000`
-> 94 articles (30 derniers jours)
+> Derniere mise a jour : `Thu, 17 Sep 2026 19:56:00 +0000`
+> 96 articles (30 derniers jours)
+
+---
+
+### [Retraites, « repentis » fiscaux, déficit, prestations des étrangers : les principales annonces de Sébastien Lecornu sur le budget 2027 - Les Echos](https://news.google.com/rss/articles/CBMimgJBVV95cUxObS01eGc2X0tVRHctZnloYVZ5MTBPTGZlNjhqLWVzUV9QTjBoZGdrRmpyV0YwbFpqdnpBdXU2VDdrNGJZRHRYaVJFa3M1TnFQaUM3RVNfLWhCc2duQW9ubmlBb0wwYmJTVkpUNmh6aUlqbWpZM1JTVzBwWm1YZWo5VlQzek9feHRtWnlCZzZwM0J1YUY3WEZPMDhXUVYtXzBWeGl6Tnd1d2ZzSzQ1Uzdoc1pLdzBiWWdTZmlrc2t1RGNfb0x1SkZsT3dWb0FYN25NMlBBRjFIU1ZzNkhqNFVKV3lTazV2NVhuaTNBNm5xU2dsRkZtanZYbXJkWEhxUWg3aVFqWldfdFBzY1NSYjhSQVhuNVhnOWZ2MWc?oc=5)
+
+`Thu, 17 Sep 2026 16:30:15 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMimgJBVV95cUxObS01eGc2X0tVRHctZnloYVZ5MTBPTGZlNjhqLWVzUV9QTjBoZGdrRmpyV0YwbFpqdnpBdXU2VDdrNGJZRHRYaVJFa3M1TnFQaUM3RVNfLWhCc2duQW9ubmlBb0wwYmJTVkpUNmh6aUlqbWpZM1JTVzBwWm1YZWo5VlQzek9feHRtWnlCZzZwM0J1YUY3WEZPMDhXUVYtXzBWeGl6Tnd1d2ZzSzQ1Uzdoc1pLdzBiWWdTZmlrc2t1RGNfb0x1SkZsT3dWb0FYN25NMlBBRjFIU1ZzNkhqNFVKV3lTazV2NVhuaTNBNm5xU2dsRkZtanZYbXJkWEhxUWg3aVFqWldfdFBzY1NSYjhSQVhuNVhnOWZ2MWc?oc=5" target="_blank">Retraites, « repentis » fiscaux, déficit, prestations des étrangers : les principales annonces de Sébastien Lecornu sur le budget 2027</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Budget : Lecornu acte un nouveau dérapage du déficit et promet un effort massif de redressement en 2027 - Les Echos](https://news.google.com/rss/articles/CBMi-gFBVV95cUxOVG1HZF8tZlpoYVd1UzZRV0tpcllPWG1ZMlhBWWJrRGVIM2FMdlBfejV4dElyRFBoQTB5WXhNRnBHLTFxNWhROHBiMmhRenQ5VS1IYkMyay1KMDV2cFd0UEdfOFNkeldiTUROenJKNXNXajc2Zm1UMGlFUkpfQUlUVjBHR3ZTTmdxTndkWWZRUF9ESjg2bHF1QlBXMElvWHRYLWc5VkJrMjVwaFlMUFhiWk9IWVB2YVNSZG1aTWlGRHdJSVc3TUtQZWE2Ylo1dGx2dVZzYUw5d2QyY2JvOEw4eXB2cVNZaUtIVFhRS083aHN4dkV5WFRpS0dR?oc=5)
+
+`Thu, 17 Sep 2026 17:26:24 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi-gFBVV95cUxOVG1HZF8tZlpoYVd1UzZRV0tpcllPWG1ZMlhBWWJrRGVIM2FMdlBfejV4dElyRFBoQTB5WXhNRnBHLTFxNWhROHBiMmhRenQ5VS1IYkMyay1KMDV2cFd0UEdfOFNkeldiTUROenJKNXNXajc2Zm1UMGlFUkpfQUlUVjBHR3ZTTmdxTndkWWZRUF9ESjg2bHF1QlBXMElvWHRYLWc5VkJrMjVwaFlMUFhiWk9IWVB2YVNSZG1aTWlGRHdJSVc3TUtQZWE2Ylo1dGx2dVZzYUw5d2QyY2JvOEw4eXB2cVNZaUtIVFhRS083aHN4dkV5WFRpS0dR?oc=5" target="_blank">Budget : Lecornu acte un nouveau dérapage du déficit et promet un effort massif de redressement en 2027</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
