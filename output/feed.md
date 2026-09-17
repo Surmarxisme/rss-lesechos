@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Thu, 17 Sep 2026 10:29:36 +0000`
-> 93 articles (30 derniers jours)
+> Derniere mise a jour : `Thu, 17 Sep 2026 14:13:33 +0000`
+> 94 articles (30 derniers jours)
+
+---
+
+### [Productivité : comment la France peut rattraper son retard - Les Echos](https://news.google.com/rss/articles/CBMitwFBVV95cUxOZEJacmlFUERxMHM1cUhKNXA3THlKa2M2WWd0WUNXNTltbmlGNXNScVp1eVN1OU9MX1I3Y0Z1eGRQbDVpQzhoRHVBS2phZGdEbmgxRV9ISUdrYTdyUTI0QU04VkNrX1dhZFBOUW55ZFJuaDJEUmlPY0syX3czQlFMVzhXbGxHaGdJem1QT3ViSkE0ajVjaFpTVm1OSHNZUEZpWUZGLVl3YzRzMkRfaHlSMW1sTTlyaDQ?oc=5)
+
+`Thu, 17 Sep 2026 13:45:54 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxOZEJacmlFUERxMHM1cUhKNXA3THlKa2M2WWd0WUNXNTltbmlGNXNScVp1eVN1OU9MX1I3Y0Z1eGRQbDVpQzhoRHVBS2phZGdEbmgxRV9ISUdrYTdyUTI0QU04VkNrX1dhZFBOUW55ZFJuaDJEUmlPY0syX3czQlFMVzhXbGxHaGdJem1QT3ViSkE0ajVjaFpTVm1OSHNZUEZpWUZGLVl3YzRzMkRfaHlSMW1sTTlyaDQ?oc=5" target="_blank">Productivité : comment la France peut rattraper son retard</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
