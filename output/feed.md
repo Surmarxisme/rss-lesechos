@@ -1,7 +1,31 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Wed, 16 Sep 2026 19:47:33 +0000`
-> 92 articles (30 derniers jours)
+> Derniere mise a jour : `Thu, 17 Sep 2026 10:29:36 +0000`
+> 93 articles (30 derniers jours)
+
+---
+
+### [Allocations familiales, APL, prime d'activité : ces pistes d'économies sur la table au-delà des retraites - Les Echos](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNTWtzV3hfRDlQQ2ppeXFsaXBlWlZjYTg0cURqX09WTG5DWkpTOG55ZGNSaEVJQm1PdE9hUTJ3ZEU1OUE3LTRsdFcwLUpQNnVSRjZpcm5ZVHF5aXBvNms5OXVUc3g4X1AzdTREaEVhWDd6YTF0OG9aN09Tams2MWFDRlNTR3VzVXUtdWhxampkRnk0anlNVDF1ZmRXVzNCLS1Fcnd6YlR5N0dzLTE5b2pMRWRkSWlpd1ctZXY0dzk5X0RCNG1tZGgxdjdUZjVxcTgzVmxLaDRac212dUJ2YjM2SVVoRXdkTXF1a1M2YURaanFkaG51TVhn?oc=5)
+
+`Thu, 17 Sep 2026 04:00:09 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi9wFBVV95cUxNTWtzV3hfRDlQQ2ppeXFsaXBlWlZjYTg0cURqX09WTG5DWkpTOG55ZGNSaEVJQm1PdE9hUTJ3ZEU1OUE3LTRsdFcwLUpQNnVSRjZpcm5ZVHF5aXBvNms5OXVUc3g4X1AzdTREaEVhWDd6YTF0OG9aN09Tams2MWFDRlNTR3VzVXUtdWhxampkRnk0anlNVDF1ZmRXVzNCLS1Fcnd6YlR5N0dzLTE5b2pMRWRkSWlpd1ctZXY0dzk5X0RCNG1tZGgxdjdUZjVxcTgzVmxLaDRac212dUJ2YjM2SVVoRXdkTXF1a1M2YURaanFkaG51TVhn?oc=5" target="_blank">Allocations familiales, APL, prime d'activité : ces pistes d'économies sur la table au-delà des retraites</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Comment l'IA est devenu un nouveau terrain des négociations sociales en entreprise - Les Echos](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQlZYX0huZGdBbEl5ZVl6UUxDY05SNzVqeVF1ZEpyaVdWa0lDejlYR1JrajJycXhCcHRhS1dVczhCaVVOV05fRm00STl4dC04bVZ2dEVMUEN0emhsYkJjbWwzU0Q3OUZMcXR1WG1HQV9OZVlkdVZ6MDFJNklHNkNiVmF2WW5JYkNyU1JjWjBEQUl5a2JYaGxoTVdsZW8tYVlPLVdHNnZNWmJUV1VIR0Y0R0FpbmhHU0Z5VVYxZE01RjU0WlQwTUhkVDZWOEVWUDNnZVE?oc=5)
+
+`Thu, 17 Sep 2026 05:00:34 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQlZYX0huZGdBbEl5ZVl6UUxDY05SNzVqeVF1ZEpyaVdWa0lDejlYR1JrajJycXhCcHRhS1dVczhCaVVOV05fRm00STl4dC04bVZ2dEVMUEN0emhsYkJjbWwzU0Q3OUZMcXR1WG1HQV9OZVlkdVZ6MDFJNklHNkNiVmF2WW5JYkNyU1JjWjBEQUl5a2JYaGxoTVdsZW8tYVlPLVdHNnZNWmJUV1VIR0Y0R0FpbmhHU0Z5VVYxZE01RjU0WlQwTUhkVDZWOEVWUDNnZVE?oc=5" target="_blank">Comment l'IA est devenu un nouveau terrain des négociations sociales en entreprise</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Budget 2027 : combien les ministres français sont-ils payés par rapport à leurs homologues européens - Les Echos](https://news.google.com/rss/articles/CBMi9gFBVV95cUxObzNyRURuUjF1RmNlSURNd2U5bDZ2UE9mMkhnZW9yeVc2RG9YWVpxdjIyTEVpUGluaHAyYkc3UTNwUG5rQ1ZlcXNRekVrbGZlcWdRdU5PbE1vSHZ6R3lxLVUzc1MtWVcwWFRrLVBpaW11RzlCc2dwcGtnWkJ1ckhKRnJVN3VvRXFkSHZvUldJcnRhcjl3V2VRSTI0MmthZ1ZJQVNpOUhWUzZGd0tiLTdfd1hQQWxtRnZmYkxkY2NCbVRab01lQy1KZHU3QUo1UERaSmMzUDJVdFBJdC0xcVhiaHNrWWdhNjBPeEh6bjhLSDlEbklfZ2c?oc=5)
+
+`Thu, 17 Sep 2026 09:48:37 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi9gFBVV95cUxObzNyRURuUjF1RmNlSURNd2U5bDZ2UE9mMkhnZW9yeVc2RG9YWVpxdjIyTEVpUGluaHAyYkc3UTNwUG5rQ1ZlcXNRekVrbGZlcWdRdU5PbE1vSHZ6R3lxLVUzc1MtWVcwWFRrLVBpaW11RzlCc2dwcGtnWkJ1ckhKRnJVN3VvRXFkSHZvUldJcnRhcjl3V2VRSTI0MmthZ1ZJQVNpOUhWUzZGd0tiLTdfd1hQQWxtRnZmYkxkY2NCbVRab01lQy1KZHU3QUo1UERaSmMzUDJVdFBJdC0xcVhiaHNrWWdhNjBPeEh6bjhLSDlEbklfZ2c?oc=5" target="_blank">Budget 2027 : combien les ministres français sont-ils payés par rapport à leurs homologues européens</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -722,21 +746,5 @@
 `Tue, 18 Aug 2026 15:52:54 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxOLV8tQzlXWUZYb0NBeWVyNXo2RXdUTUdfQnlkbjZxWTJ4SDluTUNxWWwtcXA2dmZuUDdnV2QtNUtUY2hpYy1LelhlaGVKWHNkMGF5UmVEWGk5TDJkTTZURGpXandpYmgxOEN6N0VSQXEzRmxjRmRXRk1oa0hVLV9saGhDeTh1NWxHcWlJQU1PVzhhZ1hoY0pjTHBOS3lQbWtfbmVwdDJJR2RydXFRVU5pbHEwcEFCREdsTllCNFV4VWs?oc=5" target="_blank">Piratage du fisc : le gouvernement tente de déminer la crise</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Des jeunes sacrifiés, des retraités épargnés ? L'équité entre générations divise les économistes - Les Echos](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNdTYtV1dHTHVzVklLcmJSb0tqR2tUVUhPdGI5QUdIOXR1WFVzUTJ1cmk4QnFYN3czLWpobmluVmZWZUFadnBwdDd4ZlBLVlhWRV82VGI0SHJQT2pQbmhuajJXYWRUak91NnZOeVNjY2Q2dmY2T0dxazB6YkQ4M0VydEFRZ0FLZnN6c0tuY0JhMmlBR21xYnhYUXRrNDhSNzk5LWtyRG03OUZjSXVIb1huX1p4VkR2cXVnTG1iak81OXBPX2dTeTlSY3ZERHFJN3pGMUo2LXZ5dlBnRzJRTHJhVnlZcGRKUm8?oc=5)
-
-`Tue, 18 Aug 2026 05:20:10 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi5wFBVV95cUxNdTYtV1dHTHVzVklLcmJSb0tqR2tUVUhPdGI5QUdIOXR1WFVzUTJ1cmk4QnFYN3czLWpobmluVmZWZUFadnBwdDd4ZlBLVlhWRV82VGI0SHJQT2pQbmhuajJXYWRUak91NnZOeVNjY2Q2dmY2T0dxazB6YkQ4M0VydEFRZ0FLZnN6c0tuY0JhMmlBR21xYnhYUXRrNDhSNzk5LWtyRG03OUZjSXVIb1huX1p4VkR2cXVnTG1iak81OXBPX2dTeTlSY3ZERHFJN3pGMUo2LXZ5dlBnRzJRTHJhVnlZcGRKUm8?oc=5" target="_blank">Des jeunes sacrifiés, des retraités épargnés ? L'équité entre générations divise les économistes</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Patrimoine, niveau de vie : la vérité des chiffres sur les écarts entre jeunes et retraités - Les Echos](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQcmJ6ZHZKSGNrczE1RHhKSDBLQVE3bzk5ZWNkZlNsOVgtQ19SRlNzNldKYlBEeXpiOWFVc1JVS2VUbXVaUU40ZUo1Q2g0a0JldlBSR2NzenBDS2d6b3F6VGo2bWNPaldwSDh6RG9GS3lBNEw1UTNHWmdUcEx3Z1pyWDBXVTJuOXRaUUlPUFZFQzJQSG95b3FrVE8wYXNfSDBYb2lqcG9DZEE1SXRrODNIZWk0eGlyTld4MVNoYWVLQ285OTNZdnpiU1pvNlY4MlJodFQwZjZIWWdFLV9FY2U4VHh3?oc=5)
-
-`Tue, 18 Aug 2026 04:30:11 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi4gFBVV95cUxQcmJ6ZHZKSGNrczE1RHhKSDBLQVE3bzk5ZWNkZlNsOVgtQ19SRlNzNldKYlBEeXpiOWFVc1JVS2VUbXVaUU40ZUo1Q2g0a0JldlBSR2NzenBDS2d6b3F6VGo2bWNPaldwSDh6RG9GS3lBNEw1UTNHWmdUcEx3Z1pyWDBXVTJuOXRaUUlPUFZFQzJQSG95b3FrVE8wYXNfSDBYb2lqcG9DZEE1SXRrODNIZWk0eGlyTld4MVNoYWVLQ285OTNZdnpiU1pvNlY4MlJodFQwZjZIWWdFLV9FY2U4VHh3?oc=5" target="_blank">Patrimoine, niveau de vie : la vérité des chiffres sur les écarts entre jeunes et retraités</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
