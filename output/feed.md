@@ -1,7 +1,31 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Thu, 17 Sep 2026 19:56:00 +0000`
-> 96 articles (30 derniers jours)
+> Derniere mise a jour : `Fri, 18 Sep 2026 10:06:09 +0000`
+> 99 articles (30 derniers jours)
+
+---
+
+### [Retraites, allocations, arrêts maladie : comment le gouvernement veut serrer la vis sur les dépenses sociales - lesechos.fr](https://news.google.com/rss/articles/CBMi8gFBVV95cUxOVlVQZEUxUGV2NXBLYm5JcEJGakdFMlJTdnJBQVFNNU1MSXBNRzBSc0FfMndSdTltcmM5eUxsRkYxTHdJMDF3OS1CVHJBSzlzQVRZelBkeDJ1R3JSUDR1RFZYUm10em1fellhS20wa2pfN1hTNkdnN1dsRnlRd2VEdlBqbnJra3QzNlVWZlBPc0RVbkFYRFcwWnF2cXJkSlQ2OVh6Tk5uaFJfRjJNZ2FHbEo1a3RTMlpEdjMtYmUwb1llQWlxOFcwSWRablpISjV6WE90T0hKeFo3Y2llWVRqTEk1ZVRqZl9vVUFtQlhjMGxjQQ?oc=5)
+
+`Fri, 18 Sep 2026 04:30:28 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi8gFBVV95cUxOVlVQZEUxUGV2NXBLYm5JcEJGakdFMlJTdnJBQVFNNU1MSXBNRzBSc0FfMndSdTltcmM5eUxsRkYxTHdJMDF3OS1CVHJBSzlzQVRZelBkeDJ1R3JSUDR1RFZYUm10em1fellhS20wa2pfN1hTNkdnN1dsRnlRd2VEdlBqbnJra3QzNlVWZlBPc0RVbkFYRFcwWnF2cXJkSlQ2OVh6Tk5uaFJfRjJNZ2FHbEo1a3RTMlpEdjMtYmUwb1llQWlxOFcwSWRablpISjV6WE90T0hKeFo3Y2llWVRqTEk1ZVRqZl9vVUFtQlhjMGxjQQ?oc=5" target="_blank">Retraites, allocations, arrêts maladie : comment le gouvernement veut serrer la vis sur les dépenses sociales</a>&nbsp;&nbsp;<font color="#6f6f6f">lesechos.fr</font>
+
+---
+
+### [Arrêts maladie : quels sont les secteurs les mieux couverts ? - lesechos.fr](https://news.google.com/rss/articles/CBMisgFBVV95cUxPWC1BelBXcVNneDFudzRrRi1aeHVIcUZCOVJqZzJ5Y1FKYUhBVTJJT1Jxb3NHM3NlcVczYmFST0gxRlkzSWFINnE3cTJ4RDB6d0h2dl9WbTh0OF9LUWhOLTdsbHhRY0lYY3BBLW9SRE5HQnA3RlF6RzZwWXBBSS1USGtiTWlPR3pUbWEwcUtNVkRWWWM4MDBIVktMZUJSYzZBVExxUVhFSlVndTVyaUhOQTdB?oc=5)
+
+`Fri, 18 Sep 2026 04:30:08 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxPWC1BelBXcVNneDFudzRrRi1aeHVIcUZCOVJqZzJ5Y1FKYUhBVTJJT1Jxb3NHM3NlcVczYmFST0gxRlkzSWFINnE3cTJ4RDB6d0h2dl9WbTh0OF9LUWhOLTdsbHhRY0lYY3BBLW9SRE5HQnA3RlF6RzZwWXBBSS1USGtiTWlPR3pUbWEwcUtNVkRWWWM4MDBIVktMZUJSYzZBVExxUVhFSlVndTVyaUhOQTdB?oc=5" target="_blank">Arrêts maladie : quels sont les secteurs les mieux couverts ?</a>&nbsp;&nbsp;<font color="#6f6f6f">lesechos.fr</font>
+
+---
+
+### [« Droit dans le mur », « potion d'austérité »… Les choix budgétaires de Lecornu pour 2027 sous le feu des critiques - lesechos.fr](https://news.google.com/rss/articles/CBMi_gFBVV95cUxOaVRJMnBxWWJtY1RUQUNjdjZrSGR2aklfNG95cjUzbHBNUzk1UTlDY1NMZGFhczI4RWlaSWR3Z282cU5vUVk3ZUZzaERfSVV6VzJzYWtRMDA3aXBYMkFEcU9YTnJVd1Z2aGZoV1lLZFlfbTktcmJUZ3gybklTamhmUEVqNkt3SUVGRFgxTmxpd1RqNjNBM1Q0UzRBc1MwNmNJRnhfRFNXdXQ3cVU4UkFQX1hBZ0UwVktDOFNCU05BckIxSWRMcDBSNXhDdTBFQWhrQXBZNTB2NEtqTkxCOGFKcU9hWTNaU3M4aXRNb3M4NjJNZnhPUkZZSl9qU3ZDUQ?oc=5)
+
+`Fri, 18 Sep 2026 05:50:21 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi_gFBVV95cUxOaVRJMnBxWWJtY1RUQUNjdjZrSGR2aklfNG95cjUzbHBNUzk1UTlDY1NMZGFhczI4RWlaSWR3Z282cU5vUVk3ZUZzaERfSVV6VzJzYWtRMDA3aXBYMkFEcU9YTnJVd1Z2aGZoV1lLZFlfbTktcmJUZ3gybklTamhmUEVqNkt3SUVGRFgxTmxpd1RqNjNBM1Q0UzRBc1MwNmNJRnhfRFNXdXQ3cVU4UkFQX1hBZ0UwVktDOFNCU05BckIxSWRMcDBSNXhDdTBFQWhrQXBZNTB2NEtqTkxCOGFKcU9hWTNaU3M4aXRNb3M4NjJNZnhPUkZZSl9qU3ZDUQ?oc=5" target="_blank">« Droit dans le mur », « potion d'austérité »… Les choix budgétaires de Lecornu pour 2027 sous le feu des critiques</a>&nbsp;&nbsp;<font color="#6f6f6f">lesechos.fr</font>
 
 ---
 
