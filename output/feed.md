@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Fri, 18 Sep 2026 13:31:18 +0000`
+> Derniere mise a jour : `Fri, 18 Sep 2026 15:31:37 +0000`
 > 98 articles (30 derniers jours)
+
+---
+
+### [Budget 2027 : ce que cachent les 54 milliards d'euros d'efforts mis en avant par Sébastien Lecornu - Les Echos](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNeFY4QWgzUjlVZ3pzUHNvQXY3bEhvUXVxRC1vQjJCbWJtYW9iRzR5NUFOams3TmtwNHNxZ1MwU0ROdTlyZjhKMkdydExEblZqc0ozQVI5SkNKZ0N2NkFYLTlxU093VEhQSEtXUHpXUmtCa01Xd0loaVFQY1pmQWZseXVOTUhLNzRwM1UwajJrems0WTBzb1otY1NPajQtV2k4d0lKVFM1Y1dQc0x1dzMyZmZoSDU0YVJ0bFZMR0pkNmNqeGpVZHRwSllKQ2hrZU1VQXg4RU9lUjFNb1FncGFMWlo5VmViOWpndjFCR2xmeno?oc=5)
+
+`Fri, 18 Sep 2026 15:19:28 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi8AFBVV95cUxNeFY4QWgzUjlVZ3pzUHNvQXY3bEhvUXVxRC1vQjJCbWJtYW9iRzR5NUFOams3TmtwNHNxZ1MwU0ROdTlyZjhKMkdydExEblZqc0ozQVI5SkNKZ0N2NkFYLTlxU093VEhQSEtXUHpXUmtCa01Xd0loaVFQY1pmQWZseXVOTUhLNzRwM1UwajJrems0WTBzb1otY1NPajQtV2k4d0lKVFM1Y1dQc0x1dzMyZmZoSDU0YVJ0bFZMR0pkNmNqeGpVZHRwSllKQ2hrZU1VQXg4RU9lUjFNb1FncGFMWlo5VmViOWpndjFCR2xmeno?oc=5" target="_blank">Budget 2027 : ce que cachent les 54 milliards d'euros d'efforts mis en avant par Sébastien Lecornu</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -778,13 +786,5 @@
 `Wed, 19 Aug 2026 15:35:59 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxQdkhvWjdvNE0xY3dMczhfOUtMUmt5cFE1RXJjNTlBR1JMZV9Td25KUGlpQWNUaElDWUh3ZW9TUzVCblB2SGNMUW1WXzFoZUdqamZmaW50YmpkdmwxQ01LUUVFQVM3R0pHRHlBRUhWdGtZZkkyRlNMUGZyQzlLWlBGQTBqU19mMHczbWs4ZjFKX2ZOa3J2MHdIR2xLN0kteTl5MEtkYzFxVF9QbjA5Sm5CbjJRRzREUEQ1MEE?oc=5" target="_blank">Canicule : la deuxième vague de chaleur de l'été a fait 1.243 morts</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Emplois vacants, une baisse qui se confirme - Les Echos](https://news.google.com/rss/articles/CBMingFBVV95cUxNLXdHdW1jeFlnWEEwbWVmVGIyemlJa2twUE5fMDZ5UVZaYldCbzhZTWxacUtiZ3llMmJpc2lqYU1hVzlJT3RfVWNDbWdBZkFhcEsxN194YUdvdl95V3lSNnZfVUlDdTlBdnkyWVpWX09yUmtuclRkYnpuX0NpaWttR1psSGxPVU5YdmV3dlpoWUFvN3FWWlE4QjFZWkl5Zw?oc=5)
-
-`Wed, 19 Aug 2026 15:24:56 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMingFBVV95cUxNLXdHdW1jeFlnWEEwbWVmVGIyemlJa2twUE5fMDZ5UVZaYldCbzhZTWxacUtiZ3llMmJpc2lqYU1hVzlJT3RfVWNDbWdBZkFhcEsxN194YUdvdl95V3lSNnZfVUlDdTlBdnkyWVpWX09yUmtuclRkYnpuX0NpaWttR1psSGxPVU5YdmV3dlpoWUFvN3FWWlE4QjFZWkl5Zw?oc=5" target="_blank">Emplois vacants, une baisse qui se confirme</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
