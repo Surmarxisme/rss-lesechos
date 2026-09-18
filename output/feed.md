@@ -1,7 +1,7 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Fri, 18 Sep 2026 15:31:37 +0000`
-> 98 articles (30 derniers jours)
+> Derniere mise a jour : `Fri, 18 Sep 2026 19:15:53 +0000`
+> 97 articles (30 derniers jours)
 
 ---
 
@@ -778,13 +778,5 @@
 `Thu, 20 Aug 2026 16:07:16 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcVBHYXJtLVEtN0xDR2JnWHAtSjBidmpqeFZROHhnVkFRcjBqRFEya0ZpZ1lpX0lWUTlaYzBNNGJxNUVCOGhMVk91MWdEdnBHZkFfT1dKUFljcTNKMExRb2ZaNG1YNXp6YW5uZUt3d3AxdXZSYlVwVXd4R3ZDWFlKYkEtQ3NCQzRKdFNsRlFKZGNYS0E3NndNVUNIMGo4T3piU19BU1RYeXBPNm4xOGNZWFFKTm41c3FPMnlmamhNVzI4Zll5WExabkFWLUVnRHNianNkcQ?oc=5" target="_blank">Budget 2027: Bercy alerte sur les conséquences coûteuses d'une loi spéciale</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Canicule : la deuxième vague de chaleur de l'été a fait 1.243 morts - Les Echos](https://news.google.com/rss/articles/CBMiugFBVV95cUxQdkhvWjdvNE0xY3dMczhfOUtMUmt5cFE1RXJjNTlBR1JMZV9Td25KUGlpQWNUaElDWUh3ZW9TUzVCblB2SGNMUW1WXzFoZUdqamZmaW50YmpkdmwxQ01LUUVFQVM3R0pHRHlBRUhWdGtZZkkyRlNMUGZyQzlLWlBGQTBqU19mMHczbWs4ZjFKX2ZOa3J2MHdIR2xLN0kteTl5MEtkYzFxVF9QbjA5Sm5CbjJRRzREUEQ1MEE?oc=5)
-
-`Wed, 19 Aug 2026 15:35:59 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxQdkhvWjdvNE0xY3dMczhfOUtMUmt5cFE1RXJjNTlBR1JMZV9Td25KUGlpQWNUaElDWUh3ZW9TUzVCblB2SGNMUW1WXzFoZUdqamZmaW50YmpkdmwxQ01LUUVFQVM3R0pHRHlBRUhWdGtZZkkyRlNMUGZyQzlLWlBGQTBqU19mMHczbWs4ZjFKX2ZOa3J2MHdIR2xLN0kteTl5MEtkYzFxVF9QbjA5Sm5CbjJRRzREUEQ1MEE?oc=5" target="_blank">Canicule : la deuxième vague de chaleur de l'été a fait 1.243 morts</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
