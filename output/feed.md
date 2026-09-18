@@ -1,7 +1,7 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Fri, 18 Sep 2026 10:06:09 +0000`
-> 99 articles (30 derniers jours)
+> Derniere mise a jour : `Fri, 18 Sep 2026 13:31:18 +0000`
+> 98 articles (30 derniers jours)
 
 ---
 
@@ -778,14 +778,6 @@
 `Wed, 19 Aug 2026 15:35:59 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxQdkhvWjdvNE0xY3dMczhfOUtMUmt5cFE1RXJjNTlBR1JMZV9Td25KUGlpQWNUaElDWUh3ZW9TUzVCblB2SGNMUW1WXzFoZUdqamZmaW50YmpkdmwxQ01LUUVFQVM3R0pHRHlBRUhWdGtZZkkyRlNMUGZyQzlLWlBGQTBqU19mMHczbWs4ZjFKX2ZOa3J2MHdIR2xLN0kteTl5MEtkYzFxVF9QbjA5Sm5CbjJRRzREUEQ1MEE?oc=5" target="_blank">Canicule : la deuxième vague de chaleur de l'été a fait 1.243 morts</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Rentrée scolaire : baisse surprise du prix des fournitures - Les Echos](https://news.google.com/rss/articles/CBMisAFBVV95cUxPUnlZRGtYN2RRWXNvVkZlZk5memc1cXlWaGtNNk5CMER6TGZKMU4wbGZ1QTJFakZhTjREMWVaQVBnX2xrd3RqcWxjbEdpQklGZ29TMG5XNmhoX0NtV3AtNFNqdURVRFFpMG5kSXNkbGVHdW1DbkRnTVNsem1QLWZzWFpYd0FCSjJTaE9IYXo5R0xIVUN5MVhlUHFGMXVicXpLYllhWi1YZlpST1NyNWxHeA?oc=5)
-
-`Wed, 19 Aug 2026 13:05:32 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxPUnlZRGtYN2RRWXNvVkZlZk5memc1cXlWaGtNNk5CMER6TGZKMU4wbGZ1QTJFakZhTjREMWVaQVBnX2xrd3RqcWxjbEdpQklGZ29TMG5XNmhoX0NtV3AtNFNqdURVRFFpMG5kSXNkbGVHdW1DbkRnTVNsem1QLWZzWFpYd0FCSjJTaE9IYXo5R0xIVUN5MVhlUHFGMXVicXpLYllhWi1YZlpST1NyNWxHeA?oc=5" target="_blank">Rentrée scolaire : baisse surprise du prix des fournitures</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
