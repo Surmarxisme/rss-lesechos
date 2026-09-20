@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Sat, 19 Sep 2026 12:58:29 +0000`
-> 102 articles (30 derniers jours)
+> Derniere mise a jour : `Sun, 20 Sep 2026 13:30:22 +0000`
+> 98 articles (30 derniers jours)
+
+---
+
+### [Fonctionnaires : la grogne monte face au nouveau gel des salaires prévu dans le budget 2027 - Les Echos](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZHdkbXRDcFJJUDJIZDBWRUdaczN5QkZBWDk1YUh2M1lQb0RvYmhJTVdIZ2lvSjU1dURVT2lvZEJpYldFbmpXTDVXYnFwVy1HQkRGb2JZeWtDbFNMLXlKcXA1eDg1aHZlV2NocDhhT3RNc2hWNTR2bjA0SkpibzlGRF9hRHRmNjdtNk9xVDJxNDc5cmVyRkVfQU5PcDhrWVpNbHBZV2w5MlZaa18xcmxNUmc4SnRfTGFJaWRjcU1DWVlaZUJ2aF8xNnVBbE1KX2NDRFNlbWtBN1F1MTJn?oc=5)
+
+`Sun, 20 Sep 2026 07:15:12 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZHdkbXRDcFJJUDJIZDBWRUdaczN5QkZBWDk1YUh2M1lQb0RvYmhJTVdIZ2lvSjU1dURVT2lvZEJpYldFbmpXTDVXYnFwVy1HQkRGb2JZeWtDbFNMLXlKcXA1eDg1aHZlV2NocDhhT3RNc2hWNTR2bjA0SkpibzlGRF9hRHRmNjdtNk9xVDJxNDc5cmVyRkVfQU5PcDhrWVpNbHBZV2w5MlZaa18xcmxNUmc4SnRfTGFJaWRjcU1DWVlaZUJ2aF8xNnVBbE1KX2NDRFNlbWtBN1F1MTJn?oc=5" target="_blank">Fonctionnaires : la grogne monte face au nouveau gel des salaires prévu dans le budget 2027</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -778,45 +786,5 @@
 `Fri, 21 Aug 2026 14:17:58 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZGdWbVFpckg4MTdSWmxybU5YaExvR0locldad0JtSDhLb3Rta2tueXNLTUZHbk9wR0lfS05GcVZKMGRjdFBia0hEcV8zTWJCZTVEdEhCODR3QkMzeFNjOC1aM0N4Ny1Yb01STVo4V1hCb09JaUVObXp3TDA4ZV9ZNGN6V0hYM1BFdXZwb1BhTmgwM2tnUkc2aS1iRllZTWdmWG1fVHZrNHdELW52dDBxZzRMMjUyWk02Slg0TGFpQmhabTUtN09QX3ZvV0hqWFdtTk04TXY4NERnQ3lkbTNNcA?oc=5" target="_blank">Dette : pourquoi l'annulation proposée par Jean-Luc Mélenchon ne peut pas fonctionner</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Les industriels digèrent l'impact de la guerre en Iran - Les Echos](https://news.google.com/rss/articles/CBMiswFBVV95cUxOdzRiTnpYS3dOc2F3ZE1aWXlwQmFuUElkbUt2NGxRVlRkbm5VdEs5MEpUTGFLaDEycm5nVEJ5cHZnUFc5bnNrc2JqVUt1WVVOSVBCZEJSZEYySHMtMFgyMy03NFlDNGZBaGNONzY2Z3dQaWZzYTluQkJUbWUwSE5DbGpYbG1RckdLcVNXUVVSZlpjVml1X0lGUzNQVnNic3BzSU9QdVNxVkp1N1JZQmY5YjRnWQ?oc=5)
-
-`Fri, 21 Aug 2026 10:25:44 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxOdzRiTnpYS3dOc2F3ZE1aWXlwQmFuUElkbUt2NGxRVlRkbm5VdEs5MEpUTGFLaDEycm5nVEJ5cHZnUFc5bnNrc2JqVUt1WVVOSVBCZEJSZEYySHMtMFgyMy03NFlDNGZBaGNONzY2Z3dQaWZzYTluQkJUbWUwSE5DbGpYbG1RckdLcVNXUVVSZlpjVml1X0lGUzNQVnNic3BzSU9QdVNxVkp1N1JZQmY5YjRnWQ?oc=5" target="_blank">Les industriels digèrent l'impact de la guerre en Iran</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Hongrie, Etats-Unis, Italie : comment l'extrême droite affaiblit les syndicats - Les Echos](https://news.google.com/rss/articles/CBMixwFBVV95cUxOWTBuS2dub1d1d2pycV90V1RucVNhejJYUi0wQ2VSSHRxTkstUnlKd0xvWklxZ2NBdDR5R09vWk5pTFBsQ2o0dkRJLThKYjJBZ1c5Ymx4LWVxMkVHcGdyVWdMbHJKSFJCNEczaFNiYUd2aFdqS0VQby13UzdSWkowRG9lbW9uSXM2dHZBSkZVOExhS0VUaVBtc3VmS2hLTGlTblhUaEVaVlFFZ0Vtb3hEanpFSnk1bGR0VnFhWkVqV0M4NGRoNFRZ?oc=5)
-
-`Fri, 21 Aug 2026 07:10:08 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMixwFBVV95cUxOWTBuS2dub1d1d2pycV90V1RucVNhejJYUi0wQ2VSSHRxTkstUnlKd0xvWklxZ2NBdDR5R09vWk5pTFBsQ2o0dkRJLThKYjJBZ1c5Ymx4LWVxMkVHcGdyVWdMbHJKSFJCNEczaFNiYUd2aFdqS0VQby13UzdSWkowRG9lbW9uSXM2dHZBSkZVOExhS0VUaVBtc3VmS2hLTGlTblhUaEVaVlFFZ0Vtb3hEanpFSnk1bGR0VnFhWkVqV0M4NGRoNFRZ?oc=5" target="_blank">Hongrie, Etats-Unis, Italie : comment l'extrême droite affaiblit les syndicats</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Budget 2027 : Bercy étudie une reconduction de la surtaxe sur les bénéfices des grands groupes - Les Echos](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQVlB3M2pFU3RNRGhWLUdQazFsYnVhSFJiUUhyc2I4eVA0YlJqTFA1N2g1UzlCT29EMlNCNVdlakNBSTc4LWtOVEJ0S0dkM3M0NjZ6cmtVOFN0X2wwYk9PRDhodkFVQ3cxMmNycDRETGFVclFIWHRLVVVDVGp4TmgweFp3YVQyQnZFZmdoS1Fva0N0MmRUbWJNMWRCNlN0UXhKMm1wUkM0TlM4OFZNdlB1ZkdjbzN5bjdDLXF4X3lfdHRSdTFmNDhVSm8yUHJUR0s3TkJjaTFmQnlRRWpWc3VVc250My1lUTlzR2JaSkFn?oc=5)
-
-`Fri, 21 Aug 2026 04:20:10 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi7gFBVV95cUxQVlB3M2pFU3RNRGhWLUdQazFsYnVhSFJiUUhyc2I4eVA0YlJqTFA1N2g1UzlCT29EMlNCNVdlakNBSTc4LWtOVEJ0S0dkM3M0NjZ6cmtVOFN0X2wwYk9PRDhodkFVQ3cxMmNycDRETGFVclFIWHRLVVVDVGp4TmgweFp3YVQyQnZFZmdoS1Fva0N0MmRUbWJNMWRCNlN0UXhKMm1wUkM0TlM4OFZNdlB1ZkdjbzN5bjdDLXF4X3lfdHRSdTFmNDhVSm8yUHJUR0s3TkJjaTFmQnlRRWpWc3VVc250My1lUTlzR2JaSkFn?oc=5" target="_blank">Budget 2027 : Bercy étudie une reconduction de la surtaxe sur les bénéfices des grands groupes</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Franchises médicales : le gouvernement fait marche arrière - Les Echos](https://news.google.com/rss/articles/CBMisAFBVV95cUxOSDhQdDJqN2VHREp6LUlpX1RVNGJOSUpBOG42QjhhUHBnSlVmQlJrY1JwcVYySEtuaThsdFNKR2NIS3U1SmFGelU1eWd2eVRRakRKaE5ENFpxTURxckkyRWtrNHEyWkstUlZwOWpxc1dJTksxUlNXVVpYdFhsNXpnQXBFdTR2TUF2Uk9wcEkzd2hxOXFBaWxNLWt5N3UwZHZIdzAwTEkwYTR1RXA2WG5ISQ?oc=5)
-
-`Thu, 20 Aug 2026 19:11:59 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxOSDhQdDJqN2VHREp6LUlpX1RVNGJOSUpBOG42QjhhUHBnSlVmQlJrY1JwcVYySEtuaThsdFNKR2NIS3U1SmFGelU1eWd2eVRRakRKaE5ENFpxTURxckkyRWtrNHEyWkstUlZwOWpxc1dJTksxUlNXVVpYdFhsNXpnQXBFdTR2TUF2Uk9wcEkzd2hxOXFBaWxNLWt5N3UwZHZIdzAwTEkwYTR1RXA2WG5ISQ?oc=5" target="_blank">Franchises médicales : le gouvernement fait marche arrière</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Budget 2027: Bercy alerte sur les conséquences coûteuses d'une loi spéciale - Les Echos](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcVBHYXJtLVEtN0xDR2JnWHAtSjBidmpqeFZROHhnVkFRcjBqRFEya0ZpZ1lpX0lWUTlaYzBNNGJxNUVCOGhMVk91MWdEdnBHZkFfT1dKUFljcTNKMExRb2ZaNG1YNXp6YW5uZUt3d3AxdXZSYlVwVXd4R3ZDWFlKYkEtQ3NCQzRKdFNsRlFKZGNYS0E3NndNVUNIMGo4T3piU19BU1RYeXBPNm4xOGNZWFFKTm41c3FPMnlmamhNVzI4Zll5WExabkFWLUVnRHNianNkcQ?oc=5)
-
-`Thu, 20 Aug 2026 16:07:16 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcVBHYXJtLVEtN0xDR2JnWHAtSjBidmpqeFZROHhnVkFRcjBqRFEya0ZpZ1lpX0lWUTlaYzBNNGJxNUVCOGhMVk91MWdEdnBHZkFfT1dKUFljcTNKMExRb2ZaNG1YNXp6YW5uZUt3d3AxdXZSYlVwVXd4R3ZDWFlKYkEtQ3NCQzRKdFNsRlFKZGNYS0E3NndNVUNIMGo4T3piU19BU1RYeXBPNm4xOGNZWFFKTm41c3FPMnlmamhNVzI4Zll5WExabkFWLUVnRHNianNkcQ?oc=5" target="_blank">Budget 2027: Bercy alerte sur les conséquences coûteuses d'une loi spéciale</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
