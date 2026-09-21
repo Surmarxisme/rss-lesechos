@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Mon, 21 Sep 2026 17:31:41 +0000`
-> 103 articles (30 derniers jours)
+> Derniere mise a jour : `Mon, 21 Sep 2026 20:40:59 +0000`
+> 104 articles (30 derniers jours)
+
+---
+
+### [Budget : la Cour des comptes remet sur la table la question de l'imposition des hauts patrimoines - Les Echos](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNUS1QTGsyalA0MTVTa2pWaE1tVm8zOUdpSkZNV01uaFRjQXJ5MmE5NDRwMXZIUUhHM01GYXp0NWlkenNxQjF5ZV9JSVZwX3hBSHZTVUR2Q3hCY3FyT295dmhxS0RDbjBpYlhvVWJsS29KWHNDM05PbWdWRWtGd3NhdjFrMWJaVWZyUjhHZmYtMlZWMEVBdDJXWHd4SlZnVUxEOEZOelgtQVpPRjJ6aXRuUExKQ2gwUmk3aWQtVTVrRVZIVmo1N3Jmb2I5MndLMXZ5ci14QTBsY3h6ZWlRdGx6dUR4LWNJbnZMUWJNbm5ycjY?oc=5)
+
+`Mon, 21 Sep 2026 17:41:19 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi8AFBVV95cUxNUS1QTGsyalA0MTVTa2pWaE1tVm8zOUdpSkZNV01uaFRjQXJ5MmE5NDRwMXZIUUhHM01GYXp0NWlkenNxQjF5ZV9JSVZwX3hBSHZTVUR2Q3hCY3FyT295dmhxS0RDbjBpYlhvVWJsS29KWHNDM05PbWdWRWtGd3NhdjFrMWJaVWZyUjhHZmYtMlZWMEVBdDJXWHd4SlZnVUxEOEZOelgtQVpPRjJ6aXRuUExKQ2gwUmk3aWQtVTVrRVZIVmo1N3Jmb2I5MndLMXZ5ci14QTBsY3h6ZWlRdGx6dUR4LWNJbnZMUWJNbm5ycjY?oc=5" target="_blank">Budget : la Cour des comptes remet sur la table la question de l'imposition des hauts patrimoines</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
