@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Mon, 21 Sep 2026 11:10:11 +0000`
-> 100 articles (30 derniers jours)
+> Derniere mise a jour : `Mon, 21 Sep 2026 15:48:39 +0000`
+> 101 articles (30 derniers jours)
+
+---
+
+### [Chute de la natalité : l'étonnant paradoxe du manque de places en crèches - Les Echos](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWEJKQS1yZDRUOFE1ckFVYk9SMHpqMWtpN3hkbHY0ZndwbU4zWVZ3UHE2Qll3aHFTazZTUFRWZFFxZXY4OEtPVTJ5aE03QWtYem5wYllUZ1U1VXR6dlo2VVM3X2NncVI5TmhkZkxEQ2d1MU1zTi1sNG02QnQ5LWdheXFfU2o4c20xTEQ5TnZaME14S1RIRHdsRVhjaTNuT1VTenJPVzlwQUwyQUtYSzA3aGhNVVVVSTVuSXV2aG1fcXp6M0k?oc=5)
+
+`Mon, 21 Sep 2026 14:57:08 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWEJKQS1yZDRUOFE1ckFVYk9SMHpqMWtpN3hkbHY0ZndwbU4zWVZ3UHE2Qll3aHFTazZTUFRWZFFxZXY4OEtPVTJ5aE03QWtYem5wYllUZ1U1VXR6dlo2VVM3X2NncVI5TmhkZkxEQ2d1MU1zTi1sNG02QnQ5LWdheXFfU2o4c20xTEQ5TnZaME14S1RIRHdsRVhjaTNuT1VTenJPVzlwQUwyQUtYSzA3aGhNVVVVSTVuSXV2aG1fcXp6M0k?oc=5" target="_blank">Chute de la natalité : l'étonnant paradoxe du manque de places en crèches</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
