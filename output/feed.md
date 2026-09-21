@@ -1,7 +1,23 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Mon, 21 Sep 2026 15:48:39 +0000`
-> 101 articles (30 derniers jours)
+> Derniere mise a jour : `Mon, 21 Sep 2026 17:31:41 +0000`
+> 103 articles (30 derniers jours)
+
+---
+
+### [EXCLUSIF - Arrêts maladie : le gouvernement va demander aux partenaires sociaux de trouver au moins 600 millions d'économies - Les Echos](https://news.google.com/rss/articles/CBMihAJBVV95cUxPSHFFQXBwNGdiS0szRFR0ajdfZDNyS054b1Z5OV9tdWFWTFJISWRFM2JhcUNwaTk2TU9yQlRfa0hDTkJiSi1BemdfX0pHR1JPTlduX3dKWF9wMkxTTmlpTnR1ejliRlRsUjBiSFhHRkJiWDNHQkFUbjhDdFJEbllUc1NvWjlaQ3NYbllvNnl1UDVVVFNQZmdDU3M0LXh0bFBmcHM4WWswd3owQVNscHlEUUVzV2hhZWNHS0EwTHpCU25VanlGQmtZQ3pzTmNUanBLVVJJc3JUSFY1QmJhY1B1WVM1TFllbjV4b3k1OVhOOENMeDdzb3FsWWsxYS1SWTFSWXJjLQ?oc=5)
+
+`Mon, 21 Sep 2026 15:54:12 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMihAJBVV95cUxPSHFFQXBwNGdiS0szRFR0ajdfZDNyS054b1Z5OV9tdWFWTFJISWRFM2JhcUNwaTk2TU9yQlRfa0hDTkJiSi1BemdfX0pHR1JPTlduX3dKWF9wMkxTTmlpTnR1ejliRlRsUjBiSFhHRkJiWDNHQkFUbjhDdFJEbllUc1NvWjlaQ3NYbllvNnl1UDVVVFNQZmdDU3M0LXh0bFBmcHM4WWswd3owQVNscHlEUUVzV2hhZWNHS0EwTHpCU25VanlGQmtZQ3pzTmNUanBLVVJJc3JUSFY1QmJhY1B1WVM1TFllbjV4b3k1OVhOOENMeDdzb3FsWWsxYS1SWTFSWXJjLQ?oc=5" target="_blank">EXCLUSIF - Arrêts maladie : le gouvernement va demander aux partenaires sociaux de trouver au moins 600 millions d'économies</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Budget 2027 : la charge de la dette grimpe encore plus vite que prévu - Les Echos](https://news.google.com/rss/articles/CBMizAFBVV95cUxQbXJ5azlxeWJMdmkybUQ1WGdIR016d1lKZnRURVJEMUUtUy1qT0dnX1RVMjliWHB0Z09xNldiVElBd2V5MlROSThTLU5GR0wyVG9HMktWM2hJa0NmdDNrQVV0R3BGY283aW5RLUdISGxBY2lHWVlBalRSLTVQVVQ5bWdqZ3BFdGhrSmNHV1l3QmhSN3BaZVBVaU1CSWdwcFJfdmowVUFsQVVZQ1c5d0NzaVlJTWx6QUJjWGdjOUdYMW8xMjVVTElJUFpPSEI?oc=5)
+
+`Mon, 21 Sep 2026 15:55:34 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMizAFBVV95cUxQbXJ5azlxeWJMdmkybUQ1WGdIR016d1lKZnRURVJEMUUtUy1qT0dnX1RVMjliWHB0Z09xNldiVElBd2V5MlROSThTLU5GR0wyVG9HMktWM2hJa0NmdDNrQVV0R3BGY283aW5RLUdISGxBY2lHWVlBalRSLTVQVVQ5bWdqZ3BFdGhrSmNHV1l3QmhSN3BaZVBVaU1CSWdwcFJfdmowVUFsQVVZQ1c5d0NzaVlJTWx6QUJjWGdjOUdYMW8xMjVVTElJUFpPSEI?oc=5" target="_blank">Budget 2027 : la charge de la dette grimpe encore plus vite que prévu</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
