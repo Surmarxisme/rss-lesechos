@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Tue, 22 Sep 2026 16:00:32 +0000`
-> 107 articles (30 derniers jours)
+> Derniere mise a jour : `Tue, 22 Sep 2026 19:57:10 +0000`
+> 108 articles (30 derniers jours)
+
+---
+
+### [Budget 2027 : le plan du ministère du Travail pour économiser 2,5 milliards d'euros - Les Echos](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVmwweVRSUVdSUk91SEhMRjgwRENYWHlpQWZRRmptNWtHWTNlVXlabnBJdEpxVEV0d0x3Sml1UUR1d0ZLdUVtbUpkUFQ5cXVXZTAySDlxUnhEUmN2UFpsamlmWUZfc1A1cUpZWDU0NTNnZ0JtV2VaVHBkSm1nbGxDZERsZVdSN1hnTllDNTkxanBzNENpX05RY1owR0NRS09NZ1ZiNDlFekZ4VzdIV05sUlFSWF9PM3dia2NYVDlJbjRmVERfNDlEa3VPTWtQNVo5OUQwRkJBaVBDeVlp?oc=5)
+
+`Tue, 22 Sep 2026 17:00:00 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVmwweVRSUVdSUk91SEhMRjgwRENYWHlpQWZRRmptNWtHWTNlVXlabnBJdEpxVEV0d0x3Sml1UUR1d0ZLdUVtbUpkUFQ5cXVXZTAySDlxUnhEUmN2UFpsamlmWUZfc1A1cUpZWDU0NTNnZ0JtV2VaVHBkSm1nbGxDZERsZVdSN1hnTllDNTkxanBzNENpX05RY1owR0NRS09NZ1ZiNDlFekZ4VzdIV05sUlFSWF9PM3dia2NYVDlJbjRmVERfNDlEa3VPTWtQNVo5OUQwRkJBaVBDeVlp?oc=5" target="_blank">Budget 2027 : le plan du ministère du Travail pour économiser 2,5 milliards d'euros</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
