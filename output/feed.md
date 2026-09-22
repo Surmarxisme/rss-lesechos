@@ -1,7 +1,23 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Mon, 21 Sep 2026 20:40:59 +0000`
-> 104 articles (30 derniers jours)
+> Derniere mise a jour : `Tue, 22 Sep 2026 10:23:47 +0000`
+> 105 articles (30 derniers jours)
+
+---
+
+### [Budget 2027 : une coupe de 600 millions d'euros envisagée sur l'allocation de rentrée scolaire - Les Echos](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQSmF1Y0pDaUNUR3RDTlQ3OGpGU05ENWZDUnFIalo5OWY0aTdFeEgxQmNHX3NPdG5Zd2ZXd3ZhUTRPdmxZaFEyQVFtRXBnMmpUeEFTenlBRjNXNWRpWmd2X1hkSWVBVlozY3BlQ3RqSktVUUJLRHRQOFBEUGp3ZWtyZVRITThUTk8xZ3A4UVN6T2NnclpYQ3I2R0FXd0N4UXlfWW9GaVVwQXJfb0xjWlhFd3M1S0htUjVpM1FBdDhtXzh3RlpZTUpHVm9oaUZiNy02V0p4amhpMDZZZW1GVzZIXzNCdWV6dXBfcXpz?oc=5)
+
+`Tue, 22 Sep 2026 04:40:12 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi6wFBVV95cUxQSmF1Y0pDaUNUR3RDTlQ3OGpGU05ENWZDUnFIalo5OWY0aTdFeEgxQmNHX3NPdG5Zd2ZXd3ZhUTRPdmxZaFEyQVFtRXBnMmpUeEFTenlBRjNXNWRpWmd2X1hkSWVBVlozY3BlQ3RqSktVUUJLRHRQOFBEUGp3ZWtyZVRITThUTk8xZ3A4UVN6T2NnclpYQ3I2R0FXd0N4UXlfWW9GaVVwQXJfb0xjWlhFd3M1S0htUjVpM1FBdDhtXzh3RlpZTUpHVm9oaUZiNy02V0p4amhpMDZZZW1GVzZIXzNCdWV6dXBfcXpz?oc=5" target="_blank">Budget 2027 : une coupe de 600 millions d'euros envisagée sur l'allocation de rentrée scolaire</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Intelligence artificielle : un plan pour rattraper le retard français dans le monde du travail - Les Echos](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNk1lNFNncWxfaVZna2hoWWlVUGhLblFaQ1RKTUZqd0tvVlc1MU5MR25Ma2N4UXFOdDlBYThWMnBkZksyZVhBeVFBMEVDVXRQWTdub3BMLTN1d2xvLWdVMkhtUndtNnBDbDVfdTg4Y3VxeTRVeE1EWXJpUnMwaXpnMVFQZmJrS1YtbzhtcGV2MDlLZi1RRzVpZU9ibzR3OU1ZSnZ1aUxzZXUyVXhQeTdnNFpZVmRvMUMzTW54Zi0xSHc0U3l0WDltaDlGTTdESFdudEJ0Q2pjLXpJZ0xuRUliXw?oc=5)
+
+`Tue, 22 Sep 2026 07:00:09 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNk1lNFNncWxfaVZna2hoWWlVUGhLblFaQ1RKTUZqd0tvVlc1MU5MR25Ma2N4UXFOdDlBYThWMnBkZksyZVhBeVFBMEVDVXRQWTdub3BMLTN1d2xvLWdVMkhtUndtNnBDbDVfdTg4Y3VxeTRVeE1EWXJpUnMwaXpnMVFQZmJrS1YtbzhtcGV2MDlLZi1RRzVpZU9ibzR3OU1ZSnZ1aUxzZXUyVXhQeTdnNFpZVmRvMUMzTW54Zi0xSHc0U3l0WDltaDlGTTdESFdudEJ0Q2pjLXpJZ0xuRUliXw?oc=5" target="_blank">Intelligence artificielle : un plan pour rattraper le retard français dans le monde du travail</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -826,13 +842,5 @@
 `Mon, 24 Aug 2026 05:40:13 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYUJtT3V4TkFvejNka1k2ZWItejBsQ3d2UWc2V0t1S2toXzhINUNXZ2FhZWFSa2YxSWljejdDLTE5c3htemdpZzRDaVhNTE04ZmtVcDZKVDFBbFdRYjVmUGhXR1hlNzItNXI2Y2xOSmJwbjN4VlFxQVhNdFhzcEdxeTVoc1pQNHRJYmQwWDh5WUxfVnlmN3ZISjlyMGQzbWdMbmRqNFpabjB4bjJhYlNURVY1RnYwM2RleFd5NW1BbWhvdm5LcUlOSFZndnQ1V2w2dTRKNg?oc=5" target="_blank">Patronat et syndicats cherchent à renouer le dialogue dans une rentrée sociale sous haute tension</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Le développement de la négociation collective dans les entreprises « s'est accompagné d'une baisse très nette de la conflictualité en France - Les Echos](https://news.google.com/rss/articles/CBMimwJBVV95cUxOcjNXdXZIS2RwYXlTMHVnSldPa1pVZFVVaGNzSkFWYzZKY00taDRTQjZhTkttbzVoRmNEcnZDTzdldkoxb0p4M3diblc4Ry11bk5ZbEFrOXNoYkJIaV9naWZJOUJfZkotRWdiVFBwWk4tdWFTOWVTOC1CdFRRTmpYOFlacjBGdnJEeGJ0ejdWM0lsb01vb3AydzF5YkdiVTExcVJZR0tCcDVZM1dJM0RHaHZwbTBONk0wbmtnNjBHdktDdVNIak4zalh4eDJveHIwT1d0LXZ5UDFhbFJfalc4TXEyNlR2RVVsdGw2TklkZlczRVlaSXlEdTlRNXVYWC1BUUtsU2g1WjF1dkpnaTNYajdBeS16MjQ1bHo0?oc=5)
-
-`Sun, 23 Aug 2026 08:00:12 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMimwJBVV95cUxOcjNXdXZIS2RwYXlTMHVnSldPa1pVZFVVaGNzSkFWYzZKY00taDRTQjZhTkttbzVoRmNEcnZDTzdldkoxb0p4M3diblc4Ry11bk5ZbEFrOXNoYkJIaV9naWZJOUJfZkotRWdiVFBwWk4tdWFTOWVTOC1CdFRRTmpYOFlacjBGdnJEeGJ0ejdWM0lsb01vb3AydzF5YkdiVTExcVJZR0tCcDVZM1dJM0RHaHZwbTBONk0wbmtnNjBHdktDdVNIak4zalh4eDJveHIwT1d0LXZ5UDFhbFJfalc4TXEyNlR2RVVsdGw2TklkZlczRVlaSXlEdTlRNXVYWC1BUUtsU2g1WjF1dkpnaTNYajdBeS16MjQ1bHo0?oc=5" target="_blank">Le développement de la négociation collective dans les entreprises « s'est accompagné d'une baisse très nette de la conflictualité en France</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
