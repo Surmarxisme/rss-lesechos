@@ -1,7 +1,23 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Wed, 23 Sep 2026 15:50:45 +0000`
-> 109 articles (30 derniers jours)
+> Derniere mise a jour : `Wed, 23 Sep 2026 19:54:12 +0000`
+> 110 articles (30 derniers jours)
+
+---
+
+### [Stéphanie Rist : « Si nous ne transformons pas notre modèle, les Français devront payer plus pour leur santé - lesechos.fr](https://news.google.com/rss/articles/CBMi7wFBVV95cUxONWF0SWsxaUhCbHpzOXdZeE1UV1hESkVNUkZMZ0JFT0lyZnRmOEwybVM3a0NCbUFobHJKajBxTkxkWUl4RVV4ZEp5cXNPckJNcFNLdGFWWS1PMC02MkY5OXlmVzdUelo4NDZkTkYtcG1fZFZWaDI1aThrd0oxSXlxbG5PSHlyM0FLVnlCVk11LU5sT1MyM0lWeU9HYnN2MnloMWJDMEdJazhXVFFDU1Y3UnM5c0sxYWdTZ3RZR0dmWmFYeWstVTdzSlB2eGNUTTRoV1lZWVc2M2dSVGo0OXp4dzBPdV9fQThaejRrMDNCRQ?oc=5)
+
+`Wed, 23 Sep 2026 16:04:17 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi7wFBVV95cUxONWF0SWsxaUhCbHpzOXdZeE1UV1hESkVNUkZMZ0JFT0lyZnRmOEwybVM3a0NCbUFobHJKajBxTkxkWUl4RVV4ZEp5cXNPckJNcFNLdGFWWS1PMC02MkY5OXlmVzdUelo4NDZkTkYtcG1fZFZWaDI1aThrd0oxSXlxbG5PSHlyM0FLVnlCVk11LU5sT1MyM0lWeU9HYnN2MnloMWJDMEdJazhXVFFDU1Y3UnM5c0sxYWdTZ3RZR0dmWmFYeWstVTdzSlB2eGNUTTRoV1lZWVc2M2dSVGo0OXp4dzBPdV9fQThaejRrMDNCRQ?oc=5" target="_blank">Stéphanie Rist : « Si nous ne transformons pas notre modèle, les Français devront payer plus pour leur santé</a>&nbsp;&nbsp;<font color="#6f6f6f">lesechos.fr</font>
+
+---
+
+### [Santé : ces pistes sur la table du gouvernement pour clarifier le partage des rôles entre les mutuelles et la Sécu - lesechos.fr](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNWUtRWld0a3dOMTNzVXZhTXpnbi1SVGFMbk9WN0tvZGdENmhLclh3eVFJMzA5VUdsc011d1ZtemJWWmNTT3lscHBiYURYMENvT1ZwQXFJaXlXSlZYbDdISlZIQ09jdE9aazVLT0JlMEZReUVwejBoWGR0bEp0c2NoT1ZVSWh2eWNqTU9ZMXYwZkRWcHlyaFpsUlF6bnQzVWFraEk4UjlxcW9yTHlZYmI3NC1OTnpad3QzLW16angwR2FDTnFmb0ltb2lpWWRsS1JEZ3EteUh2Y2g2bjNmc3JDY2dGUm1nYTBEVEIybUh2WVI4QQ?oc=5)
+
+`Wed, 23 Sep 2026 16:30:34 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi8gFBVV95cUxNWUtRWld0a3dOMTNzVXZhTXpnbi1SVGFMbk9WN0tvZGdENmhLclh3eVFJMzA5VUdsc011d1ZtemJWWmNTT3lscHBiYURYMENvT1ZwQXFJaXlXSlZYbDdISlZIQ09jdE9aazVLT0JlMEZReUVwejBoWGR0bEp0c2NoT1ZVSWh2eWNqTU9ZMXYwZkRWcHlyaFpsUlF6bnQzVWFraEk4UjlxcW9yTHlZYmI3NC1OTnpad3QzLW16angwR2FDTnFmb0ltb2lpWWRsS1JEZ3EteUh2Y2g2bjNmc3JDY2dGUm1nYTBEVEIybUh2WVI4QQ?oc=5" target="_blank">Santé : ces pistes sur la table du gouvernement pour clarifier le partage des rôles entre les mutuelles et la Sécu</a>&nbsp;&nbsp;<font color="#6f6f6f">lesechos.fr</font>
 
 ---
 
@@ -866,13 +882,5 @@
 `Tue, 25 Aug 2026 04:00:08 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi6AFBVV95cUxQa2JKRUtKZkxQeERwSm5oWXRQTzZBMHFpTDd4WExMYmhyNlB0ZmhPS3BEaTVVOE16TUgxY1hSeWM2a1RMbVN0YnJUZExnQk5XXzVzcnhMamFlZG9fQ2FNdmdNVmNBNWtwTFN5SG9qRjVhN3pONUpnNFJsRG80UVF1ZUNzdlpCUFVkRjEwZlZDX1BieExmMl82ZVM3M0c1OGF6eFdFWXZCdXVvSXlBbnpLeHZlbWR4SmlZakJFNGl2TElnZTdTcnFidG4yMVhCcVdJM2ZHZlVjTmRBVFhnd05FazVDOW5Qcm4x?oc=5" target="_blank">Facturation électronique : Bercy tente de rassurer les entreprises avant la grande bascule</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Budget 2027 : le gouvernement précise sa copie sur les franchises médicales - Les Echos](https://news.google.com/rss/articles/CBMixwFBVV95cUxPSm1aSklfeWJQREtpcXM4dmNKMFJESG1JZ3Iwb09Yb3FOU1ktQUVMWlpQVnpRYWdvNkJFZktIbkFTTGFjd3JSc2N6cWlYcjg4alAzeGRVckFfZDZPUThjYk5MMVNWbHRlbHBxS1NzLWhkNWpSQWxKcEFORkp6NjVRTnNDWVFZUUxQTWJSdGI3M25qenRfVjN0dDZEeW5ObnE5aU9leHNwZkNXVVNOdklSNFRKaG9aZGhHZzYwSi1xNmVOOFc5cjdR?oc=5)
-
-`Mon, 24 Aug 2026 16:25:03 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMixwFBVV95cUxPSm1aSklfeWJQREtpcXM4dmNKMFJESG1JZ3Iwb09Yb3FOU1ktQUVMWlpQVnpRYWdvNkJFZktIbkFTTGFjd3JSc2N6cWlYcjg4alAzeGRVckFfZDZPUThjYk5MMVNWbHRlbHBxS1NzLWhkNWpSQWxKcEFORkp6NjVRTnNDWVFZUUxQTWJSdGI3M25qenRfVjN0dDZEeW5ObnE5aU9leHNwZkNXVVNOdklSNFRKaG9aZGhHZzYwSi1xNmVOOFc5cjdR?oc=5" target="_blank">Budget 2027 : le gouvernement précise sa copie sur les franchises médicales</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
