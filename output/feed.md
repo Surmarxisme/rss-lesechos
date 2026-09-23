@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Wed, 23 Sep 2026 14:10:05 +0000`
-> 108 articles (30 derniers jours)
+> Derniere mise a jour : `Wed, 23 Sep 2026 15:50:45 +0000`
+> 109 articles (30 derniers jours)
+
+---
+
+### [Logement : la nouvelle étude de l'Insee qui va à l'encontre des idées reçues - Les Echos](https://news.google.com/rss/articles/CBMizAFBVV95cUxNcEh4alhSWG50dlYyN0JEcWlPYVlPeTc1QUFWTU9DTHprdmQ4c2ZPbFZ4cXBJYnU2Zkl3am5fak13dHlTeUhjNVQ1TUROdHdiRkNRUkZ0YjFYVE12ZHR3ZXpubFBSaHVsM0drZHZqeVpFdnR4WU5nSHBiRjdoc294N1dCMFF2R2tHSUNXZGczUktZT2RVWE1ZVElPVlRjWi00OUs4UFhDalNsdFZYaG43dVpNVTRTbmxJTVhzZGxYUHlDRTA4cFlHRUJuNEM?oc=5)
+
+`Wed, 23 Sep 2026 15:00:25 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMizAFBVV95cUxNcEh4alhSWG50dlYyN0JEcWlPYVlPeTc1QUFWTU9DTHprdmQ4c2ZPbFZ4cXBJYnU2Zkl3am5fak13dHlTeUhjNVQ1TUROdHdiRkNRUkZ0YjFYVE12ZHR3ZXpubFBSaHVsM0drZHZqeVpFdnR4WU5nSHBiRjdoc294N1dCMFF2R2tHSUNXZGczUktZT2RVWE1ZVElPVlRjWi00OUs4UFhDalNsdFZYaG43dVpNVTRTbmxJTVhzZGxYUHlDRTA4cFlHRUJuNEM?oc=5" target="_blank">Logement : la nouvelle étude de l'Insee qui va à l'encontre des idées reçues</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
