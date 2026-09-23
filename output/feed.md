@@ -1,7 +1,23 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Tue, 22 Sep 2026 19:57:10 +0000`
+> Derniere mise a jour : `Wed, 23 Sep 2026 10:19:26 +0000`
 > 108 articles (30 derniers jours)
+
+---
+
+### [Automobile : ce que le passage à l'électrique va coûter aux finances publiques - Les Echos](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMXFYU2Z3SE9HVVV5NXliYndNQllMVmhxS1o0OHRqaDlnd1FqZ2FET2FVeUljaFIya1BxaXlRenlFRlduLVZJTmU0Y3dfYmw3YVZwMnY4Mk91Q0xjNnlJdmxDUVh1eTdhTFl4MjR5d3FScW10dkpFZk1MYmZuaTlXTi1neUktY2Z2TkdQZF9mb3o2NERqQXJOTnRPTHVia2VCRGFkbWpNWGtWNDJNZC1PcmxqSHBiYTFmaEU2bmRtQzY5dXJJdlpNcEwtRThiUHdaQUVUZ0NBRQ?oc=5)
+
+`Wed, 23 Sep 2026 05:00:09 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMXFYU2Z3SE9HVVV5NXliYndNQllMVmhxS1o0OHRqaDlnd1FqZ2FET2FVeUljaFIya1BxaXlRenlFRlduLVZJTmU0Y3dfYmw3YVZwMnY4Mk91Q0xjNnlJdmxDUVh1eTdhTFl4MjR5d3FScW10dkpFZk1MYmZuaTlXTi1neUktY2Z2TkdQZF9mb3o2NERqQXJOTnRPTHVia2VCRGFkbWpNWGtWNDJNZC1PcmxqSHBiYTFmaEU2bmRtQzY5dXJJdlpNcEwtRThiUHdaQUVUZ0NBRQ?oc=5" target="_blank">Automobile : ce que le passage à l'électrique va coûter aux finances publiques</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [EXCLUSIF - Compte personnel de formation : les salariés devront payer jusqu'à 350 euros de malus - Les Echos](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRlZlNHBlYmloU1RyWDhoeTM2M0Z6V0s0NkFoY3dSdXowUE9UdW91NUdUY0h5cTM1V1E1NV9RekVBaWdjZ1E3b0h4bE5wby1jNmY1Q2lKd2tRUi04RzdicVZTMmFyS3NGbW1EVDdwSWJKVXRtVF8takRrTlN2ZFdqdHlZOERDTFN6RS1RNzRiTE5hd0RIVzVNX2o1ZG9hWW42ZUcxMTZyeXJDYnVvQkFxcXprenRuSzF5VXdtMkVRMGNlbjdKU3JLVjV0a0k2WDdnd0xmOG1FWjIyOU5tU0Vn?oc=5)
+
+`Wed, 23 Sep 2026 04:20:31 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRlZlNHBlYmloU1RyWDhoeTM2M0Z6V0s0NkFoY3dSdXowUE9UdW91NUdUY0h5cTM1V1E1NV9RekVBaWdjZ1E3b0h4bE5wby1jNmY1Q2lKd2tRUi04RzdicVZTMmFyS3NGbW1EVDdwSWJKVXRtVF8takRrTlN2ZFdqdHlZOERDTFN6RS1RNzRiTE5hd0RIVzVNX2o1ZG9hWW42ZUcxMTZyeXJDYnVvQkFxcXprenRuSzF5VXdtMkVRMGNlbjdKU3JLVjV0a0k2WDdnd0xmOG1FWjIyOU5tU0Vn?oc=5" target="_blank">EXCLUSIF - Compte personnel de formation : les salariés devront payer jusqu'à 350 euros de malus</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -850,21 +866,5 @@
 `Mon, 24 Aug 2026 16:25:03 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMixwFBVV95cUxPSm1aSklfeWJQREtpcXM4dmNKMFJESG1JZ3Iwb09Yb3FOU1ktQUVMWlpQVnpRYWdvNkJFZktIbkFTTGFjd3JSc2N6cWlYcjg4alAzeGRVckFfZDZPUThjYk5MMVNWbHRlbHBxS1NzLWhkNWpSQWxKcEFORkp6NjVRTnNDWVFZUUxQTWJSdGI3M25qenRfVjN0dDZEeW5ObnE5aU9leHNwZkNXVVNOdklSNFRKaG9aZGhHZzYwSi1xNmVOOFc5cjdR?oc=5" target="_blank">Budget 2027 : le gouvernement précise sa copie sur les franchises médicales</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Budget 2027 : « Si on peut baisser la surtaxe sur les entreprises, on le fera, mais aujourd'hui ce n'est pas facile - Les Echos](https://news.google.com/rss/articles/CBMiggJBVV95cUxQUWZ5c0ZCdy1aTXo4dmY5Q1dibTI0NTlHT0hPT2pZRnpCVDJGcGtBWWMzR083X1hYQVNWcGh0YlZsN1h3UFZ1T0Y3ZmlNczJ0OVBpb3VtRVVhaEc1eG1FQzBieXVfTWZ2LW9tZ0VDaDMzLTZJc05Ub2xKcF9sWXJPa0Z6WUY2aTVHRmlZN3g3aUE4TTZxYmtFclF1Smc0U3RLUWpwX1lMM09HdXp3OVVaU1hIVkxxRDBXQTcxMWQwY2FxQjg0MDhQZ1BTX09uR2VpSFB0VVQ5SzNkUnItSENDWWVlZEpLRU1OaWkycE1HNVZNZ1lPaFk1Q3pDQ2dLSzZpREE?oc=5)
-
-`Mon, 24 Aug 2026 07:23:27 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiggJBVV95cUxQUWZ5c0ZCdy1aTXo4dmY5Q1dibTI0NTlHT0hPT2pZRnpCVDJGcGtBWWMzR083X1hYQVNWcGh0YlZsN1h3UFZ1T0Y3ZmlNczJ0OVBpb3VtRVVhaEc1eG1FQzBieXVfTWZ2LW9tZ0VDaDMzLTZJc05Ub2xKcF9sWXJPa0Z6WUY2aTVHRmlZN3g3aUE4TTZxYmtFclF1Smc0U3RLUWpwX1lMM09HdXp3OVVaU1hIVkxxRDBXQTcxMWQwY2FxQjg0MDhQZ1BTX09uR2VpSFB0VVQ5SzNkUnItSENDWWVlZEpLRU1OaWkycE1HNVZNZ1lPaFk1Q3pDQ2dLSzZpREE?oc=5" target="_blank">Budget 2027 : « Si on peut baisser la surtaxe sur les entreprises, on le fera, mais aujourd'hui ce n'est pas facile</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Patronat et syndicats cherchent à renouer le dialogue dans une rentrée sociale sous haute tension - Les Echos](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYUJtT3V4TkFvejNka1k2ZWItejBsQ3d2UWc2V0t1S2toXzhINUNXZ2FhZWFSa2YxSWljejdDLTE5c3htemdpZzRDaVhNTE04ZmtVcDZKVDFBbFdRYjVmUGhXR1hlNzItNXI2Y2xOSmJwbjN4VlFxQVhNdFhzcEdxeTVoc1pQNHRJYmQwWDh5WUxfVnlmN3ZISjlyMGQzbWdMbmRqNFpabjB4bjJhYlNURVY1RnYwM2RleFd5NW1BbWhvdm5LcUlOSFZndnQ1V2w2dTRKNg?oc=5)
-
-`Mon, 24 Aug 2026 05:40:13 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYUJtT3V4TkFvejNka1k2ZWItejBsQ3d2UWc2V0t1S2toXzhINUNXZ2FhZWFSa2YxSWljejdDLTE5c3htemdpZzRDaVhNTE04ZmtVcDZKVDFBbFdRYjVmUGhXR1hlNzItNXI2Y2xOSmJwbjN4VlFxQVhNdFhzcEdxeTVoc1pQNHRJYmQwWDh5WUxfVnlmN3ZISjlyMGQzbWdMbmRqNFpabjB4bjJhYlNURVY1RnYwM2RleFd5NW1BbWhvdm5LcUlOSFZndnQ1V2w2dTRKNg?oc=5" target="_blank">Patronat et syndicats cherchent à renouer le dialogue dans une rentrée sociale sous haute tension</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
