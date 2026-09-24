@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Thu, 24 Sep 2026 16:12:44 +0000`
+> Derniere mise a jour : `Thu, 24 Sep 2026 20:12:14 +0000`
 > 111 articles (30 derniers jours)
+
+---
+
+### [Le gouvernement prêt à geler la prime d'activité pour boucler son budget - Les Echos](https://news.google.com/rss/articles/CBMixAFBVV95cUxQRU9oZzFpMUVHelJZejExRmk0WVJrcExpLTA3RWRlY0lWWFpMYTN5NXV6elVYTG9YamtvSHJYNEF6eXhzZFNybU9vRzNmWTVNSGI3UFkxN1JBeHptRTltYjU4TmtXaGJaVWtCNzdpbUxFMmZYNVhjbDBzcXg0MldQeFBtZ3lEOGF3c0xhLUdRZUxIR0cwNUM5bWhiRDQwekRzMmZ2VzIxU3p3Mk9qOGExUWZSYkhndWoySUtlX2tublNWeEQy?oc=5)
+
+`Thu, 24 Sep 2026 16:46:26 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMixAFBVV95cUxQRU9oZzFpMUVHelJZejExRmk0WVJrcExpLTA3RWRlY0lWWFpMYTN5NXV6elVYTG9YamtvSHJYNEF6eXhzZFNybU9vRzNmWTVNSGI3UFkxN1JBeHptRTltYjU4TmtXaGJaVWtCNzdpbUxFMmZYNVhjbDBzcXg0MldQeFBtZ3lEOGF3c0xhLUdRZUxIR0cwNUM5bWhiRDQwekRzMmZ2VzIxU3p3Mk9qOGExUWZSYkhndWoySUtlX2tublNWeEQy?oc=5" target="_blank">Le gouvernement prêt à geler la prime d'activité pour boucler son budget</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -874,14 +882,6 @@
 `Wed, 26 Aug 2026 04:00:11 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi6AFBVV95cUxOblhRS3ZJSDJsbXk4WXlZeXVCd0NuU2kzajJhVlZvQWwwSGpjZkJCT3A2SGhpaVFZZHJnRWVOcmdkMEtaR1paQ1JfWmtfNkVRelhPTHY0M1czc1hXTWFVc1NzRndFbVdrRmhuMXItRWJJbXM4UzJHY2Vva0RjV2dqRC0zRjk2YjduZlpHcXYxS0hHZkFZUHBRVkJSVmJBajFua3hMOGwwZ0VLNmJJQkxScDBpeFBSM0lHM1JFZDBTc1VyNVJKV2lFWVM4SVZYLTR3YllBQTBMblg0MW56VjRFMlpOMVd5NDBL?oc=5" target="_blank">« Tout le spectre de l'entrepreneuriat est touché désormais » : record de pertes d'emploi chez les patrons</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Présidentielle 2027 : la CFDT promet de prendre « toute sa place » dans la campagne - Les Echos](https://news.google.com/rss/articles/CBMizAFBVV95cUxNZ1RvenRpZ0Y0ZDZnZ0xCRDJ3NmpDNmdPWlJIYkwwakxVS3E1NzFqUUc0R3JLeVhBZ1RQX002NVVSZkRvcllmbzVnUFJNcHowLW8xdG1kbi0tWUU2YVJkcjZFR2FaTFFVZ3hSNWc1TzB5VV9MQklSSjUzSmRpRW1Ca1g2MDRhUGVCdHlKVFVWa0pOdlNvSmFoTXM3V2prX2pPaXVNNFI5a2J4Vk9vZk4zRmpVYk5MemV2UTROdE5WUGNNRFBwV0pwRWx2eUY?oc=5)
-
-`Tue, 25 Aug 2026 17:23:25 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMizAFBVV95cUxNZ1RvenRpZ0Y0ZDZnZ0xCRDJ3NmpDNmdPWlJIYkwwakxVS3E1NzFqUUc0R3JLeVhBZ1RQX002NVVSZkRvcllmbzVnUFJNcHowLW8xdG1kbi0tWUU2YVJkcjZFR2FaTFFVZ3hSNWc1TzB5VV9MQklSSjUzSmRpRW1Ca1g2MDRhUGVCdHlKVFVWa0pOdlNvSmFoTXM3V2prX2pPaXVNNFI5a2J4Vk9vZk4zRmpVYk5MemV2UTROdE5WUGNNRFBwV0pwRWx2eUY?oc=5" target="_blank">Présidentielle 2027 : la CFDT promet de prendre « toute sa place » dans la campagne</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
