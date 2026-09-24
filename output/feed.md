@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Thu, 24 Sep 2026 14:07:55 +0000`
-> 110 articles (30 derniers jours)
+> Derniere mise a jour : `Thu, 24 Sep 2026 16:12:44 +0000`
+> 111 articles (30 derniers jours)
+
+---
+
+### [Les grands groupes alertent sur les risques du maintien de la surtaxe sur les bénéfices - Les Echos](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNWEd0b2t2UlY4ZExpWWw4NkR2U3hNN3ZHMHFhbjNHbFlRMmhEeGQ2Z0tibWQ0aUxVb0pPdFBjbGhOMTJJQWJ6SUU2X1hhVW5zZFZKTV9WSF9FNjA1NlpTNUJsaE51MkF0MlNYSUU3d1lZVjJlRnlBTVMwVnA2ci1iYXFXS0drdkJ0cmNQZ181cVBvWlYzbjBhbDJ1Vl8zVjVYTkt0SVN1WlZ1eXZtRktJakttTzFMaGRHenlpc2ZsVURKakEwWmMwdWdzVlhTNDlQS3NxY2hTMUhxS1NCbW9ESjFiLVJqVEU?oc=5)
+
+`Thu, 24 Sep 2026 15:50:26 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi5wFBVV95cUxNWEd0b2t2UlY4ZExpWWw4NkR2U3hNN3ZHMHFhbjNHbFlRMmhEeGQ2Z0tibWQ0aUxVb0pPdFBjbGhOMTJJQWJ6SUU2X1hhVW5zZFZKTV9WSF9FNjA1NlpTNUJsaE51MkF0MlNYSUU3d1lZVjJlRnlBTVMwVnA2ci1iYXFXS0drdkJ0cmNQZ181cVBvWlYzbjBhbDJ1Vl8zVjVYTkt0SVN1WlZ1eXZtRktJakttTzFMaGRHenlpc2ZsVURKakEwWmMwdWdzVlhTNDlQS3NxY2hTMUhxS1NCbW9ESjFiLVJqVEU?oc=5" target="_blank">Les grands groupes alertent sur les risques du maintien de la surtaxe sur les bénéfices</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
