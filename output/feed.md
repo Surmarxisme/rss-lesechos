@@ -1,7 +1,23 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Wed, 23 Sep 2026 19:54:12 +0000`
+> Derniere mise a jour : `Thu, 24 Sep 2026 10:33:30 +0000`
 > 110 articles (30 derniers jours)
+
+---
+
+### [L'économie française continue de faire grise mine - Les Echos](https://news.google.com/rss/articles/CBMirAFBVV95cUxOQ0lENnZwVmRvNUJENktQT3ptdnFubV82ZDEtM1h3N244SW93cFUya2pxNy04V0lvbUtpNExtbXJUbW9yaDBuZVNkdW1iamdHTHNfM09Ja0RFWWY0QV9GVzYxRHhsdGxwMzVkT2RvVHZoS0dsaVdoaXlZbWlMOWhTRUlsQlk4aEJLaE9nNm1TVk1zS1J0c09XNHM5VXpMOGhDMFdadV9HNWJSMEtF?oc=5)
+
+`Thu, 24 Sep 2026 09:39:43 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxOQ0lENnZwVmRvNUJENktQT3ptdnFubV82ZDEtM1h3N244SW93cFUya2pxNy04V0lvbUtpNExtbXJUbW9yaDBuZVNkdW1iamdHTHNfM09Ja0RFWWY0QV9GVzYxRHhsdGxwMzVkT2RvVHZoS0dsaVdoaXlZbWlMOWhTRUlsQlk4aEJLaE9nNm1TVk1zS1J0c09XNHM5VXpMOGhDMFdadV9HNWJSMEtF?oc=5" target="_blank">L'économie française continue de faire grise mine</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Présidentielle 2027 : l'avertissement lancé aux candidats pour éviter la « fuite des cerveaux » - Les Echos](https://news.google.com/rss/articles/CBMi2wFBVV95cUxONUc1cFFkS1c3eU43ZHNPNzNpUTYtZzdNd2s0WF9JcndEci0zRkZCMnA1aEl2bEkxQVQ1b0xrYW9hN0JmVDRCb0JOcGZKZjZ0am41LTN0Wms4Ukx6aEJNN2UyRFkxSFgyazJIMGtEaFpydmZZMS05bjgtZTlod3VySXhwTm55R1NhTERFMTlKWE9iMFFfVnVsSmFIMDhuQ2lCLVBoU1B0ODlrcG1iZHhxd2ZrVWJYWmhfV21PVzhTazdPN0FiRlF4RllFTjBVZ04zZjVCejcxYU1UanM?oc=5)
+
+`Thu, 24 Sep 2026 05:33:08 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi2wFBVV95cUxONUc1cFFkS1c3eU43ZHNPNzNpUTYtZzdNd2s0WF9JcndEci0zRkZCMnA1aEl2bEkxQVQ1b0xrYW9hN0JmVDRCb0JOcGZKZjZ0am41LTN0Wms4Ukx6aEJNN2UyRFkxSFgyazJIMGtEaFpydmZZMS05bjgtZTlod3VySXhwTm55R1NhTERFMTlKWE9iMFFfVnVsSmFIMDhuQ2lCLVBoU1B0ODlrcG1iZHhxd2ZrVWJYWmhfV21PVzhTazdPN0FiRlF4RllFTjBVZ04zZjVCejcxYU1UanM?oc=5" target="_blank">Présidentielle 2027 : l'avertissement lancé aux candidats pour éviter la « fuite des cerveaux »</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -866,21 +882,5 @@
 `Wed, 26 Aug 2026 05:00:09 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxPMFlSYWhwTkNnSkw2M1BXM0RuUC1vTDAxX3F5UXk4YmhyWTFWQVBycHFqcGRGRUx1T0F6MGpjN09BaTZUWDU0eEMzUzgzOXdEemlGV3NHWTNjbElNdTFuWFpURWlvYzJZZ24xU0EyUVRsSllXQVBvcE9BRHZKLU1zbjhBYU5QSVdVZElkTzlLQ3NCTWY0bzh1WVNFX1dCSndhMmlkWEx0RnBkNnpsQkE?oc=5" target="_blank">Démographie : comment le Medef veut relancer la natalité</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Emploi des cadres : les intentions d'embauche au plus bas - Les Echos](https://news.google.com/rss/articles/CBMirgFBVV95cUxNeXNPWmE3V3I4cm9JaG5jNV9RT3RJT1dQVjBhbk9Pank4ZFhoMmN4dWtKandkQW1aUi1XZm1Hb0pfVWhqZlN2X2RpSVh1LVVhMTJobkd2WTEwdjUtalM4UV9YVEVuRzE4Tk5DLS1EbmliSFRsTFJCUXNwcHRoS1RELUxabnBSQ0k2NTVsZENZUG5NeERCYmVoc3NJaHZzX3pIeFd3SXBPa0QwWGxDdVE?oc=5)
-
-`Tue, 25 Aug 2026 10:00:23 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxNeXNPWmE3V3I4cm9JaG5jNV9RT3RJT1dQVjBhbk9Pank4ZFhoMmN4dWtKandkQW1aUi1XZm1Hb0pfVWhqZlN2X2RpSVh1LVVhMTJobkd2WTEwdjUtalM4UV9YVEVuRzE4Tk5DLS1EbmliSFRsTFJCUXNwcHRoS1RELUxabnBSQ0k2NTVsZENZUG5NeERCYmVoc3NJaHZzX3pIeFd3SXBPa0QwWGxDdVE?oc=5" target="_blank">Emploi des cadres : les intentions d'embauche au plus bas</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Facturation électronique : Bercy tente de rassurer les entreprises avant la grande bascule - Les Echos](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQa2JKRUtKZkxQeERwSm5oWXRQTzZBMHFpTDd4WExMYmhyNlB0ZmhPS3BEaTVVOE16TUgxY1hSeWM2a1RMbVN0YnJUZExnQk5XXzVzcnhMamFlZG9fQ2FNdmdNVmNBNWtwTFN5SG9qRjVhN3pONUpnNFJsRG80UVF1ZUNzdlpCUFVkRjEwZlZDX1BieExmMl82ZVM3M0c1OGF6eFdFWXZCdXVvSXlBbnpLeHZlbWR4SmlZakJFNGl2TElnZTdTcnFidG4yMVhCcVdJM2ZHZlVjTmRBVFhnd05FazVDOW5Qcm4x?oc=5)
-
-`Tue, 25 Aug 2026 04:00:08 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi6AFBVV95cUxQa2JKRUtKZkxQeERwSm5oWXRQTzZBMHFpTDd4WExMYmhyNlB0ZmhPS3BEaTVVOE16TUgxY1hSeWM2a1RMbVN0YnJUZExnQk5XXzVzcnhMamFlZG9fQ2FNdmdNVmNBNWtwTFN5SG9qRjVhN3pONUpnNFJsRG80UVF1ZUNzdlpCUFVkRjEwZlZDX1BieExmMl82ZVM3M0c1OGF6eFdFWXZCdXVvSXlBbnpLeHZlbWR4SmlZakJFNGl2TElnZTdTcnFidG4yMVhCcVdJM2ZHZlVjTmRBVFhnd05FazVDOW5Qcm4x?oc=5" target="_blank">Facturation électronique : Bercy tente de rassurer les entreprises avant la grande bascule</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
