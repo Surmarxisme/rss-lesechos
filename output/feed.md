@@ -1,7 +1,7 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Fri, 25 Sep 2026 16:13:12 +0000`
-> 111 articles (30 derniers jours)
+> Derniere mise a jour : `Fri, 25 Sep 2026 20:10:18 +0000`
+> 110 articles (30 derniers jours)
 
 ---
 
@@ -882,13 +882,5 @@
 `Thu, 27 Aug 2026 09:37:28 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi8wFBVV95cUxQeWxpMno3RWM3VFJaR2dMWlhPMFROcGoxVWdMcGJFbGdqOC1NenhfOG83LVJkWVRINjAxS2NOVmhXV3FVc2t4ekQtRkdMVHZISDBvWTFFRFdHMXpic09qSTJOR2VEZG9RY2VhMDd0RTZiMkZDMFRJcFhpYXl5TzdhT2dtZDFRQ0JSU0p2VDRHN0NzSlJ3VTdwSUx1ME12UUVUSEhxTmp2SXluR1Z0aHc1UkFoYzZtemtGYUVkblA3MG9XNkh3ZE4yNHM2elduTFVJTTJlN2wwLWxWaFdOOFNDMXhqU3lEbWYteEJDRzFkY0JSWVk?oc=5" target="_blank">Pacte Dutreil, Crédit Impôt Recherche : Roland Lescure promet « un pacte de stabilité » aux entreprises</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Les lignes rouges du Medef pour la présidentielle 2027 - Les Echos](https://news.google.com/rss/articles/CBMiswFBVV95cUxPNXc3bjgwdHV6YmJJU2MxWGduZVVXNnBjYzIxU1R3SUJQLWxKekZwWEt6bzNOc3R2dWN0bzBRVG4xWVZHcXhOMUxOblZidlF5TE9JWnIyR3o5WmozVnlFc3hUQzRWX0hwWHNLeWl1SkJiWGVZSUMtQjN6QWRjWjdWRFRvTF9Rd2c1c1dRTjBwS1JFcHFQLTBtbmJDa3ZIbHlJSzlyN0V0aFI5WW5haHFvaE1rNA?oc=5)
-
-`Wed, 26 Aug 2026 16:53:09 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxPNXc3bjgwdHV6YmJJU2MxWGduZVVXNnBjYzIxU1R3SUJQLWxKekZwWEt6bzNOc3R2dWN0bzBRVG4xWVZHcXhOMUxOblZidlF5TE9JWnIyR3o5WmozVnlFc3hUQzRWX0hwWHNLeWl1SkJiWGVZSUMtQjN6QWRjWjdWRFRvTF9Rd2c1c1dRTjBwS1JFcHFQLTBtbmJDa3ZIbHlJSzlyN0V0aFI5WW5haHFvaE1rNA?oc=5" target="_blank">Les lignes rouges du Medef pour la présidentielle 2027</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
