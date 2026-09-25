@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Thu, 24 Sep 2026 20:12:14 +0000`
-> 111 articles (30 derniers jours)
+> Derniere mise a jour : `Fri, 25 Sep 2026 10:36:54 +0000`
+> 110 articles (30 derniers jours)
+
+---
+
+### [Travailler plus : ces pistes chocs à l'effet massif sur la croissance et les finances publiques - Les Echos](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQU053RWxDR2xodTY2Ulc2aWVGM3MyQldIYzhZX0JWOUk1Zl92U1paRlV6VXhTV1VtM2NtdXVxRk8tVW1UT0JnOUdNQml2MjBXZDJmNDJwcnRtMkFKUDd0XzBUN0Nhc1E2eUVlb3VOSUVzOFF1cVVzelBicUFrclFTbnFUQWtFV05sZURCS3loWUFleHpmNHlMQjRlTEI3Q1RWbnJfcFpaNU50VFdmMDhGZk93bU9jbk1sanZ1ZmVYYTdmZEJZRGpGQzdza1pTRDd5TUJKQXctc2NFRkJVYWhVLQ?oc=5)
+
+`Fri, 25 Sep 2026 04:00:10 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi4AFBVV95cUxQU053RWxDR2xodTY2Ulc2aWVGM3MyQldIYzhZX0JWOUk1Zl92U1paRlV6VXhTV1VtM2NtdXVxRk8tVW1UT0JnOUdNQml2MjBXZDJmNDJwcnRtMkFKUDd0XzBUN0Nhc1E2eUVlb3VOSUVzOFF1cVVzelBicUFrclFTbnFUQWtFV05sZURCS3loWUFleHpmNHlMQjRlTEI3Q1RWbnJfcFpaNU50VFdmMDhGZk93bU9jbk1sanZ1ZmVYYTdmZEJZRGpGQzdza1pTRDd5TUJKQXctc2NFRkJVYWhVLQ?oc=5" target="_blank">Travailler plus : ces pistes chocs à l'effet massif sur la croissance et les finances publiques</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -874,21 +882,5 @@
 `Wed, 26 Aug 2026 16:53:09 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxPNXc3bjgwdHV6YmJJU2MxWGduZVVXNnBjYzIxU1R3SUJQLWxKekZwWEt6bzNOc3R2dWN0bzBRVG4xWVZHcXhOMUxOblZidlF5TE9JWnIyR3o5WmozVnlFc3hUQzRWX0hwWHNLeWl1SkJiWGVZSUMtQjN6QWRjWjdWRFRvTF9Rd2c1c1dRTjBwS1JFcHFQLTBtbmJDa3ZIbHlJSzlyN0V0aFI5WW5haHFvaE1rNA?oc=5" target="_blank">Les lignes rouges du Medef pour la présidentielle 2027</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [« Tout le spectre de l'entrepreneuriat est touché désormais » : record de pertes d'emploi chez les patrons - Les Echos](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOblhRS3ZJSDJsbXk4WXlZeXVCd0NuU2kzajJhVlZvQWwwSGpjZkJCT3A2SGhpaVFZZHJnRWVOcmdkMEtaR1paQ1JfWmtfNkVRelhPTHY0M1czc1hXTWFVc1NzRndFbVdrRmhuMXItRWJJbXM4UzJHY2Vva0RjV2dqRC0zRjk2YjduZlpHcXYxS0hHZkFZUHBRVkJSVmJBajFua3hMOGwwZ0VLNmJJQkxScDBpeFBSM0lHM1JFZDBTc1VyNVJKV2lFWVM4SVZYLTR3YllBQTBMblg0MW56VjRFMlpOMVd5NDBL?oc=5)
-
-`Wed, 26 Aug 2026 04:00:11 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi6AFBVV95cUxOblhRS3ZJSDJsbXk4WXlZeXVCd0NuU2kzajJhVlZvQWwwSGpjZkJCT3A2SGhpaVFZZHJnRWVOcmdkMEtaR1paQ1JfWmtfNkVRelhPTHY0M1czc1hXTWFVc1NzRndFbVdrRmhuMXItRWJJbXM4UzJHY2Vva0RjV2dqRC0zRjk2YjduZlpHcXYxS0hHZkFZUHBRVkJSVmJBajFua3hMOGwwZ0VLNmJJQkxScDBpeFBSM0lHM1JFZDBTc1VyNVJKV2lFWVM4SVZYLTR3YllBQTBMblg0MW56VjRFMlpOMVd5NDBL?oc=5" target="_blank">« Tout le spectre de l'entrepreneuriat est touché désormais » : record de pertes d'emploi chez les patrons</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Démographie : comment le Medef veut relancer la natalité - Les Echos](https://news.google.com/rss/articles/CBMirgFBVV95cUxPMFlSYWhwTkNnSkw2M1BXM0RuUC1vTDAxX3F5UXk4YmhyWTFWQVBycHFqcGRGRUx1T0F6MGpjN09BaTZUWDU0eEMzUzgzOXdEemlGV3NHWTNjbElNdTFuWFpURWlvYzJZZ24xU0EyUVRsSllXQVBvcE9BRHZKLU1zbjhBYU5QSVdVZElkTzlLQ3NCTWY0bzh1WVNFX1dCSndhMmlkWEx0RnBkNnpsQkE?oc=5)
-
-`Wed, 26 Aug 2026 05:00:09 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxPMFlSYWhwTkNnSkw2M1BXM0RuUC1vTDAxX3F5UXk4YmhyWTFWQVBycHFqcGRGRUx1T0F6MGpjN09BaTZUWDU0eEMzUzgzOXdEemlGV3NHWTNjbElNdTFuWFpURWlvYzJZZ24xU0EyUVRsSllXQVBvcE9BRHZKLU1zbjhBYU5QSVdVZElkTzlLQ3NCTWY0bzh1WVNFX1dCSndhMmlkWEx0RnBkNnpsQkE?oc=5" target="_blank">Démographie : comment le Medef veut relancer la natalité</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
