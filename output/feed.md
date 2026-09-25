@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Fri, 25 Sep 2026 14:31:45 +0000`
-> 110 articles (30 derniers jours)
+> Derniere mise a jour : `Fri, 25 Sep 2026 16:13:12 +0000`
+> 111 articles (30 derniers jours)
+
+---
+
+### [EXCLUSIF - Perquisition de la brigade financière dans le monde de la formation professionnelle - Les Echos](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNTUxoMTZNNGhvY1dzQW5YSzhsaldBeFVKSFh2YTlMZmNvbXY5S0UtUGt0NGRQTzJrdlZuc3dzQ3hFQ3M3VE9sU2RHTDQzVzhYZW5FbTltb0RwbEFYZlVxeG9MVDl3NzVuclViUXNXcjhOLVY5TDlPdUd1U0lUNUpRWUR0aFRIYTZaMEh4UFJ4c183djJTZFphUUtwb2dYQndjckRKX3ZqNlJjREhGWWYxNUdRUUVkQnVhOFlsUVBkb1ZYaHNpb29oN0tJY0FfbWJ2X0M5N2ZLbC1WMjNRWF9tUA?oc=5)
+
+`Fri, 25 Sep 2026 16:00:21 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi4AFBVV95cUxNTUxoMTZNNGhvY1dzQW5YSzhsaldBeFVKSFh2YTlMZmNvbXY5S0UtUGt0NGRQTzJrdlZuc3dzQ3hFQ3M3VE9sU2RHTDQzVzhYZW5FbTltb0RwbEFYZlVxeG9MVDl3NzVuclViUXNXcjhOLVY5TDlPdUd1U0lUNUpRWUR0aFRIYTZaMEh4UFJ4c183djJTZFphUUtwb2dYQndjckRKX3ZqNlJjREhGWWYxNUdRUUVkQnVhOFlsUVBkb1ZYaHNpb29oN0tJY0FfbWJ2X0M5N2ZLbC1WMjNRWF9tUA?oc=5" target="_blank">EXCLUSIF - Perquisition de la brigade financière dans le monde de la formation professionnelle</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
