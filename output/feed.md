@@ -1,7 +1,23 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Fri, 25 Sep 2026 20:10:18 +0000`
+> Derniere mise a jour : `Sat, 26 Sep 2026 13:40:33 +0000`
 > 110 articles (30 derniers jours)
+
+---
+
+### [EXCLUSIF - Budget 2027 : le gouvernement envisage de limiter encore les allègements de charges des entreprises - lesechos.fr](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNQ3JWM3lsQTk0Q09ZaGV5MTAzT243dm9KZzk0SlJvRlRNU25WbnhPckQwdzlrUG5sVVg1UjhtMHdjbmxEZUVzcTk0VXBLcFpFYThMMzJha3VNcnZwMWgwN1BZc1BZZEU5M2RVU29zSUV5UWtvLWE1akZkRjlmWFA3WDJyNWpFWG1nRGphM1B0b1kyaDdTNjVEcnhpaUxNRzdjanNfeDFRU213RjZLblZObkNWWEE1WTBDcnY3dkRnMnI3d05IWUFiNHJVLXVCel9uaUc3NjViaE5lSUhnVkFVY2ROdEdlUUdIcTVjWk5nSDBLYzg?oc=5)
+
+`Sat, 26 Sep 2026 06:35:49 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi8wFBVV95cUxNQ3JWM3lsQTk0Q09ZaGV5MTAzT243dm9KZzk0SlJvRlRNU25WbnhPckQwdzlrUG5sVVg1UjhtMHdjbmxEZUVzcTk0VXBLcFpFYThMMzJha3VNcnZwMWgwN1BZc1BZZEU5M2RVU29zSUV5UWtvLWE1akZkRjlmWFA3WDJyNWpFWG1nRGphM1B0b1kyaDdTNjVEcnhpaUxNRzdjanNfeDFRU213RjZLblZObkNWWEE1WTBDcnY3dkRnMnI3d05IWUFiNHJVLXVCel9uaUc3NjViaE5lSUhnVkFVY2ROdEdlUUdIcTVjWk5nSDBLYzg?oc=5" target="_blank">EXCLUSIF - Budget 2027 : le gouvernement envisage de limiter encore les allègements de charges des entreprises</a>&nbsp;&nbsp;<font color="#6f6f6f">lesechos.fr</font>
+
+---
+
+### [Finances Publiques : actualités, analyses et vidéos - Les Echos | Page 1031 - lesechos.fr](https://news.google.com/rss/articles/CBMijgFBVV95cUxOMDFLaTNmd3NTYV9vNnRZNTVXNWtpd3FHQ2NhTFktUTRQQ3d6ZklUbFNhZEFfVi1NT01wMlA2VEg2WlZUQzNCbUVybUg3ekliaGJOck5QaFNjQzNKYmZjVzhzZ2VvWUFjWG4wMmNSLXJlMjRxOXV0Z3d5bG5Wdm1ycmc4ZU8tQXk2TUxhYUp3?oc=5)
+
+`Wed, 23 Sep 2026 06:36:23 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMijgFBVV95cUxOMDFLaTNmd3NTYV9vNnRZNTVXNWtpd3FHQ2NhTFktUTRQQ3d6ZklUbFNhZEFfVi1NT01wMlA2VEg2WlZUQzNCbUVybUg3ekliaGJOck5QaFNjQzNKYmZjVzhzZ2VvWUFjWG4wMmNSLXJlMjRxOXV0Z3d5bG5Wdm1ycmc4ZU8tQXk2TUxhYUp3?oc=5" target="_blank">Finances Publiques : actualités, analyses et vidéos - Les Echos | Page 1031</a>&nbsp;&nbsp;<font color="#6f6f6f">lesechos.fr</font>
 
 ---
 
@@ -853,14 +869,6 @@
 
 ---
 
-### [100 détenus coupés du monde extérieur : un an après, retour à Vendin-le-Vieil pour un premier bilan des prisons ultrasécurisées pour narcotrafiquants - Les Echos](https://news.google.com/rss/articles/CBMiqAJBVV95cUxPQ1BuejhOZjdhYmFuVE1heEVhUHNBREJEZGNsV0pZUjVOb21abUtlY2VhTEZZejg5alAtS0k1ZW9xdEZ6OVBZZHY4Qjh0WkswODZJRXNBbDd6dU5sWm83M3ljcFpQN1RwS1FMX2pQa3Y0VDk0RU1zZE1hQmdibjU1a0ZQbEFzZkExVkxQTC0wUTFFdmlKcVRtNjFNd1FZRW9xVkg3UkFmRHFRdEsxOVRFemFDcm9TbXMtOXlsVDBKQzViMnVObmpFQVBrWHJITVlwa0xaUC03d0trM0RhWnFOaUV6RWNrQXg3ZXQyQ08zQ01JU24zYl9qY3NyZE4zV000X0d6X3RQOG9lcVZkMlBERWJIZ3FRNlN6RV9hbzl0ZEdMdGRRZmhwQw?oc=5)
-
-`Thu, 27 Aug 2026 10:36:46 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiqAJBVV95cUxPQ1BuejhOZjdhYmFuVE1heEVhUHNBREJEZGNsV0pZUjVOb21abUtlY2VhTEZZejg5alAtS0k1ZW9xdEZ6OVBZZHY4Qjh0WkswODZJRXNBbDd6dU5sWm83M3ljcFpQN1RwS1FMX2pQa3Y0VDk0RU1zZE1hQmdibjU1a0ZQbEFzZkExVkxQTC0wUTFFdmlKcVRtNjFNd1FZRW9xVkg3UkFmRHFRdEsxOVRFemFDcm9TbXMtOXlsVDBKQzViMnVObmpFQVBrWHJITVlwa0xaUC03d0trM0RhWnFOaUV6RWNrQXg3ZXQyQ08zQ01JU24zYl9qY3NyZE4zV000X0d6X3RQOG9lcVZkMlBERWJIZ3FRNlN6RV9hbzl0ZEdMdGRRZmhwQw?oc=5" target="_blank">100 détenus coupés du monde extérieur : un an après, retour à Vendin-le-Vieil pour un premier bilan des prisons ultrasécurisées pour narcotrafiquants</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
 ### [EXCLUSIF - Accidents du travail, maladies professionnelles : tour de vis en vue pour les entreprises et les salariés - Les Echos](https://news.google.com/rss/articles/CBMi-gFBVV95cUxPUDRoR2tSdVI1d1l4b1B5N2ZVdHhEVmNpZUFhd0ZpZWpnTm1lYnY3M08wWHVjM1VJcENRRTA4MFFQN2xyckNBaFJ4VHdacjl6d3lic1lzZ2tPS21namZvSGYzLTRsaG41aDhrSGhLaEVWQTlYekxzZHNjY1ljZVBQRG1rYTE1a0R4ZnJhdzhSOXMteTRiRDVYS0pwUkRPR01GZVhVUGZ3RmxpSVVuRVJYaC1McmNVc2pTb3lFWDJtbkhGNXVXOE02cXpXOUljSGFad0dTamViZlBJWVNoaTJRMmI2T2J0YWVfQ2E5RUJheHJTVG9EX0VGeVpn?oc=5)
 
 `Thu, 27 Aug 2026 15:48:25 GMT`
@@ -874,13 +882,5 @@
 `Thu, 27 Aug 2026 13:57:24 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZWFlMHpCNEcycTJaUkxkNTdqcTVkU3pJQ3JDNXRFX1Q0OWthZ0xwbzJqRFB0N3ozWHh4VG9Ua2kzVHN1LXJzRzRqUlFUcDNaV3V0ekxzVGR3anAxcHZKdlF5VFFzMzlXMFJKUmQ0d2dvY2xtaU0yVWlrSWlwUm9kdlNDMkpIb21jcHNSQ2ZHU3FqZ2JlOGlnRUtPTkE1SnVqLVNDTGlZamF3ZUJlVVJEdU5nYUZDV2o1ZU1YU1gyU2dYd3FaVVVHQUp6bmhWUGJwYXFn?oc=5" target="_blank">Mayotte : le gouvernement veut prolonger les aides pour les entreprises locales</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Pacte Dutreil, Crédit Impôt Recherche : Roland Lescure promet « un pacte de stabilité » aux entreprises - Les Echos](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQeWxpMno3RWM3VFJaR2dMWlhPMFROcGoxVWdMcGJFbGdqOC1NenhfOG83LVJkWVRINjAxS2NOVmhXV3FVc2t4ekQtRkdMVHZISDBvWTFFRFdHMXpic09qSTJOR2VEZG9RY2VhMDd0RTZiMkZDMFRJcFhpYXl5TzdhT2dtZDFRQ0JSU0p2VDRHN0NzSlJ3VTdwSUx1ME12UUVUSEhxTmp2SXluR1Z0aHc1UkFoYzZtemtGYUVkblA3MG9XNkh3ZE4yNHM2elduTFVJTTJlN2wwLWxWaFdOOFNDMXhqU3lEbWYteEJDRzFkY0JSWVk?oc=5)
-
-`Thu, 27 Aug 2026 09:37:28 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi8wFBVV95cUxQeWxpMno3RWM3VFJaR2dMWlhPMFROcGoxVWdMcGJFbGdqOC1NenhfOG83LVJkWVRINjAxS2NOVmhXV3FVc2t4ekQtRkdMVHZISDBvWTFFRFdHMXpic09qSTJOR2VEZG9RY2VhMDd0RTZiMkZDMFRJcFhpYXl5TzdhT2dtZDFRQ0JSU0p2VDRHN0NzSlJ3VTdwSUx1ME12UUVUSEhxTmp2SXluR1Z0aHc1UkFoYzZtemtGYUVkblA3MG9XNkh3ZE4yNHM2elduTFVJTTJlN2wwLWxWaFdOOFNDMXhqU3lEbWYteEJDRzFkY0JSWVk?oc=5" target="_blank">Pacte Dutreil, Crédit Impôt Recherche : Roland Lescure promet « un pacte de stabilité » aux entreprises</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
