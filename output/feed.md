@@ -1,7 +1,31 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Sat, 26 Sep 2026 13:40:33 +0000`
-> 110 articles (30 derniers jours)
+> Derniere mise a jour : `Sun, 27 Sep 2026 14:36:54 +0000`
+> 108 articles (30 derniers jours)
+
+---
+
+### [Retraités, salariés, entreprises… Ceux qui vont payer la facture du budget 2027 - Les Echos](https://news.google.com/rss/articles/CBMi2AFBVV95cUxORHA1WVFMN2F2WXhqdDRGWDBRVHdPblhmbEpycUlNYmpUSW5JUEJDQlNkRGZYU001SDRLZEkxck5rMVJVQmN0WW5tLS1BaGkzNXVpNldmVlhTQ0ktb3QxaHpYaFRsZHN2RHpBamJLTTlnN0VRQ01xZENpOExVYkdNOXlHREQtVUlJYlVJWldBYVhYYnNQdEZMNzRiSGxnSDlIS2tKWDlCbzRub1hyaVZacGtXT1h5YkpvcGFHOHd0YlpmMF91bWNNdUhFT3ctbUhPcEZ1NFFldy0?oc=5)
+
+`Sun, 27 Sep 2026 06:35:09 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi2AFBVV95cUxORHA1WVFMN2F2WXhqdDRGWDBRVHdPblhmbEpycUlNYmpUSW5JUEJDQlNkRGZYU001SDRLZEkxck5rMVJVQmN0WW5tLS1BaGkzNXVpNldmVlhTQ0ktb3QxaHpYaFRsZHN2RHpBamJLTTlnN0VRQ01xZENpOExVYkdNOXlHREQtVUlJYlVJWldBYVhYYnNQdEZMNzRiSGxnSDlIS2tKWDlCbzRub1hyaVZacGtXT1h5YkpvcGFHOHd0YlpmMF91bWNNdUhFT3ctbUhPcEZ1NFFldy0?oc=5" target="_blank">Retraités, salariés, entreprises… Ceux qui vont payer la facture du budget 2027</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Mobilisation des fonctionnaires mardi, sur fond de montée des tensions sociales - Les Echos](https://news.google.com/rss/articles/CBMizgFBVV95cUxPWUNPVVdFT3lycFFFckhSblU3N09OVF9FQU9GMFR0QXdNeFpsYXIxZW41SksxSkdOMUtxRUY4OE1tUTVZb3BNUkhZd1BBSGdwY0lJSXNDLTdqSmRVRnhaMVhRQ01abXJILXl4Z0t5cjNUd19pY1o0QnNJSDE3aTF0bEhIb0Q0R1NHZXM0QzlWSEZwbWxuMkVUMFVLSDhjc0dPV0d4ZFVhSUhRYXh3UkZlcnhtUnZRcm9WU0FvQWc3bkhCaWZuTm54WHAtcS05QQ?oc=5)
+
+`Sun, 27 Sep 2026 14:31:07 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMizgFBVV95cUxPWUNPVVdFT3lycFFFckhSblU3N09OVF9FQU9GMFR0QXdNeFpsYXIxZW41SksxSkdOMUtxRUY4OE1tUTVZb3BNUkhZd1BBSGdwY0lJSXNDLTdqSmRVRnhaMVhRQ01abXJILXl4Z0t5cjNUd19pY1o0QnNJSDE3aTF0bEhIb0Q0R1NHZXM0QzlWSEZwbWxuMkVUMFVLSDhjc0dPV0d4ZFVhSUhRYXh3UkZlcnhtUnZRcm9WU0FvQWc3bkhCaWZuTm54WHAtcS05QQ?oc=5" target="_blank">Mobilisation des fonctionnaires mardi, sur fond de montée des tensions sociales</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Économie | Page 246 - Les Echos](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5MM0dYam5QQlBHTHhmSWdZQ1ZITTEwNnRIeHVwaVh2X0Rza09XZ0VTWnZqcllBLXdFYllNRG9OTHZ1WFdZLWl2elZtc1NnWXZRU1JTTWJUYVpyZXlF?oc=5)
+
+`Tue, 22 Sep 2026 16:20:38 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiXEFVX3lxTE5MM0dYam5QQlBHTHhmSWdZQ1ZITTEwNnRIeHVwaVh2X0Rza09XZ0VTWnZqcllBLXdFYllNRG9OTHZ1WFdZLWl2elZtc1NnWXZRU1JTTWJUYVpyZXlF?oc=5" target="_blank">Économie | Page 246</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -842,45 +866,5 @@
 `Fri, 28 Aug 2026 21:24:33 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMixAFBVV95cUxQN3dzR0pLaGxUU0U4b0ROWWdaaXhWU1NhcXE3Z2ItWVNHeGJaS29SN0lEai1fUnZETzM5U1hYdkFSeHB6aWI4SVlrb0p0cXJFLThod1JMSXRZdmMwWU03QnM4VXU4TjlPd1lqUndPWnF6UEZQR3RpelpWR0lTV1V0RUJkbURzNlNVVHVFZU9GTnltX2VFWVhNRGZ3THRabDhUZkhraXJmRzM1a3FTNzBtdHNsa1JCME9tek1hRkhqc2Z6V3Q2?oc=5" target="_blank">Dette : l'agence Fitch maintient la note souveraine de la France</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [« C'est un impact absolument terrifiant » : les canicules font caler l'économie française - Les Echos](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdFNWMjZkbmVZVU90Tkxfd1BNU0NfT2dBdFRKOVRjNlN4S1dFODlBVE52QVBqdzZqNkU5dEs0VzhRc0tSc1B0RklxcFRTSEx3bURYbHVtSVhpT25QaG1SMGRISG5uS0stSk1iSEtpSzVRcnZqQXowMjVZXzBSSHc1ZUdNcm1xaTIwUHFCSWJpS1NOUU0tN2pMWGwzYlJTa21lNkp3Rzk2RGtkZw?oc=5)
-
-`Fri, 28 Aug 2026 07:08:23 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdFNWMjZkbmVZVU90Tkxfd1BNU0NfT2dBdFRKOVRjNlN4S1dFODlBVE52QVBqdzZqNkU5dEs0VzhRc0tSc1B0RklxcFRTSEx3bURYbHVtSVhpT25QaG1SMGRISG5uS0stSk1iSEtpSzVRcnZqQXowMjVZXzBSSHc1ZUdNcm1xaTIwUHFCSWJpS1NOUU0tN2pMWGwzYlJTa21lNkp3Rzk2RGtkZw?oc=5" target="_blank">« C'est un impact absolument terrifiant » : les canicules font caler l'économie française</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [TVA sociale : cinq choses à savoir sur cette mesure controversée remise sur la table par François Hollande et Bruno Le Maire - Les Echos](https://news.google.com/rss/articles/CBMilgJBVV95cUxOUlgwTl9BZUloN01Ja3k5WmQyOUtib29aYldTV2k4aTA2WUxqOFV4TEhEbUZQQWt2aGFQcUZpTEdBYXl1VUZVUVJVQTRJNi1SUUhGcV9LQlFRUV8tMU05b2otbGR4VFlzQ2FTQ0J5Zmx0WkVhN1dIaU43a2tQSWhxZEJndHNnYnlGbzlhVXBGbXJUUFVnYmpGMFA3X2RDaE5MNm1rNnZjSUp5U0hnVms4N3o5ZXZuaHpsSVpUcy1XSThGcHZqUjVhWE9UY0ZPQ3JxWnJJamYxeUp3YzNZbG01THpYdGRDZEg2UDllZFFGN05xNzBYZ01sLXo2OHZ5ODB4ZHNOMUhiUzFIMnV5amRPTDlWbWxPUQ?oc=5)
-
-`Fri, 28 Aug 2026 04:20:09 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMilgJBVV95cUxOUlgwTl9BZUloN01Ja3k5WmQyOUtib29aYldTV2k4aTA2WUxqOFV4TEhEbUZQQWt2aGFQcUZpTEdBYXl1VUZVUVJVQTRJNi1SUUhGcV9LQlFRUV8tMU05b2otbGR4VFlzQ2FTQ0J5Zmx0WkVhN1dIaU43a2tQSWhxZEJndHNnYnlGbzlhVXBGbXJUUFVnYmpGMFA3X2RDaE5MNm1rNnZjSUp5U0hnVms4N3o5ZXZuaHpsSVpUcy1XSThGcHZqUjVhWE9UY0ZPQ3JxWnJJamYxeUp3YzNZbG01THpYdGRDZEg2UDllZFFGN05xNzBYZ01sLXo2OHZ5ODB4ZHNOMUhiUzFIMnV5amRPTDlWbWxPUQ?oc=5" target="_blank">TVA sociale : cinq choses à savoir sur cette mesure controversée remise sur la table par François Hollande et Bruno Le Maire</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [L'emploi se maintient malgré une croissance française en berne - Les Echos](https://news.google.com/rss/articles/CBMitwFBVV95cUxOV3M5dksyNHp3enhDOXZnOW96TklIb2JNYUppNDFTU1BXTmVsblF1OFJRYlNMMzF4MFZNR2Y1eW51YWY3eEQ5SnJVZkVoMjhkeXNEeXNWRVlQSEdmWHFxN3pFQ1JDODBKOG9yOFoxVlRrWG1kRncwYXV3Tk5KYy1Fb242NjhENkJYbWQwcDV0c2FVelFnQjNCeEViS1JKSmhJQkk1aXkyNVd6OGRnUlBmLUV4d1Q4WXM?oc=5)
-
-`Fri, 28 Aug 2026 07:56:34 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxOV3M5dksyNHp3enhDOXZnOW96TklIb2JNYUppNDFTU1BXTmVsblF1OFJRYlNMMzF4MFZNR2Y1eW51YWY3eEQ5SnJVZkVoMjhkeXNEeXNWRVlQSEdmWHFxN3pFQ1JDODBKOG9yOFoxVlRrWG1kRncwYXV3Tk5KYy1Fb242NjhENkJYbWQwcDV0c2FVelFnQjNCeEViS1JKSmhJQkk1aXkyNVd6OGRnUlBmLUV4d1Q4WXM?oc=5" target="_blank">L'emploi se maintient malgré une croissance française en berne</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [EXCLUSIF - Accidents du travail, maladies professionnelles : tour de vis en vue pour les entreprises et les salariés - Les Echos](https://news.google.com/rss/articles/CBMi-gFBVV95cUxPUDRoR2tSdVI1d1l4b1B5N2ZVdHhEVmNpZUFhd0ZpZWpnTm1lYnY3M08wWHVjM1VJcENRRTA4MFFQN2xyckNBaFJ4VHdacjl6d3lic1lzZ2tPS21namZvSGYzLTRsaG41aDhrSGhLaEVWQTlYekxzZHNjY1ljZVBQRG1rYTE1a0R4ZnJhdzhSOXMteTRiRDVYS0pwUkRPR01GZVhVUGZ3RmxpSVVuRVJYaC1McmNVc2pTb3lFWDJtbkhGNXVXOE02cXpXOUljSGFad0dTamViZlBJWVNoaTJRMmI2T2J0YWVfQ2E5RUJheHJTVG9EX0VGeVpn?oc=5)
-
-`Thu, 27 Aug 2026 15:48:25 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi-gFBVV95cUxPUDRoR2tSdVI1d1l4b1B5N2ZVdHhEVmNpZUFhd0ZpZWpnTm1lYnY3M08wWHVjM1VJcENRRTA4MFFQN2xyckNBaFJ4VHdacjl6d3lic1lzZ2tPS21namZvSGYzLTRsaG41aDhrSGhLaEVWQTlYekxzZHNjY1ljZVBQRG1rYTE1a0R4ZnJhdzhSOXMteTRiRDVYS0pwUkRPR01GZVhVUGZ3RmxpSVVuRVJYaC1McmNVc2pTb3lFWDJtbkhGNXVXOE02cXpXOUljSGFad0dTamViZlBJWVNoaTJRMmI2T2J0YWVfQ2E5RUJheHJTVG9EX0VGeVpn?oc=5" target="_blank">EXCLUSIF - Accidents du travail, maladies professionnelles : tour de vis en vue pour les entreprises et les salariés</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Mayotte : le gouvernement veut prolonger les aides pour les entreprises locales - Les Echos](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZWFlMHpCNEcycTJaUkxkNTdqcTVkU3pJQ3JDNXRFX1Q0OWthZ0xwbzJqRFB0N3ozWHh4VG9Ua2kzVHN1LXJzRzRqUlFUcDNaV3V0ekxzVGR3anAxcHZKdlF5VFFzMzlXMFJKUmQ0d2dvY2xtaU0yVWlrSWlwUm9kdlNDMkpIb21jcHNSQ2ZHU3FqZ2JlOGlnRUtPTkE1SnVqLVNDTGlZamF3ZUJlVVJEdU5nYUZDV2o1ZU1YU1gyU2dYd3FaVVVHQUp6bmhWUGJwYXFn?oc=5)
-
-`Thu, 27 Aug 2026 13:57:24 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZWFlMHpCNEcycTJaUkxkNTdqcTVkU3pJQ3JDNXRFX1Q0OWthZ0xwbzJqRFB0N3ozWHh4VG9Ua2kzVHN1LXJzRzRqUlFUcDNaV3V0ekxzVGR3anAxcHZKdlF5VFFzMzlXMFJKUmQ0d2dvY2xtaU0yVWlrSWlwUm9kdlNDMkpIb21jcHNSQ2ZHU3FqZ2JlOGlnRUtPTkE1SnVqLVNDTGlZamF3ZUJlVVJEdU5nYUZDV2o1ZU1YU1gyU2dYd3FaVVVHQUp6bmhWUGJwYXFn?oc=5" target="_blank">Mayotte : le gouvernement veut prolonger les aides pour les entreprises locales</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
