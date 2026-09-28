@@ -1,7 +1,23 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Sun, 27 Sep 2026 14:36:54 +0000`
-> 108 articles (30 derniers jours)
+> Derniere mise a jour : `Mon, 28 Sep 2026 12:03:52 +0000`
+> 109 articles (30 derniers jours)
+
+---
+
+### [« Les investisseurs sont très nerveux » : le gouvernement prêt à dévoiler le budget 2027 sous la pression des marchés - Les Echos](https://news.google.com/rss/articles/CBMihwJBVV95cUxOUlFsWThzalJGUmt3d3psb3MweG1lbngyME5tYWlGb1hjZFVDeWhNT2VZbGNLeWNmc21sTWFVX1F6VWJfX2k1SEl3a2dRNlh1TFhUdXVpLXlCZzduWlJxallmM1NDeEJJNE1nMEFKQkhXa0FYaUgzU0gtV1kwd2dBOW9GaFZVSnpqMzNJZ21MOFVZaXh0RmxFVHNMSDlnSVFSNFlBRDdnTkE5VTJRV3F5S2FrMi16SlRjZ0tnT2JpM1NwLWFteTRWdVJoVS1CS3ItQ1JrSjloN0FIZFF5T2RJNExaMzliQmtQaE5VcW9GUm9LQThNem1SdUhLaEZlanNtNktZNUd2dw?oc=5)
+
+`Mon, 28 Sep 2026 04:15:09 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMihwJBVV95cUxOUlFsWThzalJGUmt3d3psb3MweG1lbngyME5tYWlGb1hjZFVDeWhNT2VZbGNLeWNmc21sTWFVX1F6VWJfX2k1SEl3a2dRNlh1TFhUdXVpLXlCZzduWlJxallmM1NDeEJJNE1nMEFKQkhXa0FYaUgzU0gtV1kwd2dBOW9GaFZVSnpqMzNJZ21MOFVZaXh0RmxFVHNMSDlnSVFSNFlBRDdnTkE5VTJRV3F5S2FrMi16SlRjZ0tnT2JpM1NwLWFteTRWdVJoVS1CS3ItQ1JrSjloN0FIZFF5T2RJNExaMzliQmtQaE5VcW9GUm9LQThNem1SdUhLaEZlanNtNktZNUd2dw?oc=5" target="_blank">« Les investisseurs sont très nerveux » : le gouvernement prêt à dévoiler le budget 2027 sous la pression des marchés</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Désindexation des pensions, fin de l'abattement fiscal, hausse de la CSG… Les pistes d'économies sur les retraités au banc d'essai - Les Echos](https://news.google.com/rss/articles/CBMimAJBVV95cUxNeXM5ZXJOSW5fWXhNMmd1NWVwV25tUHQ4ZVVKdl9xNkgwMTkzcWNMU0JTV1dGWTJCZWV3cFQ4MlJsbUlpMFFlSXo2Z3F1RFJlY1lFQktVYkZVcUluZ2czZ2NHTkxmRWRfeWU0YjZHUnhrUXYybXE2bXpwZVZtMW04N1VhdWVhS3lYNlFXRjcyWDhfOGx2TGphN3VsZTFScTlrVk9OUzluTXp6WmpKaXZTdkFkblV3NmdTajNUclZfQkFUZ1UycjhJdEVtTDZjRjcxN0Q0b3gtV3hlaTQySGhYWnBqdzNsOXp0VHVjRE5XbWd4VnhvUWFyRlZLTzNTcW4tVmRCazdma0RkVm5LRl9iV3ZGV0Q5d2ln?oc=5)
+
+`Mon, 28 Sep 2026 09:09:53 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMimAJBVV95cUxNeXM5ZXJOSW5fWXhNMmd1NWVwV25tUHQ4ZVVKdl9xNkgwMTkzcWNMU0JTV1dGWTJCZWV3cFQ4MlJsbUlpMFFlSXo2Z3F1RFJlY1lFQktVYkZVcUluZ2czZ2NHTkxmRWRfeWU0YjZHUnhrUXYybXE2bXpwZVZtMW04N1VhdWVhS3lYNlFXRjcyWDhfOGx2TGphN3VsZTFScTlrVk9OUzluTXp6WmpKaXZTdkFkblV3NmdTajNUclZfQkFUZ1UycjhJdEVtTDZjRjcxN0Q0b3gtV3hlaTQySGhYWnBqdzNsOXp0VHVjRE5XbWd4VnhvUWFyRlZLTzNTcW4tVmRCazdma0RkVm5LRl9iV3ZGV0Q5d2ln?oc=5" target="_blank">Désindexation des pensions, fin de l'abattement fiscal, hausse de la CSG… Les pistes d'économies sur les retraités au banc d'essai</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -858,13 +874,5 @@
 `Mon, 31 Aug 2026 09:52:11 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMiywFBVV95cUxPTXJMZk9hZVVucXJNMUUyVkw5YXVseGZfRWNXTjRDNUwwUGI0VFZqWnJlNzRHbF9zcVo3Wmp4VmpDR3BpM1l1THhhR2RkTjVLRHBwbmxuSmpHbzJGcGRnS0F4bWpuck1nRkhvZkh2WThGOXg3T0dWS0wtdmtOdm5qVFdfalZRQzhTenpvXzNPS1hjR0NNRmFfYUotU1ctS0VIMVBoMGFYR014WWIzdnNjWmtTbUlqMmVYTjVyZWp4bUtZNmVQN3J3endmaw?oc=5" target="_blank">Facturation électronique : les secteurs qui ont accéléré et les mauvais élèves</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Dette : l'agence Fitch maintient la note souveraine de la France - Les Echos](https://news.google.com/rss/articles/CBMixAFBVV95cUxQN3dzR0pLaGxUU0U4b0ROWWdaaXhWU1NhcXE3Z2ItWVNHeGJaS29SN0lEai1fUnZETzM5U1hYdkFSeHB6aWI4SVlrb0p0cXJFLThod1JMSXRZdmMwWU03QnM4VXU4TjlPd1lqUndPWnF6UEZQR3RpelpWR0lTV1V0RUJkbURzNlNVVHVFZU9GTnltX2VFWVhNRGZ3THRabDhUZkhraXJmRzM1a3FTNzBtdHNsa1JCME9tek1hRkhqc2Z6V3Q2?oc=5)
-
-`Fri, 28 Aug 2026 21:24:33 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMixAFBVV95cUxQN3dzR0pLaGxUU0U4b0ROWWdaaXhWU1NhcXE3Z2ItWVNHeGJaS29SN0lEai1fUnZETzM5U1hYdkFSeHB6aWI4SVlrb0p0cXJFLThod1JMSXRZdmMwWU03QnM4VXU4TjlPd1lqUndPWnF6UEZQR3RpelpWR0lTV1V0RUJkbURzNlNVVHVFZU9GTnltX2VFWVhNRGZ3THRabDhUZkhraXJmRzM1a3FTNzBtdHNsa1JCME9tek1hRkhqc2Z6V3Q2?oc=5" target="_blank">Dette : l'agence Fitch maintient la note souveraine de la France</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
