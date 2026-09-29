@@ -1,7 +1,23 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Mon, 28 Sep 2026 22:18:28 +0000`
-> 112 articles (30 derniers jours)
+> Derniere mise a jour : `Tue, 29 Sep 2026 11:37:38 +0000`
+> 114 articles (30 derniers jours)
+
+---
+
+### [La dette publique s'envole à un niveau inédit depuis l'après-guerre - Les Echos](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdGkxUDVFZHdFVWdQZWpxU25iR3VrMkNyTnhaeVhPVXRiLXBwaWFhTk1iZnh4ekR1WWFrYWJoMGxjVXpYUnEyWU15cWpJZFBZLWhSOC1XakgyOWxjal96djAxa3g0MElONjMwTk1nX0htTWRfOXFjOTduNHBIdjMyYVNHdTZWQ0VGaDVKNUstbjVXblZYNkgzazZndUZLbTZYU20wRjMzN3p6ZDI0UzBpOVU4M1JPelh2WTBhTnNwYV9VaDgtRUd6bW9qZWk2ekVyTGhj?oc=5)
+
+`Tue, 29 Sep 2026 07:36:42 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdGkxUDVFZHdFVWdQZWpxU25iR3VrMkNyTnhaeVhPVXRiLXBwaWFhTk1iZnh4ekR1WWFrYWJoMGxjVXpYUnEyWU15cWpJZFBZLWhSOC1XakgyOWxjal96djAxa3g0MElONjMwTk1nX0htTWRfOXFjOTduNHBIdjMyYVNHdTZWQ0VGaDVKNUstbjVXblZYNkgzazZndUZLbTZYU20wRjMzN3p6ZDI0UzBpOVU4M1JPelh2WTBhTnNwYV9VaDgtRUd6bW9qZWk2ekVyTGhj?oc=5" target="_blank">La dette publique s'envole à un niveau inédit depuis l'après-guerre</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [« Le maître mot de la campagne présidentielle est le déni total de réalité » : l'inquiétant silence des candidats sur le désendettement - Les Echos](https://news.google.com/rss/articles/CBMingJBVV95cUxPTmtlWTZlRXV5c1pwVEhjU0xVbXB0R2U1clo0ZFNjUnhhcUVyWWhRY3pudkg0dzFtYXBNOVpXc2o0Q28wemNnLW8xbmptbVBpSDlQTUl2UnNHVmhjYTZUYng4YUZMeTdBcnRZTjU3RE1KeDNDNW54c0RsZDVUUVVzUzZ1eGF5QS14QjJKT3c5b29VUFpyUVdxSC1GVHh0TkQxRFphT2tBend4YVZMdWE5MnhJaXZUYU5Ra1BwOGtXdjM4emF0a3cwNFVROUh0aXR2R2ZMV1h1TjcxVFJJVl8tQXBMbEtjSEpBSlJOWWhOY2R5WHROWUEtRlVvbmxHUGRzWF91QnY5a1FxSS1nNFFHYzNjNUlGOTA4dnV5bDdn?oc=5)
+
+`Tue, 29 Sep 2026 04:05:08 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMingJBVV95cUxPTmtlWTZlRXV5c1pwVEhjU0xVbXB0R2U1clo0ZFNjUnhhcUVyWWhRY3pudkg0dzFtYXBNOVpXc2o0Q28wemNnLW8xbmptbVBpSDlQTUl2UnNHVmhjYTZUYng4YUZMeTdBcnRZTjU3RE1KeDNDNW54c0RsZDVUUVVzUzZ1eGF5QS14QjJKT3c5b29VUFpyUVdxSC1GVHh0TkQxRFphT2tBend4YVZMdWE5MnhJaXZUYU5Ra1BwOGtXdjM4emF0a3cwNFVROUh0aXR2R2ZMV1h1TjcxVFJJVl8tQXBMbEtjSEpBSlJOWWhOY2R5WHROWUEtRlVvbmxHUGRzWF91QnY5a1FxSS1nNFFHYzNjNUlGOTA4dnV5bDdn?oc=5" target="_blank">« Le maître mot de la campagne présidentielle est le déni total de réalité » : l'inquiétant silence des candidats sur le désendettement</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
