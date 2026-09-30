@@ -1,7 +1,39 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Wed, 30 Sep 2026 11:25:04 +0000`
-> 119 articles (30 derniers jours)
+> Derniere mise a jour : `Wed, 30 Sep 2026 15:46:34 +0000`
+> 122 articles (30 derniers jours)
+
+---
+
+### [Budget 2027 : les retraites seront gelées au-delà de 1.260 euros dans la copie initiale du gouvernement - Les Echos](https://news.google.com/rss/articles/CBMi-AFBVV95cUxNUXFZSW9lbEZLRWl4MDZYYXA1bWRkNW1PNHQ2Z3B5dlZ1a24weFBOMTlCRGZva3U1LW1oVDBfRUpOeWVheFItNTkyQmhiekZETFZrOVU4T1RER0NONWo5NWRMc3JTdHQ2VlF5dnFza1dsczNWY2J5MmJTLWpGVjluSk1Ra0xTczJmVFJCVFNqU3llc2tOTlR0bFVKb2xqYXM1bWUwc1Z5SHRFVzV1S3VpSWROMzYzaVlUbGxsMGxaUG1Gc3dpZFI0ZzRFSFh6ZVlxQ1I1WXdWMGtlQlY3MTZReVpGZXg2UXVDZ3R5SHlxazJPUlBXTTc4UA?oc=5)
+
+`Wed, 30 Sep 2026 11:37:17 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi-AFBVV95cUxNUXFZSW9lbEZLRWl4MDZYYXA1bWRkNW1PNHQ2Z3B5dlZ1a24weFBOMTlCRGZva3U1LW1oVDBfRUpOeWVheFItNTkyQmhiekZETFZrOVU4T1RER0NONWo5NWRMc3JTdHQ2VlF5dnFza1dsczNWY2J5MmJTLWpGVjluSk1Ra0xTczJmVFJCVFNqU3llc2tOTlR0bFVKb2xqYXM1bWUwc1Z5SHRFVzV1S3VpSWROMzYzaVlUbGxsMGxaUG1Gc3dpZFI0ZzRFSFh6ZVlxQ1I1WXdWMGtlQlY3MTZReVpGZXg2UXVDZ3R5SHlxazJPUlBXTTc4UA?oc=5" target="_blank">Budget 2027 : les retraites seront gelées au-delà de 1.260 euros dans la copie initiale du gouvernement</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Comment l'impôt sur le revenu a baissé sous la présidence Macron - Les Echos](https://news.google.com/rss/articles/CBMixwFBVV95cUxOTzVMakhUMWY2aHY3MzVUcFlvSVhqRFpFWTJDUVZRSzQ0VWJWQXlJcXRYYnMzUG1jT1hWNjE1RjBWeUtScUs3UlJvS18zVVZBZFRNOFdPTGgxS1N6VG9hTkQ0M19wV3FwNVBETF9Kd0U4WE9UMU1fRDJXOVZzZFZ0NklVMUFMMGI5bEJVcVd0WHRTTURkQ2t1a3JTYmVRM25zb2swcWZWRXA5TFZqUHljOUhLUmEzR2s2dVJnV3phRFFrYmh1RTBZ?oc=5)
+
+`Wed, 30 Sep 2026 15:20:16 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMixwFBVV95cUxOTzVMakhUMWY2aHY3MzVUcFlvSVhqRFpFWTJDUVZRSzQ0VWJWQXlJcXRYYnMzUG1jT1hWNjE1RjBWeUtScUs3UlJvS18zVVZBZFRNOFdPTGgxS1N6VG9hTkQ0M19wV3FwNVBETF9Kd0U4WE9UMU1fRDJXOVZzZFZ0NklVMUFMMGI5bEJVcVd0WHRTTURkQ2t1a3JTYmVRM25zb2swcWZWRXA5TFZqUHljOUhLUmEzR2s2dVJnV3phRFFrYmh1RTBZ?oc=5" target="_blank">Comment l'impôt sur le revenu a baissé sous la présidence Macron</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Budget 2027 : les armateurs n'échapperont pas à une contribution exceptionnelle sur leurs bénéfices - Les Echos](https://news.google.com/rss/articles/CBMi8wFBVV95cUxOWkpBaVREQThmT2pXM2JLcEdwNDdfLVRYdURzQmN1M2w4ekNTeVdrOUdCMUY0dFRUVl9nOXpNUUJzSE1qbVltVWhYejctNmU2dnJXbzA2WGtLaHVzamZXYVBfR2h4YXIzQk9PUldsS1lDRmVyRmZPdkZWM041N3paMTlJTUdudVdiMjY2Q3pwd2dlM2tiVVpSaEEwX1I2VGl4cEpPR1hpbUZTajZYSndjOXNFb2dEdzVteU9rUHZzVmRmY2tDTkkwY0ZwWER0Q3JoZ1d3T0hxUUl1ZnFLanVRMVdZWVZLZjFuNDhSRmJzRGhEdm8?oc=5)
+
+`Wed, 30 Sep 2026 15:32:55 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi8wFBVV95cUxOWkpBaVREQThmT2pXM2JLcEdwNDdfLVRYdURzQmN1M2w4ekNTeVdrOUdCMUY0dFRUVl9nOXpNUUJzSE1qbVltVWhYejctNmU2dnJXbzA2WGtLaHVzamZXYVBfR2h4YXIzQk9PUldsS1lDRmVyRmZPdkZWM041N3paMTlJTUdudVdiMjY2Q3pwd2dlM2tiVVpSaEEwX1I2VGl4cEpPR1hpbUZTajZYSndjOXNFb2dEdzVteU9rUHZzVmRmY2tDTkkwY0ZwWER0Q3JoZ1d3T0hxUUl1ZnFLanVRMVdZWVZLZjFuNDhSRmJzRGhEdm8?oc=5" target="_blank">Budget 2027 : les armateurs n'échapperont pas à une contribution exceptionnelle sur leurs bénéfices</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Budget 2027 : combien gagnent les retraités, cible du gouvernement - Les Echos](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOam9pTmhmRTFGb2VrdFJmMXFpM3RVSnNkbkZJZTJjYURSUG11Y0xXSmtiQTJXMmI4ZnVZQUFIRnhkRGNLMURiRWFKdWdjcmdOb0hLYUNZZnk5bm9DUVJ1bnZMUEIzT2ZHeU5McHg5b2kxbTBwNl9KVTd5WGJQZW40dFhXS2gzRVRYVDlvY2dwQnFyakQ4TE9YbW50TUpTQWR3TWNvWXRuVHJqMUtRU1h0LXNMNGlrX1pmOVoxSjNkX0Y?oc=5)
+
+`Wed, 30 Sep 2026 13:32:43 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxOam9pTmhmRTFGb2VrdFJmMXFpM3RVSnNkbkZJZTJjYURSUG11Y0xXSmtiQTJXMmI4ZnVZQUFIRnhkRGNLMURiRWFKdWdjcmdOb0hLYUNZZnk5bm9DUVJ1bnZMUEIzT2ZHeU5McHg5b2kxbTBwNl9KVTd5WGJQZW40dFhXS2gzRVRYVDlvY2dwQnFyakQ4TE9YbW50TUpTQWR3TWNvWXRuVHJqMUtRU1h0LXNMNGlrX1pmOVoxSjNkX0Y?oc=5" target="_blank">Budget 2027 : combien gagnent les retraités, cible du gouvernement</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -938,14 +970,6 @@
 `Tue, 01 Sep 2026 15:42:17 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi_gFBVV95cUxPQ053RFpfNnNUQ1NRLXR6RmhBdkZSQi1HTEdhMkJ1UGJXdHR4UXlDcFp2N3JiZE9kWWhrS2FtNi1pQUY1NlZNakU4UnVlTlhxSV81S0xPYlF0RFZTLXlvSWxLLVhVbXhYaHpsREZCLTBGSHQweVQ2Xy1XOVQtdmJpMlR2bV9kOU1kVmJUZ01FMExGX1VRLV8wdzljaUpLYk1HTmRuTzl6SFExR09qZGR6TXIyTjlJMzBTTXZQeEd3cHhHRXdzUTBNY1Y4RWUwdGtQUUtmcVUtQ0ZtWVMxWWNzcXF3N2ZEMm5XblJiUWpFYlRzMzJhQ1M5M0lNZXVUdw?oc=5" target="_blank">Déficit, dette, impôts : le rapporteur du Budget demande aux candidats à la présidentielle de sortir du bois</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Retraites : pourquoi une sous-indexation des pensions des plus aisés interroge le système tout entier - Les Echos](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNbVNrTW9mTzFqcFpZcWRIRElycDhOYzItZ3RhOEI5a19fUnRzRVBvUXI5aGVmeTVHVmQ1NmltVVpzd1JlRHNnTTQtWlZHRWFhV3puaEVKRUpJV3BkUlROQTlLTjJuN1E1VUtsTnpnRVRzZE5yRmkweXNXME5NVFhKbjZjeEhBbE9PMVl1azFxSUJtbGh3Q3V3eHJVMkNkdEl4WWhzNjhxNmtaY2lWbVNzR283eDNzQldGc0hnQ190eFV2Sld4WGkxVDRhVHVkRHZNdnBjaEE2TmJ6ZDdGbFdySl90c3ZQeW0tR2c?oc=5)
-
-`Mon, 31 Aug 2026 14:01:09 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi6gFBVV95cUxNbVNrTW9mTzFqcFpZcWRIRElycDhOYzItZ3RhOEI5a19fUnRzRVBvUXI5aGVmeTVHVmQ1NmltVVpzd1JlRHNnTTQtWlZHRWFhV3puaEVKRUpJV3BkUlROQTlLTjJuN1E1VUtsTnpnRVRzZE5yRmkweXNXME5NVFhKbjZjeEhBbE9PMVl1azFxSUJtbGh3Q3V3eHJVMkNkdEl4WWhzNjhxNmtaY2lWbVNzR283eDNzQldGc0hnQ190eFV2Sld4WGkxVDRhVHVkRHZNdnBjaEE2TmJ6ZDdGbFdySl90c3ZQeW0tR2c?oc=5" target="_blank">Retraites : pourquoi une sous-indexation des pensions des plus aisés interroge le système tout entier</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
