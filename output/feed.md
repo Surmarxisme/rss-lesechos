@@ -1,7 +1,23 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Wed, 30 Sep 2026 15:46:34 +0000`
-> 122 articles (30 derniers jours)
+> Derniere mise a jour : `Wed, 30 Sep 2026 17:19:22 +0000`
+> 123 articles (30 derniers jours)
+
+---
+
+### [Budget 2027 : le gouvernement veut « diviser quasiment par deux » le déficit de la Sécurité sociale - Les Echos](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYUdDOGN2SEhscy1qeXBrLUFzSEt3ei1XYy1QWGNyLUJ2V1RUNFc5WkpzM1hZdGV5Z2N4SVl3a2hjbGZBb3pKMERDU0JQbWNvMlN4Y0luWXMxRVN6ekhaVkpfTmJyVHEyajJEZjB3Q282ZnpnTmZjRmxfN2k2Qk5pNnNtOGFBbXloUXFlbnNoaGJPeDI2MFFQSnFNR05qYzNGTlFCMENER3Zrb0JRdS1fOEVGVlhKcUFnWFZZaWluWkFSXzdtaFJRVEw5N29LZlZmZVctNHRSUm8yQ3NtUFdaYlVR?oc=5)
+
+`Wed, 30 Sep 2026 17:10:31 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYUdDOGN2SEhscy1qeXBrLUFzSEt3ei1XYy1QWGNyLUJ2V1RUNFc5WkpzM1hZdGV5Z2N4SVl3a2hjbGZBb3pKMERDU0JQbWNvMlN4Y0luWXMxRVN6ekhaVkpfTmJyVHEyajJEZjB3Q282ZnpnTmZjRmxfN2k2Qk5pNnNtOGFBbXloUXFlbnNoaGJPeDI2MFFQSnFNR05qYzNGTlFCMENER3Zrb0JRdS1fOEVGVlhKcUFnWFZZaWluWkFSXzdtaFJRVEw5N29LZlZmZVctNHRSUm8yQ3NtUFdaYlVR?oc=5" target="_blank">Budget 2027 : le gouvernement veut « diviser quasiment par deux » le déficit de la Sécurité sociale</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Budget 2027 : les collectivités locales agitent le spectre d'une « annus horribilis » - Les Echos](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOSmV0dGxnQUprdUdiaERKaGY1TXBNT29sMVFpQVRFMGpLT1hOUElIZS0xT2xKS21lX2tJbXFGb1JrVmZnQ2tFZ25KZzlDRlV4Q3cxb01UU29XN3lFNGd0YUZkcjA5bTdzVXRQSWFLcW1iTnZmSEczQnlpSmpsWGUxLUhMakd4N2Y5bnU1NEJ6VjdySWxZejdiTHRXalVSVEV4d0VNWTB6bnZYRUFHQ0NOOGFtS1BXLUxmV2FIOUIwdkQ1ckFhTzRBSmNBOXFYZEVGYm9DeFRtZ2hOSE0?oc=5)
+
+`Wed, 30 Sep 2026 16:32:15 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi2wFBVV95cUxOSmV0dGxnQUprdUdiaERKaGY1TXBNT29sMVFpQVRFMGpLT1hOUElIZS0xT2xKS21lX2tJbXFGb1JrVmZnQ2tFZ25KZzlDRlV4Q3cxb01UU29XN3lFNGd0YUZkcjA5bTdzVXRQSWFLcW1iTnZmSEczQnlpSmpsWGUxLUhMakd4N2Y5bnU1NEJ6VjdySWxZejdiTHRXalVSVEV4d0VNWTB6bnZYRUFHQ0NOOGFtS1BXLUxmV2FIOUIwdkQ1ckFhTzRBSmNBOXFYZEVGYm9DeFRtZ2hOSE0?oc=5" target="_blank">Budget 2027 : les collectivités locales agitent le spectre d'une « annus horribilis »</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -970,13 +986,5 @@
 `Tue, 01 Sep 2026 15:42:17 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi_gFBVV95cUxPQ053RFpfNnNUQ1NRLXR6RmhBdkZSQi1HTEdhMkJ1UGJXdHR4UXlDcFp2N3JiZE9kWWhrS2FtNi1pQUY1NlZNakU4UnVlTlhxSV81S0xPYlF0RFZTLXlvSWxLLVhVbXhYaHpsREZCLTBGSHQweVQ2Xy1XOVQtdmJpMlR2bV9kOU1kVmJUZ01FMExGX1VRLV8wdzljaUpLYk1HTmRuTzl6SFExR09qZGR6TXIyTjlJMzBTTXZQeEd3cHhHRXdzUTBNY1Y4RWUwdGtQUUtmcVUtQ0ZtWVMxWWNzcXF3N2ZEMm5XblJiUWpFYlRzMzJhQ1M5M0lNZXVUdw?oc=5" target="_blank">Déficit, dette, impôts : le rapporteur du Budget demande aux candidats à la présidentielle de sortir du bois</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Budget 2027 : les retraités aisés dans le viseur du gouvernement - Les Echos](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZmVmaUNUS1RrMjNXT2xoRzBfNUhsT2xyRjRHbjNfNGZQWUNtZTJqQkNRcFpyU19GVHVycmVFVHdVRnNrekpBLUtxcFZ2eTBlRFdkMTluemM4M2F2ZUxUR3NWNGRaR2tETVF4cGhrX3F6UTEtNy14aHJTRFRFYkZueUJIeEszUWFsUXNVMkw1cVJaS3dFQ01UQmwyVl9iYmRWOHpfamdmLTRoSGg1dE5SWHhZU0JOR3I4?oc=5)
-
-`Mon, 31 Aug 2026 16:45:04 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZmVmaUNUS1RrMjNXT2xoRzBfNUhsT2xyRjRHbjNfNGZQWUNtZTJqQkNRcFpyU19GVHVycmVFVHdVRnNrekpBLUtxcFZ2eTBlRFdkMTluemM4M2F2ZUxUR3NWNGRaR2tETVF4cGhrX3F6UTEtNy14aHJTRFRFYkZueUJIeEszUWFsUXNVMkw1cVJaS3dFQ01UQmwyVl9iYmRWOHpfamdmLTRoSGg1dE5SWHhZU0JOR3I4?oc=5" target="_blank">Budget 2027 : les retraités aisés dans le viseur du gouvernement</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
