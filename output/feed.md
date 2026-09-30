@@ -1,7 +1,39 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Tue, 29 Sep 2026 21:07:08 +0000`
-> 116 articles (30 derniers jours)
+> Derniere mise a jour : `Wed, 30 Sep 2026 11:25:04 +0000`
+> 119 articles (30 derniers jours)
+
+---
+
+### [« Plein de petites taxes sont en train d'éclore » : l'inquiétude des patrons avant la présentation du budget 2027 - Les Echos](https://news.google.com/rss/articles/CBMi_wFBVV95cUxNSmlXcmRKUlE1SHVHSmpIN21lTERuaG5tNmlDVUswZHJleHlRYllmaHBHb09wM1hIVVVvMnRiVnFqUjBqd1JXRkF2NnlNaU5UdWN4QlRxWWhBdU1uUlB3NFJDQ21oeVpVeGl0QXVwMWx4YjBWNGUzNjhrVzM5VERlT29fMFBvVnFURk9GazJMSHQxU1B0LUdNZldIZUo2MklwM3lTdEtlVkZyRkF3R0laZlBZX1dUeWNpdUhFTkVZbTRUMUc1RU04bGliZGZqeWYwWTlUMkZuVDE1OEdaZEhBdERaekl6MnNkQnEtdDJieGp6OVZSSXJLZ2p1MFdRMlk?oc=5)
+
+`Wed, 30 Sep 2026 04:00:29 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi_wFBVV95cUxNSmlXcmRKUlE1SHVHSmpIN21lTERuaG5tNmlDVUswZHJleHlRYllmaHBHb09wM1hIVVVvMnRiVnFqUjBqd1JXRkF2NnlNaU5UdWN4QlRxWWhBdU1uUlB3NFJDQ21oeVpVeGl0QXVwMWx4YjBWNGUzNjhrVzM5VERlT29fMFBvVnFURk9GazJMSHQxU1B0LUdNZldIZUo2MklwM3lTdEtlVkZyRkF3R0laZlBZX1dUeWNpdUhFTkVZbTRUMUc1RU04bGliZGZqeWYwWTlUMkZuVDE1OEdaZEhBdERaekl6MnNkQnEtdDJieGp6OVZSSXJLZ2p1MFdRMlk?oc=5" target="_blank">« Plein de petites taxes sont en train d'éclore » : l'inquiétude des patrons avant la présentation du budget 2027</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [« Le gouvernement est en train de détricoter la politique de l'offre » - Les Echos](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQ1JoaWpiaUxFVW9VS2F4NkdMcnVvNDFTOV94VU1ScWxWSllnbnVwQWpXdWlPOTVLeXV5NnNvcGZXejcxcDR5aGZZaVJfc0YwUVF5Wk9OV2xBZDRJTG81d2RsNjVuS0FwQ0ZZOGdyTW00MWQ3VW96V2hIcktacTk0LTczWVl2ekxJekZZQXBUVV9xVW1HQTNyMXZMU3p0Q0diamVnN1JQN1FYYXBiNzF2X3N5VFkwRFV6UURfcUt3M29VTUU?oc=5)
+
+`Wed, 30 Sep 2026 04:20:08 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQ1JoaWpiaUxFVW9VS2F4NkdMcnVvNDFTOV94VU1ScWxWSllnbnVwQWpXdWlPOTVLeXV5NnNvcGZXejcxcDR5aGZZaVJfc0YwUVF5Wk9OV2xBZDRJTG81d2RsNjVuS0FwQ0ZZOGdyTW00MWQ3VW96V2hIcktacTk0LTczWVl2ekxJekZZQXBUVV9xVW1HQTNyMXZMU3p0Q0diamVnN1JQN1FYYXBiNzF2X3N5VFkwRFV6UURfcUt3M29VTUU?oc=5" target="_blank">« Le gouvernement est en train de détricoter la politique de l'offre »</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [« La baisse du pouvoir d'achat touchera beaucoup plus de ménages » : la grande inquiétude des Français face à l'inflation - Les Echos](https://news.google.com/rss/articles/CBMigwJBVV95cUxPNGRiVjFGejVWOE9zYTVVUUJJSVoxWWtKRm5EWHBKU2c4NGdYRTl2MnJjbUpEaWhsOVZZZzVtdWNTN2trZTdzRFhUTE5FSl9hdFNtM3lvSWFhQUNBVXZWdUtoMkkzMFh2VW13Y3hDcjIwcllvMHhDUG9QLTlkSGt6VmN5WVBISVJmdy1OenVXMlJSSXRpNWprRU9yM0otaXNLMUsyVHV0Rk5TS0dycEpWUmVzY2NfbS14TnZzZjRiV0hGOFZrRXgwdEpDSlFOcHY4SkU1TDJwNEpKRmlZZTlHVzF3V2hraEo2Sk1uUHIyY3N3Qy1KeUlEZi1xRE5YSEF3RWpZ?oc=5)
+
+`Wed, 30 Sep 2026 11:08:00 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMigwJBVV95cUxPNGRiVjFGejVWOE9zYTVVUUJJSVoxWWtKRm5EWHBKU2c4NGdYRTl2MnJjbUpEaWhsOVZZZzVtdWNTN2trZTdzRFhUTE5FSl9hdFNtM3lvSWFhQUNBVXZWdUtoMkkzMFh2VW13Y3hDcjIwcllvMHhDUG9QLTlkSGt6VmN5WVBISVJmdy1OenVXMlJSSXRpNWprRU9yM0otaXNLMUsyVHV0Rk5TS0dycEpWUmVzY2NfbS14TnZzZjRiV0hGOFZrRXgwdEpDSlFOcHY4SkU1TDJwNEpKRmlZZTlHVzF3V2hraEo2Sk1uUHIyY3N3Qy1KeUlEZi1xRE5YSEF3RWpZ?oc=5" target="_blank">« La baisse du pouvoir d'achat touchera beaucoup plus de ménages » : la grande inquiétude des Français face à l'inflation</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [La flambée des prix de l'énergie fait monter l'inflation d'un nouveau cran en France - Les Echos](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSm5KNEtoMkVoVnd3VThERTJjVDVRY1NVUnl2ZTBzb25Mdllralk3VjQwX21wUG9hY3djUE1PSWZ2emFlZV9DcVhqdGpSX1pyRW9xajNscThuemFmSy0wU01IUl8zZUFVdjdWNzNXakxKVkgyZjFIc0FkN2FmLUFoTUVrRjg5ZjRQSENWUHVHaFcwN0I3RVY2bmJmYmRRREJsX0N0YUJFNGFrZ3F1QV9CbUJ4OEVQMDlpU3RaWE9zU0ZuQkJ4M3Vicm9UbGw0bzhhZmtrUFk1RFM?oc=5)
+
+`Wed, 30 Sep 2026 07:37:10 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSm5KNEtoMkVoVnd3VThERTJjVDVRY1NVUnl2ZTBzb25Mdllralk3VjQwX21wUG9hY3djUE1PSWZ2emFlZV9DcVhqdGpSX1pyRW9xajNscThuemFmSy0wU01IUl8zZUFVdjdWNzNXakxKVkgyZjFIc0FkN2FmLUFoTUVrRjg5ZjRQSENWUHVHaFcwN0I3RVY2bmJmYmRRREJsX0N0YUJFNGFrZ3F1QV9CbUJ4OEVQMDlpU3RaWE9zU0ZuQkJ4M3Vicm9UbGw0bzhhZmtrUFk1RFM?oc=5" target="_blank">La flambée des prix de l'énergie fait monter l'inflation d'un nouveau cran en France</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -922,13 +954,5 @@
 `Mon, 31 Aug 2026 16:45:04 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZmVmaUNUS1RrMjNXT2xoRzBfNUhsT2xyRjRHbjNfNGZQWUNtZTJqQkNRcFpyU19GVHVycmVFVHdVRnNrekpBLUtxcFZ2eTBlRFdkMTluemM4M2F2ZUxUR3NWNGRaR2tETVF4cGhrX3F6UTEtNy14aHJTRFRFYkZueUJIeEszUWFsUXNVMkw1cVJaS3dFQ01UQmwyVl9iYmRWOHpfamdmLTRoSGg1dE5SWHhZU0JOR3I4?oc=5" target="_blank">Budget 2027 : les retraités aisés dans le viseur du gouvernement</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Facturation électronique : les secteurs qui ont accéléré et les mauvais élèves - Les Echos](https://news.google.com/rss/articles/CBMiywFBVV95cUxPTXJMZk9hZVVucXJNMUUyVkw5YXVseGZfRWNXTjRDNUwwUGI0VFZqWnJlNzRHbF9zcVo3Wmp4VmpDR3BpM1l1THhhR2RkTjVLRHBwbmxuSmpHbzJGcGRnS0F4bWpuck1nRkhvZkh2WThGOXg3T0dWS0wtdmtOdm5qVFdfalZRQzhTenpvXzNPS1hjR0NNRmFfYUotU1ctS0VIMVBoMGFYR014WWIzdnNjWmtTbUlqMmVYTjVyZWp4bUtZNmVQN3J3endmaw?oc=5)
-
-`Mon, 31 Aug 2026 09:52:11 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiywFBVV95cUxPTXJMZk9hZVVucXJNMUUyVkw5YXVseGZfRWNXTjRDNUwwUGI0VFZqWnJlNzRHbF9zcVo3Wmp4VmpDR3BpM1l1THhhR2RkTjVLRHBwbmxuSmpHbzJGcGRnS0F4bWpuck1nRkhvZkh2WThGOXg3T0dWS0wtdmtOdm5qVFdfalZRQzhTenpvXzNPS1hjR0NNRmFfYUotU1ctS0VIMVBoMGFYR014WWIzdnNjWmtTbUlqMmVYTjVyZWp4bUtZNmVQN3J3endmaw?oc=5" target="_blank">Facturation électronique : les secteurs qui ont accéléré et les mauvais élèves</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
