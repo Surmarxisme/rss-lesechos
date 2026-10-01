@@ -1,7 +1,95 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Thu, 01 Oct 2026 11:52:24 +0000`
-> 129 articles (30 derniers jours)
+> Derniere mise a jour : `Thu, 01 Oct 2026 16:13:26 +0000`
+> 139 articles (30 derniers jours)
+
+---
+
+### [VIDEO - Les pistes de Lecornu pour faire voter un budget sans majorité - Les Echos](https://news.google.com/rss/articles/CBMizgFBVV95cUxNWFppRFd0cURhX3ZfU0ZRQmZodmdjLTk4U3BiWjAtQV9ScUNhTDV1ckxURmRaMmxrZGRfVXZDSWMzRDNJWGN3T3pNbTU5OE4zSFlrdHJWRlNBc0ZoY2UxODQ4d3p6MzVlVmdaVUFSRnFzSzRlNWs4MExKWENINGFTUi02UWJrdnhZWVhGRkZJYTdVYkUwVkFENk1lc29kRFRxcHRfZlNwUnpBNE1tdDZ1Q3RhMFdyazJBblo4WExJaS1FLTVTZTZjWUU5eE5iQQ?oc=5)
+
+`Thu, 01 Oct 2026 15:27:59 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMizgFBVV95cUxNWFppRFd0cURhX3ZfU0ZRQmZodmdjLTk4U3BiWjAtQV9ScUNhTDV1ckxURmRaMmxrZGRfVXZDSWMzRDNJWGN3T3pNbTU5OE4zSFlrdHJWRlNBc0ZoY2UxODQ4d3p6MzVlVmdaVUFSRnFzSzRlNWs4MExKWENINGFTUi02UWJrdnhZWVhGRkZJYTdVYkUwVkFENk1lc29kRFRxcHRfZlNwUnpBNE1tdDZ1Q3RhMFdyazJBblo4WExJaS1FLTVTZTZjWUU5eE5iQQ?oc=5" target="_blank">VIDEO - Les pistes de Lecornu pour faire voter un budget sans majorité</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [SONDAGE EXCLUSIF - Retraites, APL, franchises médicales… : ce que pensent les Français des mesures du budget 2027 - Les Echos](https://news.google.com/rss/articles/CBMigAJBVV95cUxORHlYX1ZMZGktOEVGSVhmVlo2UW1za2VoVGwzLU5kczFkVlNXQ1dwSjRyZ0hyMlFQeExFN2h3bVNzZ2s0YmRuVm04T3h5a1dEaUM3Qk8wVmp4bjh6VU1aTFhiQmF4cDVIWmZxT3pjY1M0TVU2OG04WHZjV3k5WW5UT1lnUEJVRnVLZ3RSOEZILTREdUdYN1NITjdDaG1xZmhMVC1rb1M5LWlRaURhYktPYzdmT0oySHp3Z1JuUFRZUFZDb2FFS09YeVd1cEZ5OHJyLXhKNVh1MEhmaldhbE5wa3NxS29fZEJ6d0UwOFZBRkE1d3JFVzNlZ0ZGcy1XVjg3?oc=5)
+
+`Thu, 01 Oct 2026 14:02:09 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMigAJBVV95cUxORHlYX1ZMZGktOEVGSVhmVlo2UW1za2VoVGwzLU5kczFkVlNXQ1dwSjRyZ0hyMlFQeExFN2h3bVNzZ2s0YmRuVm04T3h5a1dEaUM3Qk8wVmp4bjh6VU1aTFhiQmF4cDVIWmZxT3pjY1M0TVU2OG04WHZjV3k5WW5UT1lnUEJVRnVLZ3RSOEZILTREdUdYN1NITjdDaG1xZmhMVC1rb1M5LWlRaURhYktPYzdmT0oySHp3Z1JuUFRZUFZDb2FFS09YeVd1cEZ5OHJyLXhKNVh1MEhmaldhbE5wa3NxS29fZEJ6d0UwOFZBRkE1d3JFVzNlZ0ZGcy1XVjg3?oc=5" target="_blank">SONDAGE EXCLUSIF - Retraites, APL, franchises médicales… : ce que pensent les Français des mesures du budget 2027</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [« La souveraineté de la France en dépend » : le gouvernement défend un budget 2027 de « redressement » sous la menace des marchés - Les Echos](https://news.google.com/rss/articles/CBMikgJBVV95cUxQaFhpOFprdkpCVUpnSzR3WkJuWi1wTFdvTUx4elp4M0xIV1VJeDRZeEJwZ09nUVJnSUNTakJsWTZlNmRXRkx1Zm05S2FqUThmNzRscjdsSFBrekk2emE1RjEwaDREWjNUOEdDcEdzUDlMcHBwb3I2NmpGTl9OTDl4RTFJS0hlRU03UjlSSVZiWGRLV1FBRkdPaWhSTWVlQm5KUDZ0Um9kbm9KdmtEZ055NDdvMkNQOW5udzJEeDlMSkJGMWh6MEp2SWZqbUE0MkdRYnFtbjNfMlZoUU1HRE1LUTVaY3dzVUJIQnpBcEhRZEY5aVJ4ZHlMQnFFSHJtVnJBYnppbjd3dHJhWVU5YmxxQTJ3?oc=5)
+
+`Thu, 01 Oct 2026 15:45:23 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMikgJBVV95cUxQaFhpOFprdkpCVUpnSzR3WkJuWi1wTFdvTUx4elp4M0xIV1VJeDRZeEJwZ09nUVJnSUNTakJsWTZlNmRXRkx1Zm05S2FqUThmNzRscjdsSFBrekk2emE1RjEwaDREWjNUOEdDcEdzUDlMcHBwb3I2NmpGTl9OTDl4RTFJS0hlRU03UjlSSVZiWGRLV1FBRkdPaWhSTWVlQm5KUDZ0Um9kbm9KdmtEZ055NDdvMkNQOW5udzJEeDlMSkJGMWh6MEp2SWZqbUE0MkdRYnFtbjNfMlZoUU1HRE1LUTVaY3dzVUJIQnpBcEhRZEY5aVJ4ZHlMQnFFSHJtVnJBYnppbjd3dHJhWVU5YmxxQTJ3?oc=5" target="_blank">« La souveraineté de la France en dépend » : le gouvernement défend un budget 2027 de « redressement » sous la menace des marchés</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Budget 2027 : une baisse en trompe-l'oeil des effectifs de l'Etat - Les Echos](https://news.google.com/rss/articles/CBMixAFBVV95cUxNbWExNXY2bXo1a0JnRkNLMzlmSTdSUUhMOXdmRXFhZC1tdHhvellZcXhCbzU5RzEwaUZTb013N3JtSFRSS1R1M2Qxb2VXOUNZbGhnb0NxSzZyZW42MUU2eXlDYm5lWWVHUkE3anpjeHVKemxfTVlOSFFiVVBtT3JqMmlUbm5DaHp1aUV6bHFQOUl0SXJhUDVrSFRNQ0ZIZlhhS0ZST0VKX0N4MEdaM2xXU1RENEJwVVIxeHozajN3eHp4WXRV?oc=5)
+
+`Thu, 01 Oct 2026 15:59:48 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMixAFBVV95cUxNbWExNXY2bXo1a0JnRkNLMzlmSTdSUUhMOXdmRXFhZC1tdHhvellZcXhCbzU5RzEwaUZTb013N3JtSFRSS1R1M2Qxb2VXOUNZbGhnb0NxSzZyZW42MUU2eXlDYm5lWWVHUkE3anpjeHVKemxfTVlOSFFiVVBtT3JqMmlUbm5DaHp1aUV6bHFQOUl0SXJhUDVrSFRNQ0ZIZlhhS0ZST0VKX0N4MEdaM2xXU1RENEJwVVIxeHozajN3eHp4WXRV?oc=5" target="_blank">Budget 2027 : une baisse en trompe-l'oeil des effectifs de l'Etat</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Budget 2027 : ces ministères mis à la diète pour payer la facture de la dette - Les Echos](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRDNRdTRwR3gwc09rRFRZRk1XVHQ3dmU5YmpwUzZmUzVBZXg1aG1TNVBUUUNXVk8xSzFCcGplSGtkT1JHR094MEVwbUU0d0VDM1FsYloyUXRDdVN1TkZvOVE3QXF5Rm9sUi1TcjRmenhDZGhDMlYyaWZSWXpfYWpZeHc4TDFhTEJUTm5hUmNLM29vQTRUaGtzRmxmcVJpb1U3MTlYVVBwUWZDSXZybDhweXlQcTBaV2x3dWllMjRWcEFuUUlzZ19IakxzYzhvSDRSNEljcmMzWQ?oc=5)
+
+`Thu, 01 Oct 2026 15:50:21 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRDNRdTRwR3gwc09rRFRZRk1XVHQ3dmU5YmpwUzZmUzVBZXg1aG1TNVBUUUNXVk8xSzFCcGplSGtkT1JHR094MEVwbUU0d0VDM1FsYloyUXRDdVN1TkZvOVE3QXF5Rm9sUi1TcjRmenhDZGhDMlYyaWZSWXpfYWpZeHc4TDFhTEJUTm5hUmNLM29vQTRUaGtzRmxmcVJpb1U3MTlYVVBwUWZDSXZybDhweXlQcTBaV2x3dWllMjRWcEFuUUlzZ19IakxzYzhvSDRSNEljcmMzWQ?oc=5" target="_blank">Budget 2027 : ces ministères mis à la diète pour payer la facture de la dette</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Budget 2027 : ce qu’il faut retenir de la copie du gouvernement - Les Echos](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOV9nRi1ybTdDUHdYY3ZYQ01fV1U1bUVteVVuU09JV0dRQXlSQmdNRWpZSEo2S1VCTDBwaEJsNWN0MVM2dFJwTk1fOWptdkZOamR1R01aYnNMcFYyTG51VzFGQkcxRy1YLTVOZU9lV3FfcXNwMTFuVjhSZmxDcGtoUlR6RnpxcmpnRW5mM2FPSnB0OU9VZmwxajU4LXRWN21qTlRXU3AtZGZxcGVZUjY0SWFHUURSRzRsbGFWS1BfWHJJUG8?oc=5)
+
+`Thu, 01 Oct 2026 14:06:46 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOV9nRi1ybTdDUHdYY3ZYQ01fV1U1bUVteVVuU09JV0dRQXlSQmdNRWpZSEo2S1VCTDBwaEJsNWN0MVM2dFJwTk1fOWptdkZOamR1R01aYnNMcFYyTG51VzFGQkcxRy1YLTVOZU9lV3FfcXNwMTFuVjhSZmxDcGtoUlR6RnpxcmpnRW5mM2FPSnB0OU9VZmwxajU4LXRWN21qTlRXU3AtZGZxcGVZUjY0SWFHUURSRzRsbGFWS1BfWHJJUG8?oc=5" target="_blank">Budget 2027 : ce qu’il faut retenir de la copie du gouvernement</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Économie | Page 247 - Les Echos](https://news.google.com/rss/articles/CBMiXEFVX3lxTFA4NnlqTXFJeUozS2NPanNrM0xoeFVLdVdCVEdoYlc4ZEhUTnRudzJMcWJia1N1Z1NYTGNvV3dmWHpOV2ZzXy1UazZPWlhaaE9JY3c2QVV6Y0o2aUQt?oc=5)
+
+`Thu, 01 Oct 2026 16:09:41 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiXEFVX3lxTFA4NnlqTXFJeUozS2NPanNrM0xoeFVLdVdCVEdoYlc4ZEhUTnRudzJMcWJia1N1Z1NYTGNvV3dmWHpOV2ZzXy1UazZPWlhaaE9JY3c2QVV6Y0o2aUQt?oc=5" target="_blank">Économie | Page 247</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [« Augmenter le coût du travail est un non-sens économique » - Les Echos](https://news.google.com/rss/articles/CBMirwFBVV95cUxQdXlsRW9ZYUM0S3RTczRrc2RIMWpqeU53X21sYWlCM1pQbFpscVAtQmMtOHhtRW9xWlVxbGtJYnh0T0JBNU00Njlwb3U3OXR2Q0FUT1hIRDktR0tkaURBMjJzTUR1MS0zVGlaMTZqXy1JLWZqNEFwX21iMFNzSTJDZW9tN3ZHTnlsd0wxbzRyQWVZdndyd2E2YlZpeWJjM1l6ZmRkWlUwZDRyT1Zva3Ew?oc=5)
+
+`Thu, 01 Oct 2026 13:00:36 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxQdXlsRW9ZYUM0S3RTczRrc2RIMWpqeU53X21sYWlCM1pQbFpscVAtQmMtOHhtRW9xWlVxbGtJYnh0T0JBNU00Njlwb3U3OXR2Q0FUT1hIRDktR0tkaURBMjJzTUR1MS0zVGlaMTZqXy1JLWZqNEFwX21iMFNzSTJDZW9tN3ZHTnlsd0wxbzRyQWVZdndyd2E2YlZpeWJjM1l6ZmRkWlUwZDRyT1Zva3Ew?oc=5" target="_blank">« Augmenter le coût du travail est un non-sens économique »</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Budget 2027 : les économistes sceptiques sur le scénario de croissance du gouvernement - Les Echos](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYzhydnZlbENHVXBxbHZTZk5SYk54VGhaNk1uR3k5QkpwUWdGenVIQktpQllIY2xfRlptWEVxTzNIdm9UNXZwS3dLcGRNbG1Ba2NJQlhJcXc3dHZLSUV6TThPZFNiVEVxd0c2NktqNU1pZXNtQVNlRGtfek1MemlFTXJjalpGRmlMOHV5c1cyOGRnZjRjcXdTdGFDbWpWNThGck0weTkzblAwZmpnMW8tYy1oWHhRbGVtSGNleUZMTHhTNlc4bUhVWDc2V0xqOVRDVE5CUEMxVDROb1dW?oc=5)
+
+`Thu, 01 Oct 2026 13:12:29 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYzhydnZlbENHVXBxbHZTZk5SYk54VGhaNk1uR3k5QkpwUWdGenVIQktpQllIY2xfRlptWEVxTzNIdm9UNXZwS3dLcGRNbG1Ba2NJQlhJcXc3dHZLSUV6TThPZFNiVEVxd0c2NktqNU1pZXNtQVNlRGtfek1MemlFTXJjalpGRmlMOHV5c1cyOGRnZjRjcXdTdGFDbWpWNThGck0weTkzblAwZmpnMW8tYy1oWHhRbGVtSGNleUZMTHhTNlc4bUhVWDc2V0xqOVRDVE5CUEMxVDROb1dW?oc=5" target="_blank">Budget 2027 : les économistes sceptiques sur le scénario de croissance du gouvernement</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Budget 2027 : comment les patients vont être mis à contribution - Les Echos](https://news.google.com/rss/articles/CBMitwFBVV95cUxOdHh1NXZnbHA5amNmZzN3RXA2Q2QyQl85dWdBZTBkSy1sSmlkVUY1UGZoZlY4dHhzZ0d3VHdIOHpLWDE0cFNBRjlob3ljZ2NNZjR3ZWotNjE0QmkzbUwyOVNhU2tacVFOLTUzUzdoUHI0T3ljempQVUxuanpaTWZXUGRHTTJ2T1E0ZVdnZTNPYVdNcGJ6UGs3Wjk3aEFiNmpOY0l2QzFlNmoyYTdlUlRzYTY1d0dIbms?oc=5)
+
+`Thu, 01 Oct 2026 11:54:02 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxOdHh1NXZnbHA5amNmZzN3RXA2Q2QyQl85dWdBZTBkSy1sSmlkVUY1UGZoZlY4dHhzZ0d3VHdIOHpLWDE0cFNBRjlob3ljZ2NNZjR3ZWotNjE0QmkzbUwyOVNhU2tacVFOLTUzUzdoUHI0T3ljempQVUxuanpaTWZXUGRHTTJ2T1E0ZVdnZTNPYVdNcGJ6UGs3Wjk3aEFiNmpOY0l2QzFlNmoyYTdlUlRzYTY1d0dIbms?oc=5" target="_blank">Budget 2027 : comment les patients vont être mis à contribution</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Budget 2027 : un plan de redressement sujet à des incertitudes majeures, prévient le Haut Conseil des finances publiques - Les Echos](https://news.google.com/rss/articles/CBMijwJBVV95cUxNY05QMklDcFpjVnNQLWVtMzlySkcweGdQaGhOaTBBZDd2N0NhMHU4NDk0RWd1U2tYY2U0V0hXS3dIZzByb3BxTUM4S3dlcTdOU1B2R0xGRExfQjZHbEtJSTlRN2Y5Y05TNzJmZEY0VDJYWmpHS1o2eThNa2lka1pGaThSb2hiV1FlVk1keVFXYlRrQ1R1d1NmYy1VdzFwZmRyekpVNXJZclQxQUxYd1NKS0p0Nlg5Q3dXN1gyMUlzYlFlTTV1eVk5Rm1CVjZtaEVVRGdBZlpONU02ejJ5a1JHME1COWhzSFhvWWItWWpnSHZfX00ycnlnYi16OXNTYWxWV0dQZ255MHFUN3FILUw0?oc=5)
+
+`Thu, 01 Oct 2026 12:00:08 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMijwJBVV95cUxNY05QMklDcFpjVnNQLWVtMzlySkcweGdQaGhOaTBBZDd2N0NhMHU4NDk0RWd1U2tYY2U0V0hXS3dIZzByb3BxTUM4S3dlcTdOU1B2R0xGRExfQjZHbEtJSTlRN2Y5Y05TNzJmZEY0VDJYWmpHS1o2eThNa2lka1pGaThSb2hiV1FlVk1keVFXYlRrQ1R1d1NmYy1VdzFwZmRyekpVNXJZclQxQUxYd1NKS0p0Nlg5Q3dXN1gyMUlzYlFlTTV1eVk5Rm1CVjZtaEVVRGdBZlpONU02ejJ5a1JHME1COWhzSFhvWWItWWpnSHZfX00ycnlnYi16OXNTYWxWV0dQZ255MHFUN3FILUw0?oc=5" target="_blank">Budget 2027 : un plan de redressement sujet à des incertitudes majeures, prévient le Haut Conseil des finances publiques</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -1026,13 +1114,5 @@
 `Wed, 02 Sep 2026 09:53:26 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi5wFBVV95cUxNTTgzYUdXUTJHajltU21JeEhpcHY5RXhOdzlEWUVjMGpDOW5mazllUDE5Zzl5dUhZendSUHRraWJTV3JsRjlNc2NJMWxUM0RwQW1WTnFzWUNlTFBKWW9KemRQRG5hNnVLdEE1a24zNmNkYUFkZmR2eWUycjRQNW1vRHhXRXlCcGprQWdLUDBRWUlBaUFSNkM0ZWk5TDliU1JiSXh5eGdWUWNkTm1KeVBTcS11Y3F5UVE3YjFQZF8yNVVpUVMxcHVhc0UzRURNbWFwVFNvYkkwRjR1WG1hd3Z4dnd1M3Z4dUU?oc=5" target="_blank">Les canicules devraient coûter 0,1 point de croissance à l'économie française cette année</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Déficit, dette, impôts : le rapporteur du Budget demande aux candidats à la présidentielle de sortir du bois - Les Echos](https://news.google.com/rss/articles/CBMi_gFBVV95cUxPQ053RFpfNnNUQ1NRLXR6RmhBdkZSQi1HTEdhMkJ1UGJXdHR4UXlDcFp2N3JiZE9kWWhrS2FtNi1pQUY1NlZNakU4UnVlTlhxSV81S0xPYlF0RFZTLXlvSWxLLVhVbXhYaHpsREZCLTBGSHQweVQ2Xy1XOVQtdmJpMlR2bV9kOU1kVmJUZ01FMExGX1VRLV8wdzljaUpLYk1HTmRuTzl6SFExR09qZGR6TXIyTjlJMzBTTXZQeEd3cHhHRXdzUTBNY1Y4RWUwdGtQUUtmcVUtQ0ZtWVMxWWNzcXF3N2ZEMm5XblJiUWpFYlRzMzJhQ1M5M0lNZXVUdw?oc=5)
-
-`Tue, 01 Sep 2026 15:42:17 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi_gFBVV95cUxPQ053RFpfNnNUQ1NRLXR6RmhBdkZSQi1HTEdhMkJ1UGJXdHR4UXlDcFp2N3JiZE9kWWhrS2FtNi1pQUY1NlZNakU4UnVlTlhxSV81S0xPYlF0RFZTLXlvSWxLLVhVbXhYaHpsREZCLTBGSHQweVQ2Xy1XOVQtdmJpMlR2bV9kOU1kVmJUZ01FMExGX1VRLV8wdzljaUpLYk1HTmRuTzl6SFExR09qZGR6TXIyTjlJMzBTTXZQeEd3cHhHRXdzUTBNY1Y4RWUwdGtQUUtmcVUtQ0ZtWVMxWWNzcXF3N2ZEMm5XblJiUWpFYlRzMzJhQ1M5M0lNZXVUdw?oc=5" target="_blank">Déficit, dette, impôts : le rapporteur du Budget demande aux candidats à la présidentielle de sortir du bois</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
