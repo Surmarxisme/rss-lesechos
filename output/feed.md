@@ -1,7 +1,39 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Wed, 30 Sep 2026 21:04:24 +0000`
-> 125 articles (30 derniers jours)
+> Derniere mise a jour : `Thu, 01 Oct 2026 11:52:24 +0000`
+> 129 articles (30 derniers jours)
+
+---
+
+### [Comment les impôts ont baissé sous l'ère Macron… avant d'augmenter - Les Echos](https://news.google.com/rss/articles/CBMixwFBVV95cUxNWjlLRXVxWEVwZG9xMHdlQlNPNUotWDBlSElNTnU5V3Y3UnJ3b0pKM2pYa3R3c3QwaWh4U2p0UEJjS3YwSGwtbEZhbXZKcURUZnA3UmF6SVhiZHNhdFdNa2ZyYU5HS19ySHNBUlh1akNzem9Jb1Yzd3pGR0ZvNkpzei1DWk43RUZUWlpZTmZvM1MyZk4tQzdIc09tbFpOSERnYjU0aGEwQUhvejNXR3pKQWc5ak5Tci1FRnRoUEEtcTNnTmd4SG1r?oc=5)
+
+`Thu, 01 Oct 2026 04:45:08 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMixwFBVV95cUxNWjlLRXVxWEVwZG9xMHdlQlNPNUotWDBlSElNTnU5V3Y3UnJ3b0pKM2pYa3R3c3QwaWh4U2p0UEJjS3YwSGwtbEZhbXZKcURUZnA3UmF6SVhiZHNhdFdNa2ZyYU5HS19ySHNBUlh1akNzem9Jb1Yzd3pGR0ZvNkpzei1DWk43RUZUWlpZTmZvM1MyZk4tQzdIc09tbFpOSERnYjU0aGEwQUhvejNXR3pKQWc5ak5Tci1FRnRoUEEtcTNnTmd4SG1r?oc=5" target="_blank">Comment les impôts ont baissé sous l'ère Macron… avant d'augmenter</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [DIRECT - Budget 2027 : le gouvernement dévoile sa copie avec de nouvelles mesures et un effort de 43 milliards d'euros - Les Echos](https://news.google.com/rss/articles/CBMi-gFBVV95cUxONlk1SFdlN1BpYWFwNzVmN0FaS1FYcXBlZUNRM0RjV0hGVk5rMTFKSVg4TFg3eUVfOE1QdlpsZFc3cHg2LWwwQlZrWUpEdGU1TDRNTGpiUkZucWYwa1RRMjNZYXRHLUV5Z2lURTlxZzc2WnRnTVJCZEN2R3FRdnNJd3laQkJSU3ZldHEzUl9aVTA2RzNlRnByRkh0T01HWnZQUk9KQy1ta2w3b0p2VjRWaEhjRUVNU05WVXZTZGJiaHE1RnFseDdFVDF6Tnd5N21pZV9NTHljNjBwLUlFR3JTZy0zX3ROcHU3amdoa3FVUzc2eXFES3RiUl9B?oc=5)
+
+`Thu, 01 Oct 2026 07:29:14 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi-gFBVV95cUxONlk1SFdlN1BpYWFwNzVmN0FaS1FYcXBlZUNRM0RjV0hGVk5rMTFKSVg4TFg3eUVfOE1QdlpsZFc3cHg2LWwwQlZrWUpEdGU1TDRNTGpiUkZucWYwa1RRMjNZYXRHLUV5Z2lURTlxZzc2WnRnTVJCZEN2R3FRdnNJd3laQkJSU3ZldHEzUl9aVTA2RzNlRnByRkh0T01HWnZQUk9KQy1ta2w3b0p2VjRWaEhjRUVNU05WVXZTZGJiaHE1RnFseDdFVDF6Tnd5N21pZV9NTHljNjBwLUlFR3JTZy0zX3ROcHU3amdoa3FVUzc2eXFES3RiUl9B?oc=5" target="_blank">DIRECT - Budget 2027 : le gouvernement dévoile sa copie avec de nouvelles mesures et un effort de 43 milliards d'euros</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Impôts, économies, retraites, fonctionnaires : ce que contient le budget 2027 - Les Echos](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaDhneUc1S3FUcWVKUnhzNktJMXA2dGZKTEtUQUdubXNXNlFkWmxRbGxJdWhDaW1xT3hQMXhGTDVqbThXekFnNmJsa0x3dVl1MWJZSWZYNTVsQmFYMjk0Y3VHLTNIbzBPc3ItSDRsdnpSYS1RNTdHRTdXcVRYUDlzQlc0ZlJMbUdQYndCNW1WWktWQk9QTVRpN0w3Q3NCQ09XSE1DRFRGQVpLTWIyZzFOWV9zOFc2SVdlX2tJT3o2a1VIV21WR2lMd3NlSUtvZ0ItZ1pZ?oc=5)
+
+`Thu, 01 Oct 2026 09:13:15 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaDhneUc1S3FUcWVKUnhzNktJMXA2dGZKTEtUQUdubXNXNlFkWmxRbGxJdWhDaW1xT3hQMXhGTDVqbThXekFnNmJsa0x3dVl1MWJZSWZYNTVsQmFYMjk0Y3VHLTNIbzBPc3ItSDRsdnpSYS1RNTdHRTdXcVRYUDlzQlc0ZlJMbUdQYndCNW1WWktWQk9QTVRpN0w3Q3NCQ09XSE1DRFRGQVpLTWIyZzFOWV9zOFc2SVdlX2tJT3o2a1VIV21WR2lMd3NlSUtvZ0ItZ1pZ?oc=5" target="_blank">Impôts, économies, retraites, fonctionnaires : ce que contient le budget 2027</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Budget 2027 : le calendrier et les scénarios d'une adoption à haut risque - Les Echos](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZW9VYm1CdnVmNDUwRV9xRjhIcnNCUWt3azlfUi0xNzMyQlh6R3daZ3R5dHFjVnJTSGNtVjNGSFRBRTZyOURQdzhka1FpQTNNSHVROHZxb3FMNzRweG12d190Q1lGWml5eC10bjVsd1czc2ZpNHl2a2pLU0tUREZIS1hGa3NtcEdzM1QyZklHcFdoZzk4ZmNrMXVzZmpsN1d0cXd4WWM3dDl3UUM4eXdMa2dobmlmS2JEN1NOSjNRT1JubktBRmNEUzN4Wmt6WUpy?oc=5)
+
+`Thu, 01 Oct 2026 06:45:09 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZW9VYm1CdnVmNDUwRV9xRjhIcnNCUWt3azlfUi0xNzMyQlh6R3daZ3R5dHFjVnJTSGNtVjNGSFRBRTZyOURQdzhka1FpQTNNSHVROHZxb3FMNzRweG12d190Q1lGWml5eC10bjVsd1czc2ZpNHl2a2pLU0tUREZIS1hGa3NtcEdzM1QyZklHcFdoZzk4ZmNrMXVzZmpsN1d0cXd4WWM3dDl3UUM4eXdMa2dobmlmS2JEN1NOSjNRT1JubktBRmNEUzN4Wmt6WUpy?oc=5" target="_blank">Budget 2027 : le calendrier et les scénarios d'une adoption à haut risque</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
