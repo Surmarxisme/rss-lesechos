@@ -1,7 +1,7 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Fri, 02 Oct 2026 15:37:44 +0000`
-> 142 articles (30 derniers jours)
+> Derniere mise a jour : `Fri, 02 Oct 2026 17:07:44 +0000`
+> 141 articles (30 derniers jours)
 
 ---
 
@@ -1130,13 +1130,5 @@
 `Thu, 03 Sep 2026 09:24:58 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxPQlF6WTJXcjNjYTU3T0dMRTZjOVVHbEZqODBCaW5paWVrZW9PaTZER0Z6VG5nYkNKT0F3RzJHTGtfLWdmdzJOR0Vudml4VlVGM3pNOU9Qc0VSRGo4ZjI4Y0hpVkVOMHJaZTJHMlhPeS1NNzAteWEzNTVDb01faFBvR2pyMkhDWEFxTjR3djdiMWZVdDZhNTZ6dmg1VDFvbHVYVnRpQ2N2WWZKNE1Ka2VHLTl3?oc=5" target="_blank">L'entrepreneuriat chez les jeunes : une dynamique croissante</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Sécurité sociale : tour de vis en vue sur les arrêts maladie de longue durée - Les Echos](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUWVuT29wNHJEdzFfTkFrZV9OUXZuMUpVcWFoQ3NIeUVNUGZuR0t3cWJpdWpwbVhwdDhrRUMzUDlOV1NRV08tNUxhckNRX0RrcTFtM25IamNKc3RKeXdPdU5nTEE2ZWRCLUZIc1hGckNUUl9kQ3VoR29iajBuTkFZOGxHVDg0TjM4aGgwZFgySE5WNDRtd29CY2pGY0dWT1lRZ0hnTzQxRzlLdzYtSzFoSXpkczJnMGd4Sk1kdk5kbHVnbXhCR0xzdA?oc=5)
-
-`Wed, 02 Sep 2026 16:06:44 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUWVuT29wNHJEdzFfTkFrZV9OUXZuMUpVcWFoQ3NIeUVNUGZuR0t3cWJpdWpwbVhwdDhrRUMzUDlOV1NRV08tNUxhckNRX0RrcTFtM25IamNKc3RKeXdPdU5nTEE2ZWRCLUZIc1hGckNUUl9kQ3VoR29iajBuTkFZOGxHVDg0TjM4aGgwZFgySE5WNDRtd29CY2pGY0dWT1lRZ0hnTzQxRzlLdzYtSzFoSXpkczJnMGd4Sk1kdk5kbHVnbXhCR0xzdA?oc=5" target="_blank">Sécurité sociale : tour de vis en vue sur les arrêts maladie de longue durée</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
