@@ -1,7 +1,23 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Fri, 02 Oct 2026 11:24:39 +0000`
-> 140 articles (30 derniers jours)
+> Derniere mise a jour : `Fri, 02 Oct 2026 15:37:44 +0000`
+> 142 articles (30 derniers jours)
+
+---
+
+### [VIDEO - Un budget avec des mesures « réversibles » : ça veut dire quoi ? - Les Echos](https://news.google.com/rss/articles/CBMixgFBVV95cUxOUXh3TF96OXpteFlueVdYUFo0NU9YREl5NHVtVFJDX3BKYkNvNUdXMU9vcV94cWpvSzVqTXNsYXhxeTE1a2plcDlqY0VYd3l0Q0FhS3I2N2JicUF1S2h5TmRQbXBhTF9vVFVEYTBRaXZIcWNhNlBQMC1lRjhzRlpkYVJvUFNILVpsbVVRYVdtNWYxTnJuaEh5dGlOeTFOZGNDTXkzSFVuU2ZCTHVWYTJuMHBXWDI3T05XNUxhcC1LdWlERWVmVXc?oc=5)
+
+`Fri, 02 Oct 2026 14:49:06 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxOUXh3TF96OXpteFlueVdYUFo0NU9YREl5NHVtVFJDX3BKYkNvNUdXMU9vcV94cWpvSzVqTXNsYXhxeTE1a2plcDlqY0VYd3l0Q0FhS3I2N2JicUF1S2h5TmRQbXBhTF9vVFVEYTBRaXZIcWNhNlBQMC1lRjhzRlpkYVJvUFNILVpsbVVRYVdtNWYxTnJuaEh5dGlOeTFOZGNDTXkzSFVuU2ZCTHVWYTJuMHBXWDI3T05XNUxhcC1LdWlERWVmVXc?oc=5" target="_blank">VIDEO - Un budget avec des mesures « réversibles » : ça veut dire quoi ?</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [« La France devient-elle le pays le plus dangereux de la zone euro ? » : l'inquiétude monte à Berlin et Bruxelles face à la dette française - Les Echos](https://news.google.com/rss/articles/CBMioAJBVV95cUxOT3JOSk50TmFtWEd6Y2RJcmZRajRhcjNxZzVNSzUzbFpCOFhDVVV4bXRWektrUXhheFJsZTQtWFl1T3labHk0ZUN6aWI4bENjb1hudEdLZFppYzhCWFJ6R1R3MlRnakgydmNOaV9MNXdFNm5FcDAwaV9sTWZtZGVtcW5taE5sUEFLRWx3aGVtTldrZmgxV2JYYVhuTEtoWDdRY1hzU1RESnQxVUpqNGFiblpDV3NYYk9BaWd2azI0ME1ZbWtockhWejlhMnFRcWEzbTFFVVZuaU81RXhkMFNIMXllc0ltd2lBU3Npem9RWV9KdGwtU1ZqWjdTMlVxTkJYVFlLeUYyaERwVkZ5bkVMeGdwSk1aem1NRmplbXFKUHU?oc=5)
+
+`Fri, 02 Oct 2026 13:53:20 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMioAJBVV95cUxOT3JOSk50TmFtWEd6Y2RJcmZRajRhcjNxZzVNSzUzbFpCOFhDVVV4bXRWektrUXhheFJsZTQtWFl1T3labHk0ZUN6aWI4bENjb1hudEdLZFppYzhCWFJ6R1R3MlRnakgydmNOaV9MNXdFNm5FcDAwaV9sTWZtZGVtcW5taE5sUEFLRWx3aGVtTldrZmgxV2JYYVhuTEtoWDdRY1hzU1RESnQxVUpqNGFiblpDV3NYYk9BaWd2azI0ME1ZbWtockhWejlhMnFRcWEzbTFFVVZuaU81RXhkMFNIMXllc0ltd2lBU3Npem9RWV9KdGwtU1ZqWjdTMlVxTkJYVFlLeUYyaERwVkZ5bkVMeGdwSk1aem1NRmplbXFKUHU?oc=5" target="_blank">« La France devient-elle le pays le plus dangereux de la zone euro ? » : l'inquiétude monte à Berlin et Bruxelles face à la dette française</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
