@@ -1,7 +1,23 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Sat, 03 Oct 2026 14:11:59 +0000`
-> 138 articles (30 derniers jours)
+> Derniere mise a jour : `Sun, 04 Oct 2026 14:41:59 +0000`
+> 135 articles (30 derniers jours)
+
+---
+
+### [Budget 2027 : la mauvaise surprise qui attend les bénéficiaires de la prime d'activité - Les Echos](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUk9wRlM4OEx3SFhHa3JEb0ViNmlsY1Ffc0l3Smt6MDlzVFRzQkxpdHFTTWFHTF80TmFNQUFqX0dKQkRHa0lLQU9WZ0NnOEN1a0xDdjg2SjFGVUZPOTJWdUlLUGczWmJjNENkM25TNGd3elJIMjVTSV9uUk1yZjhsU1Q2RnFpV2U2TTNaNHBXbUoxQ01UTExVY3NnZzUwdW5yR3FFWWc0S2hJRGFQbm1yS2ZnQXBvc280VDBYSlhWSFEwZ0hBdURpYnZaUGJJZk1DUFdDVw?oc=5)
+
+`Sun, 04 Oct 2026 07:30:08 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUk9wRlM4OEx3SFhHa3JEb0ViNmlsY1Ffc0l3Smt6MDlzVFRzQkxpdHFTTWFHTF80TmFNQUFqX0dKQkRHa0lLQU9WZ0NnOEN1a0xDdjg2SjFGVUZPOTJWdUlLUGczWmJjNENkM25TNGd3elJIMjVTSV9uUk1yZjhsU1Q2RnFpV2U2TTNaNHBXbUoxQ01UTExVY3NnZzUwdW5yR3FFWWc0S2hJRGFQbm1yS2ZnQXBvc280VDBYSlhWSFEwZ0hBdURpYnZaUGJJZk1DUFdDVw?oc=5" target="_blank">Budget 2027 : la mauvaise surprise qui attend les bénéficiaires de la prime d'activité</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Budget 2027 : les parlementaires prêts à en découdre avec le gouvernement - Les Echos](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZDl6NjhFSTJKSHBpcHJMNWlDRGloT3E2SlgtUHRMWkRHWGxWSzZwVFNsVTFVRlRySE8tRHI0ZGpNSXM1UmhOQTRPNTJxcS1LSmFSYjI2QVo0Z3FaVDFzZm1pM1dZUWdxS1Q0X1lhbFdsRGdBSnNnVXVLYmh2aHYxOEMzbjRUY2dpZWc0emZIQWJUaDN4dDdETGI3UnFaLTgxYzJtVXdOUUpYZktOWnFLeW1QNkxlYzd0S1NPQW5UdHFINU9VVjNRMGRiZU93enBXNGc?oc=5)
+
+`Sun, 04 Oct 2026 14:30:10 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZDl6NjhFSTJKSHBpcHJMNWlDRGloT3E2SlgtUHRMWkRHWGxWSzZwVFNsVTFVRlRySE8tRHI0ZGpNSXM1UmhOQTRPNTJxcS1LSmFSYjI2QVo0Z3FaVDFzZm1pM1dZUWdxS1Q0X1lhbFdsRGdBSnNnVXVLYmh2aHYxOEMzbjRUY2dpZWc0emZIQWJUaDN4dDdETGI3UnFaLTgxYzJtVXdOUUpYZktOWnFLeW1QNkxlYzd0S1NPQW5UdHFINU9VVjNRMGRiZU93enBXNGc?oc=5" target="_blank">Budget 2027 : les parlementaires prêts à en découdre avec le gouvernement</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -1013,14 +1029,6 @@
 
 ---
 
-### [Inflation : actualités, chiffres, analyses et vidéos - Les Echos | Page 333 - Les Echos](https://news.google.com/rss/articles/CBMihAFBVV95cUxPVkFVZ2UwZGVYaXRfR3dxZ2U5S2cwemNMbHFQVHp5bW1ndDc2bWdsMnZ1UUZqSjN4RlBBbU1pQVlzdDhvNXpxSzY4N3FJR0RKb0MwV2kzUl9DR25FMXA1YThBVXkxQnFFbjZZN1YtMEZTcE9OSVEwZnF6ZGo1aWNYejJDZ2E?oc=5)
-
-`Fri, 04 Sep 2026 03:33:47 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPVkFVZ2UwZGVYaXRfR3dxZ2U5S2cwemNMbHFQVHp5bW1ndDc2bWdsMnZ1UUZqSjN4RlBBbU1pQVlzdDhvNXpxSzY4N3FJR0RKb0MwV2kzUl9DR25FMXA1YThBVXkxQnFFbjZZN1YtMEZTcE9OSVEwZnF6ZGo1aWNYejJDZ2E?oc=5" target="_blank">Inflation : actualités, chiffres, analyses et vidéos - Les Echos | Page 333</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
 ### [Epargne salariale : le projet de hausse des taxes fait un tollé, Matignon met le pied sur le frein - Les Echos](https://news.google.com/rss/articles/CBMi5AFBVV95cUxONnI2cWVlUGthZ2plZjdUcFVJYnBtUkRSdWtYaHgzaGswbkgtZ0tYWVFTLVY0MXdrZWd2eUYwUmlEU2dCSWczOXl0ajh3d1VRcHRGcV93cDJzbmNyS2VpbXplVlZ6WlRlRlhENndxQ3RnZ0M5M2FaRERMQ2JLcm9TUDV4QVItaDcybmppOWt2T0FMODlkQnRYeWlaQ19LcVBuVUFjdVZvUUxfeG1CUEpuaFBNRGxJb1R4ZnVFX1BGR0p6Q0tQTXdxZVEySk93dmVzaC1WalBSMTBDVmU0b0hrVW56aEw?oc=5)
 
 `Mon, 07 Sep 2026 18:11:28 GMT`
@@ -1061,14 +1069,6 @@
 
 ---
 
-### [Consommation : actualités, chiffres, analyses et vidéos - Les Echos | Page 182 - Les Echos](https://news.google.com/rss/articles/CBMifkFVX3lxTFBHaXduYm9yTTBzVGFEeVh6bEI0LWdhc29faUtLMExSbjVYeHNSMldNcG1rb2IyTXJPMEFQcUlZSWV2a0lFRWRjYTBwSXlQVkE1SWJUSGYzM2xnWm1CUkdsS0FsSjFZbE14WVlfUWFUcVdZTVZ2X2tqU0txa0Rjdw?oc=5)
-
-`Thu, 03 Sep 2026 18:50:02 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMifkFVX3lxTFBHaXduYm9yTTBzVGFEeVh6bEI0LWdhc29faUtLMExSbjVYeHNSMldNcG1rb2IyTXJPMEFQcUlZSWV2a0lFRWRjYTBwSXlQVkE1SWJUSGYzM2xnWm1CUkdsS0FsSjFZbE14WVlfUWFUcVdZTVZ2X2tqU0txa0Rjdw?oc=5" target="_blank">Consommation : actualités, chiffres, analyses et vidéos - Les Echos | Page 182</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
 ### [Budget 2027 : l'épargne salariale dans le viseur du gouvernement - Les Echos](https://news.google.com/rss/articles/CBMitwFBVV95cUxOM3RoWThWRWxXY0dMNTZKbW9lQ0FUVHluV1ZWZHAwbktVXzh4ZUhON3N3dlczb2FoS0xaNmpYMjQwbTRlWE4yV19HMUNaQ0NuQUdaOTh2WHQyUzRqNGRHcEUxWGpPbk1NS3l0TThYbE1fTTZkdElLUjlxTnBUOW0xazNrbVhSMm1RRDk2bm84TVR0QkpxZm8zMXVaaVh0M01RWk8xa0w1c19nTXhKeWJIZzdPOV9sY00?oc=5)
 
 `Sun, 06 Sep 2026 07:01:27 GMT`
@@ -1082,29 +1082,5 @@
 `Fri, 04 Sep 2026 16:15:00 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi5wFBVV95cUxNS1pQTTJIalZscFNaOUhLM0cyYm9CRF90ZTRwNFZyVnNSOEhGZXloY3FieFJUc3ZBSTRXU3hCNjJrY3B0WTFCTWNsMm5Qd1AxZGNUQ2dmbkdzWVctajZtX3lsRTIxZlpMYVV0SXE2ZUR1MkNNM0Ywc19VRzFFX1Y1LVpxV3ZXWF9telpibEFwN1RpclloaGRmS3JxUHZoS2lHclA5dmJoeHNob0l3ZkEtd2NiUmpKbU1lMU1EWFRnZGotamliSHdPNFI2STRfdV9Hdlh4bDRwaVNMQ1Y0cDE5ZHl4TjNTOW8?oc=5" target="_blank">Budget : le gouvernement peine à documenter les économies pour éviter un dérapage en 2026</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Le gouvernement gèle 40 millions d'euros destinés à la rénovation thermique des écoles - Les Echos](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOTlNaV2VwWnNyNlVtZno4a3R2WFUxRDYyVTVuX0RfOTNScmdHRm42aHBod1dsd3JSRWFWd2htbUlkRHlsQ2NObF9MZzRfSkU2X0p4QmRTeXBuWXdaeFctNU10Z2htTnkxLXdnSUlMSl9Ubll4Wjd2UUdZVVFqOV9UU2NBUXB1Y251ZV9FUm5nTTd5NENtNHdzMGVfWlRXeDBoQ0hoV0hJRWhmWTNtU095bnBOTWpPTmw2eHFEVlVVa09xSkVRQzlyV1FwMUFNX2E0TGw3YWxWMlZWeVdheWJqdVltVkw?oc=5)
-
-`Fri, 04 Sep 2026 11:55:27 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi5AFBVV95cUxOTlNaV2VwWnNyNlVtZno4a3R2WFUxRDYyVTVuX0RfOTNScmdHRm42aHBod1dsd3JSRWFWd2htbUlkRHlsQ2NObF9MZzRfSkU2X0p4QmRTeXBuWXdaeFctNU10Z2htTnkxLXdnSUlMSl9Ubll4Wjd2UUdZVVFqOV9UU2NBUXB1Y251ZV9FUm5nTTd5NENtNHdzMGVfWlRXeDBoQ0hoV0hJRWhmWTNtU095bnBOTWpPTmw2eHFEVlVVa09xSkVRQzlyV1FwMUFNX2E0TGw3YWxWMlZWeVdheWJqdVltVkw?oc=5" target="_blank">Le gouvernement gèle 40 millions d'euros destinés à la rénovation thermique des écoles</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [SONDAGE EXCLUSIF - L'inquiétude des Français sur la dette publique est au plus haut - Les Echos](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUkxKSzRrMGZhZGRtNU1lNlBYcTZTdXpKQlBEWEFBX1MtSlA1em1IZnZ2ZGx2c2E3Rkg0aDFNYnFhTzVaUk9FT3NRYXA3bngtS2RwZ3ZsOThVM0V6QkRSQkRyejVvVW5Zck5mSXZaRDhtZTgzM3pmVjNQaWREeVc2NVdYTGp1LXdUaF9PWmR6WEpZRjBNYUhiLUNOX3dkSXZsUmo5dm1nRktFc05ra28xU0VhT0JNd2Y0QlZJWG5Mc0luMkNETnlTZ0d3S2RTamVPWWk2azA4VDJFcVNtbUE?oc=5)
-
-`Thu, 03 Sep 2026 15:40:16 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUkxKSzRrMGZhZGRtNU1lNlBYcTZTdXpKQlBEWEFBX1MtSlA1em1IZnZ2ZGx2c2E3Rkg0aDFNYnFhTzVaUk9FT3NRYXA3bngtS2RwZ3ZsOThVM0V6QkRSQkRyejVvVW5Zck5mSXZaRDhtZTgzM3pmVjNQaWREeVc2NVdYTGp1LXdUaF9PWmR6WEpZRjBNYUhiLUNOX3dkSXZsUmo5dm1nRktFc05ra28xU0VhT0JNd2Y0QlZJWG5Mc0luMkNETnlTZ0d3S2RTamVPWWk2azA4VDJFcVNtbUE?oc=5" target="_blank">SONDAGE EXCLUSIF - L'inquiétude des Français sur la dette publique est au plus haut</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Dette, inflation, croissance : la rentrée sans filet de l'économie mondiale ? - Les Echos](https://news.google.com/rss/articles/CBMiygFBVV95cUxPRnRidWpFLTJCSHZyS3c5S2xCcE8yWU5GMDlMRzZYM1dnUm9ZWU92QUZXdERQTlp0ZDVfV09hWnViZlBoRkJTaW9Mb3NOLXphRFlxRGNXVUhEVTVzZjFGMkNnb2ZIWUZJOTFQdThIcHF5bkdLYllsSk9MRXliRGwxeHFvTVJuNFlrbGZ5bkZBMnI4Z21VNTlOREY1QU1Zakh2LXpZSXJRYTdpdlA5MWFnel8xZjR3Z1hZZk1Ueml0SzhyVGpEQVRid1dR?oc=5)
-
-`Thu, 03 Sep 2026 15:00:33 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxPRnRidWpFLTJCSHZyS3c5S2xCcE8yWU5GMDlMRzZYM1dnUm9ZWU92QUZXdERQTlp0ZDVfV09hWnViZlBoRkJTaW9Mb3NOLXphRFlxRGNXVUhEVTVzZjFGMkNnb2ZIWUZJOTFQdThIcHF5bkdLYllsSk9MRXliRGwxeHFvTVJuNFlrbGZ5bkZBMnI4Z21VNTlOREY1QU1Zakh2LXpZSXJRYTdpdlA5MWFnel8xZjR3Z1hZZk1Ueml0SzhyVGpEQVRid1dR?oc=5" target="_blank">Dette, inflation, croissance : la rentrée sans filet de l'économie mondiale ?</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
