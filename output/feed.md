@@ -1,7 +1,31 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Mon, 05 Oct 2026 12:44:55 +0000`
-> 136 articles (30 derniers jours)
+> Derniere mise a jour : `Mon, 05 Oct 2026 18:12:40 +0000`
+> 139 articles (30 derniers jours)
+
+---
+
+### [Assurance-chômage : vers un bras de fer sur la ponction de l'Etat sur l'Unédic - Les Echos](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdlh5V01EVmFmOXN1RmVwb3dmb2YyLVZTLVZPRlZ2TmdmVWtTcGxaXzhnYVVtVmUxdHNOZ3BwSkU3T2FmcmlGVXZVNk5QdTVvMGxra1pHcnozLXRWcUpoOFZMNEFORkwydFVuVko1bF9KdnRuNEIya2YwT1RQSkdCTXdsR1ZQLVF5VVBPYjYzVHc1UUhFSFA1S3Fxejdoa2k1SU1zSkZ0SUZScVlqem56QmhWQmthRUpuMUI5V0lYakI2NDM0WENCSg?oc=5)
+
+`Mon, 05 Oct 2026 15:49:01 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdlh5V01EVmFmOXN1RmVwb3dmb2YyLVZTLVZPRlZ2TmdmVWtTcGxaXzhnYVVtVmUxdHNOZ3BwSkU3T2FmcmlGVXZVNk5QdTVvMGxra1pHcnozLXRWcUpoOFZMNEFORkwydFVuVko1bF9KdnRuNEIya2YwT1RQSkdCTXdsR1ZQLVF5VVBPYjYzVHc1UUhFSFA1S3Fxejdoa2k1SU1zSkZ0SUZScVlqem56QmhWQmthRUpuMUI5V0lYakI2NDM0WENCSg?oc=5" target="_blank">Assurance-chômage : vers un bras de fer sur la ponction de l'Etat sur l'Unédic</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Impôts : le palmarès des niches fiscales les plus coûteuses - Les Echos](https://news.google.com/rss/articles/CBMivwFBVV95cUxOY1laNzNWUDNrUGF2NGp3R0VPWDZNVVp5MXFTT3A0UVZfenA0TUZVclMyTXlCWG0wTkJNNEFpSldUeldkcGZGaU1lWEVfQUVsRFlXdzZsc2tVNXo4LXFzVzlRUVdtTDBHT2lfWXJPbTlmajA2SjZFVlJpUjctRkdTRGg3VDRRV3U0R19BS3NhQnNhc05ZUjIyUDJqeXlqeWJqelhSVkFhcjlmcHYxNFlRcUVMQklNcWZvc09iTmNsdw?oc=5)
+
+`Mon, 05 Oct 2026 15:52:31 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxOY1laNzNWUDNrUGF2NGp3R0VPWDZNVVp5MXFTT3A0UVZfenA0TUZVclMyTXlCWG0wTkJNNEFpSldUeldkcGZGaU1lWEVfQUVsRFlXdzZsc2tVNXo4LXFzVzlRUVdtTDBHT2lfWXJPbTlmajA2SjZFVlJpUjctRkdTRGg3VDRRV3U0R19BS3NhQnNhc05ZUjIyUDJqeXlqeWJqelhSVkFhcjlmcHYxNFlRcUVMQklNcWZvc09iTmNsdw?oc=5" target="_blank">Impôts : le palmarès des niches fiscales les plus coûteuses</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Niches fiscales : les cinq grands coups de rabot du gouvernement - Les Echos](https://news.google.com/rss/articles/CBMixgFBVV95cUxNRTdoU3h3bW5TQVQ5amxyS2g0OHRucHNHNHVDajF0Z01QcVY5dlNMV0VZVExudlh6WmlGQWt6dVd6cm1WZFZBa1l2RTkyeUR2RGVIcE9lMFIxalR1UFYtNkYyX285eTZVX3hWakl5Wk03YkhQTUlrcWFjMzA1V0E2Q2ZQa0tIOXhsQjBIcHVaV1E5OUtxT2VHalQ5SXotN2RIVmwtWDFJZEpKSDFNMnhMNWpYNDN0Q1VFanlVcGUwOXMtcHU1bXc?oc=5)
+
+`Mon, 05 Oct 2026 17:40:41 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxNRTdoU3h3bW5TQVQ5amxyS2g0OHRucHNHNHVDajF0Z01QcVY5dlNMV0VZVExudlh6WmlGQWt6dVd6cm1WZFZBa1l2RTkyeUR2RGVIcE9lMFIxalR1UFYtNkYyX285eTZVX3hWakl5Wk03YkhQTUlrcWFjMzA1V0E2Q2ZQa0tIOXhsQjBIcHVaV1E5OUtxT2VHalQ5SXotN2RIVmwtWDFJZEpKSDFNMnhMNWpYNDN0Q1VFanlVcGUwOXMtcHU1bXc?oc=5" target="_blank">Niches fiscales : les cinq grands coups de rabot du gouvernement</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
