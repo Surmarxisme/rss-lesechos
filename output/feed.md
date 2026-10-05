@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Mon, 05 Oct 2026 18:12:40 +0000`
-> 139 articles (30 derniers jours)
+> Derniere mise a jour : `Mon, 05 Oct 2026 22:57:46 +0000`
+> 140 articles (30 derniers jours)
+
+---
+
+### [Budget: un nouveau duo à la tête de la commission des Finances du Sénat - Les Echos](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdzdRcWhsX3RYTzQ0QTkxVFBBUnlRV3lDRkFwNnRTN3ZuM0pDeTNVRnJvNThBSjE3c3ZlMHN3bWRPX3M4cTN4eEVXelNtSHB5ajljeFc0OEhEU3BYWmtVblRkVFJQYngwcEMxRE5pUWIzSFhBNVQ0ZHE0UUhzVnRpTTFoOTVSd3VrZmxPZFgwZVpnVjdFcFZZaXhxWHBnV3hXTFZMdF9EUDRhWFREUjBYeDhqZW1OY25pLUpDSFNUZG55VFNQaFJqT2dMTjdnSVha?oc=5)
+
+`Mon, 05 Oct 2026 21:02:57 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdzdRcWhsX3RYTzQ0QTkxVFBBUnlRV3lDRkFwNnRTN3ZuM0pDeTNVRnJvNThBSjE3c3ZlMHN3bWRPX3M4cTN4eEVXelNtSHB5ajljeFc0OEhEU3BYWmtVblRkVFJQYngwcEMxRE5pUWIzSFhBNVQ0ZHE0UUhzVnRpTTFoOTVSd3VrZmxPZFgwZVpnVjdFcFZZaXhxWHBnV3hXTFZMdF9EUDRhWFREUjBYeDhqZW1OY25pLUpDSFNUZG55VFNQaFJqT2dMTjdnSVha?oc=5" target="_blank">Budget: un nouveau duo à la tête de la commission des Finances du Sénat</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
