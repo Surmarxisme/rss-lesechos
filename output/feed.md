@@ -1,7 +1,23 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Sun, 04 Oct 2026 14:41:59 +0000`
-> 135 articles (30 derniers jours)
+> Derniere mise a jour : `Mon, 05 Oct 2026 12:44:55 +0000`
+> 136 articles (30 derniers jours)
+
+---
+
+### [Epargne salariale et prévoyance sont les reflets des fractures du travail - Les Echos](https://news.google.com/rss/articles/CBMixwFBVV95cUxOUDR3elhPU1htRDBDSTU3OWxWdEpzcHJPX3RueTJaRmpTZkppOXFmcFk2Mi1VTVdZX05vTWVJSTZDS1FrS05ScnVFcm0wTklnV0w4ckgza21jNktPZ2x5M2xMNy1hWGViVDgzVi1wRk8wZTMtZHg4UEFyUjYtTEpGbFhzdVJVNlp4c3didVZuZ24xOUdYNzlhZV9fX2JCZ1Y1NWVMeTg5MUhlZDNJcmM1SmNEZ0U4X2xTdWNKakd6OWF1WmozVkZn?oc=5)
+
+`Mon, 05 Oct 2026 06:10:09 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMixwFBVV95cUxOUDR3elhPU1htRDBDSTU3OWxWdEpzcHJPX3RueTJaRmpTZkppOXFmcFk2Mi1VTVdZX05vTWVJSTZDS1FrS05ScnVFcm0wTklnV0w4ckgza21jNktPZ2x5M2xMNy1hWGViVDgzVi1wRk8wZTMtZHg4UEFyUjYtTEpGbFhzdVJVNlp4c3didVZuZ24xOUdYNzlhZV9fX2JCZ1Y1NWVMeTg5MUhlZDNJcmM1SmNEZ0U4X2xTdWNKakd6OWF1WmozVkZn?oc=5" target="_blank">Epargne salariale et prévoyance sont les reflets des fractures du travail</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [La grande pauvreté s'installe dans le paysage français - Les Echos](https://news.google.com/rss/articles/CBMiswFBVV95cUxQdXBpZG5zMlhDN2RtRGFNV0xyYmFJaXN0UXc4eGxuQ25laGRqY1lHWTZhUnhLcUdEUWlSS1R3dVFheVp5MGg0X21iVmZBeHpBNkVZa041MG1QZG5yOFJDYVZ3TWtNOVR3RDNFLTcyZG43N0xsRENwVnVtdnh1OW54TjA2YlJjQ0QwNG5NNXl2WDhxclpjVWswdHd2c1ZFNzhpVFBsX25hVXdxYUlfT1o3c0tibw?oc=5)
+
+`Mon, 05 Oct 2026 05:00:08 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxQdXBpZG5zMlhDN2RtRGFNV0xyYmFJaXN0UXc4eGxuQ25laGRqY1lHWTZhUnhLcUdEUWlSS1R3dVFheVp5MGg0X21iVmZBeHpBNkVZa041MG1QZG5yOFJDYVZ3TWtNOVR3RDNFLTcyZG43N0xsRENwVnVtdnh1OW54TjA2YlJjQ0QwNG5NNXl2WDhxclpjVWswdHd2c1ZFNzhpVFBsX25hVXdxYUlfT1o3c0tibw?oc=5" target="_blank">La grande pauvreté s'installe dans le paysage français</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -1074,13 +1090,5 @@
 `Sun, 06 Sep 2026 07:01:27 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxOM3RoWThWRWxXY0dMNTZKbW9lQ0FUVHluV1ZWZHAwbktVXzh4ZUhON3N3dlczb2FoS0xaNmpYMjQwbTRlWE4yV19HMUNaQ0NuQUdaOTh2WHQyUzRqNGRHcEUxWGpPbk1NS3l0TThYbE1fTTZkdElLUjlxTnBUOW0xazNrbVhSMm1RRDk2bm84TVR0QkpxZm8zMXVaaVh0M01RWk8xa0w1c19nTXhKeWJIZzdPOV9sY00?oc=5" target="_blank">Budget 2027 : l'épargne salariale dans le viseur du gouvernement</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Budget : le gouvernement peine à documenter les économies pour éviter un dérapage en 2026 - Les Echos](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNS1pQTTJIalZscFNaOUhLM0cyYm9CRF90ZTRwNFZyVnNSOEhGZXloY3FieFJUc3ZBSTRXU3hCNjJrY3B0WTFCTWNsMm5Qd1AxZGNUQ2dmbkdzWVctajZtX3lsRTIxZlpMYVV0SXE2ZUR1MkNNM0Ywc19VRzFFX1Y1LVpxV3ZXWF9telpibEFwN1RpclloaGRmS3JxUHZoS2lHclA5dmJoeHNob0l3ZkEtd2NiUmpKbU1lMU1EWFRnZGotamliSHdPNFI2STRfdV9Hdlh4bDRwaVNMQ1Y0cDE5ZHl4TjNTOW8?oc=5)
-
-`Fri, 04 Sep 2026 16:15:00 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi5wFBVV95cUxNS1pQTTJIalZscFNaOUhLM0cyYm9CRF90ZTRwNFZyVnNSOEhGZXloY3FieFJUc3ZBSTRXU3hCNjJrY3B0WTFCTWNsMm5Qd1AxZGNUQ2dmbkdzWVctajZtX3lsRTIxZlpMYVV0SXE2ZUR1MkNNM0Ywc19VRzFFX1Y1LVpxV3ZXWF9telpibEFwN1RpclloaGRmS3JxUHZoS2lHclA5dmJoeHNob0l3ZkEtd2NiUmpKbU1lMU1EWFRnZGotamliSHdPNFI2STRfdV9Hdlh4bDRwaVNMQ1Y0cDE5ZHl4TjNTOW8?oc=5" target="_blank">Budget : le gouvernement peine à documenter les économies pour éviter un dérapage en 2026</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
