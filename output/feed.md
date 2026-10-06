@@ -1,7 +1,39 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Mon, 05 Oct 2026 22:57:46 +0000`
-> 140 articles (30 derniers jours)
+> Derniere mise a jour : `Tue, 06 Oct 2026 12:15:38 +0000`
+> 143 articles (30 derniers jours)
+
+---
+
+### [Impôt minimal des hauts revenus : la CDHR finit par payer - lesechos.fr](https://news.google.com/rss/articles/CBMivAFBVV95cUxQOWJ4eXJXQTYwQjBGSG5EMkVnQ3FGMW1wQmdoWkstbXlzUVVaVS1UTW1nZjNQMHhWd1Y1Q3lDUDVkS05Vc0gxNTJQTEpzLWxfQUx5YXhWcHIyYkNMLUNzYTI1YzVUV2VhQWhqVkVadjVaaEVaeG5yYUQtb1hoYU5XQ1ZDV1FWSC1GdmU5OFVIaS1OUzA5dTdRMTBCM0xMdjliTWtncHFsTF9XeEs0LWlkYVl6Qnh2UURkNElKNA?oc=5)
+
+`Tue, 06 Oct 2026 04:15:08 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxQOWJ4eXJXQTYwQjBGSG5EMkVnQ3FGMW1wQmdoWkstbXlzUVVaVS1UTW1nZjNQMHhWd1Y1Q3lDUDVkS05Vc0gxNTJQTEpzLWxfQUx5YXhWcHIyYkNMLUNzYTI1YzVUV2VhQWhqVkVadjVaaEVaeG5yYUQtb1hoYU5XQ1ZDV1FWSC1GdmU5OFVIaS1OUzA5dTdRMTBCM0xMdjliTWtncHFsTF9XeEs0LWlkYVl6Qnh2UURkNElKNA?oc=5" target="_blank">Impôt minimal des hauts revenus : la CDHR finit par payer</a>&nbsp;&nbsp;<font color="#6f6f6f">lesechos.fr</font>
+
+---
+
+### [« Une révolution qui doit demeurer compatible avec les principes du service public » : la nouvelle mise en garde sur le développement de l'IA - lesechos.fr](https://news.google.com/rss/articles/CBMimAJBVV95cUxPd3Z1SWhIWUNzZkV0TklCWEdGNjN2MXVicUhYQnFKanZFb1lUVTRkTFVTU0dnclN1S09kdjA1SmRoeFFtZ2E1azUyX1VnRVNreVFtUHBobmVjckZ6dEV3MEdRbFhhOExpb3d5MDN0c3g4WWVYWXA2UUxPLWpjUGZVX3NManhPbmNTakI3X28tMTFBa0k2ZllOR29pemI5NG5WYXR4NlJsckl6QXlHd0Zpc0E3VUc0dnZCZENrX2VkU1I0cGVMWG1tUVo5dkFDeFpPTlBsNUZ6c1NWYnVhbGg1YV9FOGJJZ0o1QUVfc3VWQWo1OXRfbENuemtCX2dMNE13OHdoUVAzTUd1NGkxd0ZaTGZ0VUItN3FT?oc=5)
+
+`Tue, 06 Oct 2026 05:05:08 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMimAJBVV95cUxPd3Z1SWhIWUNzZkV0TklCWEdGNjN2MXVicUhYQnFKanZFb1lUVTRkTFVTU0dnclN1S09kdjA1SmRoeFFtZ2E1azUyX1VnRVNreVFtUHBobmVjckZ6dEV3MEdRbFhhOExpb3d5MDN0c3g4WWVYWXA2UUxPLWpjUGZVX3NManhPbmNTakI3X28tMTFBa0k2ZllOR29pemI5NG5WYXR4NlJsckl6QXlHd0Zpc0E3VUc0dnZCZENrX2VkU1I0cGVMWG1tUVo5dkFDeFpPTlBsNUZ6c1NWYnVhbGg1YV9FOGJJZ0o1QUVfc3VWQWo1OXRfbENuemtCX2dMNE13OHdoUVAzTUd1NGkxd0ZaTGZ0VUItN3FT?oc=5" target="_blank">« Une révolution qui doit demeurer compatible avec les principes du service public » : la nouvelle mise en garde sur le développement de l'IA</a>&nbsp;&nbsp;<font color="#6f6f6f">lesechos.fr</font>
+
+---
+
+### [DIRECT - Mobilisation des lycéens : des cours perturbés dans près de 900 établissements, selon le gouvernement - lesechos.fr](https://news.google.com/rss/articles/CBMigwJBVV95cUxNMXpMbVZwSFhESXV2X3RpVm5LY1BoVjdPSnJVaDJFMGlwQThna2RlMy0wT2M4c2pveXlKQ2pIT182UWttS1VqVlVYNEN6QWtfM2t6eWJXSlRQNGZmako2LTNUVnlJM0JVWWlqa2R1Q2FiZ01jOWFSVk45WDUwXy10dmdaV0NpMTVSVnZ5cEtuQmEwSWFoVzZnYXoyaHVVQ2p4akQtX3NwS3VOVmxyVW1Cb3BhYlMtWURYN29kcWIzUTB3VnRtSE1RZEFOXzVPRWR6aWs2azNGYVA2WG1fYzVkRElYeWFsWlpha3Q1YXdGcm9WN1FXTkNGalVuRHJtQy1ZcFA0?oc=5)
+
+`Tue, 06 Oct 2026 10:09:27 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMigwJBVV95cUxNMXpMbVZwSFhESXV2X3RpVm5LY1BoVjdPSnJVaDJFMGlwQThna2RlMy0wT2M4c2pveXlKQ2pIT182UWttS1VqVlVYNEN6QWtfM2t6eWJXSlRQNGZmako2LTNUVnlJM0JVWWlqa2R1Q2FiZ01jOWFSVk45WDUwXy10dmdaV0NpMTVSVnZ5cEtuQmEwSWFoVzZnYXoyaHVVQ2p4akQtX3NwS3VOVmxyVW1Cb3BhYlMtWURYN29kcWIzUTB3VnRtSE1RZEFOXzVPRWR6aWs2azNGYVA2WG1fYzVkRElYeWFsWlpha3Q1YXdGcm9WN1FXTkNGalVuRHJtQy1ZcFA0?oc=5" target="_blank">DIRECT - Mobilisation des lycéens : des cours perturbés dans près de 900 établissements, selon le gouvernement</a>&nbsp;&nbsp;<font color="#6f6f6f">lesechos.fr</font>
+
+---
+
+### [Budget 2027 : qui a raison entre Matignon et le Medef sur les hausses d'impôts visant les entreprises - lesechos.fr](https://news.google.com/rss/articles/CBMi9gFBVV95cUxNWGhuRVpiOTNZNG5ScHd2ZjJ1V3UyZ2hBdkppeDZaaG1oUnIyMVlkdFQ1MG8zbk1mdy1neTlWOThwMDBOc2laaW9zVEtvQ2U0cFc5RHZLTFhlSzhjSFluUGJBN1VUWTViYlIyNC04amtrRHhGVzZlZlAzMGhpQmZqc0MwYUpKa1EySWF3Z0VheFpZRnUtS1VPdnZzdVNKdzRxZ3A1enhyM3F2ZW5PWXhaYkFjZ2QyRTR3YXJUYmVveHNpVGxWSmpDNFdHM3BIY25EQklWUEJvMkFzT0lkZG03NFgwSGxTVGFGdV8tYXl6RWZIQnRUZmc?oc=5)
+
+`Tue, 06 Oct 2026 04:00:00 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi9gFBVV95cUxNWGhuRVpiOTNZNG5ScHd2ZjJ1V3UyZ2hBdkppeDZaaG1oUnIyMVlkdFQ1MG8zbk1mdy1neTlWOThwMDBOc2laaW9zVEtvQ2U0cFc5RHZLTFhlSzhjSFluUGJBN1VUWTViYlIyNC04amtrRHhGVzZlZlAzMGhpQmZqc0MwYUpKa1EySWF3Z0VheFpZRnUtS1VPdnZzdVNKdzRxZ3A1enhyM3F2ZW5PWXhaYkFjZ2QyRTR3YXJUYmVveHNpVGxWSmpDNFdHM3BIY25EQklWUEJvMkFzT0lkZG03NFgwSGxTVGFGdV8tYXl6RWZIQnRUZmc?oc=5" target="_blank">Budget 2027 : qui a raison entre Matignon et le Medef sur les hausses d'impôts visant les entreprises</a>&nbsp;&nbsp;<font color="#6f6f6f">lesechos.fr</font>
 
 ---
 
@@ -1114,13 +1146,5 @@
 `Mon, 07 Sep 2026 04:00:10 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi5gFBVV95cUxNTi1sTUs4UkNIbXFDalF4VklHVjJTeXR4TjFXckhBSDdlVHoxTmxrMzJUVzNfaE82ZHpXNWtOSllCTFF2NFhjMWhzNmEyengwZXJVWkR3T084TGN0UUxoRFZSRmdlYnQ0Y3Q4eWRBbENHaHZ0UUNhUzBIOHZ0OF90NFhzYXFTTFZHajN1ZDJXWDJhVkxnZWo1X2pEWVc0NFlSN0RuNjRWQVRkLUpzWUMxY0VobXZFbHhZYjdNUlBpNjBZNVlUZTZxZlhvdmFPZWtlcW1mNk94ZjdyZWt0dDdsYzBxbE1FUQ?oc=5" target="_blank">Budget 2027 : le gouvernement prêt à taxer les indemnités de rupture de CDI pour les hauts revenus</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Budget 2027 : l'épargne salariale dans le viseur du gouvernement - Les Echos](https://news.google.com/rss/articles/CBMitwFBVV95cUxOM3RoWThWRWxXY0dMNTZKbW9lQ0FUVHluV1ZWZHAwbktVXzh4ZUhON3N3dlczb2FoS0xaNmpYMjQwbTRlWE4yV19HMUNaQ0NuQUdaOTh2WHQyUzRqNGRHcEUxWGpPbk1NS3l0TThYbE1fTTZkdElLUjlxTnBUOW0xazNrbVhSMm1RRDk2bm84TVR0QkpxZm8zMXVaaVh0M01RWk8xa0w1c19nTXhKeWJIZzdPOV9sY00?oc=5)
-
-`Sun, 06 Sep 2026 07:01:27 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxOM3RoWThWRWxXY0dMNTZKbW9lQ0FUVHluV1ZWZHAwbktVXzh4ZUhON3N3dlczb2FoS0xaNmpYMjQwbTRlWE4yV19HMUNaQ0NuQUdaOTh2WHQyUzRqNGRHcEUxWGpPbk1NS3l0TThYbE1fTTZkdElLUjlxTnBUOW0xazNrbVhSMm1RRDk2bm84TVR0QkpxZm8zMXVaaVh0M01RWk8xa0w1c19nTXhKeWJIZzdPOV9sY00?oc=5" target="_blank">Budget 2027 : l'épargne salariale dans le viseur du gouvernement</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
