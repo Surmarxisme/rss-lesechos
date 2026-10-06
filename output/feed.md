@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Tue, 06 Oct 2026 17:39:27 +0000`
-> 143 articles (30 derniers jours)
+> Derniere mise a jour : `Tue, 06 Oct 2026 21:20:15 +0000`
+> 144 articles (30 derniers jours)
+
+---
+
+### [Budget et fiscalité : actualités en direct, analyses et vidéos - Les Echos](https://news.google.com/rss/articles/CBMiugFBVV95cUxNVE03U1REOEkzWDg2c0JIVk9iOUJlMV9DcUlDSUNlYVB5VkFmams2WDJoR2pkaHZnSGVCSW5VZ2ZjWDNOa21uUmd2bWZBUmtpVHRCQ3FsemREQWFESmZSQWN2cF9BY3hrdWpPT3ZURGpiU2FkMlVDWnY1M3ZCc1hocTdWTmV6NTBncEdrd3JXVngzS21tc1U4YzBWRVUxLU54dkRDM0prTElLOGxINkdjLUJ1MFRScDFhUlE?oc=5)
+
+`Thu, 01 Oct 2026 16:24:19 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxNVE03U1REOEkzWDg2c0JIVk9iOUJlMV9DcUlDSUNlYVB5VkFmams2WDJoR2pkaHZnSGVCSW5VZ2ZjWDNOa21uUmd2bWZBUmtpVHRCQ3FsemREQWFESmZSQWN2cF9BY3hrdWpPT3ZURGpiU2FkMlVDWnY1M3ZCc1hocTdWTmV6NTBncEdrd3JXVngzS21tc1U4YzBWRVUxLU54dkRDM0prTElLOGxINkdjLUJ1MFRScDFhUlE?oc=5" target="_blank">Budget et fiscalité : actualités en direct, analyses et vidéos</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
