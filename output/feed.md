@@ -1,7 +1,23 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Tue, 06 Oct 2026 21:20:15 +0000`
-> 144 articles (30 derniers jours)
+> Derniere mise a jour : `Wed, 07 Oct 2026 12:06:45 +0000`
+> 145 articles (30 derniers jours)
+
+---
+
+### [Blocus des lycées : l'utilisation des grenades assourdissantes suspendue, annonces attendues de Sébastien Lecornu - Les Echos](https://news.google.com/rss/articles/CBMi9wFBVV95cUxON2taM2R4ZHRnUnhaV05lYVE4QjJaWlcyd19XZXpuanNNeUdaYm9LcUJFdXBYMEhtVGlBVFY0aXYwLXRyZDdLMW1acFg5X3ZkZU90LU5VdmUtem9USHhQaTVGZWtSc1ZpNGdqZ1JvS2FycWNTVWdEb2JDcWNacXFDQlZ4cVVvRXg5NURTSTlhZEctZlU5OVVUSHN5UDBzVy1mdVc0dW85akc5VjBqZkNKZWIwZ1NIOGV1Snl1RnA0ZndEa29kOWJvMzNES1NuLUp5clJKTkQxaG9XVnNXS1FNOHVrWVR6YjJ4VzV2bGQyTmJTTVNDeUNn?oc=5)
+
+`Wed, 07 Oct 2026 08:19:28 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi9wFBVV95cUxON2taM2R4ZHRnUnhaV05lYVE4QjJaWlcyd19XZXpuanNNeUdaYm9LcUJFdXBYMEhtVGlBVFY0aXYwLXRyZDdLMW1acFg5X3ZkZU90LU5VdmUtem9USHhQaTVGZWtSc1ZpNGdqZ1JvS2FycWNTVWdEb2JDcWNacXFDQlZ4cVVvRXg5NURTSTlhZEctZlU5OVVUSHN5UDBzVy1mdVc0dW85akc5VjBqZkNKZWIwZ1NIOGV1Snl1RnA0ZndEa29kOWJvMzNES1NuLUp5clJKTkQxaG9XVnNXS1FNOHVrWVR6YjJ4VzV2bGQyTmJTTVNDeUNn?oc=5" target="_blank">Blocus des lycées : l'utilisation des grenades assourdissantes suspendue, annonces attendues de Sébastien Lecornu</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [En France, une transition écologique jugée bien planifiée mais non financée - Les Echos](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOeE1nVlBZa1dYMzl3S21BOVFyRHJpVldsVVNLc29VS0JoUG12TVl3TTljRGFxLUx0WFZFNi1CQTUydnJjcy1xcUpmZGNrT0FuWlAzbWNGLXRvSDQ2bmRpcFBKZWhHbWpYSWhNa25zYTdzNmdMWEFuNDR1WVpuVmZMSG5ERVY0UGVRTU5nWG9wcVc1LWN2dThfZ1JKZUxwWlNOWk5kVi1VR1ltTkRhRFNPbzJCTWhDS3VfTjNyWFBmdFAxQ0RXMjJlOVcyYkpVclBKQ2VENW1R?oc=5)
+
+`Wed, 07 Oct 2026 11:40:57 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi1gFBVV95cUxOeE1nVlBZa1dYMzl3S21BOVFyRHJpVldsVVNLc29VS0JoUG12TVl3TTljRGFxLUx0WFZFNi1CQTUydnJjcy1xcUpmZGNrT0FuWlAzbWNGLXRvSDQ2bmRpcFBKZWhHbWpYSWhNa25zYTdzNmdMWEFuNDR1WVpuVmZMSG5ERVY0UGVRTU5nWG9wcVc1LWN2dThfZ1JKZUxwWlNOWk5kVi1VR1ltTkRhRFNPbzJCTWhDS3VfTjNyWFBmdFAxQ0RXMjJlOVcyYkpVclBKQ2VENW1R?oc=5" target="_blank">En France, une transition écologique jugée bien planifiée mais non financée</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -1146,13 +1162,5 @@
 `Mon, 07 Sep 2026 15:07:30 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi1AFBVV95cUxQelpXVmx2SlJJem1QVXhsSnMzbmM4aURJeGdSUm1Xemt1RHdrZ2ttR2gwbVV2a1FuQk5KenhXZnE0WWxMMm1fWGV5WnhlajY5M0xtU0FxWkYxUERIa05RNlN3aVFTN1J1ajU1TmxFdTVlLWhfNWxSUFdvQUZROHJTWjh0NkswSml0M2YwV0NsTkowYmFUa3hpcklaU0o4c3MtclBoNmlZWVM1QVh3U0FIbzVrOWhtdk1CZE9aVmZLaGhRN0daNFJxZU42bkV2YjNQcG5Ubg?oc=5" target="_blank">Impôts : l'incroyable déroulé de la cyberattaque de l'été sur le site du fisc</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Budget 2027 : le gouvernement prêt à taxer les indemnités de rupture de CDI pour les hauts revenus - Les Echos](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNTi1sTUs4UkNIbXFDalF4VklHVjJTeXR4TjFXckhBSDdlVHoxTmxrMzJUVzNfaE82ZHpXNWtOSllCTFF2NFhjMWhzNmEyengwZXJVWkR3T084TGN0UUxoRFZSRmdlYnQ0Y3Q4eWRBbENHaHZ0UUNhUzBIOHZ0OF90NFhzYXFTTFZHajN1ZDJXWDJhVkxnZWo1X2pEWVc0NFlSN0RuNjRWQVRkLUpzWUMxY0VobXZFbHhZYjdNUlBpNjBZNVlUZTZxZlhvdmFPZWtlcW1mNk94ZjdyZWt0dDdsYzBxbE1FUQ?oc=5)
-
-`Mon, 07 Sep 2026 04:00:10 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi5gFBVV95cUxNTi1sTUs4UkNIbXFDalF4VklHVjJTeXR4TjFXckhBSDdlVHoxTmxrMzJUVzNfaE82ZHpXNWtOSllCTFF2NFhjMWhzNmEyengwZXJVWkR3T084TGN0UUxoRFZSRmdlYnQ0Y3Q4eWRBbENHaHZ0UUNhUzBIOHZ0OF90NFhzYXFTTFZHajN1ZDJXWDJhVkxnZWo1X2pEWVc0NFlSN0RuNjRWQVRkLUpzWUMxY0VobXZFbHhZYjdNUlBpNjBZNVlUZTZxZlhvdmFPZWtlcW1mNk94ZjdyZWt0dDdsYzBxbE1FUQ?oc=5" target="_blank">Budget 2027 : le gouvernement prêt à taxer les indemnités de rupture de CDI pour les hauts revenus</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
