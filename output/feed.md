@@ -1,7 +1,23 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Wed, 07 Oct 2026 12:06:45 +0000`
-> 145 articles (30 derniers jours)
+> Derniere mise a jour : `Wed, 07 Oct 2026 16:16:19 +0000`
+> 144 articles (30 derniers jours)
+
+---
+
+### [Budget : le coût de la prise en charge des maladies chroniques a bondi de 72 % en dix ans - Les Echos](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeTd2d1ZOazRXZklONzFRZUw2bXRRM3dWckdwT1c3VTl2MFBkMTBoQzVKRVllYWRtdWdCdXdrTWxrMTFidC1SX0NRR3FPYUR3VVBCcVdKRzdlUjJoRDRzYXR6N2JjaURFLWtBamY1T250VF9wSENwR2ZWQV9hTllKYnFhdVdyclVTOWRXenJWb29RZjhqdFpZYWMxRUZROFdqbVdQTUhnTDFoMVJDd3VNc0hvMGlrUUxFV1lkOE5ael8tenA4am9UN2xLeHgwY0RqM09nUFRSUQ?oc=5)
+
+`Wed, 07 Oct 2026 15:11:58 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeTd2d1ZOazRXZklONzFRZUw2bXRRM3dWckdwT1c3VTl2MFBkMTBoQzVKRVllYWRtdWdCdXdrTWxrMTFidC1SX0NRR3FPYUR3VVBCcVdKRzdlUjJoRDRzYXR6N2JjaURFLWtBamY1T250VF9wSENwR2ZWQV9hTllKYnFhdVdyclVTOWRXenJWb29RZjhqdFpZYWMxRUZROFdqbVdQTUhnTDFoMVJDd3VNc0hvMGlrUUxFV1lkOE5ael8tenA4am9UN2xLeHgwY0RqM09nUFRSUQ?oc=5" target="_blank">Budget : le coût de la prise en charge des maladies chroniques a bondi de 72 % en dix ans</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [« On ajoute de la taxe à la taxe » : l'industrie de la santé de nouveau ponctionnée pour redresser la Sécurité sociale - Les Echos](https://news.google.com/rss/articles/CBMi-gFBVV95cUxQR0NXdVY0TVlsekpyMDZaUWNaNmhBc0VCd2RTOW5Fd0dsV3dBZnROY1I2UTREQmhaM0dDaWFIYnY2c3R4UVZ6N2VxLVluUkZnVzNTUlZsUEhsZVh2YzhUOTBxT2UtLUVTbm5JUThoekxOTFdPUFphWHROV0ZUS1VtUVh3QjZ5SkFJQzB0YWh0US1IVXEwakF2Wm0xLXhuWmVQcGhTamp6aGl6OV9kcmdNaFZBQnFVbmYzT1dVOEVidmJNLU1ZTXVleVFlSzN3bDczT2dqSzJjdjhybnpNWTFEZFZTV1lRMkEtbjF5N3RBaFIzM1lMdm9hcjBn?oc=5)
+
+`Wed, 07 Oct 2026 14:19:22 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi-gFBVV95cUxQR0NXdVY0TVlsekpyMDZaUWNaNmhBc0VCd2RTOW5Fd0dsV3dBZnROY1I2UTREQmhaM0dDaWFIYnY2c3R4UVZ6N2VxLVluUkZnVzNTUlZsUEhsZVh2YzhUOTBxT2UtLUVTbm5JUThoekxOTFdPUFphWHROV0ZUS1VtUVh3QjZ5SkFJQzB0YWh0US1IVXEwakF2Wm0xLXhuWmVQcGhTamp6aGl6OV9kcmdNaFZBQnFVbmYzT1dVOEVidmJNLU1ZTXVleVFlSzN3bDczT2dqSzJjdjhybnpNWTFEZFZTV1lRMkEtbjF5N3RBaFIzM1lMdm9hcjBn?oc=5" target="_blank">« On ajoute de la taxe à la taxe » : l'industrie de la santé de nouveau ponctionnée pour redresser la Sécurité sociale</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -1138,29 +1154,5 @@
 `Mon, 07 Sep 2026 18:11:28 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi5AFBVV95cUxONnI2cWVlUGthZ2plZjdUcFVJYnBtUkRSdWtYaHgzaGswbkgtZ0tYWVFTLVY0MXdrZWd2eUYwUmlEU2dCSWczOXl0ajh3d1VRcHRGcV93cDJzbmNyS2VpbXplVlZ6WlRlRlhENndxQ3RnZ0M5M2FaRERMQ2JLcm9TUDV4QVItaDcybmppOWt2T0FMODlkQnRYeWlaQ19LcVBuVUFjdVZvUUxfeG1CUEpuaFBNRGxJb1R4ZnVFX1BGR0p6Q0tQTXdxZVEySk93dmVzaC1WalBSMTBDVmU0b0hrVW56aEw?oc=5" target="_blank">Epargne salariale : le projet de hausse des taxes fait un tollé, Matignon met le pied sur le frein</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Grippe, rougeole, papillomavirus… comment la France pourrait mieux faire sur la vaccination - Les Echos](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQaUlOTk1aNXVpV01lMzREUG1RWVFfUlFkTVpDTW8tVmVlWE1Ha3RJOXZEeWgtbVJ6cTlJNDhrTjlZZzV2WTFJM29TZEoxQzdwc3BIRnBnVkcydFVCWWFSaHNnVGVydHpJeHRlMmh5MjhNWVFOM0hybVhqWHZMbm5QOW0tYnEtQ1Jac1pjWUVKM1J6ZjcwNTdDQ2tjTU1Sak5BR3VqbFNUOEg0dVhGdllDMUtjZmFEb3VOdnNDclFzdWlxRWY1XzRnbGtXUG4xcm5VVEJvelE0LXBITEU?oc=5)
-
-`Mon, 07 Sep 2026 14:59:47 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi2wFBVV95cUxQaUlOTk1aNXVpV01lMzREUG1RWVFfUlFkTVpDTW8tVmVlWE1Ha3RJOXZEeWgtbVJ6cTlJNDhrTjlZZzV2WTFJM29TZEoxQzdwc3BIRnBnVkcydFVCWWFSaHNnVGVydHpJeHRlMmh5MjhNWVFOM0hybVhqWHZMbm5QOW0tYnEtQ1Jac1pjWUVKM1J6ZjcwNTdDQ2tjTU1Sak5BR3VqbFNUOEg0dVhGdllDMUtjZmFEb3VOdnNDclFzdWlxRWY1XzRnbGtXUG4xcm5VVEJvelE0LXBITEU?oc=5" target="_blank">Grippe, rougeole, papillomavirus… comment la France pourrait mieux faire sur la vaccination</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Tabac : à qui profiterait le gel des taxes réclamé par les buralistes et poussé par Marine Le Pen - Les Echos](https://news.google.com/rss/articles/CBMi2wFBVV95cUxObUE2NWZPYVpwalV4MVo4NEdRb0FEMnpnRkQyUWtBZF9BT3FrSDFCaDlFSlh1SVNfU1ROc3hPbFRVNUJMSnRDYnp4bENwYmY5Vm1nVGMzc1Jxa3J2dFI1R3A5Wnc0SWxtRmVFZ205U3c2T25KMVBhTE1WcEhjWW1Hb2NvMmcwMXAxVzFrOExud1ZIRHdiNEFycENrdlpuRXhQSDdZWDVKdW5LZ1hIZi10RWk4YTkwX29SY1o0bnlTMFBqMmRHenRSSzRUcXo5ckJfN244OVAtWi1SY1k?oc=5)
-
-`Mon, 07 Sep 2026 14:57:08 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi2wFBVV95cUxObUE2NWZPYVpwalV4MVo4NEdRb0FEMnpnRkQyUWtBZF9BT3FrSDFCaDlFSlh1SVNfU1ROc3hPbFRVNUJMSnRDYnp4bENwYmY5Vm1nVGMzc1Jxa3J2dFI1R3A5Wnc0SWxtRmVFZ205U3c2T25KMVBhTE1WcEhjWW1Hb2NvMmcwMXAxVzFrOExud1ZIRHdiNEFycENrdlpuRXhQSDdZWDVKdW5LZ1hIZi10RWk4YTkwX29SY1o0bnlTMFBqMmRHenRSSzRUcXo5ckJfN244OVAtWi1SY1k?oc=5" target="_blank">Tabac : à qui profiterait le gel des taxes réclamé par les buralistes et poussé par Marine Le Pen</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Impôts : l'incroyable déroulé de la cyberattaque de l'été sur le site du fisc - Les Echos](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQelpXVmx2SlJJem1QVXhsSnMzbmM4aURJeGdSUm1Xemt1RHdrZ2ttR2gwbVV2a1FuQk5KenhXZnE0WWxMMm1fWGV5WnhlajY5M0xtU0FxWkYxUERIa05RNlN3aVFTN1J1ajU1TmxFdTVlLWhfNWxSUFdvQUZROHJTWjh0NkswSml0M2YwV0NsTkowYmFUa3hpcklaU0o4c3MtclBoNmlZWVM1QVh3U0FIbzVrOWhtdk1CZE9aVmZLaGhRN0daNFJxZU42bkV2YjNQcG5Ubg?oc=5)
-
-`Mon, 07 Sep 2026 15:07:30 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi1AFBVV95cUxQelpXVmx2SlJJem1QVXhsSnMzbmM4aURJeGdSUm1Xemt1RHdrZ2ttR2gwbVV2a1FuQk5KenhXZnE0WWxMMm1fWGV5WnhlajY5M0xtU0FxWkYxUERIa05RNlN3aVFTN1J1ajU1TmxFdTVlLWhfNWxSUFdvQUZROHJTWjh0NkswSml0M2YwV0NsTkowYmFUa3hpcklaU0o4c3MtclBoNmlZWVM1QVh3U0FIbzVrOWhtdk1CZE9aVmZLaGhRN0daNFJxZU42bkV2YjNQcG5Ubg?oc=5" target="_blank">Impôts : l'incroyable déroulé de la cyberattaque de l'été sur le site du fisc</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
