@@ -1,7 +1,31 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Wed, 07 Oct 2026 16:16:19 +0000`
-> 144 articles (30 derniers jours)
+> Derniere mise a jour : `Wed, 07 Oct 2026 18:11:47 +0000`
+> 146 articles (30 derniers jours)
+
+---
+
+### [Agirc-Arrco : la revalorisation des retraites complémentaires ne pourra pas excéder 1,9 % - Les Echos](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNOEk5VDNDUk8xNVpNNTNaMUxaZG82MnNFWlBuN213alZ3Rmg1ZXlFWUtKQkVpV1lISE1sdVM4cU12cGU2RndpWG1JblU3RXMwTXp2RlRGaldRTjNkYTU4ZnFTTDBoZ2JlandPM09fajJLcG9hNGtnWGxxd1BVc3JHUlBYaEhIT21MNnpFV18yRVFuT1l4VkhMUE9YTVVvRWRFNEVTUFB1WHRHVHdZNXItMU5vQTRSMVV4SzEtcHVrNTRYajd3VXFoY3RPczdpZVFGdC1PVjhn?oc=5)
+
+`Wed, 07 Oct 2026 17:01:08 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi1gFBVV95cUxNOEk5VDNDUk8xNVpNNTNaMUxaZG82MnNFWlBuN213alZ3Rmg1ZXlFWUtKQkVpV1lISE1sdVM4cU12cGU2RndpWG1JblU3RXMwTXp2RlRGaldRTjNkYTU4ZnFTTDBoZ2JlandPM09fajJLcG9hNGtnWGxxd1BVc3JHUlBYaEhIT21MNnpFV18yRVFuT1l4VkhMUE9YTVVvRWRFNEVTUFB1WHRHVHdZNXItMU5vQTRSMVV4SzEtcHVrNTRYajd3VXFoY3RPczdpZVFGdC1PVjhn?oc=5" target="_blank">Agirc-Arrco : la revalorisation des retraites complémentaires ne pourra pas excéder 1,9 %</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [La France puise dans ses stocks stratégiques de diesel pour faire baisser les prix - Les Echos](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNc2duTjBOMWlCc0szVlM4NEktbDVGM1lDZURscFF5ZGl0SWt5c1pwcTBMOGpYaFYtTzZwLXQwSnBtdm9yeGlZR0dwZVp2OTBQSzdZVjF2VW84SVhGUzNlc0NYWTM5di1POUF0aTA4SWMxVEc3XzlIaHd5ZHRGdHRMckdkQTNrR2hKVzdweHduQ1pXWVFCQUlWSkpNVThNbFFuNXRLbm5xZDZ2QndyNmxMM1hXaHl3YXZlbEw5OTVuNy1ObFpYM3hHR2Q5bk5HdTgtQ1B6Z1BPQVRkUQ?oc=5)
+
+`Wed, 07 Oct 2026 17:45:51 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi2gFBVV95cUxNc2duTjBOMWlCc0szVlM4NEktbDVGM1lDZURscFF5ZGl0SWt5c1pwcTBMOGpYaFYtTzZwLXQwSnBtdm9yeGlZR0dwZVp2OTBQSzdZVjF2VW84SVhGUzNlc0NYWTM5di1POUF0aTA4SWMxVEc3XzlIaHd5ZHRGdHRMckdkQTNrR2hKVzdweHduQ1pXWVFCQUlWSkpNVThNbFFuNXRLbm5xZDZ2QndyNmxMM1hXaHl3YXZlbEw5OTVuNy1ObFpYM3hHR2Q5bk5HdTgtQ1B6Z1BPQVRkUQ?oc=5" target="_blank">La France puise dans ses stocks stratégiques de diesel pour faire baisser les prix</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [« Ce n'est pas tenable » : les députés détricotent déjà le budget 2027 du gouvernement - Les Echos](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQU1IxeW12MHRTVUJVVjA5YkZBZ3l2RUwzMmh3b25oVHJXZG9YMnE5NjEyc1BrUlUwdUtPWEs1WHRfX2g1LV9GMmcyNVRzQXJIcm1MYll0ZFIwSGhWYXlNWDZ0b0tCbHVzZml0aWZ5TjJnLU1Icy1iZG12c3lHa1ItV3k4ODlreXM1eDhvelBNY1kyMDFpbjRQVDVmQzlvRW5Bcm5VdFRsckJuWjIzYnlCQjFlX1l0S1ZYWURnZUJrMXQ5dEhxU3ZYcEE3T1d6VlQ2dlJUWHNCd3drcnA0?oc=5)
+
+`Wed, 07 Oct 2026 16:30:10 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi3AFBVV95cUxQU1IxeW12MHRTVUJVVjA5YkZBZ3l2RUwzMmh3b25oVHJXZG9YMnE5NjEyc1BrUlUwdUtPWEs1WHRfX2g1LV9GMmcyNVRzQXJIcm1MYll0ZFIwSGhWYXlNWDZ0b0tCbHVzZml0aWZ5TjJnLU1Icy1iZG12c3lHa1ItV3k4ODlreXM1eDhvelBNY1kyMDFpbjRQVDVmQzlvRW5Bcm5VdFRsckJuWjIzYnlCQjFlX1l0S1ZYWURnZUJrMXQ5dEhxU3ZYcEE3T1d6VlQ2dlJUWHNCd3drcnA0?oc=5" target="_blank">« Ce n'est pas tenable » : les députés détricotent déjà le budget 2027 du gouvernement</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -1146,13 +1170,5 @@
 `Tue, 08 Sep 2026 04:05:10 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi1AFBVV95cUxOandOU29lbGl1dDlBT3JKaWtLUTIxYzRtLTBjaXVBRGpoVVpLTDhKYnV2RHFXOVdSNWNBeDNaTlpTV0hTMXdYa0ZZa2ZGNlMzcl83ZjhoUVNUa09KWmNsMFI0MUxLaEFPMlA3blJLNzNscHV0SnZXTTVmVnVDeEgtYTFpS2JUWlVpajc3Z0hUMnF6dzROWjZ4QlRad1V1Y05lX2Iyb0lBQllfOFdzdW80ODJOTUJhei1PYlJDY1FYQWR2VGt5QWlqX3lFY1dFeWZ2aGFXdQ?oc=5" target="_blank">Transparence salariale : le projet de loi enfin sur la table du Conseil des ministres</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Epargne salariale : le projet de hausse des taxes fait un tollé, Matignon met le pied sur le frein - Les Echos](https://news.google.com/rss/articles/CBMi5AFBVV95cUxONnI2cWVlUGthZ2plZjdUcFVJYnBtUkRSdWtYaHgzaGswbkgtZ0tYWVFTLVY0MXdrZWd2eUYwUmlEU2dCSWczOXl0ajh3d1VRcHRGcV93cDJzbmNyS2VpbXplVlZ6WlRlRlhENndxQ3RnZ0M5M2FaRERMQ2JLcm9TUDV4QVItaDcybmppOWt2T0FMODlkQnRYeWlaQ19LcVBuVUFjdVZvUUxfeG1CUEpuaFBNRGxJb1R4ZnVFX1BGR0p6Q0tQTXdxZVEySk93dmVzaC1WalBSMTBDVmU0b0hrVW56aEw?oc=5)
-
-`Mon, 07 Sep 2026 18:11:28 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi5AFBVV95cUxONnI2cWVlUGthZ2plZjdUcFVJYnBtUkRSdWtYaHgzaGswbkgtZ0tYWVFTLVY0MXdrZWd2eUYwUmlEU2dCSWczOXl0ajh3d1VRcHRGcV93cDJzbmNyS2VpbXplVlZ6WlRlRlhENndxQ3RnZ0M5M2FaRERMQ2JLcm9TUDV4QVItaDcybmppOWt2T0FMODlkQnRYeWlaQ19LcVBuVUFjdVZvUUxfeG1CUEpuaFBNRGxJb1R4ZnVFX1BGR0p6Q0tQTXdxZVEySk93dmVzaC1WalBSMTBDVmU0b0hrVW56aEw?oc=5" target="_blank">Epargne salariale : le projet de hausse des taxes fait un tollé, Matignon met le pied sur le frein</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
