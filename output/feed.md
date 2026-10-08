@@ -1,7 +1,39 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Wed, 07 Oct 2026 21:40:41 +0000`
-> 146 articles (30 derniers jours)
+> Derniere mise a jour : `Thu, 08 Oct 2026 12:17:06 +0000`
+> 148 articles (30 derniers jours)
+
+---
+
+### [Mobilisation des lycéens : 375 établissements partiellement ou totalement fermés ce jeudi - Les Echos](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNTmh1clVZZkFjdmhZS1RtY2VkR0lFS2pJcC1nQXpKY3Q3eWpxUE9mampiLWlWOUpZM2JyYnRhZ3kwNUUtRXpOS09QaW5yTVNucnhzWS1KVGJpcGF0WXVpejNCLVlvRUZjaGdsLWdmWlJRcUdudURZbm0xQXhabGFUSUxtNWJCbXVXeDY5NE1CRmQ1VzJZMldGeFFpUVFSVEl4dmpMT2NCQkplZTF2YkV4SEJvTlFWOHpxVjNtR0hqRG45bGNoY1ZUTXozcXJYWEkwY2R0S2t2MV85dw?oc=5)
+
+`Thu, 08 Oct 2026 08:53:26 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi2gFBVV95cUxNTmh1clVZZkFjdmhZS1RtY2VkR0lFS2pJcC1nQXpKY3Q3eWpxUE9mampiLWlWOUpZM2JyYnRhZ3kwNUUtRXpOS09QaW5yTVNucnhzWS1KVGJpcGF0WXVpejNCLVlvRUZjaGdsLWdmWlJRcUdudURZbm0xQXhabGFUSUxtNWJCbXVXeDY5NE1CRmQ1VzJZMldGeFFpUVFSVEl4dmpMT2NCQkplZTF2YkV4SEJvTlFWOHpxVjNtR0hqRG45bGNoY1ZUTXozcXJYWEkwY2R0S2t2MV85dw?oc=5" target="_blank">Mobilisation des lycéens : 375 établissements partiellement ou totalement fermés ce jeudi</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [« On est en danger » : près d'une association de solidarité sur trois menacée de disparition - Les Echos](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbkF2Q3VWZXRRVnNFVEVjQWVtejA4Qzk2TzZSSlNjMHZqNXQyckE4bk54OUpWNGxPZlVLSTFNNG12Ym5OZEItVXFLTkpYaWdCTHVfZ3lYcUVzc3B2NWNrM2tmT0x6SXp1NkF2LUh4NU44c01ka21HS2NFeS1ubXhYVTlqWW5iNVdvWU9uNEtrdnJiRlZxR041V0VtWWpqT09lU2g1Mnl2alppbXV3YmhQamxwQ0NONUZWXzhwemo0blNKSkJ3MDJqcDdNQ2lTLXFHa2cxVkpaYw?oc=5)
+
+`Thu, 08 Oct 2026 06:35:17 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbkF2Q3VWZXRRVnNFVEVjQWVtejA4Qzk2TzZSSlNjMHZqNXQyckE4bk54OUpWNGxPZlVLSTFNNG12Ym5OZEItVXFLTkpYaWdCTHVfZ3lYcUVzc3B2NWNrM2tmT0x6SXp1NkF2LUh4NU44c01ka21HS2NFeS1ubXhYVTlqWW5iNVdvWU9uNEtrdnJiRlZxR041V0VtWWpqT09lU2g1Mnl2alppbXV3YmhQamxwQ0NONUZWXzhwemo0blNKSkJ3MDJqcDdNQ2lTLXFHa2cxVkpaYw?oc=5" target="_blank">« On est en danger » : près d'une association de solidarité sur trois menacée de disparition</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Les premiers chiffres qui incriminent l'IA dans le repli de l'emploi des jeunes - Les Echos](https://news.google.com/rss/articles/CBMizAFBVV95cUxOTm9KeEhiNExVcjlNOG9CR1d6QWdrX3BoVXp6ZnIyVGN0WHZLc3BRcjZMZ2N1bnF6Y2dzVTNiMWFUVERDQ2ZaNXczRHFaTElRLXpDLWgyUkhrQlFSa05hcFU1aE1qSUZ5bmdYX1Zhel8wLWRpU2NmcDBkdXVIM2tMcGE1MlhBX3FPaU9TYjMxR3M3MW1ha1QwLW02S1AtdHJGNWRwVnNESlEzUWZrVE9DeW8yUF9Xdk5yX2MwX3hRR2dqWXd0SGtJaThidDM?oc=5)
+
+`Thu, 08 Oct 2026 05:00:08 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMizAFBVV95cUxOTm9KeEhiNExVcjlNOG9CR1d6QWdrX3BoVXp6ZnIyVGN0WHZLc3BRcjZMZ2N1bnF6Y2dzVTNiMWFUVERDQ2ZaNXczRHFaTElRLXpDLWgyUkhrQlFSa05hcFU1aE1qSUZ5bmdYX1Zhel8wLWRpU2NmcDBkdXVIM2tMcGE1MlhBX3FPaU9TYjMxR3M3MW1ha1QwLW02S1AtdHJGNWRwVnNESlEzUWZrVE9DeW8yUF9Xdk5yX2MwX3hRR2dqWXd0SGtJaThidDM?oc=5" target="_blank">Les premiers chiffres qui incriminent l'IA dans le repli de l'emploi des jeunes</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Comment a évolué le budget de l'Ecologie sous l'ère Macron - Les Echos](https://news.google.com/rss/articles/CBMivgFBVV95cUxOenl3N0l2bGNfemZrUFo5UWI2OGF1WFFkRXdsVU85bmFna3AyMGZBUmMxcU9oWlkzTlY0S2V2YlhUQ2tSbWhsX1Nkd0dvME9JY05PYzRIVGNZNXFhdERBWTJudHVLV2ZaMzYzSFNwNDA5WkpNdDBVWnkyQ2QxU19ielNGbjd0UUE2TGVRandYZkhmaXV1d0NBZFBXTEkxbjJEdlR0ZHdDbHdSVFBxZkd4ejR5NlJaOXJGd19hUDlR?oc=5)
+
+`Thu, 08 Oct 2026 09:00:09 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxOenl3N0l2bGNfemZrUFo5UWI2OGF1WFFkRXdsVU85bmFna3AyMGZBUmMxcU9oWlkzTlY0S2V2YlhUQ2tSbWhsX1Nkd0dvME9JY05PYzRIVGNZNXFhdERBWTJudHVLV2ZaMzYzSFNwNDA5WkpNdDBVWnkyQ2QxU19ielNGbjd0UUE2TGVRandYZkhmaXV1d0NBZFBXTEkxbjJEdlR0ZHdDbHdSVFBxZkd4ejR5NlJaOXJGd19hUDlR?oc=5" target="_blank">Comment a évolué le budget de l'Ecologie sous l'ère Macron</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -1154,21 +1186,5 @@
 `Tue, 08 Sep 2026 14:53:54 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQ3dZdVZObThwY3JnOWNGZy1XSWdjMW5mMEZLREtjTWRWbk0waWRwakp0Q0pFNUJjRTJnZnNQcDAyUXZEOGNhTDNMdGZudFFkM0ZyMGRXX2xfbzRJY3FOX1lFSmUyWWxqUFBweWhJeFk2WENGNlJuZmlLQnFUUk1jOXl6cTdQY1JJZkFNWmZBcENzeEhUM1hHSzlOUjRyZGE3bDJ6dGQ4M3RMMkNvTml1Uk9JT1RsTklsNWd6TWR4czgyVzJ4SHpJRUlhcW01eVhKMlhkTFpTOVE?oc=5" target="_blank">Impôts : les bonnes rentrées fiscales offrent une bouffée d'air au gouvernement</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Transparence salariale : la fonction publique encore loin du compte - Les Echos](https://news.google.com/rss/articles/CBMivAFBVV95cUxPRjI2UnlMalNxRElFQnJIZ0hvRTlyT1hIclp4RUMtYmtTV2NTUmdzMGN0bFZod2lGS0t2MXNrWHl3Ym5GWEtMM1RqZjk5SHVpNlRjTlV0YzZ4OWo1RVJ1WUp0UVBmTlVIa0xNWkZnaXV2WlBDY2ZjdzRKY0tFQXJRcUgxSWhqS2tJaEhYem9LeTZJakdhZy0zNVlkRzlLVW1MSmdDaEN1dFBOcnF4X3Fia1JSSGRKcHlPYnZwMw?oc=5)
-
-`Tue, 08 Sep 2026 09:00:09 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxPRjI2UnlMalNxRElFQnJIZ0hvRTlyT1hIclp4RUMtYmtTV2NTUmdzMGN0bFZod2lGS0t2MXNrWHl3Ym5GWEtMM1RqZjk5SHVpNlRjTlV0YzZ4OWo1RVJ1WUp0UVBmTlVIa0xNWkZnaXV2WlBDY2ZjdzRKY0tFQXJRcUgxSWhqS2tJaEhYem9LeTZJakdhZy0zNVlkRzlLVW1MSmdDaEN1dFBOcnF4X3Fia1JSSGRKcHlPYnZwMw?oc=5" target="_blank">Transparence salariale : la fonction publique encore loin du compte</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Transparence salariale : le projet de loi enfin sur la table du Conseil des ministres - Les Echos](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOandOU29lbGl1dDlBT3JKaWtLUTIxYzRtLTBjaXVBRGpoVVpLTDhKYnV2RHFXOVdSNWNBeDNaTlpTV0hTMXdYa0ZZa2ZGNlMzcl83ZjhoUVNUa09KWmNsMFI0MUxLaEFPMlA3blJLNzNscHV0SnZXTTVmVnVDeEgtYTFpS2JUWlVpajc3Z0hUMnF6dzROWjZ4QlRad1V1Y05lX2Iyb0lBQllfOFdzdW80ODJOTUJhei1PYlJDY1FYQWR2VGt5QWlqX3lFY1dFeWZ2aGFXdQ?oc=5)
-
-`Tue, 08 Sep 2026 04:05:10 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi1AFBVV95cUxOandOU29lbGl1dDlBT3JKaWtLUTIxYzRtLTBjaXVBRGpoVVpLTDhKYnV2RHFXOVdSNWNBeDNaTlpTV0hTMXdYa0ZZa2ZGNlMzcl83ZjhoUVNUa09KWmNsMFI0MUxLaEFPMlA3blJLNzNscHV0SnZXTTVmVnVDeEgtYTFpS2JUWlVpajc3Z0hUMnF6dzROWjZ4QlRad1V1Y05lX2Iyb0lBQllfOFdzdW80ODJOTUJhei1PYlJDY1FYQWR2VGt5QWlqX3lFY1dFeWZ2aGFXdQ?oc=5" target="_blank">Transparence salariale : le projet de loi enfin sur la table du Conseil des ministres</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
