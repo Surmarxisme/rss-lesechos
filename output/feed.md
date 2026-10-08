@@ -1,7 +1,7 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Thu, 08 Oct 2026 16:17:37 +0000`
-> 148 articles (30 derniers jours)
+> Derniere mise a jour : `Thu, 08 Oct 2026 18:13:36 +0000`
+> 147 articles (30 derniers jours)
 
 ---
 
@@ -1178,13 +1178,5 @@
 `Wed, 09 Sep 2026 09:14:03 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMilwJBVV95cUxQOWJ4MTNvZUVvZmZERGJhRVdTRW9UV1dvMUZPWWJ5SUVObzJnQkFSTFlJSEVoR19zOHFZR3BLX2w2ZDY3WTRPaEFMZm02a19Jb0ZmTTNsTUh1OHA4VkhNQkFNQzRfdE40cXYzRkx1U0k3eWZna19Xd3VNa1dfTHVDbk5ZVWUxSWVQRXhvYllSRXFfak0wZWQ4RFVaSmVFb1ZGc0l6TTVjUEhXdTJ3dUw0a0FTUUhTSlkxajFWVzB6QlFtUjlqQ0xydmpuNGV0NHY3djlfdS1OdnJNZGFWdDJTSHYtN0ZFbmtGd0RvejdVc253c0hiRC1qMWxsMVFhZ1ZEdUZyQm5tRjY1RFVwbFhrdF8xd2hMQUk?oc=5" target="_blank">Impôts : contrairement aux idées reçues, la fin de la taxe d'habitation n'a pas été compensée par une hausse de la taxe foncière</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Formation professionnelle : comment le gouvernement veut réformer le CPF - Les Echos](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaXdfOU94aU5ra0hIODNCZm1KQmNQV20tOHhQZEJoZ0VDNzRDUnFjdWp4TTJNV1ZoMU9INGJ0VmFOYVUtaUNIRzlHZ3UyZjM3SnNEUjVMRGo2WVdLUURwVzJGazBBVUxjSzFEeWtqMUFmNjRiUERmOHBLbEluYWtmRlV3WXo3ZkRrVzV6YzgzTzliVjc0NEt1VjdMUzNQelA2SW1pQ0w1QnpKbGxETGZSRmtWRWpCMTd1RTB5azhsLVV1YVk?oc=5)
-
-`Tue, 08 Sep 2026 16:39:47 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaXdfOU94aU5ra0hIODNCZm1KQmNQV20tOHhQZEJoZ0VDNzRDUnFjdWp4TTJNV1ZoMU9INGJ0VmFOYVUtaUNIRzlHZ3UyZjM3SnNEUjVMRGo2WVdLUURwVzJGazBBVUxjSzFEeWtqMUFmNjRiUERmOHBLbEluYWtmRlV3WXo3ZkRrVzV6YzgzTzliVjc0NEt1VjdMUzNQelA2SW1pQ0w1QnpKbGxETGZSRmtWRWpCMTd1RTB5azhsLVV1YVk?oc=5" target="_blank">Formation professionnelle : comment le gouvernement veut réformer le CPF</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
