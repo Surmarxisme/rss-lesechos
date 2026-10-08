@@ -1,7 +1,31 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Thu, 08 Oct 2026 12:17:06 +0000`
+> Derniere mise a jour : `Thu, 08 Oct 2026 16:17:37 +0000`
 > 148 articles (30 derniers jours)
+
+---
+
+### [Arrêts maladie : le gouvernement appelle syndicats et patronat à une « réforme structurelle » - Les Echos](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNnpMSU5zTUNPZlQxLTc1MWU0akpNM196Ri13bWZMT0w0NVNMR2x5eWY2VzVlMGt0SHQ1bFQ1Tmg0cUVXX0dnWURENzdDZWFRWVNJak1adkJJdFNtNDN3b1JQY09qNTBpSTU0OVRUMG1rbEhlbUVhUm5ZM2FCMUlJbnBUZU1XS1Foc1pqNXUta2M4WVlQX283YXR2Ri1oUXkwcnM4bTVNVDUwYlVhRmhySE5WNXpDUEd5VkpiTXpEVktPVVhQV3RIVENKWDJaY21qWlBzZzJfRWZwQQ?oc=5)
+
+`Thu, 08 Oct 2026 15:58:48 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNnpMSU5zTUNPZlQxLTc1MWU0akpNM196Ri13bWZMT0w0NVNMR2x5eWY2VzVlMGt0SHQ1bFQ1Tmg0cUVXX0dnWURENzdDZWFRWVNJak1adkJJdFNtNDN3b1JQY09qNTBpSTU0OVRUMG1rbEhlbUVhUm5ZM2FCMUlJbnBUZU1XS1Foc1pqNXUta2M4WVlQX283YXR2Ri1oUXkwcnM4bTVNVDUwYlVhRmhySE5WNXpDUEd5VkpiTXpEVktPVVhQV3RIVENKWDJaY21qWlBzZzJfRWZwQQ?oc=5" target="_blank">Arrêts maladie : le gouvernement appelle syndicats et patronat à une « réforme structurelle »</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Budget 2027 : une nouvelle taxe va frapper les intermédiaires entre les laboratoires et les pharmaciens - Les Echos](https://news.google.com/rss/articles/CBMi7AFBVV95cUxObGRud0JSdllVMUZxaVpPdUc0bFhPazhaM3JfTm5QTUVCOHpSSm1OaG1qcmdDRmFjMHNBNk9PRzFQamk0SXdaUmxRZy1UbERPSGFQbm4wQ0pmR2V6a3A0eFNzbFUxVHA0MWI3QnZFMk9oS24tTm83alNPT0NKd1daVW9kOW1Gdks2d3ZxTThEQ0xOOVREc0hBb3BVUEFEZEVROVd4MHNIVzlPbU9kdm8zWkt4REtTMkhwM0Vua3p6LXNPdmhxZzVjdHAxRUtDclczQ1RuLTFVVEFFWEZjdDhqWC1sR05SZU1iWUdSLQ?oc=5)
+
+`Thu, 08 Oct 2026 15:23:34 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi7AFBVV95cUxObGRud0JSdllVMUZxaVpPdUc0bFhPazhaM3JfTm5QTUVCOHpSSm1OaG1qcmdDRmFjMHNBNk9PRzFQamk0SXdaUmxRZy1UbERPSGFQbm4wQ0pmR2V6a3A0eFNzbFUxVHA0MWI3QnZFMk9oS24tTm83alNPT0NKd1daVW9kOW1Gdks2d3ZxTThEQ0xOOVREc0hBb3BVUEFEZEVROVd4MHNIVzlPbU9kdm8zWkt4REtTMkhwM0Vua3p6LXNPdmhxZzVjdHAxRUtDclczQ1RuLTFVVEFFWEZjdDhqWC1sR05SZU1iWUdSLQ?oc=5" target="_blank">Budget 2027 : une nouvelle taxe va frapper les intermédiaires entre les laboratoires et les pharmaciens</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Santé au travail : la fonction publique veut changer d'échelle - Les Echos](https://news.google.com/rss/articles/CBMitAFBVV95cUxNcm9wZnFqVi1neEtfLTFGWFpYME5mMUxDdEZad2NYU2d4ampKVjRiNWlzMWplRm5sVTRnUmNpaEl4eF9HdHpWODQzSHhFOGdtUi1Ya1dwMlh1Rmhia0hZWk1EZDJqQVZZRThJNi1oaWxLSDF0VzctRlFENFRIa3dpdl90MkJvNXBjcmJnZTNUQnNjSXFlVUZjYmx6WFk0a3N0QzYzRV83RnBhNm5sQ2VrT1pTcDA?oc=5)
+
+`Thu, 08 Oct 2026 15:25:59 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxNcm9wZnFqVi1neEtfLTFGWFpYME5mMUxDdEZad2NYU2d4ampKVjRiNWlzMWplRm5sVTRnUmNpaEl4eF9HdHpWODQzSHhFOGdtUi1Ya1dwMlh1Rmhia0hZWk1EZDJqQVZZRThJNi1oaWxLSDF0VzctRlFENFRIa3dpdl90MkJvNXBjcmJnZTNUQnNjSXFlVUZjYmx6WFk0a3N0QzYzRV83RnBhNm5sQ2VrT1pTcDA?oc=5" target="_blank">Santé au travail : la fonction publique veut changer d'échelle</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -1162,29 +1186,5 @@
 `Tue, 08 Sep 2026 16:39:47 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaXdfOU94aU5ra0hIODNCZm1KQmNQV20tOHhQZEJoZ0VDNzRDUnFjdWp4TTJNV1ZoMU9INGJ0VmFOYVUtaUNIRzlHZ3UyZjM3SnNEUjVMRGo2WVdLUURwVzJGazBBVUxjSzFEeWtqMUFmNjRiUERmOHBLbEluYWtmRlV3WXo3ZkRrVzV6YzgzTzliVjc0NEt1VjdMUzNQelA2SW1pQ0w1QnpKbGxETGZSRmtWRWpCMTd1RTB5azhsLVV1YVk?oc=5" target="_blank">Formation professionnelle : comment le gouvernement veut réformer le CPF</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Pouvoir d'achat : comment la flambée des carburants touche les Français au portefeuille - Les Echos](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNUkhVREZLZURpejZIX0tMbmlScHBtLTdUWDFkU1FSZkxweE43NlVzbjVPVkxjVlZhcWZfS05aQjVqYkd1M0JNU1JRUTFSWndWRmJTZm83WWpXNUNPbC00SHhpNmlvWGR2bGxBS205YV9LRVN2ZUNMTTRYT3pfUTl2MEtyV0pQOW9nNnR3T2RTZEVYcHZJOFVCYlNUb2VySmc2Ti1oQUlFOU0xQ2ZkUzI0b1JURDFxZ1NyYnVHVGFPQWk2QU5CS0lUaVZZSWJOMzZMcFVPSzlULUV2dFFn?oc=5)
-
-`Tue, 08 Sep 2026 16:15:07 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi3AFBVV95cUxNUkhVREZLZURpejZIX0tMbmlScHBtLTdUWDFkU1FSZkxweE43NlVzbjVPVkxjVlZhcWZfS05aQjVqYkd1M0JNU1JRUTFSWndWRmJTZm83WWpXNUNPbC00SHhpNmlvWGR2bGxBS205YV9LRVN2ZUNMTTRYT3pfUTl2MEtyV0pQOW9nNnR3T2RTZEVYcHZJOFVCYlNUb2VySmc2Ti1oQUlFOU0xQ2ZkUzI0b1JURDFxZ1NyYnVHVGFPQWk2QU5CS0lUaVZZSWJOMzZMcFVPSzlULUV2dFFn?oc=5" target="_blank">Pouvoir d'achat : comment la flambée des carburants touche les Français au portefeuille</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Budget 2027 : la piste d'un encadrement de la TVA des collectivités locales - Les Echos](https://news.google.com/rss/articles/CBMi0wFBVV95cUxObXlBLURaZkpPOWNMR1FHR0IzMTFRMkNQd2xTenFvR3gyNlJJWDhRY1pqSndOeTFrSjl1bmRPUlIwTll0QVN3TTdNYXpUMElXb2RWS29yQjBBdHdSUjhHY2RubW9aang4Z2pFS01NSWdwanozWXZjSkdzQXNFS2pOMzV4aDllUUhmWi1ORXpaTXgzeE5VanM1a1lsdHBUdjgtSG5uYnRGZzMxTTI5WXprNklGTGdHMGVPclJZWHZ1VkNuRTk4VzZqVHhLdmowWUpMWHhB?oc=5)
-
-`Tue, 08 Sep 2026 14:45:56 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi0wFBVV95cUxObXlBLURaZkpPOWNMR1FHR0IzMTFRMkNQd2xTenFvR3gyNlJJWDhRY1pqSndOeTFrSjl1bmRPUlIwTll0QVN3TTdNYXpUMElXb2RWS29yQjBBdHdSUjhHY2RubW9aang4Z2pFS01NSWdwanozWXZjSkdzQXNFS2pOMzV4aDllUUhmWi1ORXpaTXgzeE5VanM1a1lsdHBUdjgtSG5uYnRGZzMxTTI5WXprNklGTGdHMGVPclJZWHZ1VkNuRTk4VzZqVHhLdmowWUpMWHhB?oc=5" target="_blank">Budget 2027 : la piste d'un encadrement de la TVA des collectivités locales</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Impôts : les bonnes rentrées fiscales offrent une bouffée d'air au gouvernement - Les Echos](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQ3dZdVZObThwY3JnOWNGZy1XSWdjMW5mMEZLREtjTWRWbk0waWRwakp0Q0pFNUJjRTJnZnNQcDAyUXZEOGNhTDNMdGZudFFkM0ZyMGRXX2xfbzRJY3FOX1lFSmUyWWxqUFBweWhJeFk2WENGNlJuZmlLQnFUUk1jOXl6cTdQY1JJZkFNWmZBcENzeEhUM1hHSzlOUjRyZGE3bDJ6dGQ4M3RMMkNvTml1Uk9JT1RsTklsNWd6TWR4czgyVzJ4SHpJRUlhcW01eVhKMlhkTFpTOVE?oc=5)
-
-`Tue, 08 Sep 2026 14:53:54 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQ3dZdVZObThwY3JnOWNGZy1XSWdjMW5mMEZLREtjTWRWbk0waWRwakp0Q0pFNUJjRTJnZnNQcDAyUXZEOGNhTDNMdGZudFFkM0ZyMGRXX2xfbzRJY3FOX1lFSmUyWWxqUFBweWhJeFk2WENGNlJuZmlLQnFUUk1jOXl6cTdQY1JJZkFNWmZBcENzeEhUM1hHSzlOUjRyZGE3bDJ6dGQ4M3RMMkNvTml1Uk9JT1RsTklsNWd6TWR4czgyVzJ4SHpJRUlhcW01eVhKMlhkTFpTOVE?oc=5" target="_blank">Impôts : les bonnes rentrées fiscales offrent une bouffée d'air au gouvernement</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
