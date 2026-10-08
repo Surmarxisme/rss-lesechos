@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Thu, 08 Oct 2026 18:13:36 +0000`
-> 147 articles (30 derniers jours)
+> Derniere mise a jour : `Thu, 08 Oct 2026 21:36:25 +0000`
+> 148 articles (30 derniers jours)
+
+---
+
+### [Le gouvernement veut transférer le financement des cures thermales vers les complémentaires santé - Les Echos](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPQUJyRmRJYXN3V1lFZlk4M0x2MGxRTE0xdnJJUXdrNERndU5lVGEwR0ZNa1VyX2dOSG1FLWs3VTdVbWVsTE9kdE9iU2RKMVY4RzZ6LTlOZ2p2MlhFclFfbHVYSUkyU3hDWmVwb0F2cEkyLU9sUXlkbGNjLXh5NHpkWEFIY282YTRWUWdUN0JmdDJfeHN0eEQwUWtxdTc3Mmp4c05oejRhOElHb0lpcDhWcXBfcmhBSWZTNDZFZTZNU0MtTDlHcnk2TE1oaWFFZXhGVFVha2RJNmJCdGZkVDA0WG5LZHJsWUk?oc=5)
+
+`Thu, 08 Oct 2026 19:39:52 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi5wFBVV95cUxPQUJyRmRJYXN3V1lFZlk4M0x2MGxRTE0xdnJJUXdrNERndU5lVGEwR0ZNa1VyX2dOSG1FLWs3VTdVbWVsTE9kdE9iU2RKMVY4RzZ6LTlOZ2p2MlhFclFfbHVYSUkyU3hDWmVwb0F2cEkyLU9sUXlkbGNjLXh5NHpkWEFIY282YTRWUWdUN0JmdDJfeHN0eEQwUWtxdTc3Mmp4c05oejRhOElHb0lpcDhWcXBfcmhBSWZTNDZFZTZNU0MtTDlHcnk2TE1oaWFFZXhGVFVha2RJNmJCdGZkVDA0WG5LZHJsWUk?oc=5" target="_blank">Le gouvernement veut transférer le financement des cures thermales vers les complémentaires santé</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
