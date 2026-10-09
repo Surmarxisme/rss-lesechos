@@ -1,7 +1,7 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Fri, 09 Oct 2026 12:08:01 +0000`
-> 145 articles (30 derniers jours)
+> Derniere mise a jour : `Fri, 09 Oct 2026 16:01:26 +0000`
+> 144 articles (30 derniers jours)
 
 ---
 
@@ -1138,14 +1138,6 @@
 `Wed, 09 Sep 2026 17:40:52 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi1gFBVV95cUxQcVB5SDhPczFlbUc3R3NuMnlCSUVQelpUUllwRHVqTlNKNHhiZmRzN29YNjhTNC1fRmdYY2llb2dnQlJhNXQ0Z1JkSGdfS3pkMDhxbXo4cFdhN1M0dmJNVDgyVElqcWlDMGNNRkdXeS1aQ3k5SlB1anlUT0owN0ZIQzFpbnFwei1PN2liNjlsWjUxMU0yN2hrb1VZdFNMRjNfWWRCVXQwc1NIRHMySDdFTTUxMWx6azJUNExMMjBReThlTkNiTlZTY3VBRHNlMmtUUEg4TlRB?oc=5" target="_blank">Serge Papin : « Nous voulons donner envie à toute une génération d'entreprendre »</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Classement Pisa : « Les mauvais résultats éducatifs pourraient se traduire par une baisse du PIB de 150 milliards à l'horizon 2050 - Les Echos](https://news.google.com/rss/articles/CBMikwJBVV95cUxPN1d1UU9XNWZlNE10aG11YzU3emEwU2ZpV0p1TnBVOXMyMW1Ib3AxQi1KajNIWThaTWNmRk5mUWt4YlBlQV9oYkRKQUhFeEZmZ2hQcUIxSFpaaWRQRGl2NC12NWlPbFk2VFZtcjNNMlJJbVJicEtrLXA2QjNHS043UG1KcTNfUGsxWEtYTDB2UGRidUhMZW5mVnBpRnoxbE5idHNsX2ZFRDVmMlo0bU5wMjM5c2NwOUR2RVVha29tNTYyS2tuZ1F5b0RsSjV6YWxUSFBTYTIyWDhxTE9LM3dzLVllZmUtdV91NFF6V00yTFMyZFdBRWxTWUdVNnRaVGExT1RwdHVTWGM5U09SR3REMDBwZw?oc=5)
-
-`Wed, 09 Sep 2026 15:57:43 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMikwJBVV95cUxPN1d1UU9XNWZlNE10aG11YzU3emEwU2ZpV0p1TnBVOXMyMW1Ib3AxQi1KajNIWThaTWNmRk5mUWt4YlBlQV9oYkRKQUhFeEZmZ2hQcUIxSFpaaWRQRGl2NC12NWlPbFk2VFZtcjNNMlJJbVJicEtrLXA2QjNHS043UG1KcTNfUGsxWEtYTDB2UGRidUhMZW5mVnBpRnoxbE5idHNsX2ZFRDVmMlo0bU5wMjM5c2NwOUR2RVVha29tNTYyS2tuZ1F5b0RsSjV6YWxUSFBTYTIyWDhxTE9LM3dzLVllZmUtdV91NFF6V00yTFMyZFdBRWxTWUdVNnRaVGExT1RwdHVTWGM5U09SR3REMDBwZw?oc=5" target="_blank">Classement Pisa : « Les mauvais résultats éducatifs pourraient se traduire par une baisse du PIB de 150 milliards à l'horizon 2050</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
