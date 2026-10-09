@@ -1,7 +1,7 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Fri, 09 Oct 2026 16:01:26 +0000`
-> 144 articles (30 derniers jours)
+> Derniere mise a jour : `Fri, 09 Oct 2026 17:46:47 +0000`
+> 141 articles (30 derniers jours)
 
 ---
 
@@ -1130,29 +1130,5 @@
 `Wed, 09 Sep 2026 18:00:09 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi_gFBVV95cUxOVlI0c3RwenVIYXVrR1NCTXk0ZlduRjJwM24zZmRvOS1DUFZoWUdodFJsMFR4TkdYd2t2WUVPRUh4dGQ1UWFxeGFhdFRZZU04SjVRNWo0TUVNdXo4azd1REZvbFpZRktMT2tzT09JUTc0c2lvMmR2UUJ2QVdRTndlOVpOZ0hmdm15QUdIdFR5NmxCc2pZQ3ZNYnNXZGVja0JzeHF3dTJjTjU1SXN1aWlnZ2RmT05RU29OZWM0MVJJc0VEd1hpRnk5VzA3ZVI2ZERiajRJM18xVG83clJXUE9tdUJaWnEzT1U0U18xU2tTZXY1VkdtbWFidTdrS0tkUQ?oc=5" target="_blank">Budget : la Cour des comptes met en garde contre une extension de la taxe sur les transactions financières</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Serge Papin : « Nous voulons donner envie à toute une génération d'entreprendre » - Les Echos](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQcVB5SDhPczFlbUc3R3NuMnlCSUVQelpUUllwRHVqTlNKNHhiZmRzN29YNjhTNC1fRmdYY2llb2dnQlJhNXQ0Z1JkSGdfS3pkMDhxbXo4cFdhN1M0dmJNVDgyVElqcWlDMGNNRkdXeS1aQ3k5SlB1anlUT0owN0ZIQzFpbnFwei1PN2liNjlsWjUxMU0yN2hrb1VZdFNMRjNfWWRCVXQwc1NIRHMySDdFTTUxMWx6azJUNExMMjBReThlTkNiTlZTY3VBRHNlMmtUUEg4TlRB?oc=5)
-
-`Wed, 09 Sep 2026 17:40:52 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi1gFBVV95cUxQcVB5SDhPczFlbUc3R3NuMnlCSUVQelpUUllwRHVqTlNKNHhiZmRzN29YNjhTNC1fRmdYY2llb2dnQlJhNXQ0Z1JkSGdfS3pkMDhxbXo4cFdhN1M0dmJNVDgyVElqcWlDMGNNRkdXeS1aQ3k5SlB1anlUT0owN0ZIQzFpbnFwei1PN2liNjlsWjUxMU0yN2hrb1VZdFNMRjNfWWRCVXQwc1NIRHMySDdFTTUxMWx6azJUNExMMjBReThlTkNiTlZTY3VBRHNlMmtUUEg4TlRB?oc=5" target="_blank">Serge Papin : « Nous voulons donner envie à toute une génération d'entreprendre »</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Comment les salariés jugent leurs conditions de travail - Les Echos](https://news.google.com/rss/articles/CBMirwFBVV95cUxOd0xJNHNFVEotOW1BNkFNLU1sUEJ6dFJUSUlLbjNvOEx3OWhzSEhJVEVoY0g1MmFKWDNUTHlvUWhSNndtQjFFdnZfUWE1Q08yd3FLdTY0eUNscS1nM183U1dXWk4yaUptNnNES1c2b3lfV0pyQVgyVHBhUU4xLThya0dvcEZ2Z3dvT3dhMUUwMHVxNXdVMk9tbDFoTFUtSzVPOXAxUkQzNUY3WElVWi1J?oc=5)
-
-`Wed, 09 Sep 2026 16:02:59 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxOd0xJNHNFVEotOW1BNkFNLU1sUEJ6dFJUSUlLbjNvOEx3OWhzSEhJVEVoY0g1MmFKWDNUTHlvUWhSNndtQjFFdnZfUWE1Q08yd3FLdTY0eUNscS1nM183U1dXWk4yaUptNnNES1c2b3lfV0pyQVgyVHBhUU4xLThya0dvcEZ2Z3dvT3dhMUUwMHVxNXdVMk9tbDFoTFUtSzVPOXAxUkQzNUY3WElVWi1J?oc=5" target="_blank">Comment les salariés jugent leurs conditions de travail</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Santé : l'Etat revoit sa copie pour le financement de la mutuelle des agents des hôpitaux - Les Echos](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPeFRIbEVHeUZBX3o3RmVGbmhwbkFoTHgzTVJGblFXYXNHWEVYZ1VUVHY2MWstTkJBWnFaOWFJUEFBOWRkQ3ZfWWtJMHN0UDdDQUdhX01BcXV2NHN4MFk1ci11NkRiZlhCa2R1WVFhYlZUeW5tdFQ2eTlpcnlMajFCUDJXZzhIWGlUa0Z3WEEtSkcteEhZdFVvSmxEQ3duc0JjT29LVGx6dFRzTTZwRUNZMnpCLVFZQnNMZ08wam9JdjR5YTctS21XcW5pblZmVERSNDNXODI4QmY?oc=5)
-
-`Wed, 09 Sep 2026 16:19:11 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi2AFBVV95cUxPeFRIbEVHeUZBX3o3RmVGbmhwbkFoTHgzTVJGblFXYXNHWEVYZ1VUVHY2MWstTkJBWnFaOWFJUEFBOWRkQ3ZfWWtJMHN0UDdDQUdhX01BcXV2NHN4MFk1ci11NkRiZlhCa2R1WVFhYlZUeW5tdFQ2eTlpcnlMajFCUDJXZzhIWGlUa0Z3WEEtSkcteEhZdFVvSmxEQ3duc0JjT29LVGx6dFRzTTZwRUNZMnpCLVFZQnNMZ08wam9JdjR5YTctS21XcW5pblZmVERSNDNXODI4QmY?oc=5" target="_blank">Santé : l'Etat revoit sa copie pour le financement de la mutuelle des agents des hôpitaux</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
