@@ -1,7 +1,7 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Fri, 09 Oct 2026 17:46:47 +0000`
-> 141 articles (30 derniers jours)
+> Derniere mise a jour : `Fri, 09 Oct 2026 21:23:06 +0000`
+> 140 articles (30 derniers jours)
 
 ---
 
@@ -1122,13 +1122,5 @@
 `Thu, 10 Sep 2026 09:32:55 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMixwFBVV95cUxPcElYNmxGOTBRaVczaXh5LVVVcFcxMjJleEREU1dzM2FoVGJfSFpsM3NRU0p1THgyZExNMzlneVE0NUVwM241YlpRQXVzSG80Y01DUXVydGVISzN6UTVCRk1VempkTjM2VkxiSGhGVFZZS3ZXMjhzdTl4M0tqT3hTbk9Kb2twUzRicThKeTRGakRfcnpMcC0wNVlYQzBqRFpXWlgzVzI0VlluaU5qcFJ4dEw2LThzN0dfendUcU9uS3VCWi1KZ0lj?oc=5" target="_blank">Travailler sous 40 degrés : le ministre Farandou cherche des idées à Madrid</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Budget : la Cour des comptes met en garde contre une extension de la taxe sur les transactions financières - Les Echos](https://news.google.com/rss/articles/CBMi_gFBVV95cUxOVlI0c3RwenVIYXVrR1NCTXk0ZlduRjJwM24zZmRvOS1DUFZoWUdodFJsMFR4TkdYd2t2WUVPRUh4dGQ1UWFxeGFhdFRZZU04SjVRNWo0TUVNdXo4azd1REZvbFpZRktMT2tzT09JUTc0c2lvMmR2UUJ2QVdRTndlOVpOZ0hmdm15QUdIdFR5NmxCc2pZQ3ZNYnNXZGVja0JzeHF3dTJjTjU1SXN1aWlnZ2RmT05RU29OZWM0MVJJc0VEd1hpRnk5VzA3ZVI2ZERiajRJM18xVG83clJXUE9tdUJaWnEzT1U0U18xU2tTZXY1VkdtbWFidTdrS0tkUQ?oc=5)
-
-`Wed, 09 Sep 2026 18:00:09 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi_gFBVV95cUxOVlI0c3RwenVIYXVrR1NCTXk0ZlduRjJwM24zZmRvOS1DUFZoWUdodFJsMFR4TkdYd2t2WUVPRUh4dGQ1UWFxeGFhdFRZZU04SjVRNWo0TUVNdXo4azd1REZvbFpZRktMT2tzT09JUTc0c2lvMmR2UUJ2QVdRTndlOVpOZ0hmdm15QUdIdFR5NmxCc2pZQ3ZNYnNXZGVja0JzeHF3dTJjTjU1SXN1aWlnZ2RmT05RU29OZWM0MVJJc0VEd1hpRnk5VzA3ZVI2ZERiajRJM18xVG83clJXUE9tdUJaWnEzT1U0U18xU2tTZXY1VkdtbWFidTdrS0tkUQ?oc=5" target="_blank">Budget : la Cour des comptes met en garde contre une extension de la taxe sur les transactions financières</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
