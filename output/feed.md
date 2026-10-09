@@ -1,7 +1,7 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Thu, 08 Oct 2026 21:36:25 +0000`
-> 148 articles (30 derniers jours)
+> Derniere mise a jour : `Fri, 09 Oct 2026 12:08:01 +0000`
+> 145 articles (30 derniers jours)
 
 ---
 
@@ -1162,29 +1162,5 @@
 `Wed, 09 Sep 2026 16:19:11 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi2AFBVV95cUxPeFRIbEVHeUZBX3o3RmVGbmhwbkFoTHgzTVJGblFXYXNHWEVYZ1VUVHY2MWstTkJBWnFaOWFJUEFBOWRkQ3ZfWWtJMHN0UDdDQUdhX01BcXV2NHN4MFk1ci11NkRiZlhCa2R1WVFhYlZUeW5tdFQ2eTlpcnlMajFCUDJXZzhIWGlUa0Z3WEEtSkcteEhZdFVvSmxEQ3duc0JjT29LVGx6dFRzTTZwRUNZMnpCLVFZQnNMZ08wam9JdjR5YTctS21XcW5pblZmVERSNDNXODI4QmY?oc=5" target="_blank">Santé : l'Etat revoit sa copie pour le financement de la mutuelle des agents des hôpitaux</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Budget 2027 : Lecornu garantit aux entreprises une baisse de la surtaxe exceptionnelle - Les Echos](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTkxCc3BKeTJIdzVmYUNhdUVGUzlVaWlRWERjOW1wQUJmWVNGaGNKQkJHbDd3WUZqWVp0eHpzTF9HTTBNNFVBYlFORldNX1JmOWpUNk9XWnFGTGVYWTRnMFJadTB3MjhNcVFTQ0ZYX1ZZTGkzbEpuREEzT0x1U2RhOGNEXzcyRmhSOGdWS1g4bHRUZ3EzR1Awb2FNVGRRMlJtUDZ5WnJ6T0JUMUdPUjJOWnZ3UGlicnRnWHQ1d3lXSzFzOEgyd2VENFFvbFdLUmMxRHNHN1BlaDIwZjJTRk9EQk52dw?oc=5)
-
-`Wed, 09 Sep 2026 10:28:02 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTkxCc3BKeTJIdzVmYUNhdUVGUzlVaWlRWERjOW1wQUJmWVNGaGNKQkJHbDd3WUZqWVp0eHpzTF9HTTBNNFVBYlFORldNX1JmOWpUNk9XWnFGTGVYWTRnMFJadTB3MjhNcVFTQ0ZYX1ZZTGkzbEpuREEzT0x1U2RhOGNEXzcyRmhSOGdWS1g4bHRUZ3EzR1Awb2FNVGRRMlJtUDZ5WnJ6T0JUMUdPUjJOWnZ3UGlicnRnWHQ1d3lXSzFzOEgyd2VENFFvbFdLUmMxRHNHN1BlaDIwZjJTRk9EQk52dw?oc=5" target="_blank">Budget 2027 : Lecornu garantit aux entreprises une baisse de la surtaxe exceptionnelle</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Budget 2027 : pointant du doigt un « risque systémique », les hôpitaux réclament davantage de moyens - Les Echos](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPU3ctcGh1Q1FPdFY5VFZsbWI0Y1B5YjZmMGkxbk1yX05LN3ZwQVBzakxvWFEwUkE2SlJHOUpsUUhSdTFPMXRhWkJLeXZNNFhZRHJZaWdzV2ZsUFl0c2Y4dWE4S1NKTllBbTA2cGlaNkkwT2hGak5vZ0ZVWUtQb2JHbGI5TWg1MWFwSmFGUnJzRlVWYkNVZ3QwcFVOUVRHVnNvNHhpbDZxX3J5eDQ5aVZ3dkhvZEdfZ0lQRWwyakdqQ1VlV242LXliSm0wd2xNLW1RY2NqS003ckxnQ01EdDZlcVdB?oc=5)
-
-`Wed, 09 Sep 2026 05:00:12 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi4gFBVV95cUxPU3ctcGh1Q1FPdFY5VFZsbWI0Y1B5YjZmMGkxbk1yX05LN3ZwQVBzakxvWFEwUkE2SlJHOUpsUUhSdTFPMXRhWkJLeXZNNFhZRHJZaWdzV2ZsUFl0c2Y4dWE4S1NKTllBbTA2cGlaNkkwT2hGak5vZ0ZVWUtQb2JHbGI5TWg1MWFwSmFGUnJzRlVWYkNVZ3QwcFVOUVRHVnNvNHhpbDZxX3J5eDQ5aVZ3dkhvZEdfZ0lQRWwyakdqQ1VlV242LXliSm0wd2xNLW1RY2NqS003ckxnQ01EdDZlcVdB?oc=5" target="_blank">Budget 2027 : pointant du doigt un « risque systémique », les hôpitaux réclament davantage de moyens</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Impôts : contrairement aux idées reçues, la fin de la taxe d'habitation n'a pas été compensée par une hausse de la taxe foncière - Les Echos](https://news.google.com/rss/articles/CBMilwJBVV95cUxQOWJ4MTNvZUVvZmZERGJhRVdTRW9UV1dvMUZPWWJ5SUVObzJnQkFSTFlJSEVoR19zOHFZR3BLX2w2ZDY3WTRPaEFMZm02a19Jb0ZmTTNsTUh1OHA4VkhNQkFNQzRfdE40cXYzRkx1U0k3eWZna19Xd3VNa1dfTHVDbk5ZVWUxSWVQRXhvYllSRXFfak0wZWQ4RFVaSmVFb1ZGc0l6TTVjUEhXdTJ3dUw0a0FTUUhTSlkxajFWVzB6QlFtUjlqQ0xydmpuNGV0NHY3djlfdS1OdnJNZGFWdDJTSHYtN0ZFbmtGd0RvejdVc253c0hiRC1qMWxsMVFhZ1ZEdUZyQm5tRjY1RFVwbFhrdF8xd2hMQUk?oc=5)
-
-`Wed, 09 Sep 2026 09:14:03 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMilwJBVV95cUxQOWJ4MTNvZUVvZmZERGJhRVdTRW9UV1dvMUZPWWJ5SUVObzJnQkFSTFlJSEVoR19zOHFZR3BLX2w2ZDY3WTRPaEFMZm02a19Jb0ZmTTNsTUh1OHA4VkhNQkFNQzRfdE40cXYzRkx1U0k3eWZna19Xd3VNa1dfTHVDbk5ZVWUxSWVQRXhvYllSRXFfak0wZWQ4RFVaSmVFb1ZGc0l6TTVjUEhXdTJ3dUw0a0FTUUhTSlkxajFWVzB6QlFtUjlqQ0xydmpuNGV0NHY3djlfdS1OdnJNZGFWdDJTSHYtN0ZFbmtGd0RvejdVc253c0hiRC1qMWxsMVFhZ1ZEdUZyQm5tRjY1RFVwbFhrdF8xd2hMQUk?oc=5" target="_blank">Impôts : contrairement aux idées reçues, la fin de la taxe d'habitation n'a pas été compensée par une hausse de la taxe foncière</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
