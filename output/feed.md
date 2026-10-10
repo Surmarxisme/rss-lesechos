@@ -1,7 +1,23 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Fri, 09 Oct 2026 21:23:06 +0000`
+> Derniere mise a jour : `Sat, 10 Oct 2026 15:07:16 +0000`
 > 140 articles (30 derniers jours)
+
+---
+
+### [Budget 2027 : la discussion budgétaire démarre aussi mal que l'an passé - Les Echos](https://news.google.com/rss/articles/CBMizgFBVV95cUxOVmU0bHFXWGFEMWgwNmtpRm0zMWJyWGN3cUJRRURKMzREdFBGZGF1dTVLZGljLWdpWVlvZGdjT2taSC1SLWI1SklNa2FtNlp4MWFsOGUyWHNxWkRoZWpQdHlTR3dUN0xUUXBmOHhGRVNSSGlKUGNYVnZObnl0RDdLZXFid3N1VFhvUlhPV3pvWkVMRkMzcFFDLXVwdzRNd3lkMVRReW5Lc2w4VnVWRTdybnIyeHZ1VGtmZ0o1MVN6OV9kc3JTbklfQzdxd1JmUQ?oc=5)
+
+`Sat, 10 Oct 2026 09:27:48 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMizgFBVV95cUxOVmU0bHFXWGFEMWgwNmtpRm0zMWJyWGN3cUJRRURKMzREdFBGZGF1dTVLZGljLWdpWVlvZGdjT2taSC1SLWI1SklNa2FtNlp4MWFsOGUyWHNxWkRoZWpQdHlTR3dUN0xUUXBmOHhGRVNSSGlKUGNYVnZObnl0RDdLZXFid3N1VFhvUlhPV3pvWkVMRkMzcFFDLXVwdzRNd3lkMVRReW5Lc2w4VnVWRTdybnIyeHZ1VGtmZ0o1MVN6OV9kc3JTbklfQzdxd1JmUQ?oc=5" target="_blank">Budget 2027 : la discussion budgétaire démarre aussi mal que l'an passé</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Social : actualités, analyses et vidéos - Les Echos | Page 143 - Les Echos](https://news.google.com/rss/articles/CBMiZkFVX3lxTE5yMEJqN0xhU1p2R1VxZkcwenRlQjJwZlNUdzdRSzZmeHE3NENvYkZvREJUR1FVN3p4aUFxNWtkdVRuN1lwU2xTNDBKWk5IWURnQmhxTDZxTk5BWmc4VjZUREZacjRydw?oc=5)
+
+`Wed, 07 Oct 2026 14:23:52 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiZkFVX3lxTE5yMEJqN0xhU1p2R1VxZkcwenRlQjJwZlNUdzdRSzZmeHE3NENvYkZvREJUR1FVN3p4aUFxNWtkdVRuN1lwU2xTNDBKWk5IWURnQmhxTDZxTk5BWmc4VjZUREZacjRydw?oc=5" target="_blank">Social : actualités, analyses et vidéos - Les Echos | Page 143</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -1106,21 +1122,5 @@
 `Thu, 10 Sep 2026 16:00:52 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdXJxM3pkbnM0dnFWLVRyaFZ5ZG1JNjhQV1ZfSnNKLWhkTXRPbXV4blM0YWQzdDk4V2JPOG9ZckFnazRjSVQyOExEdllEdUJuMkloaldoWXBQM1dxNGs2ZFU5c3JvT1FPU0JZMmdNS0VpWEk4QklUaFNMS1lzVHRYam1IS2Q2c1ZQXzg0TGxJYzZ2eFd2R2VzTWtLSjJ3ZC0zODNNaDdrbTVQaVJfX0FKa2RnTG5GTW5QMkliSXp2V1poZ2s?oc=5" target="_blank">Pourquoi les perspectives du chômage sont toujours mauvaises en France</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Croissance, emploi, pouvoir d'achat : la France décroche - Les Echos](https://news.google.com/rss/articles/CBMisAFBVV95cUxOR0htejgyUm5UeXk3STVWOHlRaU8xZThfS2dmMkpVYS1NVXhtM1luZjJiRXk1bTBDZExpa2FfWDNyYXJ5cHExLVZrZ3pJUTk0S3RqcWVvQ0JJMTE0dGh6S0JoV25UN09ubDNVeV9UaFdxVElpQlhXM3RLLV9tR0o4ZEoyQlgxWGtpYmVYbFItQjRnY25rd3ZFODNfWFhhazV5Q2IxdzU3YU5rSHAtVHBERg?oc=5)
-
-`Thu, 10 Sep 2026 15:01:02 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxOR0htejgyUm5UeXk3STVWOHlRaU8xZThfS2dmMkpVYS1NVXhtM1luZjJiRXk1bTBDZExpa2FfWDNyYXJ5cHExLVZrZ3pJUTk0S3RqcWVvQ0JJMTE0dGh6S0JoV25UN09ubDNVeV9UaFdxVElpQlhXM3RLLV9tR0o4ZEoyQlgxWGtpYmVYbFItQjRnY25rd3ZFODNfWFhhazV5Q2IxdzU3YU5rSHAtVHBERg?oc=5" target="_blank">Croissance, emploi, pouvoir d'achat : la France décroche</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Travailler sous 40 degrés : le ministre Farandou cherche des idées à Madrid - Les Echos](https://news.google.com/rss/articles/CBMixwFBVV95cUxPcElYNmxGOTBRaVczaXh5LVVVcFcxMjJleEREU1dzM2FoVGJfSFpsM3NRU0p1THgyZExNMzlneVE0NUVwM241YlpRQXVzSG80Y01DUXVydGVISzN6UTVCRk1VempkTjM2VkxiSGhGVFZZS3ZXMjhzdTl4M0tqT3hTbk9Kb2twUzRicThKeTRGakRfcnpMcC0wNVlYQzBqRFpXWlgzVzI0VlluaU5qcFJ4dEw2LThzN0dfendUcU9uS3VCWi1KZ0lj?oc=5)
-
-`Thu, 10 Sep 2026 09:32:55 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMixwFBVV95cUxPcElYNmxGOTBRaVczaXh5LVVVcFcxMjJleEREU1dzM2FoVGJfSFpsM3NRU0p1THgyZExNMzlneVE0NUVwM241YlpRQXVzSG80Y01DUXVydGVISzN6UTVCRk1VempkTjM2VkxiSGhGVFZZS3ZXMjhzdTl4M0tqT3hTbk9Kb2twUzRicThKeTRGakRfcnpMcC0wNVlYQzBqRFpXWlgzVzI0VlluaU5qcFJ4dEw2LThzN0dfendUcU9uS3VCWi1KZ0lj?oc=5" target="_blank">Travailler sous 40 degrés : le ministre Farandou cherche des idées à Madrid</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
