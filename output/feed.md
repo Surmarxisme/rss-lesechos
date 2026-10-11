@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Sat, 10 Oct 2026 15:07:16 +0000`
-> 140 articles (30 derniers jours)
+> Derniere mise a jour : `Sun, 11 Oct 2026 15:27:04 +0000`
+> 137 articles (30 derniers jours)
+
+---
+
+### [France 2030 : un bilan positif malgré des coupes budgétaires massives - Les Echos](https://news.google.com/rss/articles/CBMixgFBVV95cUxOTm0zVk1BbFJwbFVlbEFuSUNhRDJjdlJGbWZrQ2IzTzdGZmVZdzM4LV8xVUlLdG5GbFBKQ01UNFVKTnhsWVNsWVo5MnhoUVZmclFjdGJsd2h0eGl2REVfNjZUWTk5V1NrNmZVZFpEQ19WV0ctMkpZRkV2eGxMaVpjeE5GTGNCM3FtY01wSTJULVFaRVE0RHlzcWtQajNwcnpFbTZqdFJVT1ZfQk5oNmlEYXRYc295UTlNQXBkQXhNTU9WWTk1ZHc?oc=5)
+
+`Sun, 11 Oct 2026 12:00:08 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxOTm0zVk1BbFJwbFVlbEFuSUNhRDJjdlJGbWZrQ2IzTzdGZmVZdzM4LV8xVUlLdG5GbFBKQ01UNFVKTnhsWVNsWVo5MnhoUVZmclFjdGJsd2h0eGl2REVfNjZUWTk5V1NrNmZVZFpEQ19WV0ctMkpZRkV2eGxMaVpjeE5GTGNCM3FtY01wSTJULVFaRVE0RHlzcWtQajNwcnpFbTZqdFJVT1ZfQk5oNmlEYXRYc295UTlNQXBkQXhNTU9WWTk1ZHc?oc=5" target="_blank">France 2030 : un bilan positif malgré des coupes budgétaires massives</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -1090,37 +1098,5 @@
 `Fri, 11 Sep 2026 16:00:58 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi5wFBVV95cUxQVGt3S2lVbDlDZUZDdk9YTFBtZHprZGg3MU1FNFJ1NlA1RGhCWkhFbDJCMTJUaThFSE1YYml3U0JLTnAwVzlqdTJWZzhHc0FFN29mcTl0OElNZEhVSkd5NThldUtUZjBxSkNuMlpwbElvVTl5Ym1FanNXUV9WTnhNajFiY01IRkdJUjdETVhzMUF5Tm5FcnpIOWM2S0h3RGttWjhnZThUUm5uaUo2amRQeWxCbTRscTNBYTNveHgySHdzcjV2clgyZm5kNG1ldm5oTzBGb09faW56V293VkxVbFFpV3Zhdlk?oc=5" target="_blank">Budget : le gouvernement coupe encore 500 millions d'euros dans les crédits des ministères</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Budget 2027 : Bercy acte un ralentissement économique majeur, l'équation se complique encore - Les Echos](https://news.google.com/rss/articles/CBMi6AFBVV95cUxORmtqVzR6TzVUZUdERTBkcTBHRTF0TTlWOWFYRjBRb2VTbGxkNTVQTXJrVDRfdTBjSDdRRWZiQmUyTmFhTzVlWEtPTXc4bXdIRnRJRlV6TjlRWXBJb2JRaEFNRE9FV3B0ZkZ4WVBraVFiY0RyMDBHeFZicWNub1Rqb3ZFRmpoVEUxUkZPUUJPNUEyclQ1ek9iYWZoTnlCeV9WM0tRRlViNFJQQXNqMmFzLXZSYjlDMmE1b3A4RDR5ZDE1WFdhMVF0czZmNEJET2NBTGFvY2I1T0t0MVA0QmRDd0lsWHp4RmFH?oc=5)
-
-`Fri, 11 Sep 2026 04:00:08 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi6AFBVV95cUxORmtqVzR6TzVUZUdERTBkcTBHRTF0TTlWOWFYRjBRb2VTbGxkNTVQTXJrVDRfdTBjSDdRRWZiQmUyTmFhTzVlWEtPTXc4bXdIRnRJRlV6TjlRWXBJb2JRaEFNRE9FV3B0ZkZ4WVBraVFiY0RyMDBHeFZicWNub1Rqb3ZFRmpoVEUxUkZPUUJPNUEyclQ1ek9iYWZoTnlCeV9WM0tRRlViNFJQQXNqMmFzLXZSYjlDMmE1b3A4RDR5ZDE1WFdhMVF0czZmNEJET2NBTGFvY2I1T0t0MVA0QmRDd0lsWHp4RmFH?oc=5" target="_blank">Budget 2027 : Bercy acte un ralentissement économique majeur, l'équation se complique encore</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [« Nous n'avons plus de gras » : le nouveau scénario de croissance de Bercy pour le budget 2027 - Les Echos](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNdlQ3ZlFrWUpadmVoUURSR28wSUFSVkNkanh1Mld3T05uUDcxRWdUSTk3RTU0TjZWa1dFTFRZdFkzSzhWMDdYTHFHNWpKdDBoUGNFT0o4RE1JZ0d5MEhvRmdObDN6UFl3SWhlS3l1cC1zV2pXZDBUaGJLTWxuZlZNbVFHY1RZclZLaHdMSWJzdzIybDZPMUVhUHZGTWVBWFhCMXFBbE9yMVlpWWFQdHEyeDAxOEZqOU0xY0ZMVUpyRU1xekdSa3RlZDR0WnY1Xy15MFJVYkJ2aEdLVFJtUDJ2SGo2MG83Qnc?oc=5)
-
-`Fri, 11 Sep 2026 09:34:23 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi5wFBVV95cUxNdlQ3ZlFrWUpadmVoUURSR28wSUFSVkNkanh1Mld3T05uUDcxRWdUSTk3RTU0TjZWa1dFTFRZdFkzSzhWMDdYTHFHNWpKdDBoUGNFT0o4RE1JZ0d5MEhvRmdObDN6UFl3SWhlS3l1cC1zV2pXZDBUaGJLTWxuZlZNbVFHY1RZclZLaHdMSWJzdzIybDZPMUVhUHZGTWVBWFhCMXFBbE9yMVlpWWFQdHEyeDAxOEZqOU0xY0ZMVUpyRU1xekdSa3RlZDR0WnY1Xy15MFJVYkJ2aEdLVFJtUDJ2SGo2MG83Qnc?oc=5" target="_blank">« Nous n'avons plus de gras » : le nouveau scénario de croissance de Bercy pour le budget 2027</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Pourquoi l'économie a encore peu souffert des canicules de cet été - Les Echos](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQelF4TElBTEdzSnYtRTNxWTNnNlp3bVVlOXJsYzM5RFNUMVA2ckk0RXd2ZmVwSko0OTJBUWI0b2wwdlB2ZVlITGFSd3BHYjVhdnVjY3B1WlFkVU9ZSDczX1FzeUtTbWlrZ3JiTUV6cjh0XzZVaTZmYnpaLW9vUVNOVGZrWldiVVY5a0tIcUJSblJON1U0ckppWm0zbUJKSEcyTmdTdVJLYjlVbm1vSFpZYmJFZGkxN0Rla2JfY3NsOEIzaUU?oc=5)
-
-`Fri, 11 Sep 2026 05:00:31 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxQelF4TElBTEdzSnYtRTNxWTNnNlp3bVVlOXJsYzM5RFNUMVA2ckk0RXd2ZmVwSko0OTJBUWI0b2wwdlB2ZVlITGFSd3BHYjVhdnVjY3B1WlFkVU9ZSDczX1FzeUtTbWlrZ3JiTUV6cjh0XzZVaTZmYnpaLW9vUVNOVGZrWldiVVY5a0tIcUJSblJON1U0ckppWm0zbUJKSEcyTmdTdVJLYjlVbm1vSFpZYmJFZGkxN0Rla2JfY3NsOEIzaUU?oc=5" target="_blank">Pourquoi l'économie a encore peu souffert des canicules de cet été</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Pourquoi les perspectives du chômage sont toujours mauvaises en France - Les Echos](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdXJxM3pkbnM0dnFWLVRyaFZ5ZG1JNjhQV1ZfSnNKLWhkTXRPbXV4blM0YWQzdDk4V2JPOG9ZckFnazRjSVQyOExEdllEdUJuMkloaldoWXBQM1dxNGs2ZFU5c3JvT1FPU0JZMmdNS0VpWEk4QklUaFNMS1lzVHRYam1IS2Q2c1ZQXzg0TGxJYzZ2eFd2R2VzTWtLSjJ3ZC0zODNNaDdrbTVQaVJfX0FKa2RnTG5GTW5QMkliSXp2V1poZ2s?oc=5)
-
-`Thu, 10 Sep 2026 16:00:52 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdXJxM3pkbnM0dnFWLVRyaFZ5ZG1JNjhQV1ZfSnNKLWhkTXRPbXV4blM0YWQzdDk4V2JPOG9ZckFnazRjSVQyOExEdllEdUJuMkloaldoWXBQM1dxNGs2ZFU5c3JvT1FPU0JZMmdNS0VpWEk4QklUaFNMS1lzVHRYam1IS2Q2c1ZQXzg0TGxJYzZ2eFd2R2VzTWtLSjJ3ZC0zODNNaDdrbTVQaVJfX0FKa2RnTG5GTW5QMkliSXp2V1poZ2s?oc=5" target="_blank">Pourquoi les perspectives du chômage sont toujours mauvaises en France</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
