@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Sun, 11 Oct 2026 15:27:04 +0000`
-> 137 articles (30 derniers jours)
+> Derniere mise a jour : `Mon, 12 Oct 2026 13:36:08 +0000`
+> 131 articles (30 derniers jours)
+
+---
+
+### [Gel des retraites, hausse du coût du travail : le plan du gouvernement pour redresser la Sécu dans le viseur des députés - Les Echos](https://news.google.com/rss/articles/CBMiggJBVV95cUxPVFAxZ2lhVElZckF3blgtQWZKbC1Ra1RpZXlodjYwWFhSYlFpRUlyRmY4UXB0ZDgtQWE1emhLaTJrVTUzQ0NMWC1xLUNTVGJ2dGIwakgxX0I3d0pVdzQ1LXlSVXl2WG9HTHFyczZNVEliUk83U1ZhZUVsb0tnRW53TFlLTUhJVzZFRFlPWnNYcjA2elM1VnlUWHJ6cXFQNW9ZY1NuTmg3M0tfVVBWTzI2UjBnYXVaVHR2Sjh2X2J5UWV5N29JRkFxLWZNcXlIbmhtcFA4OUxSNDBNbWJ0ZXdBZkRoRnBQbkl5bm14YWl0bzJKYVFFeWI0UExCRVBaZW5GNXc?oc=5)
+
+`Sun, 11 Oct 2026 15:34:58 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiggJBVV95cUxPVFAxZ2lhVElZckF3blgtQWZKbC1Ra1RpZXlodjYwWFhSYlFpRUlyRmY4UXB0ZDgtQWE1emhLaTJrVTUzQ0NMWC1xLUNTVGJ2dGIwakgxX0I3d0pVdzQ1LXlSVXl2WG9HTHFyczZNVEliUk83U1ZhZUVsb0tnRW53TFlLTUhJVzZFRFlPWnNYcjA2elM1VnlUWHJ6cXFQNW9ZY1NuTmg3M0tfVVBWTzI2UjBnYXVaVHR2Sjh2X2J5UWV5N29JRkFxLWZNcXlIbmhtcFA4OUxSNDBNbWJ0ZXdBZkRoRnBQbkl5bm14YWl0bzJKYVFFeWI0UExCRVBaZW5GNXc?oc=5" target="_blank">Gel des retraites, hausse du coût du travail : le plan du gouvernement pour redresser la Sécu dans le viseur des députés</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -1042,61 +1050,5 @@
 `Sat, 12 Sep 2026 17:48:21 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi3wFBVV95cUxOS3Z2VXZwcWZJQU1tMEFfVjhoYTJwNDZhZUkxcUs0Q0JGOHM5NnV5U3RMcmVaaDhPemp5Q196Tk5zYThDV3BSYTlIWGpHTkQ1Z0xPNWdrc0tJZHRjU1g3STQ5X3hwU3RlNnlzNFZpZGlQOENOQ1k0S3Z5T282MklyaDd4X0VmenVpVHJ4UHg2ODJRNnhPWkgzSWxOWlJmQ2l1R1VzVGdrM3FyZWswYnBrbWxxajBSZWEtaHBwbE5kN0JmVk9TcEJTZTRXb2ZmUnBvdUFPZWtjcDNOeDU3U29J?oc=5" target="_blank">Budget 2027 : le gouvernement veut donner un coup de pouce aux donations familiales</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Déraillement d'un TER en Normandie : la piste d'un acte malveillant privilégiée - Les Echos](https://news.google.com/rss/articles/CBMiygFBVV95cUxQQ1JUSm83T3hEWmRZQ0wwWVB5SVljNFp0R09jVHlpc0llLTBvTlpoeTRUMXhqdmQ0WmlwSTVuaGV0YXNRazdJWmx1SHloYjhvd0xfNnFybzNPaEJodDlVdjluZkRLM00yNGhCUXdlMmd0cUhMUTF1VVFRSk11RjJydkx1aFFaS1NiY2FvY1BMZWJsOTFtSks4U0JlbDc2ZXVXX2dZZ0ZmcG40MVk1TnNQWnZubFQ3UGtFcmtHM0dZYV8zQk54QzVLb1RB?oc=5)
-
-`Sat, 12 Sep 2026 12:17:01 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxQQ1JUSm83T3hEWmRZQ0wwWVB5SVljNFp0R09jVHlpc0llLTBvTlpoeTRUMXhqdmQ0WmlwSTVuaGV0YXNRazdJWmx1SHloYjhvd0xfNnFybzNPaEJodDlVdjluZkRLM00yNGhCUXdlMmd0cUhMUTF1VVFRSk11RjJydkx1aFFaS1NiY2FvY1BMZWJsOTFtSks4U0JlbDc2ZXVXX2dZZ0ZmcG40MVk1TnNQWnZubFQ3UGtFcmtHM0dZYV8zQk54QzVLb1RB?oc=5" target="_blank">Déraillement d'un TER en Normandie : la piste d'un acte malveillant privilégiée</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Santé : le plafond des franchises médicales passe de 100 à 140 euros - Les Echos](https://news.google.com/rss/articles/CBMivgFBVV95cUxQZUVTdG9rUW9LRGMyTEN5dTdzQWdCX09zZGh2bTEwZWVkNkQ4S2l0eDdxZnFKbEl0N25WbnIxOFRualFySkRGZkJCejZzM1AwemM0UHNHd281eU9EZ3dDNnlQd1NHbEM5WWFaaWVmTEotMjN3bnNfSHNiN20td0JMd0s1bGpvX0s3WHo2dHg0aTc1Mk9DQjBoLVIzSFFCWldaN3gzdi1YbnpZSUdTa01Bam1vdzBxX1VtZUNZa1Jn?oc=5)
-
-`Sat, 12 Sep 2026 08:15:11 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxQZUVTdG9rUW9LRGMyTEN5dTdzQWdCX09zZGh2bTEwZWVkNkQ4S2l0eDdxZnFKbEl0N25WbnIxOFRualFySkRGZkJCejZzM1AwemM0UHNHd281eU9EZ3dDNnlQd1NHbEM5WWFaaWVmTEotMjN3bnNfSHNiN20td0JMd0s1bGpvX0s3WHo2dHg0aTc1Mk9DQjBoLVIzSFFCWldaN3gzdi1YbnpZSUdTa01Bam1vdzBxX1VtZUNZa1Jn?oc=5" target="_blank">Santé : le plafond des franchises médicales passe de 100 à 140 euros</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Retraites complémentaires Agirc-Arrco : les contours de la prochaine revalorisation se précisent - Les Echos](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPTHdreG5jME9YRjlyd2hnc19lMDNWV012R09QQ2VYQk1hTy1VUnFOOEZQckJfTWppSVRPS0dpOWIxcjRrQURLUWFlU0kzeHc0OWhpM1FibmFRVGFMY0Q3RW9GMDRIcHBid21ERjJVR1BiZi04dml4RTJBOGdkWTFrSVNNbzBzdGhZVzJZTFRVRzZWeF9PT3doRjgxdzFJd2lQQk1wdGRKQnZZeEZGWGZYT0o5SVFPOXB6QmNtSEZsLTFxOE5fTWFzVURjZ1V3TXpWenVEY1U0YlpmSG9xRC00WE9iSQ?oc=5)
-
-`Sat, 12 Sep 2026 06:05:09 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi4wFBVV95cUxPTHdreG5jME9YRjlyd2hnc19lMDNWV012R09QQ2VYQk1hTy1VUnFOOEZQckJfTWppSVRPS0dpOWIxcjRrQURLUWFlU0kzeHc0OWhpM1FibmFRVGFMY0Q3RW9GMDRIcHBid21ERjJVR1BiZi04dml4RTJBOGdkWTFrSVNNbzBzdGhZVzJZTFRVRzZWeF9PT3doRjgxdzFJd2lQQk1wdGRKQnZZeEZGWGZYT0o5SVFPOXB6QmNtSEZsLTFxOE5fTWFzVURjZ1V3TXpWenVEY1U0YlpmSG9xRC00WE9iSQ?oc=5" target="_blank">Retraites complémentaires Agirc-Arrco : les contours de la prochaine revalorisation se précisent</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Retraites complémentaires : « Le rendement de l'Agirc-Arrco pour les cotisants a clairement chuté - Les Echos](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPSWxVenFHV3pEVmxwLXgwbEI2cnBiUFZVYXphUThTcTV2eFlYQ0U2UTg0bUFxOWloNTk5V0dCZmdkanBVVkF4bWJjTFdDZ3ZsYVNUY1VMT09xNXRkZXNsNGVpYnFEVnZSelNYR0RPc2l5MVdmcjliN3FwaGxNdURuTVJaM2dCTktMTzJud1hnRkZpV2VON1FFNmd0V2NOanBBVkIxRDczMjZPczkxS2UxTWh0U2xxTTR3ZEZVbkpHVDFvWDdiRXNpaEZJRl93U2w1SGVzYUQxRDM0cHpQVmZPdQ?oc=5)
-
-`Sat, 12 Sep 2026 07:05:11 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi4AFBVV95cUxPSWxVenFHV3pEVmxwLXgwbEI2cnBiUFZVYXphUThTcTV2eFlYQ0U2UTg0bUFxOWloNTk5V0dCZmdkanBVVkF4bWJjTFdDZ3ZsYVNUY1VMT09xNXRkZXNsNGVpYnFEVnZSelNYR0RPc2l5MVdmcjliN3FwaGxNdURuTVJaM2dCTktMTzJud1hnRkZpV2VON1FFNmd0V2NOanBBVkIxRDczMjZPczkxS2UxTWh0U2xxTTR3ZEZVbkpHVDFvWDdiRXNpaEZJRl93U2w1SGVzYUQxRDM0cHpQVmZPdQ?oc=5" target="_blank">Retraites complémentaires : « Le rendement de l'Agirc-Arrco pour les cotisants a clairement chuté</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Économie | Page 245 - Les Echos](https://news.google.com/rss/articles/CBMiXEFVX3lxTE4xcXVNWkRfcWhSMlQxc0d6RkFPbUFMdWxVdmJwcXl3eEFkVWMxSzFZRzFjLXA1TWIzUFNFVnFnR3dMR2dYaE1vSTZwVGhtU1JTREJmbUJSQWs4XzdO?oc=5)
-
-`Sat, 12 Sep 2026 08:02:19 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiXEFVX3lxTE4xcXVNWkRfcWhSMlQxc0d6RkFPbUFMdWxVdmJwcXl3eEFkVWMxSzFZRzFjLXA1TWIzUFNFVnFnR3dMR2dYaE1vSTZwVGhtU1JTREJmbUJSQWs4XzdO?oc=5" target="_blank">Économie | Page 245</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Adaptation au changement climatique : Bercy face au casse-tête du financement - Les Echos](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPS29ELW9WLTNDdEdyTklRdXh1SXBHVTBMUk1UUC1iQUw2dElXd2tVY2ZJOE9wSmQ2MjBLOWU5UnBqa2ttYmNuem8wbWJVZ3ExSnMwaUFyck45bGF3TkVxMWM2a1Ricl8yRWZwZEhMN0NmR0NMMjd4VkhPLVhscHp6cmFPcWU1SWZYbG1rQ29sTmlvazllY2o1bmlVYmUxVTA1aFBOLTFJeWg2SlE3b1A2bGtkYVdTcVRteWxEX251b1p1U0t3bnpxMXlhLXlfY0FIZENZZlFGZw?oc=5)
-
-`Fri, 11 Sep 2026 15:58:00 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi1wFBVV95cUxPS29ELW9WLTNDdEdyTklRdXh1SXBHVTBMUk1UUC1iQUw2dElXd2tVY2ZJOE9wSmQ2MjBLOWU5UnBqa2ttYmNuem8wbWJVZ3ExSnMwaUFyck45bGF3TkVxMWM2a1Ricl8yRWZwZEhMN0NmR0NMMjd4VkhPLVhscHp6cmFPcWU1SWZYbG1rQ29sTmlvazllY2o1bmlVYmUxVTA1aFBOLTFJeWg2SlE3b1A2bGtkYVdTcVRteWxEX251b1p1U0t3bnpxMXlhLXlfY0FIZENZZlFGZw?oc=5" target="_blank">Adaptation au changement climatique : Bercy face au casse-tête du financement</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Budget : le gouvernement coupe encore 500 millions d'euros dans les crédits des ministères - Les Echos](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQVGt3S2lVbDlDZUZDdk9YTFBtZHprZGg3MU1FNFJ1NlA1RGhCWkhFbDJCMTJUaThFSE1YYml3U0JLTnAwVzlqdTJWZzhHc0FFN29mcTl0OElNZEhVSkd5NThldUtUZjBxSkNuMlpwbElvVTl5Ym1FanNXUV9WTnhNajFiY01IRkdJUjdETVhzMUF5Tm5FcnpIOWM2S0h3RGttWjhnZThUUm5uaUo2amRQeWxCbTRscTNBYTNveHgySHdzcjV2clgyZm5kNG1ldm5oTzBGb09faW56V293VkxVbFFpV3Zhdlk?oc=5)
-
-`Fri, 11 Sep 2026 16:00:58 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi5wFBVV95cUxQVGt3S2lVbDlDZUZDdk9YTFBtZHprZGg3MU1FNFJ1NlA1RGhCWkhFbDJCMTJUaThFSE1YYml3U0JLTnAwVzlqdTJWZzhHc0FFN29mcTl0OElNZEhVSkd5NThldUtUZjBxSkNuMlpwbElvVTl5Ym1FanNXUV9WTnhNajFiY01IRkdJUjdETVhzMUF5Tm5FcnpIOWM2S0h3RGttWjhnZThUUm5uaUo2amRQeWxCbTRscTNBYTNveHgySHdzcjV2clgyZm5kNG1ldm5oTzBGb09faW56V293VkxVbFFpV3Zhdlk?oc=5" target="_blank">Budget : le gouvernement coupe encore 500 millions d'euros dans les crédits des ministères</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
