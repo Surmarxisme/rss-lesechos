@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Mon, 12 Oct 2026 18:50:34 +0000`
-> 132 articles (30 derniers jours)
+> Derniere mise a jour : `Mon, 12 Oct 2026 20:38:59 +0000`
+> 133 articles (30 derniers jours)
+
+---
+
+### [« Pour beaucoup d'entreprises, l'urgence est de finir l'année » : vers un nouveau record des défaillances en 2026 - Les Echos](https://news.google.com/rss/articles/CBMi9gFBVV95cUxPckMwekphSHFCTXN2N2JsR2J0T1dWamNnNENGcmtSeXdJZmlwdmFqU21BWlpCZDhndnBzMGx5YU54RUUyNDJHY0ttM2VqX0FMdnpTRkZ4TFJIQ3dCUW5GdkRDVm96a1pNNzJicW5NWTdPY0tJVEx0eDJUMmlITmZuYzNBeXJjTU9qTmxrdUx3eGpEQ0tiV1RoZ3VzalNPbmctQUtiYUlZTHRpTzlqODUxamRDbHZtNVNxbmFZS28yZ29DeW1Mc3JLVXViM0tqWmJqZ20wT1gtZU14ZllxM21jRnl2WGpnQkViRXVSdW1fWHJCWWdETkE?oc=5)
+
+`Mon, 12 Oct 2026 19:30:10 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi9gFBVV95cUxPckMwekphSHFCTXN2N2JsR2J0T1dWamNnNENGcmtSeXdJZmlwdmFqU21BWlpCZDhndnBzMGx5YU54RUUyNDJHY0ttM2VqX0FMdnpTRkZ4TFJIQ3dCUW5GdkRDVm96a1pNNzJicW5NWTdPY0tJVEx0eDJUMmlITmZuYzNBeXJjTU9qTmxrdUx3eGpEQ0tiV1RoZ3VzalNPbmctQUtiYUlZTHRpTzlqODUxamRDbHZtNVNxbmFZS28yZ29DeW1Mc3JLVXViM0tqWmJqZ20wT1gtZU14ZllxM21jRnl2WGpnQkViRXVSdW1fWHJCWWdETkE?oc=5" target="_blank">« Pour beaucoup d'entreprises, l'urgence est de finir l'année » : vers un nouveau record des défaillances en 2026</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
