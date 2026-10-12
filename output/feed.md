@@ -1,7 +1,23 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Mon, 12 Oct 2026 13:36:08 +0000`
-> 131 articles (30 derniers jours)
+> Derniere mise a jour : `Mon, 12 Oct 2026 18:50:34 +0000`
+> 132 articles (30 derniers jours)
+
+---
+
+### [Croissance : l'incertitude économique repart fortement à la hausse en France - Les Echos](https://news.google.com/rss/articles/CBMizgFBVV95cUxPYk11RWlYckJMeFdydnhrMjlYeDQzMUpRTXZFMVQzdnBaU3RMaUpmQ1dUVC0zNnMtQURQVjg2Z0Y5VXRVTUh1Z054MXNkS2lramVfMEI0a01iMUdEbktMUHpGNmxXRTJWbUt0cWg4Q0tzRndTMTdySVphMjJwZEF0cHpRRWZSMVk5ZWpkX2tKTzB3ZFAzY2plUDF0SDRsVUdGa2hvWS1DVExqZG8xZ0FXeVkzbmQ5TVg1TmJJTzFGSE1URTk2UjFsamQ2NDdzQQ?oc=5)
+
+`Mon, 12 Oct 2026 18:00:50 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMizgFBVV95cUxPYk11RWlYckJMeFdydnhrMjlYeDQzMUpRTXZFMVQzdnBaU3RMaUpmQ1dUVC0zNnMtQURQVjg2Z0Y5VXRVTUh1Z054MXNkS2lramVfMEI0a01iMUdEbktMUHpGNmxXRTJWbUt0cWg4Q0tzRndTMTdySVphMjJwZEF0cHpRRWZSMVk5ZWpkX2tKTzB3ZFAzY2plUDF0SDRsVUdGa2hvWS1DVExqZG8xZ0FXeVkzbmQ5TVg1TmJJTzFGSE1URTk2UjFsamQ2NDdzQQ?oc=5" target="_blank">Croissance : l'incertitude économique repart fortement à la hausse en France</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Blocus des lycées, acte V, « gilets jaunes » : à quoi faut-il s'attendre cette semaine ? - Les Echos](https://news.google.com/rss/articles/CBMizAFBVV95cUxNSGl3eWN5QVpjN05PY3hqeVNGSExZN0RWYjVrM0JsMnktakphX2J4UFo4ZW1JWExyM1BWV0N4NFE5WUExeWtlNjZoVlBFc3lBNzJBd1BmQ0RLMlFnbl9ScEpNOEpCNkgyMXB3bDE1dHBqbnRDNHdjdzAtSGxHV2pLbzctMHpHNVk4eS0xaUJxcEU1QkRWV3lNcTMtVkZZcEdoUEp4bEZjYVBfVFo3eHVIbkFReGZIcUFNcmJnYm4xMUFNTl9LSi1fRGphTDQ?oc=5)
+
+`Mon, 12 Oct 2026 15:06:19 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMizAFBVV95cUxNSGl3eWN5QVpjN05PY3hqeVNGSExZN0RWYjVrM0JsMnktakphX2J4UFo4ZW1JWExyM1BWV0N4NFE5WUExeWtlNjZoVlBFc3lBNzJBd1BmQ0RLMlFnbl9ScEpNOEpCNkgyMXB3bDE1dHBqbnRDNHdjdzAtSGxHV2pLbzctMHpHNVk4eS0xaUJxcEU1QkRWV3lNcTMtVkZZcEdoUEp4bEZjYVBfVFo3eHVIbkFReGZIcUFNcmJnYm4xMUFNTl9LSi1fRGphTDQ?oc=5" target="_blank">Blocus des lycées, acte V, « gilets jaunes » : à quoi faut-il s'attendre cette semaine ?</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -1042,13 +1058,5 @@
 `Sun, 13 Sep 2026 13:57:55 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMiywFBVV95cUxPaEh6aGZ4Yjd2ZFdlcWhpbERsT2VEZnI2UXM3RGNNejV4bHJZRDctU2RiUWR5bU9JcHlNTGE1Z25HeVIwLW9BMWJPODlkYUk0bmo0Y3Fmdm5WVkVzLXFJZlgxSnlpWGJHWEM3bDh0cW8zUmZlTzc1ZGt1ekZ3LWo0aWFNbjlOOGx3TFo5UjhhTUVRZGQ4M2hhN3hsanhLNkpnVEtpbW9MV050aW5GblpEbUpVZ1FyV3pnT0loakdPQUtqaE9hVVFWQkNEUQ?oc=5" target="_blank">Budget 2027 : le gouvernement face à une équation presque impossible</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Budget 2027 : le gouvernement veut donner un coup de pouce aux donations familiales - Les Echos](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOS3Z2VXZwcWZJQU1tMEFfVjhoYTJwNDZhZUkxcUs0Q0JGOHM5NnV5U3RMcmVaaDhPemp5Q196Tk5zYThDV3BSYTlIWGpHTkQ1Z0xPNWdrc0tJZHRjU1g3STQ5X3hwU3RlNnlzNFZpZGlQOENOQ1k0S3Z5T282MklyaDd4X0VmenVpVHJ4UHg2ODJRNnhPWkgzSWxOWlJmQ2l1R1VzVGdrM3FyZWswYnBrbWxxajBSZWEtaHBwbE5kN0JmVk9TcEJTZTRXb2ZmUnBvdUFPZWtjcDNOeDU3U29J?oc=5)
-
-`Sat, 12 Sep 2026 17:48:21 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi3wFBVV95cUxOS3Z2VXZwcWZJQU1tMEFfVjhoYTJwNDZhZUkxcUs0Q0JGOHM5NnV5U3RMcmVaaDhPemp5Q196Tk5zYThDV3BSYTlIWGpHTkQ1Z0xPNWdrc0tJZHRjU1g3STQ5X3hwU3RlNnlzNFZpZGlQOENOQ1k0S3Z5T282MklyaDd4X0VmenVpVHJ4UHg2ODJRNnhPWkgzSWxOWlJmQ2l1R1VzVGdrM3FyZWswYnBrbWxxajBSZWEtaHBwbE5kN0JmVk9TcEJTZTRXb2ZmUnBvdUFPZWtjcDNOeDU3U29J?oc=5" target="_blank">Budget 2027 : le gouvernement veut donner un coup de pouce aux donations familiales</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
