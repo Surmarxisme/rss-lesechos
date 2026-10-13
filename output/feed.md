@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Tue, 13 Oct 2026 16:50:03 +0000`
-> 138 articles (30 derniers jours)
+> Derniere mise a jour : `Tue, 13 Oct 2026 18:41:48 +0000`
+> 139 articles (30 derniers jours)
+
+---
+
+### [Pourquoi l'empreinte carbone de la France diminue moins vite que les émissions nationales - Les Echos](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUTZVVHFvdTdkT1ZIbjQ0LTZYcm5SMW9PazhSOXBfbTN1Q1hEbTE5eDBKbE9RTnpYODFYcnRJRkZJVFhHM0RleW5EN28yNUUtZzJOMVgzUkxabFFOWHFYV05KX094eWF4aGduRkxyM25ndmhjNmo5UkozaTdIalBWdnpqbEtEZVlpMEE4U3BfMXJaMmM0TDdMQXMtUTVDZl9mVk5CUGlkbGpjR0Fsd0FiblpOTWRfWWZYc0Z3cmxaMWpnX1B3dDEtcllCMThHTW5GVk9ETEdvZ0w5ZnBURGdjdm5R?oc=5)
+
+`Tue, 13 Oct 2026 16:54:21 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUTZVVHFvdTdkT1ZIbjQ0LTZYcm5SMW9PazhSOXBfbTN1Q1hEbTE5eDBKbE9RTnpYODFYcnRJRkZJVFhHM0RleW5EN28yNUUtZzJOMVgzUkxabFFOWHFYV05KX094eWF4aGduRkxyM25ndmhjNmo5UkozaTdIalBWdnpqbEtEZVlpMEE4U3BfMXJaMmM0TDdMQXMtUTVDZl9mVk5CUGlkbGpjR0Fsd0FiblpOTWRfWWZYc0Z3cmxaMWpnX1B3dDEtcllCMThHTW5GVk9ETEdvZ0w5ZnBURGdjdm5R?oc=5" target="_blank">Pourquoi l'empreinte carbone de la France diminue moins vite que les émissions nationales</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
