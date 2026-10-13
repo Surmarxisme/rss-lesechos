@@ -1,7 +1,31 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Mon, 12 Oct 2026 23:18:53 +0000`
-> 133 articles (30 derniers jours)
+> Derniere mise a jour : `Tue, 13 Oct 2026 12:59:24 +0000`
+> 136 articles (30 derniers jours)
+
+---
+
+### [Budget 2027 : sans alliés, le gouvernement entame une longue course d'obstacles à l'Assemblée - Les Echos](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNVEM4NEt3amVyaTU0SmwweW9WVG95aWxfV2RQcldvRVYwSFk4bmpmRDRtaHBOX1pnVWNVUWlSdjN6MnBYdThpdzhSRGxKa3R1U0UtcmhRZ1ZRMGNsQzZQaDVuRmtWeGNKYUVmRlZqYVNMY0RXNUN4UTJHcHpSajVTQzBYZjlwemZZQ2kzd2txdGM4b082ZmlFNmQ3YWc5dF96QndpRl83NjBFTThEZHRGZVI2S0hRVXZ6anV4WkdLbDZfQWpLSnhDa2xrcGlxRlh0OEJDZWFaMEllX3p1Z1pXS3VvelYwU25Q?oc=5)
+
+`Tue, 13 Oct 2026 04:15:09 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi6AFBVV95cUxNVEM4NEt3amVyaTU0SmwweW9WVG95aWxfV2RQcldvRVYwSFk4bmpmRDRtaHBOX1pnVWNVUWlSdjN6MnBYdThpdzhSRGxKa3R1U0UtcmhRZ1ZRMGNsQzZQaDVuRmtWeGNKYUVmRlZqYVNMY0RXNUN4UTJHcHpSajVTQzBYZjlwemZZQ2kzd2txdGM4b082ZmlFNmQ3YWc5dF96QndpRl83NjBFTThEZHRGZVI2S0hRVXZ6anV4WkdLbDZfQWpLSnhDa2xrcGlxRlh0OEJDZWFaMEllX3p1Z1pXS3VvelYwU25Q?oc=5" target="_blank">Budget 2027 : sans alliés, le gouvernement entame une longue course d'obstacles à l'Assemblée</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Chauffage, transport : en France, la spectaculaire baisse des émissions de CO2 - Les Echos](https://news.google.com/rss/articles/CBMizwFBVV95cUxPVUdud3hJc2hEaFJ0NWV0cmhjWmtnU2ZoQ2pFRXl4UGVGLUdzSDFXaVlLV21WeUtpSXd4UWxPSk5nSHQtMzQwcWVDcnBHbUpPRHdBYlFPc3U2MDNveC1YNzdCbnN3NEUyb1ZZbUR5Z3hObzZZOG8zS0FLbUwxZGk2dUE5NG50azVpU0VkZ2cya05KdUh6WFkxMDNScF84MkhRR1BpZEVDb1JZVGZZazlSdnh2MTlOMU1lMlJkWGIwRjVsSWo1ejhxN1MxMng4MVk?oc=5)
+
+`Tue, 13 Oct 2026 05:00:08 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMizwFBVV95cUxPVUdud3hJc2hEaFJ0NWV0cmhjWmtnU2ZoQ2pFRXl4UGVGLUdzSDFXaVlLV21WeUtpSXd4UWxPSk5nSHQtMzQwcWVDcnBHbUpPRHdBYlFPc3U2MDNveC1YNzdCbnN3NEUyb1ZZbUR5Z3hObzZZOG8zS0FLbUwxZGk2dUE5NG50azVpU0VkZ2cya05KdUh6WFkxMDNScF84MkhRR1BpZEVDb1JZVGZZazlSdnh2MTlOMU1lMlJkWGIwRjVsSWo1ejhxN1MxMng4MVk?oc=5" target="_blank">Chauffage, transport : en France, la spectaculaire baisse des émissions de CO2</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Qui sont-ils, que veulent-ils ? Une photographie inédite des cadres en France - Les Echos](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOV1VqRjlkY2FmQkRucmZYYnIydlgxdmZ4ODkzOTlfQkdCMjBHakQzZlRveG9RbkhhcGd1QlIzYUZVa09OR05oMEVxUjk3SFlYTFM0NXNYaHhMalJXRnZGOWpnWHNSX0FyR1cwN0Q3NTN5OGtvS0VFajNsUndTZm1xdkpIbk02S1cycDRENC1sSXNadHF2VFU0T3lUakN5UnNMaGJuRHh0LTNFQS04S3hQSzA0NlJmX2REVmNQbndhZ1c2QmNZanVVdA?oc=5)
+
+`Tue, 13 Oct 2026 04:10:08 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxOV1VqRjlkY2FmQkRucmZYYnIydlgxdmZ4ODkzOTlfQkdCMjBHakQzZlRveG9RbkhhcGd1QlIzYUZVa09OR05oMEVxUjk3SFlYTFM0NXNYaHhMalJXRnZGOWpnWHNSX0FyR1cwN0Q3NTN5OGtvS0VFajNsUndTZm1xdkpIbk02S1cycDRENC1sSXNadHF2VFU0T3lUakN5UnNMaGJuRHh0LTNFQS04S3hQSzA0NlJmX2REVmNQbndhZ1c2QmNZanVVdA?oc=5" target="_blank">Qui sont-ils, que veulent-ils ? Une photographie inédite des cadres en France</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
