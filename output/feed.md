@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Wed, 14 Oct 2026 14:25:43 +0000`
+> Derniere mise a jour : `Wed, 14 Oct 2026 16:14:19 +0000`
 > 140 articles (30 derniers jours)
+
+---
+
+### [Budget 2027 : « L'aveuglement de nombreux députés est effrayant » - Les Echos](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQ0VrZGNBcEU2Q0g0QVpQTVlWSTZIVHVNODNBU0VQZHQ5ODNUNFRYV1JpYmNvUWNLSUd2OEVic2lyR1p1YkNOdzFLdlFUdDJEMG1JV2ZVQ01tODIzak9HUjY4UmJaQWoyMGZNV19tZHluaGlZWTFTZlp2YnJHck9VSjRFd1VSVjZaYTAwbS1EOWpTY0FJZVdBN2hDTnZ5Zk95emJyME44QWo5UFdTUDlLNC1JQkdMOV9pTWVJQ0pNUDE?oc=5)
+
+`Wed, 14 Oct 2026 14:44:20 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQ0VrZGNBcEU2Q0g0QVpQTVlWSTZIVHVNODNBU0VQZHQ5ODNUNFRYV1JpYmNvUWNLSUd2OEVic2lyR1p1YkNOdzFLdlFUdDJEMG1JV2ZVQ01tODIzak9HUjY4UmJaQWoyMGZNV19tZHluaGlZWTFTZlp2YnJHck9VSjRFd1VSVjZaYTAwbS1EOWpTY0FJZVdBN2hDTnZ5Zk95emJyME44QWo5UFdTUDlLNC1JQkdMOV9pTWVJQ0pNUDE?oc=5" target="_blank">Budget 2027 : « L'aveuglement de nombreux députés est effrayant »</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -1114,13 +1122,5 @@
 `Tue, 15 Sep 2026 04:00:09 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcjBNUmhGWnB2NTJYME5ZdWN6LVJVZlJ5NEhENzN2QzQtbkhaelBlaGt1N0JfSTJLQWlrSXBFMXJadEdtMUVfQjNDN0xlcndscmI1cnBzVmw1eUt0eUFBcUdSaldScWRFbmh2NnhmUmpSMlhvaTIwN0FPWTk3QjNFeHlfYUdKWWRHSll4SGl2ZEVySTVOZ1dKWThRZGFDVlBYZUlEcmY1V1dIUWM?oc=5" target="_blank">EXCLUSIF - Salaires : ce qui attend les Français en 2027</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Budget 2027 : les trois mesures à disposition du gouvernement pour mettre les retraités à contribution - Les Echos](https://news.google.com/rss/articles/CBMi-AFBVV95cUxPSFR5N2k1NzFOWFRBMTBNdVV0cW94TlpRU0JRcUFHbVlwbjBsalpLUEFkNmpZNFBOelVLcy04aUNuYkFBOW5pd0VtVHRLV2ExWmNhSlhmSG5DWVZfSXY2R0tRM0Y0Z2U0VE5NenM5dlRtTFVwTU85aUFya0RnZlpIamt0ZW5yNTR3eWN3NWZRbjl1V1h5SUZJS1hoQzVKWGhBaWJBNmktWEVkcnVZN3Z2VFhzUkhubjJlaGloZXd3dG9TTHJDZTVkNXlyakRXT0JtQ3c2MTlxYlZUZHFsTXR2ZmhMT29Hck5SZG9ZMXRNcW5xRVJMdU9oVw?oc=5)
-
-`Mon, 14 Sep 2026 15:46:40 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi-AFBVV95cUxPSFR5N2k1NzFOWFRBMTBNdVV0cW94TlpRU0JRcUFHbVlwbjBsalpLUEFkNmpZNFBOelVLcy04aUNuYkFBOW5pd0VtVHRLV2ExWmNhSlhmSG5DWVZfSXY2R0tRM0Y0Z2U0VE5NenM5dlRtTFVwTU85aUFya0RnZlpIamt0ZW5yNTR3eWN3NWZRbjl1V1h5SUZJS1hoQzVKWGhBaWJBNmktWEVkcnVZN3Z2VFhzUkhubjJlaGloZXd3dG9TTHJDZTVkNXlyakRXT0JtQ3c2MTlxYlZUZHFsTXR2ZmhMT29Hck5SZG9ZMXRNcW5xRVJMdU9oVw?oc=5" target="_blank">Budget 2027 : les trois mesures à disposition du gouvernement pour mettre les retraités à contribution</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
