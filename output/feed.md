@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Wed, 14 Oct 2026 16:14:19 +0000`
-> 140 articles (30 derniers jours)
+> Derniere mise a jour : `Wed, 14 Oct 2026 20:21:45 +0000`
+> 141 articles (30 derniers jours)
+
+---
+
+### [Agirc-Arrco : les retraites complémentaires revalorisées de 1,4 % à partir de novembre - Les Echos](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTmQwNEVTN1FKTElaQWhvZ1Y0aUpqQ3l5Ym5hcFlOS084QTFtcGh3S0VKMEw1Rnd3LXdNLWd0a1RfMW1INFpCUTFKWWF1YnBwYV9iM25oQlRjTjdKVExMQlozOWlnU25faGJxQVhsX29NMVlZYi1lWXhCR0p0VHdfSXFMZWlHOVlyNnVsX3k0T2d1bkVwWXR3UnNLaGxFcjFzamVRZ2NRMkt4UEZZLUU1THhFMXA4MzBBR0RrVXY3M2JhSkFvbENNb25uSFJTLUdOa1E?oc=5)
+
+`Wed, 14 Oct 2026 16:17:50 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTmQwNEVTN1FKTElaQWhvZ1Y0aUpqQ3l5Ym5hcFlOS084QTFtcGh3S0VKMEw1Rnd3LXdNLWd0a1RfMW1INFpCUTFKWWF1YnBwYV9iM25oQlRjTjdKVExMQlozOWlnU25faGJxQVhsX29NMVlZYi1lWXhCR0p0VHdfSXFMZWlHOVlyNnVsX3k0T2d1bkVwWXR3UnNLaGxFcjFzamVRZ2NRMkt4UEZZLUU1THhFMXA4MzBBR0RrVXY3M2JhSkFvbENNb25uSFJTLUdOa1E?oc=5" target="_blank">Agirc-Arrco : les retraites complémentaires revalorisées de 1,4 % à partir de novembre</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
