@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Tue, 13 Oct 2026 21:37:24 +0000`
-> 139 articles (30 derniers jours)
+> Derniere mise a jour : `Wed, 14 Oct 2026 10:40:12 +0000`
+> 140 articles (30 derniers jours)
+
+---
+
+### [Croissance : les économistes bien plus pessimistes que le gouvernement pour 2027 - Les Echos](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOX2pkWEVHWUNYZXBYNzlNc2ppdk5pb003bFlGY1FTcUFTRnc5Ukg1OVFjVWNmdDVwVWVkUy1weFNFR1hvZmtEZzJnY2x0OWxIbFdMVVFlSFRWVGgxX2VzSzVuR1hTQjd6anhFcnNad1NEQlhJT01HRzVYRUJVbWlrd01DTWdHTjlkWGVnNmV5b01RWDJBZUs2RkQ1SzlqZzZHeUY2aWhOVkUtVGp3a2lGNG1FNGwtdDU4Q2t2NFl6R0lqbGtyWkFFTEtVUmJRVlllbk03aA?oc=5)
+
+`Wed, 14 Oct 2026 07:06:46 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi1AFBVV95cUxOX2pkWEVHWUNYZXBYNzlNc2ppdk5pb003bFlGY1FTcUFTRnc5Ukg1OVFjVWNmdDVwVWVkUy1weFNFR1hvZmtEZzJnY2x0OWxIbFdMVVFlSFRWVGgxX2VzSzVuR1hTQjd6anhFcnNad1NEQlhJT01HRzVYRUJVbWlrd01DTWdHTjlkWGVnNmV5b01RWDJBZUs2RkQ1SzlqZzZHeUY2aWhOVkUtVGp3a2lGNG1FNGwtdDU4Q2t2NFl6R0lqbGtyWkFFTEtVUmJRVlllbk03aA?oc=5" target="_blank">Croissance : les économistes bien plus pessimistes que le gouvernement pour 2027</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
