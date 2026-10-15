@@ -1,7 +1,23 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Thu, 15 Oct 2026 10:23:49 +0000`
-> 142 articles (30 derniers jours)
+> Derniere mise a jour : `Thu, 15 Oct 2026 14:03:36 +0000`
+> 143 articles (30 derniers jours)
+
+---
+
+### [Budget 2027 : les députés préservent l'abattement fiscal des retraités - Les Echos](https://news.google.com/rss/articles/CBMizAFBVV95cUxPV081Smdpc3VjUmFjZk5adzhrNGFBUGxWVS1vUi16SHUxajR5aDZUMVBURUJZd0JydmlBTWhidTNHZkdhRjhSVmxHVWpfTmw1WlM0Vk5IUEpWeUpld1psNTJsbXpxaFZpYTBvWUQ0empybUx1NDVCWTI4eV80aFZ6eVZYVFFTb2IxTkNoNWw5WGJPcGdDTnNESV9kVUpNUjVCWURBSXdjQUVnLWpVMDFPcGllVDFNZTRRY0lnOXNlZjRhUWgxNzd2ZGRSUTI?oc=5)
+
+`Thu, 15 Oct 2026 10:46:05 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMizAFBVV95cUxPV081Smdpc3VjUmFjZk5adzhrNGFBUGxWVS1vUi16SHUxajR5aDZUMVBURUJZd0JydmlBTWhidTNHZkdhRjhSVmxHVWpfTmw1WlM0Vk5IUEpWeUpld1psNTJsbXpxaFZpYTBvWUQ0empybUx1NDVCWTI4eV80aFZ6eVZYVFFTb2IxTkNoNWw5WGJPcGdDTnNESV9kVUpNUjVCWURBSXdjQUVnLWpVMDFPcGllVDFNZTRRY0lnOXNlZjRhUWgxNzd2ZGRSUTI?oc=5" target="_blank">Budget 2027 : les députés préservent l'abattement fiscal des retraités</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Fonction publique : l'absentéisme pour raisons de santé se stabilise - Les Echos](https://news.google.com/rss/articles/CBMivAFBVV95cUxQbDF2UnI4WVlZS25BWDNkXzJhVHFmcTNYLVNKSW9Vb0owODhiSm01bFczYl9xaHZKelJZQmV2YUN3UHljbnVwQ0tVc09uOXNZM01lWkdmM24yYXl2eUc0Mk1RY1oxOURHSjNaZDFzYUZWcTVBOUx1ZU1OSXdnMkliVk1qY2dOckFaZEo0ZnZVS0hvQW9RSExFVF9qZzdpSHpiNGxYUzFqZTA1YkZSR292M0RjQjBDVUZqQzZsQg?oc=5)
+
+`Thu, 15 Oct 2026 10:43:11 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxQbDF2UnI4WVlZS25BWDNkXzJhVHFmcTNYLVNKSW9Vb0owODhiSm01bFczYl9xaHZKelJZQmV2YUN3UHljbnVwQ0tVc09uOXNZM01lWkdmM24yYXl2eUc0Mk1RY1oxOURHSjNaZDFzYUZWcTVBOUx1ZU1OSXdnMkliVk1qY2dOckFaZEo0ZnZVS0hvQW9RSExFVF9qZzdpSHpiNGxYUzFqZTA1YkZSR292M0RjQjBDVUZqQzZsQg?oc=5" target="_blank">Fonction publique : l'absentéisme pour raisons de santé se stabilise</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -1130,13 +1146,5 @@
 `Tue, 15 Sep 2026 14:42:29 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxOZHI1MUFIbzl4NjZrR195TzVLbFB5NkRMNmwzeGN6cUtrTEpNX2w2Um9IYWpJSVlFbHV5d2hsN19LbHcxUXptYVhQRHBhUkZWcE1ZWlU4akJ1d05GR21DLVRyb3BQVE5objFzOTh4ZkxjUW5MeG90MFB6MjFmZkc1MnlwamNXaEg3V2l5eExGclh5RnR6YjgybjNxbktsVVM0b1NTdzVVTHhUN1YwaXdsY1k4OHZkcXVaVHN4aQ?oc=5" target="_blank">Formation professionnelle : l'Afpa engage une lourde restructuration</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [L'industrie veut se faire entendre des candidats à la présidentielle - Les Echos](https://news.google.com/rss/articles/CBMixgFBVV95cUxNYmFtUzhQSXZNYlZQVE1jUlN4TFAwS2l6NG40cVFDRHMxTnFNdUk2RWMwMFg1TmE5Zm1qTEdrMV95ZW16RlFOV3EwbmNEcENlaWpWcEVwazl6QXBlc09pVnNzZUxLbG5qUmt1bF80X1Rndk12VmVPblFOS0E4bjBiUEJSeWpvM1E5NnBldmlBQ0RLeHRiMXRTa296M3Y3N2JlcE9MOVltM0s1Nk0zNlJ1MWtLbzFoTTVWVk9OY2N6U3lORVhKb1E?oc=5)
-
-`Tue, 15 Sep 2026 13:22:41 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxNYmFtUzhQSXZNYlZQVE1jUlN4TFAwS2l6NG40cVFDRHMxTnFNdUk2RWMwMFg1TmE5Zm1qTEdrMV95ZW16RlFOV3EwbmNEcENlaWpWcEVwazl6QXBlc09pVnNzZUxLbG5qUmt1bF80X1Rndk12VmVPblFOS0E4bjBiUEJSeWpvM1E5NnBldmlBQ0RLeHRiMXRTa296M3Y3N2JlcE9MOVltM0s1Nk0zNlJ1MWtLbzFoTTVWVk9OY2N6U3lORVhKb1E?oc=5" target="_blank">L'industrie veut se faire entendre des candidats à la présidentielle</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
