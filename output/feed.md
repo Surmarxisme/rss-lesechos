@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Thu, 15 Oct 2026 16:01:42 +0000`
+> Derniere mise a jour : `Thu, 15 Oct 2026 20:06:03 +0000`
 > 141 articles (30 derniers jours)
+
+---
+
+### [SONDAGE EXCLUSIF - Une courte majorité de Français favorable à l'adoption du budget 2027 malgré ses défauts - Les Echos](https://news.google.com/rss/articles/CBMi_gFBVV95cUxPNm9KZ1liLXdPSGZOdHV3b05uZFk3OGZlVkZkUnJUNFprbTdUVHQtd0xxa0F5VmE5QzFKV2RacGZ6QXozT215LTB1V28yYXIzbVpQZ3NxYmhmUkZQNGd0d084a2I0ZEtTajU3LXZha05sdEhwTWg5RnYyZEp6SUR5c3prUEpxR1JubDA0LTRxdFVIelRUWHl4eTFGTzBWc2ZGQVBwRm1ISVhwMTMtcVNiVFNWSlVTYldOZ1JRWkEwMVYySUNBNTJGVHNDSTZ5WDdnSnlaLUJrUlF0UHJ3a2s3bnp2aXE3STNnYVlwdGRIa0RiRVFEaTJmQU8yX0hCQQ?oc=5)
+
+`Thu, 15 Oct 2026 16:23:05 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi_gFBVV95cUxPNm9KZ1liLXdPSGZOdHV3b05uZFk3OGZlVkZkUnJUNFprbTdUVHQtd0xxa0F5VmE5QzFKV2RacGZ6QXozT215LTB1V28yYXIzbVpQZ3NxYmhmUkZQNGd0d084a2I0ZEtTajU3LXZha05sdEhwTWg5RnYyZEp6SUR5c3prUEpxR1JubDA0LTRxdFVIelRUWHl4eTFGTzBWc2ZGQVBwRm1ISVhwMTMtcVNiVFNWSlVTYldOZ1JRWkEwMVYySUNBNTJGVHNDSTZ5WDdnSnlaLUJrUlF0UHJ3a2s3bnp2aXE3STNnYVlwdGRIa0RiRVFEaTJmQU8yX0hCQQ?oc=5" target="_blank">SONDAGE EXCLUSIF - Une courte majorité de Français favorable à l'adoption du budget 2027 malgré ses défauts</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -1122,13 +1130,5 @@
 `Wed, 16 Sep 2026 04:00:08 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi2wFBVV95cUxPV1F3ZXlWY2RZM3YwdEJBTWY2QW5fT3p2ZmVqNGFiNjh1NkduZmpqUkRfV2ZEbHZfV01VRFo2ckluNldjcmF6TVdkWnVfVnNNTVBTX3JTdDNCdW5XbW9oaGhYYUljRU9EVlpqaFRqcGFpWnhhWU1ldFB6VkRPNDJIN2JiZXhraENuSzlvb2hkU1ZXNFVxMHZLOW4tZ0VDY0o0S3VONjFaZjEzTzY3WFJRR0plVDd3Q19GRUgyZ1BrLUlFR1I3ZXNCWFh2MGo1Rkh2MUUzM0tmUjB0bG8?oc=5" target="_blank">Dette : pourquoi « l'effet boule de neige » est sur le point de s'enclencher en France</a>&nbsp;&nbsp;<font color="#6f6f6f">lesechos.fr</font>
-
----
-
-### [La Banque de France réfute tout décrochage de l'économie française - Les Echos](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbDU5QV9aNDk3MDJRZVV2a1BXT1h0cFlzRS1uS0tKdUE5ZlJaSl9qZHNSRE9rT1Z1RlNyaWVqOURCUmlWbFR0bUJHdk1nODlIOUNLNDBMdmhyY3pZU1hmUkg2TFRkTGdLaC1NVkxuZTVqc1VqSDhsbzlvbGtydE1mWVhfck1rY2JkMzRHZ0NZYlBRSkRQeHFKODhuR1B6REw1TkcxUG96dHlvb0k1NEVndTZCYzZCSk9TSkpqRnlFZWlmVDA?oc=5)
-
-`Tue, 15 Sep 2026 16:42:10 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbDU5QV9aNDk3MDJRZVV2a1BXT1h0cFlzRS1uS0tKdUE5ZlJaSl9qZHNSRE9rT1Z1RlNyaWVqOURCUmlWbFR0bUJHdk1nODlIOUNLNDBMdmhyY3pZU1hmUkg2TFRkTGdLaC1NVkxuZTVqc1VqSDhsbzlvbGtydE1mWVhfck1rY2JkMzRHZ0NZYlBRSkRQeHFKODhuR1B6REw1TkcxUG96dHlvb0k1NEVndTZCYzZCSk9TSkpqRnlFZWlmVDA?oc=5" target="_blank">La Banque de France réfute tout décrochage de l'économie française</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
