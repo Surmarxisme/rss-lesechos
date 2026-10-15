@@ -1,7 +1,31 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Wed, 14 Oct 2026 20:21:45 +0000`
-> 141 articles (30 derniers jours)
+> Derniere mise a jour : `Thu, 15 Oct 2026 10:23:49 +0000`
+> 142 articles (30 derniers jours)
+
+---
+
+### [Les députés ont adopté la contribution française au budget de l'UE - Les Echos](https://news.google.com/rss/articles/CBMiygFBVV95cUxQRjlNVFdiMS1lelIwODhMMFZrZXN1bWpGX2VTeTRlUFhYRUhWSlV5a1B4TGd0MDJmQUJRMnM1S2lScGxyR1N5dVBSZEM2dU5SYzJXd2xFTmNlRHkwa2Rad0pnQVQyMHVKTzRqOHc0YjZFR3lEdjA5QVFnWE0yQXdIWVgxVkxURnB3TzJIODBMRWdGTG1yZVM5LXhLdmt3NlotWDYza0pia1Vvd0YxYk1oQUl2cThBZEFnams0UERkRnJWRGtDQUJjNEZB?oc=5)
+
+`Thu, 15 Oct 2026 07:29:49 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxQRjlNVFdiMS1lelIwODhMMFZrZXN1bWpGX2VTeTRlUFhYRUhWSlV5a1B4TGd0MDJmQUJRMnM1S2lScGxyR1N5dVBSZEM2dU5SYzJXd2xFTmNlRHkwa2Rad0pnQVQyMHVKTzRqOHc0YjZFR3lEdjA5QVFnWE0yQXdIWVgxVkxURnB3TzJIODBMRWdGTG1yZVM5LXhLdmt3NlotWDYza0pia1Vvd0YxYk1oQUl2cThBZEFnams0UERkRnJWRGtDQUJjNEZB?oc=5" target="_blank">Les députés ont adopté la contribution française au budget de l'UE</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [En 1789, on a fait la révolution pour ne pas annuler la dette - Les Echos](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPS1drQWxVaHpfQjNhem9IUHlwTTc1bFJhZEl1MEtlWnowZE1GLTA2eUpIczRlNExYYXVqZmRnanRuZXpjSDNZa1J2WjRxYV9wUFhBUFVmUjFnMVh0VEI2SzJNUFdlNUUycEYzN0swZ0RSRUp4UW12bHc3cDdJb01nSnltNTFqZFQtR3JDMlZndzEtMjhfRFZtS3Vrd0hJWmFFUVh1N0R4SFVvY1FMb0FQMjhQOVRjbC11NllWdHlMVWd3Y0U?oc=5)
+
+`Thu, 15 Oct 2026 05:25:50 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxPS1drQWxVaHpfQjNhem9IUHlwTTc1bFJhZEl1MEtlWnowZE1GLTA2eUpIczRlNExYYXVqZmRnanRuZXpjSDNZa1J2WjRxYV9wUFhBUFVmUjFnMVh0VEI2SzJNUFdlNUUycEYzN0swZ0RSRUp4UW12bHc3cDdJb01nSnltNTFqZFQtR3JDMlZndzEtMjhfRFZtS3Vrd0hJWmFFUVh1N0R4SFVvY1FMb0FQMjhQOVRjbC11NllWdHlMVWd3Y0U?oc=5" target="_blank">En 1789, on a fait la révolution pour ne pas annuler la dette</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [EXCLUSIF - « L'entreprise est un refuge » : les salariés affichent leur confiance mais méconnaissent le dialogue social - Les Echos](https://news.google.com/rss/articles/CBMi-AFBVV95cUxOX2dqNjFBcGFtSXhpdHNzaG52eDdVZkNEV3pYYTllbVNVbXY4dXhGRVh4UVd5VXNUdU84WWVXbmRBT2N5eGxHMFVFMEZ3c1c0LUVpeHVicGZsRThyZnVMXzZtdFJET095WGFnRVhaYWl6bzVwWkxfOUwxeXJhQ1FQTmw5R3JsblZUTDZiQmQ3ZllReDFlYjNUdnBPMml0MWZiVWQ5SjZXb0xURTgySkZvUTlQTWN6SzUzRC1FNHJNRHQwYUI5am1FWDJjMENDOFVxQURjMjBTVFpWSzFvQVZ1MUpRZXJpczk5VEUzWGtmZ1NQVVNlbmkxbw?oc=5)
+
+`Thu, 15 Oct 2026 08:00:09 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi-AFBVV95cUxOX2dqNjFBcGFtSXhpdHNzaG52eDdVZkNEV3pYYTllbVNVbXY4dXhGRVh4UVd5VXNUdU84WWVXbmRBT2N5eGxHMFVFMEZ3c1c0LUVpeHVicGZsRThyZnVMXzZtdFJET095WGFnRVhaYWl6bzVwWkxfOUwxeXJhQ1FQTmw5R3JsblZUTDZiQmQ3ZllReDFlYjNUdnBPMml0MWZiVWQ5SjZXb0xURTgySkZvUTlQTWN6SzUzRC1FNHJNRHQwYUI5am1FWDJjMENDOFVxQURjMjBTVFpWSzFvQVZ1MUpRZXJpczk5VEUzWGtmZ1NQVVNlbmkxbw?oc=5" target="_blank">EXCLUSIF - « L'entreprise est un refuge » : les salariés affichent leur confiance mais méconnaissent le dialogue social</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -1114,21 +1138,5 @@
 `Tue, 15 Sep 2026 13:22:41 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxNYmFtUzhQSXZNYlZQVE1jUlN4TFAwS2l6NG40cVFDRHMxTnFNdUk2RWMwMFg1TmE5Zm1qTEdrMV95ZW16RlFOV3EwbmNEcENlaWpWcEVwazl6QXBlc09pVnNzZUxLbG5qUmt1bF80X1Rndk12VmVPblFOS0E4bjBiUEJSeWpvM1E5NnBldmlBQ0RLeHRiMXRTa296M3Y3N2JlcE9MOVltM0s1Nk0zNlJ1MWtLbzFoTTVWVk9OY2N6U3lORVhKb1E?oc=5" target="_blank">L'industrie veut se faire entendre des candidats à la présidentielle</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [L'étonnante amélioration des délais de paiement entre entreprises - Les Echos](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQU3ZUTGpWcWVXU1dpWTJ6UDVzRnFFZUxHNzMydDFJcXdrZEtPRFFHVFFxZHdWWDVwenNJOEFWbUtVVlNxUkxBa0dJb0cyNDl1aXhaOXFLUV9yNXdHZHB0dWlNazFNUG5UNGlOZUNtam1hQUtTZk9DOWdiaUdmYXoxSnk1N19pSXhONFBwbWlkWjEwLWcwNFZMUVVNNXp6TmM0LUtyWHU2REVlZ3NjVXJvVTlZbU1xZWJuakJqWThQeWdUdw?oc=5)
-
-`Tue, 15 Sep 2026 05:00:26 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxQU3ZUTGpWcWVXU1dpWTJ6UDVzRnFFZUxHNzMydDFJcXdrZEtPRFFHVFFxZHdWWDVwenNJOEFWbUtVVlNxUkxBa0dJb0cyNDl1aXhaOXFLUV9yNXdHZHB0dWlNazFNUG5UNGlOZUNtam1hQUtTZk9DOWdiaUdmYXoxSnk1N19pSXhONFBwbWlkWjEwLWcwNFZMUVVNNXp6TmM0LUtyWHU2REVlZ3NjVXJvVTlZbU1xZWJuakJqWThQeWdUdw?oc=5" target="_blank">L'étonnante amélioration des délais de paiement entre entreprises</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [EXCLUSIF - Salaires : ce qui attend les Français en 2027 - Les Echos](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcjBNUmhGWnB2NTJYME5ZdWN6LVJVZlJ5NEhENzN2QzQtbkhaelBlaGt1N0JfSTJLQWlrSXBFMXJadEdtMUVfQjNDN0xlcndscmI1cnBzVmw1eUt0eUFBcUdSaldScWRFbmh2NnhmUmpSMlhvaTIwN0FPWTk3QjNFeHlfYUdKWWRHSll4SGl2ZEVySTVOZ1dKWThRZGFDVlBYZUlEcmY1V1dIUWM?oc=5)
-
-`Tue, 15 Sep 2026 04:00:09 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcjBNUmhGWnB2NTJYME5ZdWN6LVJVZlJ5NEhENzN2QzQtbkhaelBlaGt1N0JfSTJLQWlrSXBFMXJadEdtMUVfQjNDN0xlcndscmI1cnBzVmw1eUt0eUFBcUdSaldScWRFbmh2NnhmUmpSMlhvaTIwN0FPWTk3QjNFeHlfYUdKWWRHSll4SGl2ZEVySTVOZ1dKWThRZGFDVlBYZUlEcmY1V1dIUWM?oc=5" target="_blank">EXCLUSIF - Salaires : ce qui attend les Français en 2027</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
