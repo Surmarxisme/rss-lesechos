@@ -1,7 +1,31 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Fri, 16 Oct 2026 13:51:50 +0000`
-> 141 articles (30 derniers jours)
+> Derniere mise a jour : `Fri, 16 Oct 2026 15:50:08 +0000`
+> 144 articles (30 derniers jours)
+
+---
+
+### [Budget 2027 : les députés doublent à 100.000 euros le plafond d'exonération d'impôt pour les dons familiaux - Les Echos](https://news.google.com/rss/articles/CBMi-wFBVV95cUxOZnhyd3BrNUp2cU9fX2NXc1M5OWVqbTNCMUtMZUpxcGNncWRDSW9xTTFrUFJjYkJHbE8zcGpLSEV4MUItYnRKVXcxWktwXzV0VkZRMERwS2s1ZFJVaDF3c0pHdmVhVXJkR0N6U2hxNVBFeFdqSHhNZHZPRE15d0ExWlFjaldjZGxWSVZOUE1NUzQ4dGFLQWE1NGR2Vi00VVBpOEdzS09SbDlPQlFuS1BIb1lEd0dzQ1ZvU0lQM3M4eWNpbkpTMWZmV0Y3R2VCWThOcWJmcnpieEhfS3NKZWpIc3VZZlhQdlRaY2RuNjBxQzRkemFmaW1mcndRWQ?oc=5)
+
+`Fri, 16 Oct 2026 14:40:45 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi-wFBVV95cUxOZnhyd3BrNUp2cU9fX2NXc1M5OWVqbTNCMUtMZUpxcGNncWRDSW9xTTFrUFJjYkJHbE8zcGpLSEV4MUItYnRKVXcxWktwXzV0VkZRMERwS2s1ZFJVaDF3c0pHdmVhVXJkR0N6U2hxNVBFeFdqSHhNZHZPRE15d0ExWlFjaldjZGxWSVZOUE1NUzQ4dGFLQWE1NGR2Vi00VVBpOEdzS09SbDlPQlFuS1BIb1lEd0dzQ1ZvU0lQM3M4eWNpbkpTMWZmV0Y3R2VCWThOcWJmcnpieEhfS3NKZWpIc3VZZlhQdlRaY2RuNjBxQzRkemFmaW1mcndRWQ?oc=5" target="_blank">Budget 2027 : les députés doublent à 100.000 euros le plafond d'exonération d'impôt pour les dons familiaux</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Retraites : les députés rejettent la sous-indexation des pensions - Les Echos](https://news.google.com/rss/articles/CBMiugFBVV95cUxObDRhRmNEUk85OEswR0tVd21DMVcyLVMyVG9qSy02R0lORUpaUG1BcTF4Qjh0c1FFVm9tV0FnVHlhMlZ1Ul83NmYwNEhkMUhOSHZXUFBqUmhkUnFhQUxZT3AtTFp0T2pfQ096VVNKbW8zU0VFODlMYXJYb18xZjR4QnlLMlRXNk5NMjJ6bFFCeDhkQkMxQTZJQk5NNEhNb1kxQ2l1ZnVlWUV2MGZnSmhPcHpGc0k1dENqNkE?oc=5)
+
+`Fri, 16 Oct 2026 14:46:57 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxObDRhRmNEUk85OEswR0tVd21DMVcyLVMyVG9qSy02R0lORUpaUG1BcTF4Qjh0c1FFVm9tV0FnVHlhMlZ1Ul83NmYwNEhkMUhOSHZXUFBqUmhkUnFhQUxZT3AtTFp0T2pfQ096VVNKbW8zU0VFODlMYXJYb18xZjR4QnlLMlRXNk5NMjJ6bFFCeDhkQkMxQTZJQk5NNEhNb1kxQ2l1ZnVlWUV2MGZnSmhPcHpGc0k1dENqNkE?oc=5" target="_blank">Retraites : les députés rejettent la sous-indexation des pensions</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Pourquoi la création d'entreprise bat un nouveau record malgré l'incertitude économique - Les Echos](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQWUtYVDBsRHAwalF4UmFHd0VIMjFXSlBKd2FIVGthU0t2dC1XM3ZJYWVKM3BldU9hbHJVaFVaM0xvWXpYLXFNVVlQWEhKMEt0LU9tWm9OQ3JXLXhoR2xjUlIyaGcwQXBuLWIwZE5WSXRBZGxTQk5lS3NIbHBuVkRIYVRhQ2Q5Q2t1NThYdmVXTDlmOFl1REhSb09Sc09QaUg3WGhMNDhWd0kxRWVzX2xfaDhqWFJLTWVRWFJOTjhQblZ6QkhtQjhKS0M1UU42NjlHZ1ZlYnA0N3RHSzJGVVE?oc=5)
+
+`Fri, 16 Oct 2026 15:27:43 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi3gFBVV95cUxQWUtYVDBsRHAwalF4UmFHd0VIMjFXSlBKd2FIVGthU0t2dC1XM3ZJYWVKM3BldU9hbHJVaFVaM0xvWXpYLXFNVVlQWEhKMEt0LU9tWm9OQ3JXLXhoR2xjUlIyaGcwQXBuLWIwZE5WSXRBZGxTQk5lS3NIbHBuVkRIYVRhQ2Q5Q2t1NThYdmVXTDlmOFl1REhSb09Sc09QaUg3WGhMNDhWd0kxRWVzX2xfaDhqWFJLTWVRWFJOTjhQblZ6QkhtQjhKS0M1UU42NjlHZ1ZlYnA0N3RHSzJGVVE?oc=5" target="_blank">Pourquoi la création d'entreprise bat un nouveau record malgré l'incertitude économique</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
