@@ -1,7 +1,31 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Fri, 16 Oct 2026 19:44:41 +0000`
+> Derniere mise a jour : `Sat, 17 Oct 2026 12:47:25 +0000`
 > 143 articles (30 derniers jours)
+
+---
+
+### [Les mots écos - Présidentielle 2027 : C'est quoi la dette publique et le déficit public ? - Les Echos](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOWjVYbUJRb0psOWpVRkJDRnJOcHZ5ZEc3bjJXZGxEMUNJV1VPSHpDMVRJNmJWMWVuOFFyUy1aMTJSem4taUhxYzRSd1cxcENlelBqc2pvSkxkUjg2aFRTMlVnM3psa04wMExBeVk3cGE0bUlJUFQtRmdMc05BX01kR29ueUdIeEhuaTRtTkk1QnBGSTJvcE1BXy1Rd2FGeGRWZ2NZNkZHVTR2QW1XWnFJbmxQQXAzNkNfajlIaEFya2puWTJWZ2xmb1NFQjJEVVNURnd4dzlGR2RfcHF4X3lOaw?oc=5)
+
+`Sat, 17 Oct 2026 08:00:09 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi4AFBVV95cUxOWjVYbUJRb0psOWpVRkJDRnJOcHZ5ZEc3bjJXZGxEMUNJV1VPSHpDMVRJNmJWMWVuOFFyUy1aMTJSem4taUhxYzRSd1cxcENlelBqc2pvSkxkUjg2aFRTMlVnM3psa04wMExBeVk3cGE0bUlJUFQtRmdMc05BX01kR29ueUdIeEhuaTRtTkk1QnBGSTJvcE1BXy1Rd2FGeGRWZ2NZNkZHVTR2QW1XWnFJbmxQQXAzNkNfajlIaEFya2puWTJWZ2xmb1NFQjJEVVNURnd4dzlGR2RfcHF4X3lOaw?oc=5" target="_blank">Les mots écos - Présidentielle 2027 : C'est quoi la dette publique et le déficit public ?</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [DIRECT - Mobilisation du 17 octobre : Des manifestants pénètrent dans le hall de la mairie de Marseille - Les Echos](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOX3RfbVNjOTJ5ZzRKQkZzZGRHd2hzMF9Ea2tHbzlZTl9WRTZFRGRET2JKQlBsUWtVbHhTb1d2bzJ0R1hDMU9QMTRLMkxTNEJ3RzJsMTUwVE5QcEZPdGpncnNLZXFiUFBYTUNFWHlBdDZlSmllM0RMSk1LcmNqV1lWME1SWk44UVBncVlJN0ctclREVnFnZDZ5WEhMbW83Q2RtXzMwS1dpNkhXRmswSEdvdE9DRkVsV0lJb0ZEZ1pkWDFwLUlIZjNXc01DYzBBNUl4V2lOWHFwRWh3Qktl?oc=5)
+
+`Sat, 17 Oct 2026 09:23:33 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi3AFBVV95cUxOX3RfbVNjOTJ5ZzRKQkZzZGRHd2hzMF9Ea2tHbzlZTl9WRTZFRGRET2JKQlBsUWtVbHhTb1d2bzJ0R1hDMU9QMTRLMkxTNEJ3RzJsMTUwVE5QcEZPdGpncnNLZXFiUFBYTUNFWHlBdDZlSmllM0RMSk1LcmNqV1lWME1SWk44UVBncVlJN0ctclREVnFnZDZ5WEhMbW83Q2RtXzMwS1dpNkhXRmswSEdvdE9DRkVsV0lJb0ZEZ1pkWDFwLUlIZjNXc01DYzBBNUl4V2lOWHFwRWh3Qktl?oc=5" target="_blank">DIRECT - Mobilisation du 17 octobre : Des manifestants pénètrent dans le hall de la mairie de Marseille</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Mobilisation du 17 octobre : la vie chère plus que jamais au coeur des préoccupations des Français - Les Echos](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPa01MODRnM2V2d2RDcUtRQ3RETk1jZTNuWnZBUjM5WlQyTlFzVDN2NnNCZ2ZiMDVYYmsyMXhvTkNfREE5LTV2QjFGbkw0ZnRjdUQxdmQ2amJyODMxNXRtX0Z5WEdWeWsyNWh1VWQxanBkMmVaQTZHTXNlMjJFc3NHTVFtOGZVdG1pYmtveG10V3Y2X1JtQ2R2TmNSemJodDJfOXRWUHVJbFJIMHo4Vk9DR3pMUkY5WXp5Rk14VXcyR1ZaY19mZHFKdE5yeGhReFFZNnlBRHNBVk1NRk5aWEFheE1GT2t0YzgyNWtQSg?oc=5)
+
+`Sat, 17 Oct 2026 06:05:08 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi7AFBVV95cUxPa01MODRnM2V2d2RDcUtRQ3RETk1jZTNuWnZBUjM5WlQyTlFzVDN2NnNCZ2ZiMDVYYmsyMXhvTkNfREE5LTV2QjFGbkw0ZnRjdUQxdmQ2amJyODMxNXRtX0Z5WEdWeWsyNWh1VWQxanBkMmVaQTZHTXNlMjJFc3NHTVFtOGZVdG1pYmtveG10V3Y2X1JtQ2R2TmNSemJodDJfOXRWUHVJbFJIMHo4Vk9DR3pMUkY5WXp5Rk14VXcyR1ZaY19mZHFKdE5yeGhReFFZNnlBRHNBVk1NRk5aWEFheE1GT2t0YzgyNWtQSg?oc=5" target="_blank">Mobilisation du 17 octobre : la vie chère plus que jamais au coeur des préoccupations des Français</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -1122,29 +1146,5 @@
 `Thu, 17 Sep 2026 13:45:54 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxOZEJacmlFUERxMHM1cUhKNXA3THlKa2M2WWd0WUNXNTltbmlGNXNScVp1eVN1OU9MX1I3Y0Z1eGRQbDVpQzhoRHVBS2phZGdEbmgxRV9ISUdrYTdyUTI0QU04VkNrX1dhZFBOUW55ZFJuaDJEUmlPY0syX3czQlFMVzhXbGxHaGdJem1QT3ViSkE0ajVjaFpTVm1OSHNZUEZpWUZGLVl3YzRzMkRfaHlSMW1sTTlyaDQ?oc=5" target="_blank">Productivité : comment la France peut rattraper son retard</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Allocations familiales, APL, prime d'activité : ces pistes d'économies sur la table au-delà des retraites - Les Echos](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNTWtzV3hfRDlQQ2ppeXFsaXBlWlZjYTg0cURqX09WTG5DWkpTOG55ZGNSaEVJQm1PdE9hUTJ3ZEU1OUE3LTRsdFcwLUpQNnVSRjZpcm5ZVHF5aXBvNms5OXVUc3g4X1AzdTREaEVhWDd6YTF0OG9aN09Tams2MWFDRlNTR3VzVXUtdWhxampkRnk0anlNVDF1ZmRXVzNCLS1Fcnd6YlR5N0dzLTE5b2pMRWRkSWlpd1ctZXY0dzk5X0RCNG1tZGgxdjdUZjVxcTgzVmxLaDRac212dUJ2YjM2SVVoRXdkTXF1a1M2YURaanFkaG51TVhn?oc=5)
-
-`Thu, 17 Sep 2026 04:00:09 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi9wFBVV95cUxNTWtzV3hfRDlQQ2ppeXFsaXBlWlZjYTg0cURqX09WTG5DWkpTOG55ZGNSaEVJQm1PdE9hUTJ3ZEU1OUE3LTRsdFcwLUpQNnVSRjZpcm5ZVHF5aXBvNms5OXVUc3g4X1AzdTREaEVhWDd6YTF0OG9aN09Tams2MWFDRlNTR3VzVXUtdWhxampkRnk0anlNVDF1ZmRXVzNCLS1Fcnd6YlR5N0dzLTE5b2pMRWRkSWlpd1ctZXY0dzk5X0RCNG1tZGgxdjdUZjVxcTgzVmxLaDRac212dUJ2YjM2SVVoRXdkTXF1a1M2YURaanFkaG51TVhn?oc=5" target="_blank">Allocations familiales, APL, prime d'activité : ces pistes d'économies sur la table au-delà des retraites</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Comment l'IA est devenu un nouveau terrain des négociations sociales en entreprise - Les Echos](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQlZYX0huZGdBbEl5ZVl6UUxDY05SNzVqeVF1ZEpyaVdWa0lDejlYR1JrajJycXhCcHRhS1dVczhCaVVOV05fRm00STl4dC04bVZ2dEVMUEN0emhsYkJjbWwzU0Q3OUZMcXR1WG1HQV9OZVlkdVZ6MDFJNklHNkNiVmF2WW5JYkNyU1JjWjBEQUl5a2JYaGxoTVdsZW8tYVlPLVdHNnZNWmJUV1VIR0Y0R0FpbmhHU0Z5VVYxZE01RjU0WlQwTUhkVDZWOEVWUDNnZVE?oc=5)
-
-`Thu, 17 Sep 2026 05:00:34 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQlZYX0huZGdBbEl5ZVl6UUxDY05SNzVqeVF1ZEpyaVdWa0lDejlYR1JrajJycXhCcHRhS1dVczhCaVVOV05fRm00STl4dC04bVZ2dEVMUEN0emhsYkJjbWwzU0Q3OUZMcXR1WG1HQV9OZVlkdVZ6MDFJNklHNkNiVmF2WW5JYkNyU1JjWjBEQUl5a2JYaGxoTVdsZW8tYVlPLVdHNnZNWmJUV1VIR0Y0R0FpbmhHU0Z5VVYxZE01RjU0WlQwTUhkVDZWOEVWUDNnZVE?oc=5" target="_blank">Comment l'IA est devenu un nouveau terrain des négociations sociales en entreprise</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Budget 2027 : combien les ministres français sont-ils payés par rapport à leurs homologues européens - Les Echos](https://news.google.com/rss/articles/CBMi9gFBVV95cUxObzNyRURuUjF1RmNlSURNd2U5bDZ2UE9mMkhnZW9yeVc2RG9YWVpxdjIyTEVpUGluaHAyYkc3UTNwUG5rQ1ZlcXNRekVrbGZlcWdRdU5PbE1vSHZ6R3lxLVUzc1MtWVcwWFRrLVBpaW11RzlCc2dwcGtnWkJ1ckhKRnJVN3VvRXFkSHZvUldJcnRhcjl3V2VRSTI0MmthZ1ZJQVNpOUhWUzZGd0tiLTdfd1hQQWxtRnZmYkxkY2NCbVRab01lQy1KZHU3QUo1UERaSmMzUDJVdFBJdC0xcVhiaHNrWWdhNjBPeEh6bjhLSDlEbklfZ2c?oc=5)
-
-`Thu, 17 Sep 2026 09:48:37 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi9gFBVV95cUxObzNyRURuUjF1RmNlSURNd2U5bDZ2UE9mMkhnZW9yeVc2RG9YWVpxdjIyTEVpUGluaHAyYkc3UTNwUG5rQ1ZlcXNRekVrbGZlcWdRdU5PbE1vSHZ6R3lxLVUzc1MtWVcwWFRrLVBpaW11RzlCc2dwcGtnWkJ1ckhKRnJVN3VvRXFkSHZvUldJcnRhcjl3V2VRSTI0MmthZ1ZJQVNpOUhWUzZGd0tiLTdfd1hQQWxtRnZmYkxkY2NCbVRab01lQy1KZHU3QUo1UERaSmMzUDJVdFBJdC0xcVhiaHNrWWdhNjBPeEh6bjhLSDlEbklfZ2c?oc=5" target="_blank">Budget 2027 : combien les ministres français sont-ils payés par rapport à leurs homologues européens</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
