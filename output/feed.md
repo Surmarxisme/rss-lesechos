@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Sat, 17 Oct 2026 12:47:25 +0000`
-> 143 articles (30 derniers jours)
+> Derniere mise a jour : `Sun, 18 Oct 2026 13:04:56 +0000`
+> 137 articles (30 derniers jours)
+
+---
+
+### [DIRECT - Mobilisation du 17 octobre : le pays se réveille groggy au lendemain d'une journée de chaos - Les Echos](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNUkhPUDREeFJnVUU5YVpranAzZHh6RnRlNWw0MUpsY05kT1hQazVqVzVvY0JvMjZTWGE3ei1TZE91WFM5WnZqbEM4ODZITkZZUTBiUXlHZjctcjgtdnRPX1JoQjlhN0MxV1hUUjAwZktvUDduTy14bWJrT3MycTVlNG05MmhOaFNqOXROaHF2UGdyOUpCcFItSVlMcFBFMTYySTFuVWpKZWR2bnowdEdPaHMxRWIyNE5TWmtkU2duSXEzVV83TENOTDZGZzRJTTZDa3BvbEhKSmJhbFkyNjROdlFuV09aWUlBY1R5dC13a0t6dFd2Wm0w?oc=5)
+
+`Sun, 18 Oct 2026 09:16:54 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi9wFBVV95cUxNUkhPUDREeFJnVUU5YVpranAzZHh6RnRlNWw0MUpsY05kT1hQazVqVzVvY0JvMjZTWGE3ei1TZE91WFM5WnZqbEM4ODZITkZZUTBiUXlHZjctcjgtdnRPX1JoQjlhN0MxV1hUUjAwZktvUDduTy14bWJrT3MycTVlNG05MmhOaFNqOXROaHF2UGdyOUpCcFItSVlMcFBFMTYySTFuVWpKZWR2bnowdEdPaHMxRWIyNE5TWmtkU2duSXEzVV83TENOTDZGZzRJTTZDa3BvbEhKSmJhbFkyNjROdlFuV09aWUlBY1R5dC13a0t6dFd2Wm0w?oc=5" target="_blank">DIRECT - Mobilisation du 17 octobre : le pays se réveille groggy au lendemain d'une journée de chaos</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -1090,61 +1098,5 @@
 `Fri, 18 Sep 2026 15:19:28 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi8AFBVV95cUxNeFY4QWgzUjlVZ3pzUHNvQXY3bEhvUXVxRC1vQjJCbWJtYW9iRzR5NUFOams3TmtwNHNxZ1MwU0ROdTlyZjhKMkdydExEblZqc0ozQVI5SkNKZ0N2NkFYLTlxU093VEhQSEtXUHpXUmtCa01Xd0loaVFQY1pmQWZseXVOTUhLNzRwM1UwajJrems0WTBzb1otY1NPajQtV2k4d0lKVFM1Y1dQc0x1dzMyZmZoSDU0YVJ0bFZMR0pkNmNqeGpVZHRwSllKQ2hrZU1VQXg4RU9lUjFNb1FncGFMWlo5VmViOWpndjFCR2xmeno?oc=5" target="_blank">Budget 2027 : ce que cachent les 54 milliards d'euros d'efforts mis en avant par Sébastien Lecornu</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Retraites, allocations, arrêts maladie : comment le gouvernement veut serrer la vis sur les dépenses sociales - lesechos.fr](https://news.google.com/rss/articles/CBMi8gFBVV95cUxOVlVQZEUxUGV2NXBLYm5JcEJGakdFMlJTdnJBQVFNNU1MSXBNRzBSc0FfMndSdTltcmM5eUxsRkYxTHdJMDF3OS1CVHJBSzlzQVRZelBkeDJ1R3JSUDR1RFZYUm10em1fellhS20wa2pfN1hTNkdnN1dsRnlRd2VEdlBqbnJra3QzNlVWZlBPc0RVbkFYRFcwWnF2cXJkSlQ2OVh6Tk5uaFJfRjJNZ2FHbEo1a3RTMlpEdjMtYmUwb1llQWlxOFcwSWRablpISjV6WE90T0hKeFo3Y2llWVRqTEk1ZVRqZl9vVUFtQlhjMGxjQQ?oc=5)
-
-`Fri, 18 Sep 2026 04:30:28 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi8gFBVV95cUxOVlVQZEUxUGV2NXBLYm5JcEJGakdFMlJTdnJBQVFNNU1MSXBNRzBSc0FfMndSdTltcmM5eUxsRkYxTHdJMDF3OS1CVHJBSzlzQVRZelBkeDJ1R3JSUDR1RFZYUm10em1fellhS20wa2pfN1hTNkdnN1dsRnlRd2VEdlBqbnJra3QzNlVWZlBPc0RVbkFYRFcwWnF2cXJkSlQ2OVh6Tk5uaFJfRjJNZ2FHbEo1a3RTMlpEdjMtYmUwb1llQWlxOFcwSWRablpISjV6WE90T0hKeFo3Y2llWVRqTEk1ZVRqZl9vVUFtQlhjMGxjQQ?oc=5" target="_blank">Retraites, allocations, arrêts maladie : comment le gouvernement veut serrer la vis sur les dépenses sociales</a>&nbsp;&nbsp;<font color="#6f6f6f">lesechos.fr</font>
-
----
-
-### [Arrêts maladie : quels sont les secteurs les mieux couverts ? - lesechos.fr](https://news.google.com/rss/articles/CBMisgFBVV95cUxPWC1BelBXcVNneDFudzRrRi1aeHVIcUZCOVJqZzJ5Y1FKYUhBVTJJT1Jxb3NHM3NlcVczYmFST0gxRlkzSWFINnE3cTJ4RDB6d0h2dl9WbTh0OF9LUWhOLTdsbHhRY0lYY3BBLW9SRE5HQnA3RlF6RzZwWXBBSS1USGtiTWlPR3pUbWEwcUtNVkRWWWM4MDBIVktMZUJSYzZBVExxUVhFSlVndTVyaUhOQTdB?oc=5)
-
-`Fri, 18 Sep 2026 04:30:08 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxPWC1BelBXcVNneDFudzRrRi1aeHVIcUZCOVJqZzJ5Y1FKYUhBVTJJT1Jxb3NHM3NlcVczYmFST0gxRlkzSWFINnE3cTJ4RDB6d0h2dl9WbTh0OF9LUWhOLTdsbHhRY0lYY3BBLW9SRE5HQnA3RlF6RzZwWXBBSS1USGtiTWlPR3pUbWEwcUtNVkRWWWM4MDBIVktMZUJSYzZBVExxUVhFSlVndTVyaUhOQTdB?oc=5" target="_blank">Arrêts maladie : quels sont les secteurs les mieux couverts ?</a>&nbsp;&nbsp;<font color="#6f6f6f">lesechos.fr</font>
-
----
-
-### [« Droit dans le mur », « potion d'austérité »… Les choix budgétaires de Lecornu pour 2027 sous le feu des critiques - lesechos.fr](https://news.google.com/rss/articles/CBMi_gFBVV95cUxOaVRJMnBxWWJtY1RUQUNjdjZrSGR2aklfNG95cjUzbHBNUzk1UTlDY1NMZGFhczI4RWlaSWR3Z282cU5vUVk3ZUZzaERfSVV6VzJzYWtRMDA3aXBYMkFEcU9YTnJVd1Z2aGZoV1lLZFlfbTktcmJUZ3gybklTamhmUEVqNkt3SUVGRFgxTmxpd1RqNjNBM1Q0UzRBc1MwNmNJRnhfRFNXdXQ3cVU4UkFQX1hBZ0UwVktDOFNCU05BckIxSWRMcDBSNXhDdTBFQWhrQXBZNTB2NEtqTkxCOGFKcU9hWTNaU3M4aXRNb3M4NjJNZnhPUkZZSl9qU3ZDUQ?oc=5)
-
-`Fri, 18 Sep 2026 05:50:21 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi_gFBVV95cUxOaVRJMnBxWWJtY1RUQUNjdjZrSGR2aklfNG95cjUzbHBNUzk1UTlDY1NMZGFhczI4RWlaSWR3Z282cU5vUVk3ZUZzaERfSVV6VzJzYWtRMDA3aXBYMkFEcU9YTnJVd1Z2aGZoV1lLZFlfbTktcmJUZ3gybklTamhmUEVqNkt3SUVGRFgxTmxpd1RqNjNBM1Q0UzRBc1MwNmNJRnhfRFNXdXQ3cVU4UkFQX1hBZ0UwVktDOFNCU05BckIxSWRMcDBSNXhDdTBFQWhrQXBZNTB2NEtqTkxCOGFKcU9hWTNaU3M4aXRNb3M4NjJNZnhPUkZZSl9qU3ZDUQ?oc=5" target="_blank">« Droit dans le mur », « potion d'austérité »… Les choix budgétaires de Lecornu pour 2027 sous le feu des critiques</a>&nbsp;&nbsp;<font color="#6f6f6f">lesechos.fr</font>
-
----
-
-### [Retraites, « repentis » fiscaux, déficit, prestations des étrangers : les principales annonces de Sébastien Lecornu sur le budget 2027 - Les Echos](https://news.google.com/rss/articles/CBMimgJBVV95cUxObS01eGc2X0tVRHctZnloYVZ5MTBPTGZlNjhqLWVzUV9QTjBoZGdrRmpyV0YwbFpqdnpBdXU2VDdrNGJZRHRYaVJFa3M1TnFQaUM3RVNfLWhCc2duQW9ubmlBb0wwYmJTVkpUNmh6aUlqbWpZM1JTVzBwWm1YZWo5VlQzek9feHRtWnlCZzZwM0J1YUY3WEZPMDhXUVYtXzBWeGl6Tnd1d2ZzSzQ1Uzdoc1pLdzBiWWdTZmlrc2t1RGNfb0x1SkZsT3dWb0FYN25NMlBBRjFIU1ZzNkhqNFVKV3lTazV2NVhuaTNBNm5xU2dsRkZtanZYbXJkWEhxUWg3aVFqWldfdFBzY1NSYjhSQVhuNVhnOWZ2MWc?oc=5)
-
-`Thu, 17 Sep 2026 16:30:15 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMimgJBVV95cUxObS01eGc2X0tVRHctZnloYVZ5MTBPTGZlNjhqLWVzUV9QTjBoZGdrRmpyV0YwbFpqdnpBdXU2VDdrNGJZRHRYaVJFa3M1TnFQaUM3RVNfLWhCc2duQW9ubmlBb0wwYmJTVkpUNmh6aUlqbWpZM1JTVzBwWm1YZWo5VlQzek9feHRtWnlCZzZwM0J1YUY3WEZPMDhXUVYtXzBWeGl6Tnd1d2ZzSzQ1Uzdoc1pLdzBiWWdTZmlrc2t1RGNfb0x1SkZsT3dWb0FYN25NMlBBRjFIU1ZzNkhqNFVKV3lTazV2NVhuaTNBNm5xU2dsRkZtanZYbXJkWEhxUWg3aVFqWldfdFBzY1NSYjhSQVhuNVhnOWZ2MWc?oc=5" target="_blank">Retraites, « repentis » fiscaux, déficit, prestations des étrangers : les principales annonces de Sébastien Lecornu sur le budget 2027</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Budget : Lecornu acte un nouveau dérapage du déficit et promet un effort massif de redressement en 2027 - Les Echos](https://news.google.com/rss/articles/CBMi-gFBVV95cUxOVG1HZF8tZlpoYVd1UzZRV0tpcllPWG1ZMlhBWWJrRGVIM2FMdlBfejV4dElyRFBoQTB5WXhNRnBHLTFxNWhROHBiMmhRenQ5VS1IYkMyay1KMDV2cFd0UEdfOFNkeldiTUROenJKNXNXajc2Zm1UMGlFUkpfQUlUVjBHR3ZTTmdxTndkWWZRUF9ESjg2bHF1QlBXMElvWHRYLWc5VkJrMjVwaFlMUFhiWk9IWVB2YVNSZG1aTWlGRHdJSVc3TUtQZWE2Ylo1dGx2dVZzYUw5d2QyY2JvOEw4eXB2cVNZaUtIVFhRS083aHN4dkV5WFRpS0dR?oc=5)
-
-`Thu, 17 Sep 2026 17:26:24 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi-gFBVV95cUxOVG1HZF8tZlpoYVd1UzZRV0tpcllPWG1ZMlhBWWJrRGVIM2FMdlBfejV4dElyRFBoQTB5WXhNRnBHLTFxNWhROHBiMmhRenQ5VS1IYkMyay1KMDV2cFd0UEdfOFNkeldiTUROenJKNXNXajc2Zm1UMGlFUkpfQUlUVjBHR3ZTTmdxTndkWWZRUF9ESjg2bHF1QlBXMElvWHRYLWc5VkJrMjVwaFlMUFhiWk9IWVB2YVNSZG1aTWlGRHdJSVc3TUtQZWE2Ylo1dGx2dVZzYUw5d2QyY2JvOEw4eXB2cVNZaUtIVFhRS083aHN4dkV5WFRpS0dR?oc=5" target="_blank">Budget : Lecornu acte un nouveau dérapage du déficit et promet un effort massif de redressement en 2027</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Contribution de la France au budget de l'UE : Sébastien Lecornu peut-il obtenir gain de cause à Bruxelles - Les Echos](https://news.google.com/rss/articles/CBMi-wFBVV95cUxOcGNoWkQ3NmdDc0x0aVFtbGw1c05jXzhmUEJydjUybThCdFA2VWdoRGJYNFF3RTVGRTNlNUl2ZnI4b3NZNlY0dGFtclQ3V3FiS0xrVktYN0pGNTIzNGl4S19kbFFqMVpmZU5WblN1Q091UkZfbTRPS1NqZGFoekctQk1QcXFLdHpOQ3d0c3pTa0xiQzN0T2FreUpVM19xaF9MZVRYSFVIVjhMZEVCclFTZV9HQ3F5djQzdDFuRzNTM3Jjckk1dzlFVmlFYXdBS1FKeTFReld5LXU1eFVleHBrekI4QlRMcVdnZmwxT04zWm9ybnVXUVZGeXRkVQ?oc=5)
-
-`Thu, 17 Sep 2026 14:45:09 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi-wFBVV95cUxOcGNoWkQ3NmdDc0x0aVFtbGw1c05jXzhmUEJydjUybThCdFA2VWdoRGJYNFF3RTVGRTNlNUl2ZnI4b3NZNlY0dGFtclQ3V3FiS0xrVktYN0pGNTIzNGl4S19kbFFqMVpmZU5WblN1Q091UkZfbTRPS1NqZGFoekctQk1QcXFLdHpOQ3d0c3pTa0xiQzN0T2FreUpVM19xaF9MZVRYSFVIVjhMZEVCclFTZV9HQ3F5djQzdDFuRzNTM3Jjckk1dzlFVmlFYXdBS1FKeTFReld5LXU1eFVleHBrekI4QlRMcVdnZmwxT04zWm9ybnVXUVZGeXRkVQ?oc=5" target="_blank">Contribution de la France au budget de l'UE : Sébastien Lecornu peut-il obtenir gain de cause à Bruxelles</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Productivité : comment la France peut rattraper son retard - Les Echos](https://news.google.com/rss/articles/CBMitwFBVV95cUxOZEJacmlFUERxMHM1cUhKNXA3THlKa2M2WWd0WUNXNTltbmlGNXNScVp1eVN1OU9MX1I3Y0Z1eGRQbDVpQzhoRHVBS2phZGdEbmgxRV9ISUdrYTdyUTI0QU04VkNrX1dhZFBOUW55ZFJuaDJEUmlPY0syX3czQlFMVzhXbGxHaGdJem1QT3ViSkE0ajVjaFpTVm1OSHNZUEZpWUZGLVl3YzRzMkRfaHlSMW1sTTlyaDQ?oc=5)
-
-`Thu, 17 Sep 2026 13:45:54 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxOZEJacmlFUERxMHM1cUhKNXA3THlKa2M2WWd0WUNXNTltbmlGNXNScVp1eVN1OU9MX1I3Y0Z1eGRQbDVpQzhoRHVBS2phZGdEbmgxRV9ISUdrYTdyUTI0QU04VkNrX1dhZFBOUW55ZFJuaDJEUmlPY0syX3czQlFMVzhXbGxHaGdJem1QT3ViSkE0ajVjaFpTVm1OSHNZUEZpWUZGLVl3YzRzMkRfaHlSMW1sTTlyaDQ?oc=5" target="_blank">Productivité : comment la France peut rattraper son retard</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
