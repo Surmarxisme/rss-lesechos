@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Mon, 19 Oct 2026 11:19:21 +0000`
-> 132 articles (30 derniers jours)
+> Derniere mise a jour : `Mon, 19 Oct 2026 16:21:30 +0000`
+> 133 articles (30 derniers jours)
+
+---
+
+### [Budget 2027 : le coup de rabot prévu sur l'aide aux personnes âgées fragiles fait polémique - Les Echos](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNaXF1bnhmNFhBRnQ1MXVKc0Y5NFdfLWVQYkJ5M2dVcXMtWTVsQkpDVDV3QTkwTzE4UnVXcFZkbUxiM0pWNjNMT21hV0tCMW1lLVRVVTh2U3NiZzZnYkhQcGNUamhFSzhzWnU0dFREaXpoS1Q3ZGxUTm9QM3VUcHZQcGdYdnVLNmtCYlJtNFlZdldseW5NV2JfN2pRNlpfTDFUaWozQ2lmS3JkODJoWGE1M0JzeEFZczBSd0hvYXgyaHNkSGJxVzVCZ1M1TVFjdzVES3FUTURfUlIzZHc?oc=5)
+
+`Mon, 19 Oct 2026 15:55:34 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi2wFBVV95cUxNaXF1bnhmNFhBRnQ1MXVKc0Y5NFdfLWVQYkJ5M2dVcXMtWTVsQkpDVDV3QTkwTzE4UnVXcFZkbUxiM0pWNjNMT21hV0tCMW1lLVRVVTh2U3NiZzZnYkhQcGNUamhFSzhzWnU0dFREaXpoS1Q3ZGxUTm9QM3VUcHZQcGdYdnVLNmtCYlJtNFlZdldseW5NV2JfN2pRNlpfTDFUaWozQ2lmS3JkODJoWGE1M0JzeEFZczBSd0hvYXgyaHNkSGJxVzVCZ1M1TVFjdzVES3FUTURfUlIzZHc?oc=5" target="_blank">Budget 2027 : le coup de rabot prévu sur l'aide aux personnes âgées fragiles fait polémique</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
