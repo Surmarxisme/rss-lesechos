@@ -1,7 +1,7 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Sun, 18 Oct 2026 13:04:56 +0000`
-> 137 articles (30 derniers jours)
+> Derniere mise a jour : `Mon, 19 Oct 2026 11:19:21 +0000`
+> 132 articles (30 derniers jours)
 
 ---
 
@@ -1058,45 +1058,5 @@
 `Sun, 20 Sep 2026 07:15:12 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZHdkbXRDcFJJUDJIZDBWRUdaczN5QkZBWDk1YUh2M1lQb0RvYmhJTVdIZ2lvSjU1dURVT2lvZEJpYldFbmpXTDVXYnFwVy1HQkRGb2JZeWtDbFNMLXlKcXA1eDg1aHZlV2NocDhhT3RNc2hWNTR2bjA0SkpibzlGRF9hRHRmNjdtNk9xVDJxNDc5cmVyRkVfQU5PcDhrWVpNbHBZV2w5MlZaa18xcmxNUmc4SnRfTGFJaWRjcU1DWVlaZUJ2aF8xNnVBbE1KX2NDRFNlbWtBN1F1MTJn?oc=5" target="_blank">Fonctionnaires : la grogne monte face au nouveau gel des salaires prévu dans le budget 2027</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [« Détérioration persistante des perspectives budgétaires » : l'agence Scope Ratings dégrade la note de la France - Les Echos](https://news.google.com/rss/articles/CBMi_wFBVV95cUxOTG56LWVtMlpRNVUxc2h5aWRVZmVoZUlLeno3YWFaRUxHVFRsWnFkZUEwM0g5SDVGUlV0TlFSdVU5QUF3NTg0dnJySHFXS3FQVUxaWVZYVFdrMkxuNi1QQnBqSEQyTnpUR0hqLWxNcDMyREVqQ3lMeGEtT2t4TVVEWnhTdTEzTTRwRmVYYjV0c2xid1dtVVZnYnk5UUROQVBTNHdKN3BpUHFRb0h0Uld0TGZXakpHeWdobU4wSTdpS1pkNmg5Y1E4Y3diWGpLVk1ybHNFU2lEcURrRnJ0YmtMY1djM3hWdXdkY1JkY1BzZkpfaTFnaE5jSkFyT3RnM00?oc=5)
-
-`Sat, 19 Sep 2026 09:01:19 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi_wFBVV95cUxOTG56LWVtMlpRNVUxc2h5aWRVZmVoZUlLeno3YWFaRUxHVFRsWnFkZUEwM0g5SDVGUlV0TlFSdVU5QUF3NTg0dnJySHFXS3FQVUxaWVZYVFdrMkxuNi1QQnBqSEQyTnpUR0hqLWxNcDMyREVqQ3lMeGEtT2t4TVVEWnhTdTEzTTRwRmVYYjV0c2xid1dtVVZnYnk5UUROQVBTNHdKN3BpUHFRb0h0Uld0TGZXakpHeWdobU4wSTdpS1pkNmg5Y1E4Y3diWGpLVk1ybHNFU2lEcURrRnJ0YmtMY1djM3hWdXdkY1JkY1BzZkpfaTFnaE5jSkFyT3RnM00?oc=5" target="_blank">« Détérioration persistante des perspectives budgétaires » : l'agence Scope Ratings dégrade la note de la France</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Budget 2027 : le gouvernement veut plafonner l'avantage fiscal des retraités à 3.000 euros - Les Echos](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPX2NvTV9HVm1xTGFqZnpjVU5BaFFuVFlwQ0l5el9uckRiWGRweF91NVJacFN4Q2NISFVDdDJodV9qWXpsYl9LLUQxal85VDU0WHRGT3JESm9raFdTTk5PejZMMzFPYXhVRVgyZWV4VHlfczhPN19TSV92N0dlaTdRZ0VRemFfNEZaUVN3UF9PX1Y4T0NuUEVoNU85RmNacWFRV0U2cmhqWEtZc3dwNDFic2sxaUNydkxvLVIwaDVfSjAzdUlhVjlsWXEzREszblIwaFFpSXc1TWVxVUc0aGxtWldhR2J1Zw?oc=5)
-
-`Sat, 19 Sep 2026 06:55:11 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi5gFBVV95cUxPX2NvTV9HVm1xTGFqZnpjVU5BaFFuVFlwQ0l5el9uckRiWGRweF91NVJacFN4Q2NISFVDdDJodV9qWXpsYl9LLUQxal85VDU0WHRGT3JESm9raFdTTk5PejZMMzFPYXhVRVgyZWV4VHlfczhPN19TSV92N0dlaTdRZ0VRemFfNEZaUVN3UF9PX1Y4T0NuUEVoNU85RmNacWFRV0U2cmhqWEtZc3dwNDFic2sxaUNydkxvLVIwaDVfSjAzdUlhVjlsWXEzREszblIwaFFpSXc1TWVxVUc0aGxtWldhR2J1Zw?oc=5" target="_blank">Budget 2027 : le gouvernement veut plafonner l'avantage fiscal des retraités à 3.000 euros</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Budget 2027 : les impôts vont bien augmenter et la dette va s'envoler - Les Echos](https://news.google.com/rss/articles/CBMixwFBVV95cUxQZS1qMDY4azM2czM0WTA0cXJaYjFWUm95cUxxWW9teGRpOHlBcnVtc3lqMzlpZzRGTlQwUGRqWklEZFVzaGRpWWhqNTYydEZ0b09WaFVWV2ZDb1BPMXlLcVFjNk9yZUNvaTBOYjdIUlFuejFYUHhobmdoM1ZHSUZWaTlzSmg1SmgzMTgtMmdNcHgxNlJxYU9zd2YyUTVYTlVKMGJ1TGZ2blY1ZGpJQmdqMF9rQUdzcW1FT0hLTU04dmwwMFhtMWc0?oc=5)
-
-`Sat, 19 Sep 2026 10:59:00 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMixwFBVV95cUxQZS1qMDY4azM2czM0WTA0cXJaYjFWUm95cUxxWW9teGRpOHlBcnVtc3lqMzlpZzRGTlQwUGRqWklEZFVzaGRpWWhqNTYydEZ0b09WaFVWV2ZDb1BPMXlLcVFjNk9yZUNvaTBOYjdIUlFuejFYUHhobmdoM1ZHSUZWaTlzSmg1SmgzMTgtMmdNcHgxNlJxYU9zd2YyUTVYTlVKMGJ1TGZ2blY1ZGpJQmdqMF9rQUdzcW1FT0hLTU04dmwwMFhtMWc0?oc=5" target="_blank">Budget 2027 : les impôts vont bien augmenter et la dette va s'envoler</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [EXCLUSIF - Budget 2027 : comment Bercy veut alléger la facture de la surtaxe des grandes entreprises - Les Echos](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQbDJieXdleWR4VnMwM0Q1RzB5Ulh0WlA1WVJtUWFKUFROX1dfMFp3TUFucGFMRDVKSUhUaXZFQmlERl9Dd3hNa2ZRNkRrbklSSHZzdFJLR05ocFFFc2gxWmd2Rlk0TWIxRENQMXByUlFxRVlqS0p6MjRFWnNDQ0MyMXZPMVBIS294UGhyVnBVX1N4WU0xVGZEVGFtZzBjVmtKUDNPdkc1SElkN0hvS2RvbWg1dTZxb0ViOEdHX2tIbnhTRjVYUkwzbGlsRy05djZHdWM4cEhZRkJwbmo0dnQwMnIxbVVRSW9QeEFQemNWQk8tSk0?oc=5)
-
-`Sat, 19 Sep 2026 06:20:09 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi8wFBVV95cUxQbDJieXdleWR4VnMwM0Q1RzB5Ulh0WlA1WVJtUWFKUFROX1dfMFp3TUFucGFMRDVKSUhUaXZFQmlERl9Dd3hNa2ZRNkRrbklSSHZzdFJLR05ocFFFc2gxWmd2Rlk0TWIxRENQMXByUlFxRVlqS0p6MjRFWnNDQ0MyMXZPMVBIS294UGhyVnBVX1N4WU0xVGZEVGFtZzBjVmtKUDNPdkc1SElkN0hvS2RvbWg1dTZxb0ViOEdHX2tIbnhTRjVYUkwzbGlsRy05djZHdWM4cEhZRkJwbmo0dnQwMnIxbVVRSW9QeEFQemNWQk8tSk0?oc=5" target="_blank">EXCLUSIF - Budget 2027 : comment Bercy veut alléger la facture de la surtaxe des grandes entreprises</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Budget 2027 : ce que cachent les 54 milliards d'euros d'efforts mis en avant par Sébastien Lecornu - Les Echos](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNeFY4QWgzUjlVZ3pzUHNvQXY3bEhvUXVxRC1vQjJCbWJtYW9iRzR5NUFOams3TmtwNHNxZ1MwU0ROdTlyZjhKMkdydExEblZqc0ozQVI5SkNKZ0N2NkFYLTlxU093VEhQSEtXUHpXUmtCa01Xd0loaVFQY1pmQWZseXVOTUhLNzRwM1UwajJrems0WTBzb1otY1NPajQtV2k4d0lKVFM1Y1dQc0x1dzMyZmZoSDU0YVJ0bFZMR0pkNmNqeGpVZHRwSllKQ2hrZU1VQXg4RU9lUjFNb1FncGFMWlo5VmViOWpndjFCR2xmeno?oc=5)
-
-`Fri, 18 Sep 2026 15:19:28 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi8AFBVV95cUxNeFY4QWgzUjlVZ3pzUHNvQXY3bEhvUXVxRC1vQjJCbWJtYW9iRzR5NUFOams3TmtwNHNxZ1MwU0ROdTlyZjhKMkdydExEblZqc0ozQVI5SkNKZ0N2NkFYLTlxU093VEhQSEtXUHpXUmtCa01Xd0loaVFQY1pmQWZseXVOTUhLNzRwM1UwajJrems0WTBzb1otY1NPajQtV2k4d0lKVFM1Y1dQc0x1dzMyZmZoSDU0YVJ0bFZMR0pkNmNqeGpVZHRwSllKQ2hrZU1VQXg4RU9lUjFNb1FncGFMWlo5VmViOWpndjFCR2xmeno?oc=5" target="_blank">Budget 2027 : ce que cachent les 54 milliards d'euros d'efforts mis en avant par Sébastien Lecornu</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
