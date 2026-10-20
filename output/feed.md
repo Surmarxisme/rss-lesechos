@@ -1,7 +1,23 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Tue, 20 Oct 2026 10:28:18 +0000`
-> 134 articles (30 derniers jours)
+> Derniere mise a jour : `Tue, 20 Oct 2026 14:12:46 +0000`
+> 136 articles (30 derniers jours)
+
+---
+
+### [Canicules de l'été : quels secteurs d'activité ont été les plus impactés ? - Les Echos](https://news.google.com/rss/articles/CBMixwFBVV95cUxQLXg4NjBkX0wzakVtWjNHNWN2TGs3QVEyLWlHMHpIRjFWWHp4OG9zY0JXQ3RXZTZvc29XSDNuM2dfckxxVTRwVGVsZG91T3dCQ04xTUNBTTk2Z2lScml5ckRmVFZLUl9oQmdIUklNdFpNVndrei10RnhnSnJqcjdWRDRBb2JnZldtRFo4c01CQUZraHdVMUJBQ0V6SnEybW1BeVNHVzlFbHlTaldmazJaaHp6YTd0UzZkZHVJWWFfdUx2YWl1d0xV?oc=5)
+
+`Tue, 20 Oct 2026 12:51:26 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMixwFBVV95cUxQLXg4NjBkX0wzakVtWjNHNWN2TGs3QVEyLWlHMHpIRjFWWHp4OG9zY0JXQ3RXZTZvc29XSDNuM2dfckxxVTRwVGVsZG91T3dCQ04xTUNBTTk2Z2lScml5ckRmVFZLUl9oQmdIUklNdFpNVndrei10RnhnSnJqcjdWRDRBb2JnZldtRFo4c01CQUZraHdVMUJBQ0V6SnEybW1BeVNHVzlFbHlTaldmazJaaHp6YTd0UzZkZHVJWWFfdUx2YWl1d0xV?oc=5" target="_blank">Canicules de l'été : quels secteurs d'activité ont été les plus impactés ?</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Budget 2027 : les débats fiscaux s'éternisent à l'Assemblée nationale - Les Echos](https://news.google.com/rss/articles/CBMiygFBVV95cUxOUElsazEzUGNfem5uV1NGaURrNEZkMl9NWng3ZEpaemQ1Mm5sX3JhRkFPRlpQWDg1LTVvTVd5dUY1eF80djBxZnNUdDBidGY3S3FHWTl4Rk1Zc002T0VRZGptd3QyR0ZndVhJdEw1bzNVbDY0ZmM2cWxEdWp3RkptbFZibngxZEUxeGNhSFVxeUVzZ1p0V3Z1Q3ZvQ3RLUjhFTzVzQzlINUc5aDNjR3BKM25MQzdCck5XbmVHOWpMZmpoNEtEQ0ttMVhB?oc=5)
+
+`Tue, 20 Oct 2026 11:30:53 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxOUElsazEzUGNfem5uV1NGaURrNEZkMl9NWng3ZEpaemQ1Mm5sX3JhRkFPRlpQWDg1LTVvTVd5dUY1eF80djBxZnNUdDBidGY3S3FHWTl4Rk1Zc002T0VRZGptd3QyR0ZndVhJdEw1bzNVbDY0ZmM2cWxEdWp3RkptbFZibngxZEUxeGNhSFVxeUVzZ1p0V3Z1Q3ZvQ3RLUjhFTzVzQzlINUc5aDNjR3BKM25MQzdCck5XbmVHOWpMZmpoNEtEQ0ttMVhB?oc=5" target="_blank">Budget 2027 : les débats fiscaux s'éternisent à l'Assemblée nationale</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
