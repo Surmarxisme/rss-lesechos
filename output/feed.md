@@ -1,7 +1,23 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Mon, 19 Oct 2026 21:16:58 +0000`
-> 133 articles (30 derniers jours)
+> Derniere mise a jour : `Tue, 20 Oct 2026 10:28:18 +0000`
+> 134 articles (30 derniers jours)
+
+---
+
+### [Fonction publique : les trois scénarios de réforme pour réinventer le modèle - Les Echos](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPT2QzdDFsSTFuQ3UyQ19XNHljaGUtcXVET3Y0cU5VajVKamFBbDh0TTNFRm5ZUlpKUWZQMXhxX3dJVGQzWmNWT0pUdldNTEZiMG9jclptMVByRmp4NnlPMk56clBWcV9oRjBUS2x2Qm84dTAxbENWcmp3Vk9kMW1PRDhLVUxqaGRmQjBhbVY0ZU9sbXdYZzFZSFVlZ2tESjRlNWFnTVpla0RUSmJ2dlp2T0J6OE5fY1UzVzRzNE9zd3pJRi05aDBFdw?oc=5)
+
+`Tue, 20 Oct 2026 04:00:08 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxPT2QzdDFsSTFuQ3UyQ19XNHljaGUtcXVET3Y0cU5VajVKamFBbDh0TTNFRm5ZUlpKUWZQMXhxX3dJVGQzWmNWT0pUdldNTEZiMG9jclptMVByRmp4NnlPMk56clBWcV9oRjBUS2x2Qm84dTAxbENWcmp3Vk9kMW1PRDhLVUxqaGRmQjBhbVY0ZU9sbXdYZzFZSFVlZ2tESjRlNWFnTVpla0RUSmJ2dlp2T0J6OE5fY1UzVzRzNE9zd3pJRi05aDBFdw?oc=5" target="_blank">Fonction publique : les trois scénarios de réforme pour réinventer le modèle</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Défense : pourquoi les Armées veulent éviter le « cauchemar » d'une absence de budget en 2027 - Les Echos](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOLVE2bmRzc183X2ZRaElJd3NZWFM5Nmc3c2pCaERhZGdHQkY5N1RQUWVjYnM0dlR6VkhyaTY5T2hSZ05vOEhNcmRJRnpCRGR2M29VRk1UcGpiU0tzbjhOWVRZZDNRVk9tVFoycVBEN0dZRDltTkh1TlJETkduUWJpSjVRaG16cmlfSkJ0OXBYRzAtYmR0WTRabk1XVXJjeDF1dTJycWk0OEkwckVjMUtBZWlHbGswYUo1Yi11QmtGWG5uYW9QN3ZvUVJ0SVJJbmNSU0U1S1NBaldYU3RKcS1VdHI5dlQtZw?oc=5)
+
+`Tue, 20 Oct 2026 09:20:03 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi5gFBVV95cUxOLVE2bmRzc183X2ZRaElJd3NZWFM5Nmc3c2pCaERhZGdHQkY5N1RQUWVjYnM0dlR6VkhyaTY5T2hSZ05vOEhNcmRJRnpCRGR2M29VRk1UcGpiU0tzbjhOWVRZZDNRVk9tVFoycVBEN0dZRDltTkh1TlJETkduUWJpSjVRaG16cmlfSkJ0OXBYRzAtYmR0WTRabk1XVXJjeDF1dTJycWk0OEkwckVjMUtBZWlHbGswYUo1Yi11QmtGWG5uYW9QN3ZvUVJ0SVJJbmNSU0U1S1NBaldYU3RKcS1VdHI5dlQtZw?oc=5" target="_blank">Défense : pourquoi les Armées veulent éviter le « cauchemar » d'une absence de budget en 2027</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -1058,13 +1074,5 @@
 `Mon, 21 Sep 2026 04:20:08 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi2gFBVV95cUxNV0VNWjladTE5MFE0b1hXYU9CZU9lYlNFbDZYSzNPSnVSS1JsMTJBbWEtNmwtWWlaMGJ4ejFxVFBMWFNWX2FleXRRamUwS0lQT2hLZ1o4c3JvY20zTng2MGVTMGRXcHZiZ0VHWWsybmNwUEJTQk1UT3BJZlhSeGdqOWhLNGQ5dTZaeVNNRmlJbDJDSEZya2paVjRqZldyOEJFMFUwczdWLVpraUs3eE1PZjFUQV9VU0VPbnRIXzFvdTRQbzVTYXNiWkd1a3JhMU54QTRfN1ZXbEJvUQ?oc=5" target="_blank">Budget 2027 : le gouvernement vise une hausse des dépenses d'assurance-maladie proche de 2</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Fonctionnaires : la grogne monte face au nouveau gel des salaires prévu dans le budget 2027 - Les Echos](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZHdkbXRDcFJJUDJIZDBWRUdaczN5QkZBWDk1YUh2M1lQb0RvYmhJTVdIZ2lvSjU1dURVT2lvZEJpYldFbmpXTDVXYnFwVy1HQkRGb2JZeWtDbFNMLXlKcXA1eDg1aHZlV2NocDhhT3RNc2hWNTR2bjA0SkpibzlGRF9hRHRmNjdtNk9xVDJxNDc5cmVyRkVfQU5PcDhrWVpNbHBZV2w5MlZaa18xcmxNUmc4SnRfTGFJaWRjcU1DWVlaZUJ2aF8xNnVBbE1KX2NDRFNlbWtBN1F1MTJn?oc=5)
-
-`Sun, 20 Sep 2026 07:15:12 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZHdkbXRDcFJJUDJIZDBWRUdaczN5QkZBWDk1YUh2M1lQb0RvYmhJTVdIZ2lvSjU1dURVT2lvZEJpYldFbmpXTDVXYnFwVy1HQkRGb2JZeWtDbFNMLXlKcXA1eDg1aHZlV2NocDhhT3RNc2hWNTR2bjA0SkpibzlGRF9hRHRmNjdtNk9xVDJxNDc5cmVyRkVfQU5PcDhrWVpNbHBZV2w5MlZaa18xcmxNUmc4SnRfTGFJaWRjcU1DWVlaZUJ2aF8xNnVBbE1KX2NDRFNlbWtBN1F1MTJn?oc=5" target="_blank">Fonctionnaires : la grogne monte face au nouveau gel des salaires prévu dans le budget 2027</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
