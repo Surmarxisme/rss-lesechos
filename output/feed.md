@@ -1,7 +1,7 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Wed, 21 Oct 2026 14:25:02 +0000`
-> 135 articles (30 derniers jours)
+> Derniere mise a jour : `Wed, 21 Oct 2026 16:21:51 +0000`
+> 132 articles (30 derniers jours)
 
 ---
 
@@ -1058,29 +1058,5 @@
 `Mon, 21 Sep 2026 17:41:19 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi8AFBVV95cUxNUS1QTGsyalA0MTVTa2pWaE1tVm8zOUdpSkZNV01uaFRjQXJ5MmE5NDRwMXZIUUhHM01GYXp0NWlkenNxQjF5ZV9JSVZwX3hBSHZTVUR2Q3hCY3FyT295dmhxS0RDbjBpYlhvVWJsS29KWHNDM05PbWdWRWtGd3NhdjFrMWJaVWZyUjhHZmYtMlZWMEVBdDJXWHd4SlZnVUxEOEZOelgtQVpPRjJ6aXRuUExKQ2gwUmk3aWQtVTVrRVZIVmo1N3Jmb2I5MndLMXZ5ci14QTBsY3h6ZWlRdGx6dUR4LWNJbnZMUWJNbm5ycjY?oc=5" target="_blank">Budget : la Cour des comptes remet sur la table la question de l'imposition des hauts patrimoines</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [EXCLUSIF - Arrêts maladie : le gouvernement va demander aux partenaires sociaux de trouver au moins 600 millions d'économies - Les Echos](https://news.google.com/rss/articles/CBMihAJBVV95cUxPSHFFQXBwNGdiS0szRFR0ajdfZDNyS054b1Z5OV9tdWFWTFJISWRFM2JhcUNwaTk2TU9yQlRfa0hDTkJiSi1BemdfX0pHR1JPTlduX3dKWF9wMkxTTmlpTnR1ejliRlRsUjBiSFhHRkJiWDNHQkFUbjhDdFJEbllUc1NvWjlaQ3NYbllvNnl1UDVVVFNQZmdDU3M0LXh0bFBmcHM4WWswd3owQVNscHlEUUVzV2hhZWNHS0EwTHpCU25VanlGQmtZQ3pzTmNUanBLVVJJc3JUSFY1QmJhY1B1WVM1TFllbjV4b3k1OVhOOENMeDdzb3FsWWsxYS1SWTFSWXJjLQ?oc=5)
-
-`Mon, 21 Sep 2026 15:54:12 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMihAJBVV95cUxPSHFFQXBwNGdiS0szRFR0ajdfZDNyS054b1Z5OV9tdWFWTFJISWRFM2JhcUNwaTk2TU9yQlRfa0hDTkJiSi1BemdfX0pHR1JPTlduX3dKWF9wMkxTTmlpTnR1ejliRlRsUjBiSFhHRkJiWDNHQkFUbjhDdFJEbllUc1NvWjlaQ3NYbllvNnl1UDVVVFNQZmdDU3M0LXh0bFBmcHM4WWswd3owQVNscHlEUUVzV2hhZWNHS0EwTHpCU25VanlGQmtZQ3pzTmNUanBLVVJJc3JUSFY1QmJhY1B1WVM1TFllbjV4b3k1OVhOOENMeDdzb3FsWWsxYS1SWTFSWXJjLQ?oc=5" target="_blank">EXCLUSIF - Arrêts maladie : le gouvernement va demander aux partenaires sociaux de trouver au moins 600 millions d'économies</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Budget 2027 : la charge de la dette grimpe encore plus vite que prévu - Les Echos](https://news.google.com/rss/articles/CBMizAFBVV95cUxQbXJ5azlxeWJMdmkybUQ1WGdIR016d1lKZnRURVJEMUUtUy1qT0dnX1RVMjliWHB0Z09xNldiVElBd2V5MlROSThTLU5GR0wyVG9HMktWM2hJa0NmdDNrQVV0R3BGY283aW5RLUdISGxBY2lHWVlBalRSLTVQVVQ5bWdqZ3BFdGhrSmNHV1l3QmhSN3BaZVBVaU1CSWdwcFJfdmowVUFsQVVZQ1c5d0NzaVlJTWx6QUJjWGdjOUdYMW8xMjVVTElJUFpPSEI?oc=5)
-
-`Mon, 21 Sep 2026 15:55:34 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMizAFBVV95cUxQbXJ5azlxeWJMdmkybUQ1WGdIR016d1lKZnRURVJEMUUtUy1qT0dnX1RVMjliWHB0Z09xNldiVElBd2V5MlROSThTLU5GR0wyVG9HMktWM2hJa0NmdDNrQVV0R3BGY283aW5RLUdISGxBY2lHWVlBalRSLTVQVVQ5bWdqZ3BFdGhrSmNHV1l3QmhSN3BaZVBVaU1CSWdwcFJfdmowVUFsQVVZQ1c5d0NzaVlJTWx6QUJjWGdjOUdYMW8xMjVVTElJUFpPSEI?oc=5" target="_blank">Budget 2027 : la charge de la dette grimpe encore plus vite que prévu</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Chute de la natalité : l'étonnant paradoxe du manque de places en crèches - Les Echos](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWEJKQS1yZDRUOFE1ckFVYk9SMHpqMWtpN3hkbHY0ZndwbU4zWVZ3UHE2Qll3aHFTazZTUFRWZFFxZXY4OEtPVTJ5aE03QWtYem5wYllUZ1U1VXR6dlo2VVM3X2NncVI5TmhkZkxEQ2d1MU1zTi1sNG02QnQ5LWdheXFfU2o4c20xTEQ5TnZaME14S1RIRHdsRVhjaTNuT1VTenJPVzlwQUwyQUtYSzA3aGhNVVVVSTVuSXV2aG1fcXp6M0k?oc=5)
-
-`Mon, 21 Sep 2026 14:57:08 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWEJKQS1yZDRUOFE1ckFVYk9SMHpqMWtpN3hkbHY0ZndwbU4zWVZ3UHE2Qll3aHFTazZTUFRWZFFxZXY4OEtPVTJ5aE03QWtYem5wYllUZ1U1VXR6dlo2VVM3X2NncVI5TmhkZkxEQ2d1MU1zTi1sNG02QnQ5LWdheXFfU2o4c20xTEQ5TnZaME14S1RIRHdsRVhjaTNuT1VTenJPVzlwQUwyQUtYSzA3aGhNVVVVSTVuSXV2aG1fcXp6M0k?oc=5" target="_blank">Chute de la natalité : l'étonnant paradoxe du manque de places en crèches</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
