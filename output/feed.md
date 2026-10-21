@@ -1,7 +1,31 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Wed, 21 Oct 2026 16:21:51 +0000`
-> 132 articles (30 derniers jours)
+> Derniere mise a jour : `Wed, 21 Oct 2026 20:23:42 +0000`
+> 134 articles (30 derniers jours)
+
+---
+
+### [Les syndicats très déçus à l'issue de leur rencontre à Matignon - Les Echos](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdEYyMHcxM2plTXkzZ1ZFbFFNT2tNbkVIT21fb28wcTlqaVBzaGhfdGg4R0Q5TE1yeGZwdWNuUUwtcFRFSlVEbGNBRFpBa3pWTU9iSjE3TWt5NWgtRkQ1ZmFQajd1emFXZlIyZG1iY09FdkEwNVM0TnczUWlTOS15R21SRUM0U0R4ZVdQbi05LXJlNW53LVhCSjQ1YzFmRFUydFp6bkI1cnFKUHRkUTFQM1Q2THBTWGh0?oc=5)
+
+`Wed, 21 Oct 2026 17:52:41 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdEYyMHcxM2plTXkzZ1ZFbFFNT2tNbkVIT21fb28wcTlqaVBzaGhfdGg4R0Q5TE1yeGZwdWNuUUwtcFRFSlVEbGNBRFpBa3pWTU9iSjE3TWt5NWgtRkQ1ZmFQajd1emFXZlIyZG1iY09FdkEwNVM0TnczUWlTOS15R21SRUM0U0R4ZVdQbi05LXJlNW53LVhCSjQ1YzFmRFUydFp6bkI1cnFKUHRkUTFQM1Q2THBTWGh0?oc=5" target="_blank">Les syndicats très déçus à l'issue de leur rencontre à Matignon</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [« Un squatteur qui se sert dans le frigo » : l'assurance-chômage dénonce la nouvelle ponction de l'Etat - Les Echos](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSXNtWFVXOWkzR2lsanI0bWpHTjZDX3UwRTlTUGVzVUhLMVFibXZUSHRsTFRMaE42NjZwamZkR3YyNVFJYkNPVTIySXpYemQxSzJpMnB1c0lmMzExREo2WXF6RHFoSTdVXzNRR1BoMGtFdDlhNDU0ald1aU45Zi13VWo4Wi02QVNHMlFVRjVnX1FDazhYd3N1UTE0MUNBa3Q2V2YwRENjNmoyMm5Nc2VrLWZObHRrTXA1ZFhlTDhGLUFQMHk4QU1YX3RXYW02TWd5VXJJaEVKTThfZVUzT1dfbm52WXQ?oc=5)
+
+`Wed, 21 Oct 2026 18:09:02 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSXNtWFVXOWkzR2lsanI0bWpHTjZDX3UwRTlTUGVzVUhLMVFibXZUSHRsTFRMaE42NjZwamZkR3YyNVFJYkNPVTIySXpYemQxSzJpMnB1c0lmMzExREo2WXF6RHFoSTdVXzNRR1BoMGtFdDlhNDU0ald1aU45Zi13VWo4Wi02QVNHMlFVRjVnX1FDazhYd3N1UTE0MUNBa3Q2V2YwRENjNmoyMm5Nc2VrLWZObHRrTXA1ZFhlTDhGLUFQMHk4QU1YX3RXYW02TWd5VXJJaEVKTThfZVUzT1dfbm52WXQ?oc=5" target="_blank">« Un squatteur qui se sert dans le frigo » : l'assurance-chômage dénonce la nouvelle ponction de l'Etat</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Dette de la France : la charge d'intérêts dépassera les 100 milliards d'euros dès 2028 - Les Echos](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPcV9xa3ItYmFjcEhLcXFhZy03U3BSUlJyNDFWdnNwamxRcGRrVU9QZVlqc25zQzg5WU1jb0hrLUtqajFtZGREV2lPa2UtdTM5cVo5Z2xSVC14WVhmN3dYblNmSEo4b2RmMjI4TnV4QklIVktkbmhwelEzai13a3EwdTBVYjQyVmxMYnltUXlBRFpmVU1KN1JRN3JsQ3lCNWxhWWlldk5ZczlQekl4clZXaC12alFadmkzWndDckVneVJZM21LajZNYlNTcng2WDZubGdwbnFsQ0tyUHkzUFFScQ?oc=5)
+
+`Wed, 21 Oct 2026 17:47:39 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi4AFBVV95cUxPcV9xa3ItYmFjcEhLcXFhZy03U3BSUlJyNDFWdnNwamxRcGRrVU9QZVlqc25zQzg5WU1jb0hrLUtqajFtZGREV2lPa2UtdTM5cVo5Z2xSVC14WVhmN3dYblNmSEo4b2RmMjI4TnV4QklIVktkbmhwelEzai13a3EwdTBVYjQyVmxMYnltUXlBRFpmVU1KN1JRN3JsQ3lCNWxhWWlldk5ZczlQekl4clZXaC12alFadmkzWndDckVneVJZM21LajZNYlNTcng2WDZubGdwbnFsQ0tyUHkzUFFScQ?oc=5" target="_blank">Dette de la France : la charge d'intérêts dépassera les 100 milliards d'euros dès 2028</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -1050,13 +1074,5 @@
 `Tue, 22 Sep 2026 07:00:09 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNk1lNFNncWxfaVZna2hoWWlVUGhLblFaQ1RKTUZqd0tvVlc1MU5MR25Ma2N4UXFOdDlBYThWMnBkZksyZVhBeVFBMEVDVXRQWTdub3BMLTN1d2xvLWdVMkhtUndtNnBDbDVfdTg4Y3VxeTRVeE1EWXJpUnMwaXpnMVFQZmJrS1YtbzhtcGV2MDlLZi1RRzVpZU9ibzR3OU1ZSnZ1aUxzZXUyVXhQeTdnNFpZVmRvMUMzTW54Zi0xSHc0U3l0WDltaDlGTTdESFdudEJ0Q2pjLXpJZ0xuRUliXw?oc=5" target="_blank">Intelligence artificielle : un plan pour rattraper le retard français dans le monde du travail</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Budget : la Cour des comptes remet sur la table la question de l'imposition des hauts patrimoines - Les Echos](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNUS1QTGsyalA0MTVTa2pWaE1tVm8zOUdpSkZNV01uaFRjQXJ5MmE5NDRwMXZIUUhHM01GYXp0NWlkenNxQjF5ZV9JSVZwX3hBSHZTVUR2Q3hCY3FyT295dmhxS0RDbjBpYlhvVWJsS29KWHNDM05PbWdWRWtGd3NhdjFrMWJaVWZyUjhHZmYtMlZWMEVBdDJXWHd4SlZnVUxEOEZOelgtQVpPRjJ6aXRuUExKQ2gwUmk3aWQtVTVrRVZIVmo1N3Jmb2I5MndLMXZ5ci14QTBsY3h6ZWlRdGx6dUR4LWNJbnZMUWJNbm5ycjY?oc=5)
-
-`Mon, 21 Sep 2026 17:41:19 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi8AFBVV95cUxNUS1QTGsyalA0MTVTa2pWaE1tVm8zOUdpSkZNV01uaFRjQXJ5MmE5NDRwMXZIUUhHM01GYXp0NWlkenNxQjF5ZV9JSVZwX3hBSHZTVUR2Q3hCY3FyT295dmhxS0RDbjBpYlhvVWJsS29KWHNDM05PbWdWRWtGd3NhdjFrMWJaVWZyUjhHZmYtMlZWMEVBdDJXWHd4SlZnVUxEOEZOelgtQVpPRjJ6aXRuUExKQ2gwUmk3aWQtVTVrRVZIVmo1N3Jmb2I5MndLMXZ5ci14QTBsY3h6ZWlRdGx6dUR4LWNJbnZMUWJNbm5ycjY?oc=5" target="_blank">Budget : la Cour des comptes remet sur la table la question de l'imposition des hauts patrimoines</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
