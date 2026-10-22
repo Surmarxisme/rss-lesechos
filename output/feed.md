@@ -1,7 +1,7 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Thu, 22 Oct 2026 14:26:35 +0000`
-> 135 articles (30 derniers jours)
+> Derniere mise a jour : `Thu, 22 Oct 2026 16:21:41 +0000`
+> 132 articles (30 derniers jours)
 
 ---
 
@@ -949,14 +949,6 @@
 
 ---
 
-### [Économie | Page 246 - Les Echos](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5MM0dYam5QQlBHTHhmSWdZQ1ZITTEwNnRIeHVwaVh2X0Rza09XZ0VTWnZqcllBLXdFYllNRG9OTHZ1WFdZLWl2elZtc1NnWXZRU1JTTWJUYVpyZXlF?oc=5)
-
-`Tue, 22 Sep 2026 16:20:38 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiXEFVX3lxTE5MM0dYam5QQlBHTHhmSWdZQ1ZITTEwNnRIeHVwaVh2X0Rza09XZ0VTWnZqcllBLXdFYllNRG9OTHZ1WFdZLWl2elZtc1NnWXZRU1JTTWJUYVpyZXlF?oc=5" target="_blank">Économie | Page 246</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
 ### [EXCLUSIF - Budget 2027 : le gouvernement envisage de limiter encore les allègements de charges des entreprises - lesechos.fr](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNQ3JWM3lsQTk0Q09ZaGV5MTAzT243dm9KZzk0SlJvRlRNU25WbnhPckQwdzlrUG5sVVg1UjhtMHdjbmxEZUVzcTk0VXBLcFpFYThMMzJha3VNcnZwMWgwN1BZc1BZZEU5M2RVU29zSUV5UWtvLWE1akZkRjlmWFA3WDJyNWpFWG1nRGphM1B0b1kyaDdTNjVEcnhpaUxNRzdjanNfeDFRU213RjZLblZObkNWWEE1WTBDcnY3dkRnMnI3d05IWUFiNHJVLXVCel9uaUc3NjViaE5lSUhnVkFVY2ROdEdlUUdIcTVjWk5nSDBLYzg?oc=5)
 
 `Sat, 26 Sep 2026 06:35:49 GMT`
@@ -1066,21 +1058,5 @@
 `Tue, 22 Sep 2026 17:00:00 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVmwweVRSUVdSUk91SEhMRjgwRENYWHlpQWZRRmptNWtHWTNlVXlabnBJdEpxVEV0d0x3Sml1UUR1d0ZLdUVtbUpkUFQ5cXVXZTAySDlxUnhEUmN2UFpsamlmWUZfc1A1cUpZWDU0NTNnZ0JtV2VaVHBkSm1nbGxDZERsZVdSN1hnTllDNTkxanBzNENpX05RY1owR0NRS09NZ1ZiNDlFekZ4VzdIV05sUlFSWF9PM3dia2NYVDlJbjRmVERfNDlEa3VPTWtQNVo5OUQwRkJBaVBDeVlp?oc=5" target="_blank">Budget 2027 : le plan du ministère du Travail pour économiser 2,5 milliards d'euros</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [La Cour des comptes veut faire davantage la lumière sur les retraites des fonctionnaires de l'Etat - Les Echos](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOb3U0UVJKQnJUUDhNemxhUTVIMW1rSVhLVmpjc2VGTWE4RWU3bnRFdnc2Tl9tdnljN0piRlBaaV9fZ1o2NVh0LVJpRk9jOHRwN21YR1FiYzJqVUQ1M0FZQ25yd3RyWUtGSFQ2M3VzbjI5WlAwYXhrZTFHVUgwY2J4V2pVaTdJNzdKdXppOHZFaWlFMDFFc0h3cjFzX3MzN1Q1b0p4YlRSNmpkVjhGVVFYWERGX0RFNW80UGhkSTlBcS1QUV9wMFZTVmhIV2pWMzZkTEVjbEhjZ2MyWFE1TG5WazVza05SMEU?oc=5)
-
-`Tue, 22 Sep 2026 15:53:18 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi5wFBVV95cUxOb3U0UVJKQnJUUDhNemxhUTVIMW1rSVhLVmpjc2VGTWE4RWU3bnRFdnc2Tl9tdnljN0piRlBaaV9fZ1o2NVh0LVJpRk9jOHRwN21YR1FiYzJqVUQ1M0FZQ25yd3RyWUtGSFQ2M3VzbjI5WlAwYXhrZTFHVUgwY2J4V2pVaTdJNzdKdXppOHZFaWlFMDFFc0h3cjFzX3MzN1Q1b0p4YlRSNmpkVjhGVVFYWERGX0RFNW80UGhkSTlBcS1QUV9wMFZTVmhIV2pWMzZkTEVjbEhjZ2MyWFE1TG5WazVza05SMEU?oc=5" target="_blank">La Cour des comptes veut faire davantage la lumière sur les retraites des fonctionnaires de l'Etat</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Les cadres rattrapés par les préoccupations sur le pouvoir d'achat - Les Echos](https://news.google.com/rss/articles/CBMivAFBVV95cUxNYzNnM0JaNkJFZzhKVEVyRVlGTWRMVXozOXhsM3ZuRmpod1h5ZGp3cGwxU1BpTGlJM3l5M0psNXItNUJfaVo1OGlLWG4xWW56aW9CUlZFaDdFM2VUbUdMQkl2bzlJRG9wbURHLXhZQkFwQ29PVjMydDhlSHNXZkNlYlM3OFNJZEtkSXRTMVQyVDRjQzdka3lQQlE2NXIzekhsMGJ4TExfcnpRVGE5bkxVWFBGUnE1ckhOSEtMbA?oc=5)
-
-`Tue, 22 Sep 2026 15:05:25 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxNYzNnM0JaNkJFZzhKVEVyRVlGTWRMVXozOXhsM3ZuRmpod1h5ZGp3cGwxU1BpTGlJM3l5M0psNXItNUJfaVo1OGlLWG4xWW56aW9CUlZFaDdFM2VUbUdMQkl2bzlJRG9wbURHLXhZQkFwQ29PVjMydDhlSHNXZkNlYlM3OFNJZEtkSXRTMVQyVDRjQzdka3lQQlE2NXIzekhsMGJ4TExfcnpRVGE5bkxVWFBGUnE1ckhOSEtMbA?oc=5" target="_blank">Les cadres rattrapés par les préoccupations sur le pouvoir d'achat</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
