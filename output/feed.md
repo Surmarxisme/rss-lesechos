@@ -1,7 +1,31 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Wed, 21 Oct 2026 20:23:42 +0000`
-> 134 articles (30 derniers jours)
+> Derniere mise a jour : `Thu, 22 Oct 2026 10:42:06 +0000`
+> 135 articles (30 derniers jours)
+
+---
+
+### [« Pour lui, le budget, c'est de l'intendance » : le roman noir des années Macron, la décennie qui a mis le feu à la dette - Les Echos](https://news.google.com/rss/articles/CBMihgJBVV95cUxQRXZ3bGNkLWczZTAwYU1IR3JSSXFkTWVxZHRfZ0xyYzFKOGF6cHZZdGpGMEJXTnFPZkxYd3Q5andPYWV3ZjJrbTVVbm5rTTdaNjV6S21QZUVNcVpJck9QQnVQNHdSc0ZpTmw3TlU2Y0JEQmJqV2g1dVRLMW1iNU5jX1hOUXFoc2JsMF90WVMxaVozR3VlQkFMYUF2Vl9jM1VvaXo1RThROHVXYUNaZmVOay1TREstZS1xd0FaYzJzbzBlSVFRc3JldlJ1ZWw4TmJLWm51LXQ4aGdDVC1aOUtXM1VCTTNPVXhrQ2JfdjFyZUd5d0g3SkVWMXpVWE9GMU9FdVZzM2pR?oc=5)
+
+`Thu, 22 Oct 2026 04:20:14 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMihgJBVV95cUxQRXZ3bGNkLWczZTAwYU1IR3JSSXFkTWVxZHRfZ0xyYzFKOGF6cHZZdGpGMEJXTnFPZkxYd3Q5andPYWV3ZjJrbTVVbm5rTTdaNjV6S21QZUVNcVpJck9QQnVQNHdSc0ZpTmw3TlU2Y0JEQmJqV2g1dVRLMW1iNU5jX1hOUXFoc2JsMF90WVMxaVozR3VlQkFMYUF2Vl9jM1VvaXo1RThROHVXYUNaZmVOay1TREstZS1xd0FaYzJzbzBlSVFRc3JldlJ1ZWw4TmJLWm51LXQ4aGdDVC1aOUtXM1VCTTNPVXhrQ2JfdjFyZUd5d0g3SkVWMXpVWE9GMU9FdVZzM2pR?oc=5" target="_blank">« Pour lui, le budget, c'est de l'intendance » : le roman noir des années Macron, la décennie qui a mis le feu à la dette</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [EXCLUSIF - Pouvoir d'achat : le gouvernement étudie une hausse anticipée du SMIC - Les Echos](https://news.google.com/rss/articles/CBMiygFBVV95cUxNdDNzRmk0TU5EYXhDV2xucDZ3dU9mejZCYlgwTUtEY0xqcG1Ta1JkajZDSzVIOTRwUGZOVWhoVlV4dkNDa2VuMTRGU0NQa05XdVNzeUNrdGFTWEQzem9wTXlmZFoyNDFKbEVZX1l0b0xEM1lTS09TOHAwRTd1TnFJakRfa1g0a2lXSWpjUm5YblMyd21EdThEbm1hLWtwZlhyOHFyOC1fWFB4dmlDRFk1TnVHQjhfaXlCMmxobHNHU3VQc3V1d0dNakNn?oc=5)
+
+`Thu, 22 Oct 2026 10:25:37 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxNdDNzRmk0TU5EYXhDV2xucDZ3dU9mejZCYlgwTUtEY0xqcG1Ta1JkajZDSzVIOTRwUGZOVWhoVlV4dkNDa2VuMTRGU0NQa05XdVNzeUNrdGFTWEQzem9wTXlmZFoyNDFKbEVZX1l0b0xEM1lTS09TOHAwRTd1TnFJakRfa1g0a2lXSWpjUm5YblMyd21EdThEbm1hLWtwZlhyOHFyOC1fWFB4dmlDRFk1TnVHQjhfaXlCMmxobHNHU3VQc3V1d0dNakNn?oc=5" target="_blank">EXCLUSIF - Pouvoir d'achat : le gouvernement étudie une hausse anticipée du SMIC</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Transmission d'entreprise : un rapport pour lever les freins à la reprise - Les Echos](https://news.google.com/rss/articles/CBMiygFBVV95cUxPZnBrVm9rVDRPNklZOWpRdm14bmkxYlp4RzFWNnNPYk15SGhHaGg4NmhHbml5ODFWQTFFQUxsTFhyckZPOWhVTnBJN181VHpRM3FnZGsxTzNPaHNQVzd5dTIySC0xQ1A3ZFlCZHRRM2ljQ0NpaDFFUU9BUk8wZi0tTGF4YlRqT05QcFQwSW1jN1VPVl91bmExaGVza1lXNVNqcm5PN0FWeVVvM3hYQjZZWEp0dFN6S2hfV1hqVmcyRWZmaHE4bnVjQmJB?oc=5)
+
+`Thu, 22 Oct 2026 04:05:12 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxPZnBrVm9rVDRPNklZOWpRdm14bmkxYlp4RzFWNnNPYk15SGhHaGg4NmhHbml5ODFWQTFFQUxsTFhyckZPOWhVTnBJN181VHpRM3FnZGsxTzNPaHNQVzd5dTIySC0xQ1A3ZFlCZHRRM2ljQ0NpaDFFUU9BUk8wZi0tTGF4YlRqT05QcFQwSW1jN1VPVl91bmExaGVza1lXNVNqcm5PN0FWeVVvM3hYQjZZWEp0dFN6S2hfV1hqVmcyRWZmaHE4bnVjQmJB?oc=5" target="_blank">Transmission d'entreprise : un rapport pour lever les freins à la reprise</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -1058,21 +1082,5 @@
 `Tue, 22 Sep 2026 15:05:25 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxNYzNnM0JaNkJFZzhKVEVyRVlGTWRMVXozOXhsM3ZuRmpod1h5ZGp3cGwxU1BpTGlJM3l5M0psNXItNUJfaVo1OGlLWG4xWW56aW9CUlZFaDdFM2VUbUdMQkl2bzlJRG9wbURHLXhZQkFwQ29PVjMydDhlSHNXZkNlYlM3OFNJZEtkSXRTMVQyVDRjQzdka3lQQlE2NXIzekhsMGJ4TExfcnpRVGE5bkxVWFBGUnE1ckhOSEtMbA?oc=5" target="_blank">Les cadres rattrapés par les préoccupations sur le pouvoir d'achat</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Budget 2027 : une coupe de 600 millions d'euros envisagée sur l'allocation de rentrée scolaire - Les Echos](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQSmF1Y0pDaUNUR3RDTlQ3OGpGU05ENWZDUnFIalo5OWY0aTdFeEgxQmNHX3NPdG5Zd2ZXd3ZhUTRPdmxZaFEyQVFtRXBnMmpUeEFTenlBRjNXNWRpWmd2X1hkSWVBVlozY3BlQ3RqSktVUUJLRHRQOFBEUGp3ZWtyZVRITThUTk8xZ3A4UVN6T2NnclpYQ3I2R0FXd0N4UXlfWW9GaVVwQXJfb0xjWlhFd3M1S0htUjVpM1FBdDhtXzh3RlpZTUpHVm9oaUZiNy02V0p4amhpMDZZZW1GVzZIXzNCdWV6dXBfcXpz?oc=5)
-
-`Tue, 22 Sep 2026 04:40:12 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi6wFBVV95cUxQSmF1Y0pDaUNUR3RDTlQ3OGpGU05ENWZDUnFIalo5OWY0aTdFeEgxQmNHX3NPdG5Zd2ZXd3ZhUTRPdmxZaFEyQVFtRXBnMmpUeEFTenlBRjNXNWRpWmd2X1hkSWVBVlozY3BlQ3RqSktVUUJLRHRQOFBEUGp3ZWtyZVRITThUTk8xZ3A4UVN6T2NnclpYQ3I2R0FXd0N4UXlfWW9GaVVwQXJfb0xjWlhFd3M1S0htUjVpM1FBdDhtXzh3RlpZTUpHVm9oaUZiNy02V0p4amhpMDZZZW1GVzZIXzNCdWV6dXBfcXpz?oc=5" target="_blank">Budget 2027 : une coupe de 600 millions d'euros envisagée sur l'allocation de rentrée scolaire</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Intelligence artificielle : un plan pour rattraper le retard français dans le monde du travail - Les Echos](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNk1lNFNncWxfaVZna2hoWWlVUGhLblFaQ1RKTUZqd0tvVlc1MU5MR25Ma2N4UXFOdDlBYThWMnBkZksyZVhBeVFBMEVDVXRQWTdub3BMLTN1d2xvLWdVMkhtUndtNnBDbDVfdTg4Y3VxeTRVeE1EWXJpUnMwaXpnMVFQZmJrS1YtbzhtcGV2MDlLZi1RRzVpZU9ibzR3OU1ZSnZ1aUxzZXUyVXhQeTdnNFpZVmRvMUMzTW54Zi0xSHc0U3l0WDltaDlGTTdESFdudEJ0Q2pjLXpJZ0xuRUliXw?oc=5)
-
-`Tue, 22 Sep 2026 07:00:09 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNk1lNFNncWxfaVZna2hoWWlVUGhLblFaQ1RKTUZqd0tvVlc1MU5MR25Ma2N4UXFOdDlBYThWMnBkZksyZVhBeVFBMEVDVXRQWTdub3BMLTN1d2xvLWdVMkhtUndtNnBDbDVfdTg4Y3VxeTRVeE1EWXJpUnMwaXpnMVFQZmJrS1YtbzhtcGV2MDlLZi1RRzVpZU9ibzR3OU1ZSnZ1aUxzZXUyVXhQeTdnNFpZVmRvMUMzTW54Zi0xSHc0U3l0WDltaDlGTTdESFdudEJ0Q2pjLXpJZ0xuRUliXw?oc=5" target="_blank">Intelligence artificielle : un plan pour rattraper le retard français dans le monde du travail</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
