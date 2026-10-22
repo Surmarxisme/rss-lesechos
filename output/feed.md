@@ -1,7 +1,7 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Thu, 22 Oct 2026 16:21:41 +0000`
-> 132 articles (30 derniers jours)
+> Derniere mise a jour : `Thu, 22 Oct 2026 20:20:21 +0000`
+> 131 articles (30 derniers jours)
 
 ---
 
@@ -1050,13 +1050,5 @@
 `Wed, 23 Sep 2026 04:20:31 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRlZlNHBlYmloU1RyWDhoeTM2M0Z6V0s0NkFoY3dSdXowUE9UdW91NUdUY0h5cTM1V1E1NV9RekVBaWdjZ1E3b0h4bE5wby1jNmY1Q2lKd2tRUi04RzdicVZTMmFyS3NGbW1EVDdwSWJKVXRtVF8takRrTlN2ZFdqdHlZOERDTFN6RS1RNzRiTE5hd0RIVzVNX2o1ZG9hWW42ZUcxMTZyeXJDYnVvQkFxcXprenRuSzF5VXdtMkVRMGNlbjdKU3JLVjV0a0k2WDdnd0xmOG1FWjIyOU5tU0Vn?oc=5" target="_blank">EXCLUSIF - Compte personnel de formation : les salariés devront payer jusqu'à 350 euros de malus</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Budget 2027 : le plan du ministère du Travail pour économiser 2,5 milliards d'euros - Les Echos](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVmwweVRSUVdSUk91SEhMRjgwRENYWHlpQWZRRmptNWtHWTNlVXlabnBJdEpxVEV0d0x3Sml1UUR1d0ZLdUVtbUpkUFQ5cXVXZTAySDlxUnhEUmN2UFpsamlmWUZfc1A1cUpZWDU0NTNnZ0JtV2VaVHBkSm1nbGxDZERsZVdSN1hnTllDNTkxanBzNENpX05RY1owR0NRS09NZ1ZiNDlFekZ4VzdIV05sUlFSWF9PM3dia2NYVDlJbjRmVERfNDlEa3VPTWtQNVo5OUQwRkJBaVBDeVlp?oc=5)
-
-`Tue, 22 Sep 2026 17:00:00 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVmwweVRSUVdSUk91SEhMRjgwRENYWHlpQWZRRmptNWtHWTNlVXlabnBJdEpxVEV0d0x3Sml1UUR1d0ZLdUVtbUpkUFQ5cXVXZTAySDlxUnhEUmN2UFpsamlmWUZfc1A1cUpZWDU0NTNnZ0JtV2VaVHBkSm1nbGxDZERsZVdSN1hnTllDNTkxanBzNENpX05RY1owR0NRS09NZ1ZiNDlFekZ4VzdIV05sUlFSWF9PM3dia2NYVDlJbjRmVERfNDlEa3VPTWtQNVo5OUQwRkJBaVBDeVlp?oc=5" target="_blank">Budget 2027 : le plan du ministère du Travail pour économiser 2,5 milliards d'euros</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
