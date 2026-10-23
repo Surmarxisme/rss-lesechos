@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Fri, 23 Oct 2026 16:10:37 +0000`
+> Derniere mise a jour : `Fri, 23 Oct 2026 20:08:09 +0000`
 > 128 articles (30 derniers jours)
+
+---
+
+### [Pouvoir d'achat : le patronat veut voir Lecornu, les syndicats veulent un vrai coup de pouce au SMIC - Les Echos](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTkVYaW9QaWxCcHIzVG1uYk9XVlhWR2ZLRGdKckR2eHZ4MXNCWkZxcVZ2elp4ODAxQXpnSTJPNmIzenVwT3NTRVcwMzYwdlVTVXp6aWtxenpTLU53QjJnS0k5dnhmdnFFOHFVdDEzeGJ6b2k5OEN5blZjWFFQVDBMOUJzQy1UQWxKUllyY2FRRUlhRzE3MTdTZks1Vnl5T3VnQktCSFJ3bFZTZ3BDb2JDZWs0SGVsLTB0endYcFo3TDBLclE5YXJxclVMbVpPQm1jQlpNbW9lZ214eF90Tm9WZUcwdThyUQ?oc=5)
+
+`Fri, 23 Oct 2026 16:54:39 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTkVYaW9QaWxCcHIzVG1uYk9XVlhWR2ZLRGdKckR2eHZ4MXNCWkZxcVZ2elp4ODAxQXpnSTJPNmIzenVwT3NTRVcwMzYwdlVTVXp6aWtxenpTLU53QjJnS0k5dnhmdnFFOHFVdDEzeGJ6b2k5OEN5blZjWFFQVDBMOUJzQy1UQWxKUllyY2FRRUlhRzE3MTdTZks1Vnl5T3VnQktCSFJ3bFZTZ3BDb2JDZWs0SGVsLTB0endYcFo3TDBLclE5YXJxclVMbVpPQm1jQlpNbW9lZ214eF90Tm9WZUcwdThyUQ?oc=5" target="_blank">Pouvoir d'achat : le patronat veut voir Lecornu, les syndicats veulent un vrai coup de pouce au SMIC</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -1018,13 +1026,5 @@
 `Thu, 24 Sep 2026 05:33:08 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi2wFBVV95cUxONUc1cFFkS1c3eU43ZHNPNzNpUTYtZzdNd2s0WF9JcndEci0zRkZCMnA1aEl2bEkxQVQ1b0xrYW9hN0JmVDRCb0JOcGZKZjZ0am41LTN0Wms4Ukx6aEJNN2UyRFkxSFgyazJIMGtEaFpydmZZMS05bjgtZTlod3VySXhwTm55R1NhTERFMTlKWE9iMFFfVnVsSmFIMDhuQ2lCLVBoU1B0ODlrcG1iZHhxd2ZrVWJYWmhfV21PVzhTazdPN0FiRlF4RllFTjBVZ04zZjVCejcxYU1UanM?oc=5" target="_blank">Présidentielle 2027 : l'avertissement lancé aux candidats pour éviter la « fuite des cerveaux »</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Santé : ces pistes sur la table du gouvernement pour clarifier le partage des rôles entre les mutuelles et la Sécu - lesechos.fr](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNWUtRWld0a3dOMTNzVXZhTXpnbi1SVGFMbk9WN0tvZGdENmhLclh3eVFJMzA5VUdsc011d1ZtemJWWmNTT3lscHBiYURYMENvT1ZwQXFJaXlXSlZYbDdISlZIQ09jdE9aazVLT0JlMEZReUVwejBoWGR0bEp0c2NoT1ZVSWh2eWNqTU9ZMXYwZkRWcHlyaFpsUlF6bnQzVWFraEk4UjlxcW9yTHlZYmI3NC1OTnpad3QzLW16angwR2FDTnFmb0ltb2lpWWRsS1JEZ3EteUh2Y2g2bjNmc3JDY2dGUm1nYTBEVEIybUh2WVI4QQ?oc=5)
-
-`Wed, 23 Sep 2026 16:30:34 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi8gFBVV95cUxNWUtRWld0a3dOMTNzVXZhTXpnbi1SVGFMbk9WN0tvZGdENmhLclh3eVFJMzA5VUdsc011d1ZtemJWWmNTT3lscHBiYURYMENvT1ZwQXFJaXlXSlZYbDdISlZIQ09jdE9aazVLT0JlMEZReUVwejBoWGR0bEp0c2NoT1ZVSWh2eWNqTU9ZMXYwZkRWcHlyaFpsUlF6bnQzVWFraEk4UjlxcW9yTHlZYmI3NC1OTnpad3QzLW16angwR2FDTnFmb0ltb2lpWWRsS1JEZ3EteUh2Y2g2bjNmc3JDY2dGUm1nYTBEVEIybUh2WVI4QQ?oc=5" target="_blank">Santé : ces pistes sur la table du gouvernement pour clarifier le partage des rôles entre les mutuelles et la Sécu</a>&nbsp;&nbsp;<font color="#6f6f6f">lesechos.fr</font>
 
 ---
