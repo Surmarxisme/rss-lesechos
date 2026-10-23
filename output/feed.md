@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Fri, 23 Oct 2026 10:34:16 +0000`
-> 129 articles (30 derniers jours)
+> Derniere mise a jour : `Fri, 23 Oct 2026 14:09:15 +0000`
+> 130 articles (30 derniers jours)
+
+---
+
+### [Les députés rejettent massivement le budget de la Sécurité sociale en première lecture - Les Echos](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSVotQWs1RXlpVFVKMGx5THFrZ3U1UHJoUGdtVUk3SlhDRkdkMkxFNGE4a2RucW9PS0lnck9MRFlQSnBLMGdDb3pNNEhmUW5XT1dlc1ZlOEYxdFVYRzFOc3ZfVGtSZDJnTTU3bFFyZWVVa2k1QmtmZmpwOEpRMTc3QUx3VTNrYUtRTmdXQ0ZqTTgyX2x1WmQycUJMa0N0T1VUT2V2d0ZySWQ3RFE3TEtWTEJ1ekRUdDNRcm11MU9RMUk0enZxSG9iaG9jbERpNWlaQ2FUR2dGQWk?oc=5)
+
+`Fri, 23 Oct 2026 13:29:43 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSVotQWs1RXlpVFVKMGx5THFrZ3U1UHJoUGdtVUk3SlhDRkdkMkxFNGE4a2RucW9PS0lnck9MRFlQSnBLMGdDb3pNNEhmUW5XT1dlc1ZlOEYxdFVYRzFOc3ZfVGtSZDJnTTU3bFFyZWVVa2k1QmtmZmpwOEpRMTc3QUx3VTNrYUtRTmdXQ0ZqTTgyX2x1WmQycUJMa0N0T1VUT2V2d0ZySWQ3RFE3TEtWTEJ1ekRUdDNRcm11MU9RMUk0enZxSG9iaG9jbERpNWlaQ2FUR2dGQWk?oc=5" target="_blank">Les députés rejettent massivement le budget de la Sécurité sociale en première lecture</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
