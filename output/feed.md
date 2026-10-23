@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Thu, 22 Oct 2026 20:20:21 +0000`
-> 131 articles (30 derniers jours)
+> Derniere mise a jour : `Fri, 23 Oct 2026 10:34:16 +0000`
+> 129 articles (30 derniers jours)
+
+---
+
+### [« Les tensions sociales changent déjà la donne » : l'économie française sous la menace d'un nouveau choc - Les Echos](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNMEJOdXprcEIxSmdkUTNQMmZrb1llWnNfTUtZVUxMdWJqa0kzRUVrc2l6LW9BY2pLT1VFb2phZzNzNUtLSm1hM2xrbFFhZU1zZ0t5M2dyRnlTZ2hodUVBT0FybmhjNVF5dlNTWnNzYjc4YVhfQ092UlBSbjZfY1I5Q0pZZi1KZHYzWEZVR19rZ3MzNWtVbHNiNWI2NG83NEMzS3Y4NTgtM0d4QXJCS25WZl90aDVZc3pyYVVLbE1ScnFYeGF4WTdtWEg4SVdoYm1naXhXMVYyWmhMc0ROXzdQa1gxY25WR1N4Z3BLUA?oc=5)
+
+`Fri, 23 Oct 2026 04:15:10 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi7AFBVV95cUxNMEJOdXprcEIxSmdkUTNQMmZrb1llWnNfTUtZVUxMdWJqa0kzRUVrc2l6LW9BY2pLT1VFb2phZzNzNUtLSm1hM2xrbFFhZU1zZ0t5M2dyRnlTZ2hodUVBT0FybmhjNVF5dlNTWnNzYjc4YVhfQ092UlBSbjZfY1I5Q0pZZi1KZHYzWEZVR19rZ3MzNWtVbHNiNWI2NG83NEMzS3Y4NTgtM0d4QXJCS25WZl90aDVZc3pyYVVLbE1ScnFYeGF4WTdtWEg4SVdoYm1naXhXMVYyWmhMc0ROXzdQa1gxY25WR1N4Z3BLUA?oc=5" target="_blank">« Les tensions sociales changent déjà la donne » : l'économie française sous la menace d'un nouveau choc</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -957,14 +965,6 @@
 
 ---
 
-### [Finances Publiques : actualités, analyses et vidéos - Les Echos | Page 1031 - lesechos.fr](https://news.google.com/rss/articles/CBMijgFBVV95cUxOMDFLaTNmd3NTYV9vNnRZNTVXNWtpd3FHQ2NhTFktUTRQQ3d6ZklUbFNhZEFfVi1NT01wMlA2VEg2WlZUQzNCbUVybUg3ekliaGJOck5QaFNjQzNKYmZjVzhzZ2VvWUFjWG4wMmNSLXJlMjRxOXV0Z3d5bG5Wdm1ycmc4ZU8tQXk2TUxhYUp3?oc=5)
-
-`Wed, 23 Sep 2026 06:36:23 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMijgFBVV95cUxOMDFLaTNmd3NTYV9vNnRZNTVXNWtpd3FHQ2NhTFktUTRQQ3d6ZklUbFNhZEFfVi1NT01wMlA2VEg2WlZUQzNCbUVybUg3ekliaGJOck5QaFNjQzNKYmZjVzhzZ2VvWUFjWG4wMmNSLXJlMjRxOXV0Z3d5bG5Wdm1ycmc4ZU8tQXk2TUxhYUp3?oc=5" target="_blank">Finances Publiques : actualités, analyses et vidéos - Les Echos | Page 1031</a>&nbsp;&nbsp;<font color="#6f6f6f">lesechos.fr</font>
-
----
-
 ### [EXCLUSIF - Perquisition de la brigade financière dans le monde de la formation professionnelle - Les Echos](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNTUxoMTZNNGhvY1dzQW5YSzhsaldBeFVKSFh2YTlMZmNvbXY5S0UtUGt0NGRQTzJrdlZuc3dzQ3hFQ3M3VE9sU2RHTDQzVzhYZW5FbTltb0RwbEFYZlVxeG9MVDl3NzVuclViUXNXcjhOLVY5TDlPdUd1U0lUNUpRWUR0aFRIYTZaMEh4UFJ4c183djJTZFphUUtwb2dYQndjckRKX3ZqNlJjREhGWWYxNUdRUUVkQnVhOFlsUVBkb1ZYaHNpb29oN0tJY0FfbWJ2X0M5N2ZLbC1WMjNRWF9tUA?oc=5)
 
 `Fri, 25 Sep 2026 16:00:21 GMT`
@@ -1034,21 +1034,5 @@
 `Wed, 23 Sep 2026 15:00:25 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMizAFBVV95cUxNcEh4alhSWG50dlYyN0JEcWlPYVlPeTc1QUFWTU9DTHprdmQ4c2ZPbFZ4cXBJYnU2Zkl3am5fak13dHlTeUhjNVQ1TUROdHdiRkNRUkZ0YjFYVE12ZHR3ZXpubFBSaHVsM0drZHZqeVpFdnR4WU5nSHBiRjdoc294N1dCMFF2R2tHSUNXZGczUktZT2RVWE1ZVElPVlRjWi00OUs4UFhDalNsdFZYaG43dVpNVTRTbmxJTVhzZGxYUHlDRTA4cFlHRUJuNEM?oc=5" target="_blank">Logement : la nouvelle étude de l'Insee qui va à l'encontre des idées reçues</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Automobile : ce que le passage à l'électrique va coûter aux finances publiques - Les Echos](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMXFYU2Z3SE9HVVV5NXliYndNQllMVmhxS1o0OHRqaDlnd1FqZ2FET2FVeUljaFIya1BxaXlRenlFRlduLVZJTmU0Y3dfYmw3YVZwMnY4Mk91Q0xjNnlJdmxDUVh1eTdhTFl4MjR5d3FScW10dkpFZk1MYmZuaTlXTi1neUktY2Z2TkdQZF9mb3o2NERqQXJOTnRPTHVia2VCRGFkbWpNWGtWNDJNZC1PcmxqSHBiYTFmaEU2bmRtQzY5dXJJdlpNcEwtRThiUHdaQUVUZ0NBRQ?oc=5)
-
-`Wed, 23 Sep 2026 05:00:09 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMXFYU2Z3SE9HVVV5NXliYndNQllMVmhxS1o0OHRqaDlnd1FqZ2FET2FVeUljaFIya1BxaXlRenlFRlduLVZJTmU0Y3dfYmw3YVZwMnY4Mk91Q0xjNnlJdmxDUVh1eTdhTFl4MjR5d3FScW10dkpFZk1MYmZuaTlXTi1neUktY2Z2TkdQZF9mb3o2NERqQXJOTnRPTHVia2VCRGFkbWpNWGtWNDJNZC1PcmxqSHBiYTFmaEU2bmRtQzY5dXJJdlpNcEwtRThiUHdaQUVUZ0NBRQ?oc=5" target="_blank">Automobile : ce que le passage à l'électrique va coûter aux finances publiques</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [EXCLUSIF - Compte personnel de formation : les salariés devront payer jusqu'à 350 euros de malus - Les Echos](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRlZlNHBlYmloU1RyWDhoeTM2M0Z6V0s0NkFoY3dSdXowUE9UdW91NUdUY0h5cTM1V1E1NV9RekVBaWdjZ1E3b0h4bE5wby1jNmY1Q2lKd2tRUi04RzdicVZTMmFyS3NGbW1EVDdwSWJKVXRtVF8takRrTlN2ZFdqdHlZOERDTFN6RS1RNzRiTE5hd0RIVzVNX2o1ZG9hWW42ZUcxMTZyeXJDYnVvQkFxcXprenRuSzF5VXdtMkVRMGNlbjdKU3JLVjV0a0k2WDdnd0xmOG1FWjIyOU5tU0Vn?oc=5)
-
-`Wed, 23 Sep 2026 04:20:31 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRlZlNHBlYmloU1RyWDhoeTM2M0Z6V0s0NkFoY3dSdXowUE9UdW91NUdUY0h5cTM1V1E1NV9RekVBaWdjZ1E3b0h4bE5wby1jNmY1Q2lKd2tRUi04RzdicVZTMmFyS3NGbW1EVDdwSWJKVXRtVF8takRrTlN2ZFdqdHlZOERDTFN6RS1RNzRiTE5hd0RIVzVNX2o1ZG9hWW42ZUcxMTZyeXJDYnVvQkFxcXprenRuSzF5VXdtMkVRMGNlbjdKU3JLVjV0a0k2WDdnd0xmOG1FWjIyOU5tU0Vn?oc=5" target="_blank">EXCLUSIF - Compte personnel de formation : les salariés devront payer jusqu'à 350 euros de malus</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
