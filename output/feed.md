@@ -1,7 +1,31 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Fri, 23 Oct 2026 20:08:09 +0000`
-> 128 articles (30 derniers jours)
+> Derniere mise a jour : `Sat, 24 Oct 2026 13:11:07 +0000`
+> 129 articles (30 derniers jours)
+
+---
+
+### [Les mots écos - Présidentielle 2027 : qui détient la dette française ? - Les Echos](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcnlMY1hMU0UwMU5EclRJY0pxbEkzYWV5d0QwcEoyZUtWZUh6bkRjSUZiRHVKU0hzRFZUV0lFTW52dFBMeDJrYUhoQXAyTHlYNXBWcHVnTjVFczdkT3BWSjIzSzZaNHJuOTljS0lWTkxPWW9KVVh3RlktVnlaOW95YUpoNnBlMzVLVzZNU1dUU2RjMmx4dzFlcjluT1FDSTZmcWl6WEE4RnNlR1FqbmZHamFsTnlESk40VF85dzZEdTFJYUxKeEtrWA?oc=5)
+
+`Sat, 24 Oct 2026 08:00:57 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcnlMY1hMU0UwMU5EclRJY0pxbEkzYWV5d0QwcEoyZUtWZUh6bkRjSUZiRHVKU0hzRFZUV0lFTW52dFBMeDJrYUhoQXAyTHlYNXBWcHVnTjVFczdkT3BWSjIzSzZaNHJuOTljS0lWTkxPWW9KVVh3RlktVnlaOW95YUpoNnBlMzVLVzZNU1dUU2RjMmx4dzFlcjluT1FDSTZmcWl6WEE4RnNlR1FqbmZHamFsTnlESk40VF85dzZEdTFJYUxKeEtrWA?oc=5" target="_blank">Les mots écos - Présidentielle 2027 : qui détient la dette française ?</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [DIRECT - Manifestations du 24 octobre : suivez les informations et réactions ce samedi pour l'« acte II » de la mobilisation contre la vie chère - Les Echos](https://news.google.com/rss/articles/CBMimwJBVV95cUxNR3Q3ZDFjX0tPVm1la3dBZWxxNDBpZDBWOW1OQmZGaERWVzc3NFlWVnRSZ0xmQ3pUODROczhKekRVZFNZT1dSMUVOMUY3ZXBhUmJKWDBZV1R3a1drRU9kajZyeUdFZGF5SVR0THJZQk9ZVEVOZnl2TENfMlRtMG14aXI2bnNBazB0c2ViNG1VdTdvNjdZYURkOEtrMDZNWk4wR1NGS2JUY05rZlV6SDZpc1I5ZVFGOFRVRGlzamZlaTA0TmVsellrVjJOTTRlWUJsY243aHBmWmJkS1ZNTzMwZThhZTA4b19ZRjZud2N4QmljWTV4d2M2aVV1TmNoZWIwZUhKSXhiRnM4QXNsX1FWTl9RMjMtX1NleVlR?oc=5)
+
+`Sat, 24 Oct 2026 08:16:45 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMimwJBVV95cUxNR3Q3ZDFjX0tPVm1la3dBZWxxNDBpZDBWOW1OQmZGaERWVzc3NFlWVnRSZ0xmQ3pUODROczhKekRVZFNZT1dSMUVOMUY3ZXBhUmJKWDBZV1R3a1drRU9kajZyeUdFZGF5SVR0THJZQk9ZVEVOZnl2TENfMlRtMG14aXI2bnNBazB0c2ViNG1VdTdvNjdZYURkOEtrMDZNWk4wR1NGS2JUY05rZlV6SDZpc1I5ZVFGOFRVRGlzamZlaTA0TmVsellrVjJOTTRlWUJsY243aHBmWmJkS1ZNTzMwZThhZTA4b19ZRjZud2N4QmljWTV4d2M2aVV1TmNoZWIwZUhKSXhiRnM4QXNsX1FWTl9RMjMtX1NleVlR?oc=5" target="_blank">DIRECT - Manifestations du 24 octobre : suivez les informations et réactions ce samedi pour l'« acte II » de la mobilisation contre la vie chère</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Dette publique : Moody's maintient la note de la France malgré les tensions budgétaires et sociales - Les Echos](https://news.google.com/rss/articles/CBMi8wFBVV95cUxOWlZZakV2dHVHdkxXRjgwVjVlU1V5M29KNXhQWTIyWEQ3YnlBUGc4c3FKR1JyazlYQzc3cVpfenRfQjhoQnZzMkVvd2djZWlQNUcxbXFXSXN2aHczYkp6TGZIdVp6TEc0ZTdGQ0FKcU52eUM2eWxnNTMwYVdmbUloWkh6dFE4dkxmaW5SYklPS2lwZXQ2aXplV1VORlNpRWZLT3k3Ukg0QmRuSDZEMUdZWC14OWNLOUcyV0xxajVJV0NLX01CV3p6Mzd2QmdsQzNGNURRSzdSZmhhZlA3bWhLbEMwc19FVUxoLTNZSzFPYWV5b1k?oc=5)
+
+`Fri, 23 Oct 2026 21:53:00 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi8wFBVV95cUxOWlZZakV2dHVHdkxXRjgwVjVlU1V5M29KNXhQWTIyWEQ3YnlBUGc4c3FKR1JyazlYQzc3cVpfenRfQjhoQnZzMkVvd2djZWlQNUcxbXFXSXN2aHczYkp6TGZIdVp6TEc0ZTdGQ0FKcU52eUM2eWxnNTMwYVdmbUloWkh6dFE4dkxmaW5SYklPS2lwZXQ2aXplV1VORlNpRWZLT3k3Ukg0QmRuSDZEMUdZWC14OWNLOUcyV0xxajVJV0NLX01CV3p6Mzd2QmdsQzNGNURRSzdSZmhhZlA3bWhLbEMwc19FVUxoLTNZSzFPYWV5b1k?oc=5" target="_blank">Dette publique : Moody's maintient la note de la France malgré les tensions budgétaires et sociales</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -1010,21 +1034,5 @@
 `Thu, 24 Sep 2026 15:50:26 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi5wFBVV95cUxNWEd0b2t2UlY4ZExpWWw4NkR2U3hNN3ZHMHFhbjNHbFlRMmhEeGQ2Z0tibWQ0aUxVb0pPdFBjbGhOMTJJQWJ6SUU2X1hhVW5zZFZKTV9WSF9FNjA1NlpTNUJsaE51MkF0MlNYSUU3d1lZVjJlRnlBTVMwVnA2ci1iYXFXS0drdkJ0cmNQZ181cVBvWlYzbjBhbDJ1Vl8zVjVYTkt0SVN1WlZ1eXZtRktJakttTzFMaGRHenlpc2ZsVURKakEwWmMwdWdzVlhTNDlQS3NxY2hTMUhxS1NCbW9ESjFiLVJqVEU?oc=5" target="_blank">Les grands groupes alertent sur les risques du maintien de la surtaxe sur les bénéfices</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [L'économie française continue de faire grise mine - Les Echos](https://news.google.com/rss/articles/CBMirAFBVV95cUxOQ0lENnZwVmRvNUJENktQT3ptdnFubV82ZDEtM1h3N244SW93cFUya2pxNy04V0lvbUtpNExtbXJUbW9yaDBuZVNkdW1iamdHTHNfM09Ja0RFWWY0QV9GVzYxRHhsdGxwMzVkT2RvVHZoS0dsaVdoaXlZbWlMOWhTRUlsQlk4aEJLaE9nNm1TVk1zS1J0c09XNHM5VXpMOGhDMFdadV9HNWJSMEtF?oc=5)
-
-`Thu, 24 Sep 2026 09:39:43 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxOQ0lENnZwVmRvNUJENktQT3ptdnFubV82ZDEtM1h3N244SW93cFUya2pxNy04V0lvbUtpNExtbXJUbW9yaDBuZVNkdW1iamdHTHNfM09Ja0RFWWY0QV9GVzYxRHhsdGxwMzVkT2RvVHZoS0dsaVdoaXlZbWlMOWhTRUlsQlk4aEJLaE9nNm1TVk1zS1J0c09XNHM5VXpMOGhDMFdadV9HNWJSMEtF?oc=5" target="_blank">L'économie française continue de faire grise mine</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Présidentielle 2027 : l'avertissement lancé aux candidats pour éviter la « fuite des cerveaux » - Les Echos](https://news.google.com/rss/articles/CBMi2wFBVV95cUxONUc1cFFkS1c3eU43ZHNPNzNpUTYtZzdNd2s0WF9JcndEci0zRkZCMnA1aEl2bEkxQVQ1b0xrYW9hN0JmVDRCb0JOcGZKZjZ0am41LTN0Wms4Ukx6aEJNN2UyRFkxSFgyazJIMGtEaFpydmZZMS05bjgtZTlod3VySXhwTm55R1NhTERFMTlKWE9iMFFfVnVsSmFIMDhuQ2lCLVBoU1B0ODlrcG1iZHhxd2ZrVWJYWmhfV21PVzhTazdPN0FiRlF4RllFTjBVZ04zZjVCejcxYU1UanM?oc=5)
-
-`Thu, 24 Sep 2026 05:33:08 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi2wFBVV95cUxONUc1cFFkS1c3eU43ZHNPNzNpUTYtZzdNd2s0WF9JcndEci0zRkZCMnA1aEl2bEkxQVQ1b0xrYW9hN0JmVDRCb0JOcGZKZjZ0am41LTN0Wms4Ukx6aEJNN2UyRFkxSFgyazJIMGtEaFpydmZZMS05bjgtZTlod3VySXhwTm55R1NhTERFMTlKWE9iMFFfVnVsSmFIMDhuQ2lCLVBoU1B0ODlrcG1iZHhxd2ZrVWJYWmhfV21PVzhTazdPN0FiRlF4RllFTjBVZ04zZjVCejcxYU1UanM?oc=5" target="_blank">Présidentielle 2027 : l'avertissement lancé aux candidats pour éviter la « fuite des cerveaux »</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
