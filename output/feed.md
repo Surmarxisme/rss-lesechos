@@ -1,7 +1,23 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Sat, 24 Oct 2026 13:11:07 +0000`
-> 129 articles (30 derniers jours)
+> Derniere mise a jour : `Sun, 25 Oct 2026 13:37:19 +0000`
+> 128 articles (30 derniers jours)
+
+---
+
+### [Crise du carburant : un décret en vue de la libération de stocks stratégiques de gazole publié - Les Echos](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNSHpvWjE5YUpVWUtkbFZkM3R4NEdTazNnN3lHSHlSYzd3NHo4V3huX1RXWGpNdmpyemdjTF9ERVUyZHhlVFE2Yjh0NllvaWR1ZjNHX3cyekdQR2FfR0llQi10d3ozUWVOMF9BNkQ0TWsyNDdkSGFfZjhXRU5fd2NzWmR5SGFDLU9vME4yVzBReWtxanI3QU8xUl9pZ0hHNU50eFBhekJpRTNLMlF1dXRYTktPVkgwVVQ3ZDVDczRFYXRrcXJibXVtOFFNN3JhUnVzdmFKVmN1RUJEN0l2ZFBsSA?oc=5)
+
+`Sat, 24 Oct 2026 14:29:00 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi4AFBVV95cUxNSHpvWjE5YUpVWUtkbFZkM3R4NEdTazNnN3lHSHlSYzd3NHo4V3huX1RXWGpNdmpyemdjTF9ERVUyZHhlVFE2Yjh0NllvaWR1ZjNHX3cyekdQR2FfR0llQi10d3ozUWVOMF9BNkQ0TWsyNDdkSGFfZjhXRU5fd2NzWmR5SGFDLU9vME4yVzBReWtxanI3QU8xUl9pZ0hHNU50eFBhekJpRTNLMlF1dXRYTktPVkgwVVQ3ZDVDczRFYXRrcXJibXVtOFFNN3JhUnVzdmFKVmN1RUJEN0l2ZFBsSA?oc=5" target="_blank">Crise du carburant : un décret en vue de la libération de stocks stratégiques de gazole publié</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Manifestations du 24 octobre : une nouvelle forte mobilisation malgré les interdictions de manifester - Les Echos](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQRTE2bkVFUEpwaU03RDcxa3NQSlltWVNyam5rWTh0MGlVMVB6azI2aGltYWlyRGx2dDVIRkdadzlyT3FXdktpX0luTXhwdzZHTTF0cjlQVmhpa0R0UkxmMlhZZy1sVWpvbUhpZGpQY3VhUVlmSmRtUkVhUjJhM0RBV2Q3UHpJcHpuN2xERG5zUVFjd2lsZHhBTDNiT0R4SXZaQ2dyTmlDdkVETWh2OWFHQUtkNWliekVVNWluSXAzbGtTZjVJRGpGTFBwNGV2cW5WTGdodHVCbTdMOXFlck91TTNKc2Y3UHBpNkE?oc=5)
+
+`Sun, 25 Oct 2026 08:35:47 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi6gFBVV95cUxQRTE2bkVFUEpwaU03RDcxa3NQSlltWVNyam5rWTh0MGlVMVB6azI2aGltYWlyRGx2dDVIRkdadzlyT3FXdktpX0luTXhwdzZHTTF0cjlQVmhpa0R0UkxmMlhZZy1sVWpvbUhpZGpQY3VhUVlmSmRtUkVhUjJhM0RBV2Q3UHpJcHpuN2xERG5zUVFjd2lsZHhBTDNiT0R4SXZaQ2dyTmlDdkVETWh2OWFHQUtkNWliekVVNWluSXAzbGtTZjVJRGpGTFBwNGV2cW5WTGdodHVCbTdMOXFlck91TTNKc2Y3UHBpNkE?oc=5" target="_blank">Manifestations du 24 octobre : une nouvelle forte mobilisation malgré les interdictions de manifester</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -1010,29 +1026,5 @@
 `Fri, 25 Sep 2026 16:00:21 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi4AFBVV95cUxNTUxoMTZNNGhvY1dzQW5YSzhsaldBeFVKSFh2YTlMZmNvbXY5S0UtUGt0NGRQTzJrdlZuc3dzQ3hFQ3M3VE9sU2RHTDQzVzhYZW5FbTltb0RwbEFYZlVxeG9MVDl3NzVuclViUXNXcjhOLVY5TDlPdUd1U0lUNUpRWUR0aFRIYTZaMEh4UFJ4c183djJTZFphUUtwb2dYQndjckRKX3ZqNlJjREhGWWYxNUdRUUVkQnVhOFlsUVBkb1ZYaHNpb29oN0tJY0FfbWJ2X0M5N2ZLbC1WMjNRWF9tUA?oc=5" target="_blank">EXCLUSIF - Perquisition de la brigade financière dans le monde de la formation professionnelle</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Travailler plus : ces pistes chocs à l'effet massif sur la croissance et les finances publiques - Les Echos](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQU053RWxDR2xodTY2Ulc2aWVGM3MyQldIYzhZX0JWOUk1Zl92U1paRlV6VXhTV1VtM2NtdXVxRk8tVW1UT0JnOUdNQml2MjBXZDJmNDJwcnRtMkFKUDd0XzBUN0Nhc1E2eUVlb3VOSUVzOFF1cVVzelBicUFrclFTbnFUQWtFV05sZURCS3loWUFleHpmNHlMQjRlTEI3Q1RWbnJfcFpaNU50VFdmMDhGZk93bU9jbk1sanZ1ZmVYYTdmZEJZRGpGQzdza1pTRDd5TUJKQXctc2NFRkJVYWhVLQ?oc=5)
-
-`Fri, 25 Sep 2026 04:00:10 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi4AFBVV95cUxQU053RWxDR2xodTY2Ulc2aWVGM3MyQldIYzhZX0JWOUk1Zl92U1paRlV6VXhTV1VtM2NtdXVxRk8tVW1UT0JnOUdNQml2MjBXZDJmNDJwcnRtMkFKUDd0XzBUN0Nhc1E2eUVlb3VOSUVzOFF1cVVzelBicUFrclFTbnFUQWtFV05sZURCS3loWUFleHpmNHlMQjRlTEI3Q1RWbnJfcFpaNU50VFdmMDhGZk93bU9jbk1sanZ1ZmVYYTdmZEJZRGpGQzdza1pTRDd5TUJKQXctc2NFRkJVYWhVLQ?oc=5" target="_blank">Travailler plus : ces pistes chocs à l'effet massif sur la croissance et les finances publiques</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Le gouvernement prêt à geler la prime d'activité pour boucler son budget - Les Echos](https://news.google.com/rss/articles/CBMixAFBVV95cUxQRU9oZzFpMUVHelJZejExRmk0WVJrcExpLTA3RWRlY0lWWFpMYTN5NXV6elVYTG9YamtvSHJYNEF6eXhzZFNybU9vRzNmWTVNSGI3UFkxN1JBeHptRTltYjU4TmtXaGJaVWtCNzdpbUxFMmZYNVhjbDBzcXg0MldQeFBtZ3lEOGF3c0xhLUdRZUxIR0cwNUM5bWhiRDQwekRzMmZ2VzIxU3p3Mk9qOGExUWZSYkhndWoySUtlX2tublNWeEQy?oc=5)
-
-`Thu, 24 Sep 2026 16:46:26 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMixAFBVV95cUxQRU9oZzFpMUVHelJZejExRmk0WVJrcExpLTA3RWRlY0lWWFpMYTN5NXV6elVYTG9YamtvSHJYNEF6eXhzZFNybU9vRzNmWTVNSGI3UFkxN1JBeHptRTltYjU4TmtXaGJaVWtCNzdpbUxFMmZYNVhjbDBzcXg0MldQeFBtZ3lEOGF3c0xhLUdRZUxIR0cwNUM5bWhiRDQwekRzMmZ2VzIxU3p3Mk9qOGExUWZSYkhndWoySUtlX2tublNWeEQy?oc=5" target="_blank">Le gouvernement prêt à geler la prime d'activité pour boucler son budget</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Les grands groupes alertent sur les risques du maintien de la surtaxe sur les bénéfices - Les Echos](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNWEd0b2t2UlY4ZExpWWw4NkR2U3hNN3ZHMHFhbjNHbFlRMmhEeGQ2Z0tibWQ0aUxVb0pPdFBjbGhOMTJJQWJ6SUU2X1hhVW5zZFZKTV9WSF9FNjA1NlpTNUJsaE51MkF0MlNYSUU3d1lZVjJlRnlBTVMwVnA2ci1iYXFXS0drdkJ0cmNQZ181cVBvWlYzbjBhbDJ1Vl8zVjVYTkt0SVN1WlZ1eXZtRktJakttTzFMaGRHenlpc2ZsVURKakEwWmMwdWdzVlhTNDlQS3NxY2hTMUhxS1NCbW9ESjFiLVJqVEU?oc=5)
-
-`Thu, 24 Sep 2026 15:50:26 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi5wFBVV95cUxNWEd0b2t2UlY4ZExpWWw4NkR2U3hNN3ZHMHFhbjNHbFlRMmhEeGQ2Z0tibWQ0aUxVb0pPdFBjbGhOMTJJQWJ6SUU2X1hhVW5zZFZKTV9WSF9FNjA1NlpTNUJsaE51MkF0MlNYSUU3d1lZVjJlRnlBTVMwVnA2ci1iYXFXS0drdkJ0cmNQZ181cVBvWlYzbjBhbDJ1Vl8zVjVYTkt0SVN1WlZ1eXZtRktJakttTzFMaGRHenlpc2ZsVURKakEwWmMwdWdzVlhTNDlQS3NxY2hTMUhxS1NCbW9ESjFiLVJqVEU?oc=5" target="_blank">Les grands groupes alertent sur les risques du maintien de la surtaxe sur les bénéfices</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
