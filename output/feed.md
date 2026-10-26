@@ -1,7 +1,23 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Sun, 25 Oct 2026 13:37:19 +0000`
+> Derniere mise a jour : `Mon, 26 Oct 2026 11:36:07 +0000`
 > 128 articles (30 derniers jours)
+
+---
+
+### [Le gouvernement reste sous pression après une forte mobilisation sans chaos - Les Echos](https://news.google.com/rss/articles/CBMiygFBVV95cUxPMzNYTmV2YmpzeUJfb0JvQjRxa0J1OUwzQlo2WVlKb0J2X0RTSllmdWFBbFg0bGR0TEZ0WU5FbHV0RVpQSFhJVm5OU0tpWVlIbXc4dW9yTl9nTnhpWGFmTmk1U2JjeWN3eFBiTGRVMV95ckNYU0pxei10NUZWTlpHQVUxYUFuZFJyNElFRXEyekNhTmxPQU15dmFQUnVoN2hMRGdxY3NsZjEtdk1Zb1dOV1Uyd2U1RktobWdaSVBTLS1iZTliSnF4MVZn?oc=5)
+
+`Sun, 25 Oct 2026 14:45:57 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxPMzNYTmV2YmpzeUJfb0JvQjRxa0J1OUwzQlo2WVlKb0J2X0RTSllmdWFBbFg0bGR0TEZ0WU5FbHV0RVpQSFhJVm5OU0tpWVlIbXc4dW9yTl9nTnhpWGFmTmk1U2JjeWN3eFBiTGRVMV95ckNYU0pxei10NUZWTlpHQVUxYUFuZFJyNElFRXEyekNhTmxPQU15dmFQUnVoN2hMRGdxY3NsZjEtdk1Zb1dOV1Uyd2U1RktobWdaSVBTLS1iZTliSnF4MVZn?oc=5" target="_blank">Le gouvernement reste sous pression après une forte mobilisation sans chaos</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Finances Publiques : actualités, analyses et vidéos - Les Echos | Page 1039 - Les Echos](https://news.google.com/rss/articles/CBMijgFBVV95cUxOQUFJMDBWY3o1WmliZk9DbW1UTkVaODBMNFZGLXBhMjFqVjNjUnI3Qm9LRUo0ZE5BbDY5VDY3LUlrVFhDMXRnRmwyWGxJMm9fdnhvdFZvZmoxZkF6VnBBcDEzT0lLZE5kNTVmWVdMbGpSdGcwS2s3b3hHQ2NXVTdGMWkzTlN3OVZ5VUVuX1FB?oc=5)
+
+`Fri, 23 Oct 2026 16:50:26 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMijgFBVV95cUxOQUFJMDBWY3o1WmliZk9DbW1UTkVaODBMNFZGLXBhMjFqVjNjUnI3Qm9LRUo0ZE5BbDY5VDY3LUlrVFhDMXRnRmwyWGxJMm9fdnhvdFZvZmoxZkF6VnBBcDEzT0lLZE5kNTVmWVdMbGpSdGcwS2s3b3hHQ2NXVTdGMWkzTlN3OVZ5VUVuX1FB?oc=5" target="_blank">Finances Publiques : actualités, analyses et vidéos - Les Echos | Page 1039</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -1010,21 +1026,5 @@
 `Sun, 27 Sep 2026 14:31:07 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMizgFBVV95cUxPWUNPVVdFT3lycFFFckhSblU3N09OVF9FQU9GMFR0QXdNeFpsYXIxZW41SksxSkdOMUtxRUY4OE1tUTVZb3BNUkhZd1BBSGdwY0lJSXNDLTdqSmRVRnhaMVhRQ01abXJILXl4Z0t5cjNUd19pY1o0QnNJSDE3aTF0bEhIb0Q0R1NHZXM0QzlWSEZwbWxuMkVUMFVLSDhjc0dPV0d4ZFVhSUhRYXh3UkZlcnhtUnZRcm9WU0FvQWc3bkhCaWZuTm54WHAtcS05QQ?oc=5" target="_blank">Mobilisation des fonctionnaires mardi, sur fond de montée des tensions sociales</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [EXCLUSIF - Budget 2027 : le gouvernement envisage de limiter encore les allègements de charges des entreprises - lesechos.fr](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNQ3JWM3lsQTk0Q09ZaGV5MTAzT243dm9KZzk0SlJvRlRNU25WbnhPckQwdzlrUG5sVVg1UjhtMHdjbmxEZUVzcTk0VXBLcFpFYThMMzJha3VNcnZwMWgwN1BZc1BZZEU5M2RVU29zSUV5UWtvLWE1akZkRjlmWFA3WDJyNWpFWG1nRGphM1B0b1kyaDdTNjVEcnhpaUxNRzdjanNfeDFRU213RjZLblZObkNWWEE1WTBDcnY3dkRnMnI3d05IWUFiNHJVLXVCel9uaUc3NjViaE5lSUhnVkFVY2ROdEdlUUdIcTVjWk5nSDBLYzg?oc=5)
-
-`Sat, 26 Sep 2026 06:35:49 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi8wFBVV95cUxNQ3JWM3lsQTk0Q09ZaGV5MTAzT243dm9KZzk0SlJvRlRNU25WbnhPckQwdzlrUG5sVVg1UjhtMHdjbmxEZUVzcTk0VXBLcFpFYThMMzJha3VNcnZwMWgwN1BZc1BZZEU5M2RVU29zSUV5UWtvLWE1akZkRjlmWFA3WDJyNWpFWG1nRGphM1B0b1kyaDdTNjVEcnhpaUxNRzdjanNfeDFRU213RjZLblZObkNWWEE1WTBDcnY3dkRnMnI3d05IWUFiNHJVLXVCel9uaUc3NjViaE5lSUhnVkFVY2ROdEdlUUdIcTVjWk5nSDBLYzg?oc=5" target="_blank">EXCLUSIF - Budget 2027 : le gouvernement envisage de limiter encore les allègements de charges des entreprises</a>&nbsp;&nbsp;<font color="#6f6f6f">lesechos.fr</font>
-
----
-
-### [EXCLUSIF - Perquisition de la brigade financière dans le monde de la formation professionnelle - Les Echos](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNTUxoMTZNNGhvY1dzQW5YSzhsaldBeFVKSFh2YTlMZmNvbXY5S0UtUGt0NGRQTzJrdlZuc3dzQ3hFQ3M3VE9sU2RHTDQzVzhYZW5FbTltb0RwbEFYZlVxeG9MVDl3NzVuclViUXNXcjhOLVY5TDlPdUd1U0lUNUpRWUR0aFRIYTZaMEh4UFJ4c183djJTZFphUUtwb2dYQndjckRKX3ZqNlJjREhGWWYxNUdRUUVkQnVhOFlsUVBkb1ZYaHNpb29oN0tJY0FfbWJ2X0M5N2ZLbC1WMjNRWF9tUA?oc=5)
-
-`Fri, 25 Sep 2026 16:00:21 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi4AFBVV95cUxNTUxoMTZNNGhvY1dzQW5YSzhsaldBeFVKSFh2YTlMZmNvbXY5S0UtUGt0NGRQTzJrdlZuc3dzQ3hFQ3M3VE9sU2RHTDQzVzhYZW5FbTltb0RwbEFYZlVxeG9MVDl3NzVuclViUXNXcjhOLVY5TDlPdUd1U0lUNUpRWUR0aFRIYTZaMEh4UFJ4c183djJTZFphUUtwb2dYQndjckRKX3ZqNlJjREhGWWYxNUdRUUVkQnVhOFlsUVBkb1ZYaHNpb29oN0tJY0FfbWJ2X0M5N2ZLbC1WMjNRWF9tUA?oc=5" target="_blank">EXCLUSIF - Perquisition de la brigade financière dans le monde de la formation professionnelle</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
