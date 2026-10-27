@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Tue, 27 Oct 2026 15:14:49 +0000`
-> 127 articles (30 derniers jours)
+> Derniere mise a jour : `Tue, 27 Oct 2026 17:06:27 +0000`
+> 128 articles (30 derniers jours)
+
+---
+
+### [Dette : comment la France est devenue le maillon faible de l'Europe - Les Echos](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQ0R1X2RxWk93M0pwOWpkTnlpR1gxVXYwX09WRFRWNjhiWm53SHg0YUIwdXRnMVNOTFFGVUhaQXU2alVfb3BwdTkwbkc2WFRJelZYVllzVjlqTE5UWUlad0JpTWNVanNxM0ZpeXYyai04REw2cTd0VF80c09OUV9PeWJ1S09wZ0xFYU00WWFrVVk3OEQ0UXVON09BSUVieHpnb3RpS2trTG9UdW9DTE9oR3ZDVzBNNktPV24tRXhPUWhtSVYzSFRXWg?oc=5)
+
+`Tue, 27 Oct 2026 16:00:25 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQ0R1X2RxWk93M0pwOWpkTnlpR1gxVXYwX09WRFRWNjhiWm53SHg0YUIwdXRnMVNOTFFGVUhaQXU2alVfb3BwdTkwbkc2WFRJelZYVllzVjlqTE5UWUlad0JpTWNVanNxM0ZpeXYyai04REw2cTd0VF80c09OUV9PeWJ1S09wZ0xFYU00WWFrVVk3OEQ0UXVON09BSUVieHpnb3RpS2trTG9UdW9DTE9oR3ZDVzBNNktPV24tRXhPUWhtSVYzSFRXWg?oc=5" target="_blank">Dette : comment la France est devenue le maillon faible de l'Europe</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
