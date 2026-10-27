@@ -1,7 +1,31 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Tue, 27 Oct 2026 17:06:27 +0000`
-> 128 articles (30 derniers jours)
+> Derniere mise a jour : `Tue, 27 Oct 2026 21:02:00 +0000`
+> 131 articles (30 derniers jours)
+
+---
+
+### [Mesures pour les lycéens et étudiants : une facture limitée pour le budget 2027 - Les Echos](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQbk83bWpjZmpWaURCMWZ4LXM0eXp0Q1FyRVM5dVhXalEwTmdQd0Z4YklNS3pyS2VYbUY0Q1VYUktNV3h5ZzVVdkJFbDRjSGtWc21RM0IwcGc2Ri1DSFZfcWlmcng4dVlpVWRnZU40LS1uOGIxUG01a1ZLaGZFSjZnellJbDZFeDI2V1hmSDlOTXcyRktzUVVGUkFpS0NlOVFwUTg1TFl0VVRXdWFXY3pZQ1BTTzlMMWN0WG1yeDhRZHpDQlJDRm1weDR6ek1jUVJHZXE3WWtMMmNqZw?oc=5)
+
+`Tue, 27 Oct 2026 16:14:42 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi2gFBVV95cUxQbk83bWpjZmpWaURCMWZ4LXM0eXp0Q1FyRVM5dVhXalEwTmdQd0Z4YklNS3pyS2VYbUY0Q1VYUktNV3h5ZzVVdkJFbDRjSGtWc21RM0IwcGc2Ri1DSFZfcWlmcng4dVlpVWRnZU40LS1uOGIxUG01a1ZLaGZFSjZnellJbDZFeDI2V1hmSDlOTXcyRktzUVVGUkFpS0NlOVFwUTg1TFl0VVRXdWFXY3pZQ1BTTzlMMWN0WG1yeDhRZHpDQlJDRm1weDR6ek1jUVJHZXE3WWtMMmNqZw?oc=5" target="_blank">Mesures pour les lycéens et étudiants : une facture limitée pour le budget 2027</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [France 2030 : l'alerte de la Cour des comptes sur le « mur d'engagements » restant à financer - Les Echos](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPa2FQMUkyMnpkcWRfc1FjN3JlbXVlV2xnbV91LXhGTTlqUXVya3ItWE1pR3pfUG82T05GdHc2Y09GeGVrTGw1V215blJKM2FWZGhCWHAxX2hHVmNmbXo5T0NRVnVnelBKbUdTbU1fMlJRcjR5XzFrNkxHekFDeENBV09uaG95cE1Qd01NY3pwV0dheUY0T3gzY1hWTHdwT1YwbGZrNVBZQi10bFpVNzN2bEFjaWt0RF9SSTBELUFVaVQwNE5nZzhObk1TQW5fcE55WndaR21sY2pvaDFjOTZLd0V2bEY?oc=5)
+
+`Tue, 27 Oct 2026 19:00:09 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi5AFBVV95cUxPa2FQMUkyMnpkcWRfc1FjN3JlbXVlV2xnbV91LXhGTTlqUXVya3ItWE1pR3pfUG82T05GdHc2Y09GeGVrTGw1V215blJKM2FWZGhCWHAxX2hHVmNmbXo5T0NRVnVnelBKbUdTbU1fMlJRcjR5XzFrNkxHekFDeENBV09uaG95cE1Qd01NY3pwV0dheUY0T3gzY1hWTHdwT1YwbGZrNVBZQi10bFpVNzN2bEFjaWt0RF9SSTBELUFVaVQwNE5nZzhObk1TQW5fcE55WndaR21sY2pvaDFjOTZLd0V2bEY?oc=5" target="_blank">France 2030 : l'alerte de la Cour des comptes sur le « mur d'engagements » restant à financer</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Immigration et emploi : une contribution sous-estimée des non-Européens - Les Echos](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTmVYYmdqUkZQdk1FNk9xel91MWZuR296Tk5DN2lTTmtsRnRfOEhzemtGZHhxNFBodW9tdldyUDRJamhFVG11VEp2Z0ViVHEzTllpampfT2hVTVhLcDdCMUt4bmxCYm1zTXVUQXZ2cGVaa3FzQ1ItaWlwZ2lsQkJadmlET3VOWDhPMFFBMl9zR2N1VFVqcm16Ni11UnBtSFJJVVg2WEFtaVZURjFGSDJUMUZWTWgwT3I5a0FTZmlNS1l5UQ?oc=5)
+
+`Tue, 27 Oct 2026 17:18:17 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTmVYYmdqUkZQdk1FNk9xel91MWZuR296Tk5DN2lTTmtsRnRfOEhzemtGZHhxNFBodW9tdldyUDRJamhFVG11VEp2Z0ViVHEzTllpampfT2hVTVhLcDdCMUt4bmxCYm1zTXVUQXZ2cGVaa3FzQ1ItaWlwZ2lsQkJadmlET3VOWDhPMFFBMl9zR2N1VFVqcm16Ni11UnBtSFJJVVg2WEFtaVZURjFGSDJUMUZWTWgwT3I5a0FTZmlNS1l5UQ?oc=5" target="_blank">Immigration et emploi : une contribution sous-estimée des non-Européens</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
