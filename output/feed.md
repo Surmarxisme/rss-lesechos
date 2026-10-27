@@ -1,7 +1,7 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Tue, 27 Oct 2026 11:06:32 +0000`
-> 128 articles (30 derniers jours)
+> Derniere mise a jour : `Tue, 27 Oct 2026 15:14:49 +0000`
+> 127 articles (30 derniers jours)
 
 ---
 
@@ -1018,13 +1018,5 @@
 `Mon, 28 Sep 2026 09:09:53 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMimAJBVV95cUxNeXM5ZXJOSW5fWXhNMmd1NWVwV25tUHQ4ZVVKdl9xNkgwMTkzcWNMU0JTV1dGWTJCZWV3cFQ4MlJsbUlpMFFlSXo2Z3F1RFJlY1lFQktVYkZVcUluZ2czZ2NHTkxmRWRfeWU0YjZHUnhrUXYybXE2bXpwZVZtMW04N1VhdWVhS3lYNlFXRjcyWDhfOGx2TGphN3VsZTFScTlrVk9OUzluTXp6WmpKaXZTdkFkblV3NmdTajNUclZfQkFUZ1UycjhJdEVtTDZjRjcxN0Q0b3gtV3hlaTQySGhYWnBqdzNsOXp0VHVjRE5XbWd4VnhvUWFyRlZLTzNTcW4tVmRCazdma0RkVm5LRl9iV3ZGV0Q5d2ln?oc=5" target="_blank">Désindexation des pensions, fin de l'abattement fiscal, hausse de la CSG… Les pistes d'économies sur les retraités au banc d'essai</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Mobilisation des fonctionnaires mardi, sur fond de montée des tensions sociales - Les Echos](https://news.google.com/rss/articles/CBMizgFBVV95cUxPWUNPVVdFT3lycFFFckhSblU3N09OVF9FQU9GMFR0QXdNeFpsYXIxZW41SksxSkdOMUtxRUY4OE1tUTVZb3BNUkhZd1BBSGdwY0lJSXNDLTdqSmRVRnhaMVhRQ01abXJILXl4Z0t5cjNUd19pY1o0QnNJSDE3aTF0bEhIb0Q0R1NHZXM0QzlWSEZwbWxuMkVUMFVLSDhjc0dPV0d4ZFVhSUhRYXh3UkZlcnhtUnZRcm9WU0FvQWc3bkhCaWZuTm54WHAtcS05QQ?oc=5)
-
-`Sun, 27 Sep 2026 14:31:07 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMizgFBVV95cUxPWUNPVVdFT3lycFFFckhSblU3N09OVF9FQU9GMFR0QXdNeFpsYXIxZW41SksxSkdOMUtxRUY4OE1tUTVZb3BNUkhZd1BBSGdwY0lJSXNDLTdqSmRVRnhaMVhRQ01abXJILXl4Z0t5cjNUd19pY1o0QnNJSDE3aTF0bEhIb0Q0R1NHZXM0QzlWSEZwbWxuMkVUMFVLSDhjc0dPV0d4ZFVhSUhRYXh3UkZlcnhtUnZRcm9WU0FvQWc3bkhCaWZuTm54WHAtcS05QQ?oc=5" target="_blank">Mobilisation des fonctionnaires mardi, sur fond de montée des tensions sociales</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
