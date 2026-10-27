@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Mon, 26 Oct 2026 21:14:50 +0000`
+> Derniere mise a jour : `Tue, 27 Oct 2026 11:06:32 +0000`
 > 128 articles (30 derniers jours)
+
+---
+
+### [Les Français gagnés par la sinistrose - Les Echos](https://news.google.com/rss/articles/CBMingFBVV95cUxNTFhTX09iRjNGajVIYWpSamYydFlxRThmVUR0Q21tb3g4VkoyOUxDMm1DRHBuRkZabHR5SGZVMEF0SkpaSzFVWVgyUTB3MDBDZ1VfWm9uSE5JT3VVRXlQZ1FJOU5SV2dkVE1nU0FfcktRUE1hTkR2c1M4ekxZVDhVYTVoSDlXYktNZ1loMVItNVI3UWZTeVhFS1h2R2VPUQ?oc=5)
+
+`Tue, 27 Oct 2026 09:16:09 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMingFBVV95cUxNTFhTX09iRjNGajVIYWpSamYydFlxRThmVUR0Q21tb3g4VkoyOUxDMm1DRHBuRkZabHR5SGZVMEF0SkpaSzFVWVgyUTB3MDBDZ1VfWm9uSE5JT3VVRXlQZ1FJOU5SV2dkVE1nU0FfcktRUE1hTkR2c1M4ekxZVDhVYTVoSDlXYktNZ1loMVItNVI3UWZTeVhFS1h2R2VPUQ?oc=5" target="_blank">Les Français gagnés par la sinistrose</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -1010,14 +1018,6 @@
 `Mon, 28 Sep 2026 09:09:53 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMimAJBVV95cUxNeXM5ZXJOSW5fWXhNMmd1NWVwV25tUHQ4ZVVKdl9xNkgwMTkzcWNMU0JTV1dGWTJCZWV3cFQ4MlJsbUlpMFFlSXo2Z3F1RFJlY1lFQktVYkZVcUluZ2czZ2NHTkxmRWRfeWU0YjZHUnhrUXYybXE2bXpwZVZtMW04N1VhdWVhS3lYNlFXRjcyWDhfOGx2TGphN3VsZTFScTlrVk9OUzluTXp6WmpKaXZTdkFkblV3NmdTajNUclZfQkFUZ1UycjhJdEVtTDZjRjcxN0Q0b3gtV3hlaTQySGhYWnBqdzNsOXp0VHVjRE5XbWd4VnhvUWFyRlZLTzNTcW4tVmRCazdma0RkVm5LRl9iV3ZGV0Q5d2ln?oc=5" target="_blank">Désindexation des pensions, fin de l'abattement fiscal, hausse de la CSG… Les pistes d'économies sur les retraités au banc d'essai</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Retraités, salariés, entreprises… Ceux qui vont payer la facture du budget 2027 - Les Echos](https://news.google.com/rss/articles/CBMi2AFBVV95cUxORHA1WVFMN2F2WXhqdDRGWDBRVHdPblhmbEpycUlNYmpUSW5JUEJDQlNkRGZYU001SDRLZEkxck5rMVJVQmN0WW5tLS1BaGkzNXVpNldmVlhTQ0ktb3QxaHpYaFRsZHN2RHpBamJLTTlnN0VRQ01xZENpOExVYkdNOXlHREQtVUlJYlVJWldBYVhYYnNQdEZMNzRiSGxnSDlIS2tKWDlCbzRub1hyaVZacGtXT1h5YkpvcGFHOHd0YlpmMF91bWNNdUhFT3ctbUhPcEZ1NFFldy0?oc=5)
-
-`Sun, 27 Sep 2026 06:35:09 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi2AFBVV95cUxORHA1WVFMN2F2WXhqdDRGWDBRVHdPblhmbEpycUlNYmpUSW5JUEJDQlNkRGZYU001SDRLZEkxck5rMVJVQmN0WW5tLS1BaGkzNXVpNldmVlhTQ0ktb3QxaHpYaFRsZHN2RHpBamJLTTlnN0VRQ01xZENpOExVYkdNOXlHREQtVUlJYlVJWldBYVhYYnNQdEZMNzRiSGxnSDlIS2tKWDlCbzRub1hyaVZacGtXT1h5YkpvcGFHOHd0YlpmMF91bWNNdUhFT3ctbUhPcEZ1NFFldy0?oc=5" target="_blank">Retraités, salariés, entreprises… Ceux qui vont payer la facture du budget 2027</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
