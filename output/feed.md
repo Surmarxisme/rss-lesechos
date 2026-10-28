@@ -1,7 +1,7 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Wed, 28 Oct 2026 17:42:34 +0000`
-> 132 articles (30 derniers jours)
+> Derniere mise a jour : `Wed, 28 Oct 2026 21:23:50 +0000`
+> 131 articles (30 derniers jours)
 
 ---
 
@@ -1050,13 +1050,5 @@
 `Tue, 29 Sep 2026 04:05:08 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMingJBVV95cUxPTmtlWTZlRXV5c1pwVEhjU0xVbXB0R2U1clo0ZFNjUnhhcUVyWWhRY3pudkg0dzFtYXBNOVpXc2o0Q28wemNnLW8xbmptbVBpSDlQTUl2UnNHVmhjYTZUYng4YUZMeTdBcnRZTjU3RE1KeDNDNW54c0RsZDVUUVVzUzZ1eGF5QS14QjJKT3c5b29VUFpyUVdxSC1GVHh0TkQxRFphT2tBend4YVZMdWE5MnhJaXZUYU5Ra1BwOGtXdjM4emF0a3cwNFVROUh0aXR2R2ZMV1h1TjcxVFJJVl8tQXBMbEtjSEpBSlJOWWhOY2R5WHROWUEtRlVvbmxHUGRzWF91QnY5a1FxSS1nNFFHYzNjNUlGOTA4dnV5bDdn?oc=5" target="_blank">« Le maître mot de la campagne présidentielle est le déni total de réalité » : l'inquiétant silence des candidats sur le désendettement</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Budget 2027 : le gouvernement veut plus que doubler la taxe sur les autoroutes et grands aéroports - Les Echos](https://news.google.com/rss/articles/CBMi_AFBVV95cUxPSjE0SVFtQktXbWhqU2ZnU0QxaXVqa0lHNzY5d1BFVURoZ2x6Uko2ZHpYRThZbkw4UFBzMm5WaEtjZDRVaUQ4d0RJdDhMaFYyQjZxdjdiQVpyYl83WC1zUFpES0c4STFjdFR3SkZvbUZwazR2dnpVVktJQkJrUzdleFlNOVZmSVNjSC04bWpldUdNNVRiZFBfUHpYYXQyQlB4VG45V1A4aTFTQXhMNENEMG1GTFMzOFk3Mk9ZS3ZCR3pTMHVHYmpxbElvZDZKTzJ5Ni1UeDRqWGpDYi1lUm11eWtmajZKVjc2a1ZDd2MtU0QzQlVWaEs5dG5sTGM?oc=5)
-
-`Mon, 28 Sep 2026 17:52:59 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi_AFBVV95cUxPSjE0SVFtQktXbWhqU2ZnU0QxaXVqa0lHNzY5d1BFVURoZ2x6Uko2ZHpYRThZbkw4UFBzMm5WaEtjZDRVaUQ4d0RJdDhMaFYyQjZxdjdiQVpyYl83WC1zUFpES0c4STFjdFR3SkZvbUZwazR2dnpVVktJQkJrUzdleFlNOVZmSVNjSC04bWpldUdNNVRiZFBfUHpYYXQyQlB4VG45V1A4aTFTQXhMNENEMG1GTFMzOFk3Mk9ZS3ZCR3pTMHVHYmpxbElvZDZKTzJ5Ni1UeDRqWGpDYi1lUm11eWtmajZKVjc2a1ZDd2MtU0QzQlVWaEs5dG5sTGM?oc=5" target="_blank">Budget 2027 : le gouvernement veut plus que doubler la taxe sur les autoroutes et grands aéroports</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
