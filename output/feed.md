@@ -1,7 +1,31 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Tue, 27 Oct 2026 21:02:00 +0000`
-> 131 articles (30 derniers jours)
+> Derniere mise a jour : `Wed, 28 Oct 2026 11:42:03 +0000`
+> 132 articles (30 derniers jours)
+
+---
+
+### [Budget 2027 : la surtaxe sur les grandes entreprises rejetée par les députés, nouveau revers pour le gouvernement - Les Echos](https://news.google.com/rss/articles/CBMihgJBVV95cUxPYWdYNWU4ZEVYZHYyM0hpVHlVOXR2UFludkFlcDc4UTFjLVNpSHlLdXUyY3ZwSU9pOWJzWkI3VURuei0wUXJ6UTlEcDZxYnpnUDB5R1hBbHpjY0wxNG9iNmxrZC1kR1daam13b2Q5bnZlM2pSb2xTaVB1Y1BrNUZBSHYtRDM1c21HX2FFa0wzZWd6UnJxS2RVRkpGS05PcFhaSlhQNU9nbUNNdDBZSEhRNHJaVkFtV3JJNEpJajBvNTVJMGZxVXgxSFRKLUprYU5vUmxrMkN4bVg5SlR0MWNxYXBlZTR4dkpGRmJwRXVzSjlwN2hmWVdxNWdGUXBUeTBGQzJteEZn?oc=5)
+
+`Wed, 28 Oct 2026 07:59:28 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMihgJBVV95cUxPYWdYNWU4ZEVYZHYyM0hpVHlVOXR2UFludkFlcDc4UTFjLVNpSHlLdXUyY3ZwSU9pOWJzWkI3VURuei0wUXJ6UTlEcDZxYnpnUDB5R1hBbHpjY0wxNG9iNmxrZC1kR1daam13b2Q5bnZlM2pSb2xTaVB1Y1BrNUZBSHYtRDM1c21HX2FFa0wzZWd6UnJxS2RVRkpGS05PcFhaSlhQNU9nbUNNdDBZSEhRNHJaVkFtV3JJNEpJajBvNTVJMGZxVXgxSFRKLUprYU5vUmxrMkN4bVg5SlR0MWNxYXBlZTR4dkpGRmJwRXVzSjlwN2hmWVdxNWdGUXBUeTBGQzJteEZn?oc=5" target="_blank">Budget 2027 : la surtaxe sur les grandes entreprises rejetée par les députés, nouveau revers pour le gouvernement</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Budget 2027 : les retraités, premiers perdants de la copie gouvernementale - Les Echos](https://news.google.com/rss/articles/CBMiywFBVV95cUxORHhscmpTZ0t0cXpmUldZWWpJMUVaV0hReGE4bE5qdUpmUHdHWTlzckxkRGZEbEJGRFY5S2lQWHBmTVhjTkx3VEsxS19wZDREdFRCZkJQRUZ2akVBZkZ5NG5lQ0wtZG9xdVNWeWw2YVJrdk9pT3NRemVxUzlfQkpVOG84dG5qY21ZeDF3M0RDaDA2NnBFbXBveUx3Mlp1a21kbGE3bHIybU1XenFfeFBaWWs0bWwteWNqMVFwc1dxWmJKSVNYU0t1aWVJSQ?oc=5)
+
+`Wed, 28 Oct 2026 05:05:09 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiywFBVV95cUxORHhscmpTZ0t0cXpmUldZWWpJMUVaV0hReGE4bE5qdUpmUHdHWTlzckxkRGZEbEJGRFY5S2lQWHBmTVhjTkx3VEsxS19wZDREdFRCZkJQRUZ2akVBZkZ5NG5lQ0wtZG9xdVNWeWw2YVJrdk9pT3NRemVxUzlfQkpVOG84dG5qY21ZeDF3M0RDaDA2NnBFbXBveUx3Mlp1a21kbGE3bHIybU1XenFfeFBaWWs0bWwteWNqMVFwc1dxWmJKSVNYU0t1aWVJSQ?oc=5" target="_blank">Budget 2027 : les retraités, premiers perdants de la copie gouvernementale</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [La suspension de la réforme des retraites entraîne un afflux « exceptionnel » de départs - Les Echos](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbU12TV83Vk85WV8xeVRaeFpBOWtVSDg0Y0xER2VCQ1JiZDFxUDgtaDFyQ2xZQVJZdjhkeTlqT3R4dnlkLVNwY2J3M1R2WVlXanNTeVhyRVJyNkowZDUtUDhUaXpCZTlpZTF1dDJxQUFLc3k4VTFJV1lua2FLVkY4cUtDdWJkQ2E3SG9HRVRiTWhMLXhjeWRmb2R3X2pTUjFKbElIcWg3Si15TnNkNHZJVzgxZFdWNkdmSElZa3lVSW5MOHlkZDEyaGxIYmpEcGhHOXVwYlhn?oc=5)
+
+`Wed, 28 Oct 2026 10:44:12 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbU12TV83Vk85WV8xeVRaeFpBOWtVSDg0Y0xER2VCQ1JiZDFxUDgtaDFyQ2xZQVJZdjhkeTlqT3R4dnlkLVNwY2J3M1R2WVlXanNTeVhyRVJyNkowZDUtUDhUaXpCZTlpZTF1dDJxQUFLc3k4VTFJV1lua2FLVkY4cUtDdWJkQ2E3SG9HRVRiTWhMLXhjeWRmb2R3X2pTUjFKbElIcWg3Si15TnNkNHZJVzgxZFdWNkdmSElZa3lVSW5MOHlkZDEyaGxIYmpEcGhHOXVwYlhn?oc=5" target="_blank">La suspension de la réforme des retraites entraîne un afflux « exceptionnel » de départs</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -1034,21 +1058,5 @@
 `Mon, 28 Sep 2026 15:00:49 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi6AFBVV95cUxNVXlQUThoY0d3MUZqcUtyUFJ5NVBFQXY2ejRNNW14WVpWN1h4b1dNVjZ5dHdJZzdKZnNKN3dSUG1pd3gwRUU1Xzl1VTk2UXVrcmJjQmF6Q3hTRmxMcUlnVUZVeEdnYUdGT0FRUXlqSEtkS19nb2VJN3daWlhoVzVjOEtuWnFDd2RwZWY1NjQwLU93aENuUkhwZGlndkQ3VkM5ZEU2eVNQU0dDZVFjZ2NWUGZzZVBvZk5OSjgzQ25kVXVvX2pKTDZ4WlNUdEFKUXRmWEFyaVdxSEhILXBVaS1LLXVHeFRVVXBU?oc=5" target="_blank">Dette : quel impact la montée des taux aura-t-elle sur le budget, les entreprises et l'immobilier</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [« Les investisseurs sont très nerveux » : le gouvernement prêt à dévoiler le budget 2027 sous la pression des marchés - Les Echos](https://news.google.com/rss/articles/CBMihwJBVV95cUxOUlFsWThzalJGUmt3d3psb3MweG1lbngyME5tYWlGb1hjZFVDeWhNT2VZbGNLeWNmc21sTWFVX1F6VWJfX2k1SEl3a2dRNlh1TFhUdXVpLXlCZzduWlJxallmM1NDeEJJNE1nMEFKQkhXa0FYaUgzU0gtV1kwd2dBOW9GaFZVSnpqMzNJZ21MOFVZaXh0RmxFVHNMSDlnSVFSNFlBRDdnTkE5VTJRV3F5S2FrMi16SlRjZ0tnT2JpM1NwLWFteTRWdVJoVS1CS3ItQ1JrSjloN0FIZFF5T2RJNExaMzliQmtQaE5VcW9GUm9LQThNem1SdUhLaEZlanNtNktZNUd2dw?oc=5)
-
-`Mon, 28 Sep 2026 04:15:09 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMihwJBVV95cUxOUlFsWThzalJGUmt3d3psb3MweG1lbngyME5tYWlGb1hjZFVDeWhNT2VZbGNLeWNmc21sTWFVX1F6VWJfX2k1SEl3a2dRNlh1TFhUdXVpLXlCZzduWlJxallmM1NDeEJJNE1nMEFKQkhXa0FYaUgzU0gtV1kwd2dBOW9GaFZVSnpqMzNJZ21MOFVZaXh0RmxFVHNMSDlnSVFSNFlBRDdnTkE5VTJRV3F5S2FrMi16SlRjZ0tnT2JpM1NwLWFteTRWdVJoVS1CS3ItQ1JrSjloN0FIZFF5T2RJNExaMzliQmtQaE5VcW9GUm9LQThNem1SdUhLaEZlanNtNktZNUd2dw?oc=5" target="_blank">« Les investisseurs sont très nerveux » : le gouvernement prêt à dévoiler le budget 2027 sous la pression des marchés</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Désindexation des pensions, fin de l'abattement fiscal, hausse de la CSG… Les pistes d'économies sur les retraités au banc d'essai - Les Echos](https://news.google.com/rss/articles/CBMimAJBVV95cUxNeXM5ZXJOSW5fWXhNMmd1NWVwV25tUHQ4ZVVKdl9xNkgwMTkzcWNMU0JTV1dGWTJCZWV3cFQ4MlJsbUlpMFFlSXo2Z3F1RFJlY1lFQktVYkZVcUluZ2czZ2NHTkxmRWRfeWU0YjZHUnhrUXYybXE2bXpwZVZtMW04N1VhdWVhS3lYNlFXRjcyWDhfOGx2TGphN3VsZTFScTlrVk9OUzluTXp6WmpKaXZTdkFkblV3NmdTajNUclZfQkFUZ1UycjhJdEVtTDZjRjcxN0Q0b3gtV3hlaTQySGhYWnBqdzNsOXp0VHVjRE5XbWd4VnhvUWFyRlZLTzNTcW4tVmRCazdma0RkVm5LRl9iV3ZGV0Q5d2ln?oc=5)
-
-`Mon, 28 Sep 2026 09:09:53 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMimAJBVV95cUxNeXM5ZXJOSW5fWXhNMmd1NWVwV25tUHQ4ZVVKdl9xNkgwMTkzcWNMU0JTV1dGWTJCZWV3cFQ4MlJsbUlpMFFlSXo2Z3F1RFJlY1lFQktVYkZVcUluZ2czZ2NHTkxmRWRfeWU0YjZHUnhrUXYybXE2bXpwZVZtMW04N1VhdWVhS3lYNlFXRjcyWDhfOGx2TGphN3VsZTFScTlrVk9OUzluTXp6WmpKaXZTdkFkblV3NmdTajNUclZfQkFUZ1UycjhJdEVtTDZjRjcxN0Q0b3gtV3hlaTQySGhYWnBqdzNsOXp0VHVjRE5XbWd4VnhvUWFyRlZLTzNTcW4tVmRCazdma0RkVm5LRl9iV3ZGV0Q5d2ln?oc=5" target="_blank">Désindexation des pensions, fin de l'abattement fiscal, hausse de la CSG… Les pistes d'économies sur les retraités au banc d'essai</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
