@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Wed, 28 Oct 2026 11:42:03 +0000`
+> Derniere mise a jour : `Wed, 28 Oct 2026 15:51:21 +0000`
 > 132 articles (30 derniers jours)
+
+---
+
+### [France Travail défend l'efficacité de ses réformes pour contenir la hausse du chômage - Les Echos](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVXNnRkwtOWd4UEx1dkhPSzRTSFp2MUN4Z05NNXlvU0lBRW8xVWhxTno4UFVSUlFmZ3ZDWE5JbkRrQXJUb1N3T3lWV0Fka0NuaWZTNUlLYXRiZzZsR1B4bzRkRTBuQjl2MFM1Q29sWkJ2cklFeHV4U0V4eTZEX2kxeWpGNTZtT25DQmVVLS1pT01keElGUUhFRDk1ODYwQ2I0MlV6SEFqWEM0UUpHSGNqRzRfZ1N2UFpTMXJuTGpwck5UMURTVEZCeHdnV2ZsdUU0WWNXWERR?oc=5)
+
+`Wed, 28 Oct 2026 15:34:48 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVXNnRkwtOWd4UEx1dkhPSzRTSFp2MUN4Z05NNXlvU0lBRW8xVWhxTno4UFVSUlFmZ3ZDWE5JbkRrQXJUb1N3T3lWV0Fka0NuaWZTNUlLYXRiZzZsR1B4bzRkRTBuQjl2MFM1Q29sWkJ2cklFeHV4U0V4eTZEX2kxeWpGNTZtT25DQmVVLS1pT01keElGUUhFRDk1ODYwQ2I0MlV6SEFqWEM0UUpHSGNqRzRfZ1N2UFpTMXJuTGpwck5UMURTVEZCeHdnV2ZsdUU0WWNXWERR?oc=5" target="_blank">France Travail défend l'efficacité de ses réformes pour contenir la hausse du chômage</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -1050,13 +1058,5 @@
 `Mon, 28 Sep 2026 17:36:55 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi3wFBVV95cUxNS19LTXlKRlZLYjRnRGFqVzVMaFY5Y3VGVlZfZkpjRm1IMEkwMThUZjBhamNHMUFfVEdBTlZSM0N5OWhQSUF3cHpyX2tFUF90aGNPYlJkUF9xMHhwVG9HNWFJM0FvRjlFcGNyZUI5Q3hJVHNya2VBTENQVEtLZDl3ZVhKMjFpSWo5WmlYMlBKelJHdGlLaHlPZDJUUzA2LXpWYjd0SlpWVE1vcGFKd0hpNUQzX3p1UEwyOGVGSFNrNTJ6S0d1YmdDZmVHRXJKRTlIdXhRMGxwZnNHTVUyZXVV?oc=5" target="_blank">La France promet de donner plus de visibilité aux laboratoires sur les prix des médicaments</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Dette : quel impact la montée des taux aura-t-elle sur le budget, les entreprises et l'immobilier - Les Echos](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNVXlQUThoY0d3MUZqcUtyUFJ5NVBFQXY2ejRNNW14WVpWN1h4b1dNVjZ5dHdJZzdKZnNKN3dSUG1pd3gwRUU1Xzl1VTk2UXVrcmJjQmF6Q3hTRmxMcUlnVUZVeEdnYUdGT0FRUXlqSEtkS19nb2VJN3daWlhoVzVjOEtuWnFDd2RwZWY1NjQwLU93aENuUkhwZGlndkQ3VkM5ZEU2eVNQU0dDZVFjZ2NWUGZzZVBvZk5OSjgzQ25kVXVvX2pKTDZ4WlNUdEFKUXRmWEFyaVdxSEhILXBVaS1LLXVHeFRVVXBU?oc=5)
-
-`Mon, 28 Sep 2026 15:00:49 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi6AFBVV95cUxNVXlQUThoY0d3MUZqcUtyUFJ5NVBFQXY2ejRNNW14WVpWN1h4b1dNVjZ5dHdJZzdKZnNKN3dSUG1pd3gwRUU1Xzl1VTk2UXVrcmJjQmF6Q3hTRmxMcUlnVUZVeEdnYUdGT0FRUXlqSEtkS19nb2VJN3daWlhoVzVjOEtuWnFDd2RwZWY1NjQwLU93aENuUkhwZGlndkQ3VkM5ZEU2eVNQU0dDZVFjZ2NWUGZzZVBvZk5OSjgzQ25kVXVvX2pKTDZ4WlNUdEFKUXRmWEFyaVdxSEhILXBVaS1LLXVHeFRVVXBU?oc=5" target="_blank">Dette : quel impact la montée des taux aura-t-elle sur le budget, les entreprises et l'immobilier</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
