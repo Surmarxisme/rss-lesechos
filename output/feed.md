@@ -1,7 +1,23 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Wed, 28 Oct 2026 21:23:50 +0000`
+> Derniere mise a jour : `Thu, 29 Oct 2026 11:49:44 +0000`
 > 131 articles (30 derniers jours)
+
+---
+
+### [Le patronat et les syndicats ont touché près de 157 millions d'euros de financements en 2025 - Les Echos](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQLTFRSldDZU9mV1hOcHpGVmZsR3A1N205VGdmUVNSNGluU203X1hLSmpKeVlWR1pRZ3EwWE4zLVZ5MTVENFBYNGZhY29PUW40M2NJLUJJZktqbnc4UlBoMFlJMUhDMk01ZVFlYVhBZTdiT2RDaVpXNkk5aVYtOUhTb2tXc2M3a2NxWnlQRjZDUUxoX0JKWHJuUkNCRW10YW5ZOXg3ZlhHcXFXUjdlek5Jc0xVSlRCQ282d1kyMzZNWE05TlhVSnhHOUt5RzFqV3p4QWNBNkVLYWplOVo1SjlZ?oc=5)
+
+`Thu, 29 Oct 2026 05:00:26 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi3wFBVV95cUxQLTFRSldDZU9mV1hOcHpGVmZsR3A1N205VGdmUVNSNGluU203X1hLSmpKeVlWR1pRZ3EwWE4zLVZ5MTVENFBYNGZhY29PUW40M2NJLUJJZktqbnc4UlBoMFlJMUhDMk01ZVFlYVhBZTdiT2RDaVpXNkk5aVYtOUhTb2tXc2M3a2NxWnlQRjZDUUxoX0JKWHJuUkNCRW10YW5ZOXg3ZlhHcXFXUjdlek5Jc0xVSlRCQ282d1kyMzZNWE05TlhVSnhHOUt5RzFqV3p4QWNBNkVLYWplOVo1SjlZ?oc=5" target="_blank">Le patronat et les syndicats ont touché près de 157 millions d'euros de financements en 2025</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [SMIC : le gouvernement face à un dilemme entre pouvoir d'achat et emploi - Les Echos](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPT1d4YmVHejNPbDlsWTl5Q252ZDZCcjBvOXdkMmxNSVV1N01GMnJlOFFta3l4MkFVU2gtUWQtanQ2c2xBcTBvS2xaUlJhUzRtZ01rMGR6WnJHdGVFMXJVRGRZZXdLLWFrSGxLd3oycFFqbU9TTUJabTBZY3pyamlEdkNDUlBLQ0FiUk94VWxVYklZcDZvcmRid0dFTVFmVUd0ZFFidVFmVFpLU2w4LXBwUkNibmRiMmFvUlpLZ0hfandQUQ?oc=5)
+
+`Thu, 29 Oct 2026 11:18:09 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxPT1d4YmVHejNPbDlsWTl5Q252ZDZCcjBvOXdkMmxNSVV1N01GMnJlOFFta3l4MkFVU2gtUWQtanQ2c2xBcTBvS2xaUlJhUzRtZ01rMGR6WnJHdGVFMXJVRGRZZXdLLWFrSGxLd3oycFFqbU9TTUJabTBZY3pyamlEdkNDUlBLQ0FiUk94VWxVYklZcDZvcmRid0dFTVFmVUd0ZFFidVFmVFpLU2w4LXBwUkNibmRiMmFvUlpLZ0hfandQUQ?oc=5" target="_blank">SMIC : le gouvernement face à un dilemme entre pouvoir d'achat et emploi</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -1034,21 +1050,5 @@
 `Tue, 29 Sep 2026 14:40:57 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNGxZRjB1aFNVWERMRUdGUHFfSzUxNnhEd0VQdVAtNmlROHF2QXpQRFRxWXd1WmR5ZUE4OFZ3azdqWi15M0hrWm8yYkFvQ2YweUlLTC1ydjlpUHE0M0dzdVp5LXdzdmliMXBKZkViN3NQelAtUlNwcVZ5QWNGV2lfaDZxX1BXdzVGWUNBMzhfb0F0WEtJcmhNX3BWbGFuYVRiWTVLZVBTeXZqUl9Cd3NyNUZuR3I5Q3B6eHhtZVFHYVhpTjRqQmNjeUJfTll2MXMx?oc=5" target="_blank">Fiscalité : les recettes de l'impôt sur les bénéfices ont rebondi en 2025</a>&nbsp;&nbsp;<font color="#6f6f6f">lesechos.fr</font>
-
----
-
-### [La dette publique s'envole à un niveau inédit depuis l'après-guerre - Les Echos](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdGkxUDVFZHdFVWdQZWpxU25iR3VrMkNyTnhaeVhPVXRiLXBwaWFhTk1iZnh4ekR1WWFrYWJoMGxjVXpYUnEyWU15cWpJZFBZLWhSOC1XakgyOWxjal96djAxa3g0MElONjMwTk1nX0htTWRfOXFjOTduNHBIdjMyYVNHdTZWQ0VGaDVKNUstbjVXblZYNkgzazZndUZLbTZYU20wRjMzN3p6ZDI0UzBpOVU4M1JPelh2WTBhTnNwYV9VaDgtRUd6bW9qZWk2ekVyTGhj?oc=5)
-
-`Tue, 29 Sep 2026 07:36:42 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdGkxUDVFZHdFVWdQZWpxU25iR3VrMkNyTnhaeVhPVXRiLXBwaWFhTk1iZnh4ekR1WWFrYWJoMGxjVXpYUnEyWU15cWpJZFBZLWhSOC1XakgyOWxjal96djAxa3g0MElONjMwTk1nX0htTWRfOXFjOTduNHBIdjMyYVNHdTZWQ0VGaDVKNUstbjVXblZYNkgzazZndUZLbTZYU20wRjMzN3p6ZDI0UzBpOVU4M1JPelh2WTBhTnNwYV9VaDgtRUd6bW9qZWk2ekVyTGhj?oc=5" target="_blank">La dette publique s'envole à un niveau inédit depuis l'après-guerre</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [« Le maître mot de la campagne présidentielle est le déni total de réalité » : l'inquiétant silence des candidats sur le désendettement - Les Echos](https://news.google.com/rss/articles/CBMingJBVV95cUxPTmtlWTZlRXV5c1pwVEhjU0xVbXB0R2U1clo0ZFNjUnhhcUVyWWhRY3pudkg0dzFtYXBNOVpXc2o0Q28wemNnLW8xbmptbVBpSDlQTUl2UnNHVmhjYTZUYng4YUZMeTdBcnRZTjU3RE1KeDNDNW54c0RsZDVUUVVzUzZ1eGF5QS14QjJKT3c5b29VUFpyUVdxSC1GVHh0TkQxRFphT2tBend4YVZMdWE5MnhJaXZUYU5Ra1BwOGtXdjM4emF0a3cwNFVROUh0aXR2R2ZMV1h1TjcxVFJJVl8tQXBMbEtjSEpBSlJOWWhOY2R5WHROWUEtRlVvbmxHUGRzWF91QnY5a1FxSS1nNFFHYzNjNUlGOTA4dnV5bDdn?oc=5)
-
-`Tue, 29 Sep 2026 04:05:08 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMingJBVV95cUxPTmtlWTZlRXV5c1pwVEhjU0xVbXB0R2U1clo0ZFNjUnhhcUVyWWhRY3pudkg0dzFtYXBNOVpXc2o0Q28wemNnLW8xbmptbVBpSDlQTUl2UnNHVmhjYTZUYng4YUZMeTdBcnRZTjU3RE1KeDNDNW54c0RsZDVUUVVzUzZ1eGF5QS14QjJKT3c5b29VUFpyUVdxSC1GVHh0TkQxRFphT2tBend4YVZMdWE5MnhJaXZUYU5Ra1BwOGtXdjM4emF0a3cwNFVROUh0aXR2R2ZMV1h1TjcxVFJJVl8tQXBMbEtjSEpBSlJOWWhOY2R5WHROWUEtRlVvbmxHUGRzWF91QnY5a1FxSS1nNFFHYzNjNUlGOTA4dnV5bDdn?oc=5" target="_blank">« Le maître mot de la campagne présidentielle est le déni total de réalité » : l'inquiétant silence des candidats sur le désendettement</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
