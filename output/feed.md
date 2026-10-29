@@ -1,7 +1,7 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Thu, 29 Oct 2026 11:49:44 +0000`
-> 131 articles (30 derniers jours)
+> Derniere mise a jour : `Thu, 29 Oct 2026 15:58:15 +0000`
+> 130 articles (30 derniers jours)
 
 ---
 
@@ -1042,13 +1042,5 @@
 `Tue, 29 Sep 2026 16:54:15 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi7gFBVV95cUxQcmY2X2lENjlZLVF3ZG0tb0Q5WXRMejB1dTliQTA5RWxYVEt3Q2FPVzdkNmxkUXladWxEc3d0SjhwR3JUS1laTFg4d1hwOGtsSVBSOG92U0ZIU013YUNqTTYtbGR0cVZjQ3hJS2ZfTDhFTnk4TC0tMzNXMEVsQk5lbmxyWkJzc2tQYkVuZVY0NG5FWHRPN2RtQU0ta3pFR0hQaW5lTUhjTHpDbEk5SE5zb1lmQ3RCaGdyeC1OOXF6d21vX1hGeXNmNkxNUnhIV3NEME1ha1VXcmg1T0tUeDlkZEwtYXIyLWlLS253OGF3?oc=5" target="_blank">Budget 2027 : le gouvernement s'attaque à un outil d'optimisation fiscale cher aux entrepreneurs</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Fiscalité : les recettes de l'impôt sur les bénéfices ont rebondi en 2025 - lesechos.fr](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNGxZRjB1aFNVWERMRUdGUHFfSzUxNnhEd0VQdVAtNmlROHF2QXpQRFRxWXd1WmR5ZUE4OFZ3azdqWi15M0hrWm8yYkFvQ2YweUlLTC1ydjlpUHE0M0dzdVp5LXdzdmliMXBKZkViN3NQelAtUlNwcVZ5QWNGV2lfaDZxX1BXdzVGWUNBMzhfb0F0WEtJcmhNX3BWbGFuYVRiWTVLZVBTeXZqUl9Cd3NyNUZuR3I5Q3B6eHhtZVFHYVhpTjRqQmNjeUJfTll2MXMx?oc=5)
-
-`Tue, 29 Sep 2026 14:40:57 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNGxZRjB1aFNVWERMRUdGUHFfSzUxNnhEd0VQdVAtNmlROHF2QXpQRFRxWXd1WmR5ZUE4OFZ3azdqWi15M0hrWm8yYkFvQ2YweUlLTC1ydjlpUHE0M0dzdVp5LXdzdmliMXBKZkViN3NQelAtUlNwcVZ5QWNGV2lfaDZxX1BXdzVGWUNBMzhfb0F0WEtJcmhNX3BWbGFuYVRiWTVLZVBTeXZqUl9Cd3NyNUZuR3I5Q3B6eHhtZVFHYVhpTjRqQmNjeUJfTll2MXMx?oc=5" target="_blank">Fiscalité : les recettes de l'impôt sur les bénéfices ont rebondi en 2025</a>&nbsp;&nbsp;<font color="#6f6f6f">lesechos.fr</font>
 
 ---
