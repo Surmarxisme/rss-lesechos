@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Thu, 29 Oct 2026 15:58:15 +0000`
+> Derniere mise a jour : `Thu, 29 Oct 2026 17:49:41 +0000`
 > 130 articles (30 derniers jours)
+
+---
+
+### [On ne s'est pas encore fâchés »﻿ : le patronat et les syndicats lancent les négociations sur la réforme des arrêts maladie - Les Echos](https://news.google.com/rss/articles/CBMigAJBVV95cUxOaXU4YmhDOFhQRXdhY0lQSmZUN18zLXRSSDlnMEhUb1lzQ1lKWXc3U3E3Y3NWR3FVU2xjNFdnR3RvS0Y0dFJ6RFFiazlDUzBwN1M2b1REeUxMQkhWczFhVGtwUG9OQlhPWktOek9Mc0U1RFc0NURTREtTTGFHVDFLZnZPTUxPT1BWMFlfVHZfX0tFY0Y4ZEJxeW9PamxEc3FQZVoydndYUS0tUlBRc1VKcjU5c3p3U19yMTNpb1BtN2V5TV9PZDFOTEJUX2swTDNqYUh4QTdQUHNBbWlPd0VlR2F0WjJXQlBiRjl3U0tINDZubFl5U3Z3bUtwajVhS3ky?oc=5)
+
+`Thu, 29 Oct 2026 17:11:16 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMigAJBVV95cUxOaXU4YmhDOFhQRXdhY0lQSmZUN18zLXRSSDlnMEhUb1lzQ1lKWXc3U3E3Y3NWR3FVU2xjNFdnR3RvS0Y0dFJ6RFFiazlDUzBwN1M2b1REeUxMQkhWczFhVGtwUG9OQlhPWktOek9Mc0U1RFc0NURTREtTTGFHVDFLZnZPTUxPT1BWMFlfVHZfX0tFY0Y4ZEJxeW9PamxEc3FQZVoydndYUS0tUlBRc1VKcjU5c3p3U19yMTNpb1BtN2V5TV9PZDFOTEJUX2swTDNqYUh4QTdQUHNBbWlPd0VlR2F0WjJXQlBiRjl3U0tINDZubFl5U3Z3bUtwajVhS3ky?oc=5" target="_blank">On ne s'est pas encore fâchés »﻿ : le patronat et les syndicats lancent les négociations sur la réforme des arrêts maladie</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -1034,13 +1042,5 @@
 `Wed, 30 Sep 2026 07:37:10 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSm5KNEtoMkVoVnd3VThERTJjVDVRY1NVUnl2ZTBzb25Mdllralk3VjQwX21wUG9hY3djUE1PSWZ2emFlZV9DcVhqdGpSX1pyRW9xajNscThuemFmSy0wU01IUl8zZUFVdjdWNzNXakxKVkgyZjFIc0FkN2FmLUFoTUVrRjg5ZjRQSENWUHVHaFcwN0I3RVY2bmJmYmRRREJsX0N0YUJFNGFrZ3F1QV9CbUJ4OEVQMDlpU3RaWE9zU0ZuQkJ4M3Vicm9UbGw0bzhhZmtrUFk1RFM?oc=5" target="_blank">La flambée des prix de l'énergie fait monter l'inflation d'un nouveau cran en France</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Budget 2027 : le gouvernement s'attaque à un outil d'optimisation fiscale cher aux entrepreneurs - Les Echos](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQcmY2X2lENjlZLVF3ZG0tb0Q5WXRMejB1dTliQTA5RWxYVEt3Q2FPVzdkNmxkUXladWxEc3d0SjhwR3JUS1laTFg4d1hwOGtsSVBSOG92U0ZIU013YUNqTTYtbGR0cVZjQ3hJS2ZfTDhFTnk4TC0tMzNXMEVsQk5lbmxyWkJzc2tQYkVuZVY0NG5FWHRPN2RtQU0ta3pFR0hQaW5lTUhjTHpDbEk5SE5zb1lmQ3RCaGdyeC1OOXF6d21vX1hGeXNmNkxNUnhIV3NEME1ha1VXcmg1T0tUeDlkZEwtYXIyLWlLS253OGF3?oc=5)
-
-`Tue, 29 Sep 2026 16:54:15 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi7gFBVV95cUxQcmY2X2lENjlZLVF3ZG0tb0Q5WXRMejB1dTliQTA5RWxYVEt3Q2FPVzdkNmxkUXladWxEc3d0SjhwR3JUS1laTFg4d1hwOGtsSVBSOG92U0ZIU013YUNqTTYtbGR0cVZjQ3hJS2ZfTDhFTnk4TC0tMzNXMEVsQk5lbmxyWkJzc2tQYkVuZVY0NG5FWHRPN2RtQU0ta3pFR0hQaW5lTUhjTHpDbEk5SE5zb1lmQ3RCaGdyeC1OOXF6d21vX1hGeXNmNkxNUnhIV3NEME1ha1VXcmg1T0tUeDlkZEwtYXIyLWlLS253OGF3?oc=5" target="_blank">Budget 2027 : le gouvernement s'attaque à un outil d'optimisation fiscale cher aux entrepreneurs</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
