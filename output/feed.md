@@ -1,7 +1,31 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Thu, 29 Oct 2026 21:28:21 +0000`
-> 130 articles (30 derniers jours)
+> Derniere mise a jour : `Fri, 30 Oct 2026 11:42:29 +0000`
+> 128 articles (30 derniers jours)
+
+---
+
+### [« L'économie est à l'arrêt » : la croissance française encalminée - Les Echos](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaTF3REtGdnRia1RWQW1hOEpoTGpNRklCSi1jUTEwb1VwQUNaMXNQNnRjYVNHWEVBb25GeVVWVmVBVDMzRXJRTVp6TDZpMUdWVThJZEdOa0JXQW4zVzFGTDRaRi1FdlFhdXlvQ2UyZWo3QjNhLTdCd3JQQmJDaU8yVE1xX0VTTkVLQURveVBRN1oxN2tlQXNjX2ZwS1o4MGEwZjRRM2NQRGdtc2tpTEJYZ2lNa1B1bGdT?oc=5)
+
+`Fri, 30 Oct 2026 07:00:56 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaTF3REtGdnRia1RWQW1hOEpoTGpNRklCSi1jUTEwb1VwQUNaMXNQNnRjYVNHWEVBb25GeVVWVmVBVDMzRXJRTVp6TDZpMUdWVThJZEdOa0JXQW4zVzFGTDRaRi1FdlFhdXlvQ2UyZWo3QjNhLTdCd3JQQmJDaU8yVE1xX0VTTkVLQURveVBRN1oxN2tlQXNjX2ZwS1o4MGEwZjRRM2NQRGdtc2tpTEJYZ2lNa1B1bGdT?oc=5" target="_blank">« L'économie est à l'arrêt » : la croissance française encalminée</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [France : la flambée de l'énergie fait grimper l'inflation au-delà des 3 % - Les Echos](https://news.google.com/rss/articles/CBMixgFBVV95cUxOM2Q4LXNFcmllMHpHNzliNHh3NGpxX0l4TUNTSkZjZFkzOEc3TS0xMGhWREJaOWZfMEVScWtCUnNFcXhkbmtwX1BPcTRNRnNjTVNJc0lZc2JXNVNBc2M4cUVTc2hQNWJxTW9XR2dCVTdyQTBLXzFaMnZWWmcwdElDb1p4SHM4QkRadnBGYjRNRF9IS0oyLUU1OGZ0NkNWTE9iVkl4TUVZdWJUeERGbDJSSWlHQmZFaWhLWlJyR2xpQjI5d0VJX3c?oc=5)
+
+`Fri, 30 Oct 2026 10:41:03 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxOM2Q4LXNFcmllMHpHNzliNHh3NGpxX0l4TUNTSkZjZFkzOEc3TS0xMGhWREJaOWZfMEVScWtCUnNFcXhkbmtwX1BPcTRNRnNjTVNJc0lZc2JXNVNBc2M4cUVTc2hQNWJxTW9XR2dCVTdyQTBLXzFaMnZWWmcwdElDb1p4SHM4QkRadnBGYjRNRF9IS0oyLUU1OGZ0NkNWTE9iVkl4TUVZdWJUeERGbDJSSWlHQmZFaWhLWlJyR2xpQjI5d0VJX3c?oc=5" target="_blank">France : la flambée de l'énergie fait grimper l'inflation au-delà des 3 %</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [L'emploi fait du surplace dans une économie française en panne - Les Echos](https://news.google.com/rss/articles/CBMitwFBVV95cUxNZElnUDRmM2xQN29teUJXVXFnLXEwWENIUTVDdHd4TS1PNlBmbS0xSktwOGZaeHU2SDhvVlQyRDlfbG1ON3pmeHNCMERjcU1CWGhCSmxIeUw0MnhmMEphcHZjWTB1RHV4cmFfZWhtcmpDOURGUjJHdVk5U3pZU0otRFFOdXR1T2txd2w1N21GaGpaRnFrb2Z1NXBtdzFqQ2VNSTJVR1FiaGhhV0c2S2diclpnYlVVTWs?oc=5)
+
+`Fri, 30 Oct 2026 09:02:51 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxNZElnUDRmM2xQN29teUJXVXFnLXEwWENIUTVDdHd4TS1PNlBmbS0xSktwOGZaeHU2SDhvVlQyRDlfbG1ON3pmeHNCMERjcU1CWGhCSmxIeUw0MnhmMEphcHZjWTB1RHV4cmFfZWhtcmpDOURGUjJHdVk5U3pZU0otRFFOdXR1T2txd2w1N21GaGpaRnFrb2Z1NXBtdzFqQ2VNSTJVR1FiaGhhV0c2S2diclpnYlVVTWs?oc=5" target="_blank">L'emploi fait du surplace dans une économie française en panne</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -981,14 +1005,6 @@
 
 ---
 
-### [Budget 2027 : les retraites seront gelées au-delà de 1.260 euros dans la copie initiale du gouvernement - Les Echos](https://news.google.com/rss/articles/CBMi-AFBVV95cUxNUXFZSW9lbEZLRWl4MDZYYXA1bWRkNW1PNHQ2Z3B5dlZ1a24weFBOMTlCRGZva3U1LW1oVDBfRUpOeWVheFItNTkyQmhiekZETFZrOVU4T1RER0NONWo5NWRMc3JTdHQ2VlF5dnFza1dsczNWY2J5MmJTLWpGVjluSk1Ra0xTczJmVFJCVFNqU3llc2tOTlR0bFVKb2xqYXM1bWUwc1Z5SHRFVzV1S3VpSWROMzYzaVlUbGxsMGxaUG1Gc3dpZFI0ZzRFSFh6ZVlxQ1I1WXdWMGtlQlY3MTZReVpGZXg2UXVDZ3R5SHlxazJPUlBXTTc4UA?oc=5)
-
-`Wed, 30 Sep 2026 11:37:17 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi-AFBVV95cUxNUXFZSW9lbEZLRWl4MDZYYXA1bWRkNW1PNHQ2Z3B5dlZ1a24weFBOMTlCRGZva3U1LW1oVDBfRUpOeWVheFItNTkyQmhiekZETFZrOVU4T1RER0NONWo5NWRMc3JTdHQ2VlF5dnFza1dsczNWY2J5MmJTLWpGVjluSk1Ra0xTczJmVFJCVFNqU3llc2tOTlR0bFVKb2xqYXM1bWUwc1Z5SHRFVzV1S3VpSWROMzYzaVlUbGxsMGxaUG1Gc3dpZFI0ZzRFSFh6ZVlxQ1I1WXdWMGtlQlY3MTZReVpGZXg2UXVDZ3R5SHlxazJPUlBXTTc4UA?oc=5" target="_blank">Budget 2027 : les retraites seront gelées au-delà de 1.260 euros dans la copie initiale du gouvernement</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
 ### [Comment l'impôt sur le revenu a baissé sous la présidence Macron - Les Echos](https://news.google.com/rss/articles/CBMixwFBVV95cUxOTzVMakhUMWY2aHY3MzVUcFlvSVhqRFpFWTJDUVZRSzQ0VWJWQXlJcXRYYnMzUG1jT1hWNjE1RjBWeUtScUs3UlJvS18zVVZBZFRNOFdPTGgxS1N6VG9hTkQ0M19wV3FwNVBETF9Kd0U4WE9UMU1fRDJXOVZzZFZ0NklVMUFMMGI5bEJVcVd0WHRTTURkQ2t1a3JTYmVRM25zb2swcWZWRXA5TFZqUHljOUhLUmEzR2s2dVJnV3phRFFrYmh1RTBZ?oc=5)
 
 `Wed, 30 Sep 2026 15:20:16 GMT`
@@ -1010,37 +1026,5 @@
 `Wed, 30 Sep 2026 13:32:43 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxOam9pTmhmRTFGb2VrdFJmMXFpM3RVSnNkbkZJZTJjYURSUG11Y0xXSmtiQTJXMmI4ZnVZQUFIRnhkRGNLMURiRWFKdWdjcmdOb0hLYUNZZnk5bm9DUVJ1bnZMUEIzT2ZHeU5McHg5b2kxbTBwNl9KVTd5WGJQZW40dFhXS2gzRVRYVDlvY2dwQnFyakQ4TE9YbW50TUpTQWR3TWNvWXRuVHJqMUtRU1h0LXNMNGlrX1pmOVoxSjNkX0Y?oc=5" target="_blank">Budget 2027 : combien gagnent les retraités, cible du gouvernement</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [« Plein de petites taxes sont en train d'éclore » : l'inquiétude des patrons avant la présentation du budget 2027 - Les Echos](https://news.google.com/rss/articles/CBMi_wFBVV95cUxNSmlXcmRKUlE1SHVHSmpIN21lTERuaG5tNmlDVUswZHJleHlRYllmaHBHb09wM1hIVVVvMnRiVnFqUjBqd1JXRkF2NnlNaU5UdWN4QlRxWWhBdU1uUlB3NFJDQ21oeVpVeGl0QXVwMWx4YjBWNGUzNjhrVzM5VERlT29fMFBvVnFURk9GazJMSHQxU1B0LUdNZldIZUo2MklwM3lTdEtlVkZyRkF3R0laZlBZX1dUeWNpdUhFTkVZbTRUMUc1RU04bGliZGZqeWYwWTlUMkZuVDE1OEdaZEhBdERaekl6MnNkQnEtdDJieGp6OVZSSXJLZ2p1MFdRMlk?oc=5)
-
-`Wed, 30 Sep 2026 04:00:29 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi_wFBVV95cUxNSmlXcmRKUlE1SHVHSmpIN21lTERuaG5tNmlDVUswZHJleHlRYllmaHBHb09wM1hIVVVvMnRiVnFqUjBqd1JXRkF2NnlNaU5UdWN4QlRxWWhBdU1uUlB3NFJDQ21oeVpVeGl0QXVwMWx4YjBWNGUzNjhrVzM5VERlT29fMFBvVnFURk9GazJMSHQxU1B0LUdNZldIZUo2MklwM3lTdEtlVkZyRkF3R0laZlBZX1dUeWNpdUhFTkVZbTRUMUc1RU04bGliZGZqeWYwWTlUMkZuVDE1OEdaZEhBdERaekl6MnNkQnEtdDJieGp6OVZSSXJLZ2p1MFdRMlk?oc=5" target="_blank">« Plein de petites taxes sont en train d'éclore » : l'inquiétude des patrons avant la présentation du budget 2027</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [« Le gouvernement est en train de détricoter la politique de l'offre » - Les Echos](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQ1JoaWpiaUxFVW9VS2F4NkdMcnVvNDFTOV94VU1ScWxWSllnbnVwQWpXdWlPOTVLeXV5NnNvcGZXejcxcDR5aGZZaVJfc0YwUVF5Wk9OV2xBZDRJTG81d2RsNjVuS0FwQ0ZZOGdyTW00MWQ3VW96V2hIcktacTk0LTczWVl2ekxJekZZQXBUVV9xVW1HQTNyMXZMU3p0Q0diamVnN1JQN1FYYXBiNzF2X3N5VFkwRFV6UURfcUt3M29VTUU?oc=5)
-
-`Wed, 30 Sep 2026 04:20:08 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQ1JoaWpiaUxFVW9VS2F4NkdMcnVvNDFTOV94VU1ScWxWSllnbnVwQWpXdWlPOTVLeXV5NnNvcGZXejcxcDR5aGZZaVJfc0YwUVF5Wk9OV2xBZDRJTG81d2RsNjVuS0FwQ0ZZOGdyTW00MWQ3VW96V2hIcktacTk0LTczWVl2ekxJekZZQXBUVV9xVW1HQTNyMXZMU3p0Q0diamVnN1JQN1FYYXBiNzF2X3N5VFkwRFV6UURfcUt3M29VTUU?oc=5" target="_blank">« Le gouvernement est en train de détricoter la politique de l'offre »</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [« La baisse du pouvoir d'achat touchera beaucoup plus de ménages » : la grande inquiétude des Français face à l'inflation - Les Echos](https://news.google.com/rss/articles/CBMigwJBVV95cUxPNGRiVjFGejVWOE9zYTVVUUJJSVoxWWtKRm5EWHBKU2c4NGdYRTl2MnJjbUpEaWhsOVZZZzVtdWNTN2trZTdzRFhUTE5FSl9hdFNtM3lvSWFhQUNBVXZWdUtoMkkzMFh2VW13Y3hDcjIwcllvMHhDUG9QLTlkSGt6VmN5WVBISVJmdy1OenVXMlJSSXRpNWprRU9yM0otaXNLMUsyVHV0Rk5TS0dycEpWUmVzY2NfbS14TnZzZjRiV0hGOFZrRXgwdEpDSlFOcHY4SkU1TDJwNEpKRmlZZTlHVzF3V2hraEo2Sk1uUHIyY3N3Qy1KeUlEZi1xRE5YSEF3RWpZ?oc=5)
-
-`Wed, 30 Sep 2026 11:08:00 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMigwJBVV95cUxPNGRiVjFGejVWOE9zYTVVUUJJSVoxWWtKRm5EWHBKU2c4NGdYRTl2MnJjbUpEaWhsOVZZZzVtdWNTN2trZTdzRFhUTE5FSl9hdFNtM3lvSWFhQUNBVXZWdUtoMkkzMFh2VW13Y3hDcjIwcllvMHhDUG9QLTlkSGt6VmN5WVBISVJmdy1OenVXMlJSSXRpNWprRU9yM0otaXNLMUsyVHV0Rk5TS0dycEpWUmVzY2NfbS14TnZzZjRiV0hGOFZrRXgwdEpDSlFOcHY4SkU1TDJwNEpKRmlZZTlHVzF3V2hraEo2Sk1uUHIyY3N3Qy1KeUlEZi1xRE5YSEF3RWpZ?oc=5" target="_blank">« La baisse du pouvoir d'achat touchera beaucoup plus de ménages » : la grande inquiétude des Français face à l'inflation</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [La flambée des prix de l'énergie fait monter l'inflation d'un nouveau cran en France - Les Echos](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSm5KNEtoMkVoVnd3VThERTJjVDVRY1NVUnl2ZTBzb25Mdllralk3VjQwX21wUG9hY3djUE1PSWZ2emFlZV9DcVhqdGpSX1pyRW9xajNscThuemFmSy0wU01IUl8zZUFVdjdWNzNXakxKVkgyZjFIc0FkN2FmLUFoTUVrRjg5ZjRQSENWUHVHaFcwN0I3RVY2bmJmYmRRREJsX0N0YUJFNGFrZ3F1QV9CbUJ4OEVQMDlpU3RaWE9zU0ZuQkJ4M3Vicm9UbGw0bzhhZmtrUFk1RFM?oc=5)
-
-`Wed, 30 Sep 2026 07:37:10 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSm5KNEtoMkVoVnd3VThERTJjVDVRY1NVUnl2ZTBzb25Mdllralk3VjQwX21wUG9hY3djUE1PSWZ2emFlZV9DcVhqdGpSX1pyRW9xajNscThuemFmSy0wU01IUl8zZUFVdjdWNzNXakxKVkgyZjFIc0FkN2FmLUFoTUVrRjg5ZjRQSENWUHVHaFcwN0I3RVY2bmJmYmRRREJsX0N0YUJFNGFrZ3F1QV9CbUJ4OEVQMDlpU3RaWE9zU0ZuQkJ4M3Vicm9UbGw0bzhhZmtrUFk1RFM?oc=5" target="_blank">La flambée des prix de l'énergie fait monter l'inflation d'un nouveau cran en France</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
