@@ -1,7 +1,7 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Fri, 30 Oct 2026 15:44:44 +0000`
-> 125 articles (30 derniers jours)
+> Derniere mise a jour : `Fri, 30 Oct 2026 17:30:59 +0000`
+> 122 articles (30 derniers jours)
 
 ---
 
@@ -978,29 +978,5 @@
 `Thu, 01 Oct 2026 06:45:09 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZW9VYm1CdnVmNDUwRV9xRjhIcnNCUWt3azlfUi0xNzMyQlh6R3daZ3R5dHFjVnJTSGNtVjNGSFRBRTZyOURQdzhka1FpQTNNSHVROHZxb3FMNzRweG12d190Q1lGWml5eC10bjVsd1czc2ZpNHl2a2pLU0tUREZIS1hGa3NtcEdzM1QyZklHcFdoZzk4ZmNrMXVzZmpsN1d0cXd4WWM3dDl3UUM4eXdMa2dobmlmS2JEN1NOSjNRT1JubktBRmNEUzN4Wmt6WUpy?oc=5" target="_blank">Budget 2027 : le calendrier et les scénarios d'une adoption à haut risque</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Plus de 6 millions de Français sans médecin traitant : la Cour des comptes suggère de manier la carotte et le bâton - Les Echos](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNNEJkUWQ3a2llaF9RNlk2bFhHbER5S2pFNjhQU2FQZDcyRTI3WDRsZ2x4eTJlUWtzSWpScW1EZXlJS1ZiVlVTaWozUG5VU0RhdW4zNU5sT1dvRUowNjBSZnNaTHBZVjF1d2xMeGJSYm5lZFBkTnpKc0VibFNycUxPNzVGdlZZa2QtNUl0YjJERWd4dGZXUE01bG9XYTM2WkxUeUdNOE5BOEhxemxHRG1oQWN5WktySlRadHRtQmtlUnNOVlF2eUR5Zm1XNTBtNGVJOXd2ZTZKNHlTQm9yZVpRQ29nN0g5clJJdXB2eDJkUm9PakxHVGZNZ0paTFI?oc=5)
-
-`Wed, 30 Sep 2026 17:26:16 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi_AFBVV95cUxNNEJkUWQ3a2llaF9RNlk2bFhHbER5S2pFNjhQU2FQZDcyRTI3WDRsZ2x4eTJlUWtzSWpScW1EZXlJS1ZiVlVTaWozUG5VU0RhdW4zNU5sT1dvRUowNjBSZnNaTHBZVjF1d2xMeGJSYm5lZFBkTnpKc0VibFNycUxPNzVGdlZZa2QtNUl0YjJERWd4dGZXUE01bG9XYTM2WkxUeUdNOE5BOEhxemxHRG1oQWN5WktySlRadHRtQmtlUnNOVlF2eUR5Zm1XNTBtNGVJOXd2ZTZKNHlTQm9yZVpRQ29nN0g5clJJdXB2eDJkUm9PakxHVGZNZ0paTFI?oc=5" target="_blank">Plus de 6 millions de Français sans médecin traitant : la Cour des comptes suggère de manier la carotte et le bâton</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Budget 2027 : le gouvernement veut « diviser quasiment par deux » le déficit de la Sécurité sociale - Les Echos](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYUdDOGN2SEhscy1qeXBrLUFzSEt3ei1XYy1QWGNyLUJ2V1RUNFc5WkpzM1hZdGV5Z2N4SVl3a2hjbGZBb3pKMERDU0JQbWNvMlN4Y0luWXMxRVN6ekhaVkpfTmJyVHEyajJEZjB3Q282ZnpnTmZjRmxfN2k2Qk5pNnNtOGFBbXloUXFlbnNoaGJPeDI2MFFQSnFNR05qYzNGTlFCMENER3Zrb0JRdS1fOEVGVlhKcUFnWFZZaWluWkFSXzdtaFJRVEw5N29LZlZmZVctNHRSUm8yQ3NtUFdaYlVR?oc=5)
-
-`Wed, 30 Sep 2026 17:10:31 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYUdDOGN2SEhscy1qeXBrLUFzSEt3ei1XYy1QWGNyLUJ2V1RUNFc5WkpzM1hZdGV5Z2N4SVl3a2hjbGZBb3pKMERDU0JQbWNvMlN4Y0luWXMxRVN6ekhaVkpfTmJyVHEyajJEZjB3Q282ZnpnTmZjRmxfN2k2Qk5pNnNtOGFBbXloUXFlbnNoaGJPeDI2MFFQSnFNR05qYzNGTlFCMENER3Zrb0JRdS1fOEVGVlhKcUFnWFZZaWluWkFSXzdtaFJRVEw5N29LZlZmZVctNHRSUm8yQ3NtUFdaYlVR?oc=5" target="_blank">Budget 2027 : le gouvernement veut « diviser quasiment par deux » le déficit de la Sécurité sociale</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Budget 2027 : les collectivités locales agitent le spectre d'une « annus horribilis » - Les Echos](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOSmV0dGxnQUprdUdiaERKaGY1TXBNT29sMVFpQVRFMGpLT1hOUElIZS0xT2xKS21lX2tJbXFGb1JrVmZnQ2tFZ25KZzlDRlV4Q3cxb01UU29XN3lFNGd0YUZkcjA5bTdzVXRQSWFLcW1iTnZmSEczQnlpSmpsWGUxLUhMakd4N2Y5bnU1NEJ6VjdySWxZejdiTHRXalVSVEV4d0VNWTB6bnZYRUFHQ0NOOGFtS1BXLUxmV2FIOUIwdkQ1ckFhTzRBSmNBOXFYZEVGYm9DeFRtZ2hOSE0?oc=5)
-
-`Wed, 30 Sep 2026 16:32:15 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi2wFBVV95cUxOSmV0dGxnQUprdUdiaERKaGY1TXBNT29sMVFpQVRFMGpLT1hOUElIZS0xT2xKS21lX2tJbXFGb1JrVmZnQ2tFZ25KZzlDRlV4Q3cxb01UU29XN3lFNGd0YUZkcjA5bTdzVXRQSWFLcW1iTnZmSEczQnlpSmpsWGUxLUhMakd4N2Y5bnU1NEJ6VjdySWxZejdiTHRXalVSVEV4d0VNWTB6bnZYRUFHQ0NOOGFtS1BXLUxmV2FIOUIwdkQ1ckFhTzRBSmNBOXFYZEVGYm9DeFRtZ2hOSE0?oc=5" target="_blank">Budget 2027 : les collectivités locales agitent le spectre d'une « annus horribilis »</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
