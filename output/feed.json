@@ -2,9 +2,9 @@
   "source": "Les Echos - Economie France",
   "source_url": "https://www.lesechos.fr/economie-france",
   "language": "fr-FR",
-  "last_fetched": "Fri, 30 Oct 2026 11:42:29 +0000",
-  "total_items": 128,
-  "new_items_this_run": 3,
+  "last_fetched": "Fri, 30 Oct 2026 15:44:44 +0000",
+  "total_items": 125,
+  "new_items_this_run": 0,
   "articles": [
     {
       "id": "CBMiuAFBVV95cUxNaTF3REtGdnRia1RWQW1hOEpoTGpNRklCSi1jUTEwb1VwQUNaMXNQNnRjYVNHWEVBb25GeVVWVmVBVDMzRXJRTVp6TDZpMUdWVThJZEdOa0JXQW4zVzFGTDRaRi1FdlFhdXlvQ2UyZWo3QjNhLTdCd3JQQmJDaU8yVE1xX0VTTkVLQURveVBRN1oxN2tlQXNjX2ZwS1o4MGEwZjRRM2NQRGdtc2tpTEJYZ2lNa1B1bGdT",
@@ -1130,33 +1130,6 @@
       "source": "Les Echos",
       "pub_date": "Wed, 30 Sep 2026 16:32:15 GMT",
       "pub_date_iso": "2026-09-30T16:32:15+00:00"
-    },
-    {
-      "id": "CBMixwFBVV95cUxOTzVMakhUMWY2aHY3MzVUcFlvSVhqRFpFWTJDUVZRSzQ0VWJWQXlJcXRYYnMzUG1jT1hWNjE1RjBWeUtScUs3UlJvS18zVVZBZFRNOFdPTGgxS1N6VG9hTkQ0M19wV3FwNVBETF9Kd0U4WE9UMU1fRDJXOVZzZFZ0NklVMUFMMGI5bEJVcVd0WHRTTURkQ2t1a3JTYmVRM25zb2swcWZWRXA5TFZqUHljOUhLUmEzR2s2dVJnV3phRFFrYmh1RTBZ",
-      "title": "Comment l'impôt sur le revenu a baissé sous la présidence Macron - Les Echos",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOTzVMakhUMWY2aHY3MzVUcFlvSVhqRFpFWTJDUVZRSzQ0VWJWQXlJcXRYYnMzUG1jT1hWNjE1RjBWeUtScUs3UlJvS18zVVZBZFRNOFdPTGgxS1N6VG9hTkQ0M19wV3FwNVBETF9Kd0U4WE9UMU1fRDJXOVZzZFZ0NklVMUFMMGI5bEJVcVd0WHRTTURkQ2t1a3JTYmVRM25zb2swcWZWRXA5TFZqUHljOUhLUmEzR2s2dVJnV3phRFFrYmh1RTBZ?oc=5\" target=\"_blank\">Comment l'impôt sur le revenu a baissé sous la présidence Macron</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Les Echos</font>",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTzVMakhUMWY2aHY3MzVUcFlvSVhqRFpFWTJDUVZRSzQ0VWJWQXlJcXRYYnMzUG1jT1hWNjE1RjBWeUtScUs3UlJvS18zVVZBZFRNOFdPTGgxS1N6VG9hTkQ0M19wV3FwNVBETF9Kd0U4WE9UMU1fRDJXOVZzZFZ0NklVMUFMMGI5bEJVcVd0WHRTTURkQ2t1a3JTYmVRM25zb2swcWZWRXA5TFZqUHljOUhLUmEzR2s2dVJnV3phRFFrYmh1RTBZ?oc=5",
-      "source": "Les Echos",
-      "pub_date": "Wed, 30 Sep 2026 15:20:16 GMT",
-      "pub_date_iso": "2026-09-30T15:20:16+00:00"
-    },
-    {
-      "id": "CBMi8wFBVV95cUxOWkpBaVREQThmT2pXM2JLcEdwNDdfLVRYdURzQmN1M2w4ekNTeVdrOUdCMUY0dFRUVl9nOXpNUUJzSE1qbVltVWhYejctNmU2dnJXbzA2WGtLaHVzamZXYVBfR2h4YXIzQk9PUldsS1lDRmVyRmZPdkZWM041N3paMTlJTUdudVdiMjY2Q3pwd2dlM2tiVVpSaEEwX1I2VGl4cEpPR1hpbUZTajZYSndjOXNFb2dEdzVteU9rUHZzVmRmY2tDTkkwY0ZwWER0Q3JoZ1d3T0hxUUl1ZnFLanVRMVdZWVZLZjFuNDhSRmJzRGhEdm8",
-      "title": "Budget 2027 : les armateurs n'échapperont pas à une contribution exceptionnelle sur leurs bénéfices - Les Echos",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxOWkpBaVREQThmT2pXM2JLcEdwNDdfLVRYdURzQmN1M2w4ekNTeVdrOUdCMUY0dFRUVl9nOXpNUUJzSE1qbVltVWhYejctNmU2dnJXbzA2WGtLaHVzamZXYVBfR2h4YXIzQk9PUldsS1lDRmVyRmZPdkZWM041N3paMTlJTUdudVdiMjY2Q3pwd2dlM2tiVVpSaEEwX1I2VGl4cEpPR1hpbUZTajZYSndjOXNFb2dEdzVteU9rUHZzVmRmY2tDTkkwY0ZwWER0Q3JoZ1d3T0hxUUl1ZnFLanVRMVdZWVZLZjFuNDhSRmJzRGhEdm8?oc=5\" target=\"_blank\">Budget 2027 : les armateurs n'échapperont pas à une contribution exceptionnelle sur leurs bénéfices</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Les Echos</font>",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOWkpBaVREQThmT2pXM2JLcEdwNDdfLVRYdURzQmN1M2w4ekNTeVdrOUdCMUY0dFRUVl9nOXpNUUJzSE1qbVltVWhYejctNmU2dnJXbzA2WGtLaHVzamZXYVBfR2h4YXIzQk9PUldsS1lDRmVyRmZPdkZWM041N3paMTlJTUdudVdiMjY2Q3pwd2dlM2tiVVpSaEEwX1I2VGl4cEpPR1hpbUZTajZYSndjOXNFb2dEdzVteU9rUHZzVmRmY2tDTkkwY0ZwWER0Q3JoZ1d3T0hxUUl1ZnFLanVRMVdZWVZLZjFuNDhSRmJzRGhEdm8?oc=5",
-      "source": "Les Echos",
-      "pub_date": "Wed, 30 Sep 2026 15:32:55 GMT",
-      "pub_date_iso": "2026-09-30T15:32:55+00:00"
-    },
-    {
-      "id": "CBMiwAFBVV95cUxOam9pTmhmRTFGb2VrdFJmMXFpM3RVSnNkbkZJZTJjYURSUG11Y0xXSmtiQTJXMmI4ZnVZQUFIRnhkRGNLMURiRWFKdWdjcmdOb0hLYUNZZnk5bm9DUVJ1bnZMUEIzT2ZHeU5McHg5b2kxbTBwNl9KVTd5WGJQZW40dFhXS2gzRVRYVDlvY2dwQnFyakQ4TE9YbW50TUpTQWR3TWNvWXRuVHJqMUtRU1h0LXNMNGlrX1pmOVoxSjNkX0Y",
-      "title": "Budget 2027 : combien gagnent les retraités, cible du gouvernement - Les Echos",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOam9pTmhmRTFGb2VrdFJmMXFpM3RVSnNkbkZJZTJjYURSUG11Y0xXSmtiQTJXMmI4ZnVZQUFIRnhkRGNLMURiRWFKdWdjcmdOb0hLYUNZZnk5bm9DUVJ1bnZMUEIzT2ZHeU5McHg5b2kxbTBwNl9KVTd5WGJQZW40dFhXS2gzRVRYVDlvY2dwQnFyakQ4TE9YbW50TUpTQWR3TWNvWXRuVHJqMUtRU1h0LXNMNGlrX1pmOVoxSjNkX0Y?oc=5\" target=\"_blank\">Budget 2027 : combien gagnent les retraités, cible du gouvernement</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Les Echos</font>",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOam9pTmhmRTFGb2VrdFJmMXFpM3RVSnNkbkZJZTJjYURSUG11Y0xXSmtiQTJXMmI4ZnVZQUFIRnhkRGNLMURiRWFKdWdjcmdOb0hLYUNZZnk5bm9DUVJ1bnZMUEIzT2ZHeU5McHg5b2kxbTBwNl9KVTd5WGJQZW40dFhXS2gzRVRYVDlvY2dwQnFyakQ4TE9YbW50TUpTQWR3TWNvWXRuVHJqMUtRU1h0LXNMNGlrX1pmOVoxSjNkX0Y?oc=5",
-      "source": "Les Echos",
-      "pub_date": "Wed, 30 Sep 2026 13:32:43 GMT",
-      "pub_date_iso": "2026-09-30T13:32:43+00:00"
     }
   ]
 }

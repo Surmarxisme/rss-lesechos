@@ -1,7 +1,7 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Fri, 30 Oct 2026 11:42:29 +0000`
-> 128 articles (30 derniers jours)
+> Derniere mise a jour : `Fri, 30 Oct 2026 15:44:44 +0000`
+> 125 articles (30 derniers jours)
 
 ---
 
@@ -1002,29 +1002,5 @@
 `Wed, 30 Sep 2026 16:32:15 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi2wFBVV95cUxOSmV0dGxnQUprdUdiaERKaGY1TXBNT29sMVFpQVRFMGpLT1hOUElIZS0xT2xKS21lX2tJbXFGb1JrVmZnQ2tFZ25KZzlDRlV4Q3cxb01UU29XN3lFNGd0YUZkcjA5bTdzVXRQSWFLcW1iTnZmSEczQnlpSmpsWGUxLUhMakd4N2Y5bnU1NEJ6VjdySWxZejdiTHRXalVSVEV4d0VNWTB6bnZYRUFHQ0NOOGFtS1BXLUxmV2FIOUIwdkQ1ckFhTzRBSmNBOXFYZEVGYm9DeFRtZ2hOSE0?oc=5" target="_blank">Budget 2027 : les collectivités locales agitent le spectre d'une « annus horribilis »</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Comment l'impôt sur le revenu a baissé sous la présidence Macron - Les Echos](https://news.google.com/rss/articles/CBMixwFBVV95cUxOTzVMakhUMWY2aHY3MzVUcFlvSVhqRFpFWTJDUVZRSzQ0VWJWQXlJcXRYYnMzUG1jT1hWNjE1RjBWeUtScUs3UlJvS18zVVZBZFRNOFdPTGgxS1N6VG9hTkQ0M19wV3FwNVBETF9Kd0U4WE9UMU1fRDJXOVZzZFZ0NklVMUFMMGI5bEJVcVd0WHRTTURkQ2t1a3JTYmVRM25zb2swcWZWRXA5TFZqUHljOUhLUmEzR2s2dVJnV3phRFFrYmh1RTBZ?oc=5)
-
-`Wed, 30 Sep 2026 15:20:16 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMixwFBVV95cUxOTzVMakhUMWY2aHY3MzVUcFlvSVhqRFpFWTJDUVZRSzQ0VWJWQXlJcXRYYnMzUG1jT1hWNjE1RjBWeUtScUs3UlJvS18zVVZBZFRNOFdPTGgxS1N6VG9hTkQ0M19wV3FwNVBETF9Kd0U4WE9UMU1fRDJXOVZzZFZ0NklVMUFMMGI5bEJVcVd0WHRTTURkQ2t1a3JTYmVRM25zb2swcWZWRXA5TFZqUHljOUhLUmEzR2s2dVJnV3phRFFrYmh1RTBZ?oc=5" target="_blank">Comment l'impôt sur le revenu a baissé sous la présidence Macron</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Budget 2027 : les armateurs n'échapperont pas à une contribution exceptionnelle sur leurs bénéfices - Les Echos](https://news.google.com/rss/articles/CBMi8wFBVV95cUxOWkpBaVREQThmT2pXM2JLcEdwNDdfLVRYdURzQmN1M2w4ekNTeVdrOUdCMUY0dFRUVl9nOXpNUUJzSE1qbVltVWhYejctNmU2dnJXbzA2WGtLaHVzamZXYVBfR2h4YXIzQk9PUldsS1lDRmVyRmZPdkZWM041N3paMTlJTUdudVdiMjY2Q3pwd2dlM2tiVVpSaEEwX1I2VGl4cEpPR1hpbUZTajZYSndjOXNFb2dEdzVteU9rUHZzVmRmY2tDTkkwY0ZwWER0Q3JoZ1d3T0hxUUl1ZnFLanVRMVdZWVZLZjFuNDhSRmJzRGhEdm8?oc=5)
-
-`Wed, 30 Sep 2026 15:32:55 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi8wFBVV95cUxOWkpBaVREQThmT2pXM2JLcEdwNDdfLVRYdURzQmN1M2w4ekNTeVdrOUdCMUY0dFRUVl9nOXpNUUJzSE1qbVltVWhYejctNmU2dnJXbzA2WGtLaHVzamZXYVBfR2h4YXIzQk9PUldsS1lDRmVyRmZPdkZWM041N3paMTlJTUdudVdiMjY2Q3pwd2dlM2tiVVpSaEEwX1I2VGl4cEpPR1hpbUZTajZYSndjOXNFb2dEdzVteU9rUHZzVmRmY2tDTkkwY0ZwWER0Q3JoZ1d3T0hxUUl1ZnFLanVRMVdZWVZLZjFuNDhSRmJzRGhEdm8?oc=5" target="_blank">Budget 2027 : les armateurs n'échapperont pas à une contribution exceptionnelle sur leurs bénéfices</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Budget 2027 : combien gagnent les retraités, cible du gouvernement - Les Echos](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOam9pTmhmRTFGb2VrdFJmMXFpM3RVSnNkbkZJZTJjYURSUG11Y0xXSmtiQTJXMmI4ZnVZQUFIRnhkRGNLMURiRWFKdWdjcmdOb0hLYUNZZnk5bm9DUVJ1bnZMUEIzT2ZHeU5McHg5b2kxbTBwNl9KVTd5WGJQZW40dFhXS2gzRVRYVDlvY2dwQnFyakQ4TE9YbW50TUpTQWR3TWNvWXRuVHJqMUtRU1h0LXNMNGlrX1pmOVoxSjNkX0Y?oc=5)
-
-`Wed, 30 Sep 2026 13:32:43 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxOam9pTmhmRTFGb2VrdFJmMXFpM3RVSnNkbkZJZTJjYURSUG11Y0xXSmtiQTJXMmI4ZnVZQUFIRnhkRGNLMURiRWFKdWdjcmdOb0hLYUNZZnk5bm9DUVJ1bnZMUEIzT2ZHeU5McHg5b2kxbTBwNl9KVTd5WGJQZW40dFhXS2gzRVRYVDlvY2dwQnFyakQ4TE9YbW50TUpTQWR3TWNvWXRuVHJqMUtRU1h0LXNMNGlrX1pmOVoxSjNkX0Y?oc=5" target="_blank">Budget 2027 : combien gagnent les retraités, cible du gouvernement</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
