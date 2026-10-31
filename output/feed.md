@@ -1,7 +1,47 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Fri, 30 Oct 2026 21:11:30 +0000`
-> 122 articles (30 derniers jours)
+> Derniere mise a jour : `Sat, 31 Oct 2026 15:11:07 +0000`
+> 117 articles (30 derniers jours)
+
+---
+
+### [DIRECT - Manifestations du 31 octobre : suivez l'« acte III » de la mobilisation contre la vie chère - Les Echos](https://news.google.com/rss/articles/CBMi-gFBVV95cUxOM09VN3V6TDVJN2RIUzFKNm42RmdYUGdyc1JkWVk2bVpnWkFSUU4wZm5JVDhoZF9pbHdmbC1neGNMN3N2a3hYSWZPWUhCWmlFSHEwZ0RLOUNVSUMzV0RISkdWVm92WVBDdDQ4UDZUNDB5Ml9JNUdoa0syTDh0UG5BOG8tX0FXOUxiVDVzVmdPaWtyeGtIN2hXa2dIcTNneVJsVWJEaDYyWmtMX05nVmZzdE9lVVNXdUdtVzQ4UGoyM3NCTzVXSFR2aHM2Nlo2UGZjU3BGT1pSbzdNMFVnX3lqWDNVTzFpMm1KZF80c0JnYmFkUWZ6WXRfZFRB?oc=5)
+
+`Sat, 31 Oct 2026 07:26:02 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi-gFBVV95cUxOM09VN3V6TDVJN2RIUzFKNm42RmdYUGdyc1JkWVk2bVpnWkFSUU4wZm5JVDhoZF9pbHdmbC1neGNMN3N2a3hYSWZPWUhCWmlFSHEwZ0RLOUNVSUMzV0RISkdWVm92WVBDdDQ4UDZUNDB5Ml9JNUdoa0syTDh0UG5BOG8tX0FXOUxiVDVzVmdPaWtyeGtIN2hXa2dIcTNneVJsVWJEaDYyWmtMX05nVmZzdE9lVVNXdUdtVzQ4UGoyM3NCTzVXSFR2aHM2Nlo2UGZjU3BGT1pSbzdNMFVnX3lqWDNVTzFpMm1KZF80c0JnYmFkUWZ6WXRfZFRB?oc=5" target="_blank">DIRECT - Manifestations du 31 octobre : suivez l'« acte III » de la mobilisation contre la vie chère</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [« La France n'apparaît plus comme un pays stable » : les investisseurs américains « déboussolés » par les tensions politiques et sociales - Les Echos](https://news.google.com/rss/articles/CBMilAJBVV95cUxQRzdZTVVVRUxobGNYZk5OZHE5ZXk5SkcxU2xMaXYyYVB5YkhfOTJheFRnSkhaeHBHZXI0TDJPYmdBUV94ZDhHRnR1Z2dYa2pTdWZSSXJkQ0tmY05yemozeXlSVUo0Szl2eXV6R1FpM2dRcHBBZ1dLMUN1Y1pVakFKaERkdlVUQlZxMW50T3g0QzhiREF4M2wwSFJGQTAwcUM1djVPOThYNk1oM0t6RldEN0oyTWlZUEtRSkZyaU5acmZpc1h2SVd4TnRFR3NBN3phQlQ4ZEFmOTdfeXctVWdkQ2N1aTlPSmdqRzZqVXg4X0hCcW9VdVRmTnlXZFFDRVhHM09wUTlIZFItaWlEakpSSVB1Z3A?oc=5)
+
+`Sat, 31 Oct 2026 08:00:08 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMilAJBVV95cUxQRzdZTVVVRUxobGNYZk5OZHE5ZXk5SkcxU2xMaXYyYVB5YkhfOTJheFRnSkhaeHBHZXI0TDJPYmdBUV94ZDhHRnR1Z2dYa2pTdWZSSXJkQ0tmY05yemozeXlSVUo0Szl2eXV6R1FpM2dRcHBBZ1dLMUN1Y1pVakFKaERkdlVUQlZxMW50T3g0QzhiREF4M2wwSFJGQTAwcUM1djVPOThYNk1oM0t6RldEN0oyTWlZUEtRSkZyaU5acmZpc1h2SVd4TnRFR3NBN3phQlQ4ZEFmOTdfeXctVWdkQ2N1aTlPSmdqRzZqVXg4X0hCcW9VdVRmTnlXZFFDRVhHM09wUTlIZFItaWlEakpSSVB1Z3A?oc=5" target="_blank">« La France n'apparaît plus comme un pays stable » : les investisseurs américains « déboussolés » par les tensions politiques et sociales</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Dette : l'agence Fitch abaisse la perspective de la France - Les Echos](https://news.google.com/rss/articles/CBMivAFBVV95cUxPZ1hPZkVOYzJ1Ty0yLTl0c3Q0aHlnc2dZQm94QWNZeVVpQTJLNFhDS1dBeW42OFdMb002cncxVmZXV29PN2J6VlNWemVCbk9tYUVaYzVaUzNFaFpvbTlxQUJTMG5aeVF0MGFqMkN4V2MtSXR2MDhHeVVkU3dWZVdsYU1zUHJjbGhFZnF2ZGZmNU1XRDZDaVpuMXRoV1A1eHJFM2MxME5wQlQ5aHRIU25xdC1jRE5MMS1QQWlWTg?oc=5)
+
+`Fri, 30 Oct 2026 22:38:43 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxPZ1hPZkVOYzJ1Ty0yLTl0c3Q0aHlnc2dZQm94QWNZeVVpQTJLNFhDS1dBeW42OFdMb002cncxVmZXV29PN2J6VlNWemVCbk9tYUVaYzVaUzNFaFpvbTlxQUJTMG5aeVF0MGFqMkN4V2MtSXR2MDhHeVVkU3dWZVdsYU1zUHJjbGhFZnF2ZGZmNU1XRDZDaVpuMXRoV1A1eHJFM2MxME5wQlQ5aHRIU25xdC1jRE5MMS1QQWlWTg?oc=5" target="_blank">Dette : l'agence Fitch abaisse la perspective de la France</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Les mots éco - Présidentielle 2027 : c'est quoi le pouvoir d'achat ? - Les Echos](https://news.google.com/rss/articles/CBMivAFBVV95cUxNWjlad3EwZFBQb2xTVVhBR2taOGRoeWN5TmQxcjFVdlhSRVEyRC1NVUxIeG1ZNXVNUEpGbWppZ1lyVmJnMl90SFIyeGh4RmdrdFNuQ1BYTkxYV0ptYmNtR2dzZlFnQXg3dzBPWUJpQzJva3o1bFFGLUdiYWhfalJoZVFYMUtaaTlPUldybm9GX3I3bkNBeUhjSDZWR3JGOEdMY1ZwUW5UV3ZWaDlRaVN2OENra241cnprZ3RNaQ?oc=5)
+
+`Sat, 31 Oct 2026 09:00:10 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxNWjlad3EwZFBQb2xTVVhBR2taOGRoeWN5TmQxcjFVdlhSRVEyRC1NVUxIeG1ZNXVNUEpGbWppZ1lyVmJnMl90SFIyeGh4RmdrdFNuQ1BYTkxYV0ptYmNtR2dzZlFnQXg3dzBPWUJpQzJva3o1bFFGLUdiYWhfalJoZVFYMUtaaTlPUldybm9GX3I3bkNBeUhjSDZWR3JGOEdMY1ZwUW5UV3ZWaDlRaVN2OENra241cnprZ3RNaQ?oc=5" target="_blank">Les mots éco - Présidentielle 2027 : c'est quoi le pouvoir d'achat ?</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Prix du gazole et du gaz, retraites, petits colis, découverts bancaires… Ce qui change au 1er novembre - Les Echos](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQOGgxWENjVG5weXUtMGtIeFVvSmJRd3ozNnlwSFg4SGFVcTZkcUNEVVdHbmFfUXJXbUZxbk5wN2ZGSXdaMlV4WkNLODlMVlVmUlhkQzJnMmxpY05pa1dGWVhwQWN6SnowbVRwRFBCNWtHT1ZtSE5yY2EwZFRtdjBtVkxZQ0dvbzhtT1JuSEVYbnB6RjVndUJURVdjVllISFh4VGJ3aVlNMElaMzBLSG5HQVNxMTBlUUhab2ZTSWlfaHF6MThodlpTMnNaYzY4cGhBc2c3TW9hMV9hVFdMV3RmbkpCclJERl9J?oc=5)
+
+`Sat, 31 Oct 2026 08:05:28 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi6AFBVV95cUxQOGgxWENjVG5weXUtMGtIeFVvSmJRd3ozNnlwSFg4SGFVcTZkcUNEVVdHbmFfUXJXbUZxbk5wN2ZGSXdaMlV4WkNLODlMVlVmUlhkQzJnMmxpY05pa1dGWVhwQWN6SnowbVRwRFBCNWtHT1ZtSE5yY2EwZFRtdjBtVkxZQ0dvbzhtT1JuSEVYbnB6RjVndUJURVdjVllISFh4VGJ3aVlNMElaMzBLSG5HQVNxMTBlUUhab2ZTSWlfaHF6MThodlpTMnNaYzY4cGhBc2c3TW9hMV9hVFdMV3RmbkpCclJERl9J?oc=5" target="_blank">Prix du gazole et du gaz, retraites, petits colis, découverts bancaires… Ce qui change au 1er novembre</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -869,14 +909,6 @@
 
 ---
 
-### [SONDAGE EXCLUSIF - Retraites, APL, franchises médicales… : ce que pensent les Français des mesures du budget 2027 - Les Echos](https://news.google.com/rss/articles/CBMigAJBVV95cUxORHlYX1ZMZGktOEVGSVhmVlo2UW1za2VoVGwzLU5kczFkVlNXQ1dwSjRyZ0hyMlFQeExFN2h3bVNzZ2s0YmRuVm04T3h5a1dEaUM3Qk8wVmp4bjh6VU1aTFhiQmF4cDVIWmZxT3pjY1M0TVU2OG04WHZjV3k5WW5UT1lnUEJVRnVLZ3RSOEZILTREdUdYN1NITjdDaG1xZmhMVC1rb1M5LWlRaURhYktPYzdmT0oySHp3Z1JuUFRZUFZDb2FFS09YeVd1cEZ5OHJyLXhKNVh1MEhmaldhbE5wa3NxS29fZEJ6d0UwOFZBRkE1d3JFVzNlZ0ZGcy1XVjg3?oc=5)
-
-`Thu, 01 Oct 2026 14:02:09 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMigAJBVV95cUxORHlYX1ZMZGktOEVGSVhmVlo2UW1za2VoVGwzLU5kczFkVlNXQ1dwSjRyZ0hyMlFQeExFN2h3bVNzZ2s0YmRuVm04T3h5a1dEaUM3Qk8wVmp4bjh6VU1aTFhiQmF4cDVIWmZxT3pjY1M0TVU2OG04WHZjV3k5WW5UT1lnUEJVRnVLZ3RSOEZILTREdUdYN1NITjdDaG1xZmhMVC1rb1M5LWlRaURhYktPYzdmT0oySHp3Z1JuUFRZUFZDb2FFS09YeVd1cEZ5OHJyLXhKNVh1MEhmaldhbE5wa3NxS29fZEJ6d0UwOFZBRkE1d3JFVzNlZ0ZGcy1XVjg3?oc=5" target="_blank">SONDAGE EXCLUSIF - Retraites, APL, franchises médicales… : ce que pensent les Français des mesures du budget 2027</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
 ### [« La souveraineté de la France en dépend » : le gouvernement défend un budget 2027 de « redressement » sous la menace des marchés - Les Echos](https://news.google.com/rss/articles/CBMikgJBVV95cUxQaFhpOFprdkpCVUpnSzR3WkJuWi1wTFdvTUx4elp4M0xIV1VJeDRZeEJwZ09nUVJnSUNTakJsWTZlNmRXRkx1Zm05S2FqUThmNzRscjdsSFBrekk2emE1RjEwaDREWjNUOEdDcEdzUDlMcHBwb3I2NmpGTl9OTDl4RTFJS0hlRU03UjlSSVZiWGRLV1FBRkdPaWhSTWVlQm5KUDZ0Um9kbm9KdmtEZ055NDdvMkNQOW5udzJEeDlMSkJGMWh6MEp2SWZqbUE0MkdRYnFtbjNfMlZoUU1HRE1LUTVaY3dzVUJIQnpBcEhRZEY5aVJ4ZHlMQnFFSHJtVnJBYnppbjd3dHJhWVU5YmxxQTJ3?oc=5)
 
 `Thu, 01 Oct 2026 15:45:23 GMT`
@@ -901,82 +933,10 @@
 
 ---
 
-### [Budget 2027 : ce qu’il faut retenir de la copie du gouvernement - Les Echos](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOV9nRi1ybTdDUHdYY3ZYQ01fV1U1bUVteVVuU09JV0dRQXlSQmdNRWpZSEo2S1VCTDBwaEJsNWN0MVM2dFJwTk1fOWptdkZOamR1R01aYnNMcFYyTG51VzFGQkcxRy1YLTVOZU9lV3FfcXNwMTFuVjhSZmxDcGtoUlR6RnpxcmpnRW5mM2FPSnB0OU9VZmwxajU4LXRWN21qTlRXU3AtZGZxcGVZUjY0SWFHUURSRzRsbGFWS1BfWHJJUG8?oc=5)
-
-`Thu, 01 Oct 2026 14:06:46 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOV9nRi1ybTdDUHdYY3ZYQ01fV1U1bUVteVVuU09JV0dRQXlSQmdNRWpZSEo2S1VCTDBwaEJsNWN0MVM2dFJwTk1fOWptdkZOamR1R01aYnNMcFYyTG51VzFGQkcxRy1YLTVOZU9lV3FfcXNwMTFuVjhSZmxDcGtoUlR6RnpxcmpnRW5mM2FPSnB0OU9VZmwxajU4LXRWN21qTlRXU3AtZGZxcGVZUjY0SWFHUURSRzRsbGFWS1BfWHJJUG8?oc=5" target="_blank">Budget 2027 : ce qu’il faut retenir de la copie du gouvernement</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
 ### [Économie | Page 247 - Les Echos](https://news.google.com/rss/articles/CBMiXEFVX3lxTFA4NnlqTXFJeUozS2NPanNrM0xoeFVLdVdCVEdoYlc4ZEhUTnRudzJMcWJia1N1Z1NYTGNvV3dmWHpOV2ZzXy1UazZPWlhaaE9JY3c2QVV6Y0o2aUQt?oc=5)
 
 `Thu, 01 Oct 2026 16:09:41 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMiXEFVX3lxTFA4NnlqTXFJeUozS2NPanNrM0xoeFVLdVdCVEdoYlc4ZEhUTnRudzJMcWJia1N1Z1NYTGNvV3dmWHpOV2ZzXy1UazZPWlhaaE9JY3c2QVV6Y0o2aUQt?oc=5" target="_blank">Économie | Page 247</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [« Augmenter le coût du travail est un non-sens économique » - Les Echos](https://news.google.com/rss/articles/CBMirwFBVV95cUxQdXlsRW9ZYUM0S3RTczRrc2RIMWpqeU53X21sYWlCM1pQbFpscVAtQmMtOHhtRW9xWlVxbGtJYnh0T0JBNU00Njlwb3U3OXR2Q0FUT1hIRDktR0tkaURBMjJzTUR1MS0zVGlaMTZqXy1JLWZqNEFwX21iMFNzSTJDZW9tN3ZHTnlsd0wxbzRyQWVZdndyd2E2YlZpeWJjM1l6ZmRkWlUwZDRyT1Zva3Ew?oc=5)
-
-`Thu, 01 Oct 2026 13:00:36 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxQdXlsRW9ZYUM0S3RTczRrc2RIMWpqeU53X21sYWlCM1pQbFpscVAtQmMtOHhtRW9xWlVxbGtJYnh0T0JBNU00Njlwb3U3OXR2Q0FUT1hIRDktR0tkaURBMjJzTUR1MS0zVGlaMTZqXy1JLWZqNEFwX21iMFNzSTJDZW9tN3ZHTnlsd0wxbzRyQWVZdndyd2E2YlZpeWJjM1l6ZmRkWlUwZDRyT1Zva3Ew?oc=5" target="_blank">« Augmenter le coût du travail est un non-sens économique »</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Budget 2027 : les économistes sceptiques sur le scénario de croissance du gouvernement - Les Echos](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYzhydnZlbENHVXBxbHZTZk5SYk54VGhaNk1uR3k5QkpwUWdGenVIQktpQllIY2xfRlptWEVxTzNIdm9UNXZwS3dLcGRNbG1Ba2NJQlhJcXc3dHZLSUV6TThPZFNiVEVxd0c2NktqNU1pZXNtQVNlRGtfek1MemlFTXJjalpGRmlMOHV5c1cyOGRnZjRjcXdTdGFDbWpWNThGck0weTkzblAwZmpnMW8tYy1oWHhRbGVtSGNleUZMTHhTNlc4bUhVWDc2V0xqOVRDVE5CUEMxVDROb1dW?oc=5)
-
-`Thu, 01 Oct 2026 13:12:29 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYzhydnZlbENHVXBxbHZTZk5SYk54VGhaNk1uR3k5QkpwUWdGenVIQktpQllIY2xfRlptWEVxTzNIdm9UNXZwS3dLcGRNbG1Ba2NJQlhJcXc3dHZLSUV6TThPZFNiVEVxd0c2NktqNU1pZXNtQVNlRGtfek1MemlFTXJjalpGRmlMOHV5c1cyOGRnZjRjcXdTdGFDbWpWNThGck0weTkzblAwZmpnMW8tYy1oWHhRbGVtSGNleUZMTHhTNlc4bUhVWDc2V0xqOVRDVE5CUEMxVDROb1dW?oc=5" target="_blank">Budget 2027 : les économistes sceptiques sur le scénario de croissance du gouvernement</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Budget 2027 : comment les patients vont être mis à contribution - Les Echos](https://news.google.com/rss/articles/CBMitwFBVV95cUxOdHh1NXZnbHA5amNmZzN3RXA2Q2QyQl85dWdBZTBkSy1sSmlkVUY1UGZoZlY4dHhzZ0d3VHdIOHpLWDE0cFNBRjlob3ljZ2NNZjR3ZWotNjE0QmkzbUwyOVNhU2tacVFOLTUzUzdoUHI0T3ljempQVUxuanpaTWZXUGRHTTJ2T1E0ZVdnZTNPYVdNcGJ6UGs3Wjk3aEFiNmpOY0l2QzFlNmoyYTdlUlRzYTY1d0dIbms?oc=5)
-
-`Thu, 01 Oct 2026 11:54:02 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxOdHh1NXZnbHA5amNmZzN3RXA2Q2QyQl85dWdBZTBkSy1sSmlkVUY1UGZoZlY4dHhzZ0d3VHdIOHpLWDE0cFNBRjlob3ljZ2NNZjR3ZWotNjE0QmkzbUwyOVNhU2tacVFOLTUzUzdoUHI0T3ljempQVUxuanpaTWZXUGRHTTJ2T1E0ZVdnZTNPYVdNcGJ6UGs3Wjk3aEFiNmpOY0l2QzFlNmoyYTdlUlRzYTY1d0dIbms?oc=5" target="_blank">Budget 2027 : comment les patients vont être mis à contribution</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Budget 2027 : un plan de redressement sujet à des incertitudes majeures, prévient le Haut Conseil des finances publiques - Les Echos](https://news.google.com/rss/articles/CBMijwJBVV95cUxNY05QMklDcFpjVnNQLWVtMzlySkcweGdQaGhOaTBBZDd2N0NhMHU4NDk0RWd1U2tYY2U0V0hXS3dIZzByb3BxTUM4S3dlcTdOU1B2R0xGRExfQjZHbEtJSTlRN2Y5Y05TNzJmZEY0VDJYWmpHS1o2eThNa2lka1pGaThSb2hiV1FlVk1keVFXYlRrQ1R1d1NmYy1VdzFwZmRyekpVNXJZclQxQUxYd1NKS0p0Nlg5Q3dXN1gyMUlzYlFlTTV1eVk5Rm1CVjZtaEVVRGdBZlpONU02ejJ5a1JHME1COWhzSFhvWWItWWpnSHZfX00ycnlnYi16OXNTYWxWV0dQZ255MHFUN3FILUw0?oc=5)
-
-`Thu, 01 Oct 2026 12:00:08 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMijwJBVV95cUxNY05QMklDcFpjVnNQLWVtMzlySkcweGdQaGhOaTBBZDd2N0NhMHU4NDk0RWd1U2tYY2U0V0hXS3dIZzByb3BxTUM4S3dlcTdOU1B2R0xGRExfQjZHbEtJSTlRN2Y5Y05TNzJmZEY0VDJYWmpHS1o2eThNa2lka1pGaThSb2hiV1FlVk1keVFXYlRrQ1R1d1NmYy1VdzFwZmRyekpVNXJZclQxQUxYd1NKS0p0Nlg5Q3dXN1gyMUlzYlFlTTV1eVk5Rm1CVjZtaEVVRGdBZlpONU02ejJ5a1JHME1COWhzSFhvWWItWWpnSHZfX00ycnlnYi16OXNTYWxWV0dQZ255MHFUN3FILUw0?oc=5" target="_blank">Budget 2027 : un plan de redressement sujet à des incertitudes majeures, prévient le Haut Conseil des finances publiques</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Comment les impôts ont baissé sous l'ère Macron… avant d'augmenter - Les Echos](https://news.google.com/rss/articles/CBMixwFBVV95cUxNWjlLRXVxWEVwZG9xMHdlQlNPNUotWDBlSElNTnU5V3Y3UnJ3b0pKM2pYa3R3c3QwaWh4U2p0UEJjS3YwSGwtbEZhbXZKcURUZnA3UmF6SVhiZHNhdFdNa2ZyYU5HS19ySHNBUlh1akNzem9Jb1Yzd3pGR0ZvNkpzei1DWk43RUZUWlpZTmZvM1MyZk4tQzdIc09tbFpOSERnYjU0aGEwQUhvejNXR3pKQWc5ak5Tci1FRnRoUEEtcTNnTmd4SG1r?oc=5)
-
-`Thu, 01 Oct 2026 04:45:08 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMixwFBVV95cUxNWjlLRXVxWEVwZG9xMHdlQlNPNUotWDBlSElNTnU5V3Y3UnJ3b0pKM2pYa3R3c3QwaWh4U2p0UEJjS3YwSGwtbEZhbXZKcURUZnA3UmF6SVhiZHNhdFdNa2ZyYU5HS19ySHNBUlh1akNzem9Jb1Yzd3pGR0ZvNkpzei1DWk43RUZUWlpZTmZvM1MyZk4tQzdIc09tbFpOSERnYjU0aGEwQUhvejNXR3pKQWc5ak5Tci1FRnRoUEEtcTNnTmd4SG1r?oc=5" target="_blank">Comment les impôts ont baissé sous l'ère Macron… avant d'augmenter</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [DIRECT - Budget 2027 : le gouvernement dévoile sa copie avec de nouvelles mesures et un effort de 43 milliards d'euros - Les Echos](https://news.google.com/rss/articles/CBMi-gFBVV95cUxONlk1SFdlN1BpYWFwNzVmN0FaS1FYcXBlZUNRM0RjV0hGVk5rMTFKSVg4TFg3eUVfOE1QdlpsZFc3cHg2LWwwQlZrWUpEdGU1TDRNTGpiUkZucWYwa1RRMjNZYXRHLUV5Z2lURTlxZzc2WnRnTVJCZEN2R3FRdnNJd3laQkJSU3ZldHEzUl9aVTA2RzNlRnByRkh0T01HWnZQUk9KQy1ta2w3b0p2VjRWaEhjRUVNU05WVXZTZGJiaHE1RnFseDdFVDF6Tnd5N21pZV9NTHljNjBwLUlFR3JTZy0zX3ROcHU3amdoa3FVUzc2eXFES3RiUl9B?oc=5)
-
-`Thu, 01 Oct 2026 07:29:14 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi-gFBVV95cUxONlk1SFdlN1BpYWFwNzVmN0FaS1FYcXBlZUNRM0RjV0hGVk5rMTFKSVg4TFg3eUVfOE1QdlpsZFc3cHg2LWwwQlZrWUpEdGU1TDRNTGpiUkZucWYwa1RRMjNZYXRHLUV5Z2lURTlxZzc2WnRnTVJCZEN2R3FRdnNJd3laQkJSU3ZldHEzUl9aVTA2RzNlRnByRkh0T01HWnZQUk9KQy1ta2w3b0p2VjRWaEhjRUVNU05WVXZTZGJiaHE1RnFseDdFVDF6Tnd5N21pZV9NTHljNjBwLUlFR3JTZy0zX3ROcHU3amdoa3FVUzc2eXFES3RiUl9B?oc=5" target="_blank">DIRECT - Budget 2027 : le gouvernement dévoile sa copie avec de nouvelles mesures et un effort de 43 milliards d'euros</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Impôts, économies, retraites, fonctionnaires : ce que contient le budget 2027 - Les Echos](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaDhneUc1S3FUcWVKUnhzNktJMXA2dGZKTEtUQUdubXNXNlFkWmxRbGxJdWhDaW1xT3hQMXhGTDVqbThXekFnNmJsa0x3dVl1MWJZSWZYNTVsQmFYMjk0Y3VHLTNIbzBPc3ItSDRsdnpSYS1RNTdHRTdXcVRYUDlzQlc0ZlJMbUdQYndCNW1WWktWQk9QTVRpN0w3Q3NCQ09XSE1DRFRGQVpLTWIyZzFOWV9zOFc2SVdlX2tJT3o2a1VIV21WR2lMd3NlSUtvZ0ItZ1pZ?oc=5)
-
-`Thu, 01 Oct 2026 09:13:15 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaDhneUc1S3FUcWVKUnhzNktJMXA2dGZKTEtUQUdubXNXNlFkWmxRbGxJdWhDaW1xT3hQMXhGTDVqbThXekFnNmJsa0x3dVl1MWJZSWZYNTVsQmFYMjk0Y3VHLTNIbzBPc3ItSDRsdnpSYS1RNTdHRTdXcVRYUDlzQlc0ZlJMbUdQYndCNW1WWktWQk9QTVRpN0w3Q3NCQ09XSE1DRFRGQVpLTWIyZzFOWV9zOFc2SVdlX2tJT3o2a1VIV21WR2lMd3NlSUtvZ0ItZ1pZ?oc=5" target="_blank">Impôts, économies, retraites, fonctionnaires : ce que contient le budget 2027</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Budget 2027 : le calendrier et les scénarios d'une adoption à haut risque - Les Echos](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZW9VYm1CdnVmNDUwRV9xRjhIcnNCUWt3azlfUi0xNzMyQlh6R3daZ3R5dHFjVnJTSGNtVjNGSFRBRTZyOURQdzhka1FpQTNNSHVROHZxb3FMNzRweG12d190Q1lGWml5eC10bjVsd1czc2ZpNHl2a2pLU0tUREZIS1hGa3NtcEdzM1QyZklHcFdoZzk4ZmNrMXVzZmpsN1d0cXd4WWM3dDl3UUM4eXdMa2dobmlmS2JEN1NOSjNRT1JubktBRmNEUzN4Wmt6WUpy?oc=5)
-
-`Thu, 01 Oct 2026 06:45:09 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZW9VYm1CdnVmNDUwRV9xRjhIcnNCUWt3azlfUi0xNzMyQlh6R3daZ3R5dHFjVnJTSGNtVjNGSFRBRTZyOURQdzhka1FpQTNNSHVROHZxb3FMNzRweG12d190Q1lGWml5eC10bjVsd1czc2ZpNHl2a2pLU0tUREZIS1hGa3NtcEdzM1QyZklHcFdoZzk4ZmNrMXVzZmpsN1d0cXd4WWM3dDl3UUM4eXdMa2dobmlmS2JEN1NOSjNRT1JubktBRmNEUzN4Wmt6WUpy?oc=5" target="_blank">Budget 2027 : le calendrier et les scénarios d'une adoption à haut risque</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
