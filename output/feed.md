@@ -1,7 +1,23 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Sat, 31 Oct 2026 15:11:07 +0000`
-> 117 articles (30 derniers jours)
+> Derniere mise a jour : `Sun, 01 Nov 2026 15:52:59 +0000`
+> 107 articles (30 derniers jours)
+
+---
+
+### [« Les cortèges se sont bien déroulés » : mobilisation en baisse mais ambiance festive avant le rendez-vous syndical du 5 novembre - Les Echos](https://news.google.com/rss/articles/CBMiigJBVV95cUxOUU1rTXZIM3lKYXFVT21hajlIOU56Z1ZPUG1QYVJ0SDktU2thTHpFU1E4MW5fNVRad2dsbGZ4SGdhY2lubUdqOS1ISk5qVUFfWWswNTFxVURsZmI2S2hXekxIb1NZQjVsbEF5d3V6OEdwcjhISm9yUmZPNkxIVDNNYXNaUkFBRTRkUGNWSXk2dTJxNkRLc1RWRjlNUGk3SDJ5Y0dvWEJJVHhLbURKMkVpY01GSDBid1VKRTV4cmlQa3BFanBzbGlkbTZPdC1UVkhoSG5XV1VCXzNGY0lwZnBEcFVxZ2IyNkJ5TXFKc09uVG1OSkZ0RjFrX2U1VFQ1a0xxenB5OWFac3hkZw?oc=5)
+
+`Sun, 01 Nov 2026 10:47:58 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiigJBVV95cUxOUU1rTXZIM3lKYXFVT21hajlIOU56Z1ZPUG1QYVJ0SDktU2thTHpFU1E4MW5fNVRad2dsbGZ4SGdhY2lubUdqOS1ISk5qVUFfWWswNTFxVURsZmI2S2hXekxIb1NZQjVsbEF5d3V6OEdwcjhISm9yUmZPNkxIVDNNYXNaUkFBRTRkUGNWSXk2dTJxNkRLc1RWRjlNUGk3SDJ5Y0dvWEJJVHhLbURKMkVpY01GSDBid1VKRTV4cmlQa3BFanBzbGlkbTZPdC1UVkhoSG5XV1VCXzNGY0lwZnBEcFVxZ2IyNkJ5TXFKc09uVG1OSkZ0RjFrX2U1VFQ1a0xxenB5OWFac3hkZw?oc=5" target="_blank">« Les cortèges se sont bien déroulés » : mobilisation en baisse mais ambiance festive avant le rendez-vous syndical du 5 novembre</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Budget 2027 : faute de croissance, le gouvernement va devoir revoir sa copie pour durcir son plan de redressement - Les Echos](https://news.google.com/rss/articles/CBMihgJBVV95cUxNVW91Z3RNYXh0NkRRU2NETHdCRTZlaTl4TDcxOXpqSHBNOHdSYnRaZkcwOTk5S0JZejNlRm1YaVpCTFRBTVNWT1hDVzd0VkJkaWRNYjZ5bHFhZW9FNWtRZnAzRFNyeVZSblEwbFZuMkhVeW9tNTVMLUNETDNreFRLXzhkV013UlJIeV94c0hUNDNqZ0VKeTdyT21nMjdidHFoeHVwTFpoRjQyVEZvWWY1X21tZndaU3loZGNaSkxtcWxVVGlmbWNMQm9nTUNLWUdCS05nNWNXU1Q5eDlPcVRqLUZRYnRpSGhsbmpjbVktcVRSQU1HaG1sZDR0QWdXUWlrX1d5dHNR?oc=5)
+
+`Sun, 01 Nov 2026 15:30:08 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMihgJBVV95cUxNVW91Z3RNYXh0NkRRU2NETHdCRTZlaTl4TDcxOXpqSHBNOHdSYnRaZkcwOTk5S0JZejNlRm1YaVpCTFRBTVNWT1hDVzd0VkJkaWRNYjZ5bHFhZW9FNWtRZnAzRFNyeVZSblEwbFZuMkhVeW9tNTVMLUNETDNreFRLXzhkV013UlJIeV94c0hUNDNqZ0VKeTdyT21nMjdidHFoeHVwTFpoRjQyVEZvWWY1X21tZndaU3loZGNaSkxtcWxVVGlmbWNMQm9nTUNLWUdCS05nNWNXU1Q5eDlPcVRqLUZRYnRpSGhsbmpjbVktcVRSQU1HaG1sZDR0QWdXUWlrX1d5dHNR?oc=5" target="_blank">Budget 2027 : faute de croissance, le gouvernement va devoir revoir sa copie pour durcir son plan de redressement</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -749,14 +765,6 @@
 
 ---
 
-### [Budget et fiscalité : actualités en direct, analyses et vidéos - Les Echos](https://news.google.com/rss/articles/CBMiugFBVV95cUxNVE03U1REOEkzWDg2c0JIVk9iOUJlMV9DcUlDSUNlYVB5VkFmams2WDJoR2pkaHZnSGVCSW5VZ2ZjWDNOa21uUmd2bWZBUmtpVHRCQ3FsemREQWFESmZSQWN2cF9BY3hrdWpPT3ZURGpiU2FkMlVDWnY1M3ZCc1hocTdWTmV6NTBncEdrd3JXVngzS21tc1U4YzBWRVUxLU54dkRDM0prTElLOGxINkdjLUJ1MFRScDFhUlE?oc=5)
-
-`Thu, 01 Oct 2026 16:24:19 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxNVE03U1REOEkzWDg2c0JIVk9iOUJlMV9DcUlDSUNlYVB5VkFmams2WDJoR2pkaHZnSGVCSW5VZ2ZjWDNOa21uUmd2bWZBUmtpVHRCQ3FsemREQWFESmZSQWN2cF9BY3hrdWpPT3ZURGpiU2FkMlVDWnY1M3ZCc1hocTdWTmV6NTBncEdrd3JXVngzS21tc1U4YzBWRVUxLU54dkRDM0prTElLOGxINkdjLUJ1MFRScDFhUlE?oc=5" target="_blank">Budget et fiscalité : actualités en direct, analyses et vidéos</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
 ### [Impôt minimal des hauts revenus : la CDHR finit par payer - lesechos.fr](https://news.google.com/rss/articles/CBMivAFBVV95cUxQOWJ4eXJXQTYwQjBGSG5EMkVnQ3FGMW1wQmdoWkstbXlzUVVaVS1UTW1nZjNQMHhWd1Y1Q3lDUDVkS05Vc0gxNTJQTEpzLWxfQUx5YXhWcHIyYkNMLUNzYTI1YzVUV2VhQWhqVkVadjVaaEVaeG5yYUQtb1hoYU5XQ1ZDV1FWSC1GdmU5OFVIaS1OUzA5dTdRMTBCM0xMdjliTWtncHFsTF9XeEs0LWlkYVl6Qnh2UURkNElKNA?oc=5)
 
 `Tue, 06 Oct 2026 04:15:08 GMT`
@@ -850,93 +858,5 @@
 `Sun, 04 Oct 2026 14:30:10 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZDl6NjhFSTJKSHBpcHJMNWlDRGloT3E2SlgtUHRMWkRHWGxWSzZwVFNsVTFVRlRySE8tRHI0ZGpNSXM1UmhOQTRPNTJxcS1LSmFSYjI2QVo0Z3FaVDFzZm1pM1dZUWdxS1Q0X1lhbFdsRGdBSnNnVXVLYmh2aHYxOEMzbjRUY2dpZWc0emZIQWJUaDN4dDdETGI3UnFaLTgxYzJtVXdOUUpYZktOWnFLeW1QNkxlYzd0S1NPQW5UdHFINU9VVjNRMGRiZU93enBXNGc?oc=5" target="_blank">Budget 2027 : les parlementaires prêts à en découdre avec le gouvernement</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [VIDEO - Un budget avec des mesures « réversibles » : ça veut dire quoi ? - Les Echos](https://news.google.com/rss/articles/CBMixgFBVV95cUxOUXh3TF96OXpteFlueVdYUFo0NU9YREl5NHVtVFJDX3BKYkNvNUdXMU9vcV94cWpvSzVqTXNsYXhxeTE1a2plcDlqY0VYd3l0Q0FhS3I2N2JicUF1S2h5TmRQbXBhTF9vVFVEYTBRaXZIcWNhNlBQMC1lRjhzRlpkYVJvUFNILVpsbVVRYVdtNWYxTnJuaEh5dGlOeTFOZGNDTXkzSFVuU2ZCTHVWYTJuMHBXWDI3T05XNUxhcC1LdWlERWVmVXc?oc=5)
-
-`Fri, 02 Oct 2026 14:49:06 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxOUXh3TF96OXpteFlueVdYUFo0NU9YREl5NHVtVFJDX3BKYkNvNUdXMU9vcV94cWpvSzVqTXNsYXhxeTE1a2plcDlqY0VYd3l0Q0FhS3I2N2JicUF1S2h5TmRQbXBhTF9vVFVEYTBRaXZIcWNhNlBQMC1lRjhzRlpkYVJvUFNILVpsbVVRYVdtNWYxTnJuaEh5dGlOeTFOZGNDTXkzSFVuU2ZCTHVWYTJuMHBXWDI3T05XNUxhcC1LdWlERWVmVXc?oc=5" target="_blank">VIDEO - Un budget avec des mesures « réversibles » : ça veut dire quoi ?</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [« La France devient-elle le pays le plus dangereux de la zone euro ? » : l'inquiétude monte à Berlin et Bruxelles face à la dette française - Les Echos](https://news.google.com/rss/articles/CBMioAJBVV95cUxOT3JOSk50TmFtWEd6Y2RJcmZRajRhcjNxZzVNSzUzbFpCOFhDVVV4bXRWektrUXhheFJsZTQtWFl1T3labHk0ZUN6aWI4bENjb1hudEdLZFppYzhCWFJ6R1R3MlRnakgydmNOaV9MNXdFNm5FcDAwaV9sTWZtZGVtcW5taE5sUEFLRWx3aGVtTldrZmgxV2JYYVhuTEtoWDdRY1hzU1RESnQxVUpqNGFiblpDV3NYYk9BaWd2azI0ME1ZbWtockhWejlhMnFRcWEzbTFFVVZuaU81RXhkMFNIMXllc0ltd2lBU3Npem9RWV9KdGwtU1ZqWjdTMlVxTkJYVFlLeUYyaERwVkZ5bkVMeGdwSk1aem1NRmplbXFKUHU?oc=5)
-
-`Fri, 02 Oct 2026 13:53:20 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMioAJBVV95cUxOT3JOSk50TmFtWEd6Y2RJcmZRajRhcjNxZzVNSzUzbFpCOFhDVVV4bXRWektrUXhheFJsZTQtWFl1T3labHk0ZUN6aWI4bENjb1hudEdLZFppYzhCWFJ6R1R3MlRnakgydmNOaV9MNXdFNm5FcDAwaV9sTWZtZGVtcW5taE5sUEFLRWx3aGVtTldrZmgxV2JYYVhuTEtoWDdRY1hzU1RESnQxVUpqNGFiblpDV3NYYk9BaWd2azI0ME1ZbWtockhWejlhMnFRcWEzbTFFVVZuaU81RXhkMFNIMXllc0ltd2lBU3Npem9RWV9KdGwtU1ZqWjdTMlVxTkJYVFlLeUYyaERwVkZ5bkVMeGdwSk1aem1NRmplbXFKUHU?oc=5" target="_blank">« La France devient-elle le pays le plus dangereux de la zone euro ? » : l'inquiétude monte à Berlin et Bruxelles face à la dette française</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Impôts, retraites, immobilier, familles : les mesures du budget 2027 passées au crible - Les Echos](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbU51VDVHYVgwamlMQ2pZalVWMWhqWng3dTItWUtuMEpCR3A4ZV90cjNEZkZ2dS1vMTNwYmVzX2N2NGRpQXlHSUJyd2RoZDZWWVRIWnpjai1zOHhWSXUxbFBQNFFwSHBSa1ViY0VleDlfdjlLR1ZhakFlTGNfdTZaNk5rMFpDc2w1VllGdjZwMEU4b1F2VVc2U21GWWFVelVvYm9BOGNaWXJuZHM3QUdROWE3Mm5pbWxCZkw0ZE02VmpuZHZYUlZmNTZlZk5ZUnc3V0RMSzZVNmEwLWUydEh3?oc=5)
-
-`Fri, 02 Oct 2026 04:00:11 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbU51VDVHYVgwamlMQ2pZalVWMWhqWng3dTItWUtuMEpCR3A4ZV90cjNEZkZ2dS1vMTNwYmVzX2N2NGRpQXlHSUJyd2RoZDZWWVRIWnpjai1zOHhWSXUxbFBQNFFwSHBSa1ViY0VleDlfdjlLR1ZhakFlTGNfdTZaNk5rMFpDc2w1VllGdjZwMEU4b1F2VVc2U21GWWFVelVvYm9BOGNaWXJuZHM3QUdROWE3Mm5pbWxCZkw0ZE02VmpuZHZYUlZmNTZlZk5ZUnc3V0RMSzZVNmEwLWUydEh3?oc=5" target="_blank">Impôts, retraites, immobilier, familles : les mesures du budget 2027 passées au crible</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Les salariés aidants, un enjeu croissant pour les entreprises - Les Echos](https://news.google.com/rss/articles/CBMitgFBVV95cUxNLWM5XzlvNmdZNmhDX1dEV1VnZ1NVSEtvMHJBMmtUdHJIZDR1ZEV2MnYtUk5sUkRiMjJjNTRlRG10elZBdGJVN1dxMGtMNFZYcDQ0YjJFa1V5dDM0NDh4cmZGbVc3Nl9kd1Y4dllFOTZjUWNwcE5pSzQwcjhDS1BrZTFPcGdic081NThqSDhiVktEWW4zZHpHY2V3Qy1xYjVseGg1VUVPTUhDSDlZX2d2c001YjVLdw?oc=5)
-
-`Fri, 02 Oct 2026 10:29:55 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxNLWM5XzlvNmdZNmhDX1dEV1VnZ1NVSEtvMHJBMmtUdHJIZDR1ZEV2MnYtUk5sUkRiMjJjNTRlRG10elZBdGJVN1dxMGtMNFZYcDQ0YjJFa1V5dDM0NDh4cmZGbVc3Nl9kd1Y4dllFOTZjUWNwcE5pSzQwcjhDS1BrZTFPcGdic081NThqSDhiVktEWW4zZHpHY2V3Qy1xYjVseGg1VUVPTUhDSDlZX2d2c001YjVLdw?oc=5" target="_blank">Les salariés aidants, un enjeu croissant pour les entreprises</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Budget 2027 : stabilité pour l'Ecologie, bien loin des attentes après l'été caniculaire - Les Echos](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOQUVaYnJMb29FTXNhNU9CWE43Y19Ed2x2RGp1QWlQMXFTNVRKcFM5YnB0OEVBOWdzdGFSU2VFV0tFSkZQZWNmdDZwOVBVY1A1NWlnVDlkbjlCTHh4bEV1RUlyZEZzenNQUE9tellKeGIxallwYlBlT0ZtaGx6Mlh1bUlXZkRPNUNuT3M4RlhlblEwQ241WWd1RmZaOXZtZEhnTzFzMVZ1allmZzN4VUlzZkdSR2dyR1dPM3M2T2RGY1h0RV9qdzFmV0Ffd250U0xqLU1ycWhRZk5vTUtodEQyeQ?oc=5)
-
-`Thu, 01 Oct 2026 17:30:29 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi4AFBVV95cUxOQUVaYnJMb29FTXNhNU9CWE43Y19Ed2x2RGp1QWlQMXFTNVRKcFM5YnB0OEVBOWdzdGFSU2VFV0tFSkZQZWNmdDZwOVBVY1A1NWlnVDlkbjlCTHh4bEV1RUlyZEZzenNQUE9tellKeGIxallwYlBlT0ZtaGx6Mlh1bUlXZkRPNUNuT3M4RlhlblEwQ241WWd1RmZaOXZtZEhnTzFzMVZ1allmZzN4VUlzZkdSR2dyR1dPM3M2T2RGY1h0RV9qdzFmV0Ffd250U0xqLU1ycWhRZk5vTUtodEQyeQ?oc=5" target="_blank">Budget 2027 : stabilité pour l'Ecologie, bien loin des attentes après l'été caniculaire</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Budget 2027 : hausse du coût du travail et taxes sectorielles inattendues pour les entreprises - Les Echos](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOWDFZU2VKY3kxLVRxc0RqRzVXU19TLU5SNFpxbHlJa0pRaE5kMGtMMDVBeUlkLXYxV3VOUUh4Y2tpdUJjd21BT1pXYngxTTJubE80d0JfRHFwWGVXc2ZzUjUtRU9HaFhiSGdLZDhIandtQ2xpb214amRmcVViR2lTS293dGN2MFROVkNteGw1RGsxYTJzNUVheDlkRkhjU2FnX09XczNIWTJnWlRkR3hvRG9NRGRBNFNoOE92X3J2SXUxTWdnYjdJd2NrRWE1SWo1ZlhGR0JtNzFNVVFGNHlVTk0xRlhlLXA2aUpfcW1B?oc=5)
-
-`Thu, 01 Oct 2026 17:27:35 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi7gFBVV95cUxOWDFZU2VKY3kxLVRxc0RqRzVXU19TLU5SNFpxbHlJa0pRaE5kMGtMMDVBeUlkLXYxV3VOUUh4Y2tpdUJjd21BT1pXYngxTTJubE80d0JfRHFwWGVXc2ZzUjUtRU9HaFhiSGdLZDhIandtQ2xpb214amRmcVViR2lTS293dGN2MFROVkNteGw1RGsxYTJzNUVheDlkRkhjU2FnX09XczNIWTJnWlRkR3hvRG9NRGRBNFNoOE92X3J2SXUxTWdnYjdJd2NrRWE1SWo1ZlhGR0JtNzFNVVFGNHlVTk0xRlhlLXA2aUpfcW1B?oc=5" target="_blank">Budget 2027 : hausse du coût du travail et taxes sectorielles inattendues pour les entreprises</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [VIDEO - Les pistes de Lecornu pour faire voter un budget sans majorité - Les Echos](https://news.google.com/rss/articles/CBMizgFBVV95cUxNWFppRFd0cURhX3ZfU0ZRQmZodmdjLTk4U3BiWjAtQV9ScUNhTDV1ckxURmRaMmxrZGRfVXZDSWMzRDNJWGN3T3pNbTU5OE4zSFlrdHJWRlNBc0ZoY2UxODQ4d3p6MzVlVmdaVUFSRnFzSzRlNWs4MExKWENINGFTUi02UWJrdnhZWVhGRkZJYTdVYkUwVkFENk1lc29kRFRxcHRfZlNwUnpBNE1tdDZ1Q3RhMFdyazJBblo4WExJaS1FLTVTZTZjWUU5eE5iQQ?oc=5)
-
-`Thu, 01 Oct 2026 15:27:59 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMizgFBVV95cUxNWFppRFd0cURhX3ZfU0ZRQmZodmdjLTk4U3BiWjAtQV9ScUNhTDV1ckxURmRaMmxrZGRfVXZDSWMzRDNJWGN3T3pNbTU5OE4zSFlrdHJWRlNBc0ZoY2UxODQ4d3p6MzVlVmdaVUFSRnFzSzRlNWs4MExKWENINGFTUi02UWJrdnhZWVhGRkZJYTdVYkUwVkFENk1lc29kRFRxcHRfZlNwUnpBNE1tdDZ1Q3RhMFdyazJBblo4WExJaS1FLTVTZTZjWUU5eE5iQQ?oc=5" target="_blank">VIDEO - Les pistes de Lecornu pour faire voter un budget sans majorité</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [« La souveraineté de la France en dépend » : le gouvernement défend un budget 2027 de « redressement » sous la menace des marchés - Les Echos](https://news.google.com/rss/articles/CBMikgJBVV95cUxQaFhpOFprdkpCVUpnSzR3WkJuWi1wTFdvTUx4elp4M0xIV1VJeDRZeEJwZ09nUVJnSUNTakJsWTZlNmRXRkx1Zm05S2FqUThmNzRscjdsSFBrekk2emE1RjEwaDREWjNUOEdDcEdzUDlMcHBwb3I2NmpGTl9OTDl4RTFJS0hlRU03UjlSSVZiWGRLV1FBRkdPaWhSTWVlQm5KUDZ0Um9kbm9KdmtEZ055NDdvMkNQOW5udzJEeDlMSkJGMWh6MEp2SWZqbUE0MkdRYnFtbjNfMlZoUU1HRE1LUTVaY3dzVUJIQnpBcEhRZEY5aVJ4ZHlMQnFFSHJtVnJBYnppbjd3dHJhWVU5YmxxQTJ3?oc=5)
-
-`Thu, 01 Oct 2026 15:45:23 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMikgJBVV95cUxQaFhpOFprdkpCVUpnSzR3WkJuWi1wTFdvTUx4elp4M0xIV1VJeDRZeEJwZ09nUVJnSUNTakJsWTZlNmRXRkx1Zm05S2FqUThmNzRscjdsSFBrekk2emE1RjEwaDREWjNUOEdDcEdzUDlMcHBwb3I2NmpGTl9OTDl4RTFJS0hlRU03UjlSSVZiWGRLV1FBRkdPaWhSTWVlQm5KUDZ0Um9kbm9KdmtEZ055NDdvMkNQOW5udzJEeDlMSkJGMWh6MEp2SWZqbUE0MkdRYnFtbjNfMlZoUU1HRE1LUTVaY3dzVUJIQnpBcEhRZEY5aVJ4ZHlMQnFFSHJtVnJBYnppbjd3dHJhWVU5YmxxQTJ3?oc=5" target="_blank">« La souveraineté de la France en dépend » : le gouvernement défend un budget 2027 de « redressement » sous la menace des marchés</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Budget 2027 : une baisse en trompe-l'oeil des effectifs de l'Etat - Les Echos](https://news.google.com/rss/articles/CBMixAFBVV95cUxNbWExNXY2bXo1a0JnRkNLMzlmSTdSUUhMOXdmRXFhZC1tdHhvellZcXhCbzU5RzEwaUZTb013N3JtSFRSS1R1M2Qxb2VXOUNZbGhnb0NxSzZyZW42MUU2eXlDYm5lWWVHUkE3anpjeHVKemxfTVlOSFFiVVBtT3JqMmlUbm5DaHp1aUV6bHFQOUl0SXJhUDVrSFRNQ0ZIZlhhS0ZST0VKX0N4MEdaM2xXU1RENEJwVVIxeHozajN3eHp4WXRV?oc=5)
-
-`Thu, 01 Oct 2026 15:59:48 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMixAFBVV95cUxNbWExNXY2bXo1a0JnRkNLMzlmSTdSUUhMOXdmRXFhZC1tdHhvellZcXhCbzU5RzEwaUZTb013N3JtSFRSS1R1M2Qxb2VXOUNZbGhnb0NxSzZyZW42MUU2eXlDYm5lWWVHUkE3anpjeHVKemxfTVlOSFFiVVBtT3JqMmlUbm5DaHp1aUV6bHFQOUl0SXJhUDVrSFRNQ0ZIZlhhS0ZST0VKX0N4MEdaM2xXU1RENEJwVVIxeHozajN3eHp4WXRV?oc=5" target="_blank">Budget 2027 : une baisse en trompe-l'oeil des effectifs de l'Etat</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Budget 2027 : ces ministères mis à la diète pour payer la facture de la dette - Les Echos](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRDNRdTRwR3gwc09rRFRZRk1XVHQ3dmU5YmpwUzZmUzVBZXg1aG1TNVBUUUNXVk8xSzFCcGplSGtkT1JHR094MEVwbUU0d0VDM1FsYloyUXRDdVN1TkZvOVE3QXF5Rm9sUi1TcjRmenhDZGhDMlYyaWZSWXpfYWpZeHc4TDFhTEJUTm5hUmNLM29vQTRUaGtzRmxmcVJpb1U3MTlYVVBwUWZDSXZybDhweXlQcTBaV2x3dWllMjRWcEFuUUlzZ19IakxzYzhvSDRSNEljcmMzWQ?oc=5)
-
-`Thu, 01 Oct 2026 15:50:21 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRDNRdTRwR3gwc09rRFRZRk1XVHQ3dmU5YmpwUzZmUzVBZXg1aG1TNVBUUUNXVk8xSzFCcGplSGtkT1JHR094MEVwbUU0d0VDM1FsYloyUXRDdVN1TkZvOVE3QXF5Rm9sUi1TcjRmenhDZGhDMlYyaWZSWXpfYWpZeHc4TDFhTEJUTm5hUmNLM29vQTRUaGtzRmxmcVJpb1U3MTlYVVBwUWZDSXZybDhweXlQcTBaV2x3dWllMjRWcEFuUUlzZ19IakxzYzhvSDRSNEljcmMzWQ?oc=5" target="_blank">Budget 2027 : ces ministères mis à la diète pour payer la facture de la dette</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Économie | Page 247 - Les Echos](https://news.google.com/rss/articles/CBMiXEFVX3lxTFA4NnlqTXFJeUozS2NPanNrM0xoeFVLdVdCVEdoYlc4ZEhUTnRudzJMcWJia1N1Z1NYTGNvV3dmWHpOV2ZzXy1UazZPWlhaaE9JY3c2QVV6Y0o2aUQt?oc=5)
-
-`Thu, 01 Oct 2026 16:09:41 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiXEFVX3lxTFA4NnlqTXFJeUozS2NPanNrM0xoeFVLdVdCVEdoYlc4ZEhUTnRudzJMcWJia1N1Z1NYTGNvV3dmWHpOV2ZzXy1UazZPWlhaaE9JY3c2QVV6Y0o2aUQt?oc=5" target="_blank">Économie | Page 247</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
