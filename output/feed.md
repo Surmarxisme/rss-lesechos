@@ -1,7 +1,23 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Sun, 01 Nov 2026 15:52:59 +0000`
-> 107 articles (30 derniers jours)
+> Derniere mise a jour : `Mon, 02 Nov 2026 13:54:49 +0000`
+> 109 articles (30 derniers jours)
+
+---
+
+### [Semaine sociale à haut risque pour le gouvernement, coup de pouce significatif en vue sur le SMIC - Les Echos](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcFl2NDlPU25zc0VUOTZyUHdhUjFNRXBaU0lVSnllT2d3aXg5MkdBTWRwYlVuNW5tQzR3RHZZZ283a3BIZTFlQV90TXNaemRPQTFVb1FOSjMxay1XVHBvbTgwTEpRUldsNkd2MU9WUWlhaThSSU92ZEptR25Ua1dFejAxM2dQYW5Xd1lfYXQ0dlJreUcyS1M2Vm9LQlc3MnZhLS12dkt5bEZfQWlrVnBuX3RrODFheVF6MTdkR05kMWtxYURWUTdPN2FCTExBWE9qMFFhbFVVa1B2ZDFpNEE?oc=5)
+
+`Sun, 01 Nov 2026 16:37:51 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcFl2NDlPU25zc0VUOTZyUHdhUjFNRXBaU0lVSnllT2d3aXg5MkdBTWRwYlVuNW5tQzR3RHZZZ283a3BIZTFlQV90TXNaemRPQTFVb1FOSjMxay1XVHBvbTgwTEpRUldsNkd2MU9WUWlhaThSSU92ZEptR25Ua1dFejAxM2dQYW5Xd1lfYXQ0dlJreUcyS1M2Vm9LQlc3MnZhLS12dkt5bEZfQWlrVnBuX3RrODFheVF6MTdkR05kMWtxYURWUTdPN2FCTExBWE9qMFFhbFVVa1B2ZDFpNEE?oc=5" target="_blank">Semaine sociale à haut risque pour le gouvernement, coup de pouce significatif en vue sur le SMIC</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Quand le maire socialiste de Paris appelle le gouvernement à adopter le budget 2027 par ordonnances - Les Echos](https://news.google.com/rss/articles/CBMi9wFBVV95cUxPQWVDUEZrbzdFS1Z5Ml91aDFtSWpQU0ZMMnV3MmhibFBBSGFEMUFDUGV0Z1d1YWRVdjg5QnNLOGNnQUlhUDdUNXY3Y0p1by05MGdiUjR3TVRyQ09ySHBvdkNuNW9RT3FHSWF4Y2FFRWNacXVTaVhIWC1lQUZuN0RQY1NWa19QMGMtX3otY19DZmpqYXNwS1h6TmhueVp6Y3BxVzlzNVhKY3d1UDFRUlZXakdVQmY3NnZTdzJjZGJ6TWY2YU5OcHdCeVhkMVZmcmN6TnJJTzNOdlg2cHZIZHMxR1VBQnFsWHVhcVJ1VXdxQ3cxb2RXX3Rn?oc=5)
+
+`Sun, 01 Nov 2026 18:41:07 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi9wFBVV95cUxPQWVDUEZrbzdFS1Z5Ml91aDFtSWpQU0ZMMnV3MmhibFBBSGFEMUFDUGV0Z1d1YWRVdjg5QnNLOGNnQUlhUDdUNXY3Y0p1by05MGdiUjR3TVRyQ09ySHBvdkNuNW9RT3FHSWF4Y2FFRWNacXVTaVhIWC1lQUZuN0RQY1NWa19QMGMtX3otY19DZmpqYXNwS1h6TmhueVp6Y3BxVzlzNVhKY3d1UDFRUlZXakdVQmY3NnZTdzJjZGJ6TWY2YU5OcHdCeVhkMVZmcmN6TnJJTzNOdlg2cHZIZHMxR1VBQnFsWHVhcVJ1VXdxQ3cxb2RXX3Rn?oc=5" target="_blank">Quand le maire socialiste de Paris appelle le gouvernement à adopter le budget 2027 par ordonnances</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
