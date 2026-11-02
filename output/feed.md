@@ -1,7 +1,23 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Mon, 02 Nov 2026 13:54:49 +0000`
-> 109 articles (30 derniers jours)
+> Derniere mise a jour : `Mon, 02 Nov 2026 19:21:58 +0000`
+> 111 articles (30 derniers jours)
+
+---
+
+### [Les Français consomment de moins en moins de made in France - Les Echos](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcWZCUC1MSkE2NVpuWk5yeXBjd3ktekFUZFV3eVJWS0t1UTEzcjZiZy1XazJDNEVEbEJtcldNcE5rOWNGc19GdWxEb1VyTkMyTXdzSng1OTJRMGxmSkFGMDBoV1NHNThmS2dIeWZQV2x0SV9rUW1FSU1GZll0MjNGUnBITG9qazRhZ01uR1JYak56Mi1XaVV0dXE2dTJkOHItM0MyU1pjOWhSVjcxcTBxakJvdmtZbEZiMGl3?oc=5)
+
+`Mon, 02 Nov 2026 17:00:29 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcWZCUC1MSkE2NVpuWk5yeXBjd3ktekFUZFV3eVJWS0t1UTEzcjZiZy1XazJDNEVEbEJtcldNcE5rOWNGc19GdWxEb1VyTkMyTXdzSng1OTJRMGxmSkFGMDBoV1NHNThmS2dIeWZQV2x0SV9rUW1FSU1GZll0MjNGUnBITG9qazRhZ01uR1JYak56Mi1XaVV0dXE2dTJkOHItM0MyU1pjOWhSVjcxcTBxakJvdmtZbEZiMGl3?oc=5" target="_blank">Les Français consomment de moins en moins de made in France</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Les « docteurs juniors », ce pari du gouvernement pour lutter contre les déserts médicaux - Les Echos](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPeC1tdGJpQXpZU2xPWUttRXlMYWtGRjFQbXJLeXh6WnRraWNFNmhxbm9BOWo3ai1RZnpiY0o0cjJEemxNOERvZmpVcWRaRHhwaHl3RFhPWHhsMk1COVRKV2MxbzlnSXBUQjhfclpYZWFNbkFtU0RyUGNmZUk0LVlMS0Nya2xyZkh1UGZON0VJWU9lSWc0ejVpZUQ4SFdJc3RTdHI0TmxJQzMtYUNQdjNuQTRFSHdLNDFzS2FnVVBBaUYtODZCRE1GZmZEdXd6WWhkTlBsQk5B?oc=5)
+
+`Mon, 02 Nov 2026 15:52:23 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi1gFBVV95cUxPeC1tdGJpQXpZU2xPWUttRXlMYWtGRjFQbXJLeXh6WnRraWNFNmhxbm9BOWo3ai1RZnpiY0o0cjJEemxNOERvZmpVcWRaRHhwaHl3RFhPWHhsMk1COVRKV2MxbzlnSXBUQjhfclpYZWFNbkFtU0RyUGNmZUk0LVlMS0Nya2xyZkh1UGZON0VJWU9lSWc0ejVpZUQ4SFdJc3RTdHI0TmxJQzMtYUNQdjNuQTRFSHdLNDFzS2FnVVBBaUYtODZCRE1GZmZEdXd6WWhkTlBsQk5B?oc=5" target="_blank">Les « docteurs juniors », ce pari du gouvernement pour lutter contre les déserts médicaux</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
