@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Mon, 02 Nov 2026 23:43:22 +0000`
+> Derniere mise a jour : `Tue, 03 Nov 2026 13:03:09 +0000`
 > 111 articles (30 derniers jours)
+
+---
+
+### [Budget : la botte secrète qui permettrait au gouvernement d'ajuster sa copie - Les Echos](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPOXk3ZElDcFNDRzR2M3RvYnBiWHBSNFVnTTY4Vk5fVjRTcm5uT1dEM0VWS212aUY1SzBZNVh0TUFmZnV4TzU3bXpIX2VnU1NyM05aWlFwSTFqM014cS1TZGxWNHpoSGFJckFkZzIwemlvXzd4Q0NIN1hMVjlnNUhBZnJna2FVX1EyNmFyaHZ2Q0tVN3c4VzhEdE5DRWFCYlE2dTdienFaNjFUdm5RM2Z3NWdsSjNzUjhJalh5ZU0tS0syV3NXUDl2bnBwREwzcnpsUkdZNg?oc=5)
+
+`Tue, 03 Nov 2026 05:05:11 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi1AFBVV95cUxPOXk3ZElDcFNDRzR2M3RvYnBiWHBSNFVnTTY4Vk5fVjRTcm5uT1dEM0VWS212aUY1SzBZNVh0TUFmZnV4TzU3bXpIX2VnU1NyM05aWlFwSTFqM014cS1TZGxWNHpoSGFJckFkZzIwemlvXzd4Q0NIN1hMVjlnNUhBZnJna2FVX1EyNmFyaHZ2Q0tVN3c4VzhEdE5DRWFCYlE2dTdienFaNjFUdm5RM2Z3NWdsSjNzUjhJalh5ZU0tS0syV3NXUDl2bnBwREwzcnpsUkdZNg?oc=5" target="_blank">Budget : la botte secrète qui permettrait au gouvernement d'ajuster sa copie</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -874,14 +882,6 @@
 `Mon, 05 Oct 2026 05:00:08 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxQdXBpZG5zMlhDN2RtRGFNV0xyYmFJaXN0UXc4eGxuQ25laGRqY1lHWTZhUnhLcUdEUWlSS1R3dVFheVp5MGg0X21iVmZBeHpBNkVZa041MG1QZG5yOFJDYVZ3TWtNOVR3RDNFLTcyZG43N0xsRENwVnVtdnh1OW54TjA2YlJjQ0QwNG5NNXl2WDhxclpjVWswdHd2c1ZFNzhpVFBsX25hVXdxYUlfT1o3c0tibw?oc=5" target="_blank">La grande pauvreté s'installe dans le paysage français</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Budget 2027 : la mauvaise surprise qui attend les bénéficiaires de la prime d'activité - Les Echos](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUk9wRlM4OEx3SFhHa3JEb0ViNmlsY1Ffc0l3Smt6MDlzVFRzQkxpdHFTTWFHTF80TmFNQUFqX0dKQkRHa0lLQU9WZ0NnOEN1a0xDdjg2SjFGVUZPOTJWdUlLUGczWmJjNENkM25TNGd3elJIMjVTSV9uUk1yZjhsU1Q2RnFpV2U2TTNaNHBXbUoxQ01UTExVY3NnZzUwdW5yR3FFWWc0S2hJRGFQbm1yS2ZnQXBvc280VDBYSlhWSFEwZ0hBdURpYnZaUGJJZk1DUFdDVw?oc=5)
-
-`Sun, 04 Oct 2026 07:30:08 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUk9wRlM4OEx3SFhHa3JEb0ViNmlsY1Ffc0l3Smt6MDlzVFRzQkxpdHFTTWFHTF80TmFNQUFqX0dKQkRHa0lLQU9WZ0NnOEN1a0xDdjg2SjFGVUZPOTJWdUlLUGczWmJjNENkM25TNGd3elJIMjVTSV9uUk1yZjhsU1Q2RnFpV2U2TTNaNHBXbUoxQ01UTExVY3NnZzUwdW5yR3FFWWc0S2hJRGFQbm1yS2ZnQXBvc280VDBYSlhWSFEwZ0hBdURpYnZaUGJJZk1DUFdDVw?oc=5" target="_blank">Budget 2027 : la mauvaise surprise qui attend les bénéficiaires de la prime d'activité</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
