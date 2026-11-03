@@ -1,7 +1,31 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Tue, 03 Nov 2026 13:03:09 +0000`
-> 111 articles (30 derniers jours)
+> Derniere mise a jour : `Tue, 03 Nov 2026 16:55:44 +0000`
+> 113 articles (30 derniers jours)
+
+---
+
+### [« Le flot des défaillances va continuer à augmenter » : la grande inquiétude des patrons face à la panne de l'économie française - Les Echos](https://news.google.com/rss/articles/CBMijgJBVV95cUxOQ1BGXzBvM1pzLWRmeXFTWGh1Yktkdl9LcFlfVXNSTjVQeDdFTEU1ZlBRdDlQTDNYOEdRYnJxUEtYZDgzcVJGbjJxeE9oXzBvZzU3UzJlQ2NnRW9MVmNkTzF2a2tqc2lrSm9TNjBpd216WUtPYUwxaTRyZVNBcDBuVjUyemdRUlBTZ2ZBd0ZLVG9QMkY0Q0U5Wm9zNHk2N1R0NVA4ak10bWFIX1lQNzdVMUtwUWhTUkFrVWVtdTFEbWJ4WHRsSGRDQUlFZjVHTEU2Z3RfbmEzN1BrUnpxM3UtTUlYc0xwSWZKWkd4cUNnY0VtaUpTZmNhdzhVc3o1Y1BZRnZ1UVQtakZBNHh4YUE?oc=5)
+
+`Tue, 03 Nov 2026 14:42:28 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMijgJBVV95cUxOQ1BGXzBvM1pzLWRmeXFTWGh1Yktkdl9LcFlfVXNSTjVQeDdFTEU1ZlBRdDlQTDNYOEdRYnJxUEtYZDgzcVJGbjJxeE9oXzBvZzU3UzJlQ2NnRW9MVmNkTzF2a2tqc2lrSm9TNjBpd216WUtPYUwxaTRyZVNBcDBuVjUyemdRUlBTZ2ZBd0ZLVG9QMkY0Q0U5Wm9zNHk2N1R0NVA4ak10bWFIX1lQNzdVMUtwUWhTUkFrVWVtdTFEbWJ4WHRsSGRDQUlFZjVHTEU2Z3RfbmEzN1BrUnpxM3UtTUlYc0xwSWZKWkd4cUNnY0VtaUpTZmNhdzhVc3o1Y1BZRnZ1UVQtakZBNHh4YUE?oc=5" target="_blank">« Le flot des défaillances va continuer à augmenter » : la grande inquiétude des patrons face à la panne de l'économie française</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [« C'est un accord équilibré » : les biologistes médicaux et l'Assurance Maladie enterrent la hache de guerre - Les Echos](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPS3RMd3RKWDl2VldEN1N1Zl9pQjR1MkNVN0NNZW01U0pTVWk4dk1RVnppSU4wT1pZY2hVOExOakRhR2tSbk1xQVpTREs1clVYSnk2YmpnVHhLUzJ2MkEwRVNja1VaSkxWREdMMFNESWYtVUVVbUtrdUpnbnNjbkpsNlAxX1hxRjQyNFIzM1VfcjQ3d3lvUnViOTNqYVVSU2lRNkpvSXFwalJYOXFOZm1fYTlpQkNJa2xZMjNzOGEtZEdiRjVvd2NxUWczNm4xcDY1TUhwYWtPcGNESHdPamMwNDQ3TF91bjMzX0NR?oc=5)
+
+`Tue, 03 Nov 2026 16:31:47 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi6wFBVV95cUxPS3RMd3RKWDl2VldEN1N1Zl9pQjR1MkNVN0NNZW01U0pTVWk4dk1RVnppSU4wT1pZY2hVOExOakRhR2tSbk1xQVpTREs1clVYSnk2YmpnVHhLUzJ2MkEwRVNja1VaSkxWREdMMFNESWYtVUVVbUtrdUpnbnNjbkpsNlAxX1hxRjQyNFIzM1VfcjQ3d3lvUnViOTNqYVVSU2lRNkpvSXFwalJYOXFOZm1fYTlpQkNJa2xZMjNzOGEtZEdiRjVvd2NxUWczNm4xcDY1TUhwYWtPcGNESHdPamMwNDQ3TF91bjMzX0NR?oc=5" target="_blank">« C'est un accord équilibré » : les biologistes médicaux et l'Assurance Maladie enterrent la hache de guerre</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Les partenaires sociaux au chevet de l'emploi des jeunes - Les Echos](https://news.google.com/rss/articles/CBMirwFBVV95cUxOT2Z2a0pJY05FWnROZWoxbE4xYktRVGI2cHhqcGlaZG1nZUVxYWVDbzlyQUFaZGxjNF9JNzlfcXFxTmRValJpLVFuTU1IRnR3TDdvUjYxeC1nd3QwN2I3MEpjRjVIWHNzcVRZdWpNcEZpM0NzaWNyT2hVZUN1cjRESTRjM0JEMTdvZlg5MVBpQXE0QkZqT29VbTNnVEhpYzBqSGtBbUVpa3hNYUlQbUc4?oc=5)
+
+`Tue, 03 Nov 2026 16:07:28 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxOT2Z2a0pJY05FWnROZWoxbE4xYktRVGI2cHhqcGlaZG1nZUVxYWVDbzlyQUFaZGxjNF9JNzlfcXFxTmRValJpLVFuTU1IRnR3TDdvUjYxeC1nd3QwN2I3MEpjRjVIWHNzcVRZdWpNcEZpM0NzaWNyT2hVZUN1cjRESTRjM0JEMTdvZlg5MVBpQXE0QkZqT29VbTNnVEhpYzBqSGtBbUVpa3hNYUlQbUc4?oc=5" target="_blank">Les partenaires sociaux au chevet de l'emploi des jeunes</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -882,13 +906,5 @@
 `Mon, 05 Oct 2026 05:00:08 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxQdXBpZG5zMlhDN2RtRGFNV0xyYmFJaXN0UXc4eGxuQ25laGRqY1lHWTZhUnhLcUdEUWlSS1R3dVFheVp5MGg0X21iVmZBeHpBNkVZa041MG1QZG5yOFJDYVZ3TWtNOVR3RDNFLTcyZG43N0xsRENwVnVtdnh1OW54TjA2YlJjQ0QwNG5NNXl2WDhxclpjVWswdHd2c1ZFNzhpVFBsX25hVXdxYUlfT1o3c0tibw?oc=5" target="_blank">La grande pauvreté s'installe dans le paysage français</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Budget 2027 : les parlementaires prêts à en découdre avec le gouvernement - Les Echos](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZDl6NjhFSTJKSHBpcHJMNWlDRGloT3E2SlgtUHRMWkRHWGxWSzZwVFNsVTFVRlRySE8tRHI0ZGpNSXM1UmhOQTRPNTJxcS1LSmFSYjI2QVo0Z3FaVDFzZm1pM1dZUWdxS1Q0X1lhbFdsRGdBSnNnVXVLYmh2aHYxOEMzbjRUY2dpZWc0emZIQWJUaDN4dDdETGI3UnFaLTgxYzJtVXdOUUpYZktOWnFLeW1QNkxlYzd0S1NPQW5UdHFINU9VVjNRMGRiZU93enBXNGc?oc=5)
-
-`Sun, 04 Oct 2026 14:30:10 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZDl6NjhFSTJKSHBpcHJMNWlDRGloT3E2SlgtUHRMWkRHWGxWSzZwVFNsVTFVRlRySE8tRHI0ZGpNSXM1UmhOQTRPNTJxcS1LSmFSYjI2QVo0Z3FaVDFzZm1pM1dZUWdxS1Q0X1lhbFdsRGdBSnNnVXVLYmh2aHYxOEMzbjRUY2dpZWc0emZIQWJUaDN4dDdETGI3UnFaLTgxYzJtVXdOUUpYZktOWnFLeW1QNkxlYzd0S1NPQW5UdHFINU9VVjNRMGRiZU93enBXNGc?oc=5" target="_blank">Budget 2027 : les parlementaires prêts à en découdre avec le gouvernement</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
