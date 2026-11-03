@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Tue, 03 Nov 2026 16:55:44 +0000`
-> 113 articles (30 derniers jours)
+> Derniere mise a jour : `Tue, 03 Nov 2026 18:52:33 +0000`
+> 114 articles (30 derniers jours)
+
+---
+
+### [« Nous sommes la lanterne rouge de la zone euro » : pourquoi les marges des entreprises sont plus faibles en France qu'ailleurs - Les Echos](https://news.google.com/rss/articles/CBMijAJBVV95cUxOY1BsTUM4Y0k0XzVfNU5ZLWdkUG12SU1pOGdLTFM1b2lOZGN1SnY2SFphSVQ3Ry1IMzE5cC1lSy1WeXdvUlluaThFVllGanhHSU93cDNmX2FwX1pacjZKT21sdnZOZkQ5M1BCYm56TFA4cjZ4SGUtVmczaHQ5cmNwNGdFT3lPck9fcGd4WlBtTjVUaFBOeF9KVzdoZHBIX0hac3BzbjI0UjBSeDhsREVqTFZLVWxMVFBpSzBHSlFGRm9HYTRmbEx3dnhjWTN1b3lPdE9DaGY5SFFVaVo4aVNYNkdQeElLRGJFV1RjWG1ROXNZOVd3RmNzLUwwNmJuS09CcjNWNGU1RGRkUGlF?oc=5)
+
+`Tue, 03 Nov 2026 17:28:22 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMijAJBVV95cUxOY1BsTUM4Y0k0XzVfNU5ZLWdkUG12SU1pOGdLTFM1b2lOZGN1SnY2SFphSVQ3Ry1IMzE5cC1lSy1WeXdvUlluaThFVllGanhHSU93cDNmX2FwX1pacjZKT21sdnZOZkQ5M1BCYm56TFA4cjZ4SGUtVmczaHQ5cmNwNGdFT3lPck9fcGd4WlBtTjVUaFBOeF9KVzdoZHBIX0hac3BzbjI0UjBSeDhsREVqTFZLVWxMVFBpSzBHSlFGRm9HYTRmbEx3dnhjWTN1b3lPdE9DaGY5SFFVaVo4aVNYNkdQeElLRGJFV1RjWG1ROXNZOVd3RmNzLUwwNmJuS09CcjNWNGU1RGRkUGlF?oc=5" target="_blank">« Nous sommes la lanterne rouge de la zone euro » : pourquoi les marges des entreprises sont plus faibles en France qu'ailleurs</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
