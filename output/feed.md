@@ -1,7 +1,7 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Wed, 04 Nov 2026 19:09:17 +0000`
-> 117 articles (30 derniers jours)
+> Derniere mise a jour : `Wed, 04 Nov 2026 22:16:16 +0000`
+> 116 articles (30 derniers jours)
 
 ---
 
@@ -930,13 +930,5 @@
 `Tue, 06 Oct 2026 04:00:00 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi9gFBVV95cUxNWGhuRVpiOTNZNG5ScHd2ZjJ1V3UyZ2hBdkppeDZaaG1oUnIyMVlkdFQ1MG8zbk1mdy1neTlWOThwMDBOc2laaW9zVEtvQ2U0cFc5RHZLTFhlSzhjSFluUGJBN1VUWTViYlIyNC04amtrRHhGVzZlZlAzMGhpQmZqc0MwYUpKa1EySWF3Z0VheFpZRnUtS1VPdnZzdVNKdzRxZ3A1enhyM3F2ZW5PWXhaYkFjZ2QyRTR3YXJUYmVveHNpVGxWSmpDNFdHM3BIY25EQklWUEJvMkFzT0lkZG03NFgwSGxTVGFGdV8tYXl6RWZIQnRUZmc?oc=5" target="_blank">Budget 2027 : qui a raison entre Matignon et le Medef sur les hausses d'impôts visant les entreprises</a>&nbsp;&nbsp;<font color="#6f6f6f">lesechos.fr</font>
-
----
-
-### [Budget: un nouveau duo à la tête de la commission des Finances du Sénat - Les Echos](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdzdRcWhsX3RYTzQ0QTkxVFBBUnlRV3lDRkFwNnRTN3ZuM0pDeTNVRnJvNThBSjE3c3ZlMHN3bWRPX3M4cTN4eEVXelNtSHB5ajljeFc0OEhEU3BYWmtVblRkVFJQYngwcEMxRE5pUWIzSFhBNVQ0ZHE0UUhzVnRpTTFoOTVSd3VrZmxPZFgwZVpnVjdFcFZZaXhxWHBnV3hXTFZMdF9EUDRhWFREUjBYeDhqZW1OY25pLUpDSFNUZG55VFNQaFJqT2dMTjdnSVha?oc=5)
-
-`Mon, 05 Oct 2026 21:02:57 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdzdRcWhsX3RYTzQ0QTkxVFBBUnlRV3lDRkFwNnRTN3ZuM0pDeTNVRnJvNThBSjE3c3ZlMHN3bWRPX3M4cTN4eEVXelNtSHB5ajljeFc0OEhEU3BYWmtVblRkVFJQYngwcEMxRE5pUWIzSFhBNVQ0ZHE0UUhzVnRpTTFoOTVSd3VrZmxPZFgwZVpnVjdFcFZZaXhxWHBnV3hXTFZMdF9EUDRhWFREUjBYeDhqZW1OY25pLUpDSFNUZG55VFNQaFJqT2dMTjdnSVha?oc=5" target="_blank">Budget: un nouveau duo à la tête de la commission des Finances du Sénat</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
