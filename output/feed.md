@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Wed, 04 Nov 2026 16:58:32 +0000`
+> Derniere mise a jour : `Wed, 04 Nov 2026 19:09:17 +0000`
 > 117 articles (30 derniers jours)
+
+---
+
+### [Emploi des jeunes : patronat et syndicats veulent vraiment changer la donne - Les Echos](https://news.google.com/rss/articles/CBMixwFBVV95cUxQTGl4Si1lQ0pORVgyd2ZMRHNIckp3UkNRTDloQ3VPNUM3MmpOU2o2Nkd2MFl1SnJaUFdhUUMzYzdvOUhHd2JTbkFjQUI2MFc5b09ZbjNMT3kyOGJXeXVCdklQeEY3SWFtUXpxYlhzLVVnM3JxelJ1VDl4UUh0eTVFRGRwOW5RSXZrU2pYUXdUYjNiOFJkTVFBZW9jcEVlXzFBaGFVT21vQXFXeXFvYzdxWFBQcFItaVMyUTdXMEgwb3I3cEtfWHFn?oc=5)
+
+`Wed, 04 Nov 2026 16:58:05 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMixwFBVV95cUxQTGl4Si1lQ0pORVgyd2ZMRHNIckp3UkNRTDloQ3VPNUM3MmpOU2o2Nkd2MFl1SnJaUFdhUUMzYzdvOUhHd2JTbkFjQUI2MFc5b09ZbjNMT3kyOGJXeXVCdklQeEY3SWFtUXpxYlhzLVVnM3JxelJ1VDl4UUh0eTVFRGRwOW5RSXZrU2pYUXdUYjNiOFJkTVFBZW9jcEVlXzFBaGFVT21vQXFXeXFvYzdxWFBQcFItaVMyUTdXMEgwb3I3cEtfWHFn?oc=5" target="_blank">Emploi des jeunes : patronat et syndicats veulent vraiment changer la donne</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -930,13 +938,5 @@
 `Mon, 05 Oct 2026 21:02:57 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdzdRcWhsX3RYTzQ0QTkxVFBBUnlRV3lDRkFwNnRTN3ZuM0pDeTNVRnJvNThBSjE3c3ZlMHN3bWRPX3M4cTN4eEVXelNtSHB5ajljeFc0OEhEU3BYWmtVblRkVFJQYngwcEMxRE5pUWIzSFhBNVQ0ZHE0UUhzVnRpTTFoOTVSd3VrZmxPZFgwZVpnVjdFcFZZaXhxWHBnV3hXTFZMdF9EUDRhWFREUjBYeDhqZW1OY25pLUpDSFNUZG55VFNQaFJqT2dMTjdnSVha?oc=5" target="_blank">Budget: un nouveau duo à la tête de la commission des Finances du Sénat</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Niches fiscales : les cinq grands coups de rabot du gouvernement - Les Echos](https://news.google.com/rss/articles/CBMixgFBVV95cUxNRTdoU3h3bW5TQVQ5amxyS2g0OHRucHNHNHVDajF0Z01QcVY5dlNMV0VZVExudlh6WmlGQWt6dVd6cm1WZFZBa1l2RTkyeUR2RGVIcE9lMFIxalR1UFYtNkYyX285eTZVX3hWakl5Wk03YkhQTUlrcWFjMzA1V0E2Q2ZQa0tIOXhsQjBIcHVaV1E5OUtxT2VHalQ5SXotN2RIVmwtWDFJZEpKSDFNMnhMNWpYNDN0Q1VFanlVcGUwOXMtcHU1bXc?oc=5)
-
-`Mon, 05 Oct 2026 17:40:41 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxNRTdoU3h3bW5TQVQ5amxyS2g0OHRucHNHNHVDajF0Z01QcVY5dlNMV0VZVExudlh6WmlGQWt6dVd6cm1WZFZBa1l2RTkyeUR2RGVIcE9lMFIxalR1UFYtNkYyX285eTZVX3hWakl5Wk03YkhQTUlrcWFjMzA1V0E2Q2ZQa0tIOXhsQjBIcHVaV1E5OUtxT2VHalQ5SXotN2RIVmwtWDFJZEpKSDFNMnhMNWpYNDN0Q1VFanlVcGUwOXMtcHU1bXc?oc=5" target="_blank">Niches fiscales : les cinq grands coups de rabot du gouvernement</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
