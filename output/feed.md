@@ -1,7 +1,39 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Tue, 03 Nov 2026 22:07:29 +0000`
-> 114 articles (30 derniers jours)
+> Derniere mise a jour : `Wed, 04 Nov 2026 13:18:36 +0000`
+> 116 articles (30 derniers jours)
+
+---
+
+### [Emploi : pourquoi la France compte toujours autant de jeunes décrocheurs - Les Echos](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVkgyRDZreGdTeGhQek1iRmhyR1BYd25PeXUwc2oxTGxlQkw1OEVkeGlkY1RtMnJEX1hwMjdMbDR1MzQxZ1FBeHZvX25kNDZjUzlncEtyVUVycVZ3WHlsbHVjT0tKYVMycEFiUUlSSm9JOEdoY2M2R2dCY0xobC1XNmpWb2NTZlpmM2NWSEloNldVRnZPbHRCaW5EV3RueFdNMU11ZV9mZWxYZWkxLTJ5Wi16VlZ4d3RlTDVleVd5akNiYlU?oc=5)
+
+`Wed, 04 Nov 2026 05:40:08 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVkgyRDZreGdTeGhQek1iRmhyR1BYd25PeXUwc2oxTGxlQkw1OEVkeGlkY1RtMnJEX1hwMjdMbDR1MzQxZ1FBeHZvX25kNDZjUzlncEtyVUVycVZ3WHlsbHVjT0tKYVMycEFiUUlSSm9JOEdoY2M2R2dCY0xobC1XNmpWb2NTZlpmM2NWSEloNldVRnZPbHRCaW5EV3RueFdNMU11ZV9mZWxYZWkxLTJ5Wi16VlZ4d3RlTDVleVd5akNiYlU?oc=5" target="_blank">Emploi : pourquoi la France compte toujours autant de jeunes décrocheurs</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Fiscalité : les entreprises face à l'insidieuse remontée des impôts locaux - Les Echos](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPaHNYN2JsdnhSSDhsWl8zNWNuWEtjV3dEOVF1YlRVR3JtaUQ3WTVyZGVpN2xlNkNlNklzQ2JkQnRhdklRalh0UWtfVGtMSVZsVmFlV1BEX1l4ZXRrWDYxY1RzeVVSb0pvdWtmYk5vaHZHY2J6X3podG1ESS1vOGpscnhxbnNoelpUMDlCeFNhaGZIRk00a2N5QUlYVmEzeHF0UFBwZUNPaEhxODdia2JFZVJwTmt0N3Q0NVJQQ3BaaWxrVnBtRmtpTHhLekd5ZGYxS0E?oc=5)
+
+`Wed, 04 Nov 2026 05:10:09 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi0gFBVV95cUxPaHNYN2JsdnhSSDhsWl8zNWNuWEtjV3dEOVF1YlRVR3JtaUQ3WTVyZGVpN2xlNkNlNklzQ2JkQnRhdklRalh0UWtfVGtMSVZsVmFlV1BEX1l4ZXRrWDYxY1RzeVVSb0pvdWtmYk5vaHZHY2J6X3podG1ESS1vOGpscnhxbnNoelpUMDlCeFNhaGZIRk00a2N5QUlYVmEzeHF0UFBwZUNPaEhxODdia2JFZVJwTmt0N3Q0NVJQQ3BaaWxrVnBtRmtpTHhLekd5ZGYxS0E?oc=5" target="_blank">Fiscalité : les entreprises face à l'insidieuse remontée des impôts locaux</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [VTC, livraisons de repas, services à domicile… comment se dessine la très attendue loi sur les plateformes - Les Echos](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQRE5WZE44UDFtYmFmREJWVXBZZXZfMThRNFIxYUFSeXlPdlhDTVJMbkFJUFpsUzk3MDd4LXF2Mnp2NXlBLWs3UjhWVFpxTXFwbVp3MjJXMFFnOFU3NXYwTUdfb194eGZoV3lDZF9jb0JrNmxqazNva0hEMnlaNWxsdmJsWEZNSUZ6VkJTZ0xxaHFWRVJrekFiUlNVRER5OHF6akJhUFZWR3kzeUVFUDc1cFRINlJSblc2UnVZVHZYOTlfTEkzZ2xRQVZtTGJ4ekh4UzZuUXlvT0NBZ3pibE0zbnoyQkJZWlZXeHg2ZU9nYw?oc=5)
+
+`Wed, 04 Nov 2026 10:56:49 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi7wFBVV95cUxQRE5WZE44UDFtYmFmREJWVXBZZXZfMThRNFIxYUFSeXlPdlhDTVJMbkFJUFpsUzk3MDd4LXF2Mnp2NXlBLWs3UjhWVFpxTXFwbVp3MjJXMFFnOFU3NXYwTUdfb194eGZoV3lDZF9jb0JrNmxqazNva0hEMnlaNWxsdmJsWEZNSUZ6VkJTZ0xxaHFWRVJrekFiUlNVRER5OHF6akJhUFZWR3kzeUVFUDc1cFRINlJSblc2UnVZVHZYOTlfTEkzZ2xRQVZtTGJ4ekh4UzZuUXlvT0NBZ3pibE0zbnoyQkJZWlZXeHg2ZU9nYw?oc=5" target="_blank">VTC, livraisons de repas, services à domicile… comment se dessine la très attendue loi sur les plateformes</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [« Le noeud coulant de la dette se resserre » : le rapport au vitriol du Sénat sur le budget 2027 - Les Echos](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPQndxYkRNekwwckpYRV9mZ3F1UVppTDNZWWR5TDIxSkgybktQRmxWdVhDck0xYms2UXNQM292V2d4WHRxNFRSdV9HNUxpenRhNWpCVlRKeUZmSmhnMFZyQWV5N2tiNjlfTzg1ZXJaeHVsZ2drekZLVm9WejlIX2VzdUtiYVBIU1pETG0wb2Rqdi12SkI4TncxS1BsUXltVThxM1QzRkU3Y0VqRkpQQTVkN0JWZ2llazA2TllVVXJ6ajRwTjVsSzE4MEtza2FFRTN2c3pqVzhkeGJVMkNSYlQwRmtxUjJNMEtqYjc0?oc=5)
+
+`Wed, 04 Nov 2026 10:41:13 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi6wFBVV95cUxPQndxYkRNekwwckpYRV9mZ3F1UVppTDNZWWR5TDIxSkgybktQRmxWdVhDck0xYms2UXNQM292V2d4WHRxNFRSdV9HNUxpenRhNWpCVlRKeUZmSmhnMFZyQWV5N2tiNjlfTzg1ZXJaeHVsZ2drekZLVm9WejlIX2VzdUtiYVBIU1pETG0wb2Rqdi12SkI4TncxS1BsUXltVThxM1QzRkU3Y0VqRkpQQTVkN0JWZ2llazA2TllVVXJ6ajRwTjVsSzE4MEtza2FFRTN2c3pqVzhkeGJVMkNSYlQwRmtxUjJNMEtqYjc0?oc=5" target="_blank">« Le noeud coulant de la dette se resserre » : le rapport au vitriol du Sénat sur le budget 2027</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -898,21 +930,5 @@
 `Mon, 05 Oct 2026 17:40:41 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxNRTdoU3h3bW5TQVQ5amxyS2g0OHRucHNHNHVDajF0Z01QcVY5dlNMV0VZVExudlh6WmlGQWt6dVd6cm1WZFZBa1l2RTkyeUR2RGVIcE9lMFIxalR1UFYtNkYyX285eTZVX3hWakl5Wk03YkhQTUlrcWFjMzA1V0E2Q2ZQa0tIOXhsQjBIcHVaV1E5OUtxT2VHalQ5SXotN2RIVmwtWDFJZEpKSDFNMnhMNWpYNDN0Q1VFanlVcGUwOXMtcHU1bXc?oc=5" target="_blank">Niches fiscales : les cinq grands coups de rabot du gouvernement</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Epargne salariale et prévoyance sont les reflets des fractures du travail - Les Echos](https://news.google.com/rss/articles/CBMixwFBVV95cUxOUDR3elhPU1htRDBDSTU3OWxWdEpzcHJPX3RueTJaRmpTZkppOXFmcFk2Mi1VTVdZX05vTWVJSTZDS1FrS05ScnVFcm0wTklnV0w4ckgza21jNktPZ2x5M2xMNy1hWGViVDgzVi1wRk8wZTMtZHg4UEFyUjYtTEpGbFhzdVJVNlp4c3didVZuZ24xOUdYNzlhZV9fX2JCZ1Y1NWVMeTg5MUhlZDNJcmM1SmNEZ0U4X2xTdWNKakd6OWF1WmozVkZn?oc=5)
-
-`Mon, 05 Oct 2026 06:10:09 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMixwFBVV95cUxOUDR3elhPU1htRDBDSTU3OWxWdEpzcHJPX3RueTJaRmpTZkppOXFmcFk2Mi1VTVdZX05vTWVJSTZDS1FrS05ScnVFcm0wTklnV0w4ckgza21jNktPZ2x5M2xMNy1hWGViVDgzVi1wRk8wZTMtZHg4UEFyUjYtTEpGbFhzdVJVNlp4c3didVZuZ24xOUdYNzlhZV9fX2JCZ1Y1NWVMeTg5MUhlZDNJcmM1SmNEZ0U4X2xTdWNKakd6OWF1WmozVkZn?oc=5" target="_blank">Epargne salariale et prévoyance sont les reflets des fractures du travail</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [La grande pauvreté s'installe dans le paysage français - Les Echos](https://news.google.com/rss/articles/CBMiswFBVV95cUxQdXBpZG5zMlhDN2RtRGFNV0xyYmFJaXN0UXc4eGxuQ25laGRqY1lHWTZhUnhLcUdEUWlSS1R3dVFheVp5MGg0X21iVmZBeHpBNkVZa041MG1QZG5yOFJDYVZ3TWtNOVR3RDNFLTcyZG43N0xsRENwVnVtdnh1OW54TjA2YlJjQ0QwNG5NNXl2WDhxclpjVWswdHd2c1ZFNzhpVFBsX25hVXdxYUlfT1o3c0tibw?oc=5)
-
-`Mon, 05 Oct 2026 05:00:08 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxQdXBpZG5zMlhDN2RtRGFNV0xyYmFJaXN0UXc4eGxuQ25laGRqY1lHWTZhUnhLcUdEUWlSS1R3dVFheVp5MGg0X21iVmZBeHpBNkVZa041MG1QZG5yOFJDYVZ3TWtNOVR3RDNFLTcyZG43N0xsRENwVnVtdnh1OW54TjA2YlJjQ0QwNG5NNXl2WDhxclpjVWswdHd2c1ZFNzhpVFBsX25hVXdxYUlfT1o3c0tibw?oc=5" target="_blank">La grande pauvreté s'installe dans le paysage français</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
