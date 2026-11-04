@@ -1,7 +1,31 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Wed, 04 Nov 2026 13:18:36 +0000`
-> 116 articles (30 derniers jours)
+> Derniere mise a jour : `Wed, 04 Nov 2026 16:58:32 +0000`
+> 117 articles (30 derniers jours)
+
+---
+
+### [Budget 2027 : les sénateurs préconisent de geler les retraites supérieures à 1.500 euros - Les Echos](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeG8waVZ6anpQQTJjNjBBOXFidkFWbEtuaHRkblNMVVcxc09sX1lOdzF1M3ZmVkYwbGJiQXNvdUUyY1NaSXpsWmNzSE1kNVQ0dGl2bTM2LUsxTFhSN0d4VzlvU0VpTDA1Rk9EQ0RrMUVYTzhvbVBDZF9wYTBnVXdZTkdueHI2OTR0WElwYnRxdU5LZHdwWWlmS19NU1g5SlhWcmNObVMzYnFNd2R6eDIyRC1iTkt1bHNTZFA4ZW1iTFU2REp0TjcxNWZINlhJNjVYNGg5N3VTQQ?oc=5)
+
+`Wed, 04 Nov 2026 15:50:10 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeG8waVZ6anpQQTJjNjBBOXFidkFWbEtuaHRkblNMVVcxc09sX1lOdzF1M3ZmVkYwbGJiQXNvdUUyY1NaSXpsWmNzSE1kNVQ0dGl2bTM2LUsxTFhSN0d4VzlvU0VpTDA1Rk9EQ0RrMUVYTzhvbVBDZF9wYTBnVXdZTkdueHI2OTR0WElwYnRxdU5LZHdwWWlmS19NU1g5SlhWcmNObVMzYnFNd2R6eDIyRC1iTkt1bHNTZFA4ZW1iTFU2REp0TjcxNWZINlhJNjVYNGg5N3VTQQ?oc=5" target="_blank">Budget 2027 : les sénateurs préconisent de geler les retraites supérieures à 1.500 euros</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Budget : Bercy maintient son objectif de déficit pour 2026 malgré la panne de croissance et des dépenses imprévues - Les Echos](https://news.google.com/rss/articles/CBMiiAJBVV95cUxNMG1JX1FvLUJkZGJESnR2Ync3bjJXY0p5eExoZkVlVWd1Vm42UXFqdXFwUUZrRWV5VWhPRWhwYW5MVUFxMjJZQVczQkJTYWwtNXQ4S2hnOHRGdU5NLVE1YmF6bVlueTZaNlZPT3JYVE40RnRYUVdjTUdtT0dtYktYeXNOOWNfTGc3LVVzX0tqdFVHN3lvVUk5UlVfbzJmSW01UzNIX1QyTTNvUVR3NjFORnE1elFNZjZ3RUtOejNmcGZycS1ZYm5pamN4cWt3WG5zSmxpVEJUMFFFYzFzQlhmS0F5cDNvdjBCQ0V6am9hOGlFcUI3OU5UaXN2NDliTmhrNC1BZFdoMFQ?oc=5)
+
+`Wed, 04 Nov 2026 14:58:03 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiiAJBVV95cUxNMG1JX1FvLUJkZGJESnR2Ync3bjJXY0p5eExoZkVlVWd1Vm42UXFqdXFwUUZrRWV5VWhPRWhwYW5MVUFxMjJZQVczQkJTYWwtNXQ4S2hnOHRGdU5NLVE1YmF6bVlueTZaNlZPT3JYVE40RnRYUVdjTUdtT0dtYktYeXNOOWNfTGc3LVVzX0tqdFVHN3lvVUk5UlVfbzJmSW01UzNIX1QyTTNvUVR3NjFORnE1elFNZjZ3RUtOejNmcGZycS1ZYm5pamN4cWt3WG5zSmxpVEJUMFFFYzFzQlhmS0F5cDNvdjBCQ0V6am9hOGlFcUI3OU5UaXN2NDliTmhrNC1BZFdoMFQ?oc=5" target="_blank">Budget : Bercy maintient son objectif de déficit pour 2026 malgré la panne de croissance et des dépenses imprévues</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Pouvoir d'achat : un Français sur deux se sent en fragilité économique - Les Echos](https://news.google.com/rss/articles/CBMivwFBVV95cUxPenZxWERMQV83QlZfc0draE83U1NoYk9PZkFNNzM0bWNJVmVtMG9DamlQWWJiM3pTTFJhUTlpR0V5UF9VSFMzVGhlaHc0YTA3WXAzaUdPcDNwTUFEVC1CSzZyZk10aEJtb1RxTWd2Wk5IOXkzVmlNOGthTzlvcE95MDJDcll5LXdrWGhnRnQwM0swbVgzMDAzeFRJUUFaU2tIV2FsaGpXS3FBZDJzdm96ckliTkdlNWFzTlg3UGhNUQ?oc=5)
+
+`Wed, 04 Nov 2026 16:48:30 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxPenZxWERMQV83QlZfc0draE83U1NoYk9PZkFNNzM0bWNJVmVtMG9DamlQWWJiM3pTTFJhUTlpR0V5UF9VSFMzVGhlaHc0YTA3WXAzaUdPcDNwTUFEVC1CSzZyZk10aEJtb1RxTWd2Wk5IOXkzVmlNOGthTzlvcE95MDJDcll5LXdrWGhnRnQwM0swbVgzMDAzeFRJUUFaU2tIV2FsaGpXS3FBZDJzdm96ckliTkdlNWFzTlg3UGhNUQ?oc=5" target="_blank">Pouvoir d'achat : un Français sur deux se sent en fragilité économique</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -906,22 +930,6 @@
 `Mon, 05 Oct 2026 21:02:57 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdzdRcWhsX3RYTzQ0QTkxVFBBUnlRV3lDRkFwNnRTN3ZuM0pDeTNVRnJvNThBSjE3c3ZlMHN3bWRPX3M4cTN4eEVXelNtSHB5ajljeFc0OEhEU3BYWmtVblRkVFJQYngwcEMxRE5pUWIzSFhBNVQ0ZHE0UUhzVnRpTTFoOTVSd3VrZmxPZFgwZVpnVjdFcFZZaXhxWHBnV3hXTFZMdF9EUDRhWFREUjBYeDhqZW1OY25pLUpDSFNUZG55VFNQaFJqT2dMTjdnSVha?oc=5" target="_blank">Budget: un nouveau duo à la tête de la commission des Finances du Sénat</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Assurance-chômage : vers un bras de fer sur la ponction de l'Etat sur l'Unédic - Les Echos](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdlh5V01EVmFmOXN1RmVwb3dmb2YyLVZTLVZPRlZ2TmdmVWtTcGxaXzhnYVVtVmUxdHNOZ3BwSkU3T2FmcmlGVXZVNk5QdTVvMGxra1pHcnozLXRWcUpoOFZMNEFORkwydFVuVko1bF9KdnRuNEIya2YwT1RQSkdCTXdsR1ZQLVF5VVBPYjYzVHc1UUhFSFA1S3Fxejdoa2k1SU1zSkZ0SUZScVlqem56QmhWQmthRUpuMUI5V0lYakI2NDM0WENCSg?oc=5)
-
-`Mon, 05 Oct 2026 15:49:01 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdlh5V01EVmFmOXN1RmVwb3dmb2YyLVZTLVZPRlZ2TmdmVWtTcGxaXzhnYVVtVmUxdHNOZ3BwSkU3T2FmcmlGVXZVNk5QdTVvMGxra1pHcnozLXRWcUpoOFZMNEFORkwydFVuVko1bF9KdnRuNEIya2YwT1RQSkdCTXdsR1ZQLVF5VVBPYjYzVHc1UUhFSFA1S3Fxejdoa2k1SU1zSkZ0SUZScVlqem56QmhWQmthRUpuMUI5V0lYakI2NDM0WENCSg?oc=5" target="_blank">Assurance-chômage : vers un bras de fer sur la ponction de l'Etat sur l'Unédic</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Impôts : le palmarès des niches fiscales les plus coûteuses - Les Echos](https://news.google.com/rss/articles/CBMivwFBVV95cUxOY1laNzNWUDNrUGF2NGp3R0VPWDZNVVp5MXFTT3A0UVZfenA0TUZVclMyTXlCWG0wTkJNNEFpSldUeldkcGZGaU1lWEVfQUVsRFlXdzZsc2tVNXo4LXFzVzlRUVdtTDBHT2lfWXJPbTlmajA2SjZFVlJpUjctRkdTRGg3VDRRV3U0R19BS3NhQnNhc05ZUjIyUDJqeXlqeWJqelhSVkFhcjlmcHYxNFlRcUVMQklNcWZvc09iTmNsdw?oc=5)
-
-`Mon, 05 Oct 2026 15:52:31 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxOY1laNzNWUDNrUGF2NGp3R0VPWDZNVVp5MXFTT3A0UVZfenA0TUZVclMyTXlCWG0wTkJNNEFpSldUeldkcGZGaU1lWEVfQUVsRFlXdzZsc2tVNXo4LXFzVzlRUVdtTDBHT2lfWXJPbTlmajA2SjZFVlJpUjctRkdTRGg3VDRRV3U0R19BS3NhQnNhc05ZUjIyUDJqeXlqeWJqelhSVkFhcjlmcHYxNFlRcUVMQklNcWZvc09iTmNsdw?oc=5" target="_blank">Impôts : le palmarès des niches fiscales les plus coûteuses</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
