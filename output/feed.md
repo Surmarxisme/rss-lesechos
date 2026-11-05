@@ -1,7 +1,23 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Thu, 05 Nov 2026 17:14:46 +0000`
-> 119 articles (30 derniers jours)
+> Derniere mise a jour : `Thu, 05 Nov 2026 19:16:23 +0000`
+> 121 articles (30 derniers jours)
+
+---
+
+### [Pouvoir d'achat : sous pression de la rue, Lecornu convoque une conférence sociale - Les Echos](https://news.google.com/rss/articles/CBMizgFBVV95cUxOeV9yaW04OFQwdUNOaFZ5enJXQmRubk5IMDY0NDl4bXpISFdiaTZIalZ5dXljWkgwR2M2eW9SMWJPc1psWFpQbExHM2ZtdnZNWEVRZW8wODg5Yl9pZmZYRF9LMDEzWjk5VDdHQnl1WWJMOGtqUmFvNlVCWWlfVFQ1SmhseldpRWRadzRJYUlyODFMNnV2SkZsbUdvMm44QlBZVWRpNGZEQ25DU054R09zSlJJV2JZb1p2OHUtZHFYdnZXM2FOQlRUYkJmQnZDdw?oc=5)
+
+`Thu, 05 Nov 2026 17:58:54 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMizgFBVV95cUxOeV9yaW04OFQwdUNOaFZ5enJXQmRubk5IMDY0NDl4bXpISFdiaTZIalZ5dXljWkgwR2M2eW9SMWJPc1psWFpQbExHM2ZtdnZNWEVRZW8wODg5Yl9pZmZYRF9LMDEzWjk5VDdHQnl1WWJMOGtqUmFvNlVCWWlfVFQ1SmhseldpRWRadzRJYUlyODFMNnV2SkZsbUdvMm44QlBZVWRpNGZEQ25DU054R09zSlJJV2JZb1p2OHUtZHFYdnZXM2FOQlRUYkJmQnZDdw?oc=5" target="_blank">Pouvoir d'achat : sous pression de la rue, Lecornu convoque une conférence sociale</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Âge, niveau de vie, type de crédit… quel est le profil des ménages endettés en France ? - Les Echos](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSjdNUUs3d0I5aU93bkxTZEM1OXlPVm1MYkdsMlRXRzR4YnVVZkVBdHprYmVOMlJMUVZEdjBiTEdPRlFaS09COFI1SFBpdFRMdXA4OUZCbXBZTXVQZzBJeUdYRlctNHA2QXlINUJ6RGE1c1RITkFETVhoSUtTSks4cFpnc2VEeklFekhBSEVwZk9hSGs5QXBuSnpIdFpCS2hlNV9oYy1vOTRxWjJvb0t6NWo1XzdPZGNIMnNjcVM2eHl6OWg3ejlZS09IVW96dnJmYThF?oc=5)
+
+`Thu, 05 Nov 2026 17:46:01 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSjdNUUs3d0I5aU93bkxTZEM1OXlPVm1MYkdsMlRXRzR4YnVVZkVBdHprYmVOMlJMUVZEdjBiTEdPRlFaS09COFI1SFBpdFRMdXA4OUZCbXBZTXVQZzBJeUdYRlctNHA2QXlINUJ6RGE1c1RITkFETVhoSUtTSks4cFpnc2VEeklFekhBSEVwZk9hSGs5QXBuSnpIdFpCS2hlNV9oYy1vOTRxWjJvb0t6NWo1XzdPZGNIMnNjcVM2eHl6OWg3ejlZS09IVW96dnJmYThF?oc=5" target="_blank">Âge, niveau de vie, type de crédit… quel est le profil des ménages endettés en France ?</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
