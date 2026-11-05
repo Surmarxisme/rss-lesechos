@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Thu, 05 Nov 2026 13:31:58 +0000`
-> 118 articles (30 derniers jours)
+> Derniere mise a jour : `Thu, 05 Nov 2026 17:14:46 +0000`
+> 119 articles (30 derniers jours)
+
+---
+
+### [Les violences conjugales sont reparties à la hausse l'an dernier - Les Echos](https://news.google.com/rss/articles/CBMiugFBVV95cUxNcnAtRFVHbzZ1UjNtWkM5bnFzdDlpQS1CcHhLcHprd2ROZGdWU195MW84RGc1b2FvMTlGUkgweWg3cW9WeFU4R3htd2oxVzZ4WmhscWN2c3pfR01LYkc3RmxGX1hmMmRlT3ZSTmtyYnBRQlBSRE0ydC1ueHRfNnBodGcyajVRY29MX0RrcUM5aW5XZkFmeDhjanVRcTQwYzdXb0l4VzY1RFBkZUFlbkViZHFzR0l4Z2piNnc?oc=5)
+
+`Thu, 05 Nov 2026 13:33:36 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxNcnAtRFVHbzZ1UjNtWkM5bnFzdDlpQS1CcHhLcHprd2ROZGdWU195MW84RGc1b2FvMTlGUkgweWg3cW9WeFU4R3htd2oxVzZ4WmhscWN2c3pfR01LYkc3RmxGX1hmMmRlT3ZSTmtyYnBRQlBSRE0ydC1ueHRfNnBodGcyajVRY29MX0RrcUM5aW5XZkFmeDhjanVRcTQwYzdXb0l4VzY1RFBkZUFlbkViZHFzR0l4Z2piNnc?oc=5" target="_blank">Les violences conjugales sont reparties à la hausse l'an dernier</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
