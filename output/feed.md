@@ -1,6 +1,6 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Fri, 06 Nov 2026 18:42:53 +0000`
+> Derniere mise a jour : `Fri, 06 Nov 2026 21:50:40 +0000`
 > 116 articles (30 derniers jours)
 
 ---
