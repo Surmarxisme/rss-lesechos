@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Fri, 06 Nov 2026 16:39:59 +0000`
-> 117 articles (30 derniers jours)
+> Derniere mise a jour : `Fri, 06 Nov 2026 18:42:53 +0000`
+> 116 articles (30 derniers jours)
+
+---
+
+### [SMIC, coût du travail… le patronat et le gouvernement en plein bras de fer avant la conférence sociale - Les Echos](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOdzRsQjRsR0RCM3FXS3Y0MnVyR3BQUGpxdU1BMlhUbXdmXzhNMlRBaHl3MkdwaVk4QUpZYzdfbW9kbmtIYVZxSVBjWFVRVVM3WTk2MjQwdE5PMHl4ajZad05hT2lpeGdxMENJa3p0WVc0Z2F5cXVyZVQ5SEpsSGR1RkZvSTV2R3FSd3QtaXVacG5uREU3Sll6QW5VTC1GbmVOeGRlRksxSzAwZGhaZmU1UEtFRUxZUm1QdVBHQlJBTTR6cE53Q2NkT0RSWFVYVThnelAxZUdoWEZOdDBDWHMzbnN1YjVuWWs?oc=5)
+
+`Fri, 06 Nov 2026 16:49:10 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi5wFBVV95cUxOdzRsQjRsR0RCM3FXS3Y0MnVyR3BQUGpxdU1BMlhUbXdmXzhNMlRBaHl3MkdwaVk4QUpZYzdfbW9kbmtIYVZxSVBjWFVRVVM3WTk2MjQwdE5PMHl4ajZad05hT2lpeGdxMENJa3p0WVc0Z2F5cXVyZVQ5SEpsSGR1RkZvSTV2R3FSd3QtaXVacG5uREU3Sll6QW5VTC1GbmVOeGRlRksxSzAwZGhaZmU1UEtFRUxZUm1QdVBHQlJBTTR6cE53Q2NkT0RSWFVYVThnelAxZUdoWEZOdDBDWHMzbnN1YjVuWWs?oc=5" target="_blank">SMIC, coût du travail… le patronat et le gouvernement en plein bras de fer avant la conférence sociale</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -922,21 +930,5 @@
 `Thu, 08 Oct 2026 09:00:09 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxOenl3N0l2bGNfemZrUFo5UWI2OGF1WFFkRXdsVU85bmFna3AyMGZBUmMxcU9oWlkzTlY0S2V2YlhUQ2tSbWhsX1Nkd0dvME9JY05PYzRIVGNZNXFhdERBWTJudHVLV2ZaMzYzSFNwNDA5WkpNdDBVWnkyQ2QxU19ielNGbjd0UUE2TGVRandYZkhmaXV1d0NBZFBXTEkxbjJEdlR0ZHdDbHdSVFBxZkd4ejR5NlJaOXJGd19hUDlR?oc=5" target="_blank">Comment a évolué le budget de l'Ecologie sous l'ère Macron</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Agirc-Arrco : la revalorisation des retraites complémentaires ne pourra pas excéder 1,9 % - Les Echos](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNOEk5VDNDUk8xNVpNNTNaMUxaZG82MnNFWlBuN213alZ3Rmg1ZXlFWUtKQkVpV1lISE1sdVM4cU12cGU2RndpWG1JblU3RXMwTXp2RlRGaldRTjNkYTU4ZnFTTDBoZ2JlandPM09fajJLcG9hNGtnWGxxd1BVc3JHUlBYaEhIT21MNnpFV18yRVFuT1l4VkhMUE9YTVVvRWRFNEVTUFB1WHRHVHdZNXItMU5vQTRSMVV4SzEtcHVrNTRYajd3VXFoY3RPczdpZVFGdC1PVjhn?oc=5)
-
-`Wed, 07 Oct 2026 17:01:08 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi1gFBVV95cUxNOEk5VDNDUk8xNVpNNTNaMUxaZG82MnNFWlBuN213alZ3Rmg1ZXlFWUtKQkVpV1lISE1sdVM4cU12cGU2RndpWG1JblU3RXMwTXp2RlRGaldRTjNkYTU4ZnFTTDBoZ2JlandPM09fajJLcG9hNGtnWGxxd1BVc3JHUlBYaEhIT21MNnpFV18yRVFuT1l4VkhMUE9YTVVvRWRFNEVTUFB1WHRHVHdZNXItMU5vQTRSMVV4SzEtcHVrNTRYajd3VXFoY3RPczdpZVFGdC1PVjhn?oc=5" target="_blank">Agirc-Arrco : la revalorisation des retraites complémentaires ne pourra pas excéder 1,9 %</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [La France puise dans ses stocks stratégiques de diesel pour faire baisser les prix - Les Echos](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNc2duTjBOMWlCc0szVlM4NEktbDVGM1lDZURscFF5ZGl0SWt5c1pwcTBMOGpYaFYtTzZwLXQwSnBtdm9yeGlZR0dwZVp2OTBQSzdZVjF2VW84SVhGUzNlc0NYWTM5di1POUF0aTA4SWMxVEc3XzlIaHd5ZHRGdHRMckdkQTNrR2hKVzdweHduQ1pXWVFCQUlWSkpNVThNbFFuNXRLbm5xZDZ2QndyNmxMM1hXaHl3YXZlbEw5OTVuNy1ObFpYM3hHR2Q5bk5HdTgtQ1B6Z1BPQVRkUQ?oc=5)
-
-`Wed, 07 Oct 2026 17:45:51 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi2gFBVV95cUxNc2duTjBOMWlCc0szVlM4NEktbDVGM1lDZURscFF5ZGl0SWt5c1pwcTBMOGpYaFYtTzZwLXQwSnBtdm9yeGlZR0dwZVp2OTBQSzdZVjF2VW84SVhGUzNlc0NYWTM5di1POUF0aTA4SWMxVEc3XzlIaHd5ZHRGdHRMckdkQTNrR2hKVzdweHduQ1pXWVFCQUlWSkpNVThNbFFuNXRLbm5xZDZ2QndyNmxMM1hXaHl3YXZlbEw5OTVuNy1ObFpYM3hHR2Q5bk5HdTgtQ1B6Z1BPQVRkUQ?oc=5" target="_blank">La France puise dans ses stocks stratégiques de diesel pour faire baisser les prix</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
