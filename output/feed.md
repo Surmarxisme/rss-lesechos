@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Thu, 05 Nov 2026 22:25:38 +0000`
-> 121 articles (30 derniers jours)
+> Derniere mise a jour : `Fri, 06 Nov 2026 13:17:15 +0000`
+> 120 articles (30 derniers jours)
+
+---
+
+### [SMIC : Jean-Pierre Farandou veut « franchir la barre » des 1.500 euros net, le patronat en embuscade à Matignon - Les Echos](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPVHBoc0F4QWhZZW1abDZHRHVtdXBkWi1rZEd3dmdoXzZoLWtvRkdiNWhoc3NEZDJ6d0hiMTFjX2tYRnhDamRmN2hjX3JGMmVuemUzQUpLMGE2ZVVKa0drZlBSdVJ4TFdnYWFSWFFyNGFnQ2xMaFhLMmttZVpqV2tQWkttcGo0Z0l1OVljX3owLVNjS0hQanRJTE5RYzUwYWUyUWRhQUlSQzB4NEpQV0FrdXN5VXBndlRpZU5IVVUzSXZUaC1tMmNxZGRuWVdyaVVOY2dkSzRuNTZRSktBcGc?oc=5)
+
+`Fri, 06 Nov 2026 08:20:47 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi3gFBVV95cUxPVHBoc0F4QWhZZW1abDZHRHVtdXBkWi1rZEd3dmdoXzZoLWtvRkdiNWhoc3NEZDJ6d0hiMTFjX2tYRnhDamRmN2hjX3JGMmVuemUzQUpLMGE2ZVVKa0drZlBSdVJ4TFdnYWFSWFFyNGFnQ2xMaFhLMmttZVpqV2tQWkttcGo0Z0l1OVljX3owLVNjS0hQanRJTE5RYzUwYWUyUWRhQUlSQzB4NEpQV0FrdXN5VXBndlRpZU5IVVUzSXZUaC1tMmNxZGRuWVdyaVVOY2dkSzRuNTZRSktBcGc?oc=5" target="_blank">SMIC : Jean-Pierre Farandou veut « franchir la barre » des 1.500 euros net, le patronat en embuscade à Matignon</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -954,21 +962,5 @@
 `Wed, 07 Oct 2026 14:19:22 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi-gFBVV95cUxQR0NXdVY0TVlsekpyMDZaUWNaNmhBc0VCd2RTOW5Fd0dsV3dBZnROY1I2UTREQmhaM0dDaWFIYnY2c3R4UVZ6N2VxLVluUkZnVzNTUlZsUEhsZVh2YzhUOTBxT2UtLUVTbm5JUThoekxOTFdPUFphWHROV0ZUS1VtUVh3QjZ5SkFJQzB0YWh0US1IVXEwakF2Wm0xLXhuWmVQcGhTamp6aGl6OV9kcmdNaFZBQnFVbmYzT1dVOEVidmJNLU1ZTXVleVFlSzN3bDczT2dqSzJjdjhybnpNWTFEZFZTV1lRMkEtbjF5N3RBaFIzM1lMdm9hcjBn?oc=5" target="_blank">« On ajoute de la taxe à la taxe » : l'industrie de la santé de nouveau ponctionnée pour redresser la Sécurité sociale</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Blocus des lycées : l'utilisation des grenades assourdissantes suspendue, annonces attendues de Sébastien Lecornu - Les Echos](https://news.google.com/rss/articles/CBMi9wFBVV95cUxON2taM2R4ZHRnUnhaV05lYVE4QjJaWlcyd19XZXpuanNNeUdaYm9LcUJFdXBYMEhtVGlBVFY0aXYwLXRyZDdLMW1acFg5X3ZkZU90LU5VdmUtem9USHhQaTVGZWtSc1ZpNGdqZ1JvS2FycWNTVWdEb2JDcWNacXFDQlZ4cVVvRXg5NURTSTlhZEctZlU5OVVUSHN5UDBzVy1mdVc0dW85akc5VjBqZkNKZWIwZ1NIOGV1Snl1RnA0ZndEa29kOWJvMzNES1NuLUp5clJKTkQxaG9XVnNXS1FNOHVrWVR6YjJ4VzV2bGQyTmJTTVNDeUNn?oc=5)
-
-`Wed, 07 Oct 2026 08:19:28 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi9wFBVV95cUxON2taM2R4ZHRnUnhaV05lYVE4QjJaWlcyd19XZXpuanNNeUdaYm9LcUJFdXBYMEhtVGlBVFY0aXYwLXRyZDdLMW1acFg5X3ZkZU90LU5VdmUtem9USHhQaTVGZWtSc1ZpNGdqZ1JvS2FycWNTVWdEb2JDcWNacXFDQlZ4cVVvRXg5NURTSTlhZEctZlU5OVVUSHN5UDBzVy1mdVc0dW85akc5VjBqZkNKZWIwZ1NIOGV1Snl1RnA0ZndEa29kOWJvMzNES1NuLUp5clJKTkQxaG9XVnNXS1FNOHVrWVR6YjJ4VzV2bGQyTmJTTVNDeUNn?oc=5" target="_blank">Blocus des lycées : l'utilisation des grenades assourdissantes suspendue, annonces attendues de Sébastien Lecornu</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [En France, une transition écologique jugée bien planifiée mais non financée - Les Echos](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOeE1nVlBZa1dYMzl3S21BOVFyRHJpVldsVVNLc29VS0JoUG12TVl3TTljRGFxLUx0WFZFNi1CQTUydnJjcy1xcUpmZGNrT0FuWlAzbWNGLXRvSDQ2bmRpcFBKZWhHbWpYSWhNa25zYTdzNmdMWEFuNDR1WVpuVmZMSG5ERVY0UGVRTU5nWG9wcVc1LWN2dThfZ1JKZUxwWlNOWk5kVi1VR1ltTkRhRFNPbzJCTWhDS3VfTjNyWFBmdFAxQ0RXMjJlOVcyYkpVclBKQ2VENW1R?oc=5)
-
-`Wed, 07 Oct 2026 11:40:57 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi1gFBVV95cUxOeE1nVlBZa1dYMzl3S21BOVFyRHJpVldsVVNLc29VS0JoUG12TVl3TTljRGFxLUx0WFZFNi1CQTUydnJjcy1xcUpmZGNrT0FuWlAzbWNGLXRvSDQ2bmRpcFBKZWhHbWpYSWhNa25zYTdzNmdMWEFuNDR1WVpuVmZMSG5ERVY0UGVRTU5nWG9wcVc1LWN2dThfZ1JKZUxwWlNOWk5kVi1VR1ltTkRhRFNPbzJCTWhDS3VfTjNyWFBmdFAxQ0RXMjJlOVcyYkpVclBKQ2VENW1R?oc=5" target="_blank">En France, une transition écologique jugée bien planifiée mais non financée</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
