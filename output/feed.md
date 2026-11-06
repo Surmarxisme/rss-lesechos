@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Fri, 06 Nov 2026 13:17:15 +0000`
-> 120 articles (30 derniers jours)
+> Derniere mise a jour : `Fri, 06 Nov 2026 16:39:59 +0000`
+> 117 articles (30 derniers jours)
+
+---
+
+### [La baisse du pouvoir d'achat des salariés du privé s'accélère - Les Echos](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNN3NneHZUSmVvMWVDZHd0M2U3dXN0Rl9lR0NRc2VXWUs2cTRQRTNRdjVNTVplanZPLVNaY2U0dEpqbjdiVUxRVEhlTEdXRk1BWFdMSS0yLTJVYWFDYlVVQUdJc3pvMHVFMUJfak5kQ3Vteng1WWZFWjhsdmtNMUtNdVJHX2taVlZVZ1hCd0paTTY4MmdqTENnZGFGOHBNSzdxbHRWS05CLUE1bDRxdVFVYWxDV0J5VTZhTmpJ?oc=5)
+
+`Fri, 06 Nov 2026 15:02:34 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxNN3NneHZUSmVvMWVDZHd0M2U3dXN0Rl9lR0NRc2VXWUs2cTRQRTNRdjVNTVplanZPLVNaY2U0dEpqbjdiVUxRVEhlTEdXRk1BWFdMSS0yLTJVYWFDYlVVQUdJc3pvMHVFMUJfak5kQ3Vteng1WWZFWjhsdmtNMUtNdVJHX2taVlZVZ1hCd0paTTY4MmdqTENnZGFGOHBNSzdxbHRWS05CLUE1bDRxdVFVYWxDV0J5VTZhTmpJ?oc=5" target="_blank">La baisse du pouvoir d'achat des salariés du privé s'accélère</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -853,14 +861,6 @@
 
 ---
 
-### [Social : actualités, analyses et vidéos - Les Echos | Page 143 - Les Echos](https://news.google.com/rss/articles/CBMiZkFVX3lxTE5yMEJqN0xhU1p2R1VxZkcwenRlQjJwZlNUdzdRSzZmeHE3NENvYkZvREJUR1FVN3p4aUFxNWtkdVRuN1lwU2xTNDBKWk5IWURnQmhxTDZxTk5BWmc4VjZUREZacjRydw?oc=5)
-
-`Wed, 07 Oct 2026 14:23:52 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiZkFVX3lxTE5yMEJqN0xhU1p2R1VxZkcwenRlQjJwZlNUdzdRSzZmeHE3NENvYkZvREJUR1FVN3p4aUFxNWtkdVRuN1lwU2xTNDBKWk5IWURnQmhxTDZxTk5BWmc4VjZUREZacjRydw?oc=5" target="_blank">Social : actualités, analyses et vidéos - Les Echos | Page 143</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
 ### [Le gouvernement veut transférer le financement des cures thermales vers les complémentaires santé - Les Echos](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPQUJyRmRJYXN3V1lFZlk4M0x2MGxRTE0xdnJJUXdrNERndU5lVGEwR0ZNa1VyX2dOSG1FLWs3VTdVbWVsTE9kdE9iU2RKMVY4RzZ6LTlOZ2p2MlhFclFfbHVYSUkyU3hDWmVwb0F2cEkyLU9sUXlkbGNjLXh5NHpkWEFIY282YTRWUWdUN0JmdDJfeHN0eEQwUWtxdTc3Mmp4c05oejRhOElHb0lpcDhWcXBfcmhBSWZTNDZFZTZNU0MtTDlHcnk2TE1oaWFFZXhGVFVha2RJNmJCdGZkVDA0WG5LZHJsWUk?oc=5)
 
 `Thu, 08 Oct 2026 19:39:52 GMT`
@@ -938,29 +938,5 @@
 `Wed, 07 Oct 2026 17:45:51 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi2gFBVV95cUxNc2duTjBOMWlCc0szVlM4NEktbDVGM1lDZURscFF5ZGl0SWt5c1pwcTBMOGpYaFYtTzZwLXQwSnBtdm9yeGlZR0dwZVp2OTBQSzdZVjF2VW84SVhGUzNlc0NYWTM5di1POUF0aTA4SWMxVEc3XzlIaHd5ZHRGdHRMckdkQTNrR2hKVzdweHduQ1pXWVFCQUlWSkpNVThNbFFuNXRLbm5xZDZ2QndyNmxMM1hXaHl3YXZlbEw5OTVuNy1ObFpYM3hHR2Q5bk5HdTgtQ1B6Z1BPQVRkUQ?oc=5" target="_blank">La France puise dans ses stocks stratégiques de diesel pour faire baisser les prix</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [« Ce n'est pas tenable » : les députés détricotent déjà le budget 2027 du gouvernement - Les Echos](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQU1IxeW12MHRTVUJVVjA5YkZBZ3l2RUwzMmh3b25oVHJXZG9YMnE5NjEyc1BrUlUwdUtPWEs1WHRfX2g1LV9GMmcyNVRzQXJIcm1MYll0ZFIwSGhWYXlNWDZ0b0tCbHVzZml0aWZ5TjJnLU1Icy1iZG12c3lHa1ItV3k4ODlreXM1eDhvelBNY1kyMDFpbjRQVDVmQzlvRW5Bcm5VdFRsckJuWjIzYnlCQjFlX1l0S1ZYWURnZUJrMXQ5dEhxU3ZYcEE3T1d6VlQ2dlJUWHNCd3drcnA0?oc=5)
-
-`Wed, 07 Oct 2026 16:30:10 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi3AFBVV95cUxQU1IxeW12MHRTVUJVVjA5YkZBZ3l2RUwzMmh3b25oVHJXZG9YMnE5NjEyc1BrUlUwdUtPWEs1WHRfX2g1LV9GMmcyNVRzQXJIcm1MYll0ZFIwSGhWYXlNWDZ0b0tCbHVzZml0aWZ5TjJnLU1Icy1iZG12c3lHa1ItV3k4ODlreXM1eDhvelBNY1kyMDFpbjRQVDVmQzlvRW5Bcm5VdFRsckJuWjIzYnlCQjFlX1l0S1ZYWURnZUJrMXQ5dEhxU3ZYcEE3T1d6VlQ2dlJUWHNCd3drcnA0?oc=5" target="_blank">« Ce n'est pas tenable » : les députés détricotent déjà le budget 2027 du gouvernement</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Budget : le coût de la prise en charge des maladies chroniques a bondi de 72 % en dix ans - Les Echos](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeTd2d1ZOazRXZklONzFRZUw2bXRRM3dWckdwT1c3VTl2MFBkMTBoQzVKRVllYWRtdWdCdXdrTWxrMTFidC1SX0NRR3FPYUR3VVBCcVdKRzdlUjJoRDRzYXR6N2JjaURFLWtBamY1T250VF9wSENwR2ZWQV9hTllKYnFhdVdyclVTOWRXenJWb29RZjhqdFpZYWMxRUZROFdqbVdQTUhnTDFoMVJDd3VNc0hvMGlrUUxFV1lkOE5ael8tenA4am9UN2xLeHgwY0RqM09nUFRSUQ?oc=5)
-
-`Wed, 07 Oct 2026 15:11:58 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeTd2d1ZOazRXZklONzFRZUw2bXRRM3dWckdwT1c3VTl2MFBkMTBoQzVKRVllYWRtdWdCdXdrTWxrMTFidC1SX0NRR3FPYUR3VVBCcVdKRzdlUjJoRDRzYXR6N2JjaURFLWtBamY1T250VF9wSENwR2ZWQV9hTllKYnFhdVdyclVTOWRXenJWb29RZjhqdFpZYWMxRUZROFdqbVdQTUhnTDFoMVJDd3VNc0hvMGlrUUxFV1lkOE5ael8tenA4am9UN2xLeHgwY0RqM09nUFRSUQ?oc=5" target="_blank">Budget : le coût de la prise en charge des maladies chroniques a bondi de 72 % en dix ans</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [« On ajoute de la taxe à la taxe » : l'industrie de la santé de nouveau ponctionnée pour redresser la Sécurité sociale - Les Echos](https://news.google.com/rss/articles/CBMi-gFBVV95cUxQR0NXdVY0TVlsekpyMDZaUWNaNmhBc0VCd2RTOW5Fd0dsV3dBZnROY1I2UTREQmhaM0dDaWFIYnY2c3R4UVZ6N2VxLVluUkZnVzNTUlZsUEhsZVh2YzhUOTBxT2UtLUVTbm5JUThoekxOTFdPUFphWHROV0ZUS1VtUVh3QjZ5SkFJQzB0YWh0US1IVXEwakF2Wm0xLXhuWmVQcGhTamp6aGl6OV9kcmdNaFZBQnFVbmYzT1dVOEVidmJNLU1ZTXVleVFlSzN3bDczT2dqSzJjdjhybnpNWTFEZFZTV1lRMkEtbjF5N3RBaFIzM1lMdm9hcjBn?oc=5)
-
-`Wed, 07 Oct 2026 14:19:22 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi-gFBVV95cUxQR0NXdVY0TVlsekpyMDZaUWNaNmhBc0VCd2RTOW5Fd0dsV3dBZnROY1I2UTREQmhaM0dDaWFIYnY2c3R4UVZ6N2VxLVluUkZnVzNTUlZsUEhsZVh2YzhUOTBxT2UtLUVTbm5JUThoekxOTFdPUFphWHROV0ZUS1VtUVh3QjZ5SkFJQzB0YWh0US1IVXEwakF2Wm0xLXhuWmVQcGhTamp6aGl6OV9kcmdNaFZBQnFVbmYzT1dVOEVidmJNLU1ZTXVleVFlSzN3bDczT2dqSzJjdjhybnpNWTFEZFZTV1lRMkEtbjF5N3RBaFIzM1lMdm9hcjBn?oc=5" target="_blank">« On ajoute de la taxe à la taxe » : l'industrie de la santé de nouveau ponctionnée pour redresser la Sécurité sociale</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
