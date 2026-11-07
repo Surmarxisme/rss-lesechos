@@ -1,7 +1,23 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Fri, 06 Nov 2026 21:50:40 +0000`
-> 116 articles (30 derniers jours)
+> Derniere mise a jour : `Sat, 07 Nov 2026 15:31:06 +0000`
+> 112 articles (30 derniers jours)
+
+---
+
+### [DIRECT - Mobilisations du 7 novembre : un appel à manifester et à la grève mardi dans l'Education nationale - Les Echos](https://news.google.com/rss/articles/CBMiggJBVV95cUxOMkdJV1BscUhfSFM4QmdHSjgtSXVNNk56SDdGQ2hwVFRCUDliQVNaeXVpOHh5dDFFSjladUlJaEI2dnlYNVZWdXVxZmNCQW03MWlBX0xKdTlHMWQ2bUpYTmVmVER5NTZmN0pnM2JRbklMX2dHMk1uckxOaUNnUE9wNHlvVXh3Rjl5S3RwcEt4M1NFa2U1UU9RVVNMdEt4WWJOdk9QM0NTcEhjNVFmdGN0RXJxVVZsM3dLT3Zyem5tXzRObFdidjJoSzdYVThLVFRfdDZ6eW9scjNISFBrN0xtUHFqejkwU1N4bXZYTzBnczN1V3pnUHQ2UkYzYmRvbE5kZkE?oc=5)
+
+`Sat, 07 Nov 2026 12:00:58 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiggJBVV95cUxOMkdJV1BscUhfSFM4QmdHSjgtSXVNNk56SDdGQ2hwVFRCUDliQVNaeXVpOHh5dDFFSjladUlJaEI2dnlYNVZWdXVxZmNCQW03MWlBX0xKdTlHMWQ2bUpYTmVmVER5NTZmN0pnM2JRbklMX2dHMk1uckxOaUNnUE9wNHlvVXh3Rjl5S3RwcEt4M1NFa2U1UU9RVVNMdEt4WWJOdk9QM0NTcEhjNVFmdGN0RXJxVVZsM3dLT3Zyem5tXzRObFdidjJoSzdYVThLVFRfdDZ6eW9scjNISFBrN0xtUHFqejkwU1N4bXZYTzBnczN1V3pnUHQ2UkYzYmRvbE5kZkE?oc=5" target="_blank">DIRECT - Mobilisations du 7 novembre : un appel à manifester et à la grève mardi dans l'Education nationale</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Consommation : actualités, chiffres, analyses et vidéos - Les Echos | Page 184 - Les Echos](https://news.google.com/rss/articles/CBMifkFVX3lxTE9UMVlfdDF1SmNOMG9ZSUVPbTBOY1lSZkhoTGdGMEdJM0lSUFUzLXZGQ0pTZXFqSFJ1TmZJOG9UdzhJVk8zckIxeVZocTlqZWdKcVg5RDRkZFJHNmltRU1VdkJmLWJ6R1hXOEN3cTRITWZyRUhPb2Z2U21Tem5UUQ?oc=5)
+
+`Tue, 03 Nov 2026 21:32:26 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMifkFVX3lxTE9UMVlfdDF1SmNOMG9ZSUVPbTBOY1lSZkhoTGdGMEdJM0lSUFUzLXZGQ0pTZXFqSFJ1TmZJOG9UdzhJVk8zckIxeVZocTlqZWdKcVg5RDRkZFJHNmltRU1VdkJmLWJ6R1hXOEN3cTRITWZyRUhPb2Z2U21Tem5UUQ?oc=5" target="_blank">Consommation : actualités, chiffres, analyses et vidéos - Les Echos | Page 184</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -882,53 +898,5 @@
 `Thu, 08 Oct 2026 15:58:48 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNnpMSU5zTUNPZlQxLTc1MWU0akpNM196Ri13bWZMT0w0NVNMR2x5eWY2VzVlMGt0SHQ1bFQ1Tmg0cUVXX0dnWURENzdDZWFRWVNJak1adkJJdFNtNDN3b1JQY09qNTBpSTU0OVRUMG1rbEhlbUVhUm5ZM2FCMUlJbnBUZU1XS1Foc1pqNXUta2M4WVlQX283YXR2Ri1oUXkwcnM4bTVNVDUwYlVhRmhySE5WNXpDUEd5VkpiTXpEVktPVVhQV3RIVENKWDJaY21qWlBzZzJfRWZwQQ?oc=5" target="_blank">Arrêts maladie : le gouvernement appelle syndicats et patronat à une « réforme structurelle »</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Budget 2027 : une nouvelle taxe va frapper les intermédiaires entre les laboratoires et les pharmaciens - Les Echos](https://news.google.com/rss/articles/CBMi7AFBVV95cUxObGRud0JSdllVMUZxaVpPdUc0bFhPazhaM3JfTm5QTUVCOHpSSm1OaG1qcmdDRmFjMHNBNk9PRzFQamk0SXdaUmxRZy1UbERPSGFQbm4wQ0pmR2V6a3A0eFNzbFUxVHA0MWI3QnZFMk9oS24tTm83alNPT0NKd1daVW9kOW1Gdks2d3ZxTThEQ0xOOVREc0hBb3BVUEFEZEVROVd4MHNIVzlPbU9kdm8zWkt4REtTMkhwM0Vua3p6LXNPdmhxZzVjdHAxRUtDclczQ1RuLTFVVEFFWEZjdDhqWC1sR05SZU1iWUdSLQ?oc=5)
-
-`Thu, 08 Oct 2026 15:23:34 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi7AFBVV95cUxObGRud0JSdllVMUZxaVpPdUc0bFhPazhaM3JfTm5QTUVCOHpSSm1OaG1qcmdDRmFjMHNBNk9PRzFQamk0SXdaUmxRZy1UbERPSGFQbm4wQ0pmR2V6a3A0eFNzbFUxVHA0MWI3QnZFMk9oS24tTm83alNPT0NKd1daVW9kOW1Gdks2d3ZxTThEQ0xOOVREc0hBb3BVUEFEZEVROVd4MHNIVzlPbU9kdm8zWkt4REtTMkhwM0Vua3p6LXNPdmhxZzVjdHAxRUtDclczQ1RuLTFVVEFFWEZjdDhqWC1sR05SZU1iWUdSLQ?oc=5" target="_blank">Budget 2027 : une nouvelle taxe va frapper les intermédiaires entre les laboratoires et les pharmaciens</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Santé au travail : la fonction publique veut changer d'échelle - Les Echos](https://news.google.com/rss/articles/CBMitAFBVV95cUxNcm9wZnFqVi1neEtfLTFGWFpYME5mMUxDdEZad2NYU2d4ampKVjRiNWlzMWplRm5sVTRnUmNpaEl4eF9HdHpWODQzSHhFOGdtUi1Ya1dwMlh1Rmhia0hZWk1EZDJqQVZZRThJNi1oaWxLSDF0VzctRlFENFRIa3dpdl90MkJvNXBjcmJnZTNUQnNjSXFlVUZjYmx6WFk0a3N0QzYzRV83RnBhNm5sQ2VrT1pTcDA?oc=5)
-
-`Thu, 08 Oct 2026 15:25:59 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxNcm9wZnFqVi1neEtfLTFGWFpYME5mMUxDdEZad2NYU2d4ampKVjRiNWlzMWplRm5sVTRnUmNpaEl4eF9HdHpWODQzSHhFOGdtUi1Ya1dwMlh1Rmhia0hZWk1EZDJqQVZZRThJNi1oaWxLSDF0VzctRlFENFRIa3dpdl90MkJvNXBjcmJnZTNUQnNjSXFlVUZjYmx6WFk0a3N0QzYzRV83RnBhNm5sQ2VrT1pTcDA?oc=5" target="_blank">Santé au travail : la fonction publique veut changer d'échelle</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Mobilisation des lycéens : 375 établissements partiellement ou totalement fermés ce jeudi - Les Echos](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNTmh1clVZZkFjdmhZS1RtY2VkR0lFS2pJcC1nQXpKY3Q3eWpxUE9mampiLWlWOUpZM2JyYnRhZ3kwNUUtRXpOS09QaW5yTVNucnhzWS1KVGJpcGF0WXVpejNCLVlvRUZjaGdsLWdmWlJRcUdudURZbm0xQXhabGFUSUxtNWJCbXVXeDY5NE1CRmQ1VzJZMldGeFFpUVFSVEl4dmpMT2NCQkplZTF2YkV4SEJvTlFWOHpxVjNtR0hqRG45bGNoY1ZUTXozcXJYWEkwY2R0S2t2MV85dw?oc=5)
-
-`Thu, 08 Oct 2026 08:53:26 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi2gFBVV95cUxNTmh1clVZZkFjdmhZS1RtY2VkR0lFS2pJcC1nQXpKY3Q3eWpxUE9mampiLWlWOUpZM2JyYnRhZ3kwNUUtRXpOS09QaW5yTVNucnhzWS1KVGJpcGF0WXVpejNCLVlvRUZjaGdsLWdmWlJRcUdudURZbm0xQXhabGFUSUxtNWJCbXVXeDY5NE1CRmQ1VzJZMldGeFFpUVFSVEl4dmpMT2NCQkplZTF2YkV4SEJvTlFWOHpxVjNtR0hqRG45bGNoY1ZUTXozcXJYWEkwY2R0S2t2MV85dw?oc=5" target="_blank">Mobilisation des lycéens : 375 établissements partiellement ou totalement fermés ce jeudi</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [« On est en danger » : près d'une association de solidarité sur trois menacée de disparition - Les Echos](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbkF2Q3VWZXRRVnNFVEVjQWVtejA4Qzk2TzZSSlNjMHZqNXQyckE4bk54OUpWNGxPZlVLSTFNNG12Ym5OZEItVXFLTkpYaWdCTHVfZ3lYcUVzc3B2NWNrM2tmT0x6SXp1NkF2LUh4NU44c01ka21HS2NFeS1ubXhYVTlqWW5iNVdvWU9uNEtrdnJiRlZxR041V0VtWWpqT09lU2g1Mnl2alppbXV3YmhQamxwQ0NONUZWXzhwemo0blNKSkJ3MDJqcDdNQ2lTLXFHa2cxVkpaYw?oc=5)
-
-`Thu, 08 Oct 2026 06:35:17 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbkF2Q3VWZXRRVnNFVEVjQWVtejA4Qzk2TzZSSlNjMHZqNXQyckE4bk54OUpWNGxPZlVLSTFNNG12Ym5OZEItVXFLTkpYaWdCTHVfZ3lYcUVzc3B2NWNrM2tmT0x6SXp1NkF2LUh4NU44c01ka21HS2NFeS1ubXhYVTlqWW5iNVdvWU9uNEtrdnJiRlZxR041V0VtWWpqT09lU2g1Mnl2alppbXV3YmhQamxwQ0NONUZWXzhwemo0blNKSkJ3MDJqcDdNQ2lTLXFHa2cxVkpaYw?oc=5" target="_blank">« On est en danger » : près d'une association de solidarité sur trois menacée de disparition</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Les premiers chiffres qui incriminent l'IA dans le repli de l'emploi des jeunes - Les Echos](https://news.google.com/rss/articles/CBMizAFBVV95cUxOTm9KeEhiNExVcjlNOG9CR1d6QWdrX3BoVXp6ZnIyVGN0WHZLc3BRcjZMZ2N1bnF6Y2dzVTNiMWFUVERDQ2ZaNXczRHFaTElRLXpDLWgyUkhrQlFSa05hcFU1aE1qSUZ5bmdYX1Zhel8wLWRpU2NmcDBkdXVIM2tMcGE1MlhBX3FPaU9TYjMxR3M3MW1ha1QwLW02S1AtdHJGNWRwVnNESlEzUWZrVE9DeW8yUF9Xdk5yX2MwX3hRR2dqWXd0SGtJaThidDM?oc=5)
-
-`Thu, 08 Oct 2026 05:00:08 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMizAFBVV95cUxOTm9KeEhiNExVcjlNOG9CR1d6QWdrX3BoVXp6ZnIyVGN0WHZLc3BRcjZMZ2N1bnF6Y2dzVTNiMWFUVERDQ2ZaNXczRHFaTElRLXpDLWgyUkhrQlFSa05hcFU1aE1qSUZ5bmdYX1Zhel8wLWRpU2NmcDBkdXVIM2tMcGE1MlhBX3FPaU9TYjMxR3M3MW1ha1QwLW02S1AtdHJGNWRwVnNESlEzUWZrVE9DeW8yUF9Xdk5yX2MwX3hRR2dqWXd0SGtJaThidDM?oc=5" target="_blank">Les premiers chiffres qui incriminent l'IA dans le repli de l'emploi des jeunes</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Comment a évolué le budget de l'Ecologie sous l'ère Macron - Les Echos](https://news.google.com/rss/articles/CBMivgFBVV95cUxOenl3N0l2bGNfemZrUFo5UWI2OGF1WFFkRXdsVU85bmFna3AyMGZBUmMxcU9oWlkzTlY0S2V2YlhUQ2tSbWhsX1Nkd0dvME9JY05PYzRIVGNZNXFhdERBWTJudHVLV2ZaMzYzSFNwNDA5WkpNdDBVWnkyQ2QxU19ielNGbjd0UUE2TGVRandYZkhmaXV1d0NBZFBXTEkxbjJEdlR0ZHdDbHdSVFBxZkd4ejR5NlJaOXJGd19hUDlR?oc=5)
-
-`Thu, 08 Oct 2026 09:00:09 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxOenl3N0l2bGNfemZrUFo5UWI2OGF1WFFkRXdsVU85bmFna3AyMGZBUmMxcU9oWlkzTlY0S2V2YlhUQ2tSbWhsX1Nkd0dvME9JY05PYzRIVGNZNXFhdERBWTJudHVLV2ZaMzYzSFNwNDA5WkpNdDBVWnkyQ2QxU19ielNGbjd0UUE2TGVRandYZkhmaXV1d0NBZFBXTEkxbjJEdlR0ZHdDbHdSVFBxZkd4ejR5NlJaOXJGd19hUDlR?oc=5" target="_blank">Comment a évolué le budget de l'Ecologie sous l'ère Macron</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
