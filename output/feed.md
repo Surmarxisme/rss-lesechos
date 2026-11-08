@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Sat, 07 Nov 2026 15:31:06 +0000`
-> 112 articles (30 derniers jours)
+> Derniere mise a jour : `Sun, 08 Nov 2026 15:51:21 +0000`
+> 111 articles (30 derniers jours)
+
+---
+
+### [Conférence sociale : ce que l'on peut attendre d'une hausse du SMIC - Les Echos](https://news.google.com/rss/articles/CBMiugFBVV95cUxNZjJBS29SRHlRZ0YyLW8zbkkyME5BTU5fSDRjYXZVVVloS1lJQ2pmaFVDNGMybVl2Rzl6V1RhcU11X3E1eEN6azkxMGs1YTRLaHkyYlhjUDRuMkk4R01YYUpLQWcycUpTTEJlV1lFV3NUYlNOZWU2RUpiRy1OdHYwSzNrSXJGTmVOMWVFOUxmaW1DMnVzRVV1cl9XV2VYY2RiQlFTWlg5NERBeF9BRHl3VEdLYjJkQjV4cGc?oc=5)
+
+`Sun, 08 Nov 2026 10:30:49 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxNZjJBS29SRHlRZ0YyLW8zbkkyME5BTU5fSDRjYXZVVVloS1lJQ2pmaFVDNGMybVl2Rzl6V1RhcU11X3E1eEN6azkxMGs1YTRLaHkyYlhjUDRuMkk4R01YYUpLQWcycUpTTEJlV1lFV3NUYlNOZWU2RUpiRy1OdHYwSzNrSXJGTmVOMWVFOUxmaW1DMnVzRVV1cl9XV2VYY2RiQlFTWlg5NERBeF9BRHl3VEdLYjJkQjV4cGc?oc=5" target="_blank">Conférence sociale : ce que l'on peut attendre d'une hausse du SMIC</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -882,21 +890,5 @@
 `Sat, 10 Oct 2026 09:27:48 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMizgFBVV95cUxOVmU0bHFXWGFEMWgwNmtpRm0zMWJyWGN3cUJRRURKMzREdFBGZGF1dTVLZGljLWdpWVlvZGdjT2taSC1SLWI1SklNa2FtNlp4MWFsOGUyWHNxWkRoZWpQdHlTR3dUN0xUUXBmOHhGRVNSSGlKUGNYVnZObnl0RDdLZXFid3N1VFhvUlhPV3pvWkVMRkMzcFFDLXVwdzRNd3lkMVRReW5Lc2w4VnVWRTdybnIyeHZ1VGtmZ0o1MVN6OV9kc3JTbklfQzdxd1JmUQ?oc=5" target="_blank">Budget 2027 : la discussion budgétaire démarre aussi mal que l'an passé</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Le gouvernement veut transférer le financement des cures thermales vers les complémentaires santé - Les Echos](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPQUJyRmRJYXN3V1lFZlk4M0x2MGxRTE0xdnJJUXdrNERndU5lVGEwR0ZNa1VyX2dOSG1FLWs3VTdVbWVsTE9kdE9iU2RKMVY4RzZ6LTlOZ2p2MlhFclFfbHVYSUkyU3hDWmVwb0F2cEkyLU9sUXlkbGNjLXh5NHpkWEFIY282YTRWUWdUN0JmdDJfeHN0eEQwUWtxdTc3Mmp4c05oejRhOElHb0lpcDhWcXBfcmhBSWZTNDZFZTZNU0MtTDlHcnk2TE1oaWFFZXhGVFVha2RJNmJCdGZkVDA0WG5LZHJsWUk?oc=5)
-
-`Thu, 08 Oct 2026 19:39:52 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi5wFBVV95cUxPQUJyRmRJYXN3V1lFZlk4M0x2MGxRTE0xdnJJUXdrNERndU5lVGEwR0ZNa1VyX2dOSG1FLWs3VTdVbWVsTE9kdE9iU2RKMVY4RzZ6LTlOZ2p2MlhFclFfbHVYSUkyU3hDWmVwb0F2cEkyLU9sUXlkbGNjLXh5NHpkWEFIY282YTRWUWdUN0JmdDJfeHN0eEQwUWtxdTc3Mmp4c05oejRhOElHb0lpcDhWcXBfcmhBSWZTNDZFZTZNU0MtTDlHcnk2TE1oaWFFZXhGVFVha2RJNmJCdGZkVDA0WG5LZHJsWUk?oc=5" target="_blank">Le gouvernement veut transférer le financement des cures thermales vers les complémentaires santé</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Arrêts maladie : le gouvernement appelle syndicats et patronat à une « réforme structurelle » - Les Echos](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNnpMSU5zTUNPZlQxLTc1MWU0akpNM196Ri13bWZMT0w0NVNMR2x5eWY2VzVlMGt0SHQ1bFQ1Tmg0cUVXX0dnWURENzdDZWFRWVNJak1adkJJdFNtNDN3b1JQY09qNTBpSTU0OVRUMG1rbEhlbUVhUm5ZM2FCMUlJbnBUZU1XS1Foc1pqNXUta2M4WVlQX283YXR2Ri1oUXkwcnM4bTVNVDUwYlVhRmhySE5WNXpDUEd5VkpiTXpEVktPVVhQV3RIVENKWDJaY21qWlBzZzJfRWZwQQ?oc=5)
-
-`Thu, 08 Oct 2026 15:58:48 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNnpMSU5zTUNPZlQxLTc1MWU0akpNM196Ri13bWZMT0w0NVNMR2x5eWY2VzVlMGt0SHQ1bFQ1Tmg0cUVXX0dnWURENzdDZWFRWVNJak1adkJJdFNtNDN3b1JQY09qNTBpSTU0OVRUMG1rbEhlbUVhUm5ZM2FCMUlJbnBUZU1XS1Foc1pqNXUta2M4WVlQX283YXR2Ri1oUXkwcnM4bTVNVDUwYlVhRmhySE5WNXpDUEd5VkpiTXpEVktPVVhQV3RIVENKWDJaY21qWlBzZzJfRWZwQQ?oc=5" target="_blank">Arrêts maladie : le gouvernement appelle syndicats et patronat à une « réforme structurelle »</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
