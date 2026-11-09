@@ -1,7 +1,31 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Mon, 09 Nov 2026 14:26:28 +0000`
-> 113 articles (30 derniers jours)
+> Derniere mise a jour : `Mon, 09 Nov 2026 19:40:19 +0000`
+> 116 articles (30 derniers jours)
+
+---
+
+### [Le front uni syndical se fissure au sortir de la conférence sociale - Les Echos](https://news.google.com/rss/articles/CBMivwFBVV95cUxOcjRuQ3I5VEJNYm1tNlBHaExUZ05kR1NYcVJTcEowVVdhQnFvaTNSb0c5M0tpQjBxc1hNdEEzaU5GR1ZOejBSTHEySjJ5Mi1rS2JMZWExWGZtd0NkY3NnR1RXMXZ2U0xxMGJlQmt1UkcwWTZZNExJSmFnMFN4anh6ODNWUjhFMHJNdERzVW5ENy14VHp4bllQQTNkV185c296S2xqaGVpMTE4YUt5MVhWaFJubEpsMlRRNjR3N1h0MA?oc=5)
+
+`Mon, 09 Nov 2026 17:59:36 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxOcjRuQ3I5VEJNYm1tNlBHaExUZ05kR1NYcVJTcEowVVdhQnFvaTNSb0c5M0tpQjBxc1hNdEEzaU5GR1ZOejBSTHEySjJ5Mi1rS2JMZWExWGZtd0NkY3NnR1RXMXZ2U0xxMGJlQmt1UkcwWTZZNExJSmFnMFN4anh6ODNWUjhFMHJNdERzVW5ENy14VHp4bllQQTNkV185c296S2xqaGVpMTE4YUt5MVhWaFJubEpsMlRRNjR3N1h0MA?oc=5" target="_blank">Le front uni syndical se fissure au sortir de la conférence sociale</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [SMIC, heures supplémentaires… Ce qui doit changer pour les salariés - Les Echos](https://news.google.com/rss/articles/CBMivAFBVV95cUxNQjNPcG52RXhNQVJZLUhKNFZQTFJsQVp4VHplWnVpMC0xRTFWdGdSVjU3WHJLOGpheWp6cHA0Uno3QzhnVWtYaU8yX0FORHVnQ2JFVUNRUGxGVGQ3bFRsZEdtQ2FtRnZ5MlM2eXRUclRYVmFYVkpOMV9hSlBUeWtqcjZ3WUg2QVNwYUJRZ3B0cXd0VmZDV0hUZUZZLU10TlFGVEFib3pMNXJsTWlZTXRDWjVPdHREZ1hZNENHcw?oc=5)
+
+`Mon, 09 Nov 2026 18:13:30 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxNQjNPcG52RXhNQVJZLUhKNFZQTFJsQVp4VHplWnVpMC0xRTFWdGdSVjU3WHJLOGpheWp6cHA0Uno3QzhnVWtYaU8yX0FORHVnQ2JFVUNRUGxGVGQ3bFRsZEdtQ2FtRnZ5MlM2eXRUclRYVmFYVkpOMV9hSlBUeWtqcjZ3WUg2QVNwYUJRZ3B0cXd0VmZDV0hUZUZZLU10TlFGVEFib3pMNXJsTWlZTXRDWjVPdHREZ1hZNENHcw?oc=5" target="_blank">SMIC, heures supplémentaires… Ce qui doit changer pour les salariés</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Conférence sociale : Lecornu annonce une hausse du SMIC et renvoie la question du coût du travail à plus tard - Les Echos](https://news.google.com/rss/articles/CBMi9AFBVV95cUxQYkJ0bDBGTDIwZEZqOFVhaVlEUEdpanVDRWNud0pscl9QWXotbTUxQTQ4THg2V09Bcld5ME9xOWxKaFJOcUE2bGdqUHZkSzBFSkV6MHpDYl9qclYybGNyWFZoTlltelNLU09DRVRxdTBSYlN4Vk5Jd1E0eURUbExKc3ZkVmFuWmxjOUJsdGtydE1uampVWjhESnU3RHdDcG1LMkFDb2pTUEdIaEFYLUpoSU9ITUJmaXJQZlFsRkdtcW1OMEU1ZUlIUVBLdk5EWkw4WW05ZFd5MjVfc0VZQVBNMlliWWdXUFgzN0VmMFYyRjJOd0JI?oc=5)
+
+`Mon, 09 Nov 2026 16:50:13 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi9AFBVV95cUxQYkJ0bDBGTDIwZEZqOFVhaVlEUEdpanVDRWNud0pscl9QWXotbTUxQTQ4THg2V09Bcld5ME9xOWxKaFJOcUE2bGdqUHZkSzBFSkV6MHpDYl9qclYybGNyWFZoTlltelNLU09DRVRxdTBSYlN4Vk5Jd1E0eURUbExKc3ZkVmFuWmxjOUJsdGtydE1uampVWjhESnU3RHdDcG1LMkFDb2pTUEdIaEFYLUpoSU9ITUJmaXJQZlFsRkdtcW1OMEU1ZUlIUVBLdk5EWkw4WW05ZFd5MjVfc0VZQVBNMlliWWdXUFgzN0VmMFYyRjJOd0JI?oc=5" target="_blank">Conférence sociale : Lecornu annonce une hausse du SMIC et renvoie la question du coût du travail à plus tard</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
