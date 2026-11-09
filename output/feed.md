@@ -1,7 +1,31 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Sun, 08 Nov 2026 15:51:21 +0000`
-> 111 articles (30 derniers jours)
+> Derniere mise a jour : `Mon, 09 Nov 2026 14:26:28 +0000`
+> 113 articles (30 derniers jours)
+
+---
+
+### [Déficit : les propositions décapantes de la Cour des comptes pour éviter un nouveau dérapage en 2027 - Les Echos](https://news.google.com/rss/articles/CBMi9gFBVV95cUxOZklrbm5oUG5IY0g0azNDN2sxNmo2OUdjNElwb2xwTUtYalM1SHN0bkxWSklWM1BjNTJNSF9CdUZybnNkMkxLUEVHdHlrSjl0bTBibGdwQVVtTGt1Rmh5c3hoV3VHMV9GWWJTdEY1aEVYZVpZSHUzWW90UUFOT2tKNkh2dmM5U3prUGwxdEcxVFNKQkFaSzEzaEl1Ml92MEhiNDdtUS01ZnpjdWVGdmQyU0RTalNXaEVMLWJBZ00yZW5jWURVNmxYRU4wRUVpaHp5dG5FT1dMMk1nOXJLSEVBb0s0cG5OZVVyOC1zV1k3MFBsVGdFUHc?oc=5)
+
+`Mon, 09 Nov 2026 08:00:08 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi9gFBVV95cUxOZklrbm5oUG5IY0g0azNDN2sxNmo2OUdjNElwb2xwTUtYalM1SHN0bkxWSklWM1BjNTJNSF9CdUZybnNkMkxLUEVHdHlrSjl0bTBibGdwQVVtTGt1Rmh5c3hoV3VHMV9GWWJTdEY1aEVYZVpZSHUzWW90UUFOT2tKNkh2dmM5U3prUGwxdEcxVFNKQkFaSzEzaEl1Ml92MEhiNDdtUS01ZnpjdWVGdmQyU0RTalNXaEVMLWJBZ00yZW5jWURVNmxYRU4wRUVpaHp5dG5FT1dMMk1nOXJLSEVBb0s0cG5OZVVyOC1zV1k3MFBsVGdFUHc?oc=5" target="_blank">Déficit : les propositions décapantes de la Cour des comptes pour éviter un nouveau dérapage en 2027</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Conférence sociale : le coût du travail au coeur du bras de fer sur la hausse du SMIC - Les Echos](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTjhmZHNuOVFocGR1S2pkQ2pFb0h3TTk1a25xM2ZlaUNwQW83akJ6VXFsbUNBeGN5TEJBNHE2Wm9RYkthOHI2eTdRWVYtNzgwWENzaVNLQzJodktxQUgzTU9SVVA2MkoxSVJQd0lPX0t6QlJiTThkSDBMUlFsSk82UkR4VGtrOHNCNWd3OWs2TGM3X2JNaXRQTDV1eEZEUnRWcG9MTVJrVnpIeTluSkZuSDByUXNYTjlJWUF0TjFNYnJrdHpLRHlENVFSV25ycDFpcjVyNw?oc=5)
+
+`Sun, 08 Nov 2026 16:22:28 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTjhmZHNuOVFocGR1S2pkQ2pFb0h3TTk1a25xM2ZlaUNwQW83akJ6VXFsbUNBeGN5TEJBNHE2Wm9RYkthOHI2eTdRWVYtNzgwWENzaVNLQzJodktxQUgzTU9SVVA2MkoxSVJQd0lPX0t6QlJiTThkSDBMUlFsSk82UkR4VGtrOHNCNWd3OWs2TGM3X2JNaXRQTDV1eEZEUnRWcG9MTVJrVnpIeTluSkZuSDByUXNYTjlJWUF0TjFNYnJrdHpLRHlENVFSV25ycDFpcjVyNw?oc=5" target="_blank">Conférence sociale : le coût du travail au coeur du bras de fer sur la hausse du SMIC</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [DIRECT - Conférence sociale : les syndicats ne veulent pas d'une « opération Pièces jaunes », le patronat veut « desserrer l'étau fiscal » - Les Echos](https://news.google.com/rss/articles/CBMilgJBVV95cUxQNTlaaUhjWUVMa3Z3TFM3YzU3VFdzLXh5ay1qU1NiR0hqT3JidGpxTnlISW9Ua1JkM2kzeHI4d0JEbTZTeUVnR3FRY0ppdGtmai12eUdPQ3pLX0JxdzdmN01mRGNZa3pDVm1tZUdnWjRSQU5WczRUMjdGQkJZX1dpTG1jTjJXeXRDUDBaeWFSYl9ELUVfbG5iNW5ZYlRVR1hPb3hvMGtmZnBtQjBFTVRkc3NxUjFLMDRkZVEyWkVrSVpsTWRROXhlcFFJU01jVERZT1FWQ3VsNVE3a1BFSTIxNTBnNEcwQlNWUGdGMmRhN0hVcmFkeGg0T1RiTnpmbUNRM1VvcGtZWmNBMFFYT3NQLTl5Yk5WQQ?oc=5)
+
+`Mon, 09 Nov 2026 08:09:07 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMilgJBVV95cUxQNTlaaUhjWUVMa3Z3TFM3YzU3VFdzLXh5ay1qU1NiR0hqT3JidGpxTnlISW9Ua1JkM2kzeHI4d0JEbTZTeUVnR3FRY0ppdGtmai12eUdPQ3pLX0JxdzdmN01mRGNZa3pDVm1tZUdnWjRSQU5WczRUMjdGQkJZX1dpTG1jTjJXeXRDUDBaeWFSYl9ELUVfbG5iNW5ZYlRVR1hPb3hvMGtmZnBtQjBFTVRkc3NxUjFLMDRkZVEyWkVrSVpsTWRROXhlcFFJU01jVERZT1FWQ3VsNVE3a1BFSTIxNTBnNEcwQlNWUGdGMmRhN0hVcmFkeGg0T1RiTnpmbUNRM1VvcGtZWmNBMFFYT3NQLTl5Yk5WQQ?oc=5" target="_blank">DIRECT - Conférence sociale : les syndicats ne veulent pas d'une « opération Pièces jaunes », le patronat veut « desserrer l'étau fiscal »</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -882,13 +906,5 @@
 `Sun, 11 Oct 2026 12:00:08 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxOTm0zVk1BbFJwbFVlbEFuSUNhRDJjdlJGbWZrQ2IzTzdGZmVZdzM4LV8xVUlLdG5GbFBKQ01UNFVKTnhsWVNsWVo5MnhoUVZmclFjdGJsd2h0eGl2REVfNjZUWTk5V1NrNmZVZFpEQ19WV0ctMkpZRkV2eGxMaVpjeE5GTGNCM3FtY01wSTJULVFaRVE0RHlzcWtQajNwcnpFbTZqdFJVT1ZfQk5oNmlEYXRYc295UTlNQXBkQXhNTU9WWTk1ZHc?oc=5" target="_blank">France 2030 : un bilan positif malgré des coupes budgétaires massives</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Budget 2027 : la discussion budgétaire démarre aussi mal que l'an passé - Les Echos](https://news.google.com/rss/articles/CBMizgFBVV95cUxOVmU0bHFXWGFEMWgwNmtpRm0zMWJyWGN3cUJRRURKMzREdFBGZGF1dTVLZGljLWdpWVlvZGdjT2taSC1SLWI1SklNa2FtNlp4MWFsOGUyWHNxWkRoZWpQdHlTR3dUN0xUUXBmOHhGRVNSSGlKUGNYVnZObnl0RDdLZXFid3N1VFhvUlhPV3pvWkVMRkMzcFFDLXVwdzRNd3lkMVRReW5Lc2w4VnVWRTdybnIyeHZ1VGtmZ0o1MVN6OV9kc3JTbklfQzdxd1JmUQ?oc=5)
-
-`Sat, 10 Oct 2026 09:27:48 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMizgFBVV95cUxOVmU0bHFXWGFEMWgwNmtpRm0zMWJyWGN3cUJRRURKMzREdFBGZGF1dTVLZGljLWdpWVlvZGdjT2taSC1SLWI1SklNa2FtNlp4MWFsOGUyWHNxWkRoZWpQdHlTR3dUN0xUUXBmOHhGRVNSSGlKUGNYVnZObnl0RDdLZXFid3N1VFhvUlhPV3pvWkVMRkMzcFFDLXVwdzRNd3lkMVRReW5Lc2w4VnVWRTdybnIyeHZ1VGtmZ0o1MVN6OV9kc3JTbklfQzdxd1JmUQ?oc=5" target="_blank">Budget 2027 : la discussion budgétaire démarre aussi mal que l'an passé</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
