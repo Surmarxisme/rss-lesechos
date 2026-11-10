@@ -1,7 +1,23 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Tue, 10 Nov 2026 00:28:26 +0000`
-> 116 articles (30 derniers jours)
+> Derniere mise a jour : `Tue, 10 Nov 2026 13:48:48 +0000`
+> 117 articles (30 derniers jours)
+
+---
+
+### [« Avec ce coup de pouce, beaucoup de salariés seront rattrapés par le SMIC sans résoudre leur problème de pouvoir d'achat » - Les Echos](https://news.google.com/rss/articles/CBMiggJBVV95cUxQWkRORUt4WHNWVkk2ZGZMQ1ZyYVBJbkxmOHp0akI4SE1XUVdxZmN4TnF1OGhPejFhQ1FFNk5WMHNKbjFZVGY0cTRXVFdnWDVlTGdDSVJhNXRzVEc3aFE5S0xxNXNjcDEteTd3eDRPRDc2WWhHNkJqNjg1b0ktRGxXRzE2bm5uOFNtN0FELVdDbjBGUllWcDNIc0FTSTR2dTZySHhrOE5vWHVNeUkwQVZPNU9nM2pSQ1B0U041N2tTajZxUXE0Y0pZdnBUdFBDczBsd0lrcGVnaHpZc2k1clBSTDNSZFpNZFdGc3poalFvMzdZWTEtaGNzdjIzN0xaYlk5NWc?oc=5)
+
+`Tue, 10 Nov 2026 05:15:09 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiggJBVV95cUxQWkRORUt4WHNWVkk2ZGZMQ1ZyYVBJbkxmOHp0akI4SE1XUVdxZmN4TnF1OGhPejFhQ1FFNk5WMHNKbjFZVGY0cTRXVFdnWDVlTGdDSVJhNXRzVEc3aFE5S0xxNXNjcDEteTd3eDRPRDc2WWhHNkJqNjg1b0ktRGxXRzE2bm5uOFNtN0FELVdDbjBGUllWcDNIc0FTSTR2dTZySHhrOE5vWHVNeUkwQVZPNU9nM2pSQ1B0U041N2tTajZxUXE0Y0pZdnBUdFBDczBsd0lrcGVnaHpZc2k1clBSTDNSZFpNZFdGc3poalFvMzdZWTEtaGNzdjIzN0xaYlk5NWc?oc=5" target="_blank">« Avec ce coup de pouce, beaucoup de salariés seront rattrapés par le SMIC sans résoudre leur problème de pouvoir d'achat »</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Stabilisation surprise du taux de chômage au troisième trimestre - Les Echos](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYkZ5RmN5b1RjZUF2dkFhUHRpVUw2a1FvVlNzeEl0dlZxOEp5bUIydHRXZVJxVnNWSE1oc3BCUXEwbVNHbXFmcEs4a3RTWGdxU2F3ODF4b3FqZFotZGc0NDJnUGhLa3M2NUxSODRIQVlPQXg1UzA0ZVVtb2dSeHlsVk1IZXJFZEhEY01WQWt0Y1pBclBldXhMek1TR2tWb2JMenkzWFBTM0JoUzVRZk1ZSXpaYUVsS2xzRFhMUU5XU092QQ?oc=5)
+
+`Tue, 10 Nov 2026 07:01:27 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYkZ5RmN5b1RjZUF2dkFhUHRpVUw2a1FvVlNzeEl0dlZxOEp5bUIydHRXZVJxVnNWSE1oc3BCUXEwbVNHbXFmcEs4a3RTWGdxU2F3ODF4b3FqZFotZGc0NDJnUGhLa3M2NUxSODRIQVlPQXg1UzA0ZVVtb2dSeHlsVk1IZXJFZEhEY01WQWt0Y1pBclBldXhMek1TR2tWb2JMenkzWFBTM0JoUzVRZk1ZSXpaYUVsS2xzRFhMUU5XU092QQ?oc=5" target="_blank">Stabilisation surprise du taux de chômage au troisième trimestre</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -922,13 +938,5 @@
 `Sun, 11 Oct 2026 15:34:58 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMiggJBVV95cUxPVFAxZ2lhVElZckF3blgtQWZKbC1Ra1RpZXlodjYwWFhSYlFpRUlyRmY4UXB0ZDgtQWE1emhLaTJrVTUzQ0NMWC1xLUNTVGJ2dGIwakgxX0I3d0pVdzQ1LXlSVXl2WG9HTHFyczZNVEliUk83U1ZhZUVsb0tnRW53TFlLTUhJVzZFRFlPWnNYcjA2elM1VnlUWHJ6cXFQNW9ZY1NuTmg3M0tfVVBWTzI2UjBnYXVaVHR2Sjh2X2J5UWV5N29JRkFxLWZNcXlIbmhtcFA4OUxSNDBNbWJ0ZXdBZkRoRnBQbkl5bm14YWl0bzJKYVFFeWI0UExCRVBaZW5GNXc?oc=5" target="_blank">Gel des retraites, hausse du coût du travail : le plan du gouvernement pour redresser la Sécu dans le viseur des députés</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [France 2030 : un bilan positif malgré des coupes budgétaires massives - Les Echos](https://news.google.com/rss/articles/CBMixgFBVV95cUxOTm0zVk1BbFJwbFVlbEFuSUNhRDJjdlJGbWZrQ2IzTzdGZmVZdzM4LV8xVUlLdG5GbFBKQ01UNFVKTnhsWVNsWVo5MnhoUVZmclFjdGJsd2h0eGl2REVfNjZUWTk5V1NrNmZVZFpEQ19WV0ctMkpZRkV2eGxMaVpjeE5GTGNCM3FtY01wSTJULVFaRVE0RHlzcWtQajNwcnpFbTZqdFJVT1ZfQk5oNmlEYXRYc295UTlNQXBkQXhNTU9WWTk1ZHc?oc=5)
-
-`Sun, 11 Oct 2026 12:00:08 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxOTm0zVk1BbFJwbFVlbEFuSUNhRDJjdlJGbWZrQ2IzTzdGZmVZdzM4LV8xVUlLdG5GbFBKQ01UNFVKTnhsWVNsWVo5MnhoUVZmclFjdGJsd2h0eGl2REVfNjZUWTk5V1NrNmZVZFpEQ19WV0ctMkpZRkV2eGxMaVpjeE5GTGNCM3FtY01wSTJULVFaRVE0RHlzcWtQajNwcnpFbTZqdFJVT1ZfQk5oNmlEYXRYc295UTlNQXBkQXhNTU9WWTk1ZHc?oc=5" target="_blank">France 2030 : un bilan positif malgré des coupes budgétaires massives</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
