@@ -1,7 +1,31 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Tue, 10 Nov 2026 13:48:48 +0000`
-> 117 articles (30 derniers jours)
+> Derniere mise a jour : `Tue, 10 Nov 2026 16:54:47 +0000`
+> 119 articles (30 derniers jours)
+
+---
+
+### [SMIC : cinq questions sur le décret qui veut forcer les branches professionnelles à augmenter les salaires - Les Echos](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNY3E2djQxbThhY2tRTl93clJHNGNReXdLV1lER3lSWS0wWVROWGxmSWZPZlJSSi1wanZib09OQ2xzcUhfZThpay0yamtLaFdtSzRQUFRzMndWQ1J6OFZUdGl5Yk43bk5LU2RHczBxcVh0N0Y3TkVhcVFNOTFGeVFKWnhOanpxN0hrU2FTNzlaNVFkdk1kU3hzbUhJVTJLbkZTTGVSMVlBRHVvLUJPQWl5UGkzTE95bGluT0Fab01SVktfVTljT21BVzhmbm5xcTdCNi1uZDlTQzRYTGhKRVRRMlZFdklsRUZDVzBfdl9IT08?oc=5)
+
+`Tue, 10 Nov 2026 16:01:53 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi8AFBVV95cUxNY3E2djQxbThhY2tRTl93clJHNGNReXdLV1lER3lSWS0wWVROWGxmSWZPZlJSSi1wanZib09OQ2xzcUhfZThpay0yamtLaFdtSzRQUFRzMndWQ1J6OFZUdGl5Yk43bk5LU2RHczBxcVh0N0Y3TkVhcVFNOTFGeVFKWnhOanpxN0hrU2FTNzlaNVFkdk1kU3hzbUhJVTJLbkZTTGVSMVlBRHVvLUJPQWl5UGkzTE95bGluT0Fab01SVktfVTljT21BVzhmbm5xcTdCNi1uZDlTQzRYTGhKRVRRMlZFdklsRUZDVzBfdl9IT08?oc=5" target="_blank">SMIC : cinq questions sur le décret qui veut forcer les branches professionnelles à augmenter les salaires</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Prix du diesel : fort du succès de l'opération, le gouvernement prêt à puiser une nouvelle fois dans les stocks stratégiques - Les Echos](https://news.google.com/rss/articles/CBMijAJBVV95cUxQVXBKd0JQemd5cFFiM0ExNXZyaXFXRFE4S3RZT2JtX0lwZGd1NWNORThZSEU2NlJqYmlkRHBOcXRyeVh0U2U3bXY1eVlQUWtraFJ0cHdTMzV6XzVnTlZ6SjloaVZHbURZTmtsVVZBMzlWcEwwLWJVbE9rWWVCVWd0Q0cyQ3dMMDFHQjZwMll1WFptOFBYYnJfWHE0Y1AtYXFqUHN0c2lUVFdNdmc3ck1CNVhCTG5GUkZZV1RMSi1raGhsSkJQT1FsajNDYXNkZTQyVlhJbVo0QVVNR3VZb1FqbUlxdnRKczZtSWQwWUE2OFo5U1JhcDhoeXhVNEk5LUJfOG9yMzQ4d3pEYnlQ?oc=5)
+
+`Tue, 10 Nov 2026 15:22:19 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMijAJBVV95cUxQVXBKd0JQemd5cFFiM0ExNXZyaXFXRFE4S3RZT2JtX0lwZGd1NWNORThZSEU2NlJqYmlkRHBOcXRyeVh0U2U3bXY1eVlQUWtraFJ0cHdTMzV6XzVnTlZ6SjloaVZHbURZTmtsVVZBMzlWcEwwLWJVbE9rWWVCVWd0Q0cyQ3dMMDFHQjZwMll1WFptOFBYYnJfWHE0Y1AtYXFqUHN0c2lUVFdNdmc3ck1CNVhCTG5GUkZZV1RMSi1raGhsSkJQT1FsajNDYXNkZTQyVlhJbVo0QVVNR3VZb1FqbUlxdnRKczZtSWQwWUE2OFo5U1JhcDhoeXhVNEk5LUJfOG9yMzQ4d3pEYnlQ?oc=5" target="_blank">Prix du diesel : fort du succès de l'opération, le gouvernement prêt à puiser une nouvelle fois dans les stocks stratégiques</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Impôt sur le revenu : ce que paient vraiment les Français - Les Echos](https://news.google.com/rss/articles/CBMivAFBVV95cUxPLUZCNHctVEs1QVl5QmRQOFB0bU1iX2lET1pSNm1NbmhudUplQkd2MWU0SGhCS0ZjWERKdm1XdjZ2MW8wZVF2SmFSdm9YNnBBNmpkQUNrVTBzamQ3UUtobGRJUDNDaHlXY3RsblhEbTNVX0tWdER2UHFxdjlpNGVyRUV4Z1FuV0xMNTJVbVc1T29rMjFzNUw0QWpqdVY5cGxaWHdIVWhOY3RsV2dYWVNsNnE5amtDYmkwNXRUVA?oc=5)
+
+`Tue, 10 Nov 2026 16:41:16 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxPLUZCNHctVEs1QVl5QmRQOFB0bU1iX2lET1pSNm1NbmhudUplQkd2MWU0SGhCS0ZjWERKdm1XdjZ2MW8wZVF2SmFSdm9YNnBBNmpkQUNrVTBzamQ3UUtobGRJUDNDaHlXY3RsblhEbTNVX0tWdER2UHFxdjlpNGVyRUV4Z1FuV0xMNTJVbVc1T29rMjFzNUw0QWpqdVY5cGxaWHdIVWhOY3RsV2dYWVNsNnE5amtDYmkwNXRUVA?oc=5" target="_blank">Impôt sur le revenu : ce que paient vraiment les Français</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -930,13 +954,5 @@
 `Mon, 12 Oct 2026 15:06:19 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMizAFBVV95cUxNSGl3eWN5QVpjN05PY3hqeVNGSExZN0RWYjVrM0JsMnktakphX2J4UFo4ZW1JWExyM1BWV0N4NFE5WUExeWtlNjZoVlBFc3lBNzJBd1BmQ0RLMlFnbl9ScEpNOEpCNkgyMXB3bDE1dHBqbnRDNHdjdzAtSGxHV2pLbzctMHpHNVk4eS0xaUJxcEU1QkRWV3lNcTMtVkZZcEdoUEp4bEZjYVBfVFo3eHVIbkFReGZIcUFNcmJnYm4xMUFNTl9LSi1fRGphTDQ?oc=5" target="_blank">Blocus des lycées, acte V, « gilets jaunes » : à quoi faut-il s'attendre cette semaine ?</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Gel des retraites, hausse du coût du travail : le plan du gouvernement pour redresser la Sécu dans le viseur des députés - Les Echos](https://news.google.com/rss/articles/CBMiggJBVV95cUxPVFAxZ2lhVElZckF3blgtQWZKbC1Ra1RpZXlodjYwWFhSYlFpRUlyRmY4UXB0ZDgtQWE1emhLaTJrVTUzQ0NMWC1xLUNTVGJ2dGIwakgxX0I3d0pVdzQ1LXlSVXl2WG9HTHFyczZNVEliUk83U1ZhZUVsb0tnRW53TFlLTUhJVzZFRFlPWnNYcjA2elM1VnlUWHJ6cXFQNW9ZY1NuTmg3M0tfVVBWTzI2UjBnYXVaVHR2Sjh2X2J5UWV5N29JRkFxLWZNcXlIbmhtcFA4OUxSNDBNbWJ0ZXdBZkRoRnBQbkl5bm14YWl0bzJKYVFFeWI0UExCRVBaZW5GNXc?oc=5)
-
-`Sun, 11 Oct 2026 15:34:58 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiggJBVV95cUxPVFAxZ2lhVElZckF3blgtQWZKbC1Ra1RpZXlodjYwWFhSYlFpRUlyRmY4UXB0ZDgtQWE1emhLaTJrVTUzQ0NMWC1xLUNTVGJ2dGIwakgxX0I3d0pVdzQ1LXlSVXl2WG9HTHFyczZNVEliUk83U1ZhZUVsb0tnRW53TFlLTUhJVzZFRFlPWnNYcjA2elM1VnlUWHJ6cXFQNW9ZY1NuTmg3M0tfVVBWTzI2UjBnYXVaVHR2Sjh2X2J5UWV5N29JRkFxLWZNcXlIbmhtcFA4OUxSNDBNbWJ0ZXdBZkRoRnBQbkl5bm14YWl0bzJKYVFFeWI0UExCRVBaZW5GNXc?oc=5" target="_blank">Gel des retraites, hausse du coût du travail : le plan du gouvernement pour redresser la Sécu dans le viseur des députés</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
