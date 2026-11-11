@@ -1,7 +1,7 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Wed, 11 Nov 2026 16:59:17 +0000`
-> 120 articles (30 derniers jours)
+> Derniere mise a jour : `Wed, 11 Nov 2026 19:03:15 +0000`
+> 119 articles (30 derniers jours)
 
 ---
 
@@ -954,13 +954,5 @@
 `Mon, 12 Oct 2026 19:30:10 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi9gFBVV95cUxPckMwekphSHFCTXN2N2JsR2J0T1dWamNnNENGcmtSeXdJZmlwdmFqU21BWlpCZDhndnBzMGx5YU54RUUyNDJHY0ttM2VqX0FMdnpTRkZ4TFJIQ3dCUW5GdkRDVm96a1pNNzJicW5NWTdPY0tJVEx0eDJUMmlITmZuYzNBeXJjTU9qTmxrdUx3eGpEQ0tiV1RoZ3VzalNPbmctQUtiYUlZTHRpTzlqODUxamRDbHZtNVNxbmFZS28yZ29DeW1Mc3JLVXViM0tqWmJqZ20wT1gtZU14ZllxM21jRnl2WGpnQkViRXVSdW1fWHJCWWdETkE?oc=5" target="_blank">« Pour beaucoup d'entreprises, l'urgence est de finir l'année » : vers un nouveau record des défaillances en 2026</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Croissance : l'incertitude économique repart fortement à la hausse en France - Les Echos](https://news.google.com/rss/articles/CBMizgFBVV95cUxPYk11RWlYckJMeFdydnhrMjlYeDQzMUpRTXZFMVQzdnBaU3RMaUpmQ1dUVC0zNnMtQURQVjg2Z0Y5VXRVTUh1Z054MXNkS2lramVfMEI0a01iMUdEbktMUHpGNmxXRTJWbUt0cWg4Q0tzRndTMTdySVphMjJwZEF0cHpRRWZSMVk5ZWpkX2tKTzB3ZFAzY2plUDF0SDRsVUdGa2hvWS1DVExqZG8xZ0FXeVkzbmQ5TVg1TmJJTzFGSE1URTk2UjFsamQ2NDdzQQ?oc=5)
-
-`Mon, 12 Oct 2026 18:00:50 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMizgFBVV95cUxPYk11RWlYckJMeFdydnhrMjlYeDQzMUpRTXZFMVQzdnBaU3RMaUpmQ1dUVC0zNnMtQURQVjg2Z0Y5VXRVTUh1Z054MXNkS2lramVfMEI0a01iMUdEbktMUHpGNmxXRTJWbUt0cWg4Q0tzRndTMTdySVphMjJwZEF0cHpRRWZSMVk5ZWpkX2tKTzB3ZFAzY2plUDF0SDRsVUdGa2hvWS1DVExqZG8xZ0FXeVkzbmQ5TVg1TmJJTzFGSE1URTk2UjFsamQ2NDdzQQ?oc=5" target="_blank">Croissance : l'incertitude économique repart fortement à la hausse en France</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
