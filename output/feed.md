@@ -1,7 +1,7 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Wed, 11 Nov 2026 19:03:15 +0000`
-> 119 articles (30 derniers jours)
+> Derniere mise a jour : `Wed, 11 Nov 2026 23:11:11 +0000`
+> 118 articles (30 derniers jours)
 
 ---
 
@@ -946,13 +946,5 @@
 `Tue, 13 Oct 2026 04:10:08 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxOV1VqRjlkY2FmQkRucmZYYnIydlgxdmZ4ODkzOTlfQkdCMjBHakQzZlRveG9RbkhhcGd1QlIzYUZVa09OR05oMEVxUjk3SFlYTFM0NXNYaHhMalJXRnZGOWpnWHNSX0FyR1cwN0Q3NTN5OGtvS0VFajNsUndTZm1xdkpIbk02S1cycDRENC1sSXNadHF2VFU0T3lUakN5UnNMaGJuRHh0LTNFQS04S3hQSzA0NlJmX2REVmNQbndhZ1c2QmNZanVVdA?oc=5" target="_blank">Qui sont-ils, que veulent-ils ? Une photographie inédite des cadres en France</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [« Pour beaucoup d'entreprises, l'urgence est de finir l'année » : vers un nouveau record des défaillances en 2026 - Les Echos](https://news.google.com/rss/articles/CBMi9gFBVV95cUxPckMwekphSHFCTXN2N2JsR2J0T1dWamNnNENGcmtSeXdJZmlwdmFqU21BWlpCZDhndnBzMGx5YU54RUUyNDJHY0ttM2VqX0FMdnpTRkZ4TFJIQ3dCUW5GdkRDVm96a1pNNzJicW5NWTdPY0tJVEx0eDJUMmlITmZuYzNBeXJjTU9qTmxrdUx3eGpEQ0tiV1RoZ3VzalNPbmctQUtiYUlZTHRpTzlqODUxamRDbHZtNVNxbmFZS28yZ29DeW1Mc3JLVXViM0tqWmJqZ20wT1gtZU14ZllxM21jRnl2WGpnQkViRXVSdW1fWHJCWWdETkE?oc=5)
-
-`Mon, 12 Oct 2026 19:30:10 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi9gFBVV95cUxPckMwekphSHFCTXN2N2JsR2J0T1dWamNnNENGcmtSeXdJZmlwdmFqU21BWlpCZDhndnBzMGx5YU54RUUyNDJHY0ttM2VqX0FMdnpTRkZ4TFJIQ3dCUW5GdkRDVm96a1pNNzJicW5NWTdPY0tJVEx0eDJUMmlITmZuYzNBeXJjTU9qTmxrdUx3eGpEQ0tiV1RoZ3VzalNPbmctQUtiYUlZTHRpTzlqODUxamRDbHZtNVNxbmFZS28yZ29DeW1Mc3JLVXViM0tqWmJqZ20wT1gtZU14ZllxM21jRnl2WGpnQkViRXVSdW1fWHJCWWdETkE?oc=5" target="_blank">« Pour beaucoup d'entreprises, l'urgence est de finir l'année » : vers un nouveau record des défaillances en 2026</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
