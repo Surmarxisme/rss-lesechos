@@ -1,7 +1,7 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Wed, 11 Nov 2026 12:59:45 +0000`
-> 121 articles (30 derniers jours)
+> Derniere mise a jour : `Wed, 11 Nov 2026 16:59:17 +0000`
+> 120 articles (30 derniers jours)
 
 ---
 
@@ -962,13 +962,5 @@
 `Mon, 12 Oct 2026 18:00:50 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMizgFBVV95cUxPYk11RWlYckJMeFdydnhrMjlYeDQzMUpRTXZFMVQzdnBaU3RMaUpmQ1dUVC0zNnMtQURQVjg2Z0Y5VXRVTUh1Z054MXNkS2lramVfMEI0a01iMUdEbktMUHpGNmxXRTJWbUt0cWg4Q0tzRndTMTdySVphMjJwZEF0cHpRRWZSMVk5ZWpkX2tKTzB3ZFAzY2plUDF0SDRsVUdGa2hvWS1DVExqZG8xZ0FXeVkzbmQ5TVg1TmJJTzFGSE1URTk2UjFsamQ2NDdzQQ?oc=5" target="_blank">Croissance : l'incertitude économique repart fortement à la hausse en France</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Blocus des lycées, acte V, « gilets jaunes » : à quoi faut-il s'attendre cette semaine ? - Les Echos](https://news.google.com/rss/articles/CBMizAFBVV95cUxNSGl3eWN5QVpjN05PY3hqeVNGSExZN0RWYjVrM0JsMnktakphX2J4UFo4ZW1JWExyM1BWV0N4NFE5WUExeWtlNjZoVlBFc3lBNzJBd1BmQ0RLMlFnbl9ScEpNOEpCNkgyMXB3bDE1dHBqbnRDNHdjdzAtSGxHV2pLbzctMHpHNVk4eS0xaUJxcEU1QkRWV3lNcTMtVkZZcEdoUEp4bEZjYVBfVFo3eHVIbkFReGZIcUFNcmJnYm4xMUFNTl9LSi1fRGphTDQ?oc=5)
-
-`Mon, 12 Oct 2026 15:06:19 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMizAFBVV95cUxNSGl3eWN5QVpjN05PY3hqeVNGSExZN0RWYjVrM0JsMnktakphX2J4UFo4ZW1JWExyM1BWV0N4NFE5WUExeWtlNjZoVlBFc3lBNzJBd1BmQ0RLMlFnbl9ScEpNOEpCNkgyMXB3bDE1dHBqbnRDNHdjdzAtSGxHV2pLbzctMHpHNVk4eS0xaUJxcEU1QkRWV3lNcTMtVkZZcEdoUEp4bEZjYVBfVFo3eHVIbkFReGZIcUFNcmJnYm4xMUFNTl9LSi1fRGphTDQ?oc=5" target="_blank">Blocus des lycées, acte V, « gilets jaunes » : à quoi faut-il s'attendre cette semaine ?</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
