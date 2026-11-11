@@ -1,7 +1,23 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Tue, 10 Nov 2026 22:00:03 +0000`
-> 119 articles (30 derniers jours)
+> Derniere mise a jour : `Wed, 11 Nov 2026 12:59:45 +0000`
+> 121 articles (30 derniers jours)
+
+---
+
+### [Carburants : pourquoi plafonner les prix à la pompe ou baisser la TVA sont des impasses - Les Echos](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQSHgxOTBQQy1jT19zMVVESl92cHUwdHBYRmZtRGFqYmtiT01wVEUwcDZ0OXNqcU5vVF9sZTdTZDRSRVhjSEwzbXFIM1lLMlVYRV9obms3czVnOHhVYjNiYU0zSzVady1kaGUtUmJiQmFMVEk2al9HLWcxWEp3Z1R2TmRMRFBDNE8xbW9EdUFVVkVsOTdWMWd2SHJ5dll6RjNtSWFkeTZPTHM2NVo2ajRRb0E0akl5MGQ3LTVGNWhvcEpaZU53RnNSSzZ4bUJnVUdrMXJBQ1d1MFlkLW10TzVnRFItZVc?oc=5)
+
+`Wed, 11 Nov 2026 06:30:08 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi5AFBVV95cUxQSHgxOTBQQy1jT19zMVVESl92cHUwdHBYRmZtRGFqYmtiT01wVEUwcDZ0OXNqcU5vVF9sZTdTZDRSRVhjSEwzbXFIM1lLMlVYRV9obms3czVnOHhVYjNiYU0zSzVady1kaGUtUmJiQmFMVEk2al9HLWcxWEp3Z1R2TmRMRFBDNE8xbW9EdUFVVkVsOTdWMWd2SHJ5dll6RjNtSWFkeTZPTHM2NVo2ajRRb0E0akl5MGQ3LTVGNWhvcEpaZU53RnNSSzZ4bUJnVUdrMXJBQ1d1MFlkLW10TzVnRFItZVc?oc=5" target="_blank">Carburants : pourquoi plafonner les prix à la pompe ou baisser la TVA sont des impasses</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Finances Publiques : actualités, analyses et vidéos - Les Echos | Page 1042 - Les Echos](https://news.google.com/rss/articles/CBMijgFBVV95cUxOTU9kOXVfX0RpYVAxWEV3blZ4ZVZNQzRMeGRqYnJJdV8xUGlWWTZ5eFgwN0ZTSExwMUVRS3hYVC02cm9qSEs4cW9vWUlWN3FIbkVsMDB4Z2NvTlc3SGVuSFFUTnRfVHdscEw1aTByNVVOd095Q3cyMUZuZDhzVVAtWFc5ZTFwQllEdkZ4NjFB?oc=5)
+
+`Tue, 10 Nov 2026 22:05:53 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMijgFBVV95cUxOTU9kOXVfX0RpYVAxWEV3blZ4ZVZNQzRMeGRqYnJJdV8xUGlWWTZ5eFgwN0ZTSExwMUVRS3hYVC02cm9qSEs4cW9vWUlWN3FIbkVsMDB4Z2NvTlc3SGVuSFFUTnRfVHdscEw1aTByNVVOd095Q3cyMUZuZDhzVVAtWFc5ZTFwQllEdkZ4NjFB?oc=5" target="_blank">Finances Publiques : actualités, analyses et vidéos - Les Echos | Page 1042</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
