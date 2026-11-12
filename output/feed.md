@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Wed, 11 Nov 2026 23:11:11 +0000`
-> 118 articles (30 derniers jours)
+> Derniere mise a jour : `Thu, 12 Nov 2026 14:01:20 +0000`
+> 116 articles (30 derniers jours)
+
+---
+
+### [Hausse du SMIC : un nombre record de branches pourraient avoir des minima inférieurs, calcule la CGT - Les Echos](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZ0g5eWxveTF3RFZRSEk0RmVzVGFZd0lqak1PVEJyczNsUlNTNnQxazNBVXk3MTVTNzVfeHF2SU9jSFR1OXJ5Wm9BSGNndWM2dzcyU19KZFBxM0o5UGZJZlFjdFQ1OXZKUVVnYXZLRmVCN3I2ME4tR3N0eVVNWF9WQ0xjXzF1amtBTkU2ZlI1dVlxS2NSLU5XSFgzZmYwZXZrRDlPMnNZampsZHc3SzUtVjdQQW1IZFlRcGo5UGplcDZkWTI5MnRnSGV3dFZtNWQ0UDNhaTV0X3drZDRrNXhsTUF2dXFmS3c?oc=5)
+
+`Thu, 12 Nov 2026 06:56:20 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZ0g5eWxveTF3RFZRSEk0RmVzVGFZd0lqak1PVEJyczNsUlNTNnQxazNBVXk3MTVTNzVfeHF2SU9jSFR1OXJ5Wm9BSGNndWM2dzcyU19KZFBxM0o5UGZJZlFjdFQ1OXZKUVVnYXZLRmVCN3I2ME4tR3N0eVVNWF9WQ0xjXzF1amtBTkU2ZlI1dVlxS2NSLU5XSFgzZmYwZXZrRDlPMnNZampsZHc3SzUtVjdQQW1IZFlRcGo5UGplcDZkWTI5MnRnSGV3dFZtNWQ0UDNhaTV0X3drZDRrNXhsTUF2dXFmS3c?oc=5" target="_blank">Hausse du SMIC : un nombre record de branches pourraient avoir des minima inférieurs, calcule la CGT</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -922,29 +930,5 @@
 `Tue, 13 Oct 2026 16:00:37 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRVFMUmlFTng5c0ZXLXdYZkh4ZGZwSG1yX0hXdWZ3ZGpjSUo4UWpBdzExRzAzdTJCX3ItUjhhNks3cFRhZXI2RzlTekstckJSRnNsZnA1OW8tQnB3UzNwQ3BLb08yaV9qSzVnRFdKNHI4ZTNjS1JocGlDY0Y4c1dCU0lNSHBpT2VlQk5zMHB6cFRXN3NIVkdCTXBWczJmLUpPVk93UXdheElYdWJGNmlFNm1SZWEzYzdxWENrTzM5eFo?oc=5" target="_blank">Le chiffrage inédit de Bercy sur les aides aux entreprises</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Budget 2027 : sans alliés, le gouvernement entame une longue course d'obstacles à l'Assemblée - Les Echos](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNVEM4NEt3amVyaTU0SmwweW9WVG95aWxfV2RQcldvRVYwSFk4bmpmRDRtaHBOX1pnVWNVUWlSdjN6MnBYdThpdzhSRGxKa3R1U0UtcmhRZ1ZRMGNsQzZQaDVuRmtWeGNKYUVmRlZqYVNMY0RXNUN4UTJHcHpSajVTQzBYZjlwemZZQ2kzd2txdGM4b082ZmlFNmQ3YWc5dF96QndpRl83NjBFTThEZHRGZVI2S0hRVXZ6anV4WkdLbDZfQWpLSnhDa2xrcGlxRlh0OEJDZWFaMEllX3p1Z1pXS3VvelYwU25Q?oc=5)
-
-`Tue, 13 Oct 2026 04:15:09 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi6AFBVV95cUxNVEM4NEt3amVyaTU0SmwweW9WVG95aWxfV2RQcldvRVYwSFk4bmpmRDRtaHBOX1pnVWNVUWlSdjN6MnBYdThpdzhSRGxKa3R1U0UtcmhRZ1ZRMGNsQzZQaDVuRmtWeGNKYUVmRlZqYVNMY0RXNUN4UTJHcHpSajVTQzBYZjlwemZZQ2kzd2txdGM4b082ZmlFNmQ3YWc5dF96QndpRl83NjBFTThEZHRGZVI2S0hRVXZ6anV4WkdLbDZfQWpLSnhDa2xrcGlxRlh0OEJDZWFaMEllX3p1Z1pXS3VvelYwU25Q?oc=5" target="_blank">Budget 2027 : sans alliés, le gouvernement entame une longue course d'obstacles à l'Assemblée</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Chauffage, transport : en France, la spectaculaire baisse des émissions de CO2 - Les Echos](https://news.google.com/rss/articles/CBMizwFBVV95cUxPVUdud3hJc2hEaFJ0NWV0cmhjWmtnU2ZoQ2pFRXl4UGVGLUdzSDFXaVlLV21WeUtpSXd4UWxPSk5nSHQtMzQwcWVDcnBHbUpPRHdBYlFPc3U2MDNveC1YNzdCbnN3NEUyb1ZZbUR5Z3hObzZZOG8zS0FLbUwxZGk2dUE5NG50azVpU0VkZ2cya05KdUh6WFkxMDNScF84MkhRR1BpZEVDb1JZVGZZazlSdnh2MTlOMU1lMlJkWGIwRjVsSWo1ejhxN1MxMng4MVk?oc=5)
-
-`Tue, 13 Oct 2026 05:00:08 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMizwFBVV95cUxPVUdud3hJc2hEaFJ0NWV0cmhjWmtnU2ZoQ2pFRXl4UGVGLUdzSDFXaVlLV21WeUtpSXd4UWxPSk5nSHQtMzQwcWVDcnBHbUpPRHdBYlFPc3U2MDNveC1YNzdCbnN3NEUyb1ZZbUR5Z3hObzZZOG8zS0FLbUwxZGk2dUE5NG50azVpU0VkZ2cya05KdUh6WFkxMDNScF84MkhRR1BpZEVDb1JZVGZZazlSdnh2MTlOMU1lMlJkWGIwRjVsSWo1ejhxN1MxMng4MVk?oc=5" target="_blank">Chauffage, transport : en France, la spectaculaire baisse des émissions de CO2</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Qui sont-ils, que veulent-ils ? Une photographie inédite des cadres en France - Les Echos](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOV1VqRjlkY2FmQkRucmZYYnIydlgxdmZ4ODkzOTlfQkdCMjBHakQzZlRveG9RbkhhcGd1QlIzYUZVa09OR05oMEVxUjk3SFlYTFM0NXNYaHhMalJXRnZGOWpnWHNSX0FyR1cwN0Q3NTN5OGtvS0VFajNsUndTZm1xdkpIbk02S1cycDRENC1sSXNadHF2VFU0T3lUakN5UnNMaGJuRHh0LTNFQS04S3hQSzA0NlJmX2REVmNQbndhZ1c2QmNZanVVdA?oc=5)
-
-`Tue, 13 Oct 2026 04:10:08 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxOV1VqRjlkY2FmQkRucmZYYnIydlgxdmZ4ODkzOTlfQkdCMjBHakQzZlRveG9RbkhhcGd1QlIzYUZVa09OR05oMEVxUjk3SFlYTFM0NXNYaHhMalJXRnZGOWpnWHNSX0FyR1cwN0Q3NTN5OGtvS0VFajNsUndTZm1xdkpIbk02S1cycDRENC1sSXNadHF2VFU0T3lUakN5UnNMaGJuRHh0LTNFQS04S3hQSzA0NlJmX2REVmNQbndhZ1c2QmNZanVVdA?oc=5" target="_blank">Qui sont-ils, que veulent-ils ? Une photographie inédite des cadres en France</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
