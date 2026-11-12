@@ -1,7 +1,23 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Thu, 12 Nov 2026 14:01:20 +0000`
-> 116 articles (30 derniers jours)
+> Derniere mise a jour : `Thu, 12 Nov 2026 17:29:02 +0000`
+> 114 articles (30 derniers jours)
+
+---
+
+### [Immobilier, produits financiers : comment évolue le patrimoine des ménages français - Les Echos](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPV0JLMWNJLVlqY3dzaFgyRHktTnlmTk9fZU5rOTh3cmF6UDA3MzY0ZmE0NVpRZkE1NDY4UnAza0JlMldaMXc5NUdZc21JNU45Y2dhLXJNZVZOZVhHSXBYUENCTHVTVThOc1oybVJWblc5blp3WC1vWWU2MTN1MlAzSV9vR0RLQ0F4Z0RPNFZrdVlpNzluNWs3Ui1Sdl9wekRpcVJwbklMV2pfaV80UjVLamxFZGFuVzZFWVpteDd0RGROb3N1dGZjTlplS084czA5VTZmMlhCOA?oc=5)
+
+`Thu, 12 Nov 2026 16:14:40 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi1wFBVV95cUxPV0JLMWNJLVlqY3dzaFgyRHktTnlmTk9fZU5rOTh3cmF6UDA3MzY0ZmE0NVpRZkE1NDY4UnAza0JlMldaMXc5NUdZc21JNU45Y2dhLXJNZVZOZVhHSXBYUENCTHVTVThOc1oybVJWblc5blp3WC1vWWU2MTN1MlAzSV9vR0RLQ0F4Z0RPNFZrdVlpNzluNWs3Ui1Sdl9wekRpcVJwbklMV2pfaV80UjVLamxFZGFuVzZFWVpteDd0RGROb3N1dGZjTlplS084czA5VTZmMlhCOA?oc=5" target="_blank">Immobilier, produits financiers : comment évolue le patrimoine des ménages français</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Budget 2027 : comment le Sénat veut durcir la copie du gouvernement - Les Echos](https://news.google.com/rss/articles/CBMiygFBVV95cUxOZWNmRGxHb2FmNGNWcDdsTWxEbXpVZGZpMTJRUDdmUFpxNm5vY1dISUxWV3N1b2VKNC1uamxqQ3QtYkZCaGFrNGxMZjlTNHQyUm9mYjBGWU5ETTJnLUUwMG1FZjMzc0loX2w2RGE3NGhZdmZza21QNVBCTkVvd1NDa25YTTZhUmEzTWdwVjNPYWFQUm8zck9ObjVwVUM3Nzc2cDZ6WXpyemtzOTJwa0lodW5CMDVLNV9za2Uyb3FqOVFINDRMWVVFWGtn?oc=5)
+
+`Thu, 12 Nov 2026 17:19:45 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxOZWNmRGxHb2FmNGNWcDdsTWxEbXpVZGZpMTJRUDdmUFpxNm5vY1dISUxWV3N1b2VKNC1uamxqQ3QtYkZCaGFrNGxMZjlTNHQyUm9mYjBGWU5ETTJnLUUwMG1FZjMzc0loX2w2RGE3NGhZdmZza21QNVBCTkVvd1NDa25YTTZhUmEzTWdwVjNPYWFQUm8zck9ObjVwVUM3Nzc2cDZ6WXpyemtzOTJwa0lodW5CMDVLNV9za2Uyb3FqOVFINDRMWVVFWGtn?oc=5" target="_blank">Budget 2027 : comment le Sénat veut durcir la copie du gouvernement</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -898,37 +914,5 @@
 `Wed, 14 Oct 2026 07:06:46 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi1AFBVV95cUxOX2pkWEVHWUNYZXBYNzlNc2ppdk5pb003bFlGY1FTcUFTRnc5Ukg1OVFjVWNmdDVwVWVkUy1weFNFR1hvZmtEZzJnY2x0OWxIbFdMVVFlSFRWVGgxX2VzSzVuR1hTQjd6anhFcnNad1NEQlhJT01HRzVYRUJVbWlrd01DTWdHTjlkWGVnNmV5b01RWDJBZUs2RkQ1SzlqZzZHeUY2aWhOVkUtVGp3a2lGNG1FNGwtdDU4Q2t2NFl6R0lqbGtyWkFFTEtVUmJRVlllbk03aA?oc=5" target="_blank">Croissance : les économistes bien plus pessimistes que le gouvernement pour 2027</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Pourquoi l'empreinte carbone de la France diminue moins vite que les émissions nationales - Les Echos](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUTZVVHFvdTdkT1ZIbjQ0LTZYcm5SMW9PazhSOXBfbTN1Q1hEbTE5eDBKbE9RTnpYODFYcnRJRkZJVFhHM0RleW5EN28yNUUtZzJOMVgzUkxabFFOWHFYV05KX094eWF4aGduRkxyM25ndmhjNmo5UkozaTdIalBWdnpqbEtEZVlpMEE4U3BfMXJaMmM0TDdMQXMtUTVDZl9mVk5CUGlkbGpjR0Fsd0FiblpOTWRfWWZYc0Z3cmxaMWpnX1B3dDEtcllCMThHTW5GVk9ETEdvZ0w5ZnBURGdjdm5R?oc=5)
-
-`Tue, 13 Oct 2026 16:54:21 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUTZVVHFvdTdkT1ZIbjQ0LTZYcm5SMW9PazhSOXBfbTN1Q1hEbTE5eDBKbE9RTnpYODFYcnRJRkZJVFhHM0RleW5EN28yNUUtZzJOMVgzUkxabFFOWHFYV05KX094eWF4aGduRkxyM25ndmhjNmo5UkozaTdIalBWdnpqbEtEZVlpMEE4U3BfMXJaMmM0TDdMQXMtUTVDZl9mVk5CUGlkbGpjR0Fsd0FiblpOTWRfWWZYc0Z3cmxaMWpnX1B3dDEtcllCMThHTW5GVk9ETEdvZ0w5ZnBURGdjdm5R?oc=5" target="_blank">Pourquoi l'empreinte carbone de la France diminue moins vite que les émissions nationales</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Loi intégrale contre les violences sexistes et sexuelles : ce qui change pour les entreprises - Les Echos](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNaVBFZ19NWUdyYktra3JQMmlKMThXSjdoUE83cEg4NGFOT19SWmhETlo2aGI5dXdTWlJsclhOb0RydzhoNS1Ea3NGdlVvX2FuRVViRlJjVVdfN0RBTTJHSG1ILUhsVWYwY2kySDVOeWhoWnZtU2otV2VmSktZaWVtcjZSVnRSYWFTNDMyajBicmtMYUFQd0tBTFotSHJhenp5a1ZJR21maVIzeXFuRU12NGVKY291V3p0aWJORFlSdGhOc0RwdHJoa3lBVXg1WVI3Q0syc3VPelpKRjE1M3c4?oc=5)
-
-`Tue, 13 Oct 2026 16:37:07 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi3wFBVV95cUxNaVBFZ19NWUdyYktra3JQMmlKMThXSjdoUE83cEg4NGFOT19SWmhETlo2aGI5dXdTWlJsclhOb0RydzhoNS1Ea3NGdlVvX2FuRVViRlJjVVdfN0RBTTJHSG1ILUhsVWYwY2kySDVOeWhoWnZtU2otV2VmSktZaWVtcjZSVnRSYWFTNDMyajBicmtMYUFQd0tBTFotSHJhenp5a1ZJR21maVIzeXFuRU12NGVKY291V3p0aWJORFlSdGhOc0RwdHJoa3lBVXg1WVI3Q0syc3VPelpKRjE1M3c4?oc=5" target="_blank">Loi intégrale contre les violences sexistes et sexuelles : ce qui change pour les entreprises</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Retraites des fonctionnaires : Bercy pointe un « effet d'éviction » sur les dépenses consacrées aux services publics - Les Echos](https://news.google.com/rss/articles/CBMihAJBVV95cUxPcEVOT3FoUXpGSDFrcUsyTkRsWklJRW1USVBZNTV1enBRbHRXZHkwR2tmMV9MZUZZeFVoSWtRUHR5WkhtZFNzWG8tV2I3NnBjd24tMVlLdGhTaEN5bjU3bXFwUGRIODZBd3hCb0NIUXMycFRiNERyYmxTcXRqT000dW9jMFBKNEZEZmV1NDFNdzFpSW5HZ0poVVBqdk0xX0FzWE02Q0EtVmdwczZQQXphdEgydDhNdTk3VWV1Y2hPTHU0UE04OFNHa29CazUzMmRZWTI4UnpjUjNKdUR3S2FxaXhPSkhKbXdTX0cyenRidkkySlR0aktmeWFYbFRON0RnblNBYg?oc=5)
-
-`Tue, 13 Oct 2026 15:47:18 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMihAJBVV95cUxPcEVOT3FoUXpGSDFrcUsyTkRsWklJRW1USVBZNTV1enBRbHRXZHkwR2tmMV9MZUZZeFVoSWtRUHR5WkhtZFNzWG8tV2I3NnBjd24tMVlLdGhTaEN5bjU3bXFwUGRIODZBd3hCb0NIUXMycFRiNERyYmxTcXRqT000dW9jMFBKNEZEZmV1NDFNdzFpSW5HZ0poVVBqdk0xX0FzWE02Q0EtVmdwczZQQXphdEgydDhNdTk3VWV1Y2hPTHU0UE04OFNHa29CazUzMmRZWTI4UnpjUjNKdUR3S2FxaXhPSkhKbXdTX0cyenRidkkySlR0aktmeWFYbFRON0RnblNBYg?oc=5" target="_blank">Retraites des fonctionnaires : Bercy pointe un « effet d'éviction » sur les dépenses consacrées aux services publics</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Le chiffrage inédit de Bercy sur les aides aux entreprises - Les Echos](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRVFMUmlFTng5c0ZXLXdYZkh4ZGZwSG1yX0hXdWZ3ZGpjSUo4UWpBdzExRzAzdTJCX3ItUjhhNks3cFRhZXI2RzlTekstckJSRnNsZnA1OW8tQnB3UzNwQ3BLb08yaV9qSzVnRFdKNHI4ZTNjS1JocGlDY0Y4c1dCU0lNSHBpT2VlQk5zMHB6cFRXN3NIVkdCTXBWczJmLUpPVk93UXdheElYdWJGNmlFNm1SZWEzYzdxWENrTzM5eFo?oc=5)
-
-`Tue, 13 Oct 2026 16:00:37 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRVFMUmlFTng5c0ZXLXdYZkh4ZGZwSG1yX0hXdWZ3ZGpjSUo4UWpBdzExRzAzdTJCX3ItUjhhNks3cFRhZXI2RzlTekstckJSRnNsZnA1OW8tQnB3UzNwQ3BLb08yaV9qSzVnRFdKNHI4ZTNjS1JocGlDY0Y4c1dCU0lNSHBpT2VlQk5zMHB6cFRXN3NIVkdCTXBWczJmLUpPVk93UXdheElYdWJGNmlFNm1SZWEzYzdxWENrTzM5eFo?oc=5" target="_blank">Le chiffrage inédit de Bercy sur les aides aux entreprises</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
