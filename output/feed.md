@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Thu, 12 Nov 2026 17:29:02 +0000`
-> 114 articles (30 derniers jours)
+> Derniere mise a jour : `Thu, 12 Nov 2026 19:22:00 +0000`
+> 115 articles (30 derniers jours)
+
+---
+
+### [Coût du travail : comment le gouvernement pourrait rebattre les cartes - Les Echos](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRkxRLWlZNEJWNll0dkhFeXRwcWtqcHU5NzlTVFdjdGFkMHJhQnpCVzR2Q0ZQVHR1YUFkZzdwbjlXZDRyeWJiMllVNG9GMkl4Wm5wcV84VWhrX1hFcy1pOXlwUmhpUDNxQlVSNTJDd2VZdlNkMXJKY1lPWTV2eEUxbi1aekx3TWhPLVIwSGpvNEc5cTU3U3laX2VHRGlEWkM3Y1d2dlhHMmRpWkM1ZEM5WWw3amhnOGF1Z1NKRVVETWU?oc=5)
+
+`Thu, 12 Nov 2026 17:54:23 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRkxRLWlZNEJWNll0dkhFeXRwcWtqcHU5NzlTVFdjdGFkMHJhQnpCVzR2Q0ZQVHR1YUFkZzdwbjlXZDRyeWJiMllVNG9GMkl4Wm5wcV84VWhrX1hFcy1pOXlwUmhpUDNxQlVSNTJDd2VZdlNkMXJKY1lPWTV2eEUxbi1aekx3TWhPLVIwSGpvNEc5cTU3U3laX2VHRGlEWkM3Y1d2dlhHMmRpWkM1ZEM5WWw3amhnOGF1Z1NKRVVETWU?oc=5" target="_blank">Coût du travail : comment le gouvernement pourrait rebattre les cartes</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
