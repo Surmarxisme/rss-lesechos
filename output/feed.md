@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Fri, 13 Nov 2026 17:03:17 +0000`
-> 113 articles (30 derniers jours)
+> Derniere mise a jour : `Fri, 13 Nov 2026 18:59:27 +0000`
+> 114 articles (30 derniers jours)
+
+---
+
+### [Pouvoir d'achat : malgré le geste de Lecornu, les syndicats de fonctionnaires maintiennent la pression - Les Echos](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOa0EzbURMSVhLR1c2eFl3ZVVPWTFQRWtZWXF3dk9NaXpVcS10bVpIcW9JeUlEekFOZVlnUGpzeUx5c0UtOFNwSTVkUjc1MXlYM2drQ1RXT2RPN2ttWXg2RGVoVFMwNlNsSG1GRFNJaXdNWjY1aGhfTmF3X2JLdWJLcjhLTDQ0TWJXWWZ2NVdZTFBjay1VYzh6T2xiX3MxMjFrX294ek5ReVp4VldsalAyVmdZM1VyZ0lDb2syMExhcXptamhzQnFEbS1adGxRVWlGRXdnTkk4QU9RLXBvb2lKR2F3bGJQQ2xm?oc=5)
+
+`Fri, 13 Nov 2026 17:06:24 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi6AFBVV95cUxOa0EzbURMSVhLR1c2eFl3ZVVPWTFQRWtZWXF3dk9NaXpVcS10bVpIcW9JeUlEekFOZVlnUGpzeUx5c0UtOFNwSTVkUjc1MXlYM2drQ1RXT2RPN2ttWXg2RGVoVFMwNlNsSG1GRFNJaXdNWjY1aGhfTmF3X2JLdWJLcjhLTDQ0TWJXWWZ2NVdZTFBjay1VYzh6T2xiX3MxMjFrX294ek5ReVp4VldsalAyVmdZM1VyZ0lDb2syMExhcXptamhzQnFEbS1adGxRVWlGRXdnTkk4QU9RLXBvb2lKR2F3bGJQQ2xm?oc=5" target="_blank">Pouvoir d'achat : malgré le geste de Lecornu, les syndicats de fonctionnaires maintiennent la pression</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
