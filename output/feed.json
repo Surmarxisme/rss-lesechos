@@ -2,10 +2,19 @@
   "source": "Les Echos - Economie France",
   "source_url": "https://www.lesechos.fr/economie-france",
   "language": "fr-FR",
-  "last_fetched": "Fri, 13 Nov 2026 13:28:09 +0000",
-  "total_items": 114,
+  "last_fetched": "Fri, 13 Nov 2026 17:03:17 +0000",
+  "total_items": 113,
   "new_items_this_run": 1,
   "articles": [
+    {
+      "id": "CBMigAJBVV95cUxPZWRkc0VhcS01VXNsYmkwMHhWaTRzNzlFX09peUxUeHRMVHBua3BfTHdOWHdGUm5HbGktUk1wdEdzX1J6bkN4NHhFYXJ5TWpYRjNUTEJpR01uOFY0Sllka1VZNkpaN3VBZDNfSFp5c0RIYUU2NC1WTk53QlZsQzdnaEIzWlB1Z2F3eWEtZ1dGZkNpVlVxVGhWUDk5ZXlZbG51MzFZVWp0ZEZFTGdzZURDVFdhMkRDdXhxc3NsaW40cUVKOGZDN2tIN3MxRUh2bnhBVmJtbUZPZjJ4R0daOHdmSTV3QWlCTkVEZ0x6TUJHV29lejFaZ254MVNhWUNBTUFY",
+      "title": "« J'essaie d'économiser » : la flambée des prix fait subir un plongeon historique à la consommation de fioul domestique - Les Echos",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMigAJBVV95cUxPZWRkc0VhcS01VXNsYmkwMHhWaTRzNzlFX09peUxUeHRMVHBua3BfTHdOWHdGUm5HbGktUk1wdEdzX1J6bkN4NHhFYXJ5TWpYRjNUTEJpR01uOFY0Sllka1VZNkpaN3VBZDNfSFp5c0RIYUU2NC1WTk53QlZsQzdnaEIzWlB1Z2F3eWEtZ1dGZkNpVlVxVGhWUDk5ZXlZbG51MzFZVWp0ZEZFTGdzZURDVFdhMkRDdXhxc3NsaW40cUVKOGZDN2tIN3MxRUh2bnhBVmJtbUZPZjJ4R0daOHdmSTV3QWlCTkVEZ0x6TUJHV29lejFaZ254MVNhWUNBTUFY?oc=5\" target=\"_blank\">« J'essaie d'économiser » : la flambée des prix fait subir un plongeon historique à la consommation de fioul domestique</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Les Echos</font>",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPZWRkc0VhcS01VXNsYmkwMHhWaTRzNzlFX09peUxUeHRMVHBua3BfTHdOWHdGUm5HbGktUk1wdEdzX1J6bkN4NHhFYXJ5TWpYRjNUTEJpR01uOFY0Sllka1VZNkpaN3VBZDNfSFp5c0RIYUU2NC1WTk53QlZsQzdnaEIzWlB1Z2F3eWEtZ1dGZkNpVlVxVGhWUDk5ZXlZbG51MzFZVWp0ZEZFTGdzZURDVFdhMkRDdXhxc3NsaW40cUVKOGZDN2tIN3MxRUh2bnhBVmJtbUZPZjJ4R0daOHdmSTV3QWlCTkVEZ0x6TUJHV29lejFaZ254MVNhWUNBTUFY?oc=5",
+      "source": "Les Echos",
+      "pub_date": "Fri, 13 Nov 2026 16:39:48 GMT",
+      "pub_date_iso": "2026-11-13T16:39:48+00:00"
+    },
     {
       "id": "CBMi8AFBVV95cUxOLUU3Rkxpd0ZxU2k2QklNOWdWbFRTNnEwZDR6c19rekdkdWhoRk1RZmljdVRVa2pDckoxS3MwM25xZ1BFaE5GUXE3cWRVR3p4YXduTnEyLTVTZDI3Vk5wMVU3dGZib1N4QTV5emlaNEpOWFJfOXU2MTVsQTdETXgzMElBUTJlNlByenowdlJuTGk2ZzBMWm90OF9yQmdhNkJ2Yk5sSGtRbGpTQVJWUDctcUFlNWJOb3VLX1ZManVvSGVFRm9GdFJfeUJEbWJvZ2JfOFprd1EzQmcwR0dxdkhFYW4xNG5mNGwwX0I2X3BONTk",
       "title": "Christian Noyer : « La France a la capacité de rétablir la confiance assez rapidement sur sa dette - Les Echos",
@@ -1013,24 +1022,6 @@
       "source": "Les Echos",
       "pub_date": "Thu, 15 Oct 2026 08:00:09 GMT",
       "pub_date_iso": "2026-10-15T08:00:09+00:00"
-    },
-    {
-      "id": "CBMi0gFBVV95cUxPTmQwNEVTN1FKTElaQWhvZ1Y0aUpqQ3l5Ym5hcFlOS084QTFtcGh3S0VKMEw1Rnd3LXdNLWd0a1RfMW1INFpCUTFKWWF1YnBwYV9iM25oQlRjTjdKVExMQlozOWlnU25faGJxQVhsX29NMVlZYi1lWXhCR0p0VHdfSXFMZWlHOVlyNnVsX3k0T2d1bkVwWXR3UnNLaGxFcjFzamVRZ2NRMkt4UEZZLUU1THhFMXA4MzBBR0RrVXY3M2JhSkFvbENNb25uSFJTLUdOa1E",
-      "title": "Agirc-Arrco : les retraites complémentaires revalorisées de 1,4 % à partir de novembre - Les Echos",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTmQwNEVTN1FKTElaQWhvZ1Y0aUpqQ3l5Ym5hcFlOS084QTFtcGh3S0VKMEw1Rnd3LXdNLWd0a1RfMW1INFpCUTFKWWF1YnBwYV9iM25oQlRjTjdKVExMQlozOWlnU25faGJxQVhsX29NMVlZYi1lWXhCR0p0VHdfSXFMZWlHOVlyNnVsX3k0T2d1bkVwWXR3UnNLaGxFcjFzamVRZ2NRMkt4UEZZLUU1THhFMXA4MzBBR0RrVXY3M2JhSkFvbENNb25uSFJTLUdOa1E?oc=5\" target=\"_blank\">Agirc-Arrco : les retraites complémentaires revalorisées de 1,4 % à partir de novembre</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Les Echos</font>",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTmQwNEVTN1FKTElaQWhvZ1Y0aUpqQ3l5Ym5hcFlOS084QTFtcGh3S0VKMEw1Rnd3LXdNLWd0a1RfMW1INFpCUTFKWWF1YnBwYV9iM25oQlRjTjdKVExMQlozOWlnU25faGJxQVhsX29NMVlZYi1lWXhCR0p0VHdfSXFMZWlHOVlyNnVsX3k0T2d1bkVwWXR3UnNLaGxFcjFzamVRZ2NRMkt4UEZZLUU1THhFMXA4MzBBR0RrVXY3M2JhSkFvbENNb25uSFJTLUdOa1E?oc=5",
-      "source": "Les Echos",
-      "pub_date": "Wed, 14 Oct 2026 16:17:50 GMT",
-      "pub_date_iso": "2026-10-14T16:17:50+00:00"
-    },
-    {
-      "id": "CBMiwAFBVV95cUxNQ0VrZGNBcEU2Q0g0QVpQTVlWSTZIVHVNODNBU0VQZHQ5ODNUNFRYV1JpYmNvUWNLSUd2OEVic2lyR1p1YkNOdzFLdlFUdDJEMG1JV2ZVQ01tODIzak9HUjY4UmJaQWoyMGZNV19tZHluaGlZWTFTZlp2YnJHck9VSjRFd1VSVjZaYTAwbS1EOWpTY0FJZVdBN2hDTnZ5Zk95emJyME44QWo5UFdTUDlLNC1JQkdMOV9pTWVJQ0pNUDE",
-      "title": "Budget 2027 : « L'aveuglement de nombreux députés est effrayant » - Les Echos",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQ0VrZGNBcEU2Q0g0QVpQTVlWSTZIVHVNODNBU0VQZHQ5ODNUNFRYV1JpYmNvUWNLSUd2OEVic2lyR1p1YkNOdzFLdlFUdDJEMG1JV2ZVQ01tODIzak9HUjY4UmJaQWoyMGZNV19tZHluaGlZWTFTZlp2YnJHck9VSjRFd1VSVjZaYTAwbS1EOWpTY0FJZVdBN2hDTnZ5Zk95emJyME44QWo5UFdTUDlLNC1JQkdMOV9pTWVJQ0pNUDE?oc=5\" target=\"_blank\">Budget 2027 : « L'aveuglement de nombreux députés est effrayant »</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Les Echos</font>",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQ0VrZGNBcEU2Q0g0QVpQTVlWSTZIVHVNODNBU0VQZHQ5ODNUNFRYV1JpYmNvUWNLSUd2OEVic2lyR1p1YkNOdzFLdlFUdDJEMG1JV2ZVQ01tODIzak9HUjY4UmJaQWoyMGZNV19tZHluaGlZWTFTZlp2YnJHck9VSjRFd1VSVjZaYTAwbS1EOWpTY0FJZVdBN2hDTnZ5Zk95emJyME44QWo5UFdTUDlLNC1JQkdMOV9pTWVJQ0pNUDE?oc=5",
-      "source": "Les Echos",
-      "pub_date": "Wed, 14 Oct 2026 14:44:20 GMT",
-      "pub_date_iso": "2026-10-14T14:44:20+00:00"
     }
   ]
 }

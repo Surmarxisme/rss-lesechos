@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Fri, 13 Nov 2026 13:28:09 +0000`
-> 114 articles (30 derniers jours)
+> Derniere mise a jour : `Fri, 13 Nov 2026 17:03:17 +0000`
+> 113 articles (30 derniers jours)
+
+---
+
+### [« J'essaie d'économiser » : la flambée des prix fait subir un plongeon historique à la consommation de fioul domestique - Les Echos](https://news.google.com/rss/articles/CBMigAJBVV95cUxPZWRkc0VhcS01VXNsYmkwMHhWaTRzNzlFX09peUxUeHRMVHBua3BfTHdOWHdGUm5HbGktUk1wdEdzX1J6bkN4NHhFYXJ5TWpYRjNUTEJpR01uOFY0Sllka1VZNkpaN3VBZDNfSFp5c0RIYUU2NC1WTk53QlZsQzdnaEIzWlB1Z2F3eWEtZ1dGZkNpVlVxVGhWUDk5ZXlZbG51MzFZVWp0ZEZFTGdzZURDVFdhMkRDdXhxc3NsaW40cUVKOGZDN2tIN3MxRUh2bnhBVmJtbUZPZjJ4R0daOHdmSTV3QWlCTkVEZ0x6TUJHV29lejFaZ254MVNhWUNBTUFY?oc=5)
+
+`Fri, 13 Nov 2026 16:39:48 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMigAJBVV95cUxPZWRkc0VhcS01VXNsYmkwMHhWaTRzNzlFX09peUxUeHRMVHBua3BfTHdOWHdGUm5HbGktUk1wdEdzX1J6bkN4NHhFYXJ5TWpYRjNUTEJpR01uOFY0Sllka1VZNkpaN3VBZDNfSFp5c0RIYUU2NC1WTk53QlZsQzdnaEIzWlB1Z2F3eWEtZ1dGZkNpVlVxVGhWUDk5ZXlZbG51MzFZVWp0ZEZFTGdzZURDVFdhMkRDdXhxc3NsaW40cUVKOGZDN2tIN3MxRUh2bnhBVmJtbUZPZjJ4R0daOHdmSTV3QWlCTkVEZ0x6TUJHV29lejFaZ254MVNhWUNBTUFY?oc=5" target="_blank">« J'essaie d'économiser » : la flambée des prix fait subir un plongeon historique à la consommation de fioul domestique</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -898,21 +906,5 @@
 `Thu, 15 Oct 2026 08:00:09 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi-AFBVV95cUxOX2dqNjFBcGFtSXhpdHNzaG52eDdVZkNEV3pYYTllbVNVbXY4dXhGRVh4UVd5VXNUdU84WWVXbmRBT2N5eGxHMFVFMEZ3c1c0LUVpeHVicGZsRThyZnVMXzZtdFJET095WGFnRVhaYWl6bzVwWkxfOUwxeXJhQ1FQTmw5R3JsblZUTDZiQmQ3ZllReDFlYjNUdnBPMml0MWZiVWQ5SjZXb0xURTgySkZvUTlQTWN6SzUzRC1FNHJNRHQwYUI5am1FWDJjMENDOFVxQURjMjBTVFpWSzFvQVZ1MUpRZXJpczk5VEUzWGtmZ1NQVVNlbmkxbw?oc=5" target="_blank">EXCLUSIF - « L'entreprise est un refuge » : les salariés affichent leur confiance mais méconnaissent le dialogue social</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Agirc-Arrco : les retraites complémentaires revalorisées de 1,4 % à partir de novembre - Les Echos](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTmQwNEVTN1FKTElaQWhvZ1Y0aUpqQ3l5Ym5hcFlOS084QTFtcGh3S0VKMEw1Rnd3LXdNLWd0a1RfMW1INFpCUTFKWWF1YnBwYV9iM25oQlRjTjdKVExMQlozOWlnU25faGJxQVhsX29NMVlZYi1lWXhCR0p0VHdfSXFMZWlHOVlyNnVsX3k0T2d1bkVwWXR3UnNLaGxFcjFzamVRZ2NRMkt4UEZZLUU1THhFMXA4MzBBR0RrVXY3M2JhSkFvbENNb25uSFJTLUdOa1E?oc=5)
-
-`Wed, 14 Oct 2026 16:17:50 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTmQwNEVTN1FKTElaQWhvZ1Y0aUpqQ3l5Ym5hcFlOS084QTFtcGh3S0VKMEw1Rnd3LXdNLWd0a1RfMW1INFpCUTFKWWF1YnBwYV9iM25oQlRjTjdKVExMQlozOWlnU25faGJxQVhsX29NMVlZYi1lWXhCR0p0VHdfSXFMZWlHOVlyNnVsX3k0T2d1bkVwWXR3UnNLaGxFcjFzamVRZ2NRMkt4UEZZLUU1THhFMXA4MzBBR0RrVXY3M2JhSkFvbENNb25uSFJTLUdOa1E?oc=5" target="_blank">Agirc-Arrco : les retraites complémentaires revalorisées de 1,4 % à partir de novembre</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Budget 2027 : « L'aveuglement de nombreux députés est effrayant » - Les Echos](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQ0VrZGNBcEU2Q0g0QVpQTVlWSTZIVHVNODNBU0VQZHQ5ODNUNFRYV1JpYmNvUWNLSUd2OEVic2lyR1p1YkNOdzFLdlFUdDJEMG1JV2ZVQ01tODIzak9HUjY4UmJaQWoyMGZNV19tZHluaGlZWTFTZlp2YnJHck9VSjRFd1VSVjZaYTAwbS1EOWpTY0FJZVdBN2hDTnZ5Zk95emJyME44QWo5UFdTUDlLNC1JQkdMOV9pTWVJQ0pNUDE?oc=5)
-
-`Wed, 14 Oct 2026 14:44:20 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQ0VrZGNBcEU2Q0g0QVpQTVlWSTZIVHVNODNBU0VQZHQ5ODNUNFRYV1JpYmNvUWNLSUd2OEVic2lyR1p1YkNOdzFLdlFUdDJEMG1JV2ZVQ01tODIzak9HUjY4UmJaQWoyMGZNV19tZHluaGlZWTFTZlp2YnJHck9VSjRFd1VSVjZaYTAwbS1EOWpTY0FJZVdBN2hDTnZ5Zk95emJyME44QWo5UFdTUDlLNC1JQkdMOV9pTWVJQ0pNUDE?oc=5" target="_blank">Budget 2027 : « L'aveuglement de nombreux députés est effrayant »</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
