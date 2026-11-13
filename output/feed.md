@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Thu, 12 Nov 2026 22:28:41 +0000`
-> 115 articles (30 derniers jours)
+> Derniere mise a jour : `Fri, 13 Nov 2026 13:28:09 +0000`
+> 114 articles (30 derniers jours)
+
+---
+
+### [Christian Noyer : « La France a la capacité de rétablir la confiance assez rapidement sur sa dette - Les Echos](https://news.google.com/rss/articles/CBMi8AFBVV95cUxOLUU3Rkxpd0ZxU2k2QklNOWdWbFRTNnEwZDR6c19rekdkdWhoRk1RZmljdVRVa2pDckoxS3MwM25xZ1BFaE5GUXE3cWRVR3p4YXduTnEyLTVTZDI3Vk5wMVU3dGZib1N4QTV5emlaNEpOWFJfOXU2MTVsQTdETXgzMElBUTJlNlByenowdlJuTGk2ZzBMWm90OF9yQmdhNkJ2Yk5sSGtRbGpTQVJWUDctcUFlNWJOb3VLX1ZManVvSGVFRm9GdFJfeUJEbWJvZ2JfOFprd1EzQmcwR0dxdkhFYW4xNG5mNGwwX0I2X3BONTk?oc=5)
+
+`Fri, 13 Nov 2026 06:00:09 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi8AFBVV95cUxOLUU3Rkxpd0ZxU2k2QklNOWdWbFRTNnEwZDR6c19rekdkdWhoRk1RZmljdVRVa2pDckoxS3MwM25xZ1BFaE5GUXE3cWRVR3p4YXduTnEyLTVTZDI3Vk5wMVU3dGZib1N4QTV5emlaNEpOWFJfOXU2MTVsQTdETXgzMElBUTJlNlByenowdlJuTGk2ZzBMWm90OF9yQmdhNkJ2Yk5sSGtRbGpTQVJWUDctcUFlNWJOb3VLX1ZManVvSGVFRm9GdFJfeUJEbWJvZ2JfOFprd1EzQmcwR0dxdkhFYW4xNG5mNGwwX0I2X3BONTk?oc=5" target="_blank">Christian Noyer : « La France a la capacité de rétablir la confiance assez rapidement sur sa dette</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -906,21 +914,5 @@
 `Wed, 14 Oct 2026 14:44:20 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQ0VrZGNBcEU2Q0g0QVpQTVlWSTZIVHVNODNBU0VQZHQ5ODNUNFRYV1JpYmNvUWNLSUd2OEVic2lyR1p1YkNOdzFLdlFUdDJEMG1JV2ZVQ01tODIzak9HUjY4UmJaQWoyMGZNV19tZHluaGlZWTFTZlp2YnJHck9VSjRFd1VSVjZaYTAwbS1EOWpTY0FJZVdBN2hDTnZ5Zk95emJyME44QWo5UFdTUDlLNC1JQkdMOV9pTWVJQ0pNUDE?oc=5" target="_blank">Budget 2027 : « L'aveuglement de nombreux députés est effrayant »</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Ce que coûte la fraude à l'impôt sur les sociétés et quelles entreprises trichent le plus - Les Echos](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQeEZLV3p3ZWJOcmJ2OVZHb1hWdFZUcGNrbjhkTU9zMmpoZlpBNWdlbXZ6N1Bra0ZFVjJNUFdSbnF2a1lnSURLUFY5ZTBRamJTY0dvV0prY1pXSDctRi1hOXJzVFVOb1pRMUFtY0E2RktrdE5WaElCaGpoa1oyeHF1SDUzNVo5Q1ZVb1NhYWpyV3Q2V0tvRVhwZFZ5cDNnTWoxbFhMc3BQX2M1M1RuMUNXMjBDR3ZycHlBU2NmQzk1X3EyNW9qNDV2TUJxaURnUDdhUVpNT2hWN0xCX3h1V0NuQTAxU2ZVbHln?oc=5)
-
-`Wed, 14 Oct 2026 13:11:58 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi6AFBVV95cUxQeEZLV3p3ZWJOcmJ2OVZHb1hWdFZUcGNrbjhkTU9zMmpoZlpBNWdlbXZ6N1Bra0ZFVjJNUFdSbnF2a1lnSURLUFY5ZTBRamJTY0dvV0prY1pXSDctRi1hOXJzVFVOb1pRMUFtY0E2RktrdE5WaElCaGpoa1oyeHF1SDUzNVo5Q1ZVb1NhYWpyV3Q2V0tvRVhwZFZ5cDNnTWoxbFhMc3BQX2M1M1RuMUNXMjBDR3ZycHlBU2NmQzk1X3EyNW9qNDV2TUJxaURnUDdhUVpNT2hWN0xCX3h1V0NuQTAxU2ZVbHln?oc=5" target="_blank">Ce que coûte la fraude à l'impôt sur les sociétés et quelles entreprises trichent le plus</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Croissance : les économistes bien plus pessimistes que le gouvernement pour 2027 - Les Echos](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOX2pkWEVHWUNYZXBYNzlNc2ppdk5pb003bFlGY1FTcUFTRnc5Ukg1OVFjVWNmdDVwVWVkUy1weFNFR1hvZmtEZzJnY2x0OWxIbFdMVVFlSFRWVGgxX2VzSzVuR1hTQjd6anhFcnNad1NEQlhJT01HRzVYRUJVbWlrd01DTWdHTjlkWGVnNmV5b01RWDJBZUs2RkQ1SzlqZzZHeUY2aWhOVkUtVGp3a2lGNG1FNGwtdDU4Q2t2NFl6R0lqbGtyWkFFTEtVUmJRVlllbk03aA?oc=5)
-
-`Wed, 14 Oct 2026 07:06:46 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi1AFBVV95cUxOX2pkWEVHWUNYZXBYNzlNc2ppdk5pb003bFlGY1FTcUFTRnc5Ukg1OVFjVWNmdDVwVWVkUy1weFNFR1hvZmtEZzJnY2x0OWxIbFdMVVFlSFRWVGgxX2VzSzVuR1hTQjd6anhFcnNad1NEQlhJT01HRzVYRUJVbWlrd01DTWdHTjlkWGVnNmV5b01RWDJBZUs2RkQ1SzlqZzZHeUY2aWhOVkUtVGp3a2lGNG1FNGwtdDU4Q2t2NFl6R0lqbGtyWkFFTEtVUmJRVlllbk03aA?oc=5" target="_blank">Croissance : les économistes bien plus pessimistes que le gouvernement pour 2027</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
