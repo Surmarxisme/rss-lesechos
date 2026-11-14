@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Fri, 13 Nov 2026 22:16:05 +0000`
-> 114 articles (30 derniers jours)
+> Derniere mise a jour : `Sat, 14 Nov 2026 15:39:12 +0000`
+> 110 articles (30 derniers jours)
+
+---
+
+### [C'est quoi la TVA sociale ? - Les Echos](https://news.google.com/rss/articles/CBMikwFBVV95cUxPZVFid1RMRHFFSTJoRVY1Z1QzOUk5alVzRzBSWTlYeHZZTW1YZmxUR0tQLVJxQVp4NG1PY0VFY0dNQlZRZmRwTGtsVk9xalpaQXVfU0VtamNoQXExRlI2RjByQUdTQVFrQVhEb0czcVRrM2xXOElqRXRDMjRSQ3Y2NDZyZ0JfWUtXVEFPenhPN3dTRVk?oc=5)
+
+`Sat, 14 Nov 2026 09:00:08 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMikwFBVV95cUxPZVFid1RMRHFFSTJoRVY1Z1QzOUk5alVzRzBSWTlYeHZZTW1YZmxUR0tQLVJxQVp4NG1PY0VFY0dNQlZRZmRwTGtsVk9xalpaQXVfU0VtamNoQXExRlI2RjByQUdTQVFrQVhEb0czcVRrM2xXOElqRXRDMjRSQ3Y2NDZyZ0JfWUtXVEFPenhPN3dTRVk?oc=5" target="_blank">C'est quoi la TVA sociale ?</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -874,45 +882,5 @@
 `Thu, 15 Oct 2026 16:23:05 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi_gFBVV95cUxPNm9KZ1liLXdPSGZOdHV3b05uZFk3OGZlVkZkUnJUNFprbTdUVHQtd0xxa0F5VmE5QzFKV2RacGZ6QXozT215LTB1V28yYXIzbVpQZ3NxYmhmUkZQNGd0d084a2I0ZEtTajU3LXZha05sdEhwTWg5RnYyZEp6SUR5c3prUEpxR1JubDA0LTRxdFVIelRUWHl4eTFGTzBWc2ZGQVBwRm1ISVhwMTMtcVNiVFNWSlVTYldOZ1JRWkEwMVYySUNBNTJGVHNDSTZ5WDdnSnlaLUJrUlF0UHJ3a2s3bnp2aXE3STNnYVlwdGRIa0RiRVFEaTJmQU8yX0hCQQ?oc=5" target="_blank">SONDAGE EXCLUSIF - Une courte majorité de Français favorable à l'adoption du budget 2027 malgré ses défauts</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Budget 2027 : les députés préservent l'abattement fiscal des retraités - Les Echos](https://news.google.com/rss/articles/CBMizAFBVV95cUxPV081Smdpc3VjUmFjZk5adzhrNGFBUGxWVS1vUi16SHUxajR5aDZUMVBURUJZd0JydmlBTWhidTNHZkdhRjhSVmxHVWpfTmw1WlM0Vk5IUEpWeUpld1psNTJsbXpxaFZpYTBvWUQ0empybUx1NDVCWTI4eV80aFZ6eVZYVFFTb2IxTkNoNWw5WGJPcGdDTnNESV9kVUpNUjVCWURBSXdjQUVnLWpVMDFPcGllVDFNZTRRY0lnOXNlZjRhUWgxNzd2ZGRSUTI?oc=5)
-
-`Thu, 15 Oct 2026 10:46:05 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMizAFBVV95cUxPV081Smdpc3VjUmFjZk5adzhrNGFBUGxWVS1vUi16SHUxajR5aDZUMVBURUJZd0JydmlBTWhidTNHZkdhRjhSVmxHVWpfTmw1WlM0Vk5IUEpWeUpld1psNTJsbXpxaFZpYTBvWUQ0empybUx1NDVCWTI4eV80aFZ6eVZYVFFTb2IxTkNoNWw5WGJPcGdDTnNESV9kVUpNUjVCWURBSXdjQUVnLWpVMDFPcGllVDFNZTRRY0lnOXNlZjRhUWgxNzd2ZGRSUTI?oc=5" target="_blank">Budget 2027 : les députés préservent l'abattement fiscal des retraités</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Fonction publique : l'absentéisme pour raisons de santé se stabilise - Les Echos](https://news.google.com/rss/articles/CBMivAFBVV95cUxQbDF2UnI4WVlZS25BWDNkXzJhVHFmcTNYLVNKSW9Vb0owODhiSm01bFczYl9xaHZKelJZQmV2YUN3UHljbnVwQ0tVc09uOXNZM01lWkdmM24yYXl2eUc0Mk1RY1oxOURHSjNaZDFzYUZWcTVBOUx1ZU1OSXdnMkliVk1qY2dOckFaZEo0ZnZVS0hvQW9RSExFVF9qZzdpSHpiNGxYUzFqZTA1YkZSR292M0RjQjBDVUZqQzZsQg?oc=5)
-
-`Thu, 15 Oct 2026 10:43:11 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxQbDF2UnI4WVlZS25BWDNkXzJhVHFmcTNYLVNKSW9Vb0owODhiSm01bFczYl9xaHZKelJZQmV2YUN3UHljbnVwQ0tVc09uOXNZM01lWkdmM24yYXl2eUc0Mk1RY1oxOURHSjNaZDFzYUZWcTVBOUx1ZU1OSXdnMkliVk1qY2dOckFaZEo0ZnZVS0hvQW9RSExFVF9qZzdpSHpiNGxYUzFqZTA1YkZSR292M0RjQjBDVUZqQzZsQg?oc=5" target="_blank">Fonction publique : l'absentéisme pour raisons de santé se stabilise</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Les députés ont adopté la contribution française au budget de l'UE - Les Echos](https://news.google.com/rss/articles/CBMiygFBVV95cUxQRjlNVFdiMS1lelIwODhMMFZrZXN1bWpGX2VTeTRlUFhYRUhWSlV5a1B4TGd0MDJmQUJRMnM1S2lScGxyR1N5dVBSZEM2dU5SYzJXd2xFTmNlRHkwa2Rad0pnQVQyMHVKTzRqOHc0YjZFR3lEdjA5QVFnWE0yQXdIWVgxVkxURnB3TzJIODBMRWdGTG1yZVM5LXhLdmt3NlotWDYza0pia1Vvd0YxYk1oQUl2cThBZEFnams0UERkRnJWRGtDQUJjNEZB?oc=5)
-
-`Thu, 15 Oct 2026 07:29:49 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxQRjlNVFdiMS1lelIwODhMMFZrZXN1bWpGX2VTeTRlUFhYRUhWSlV5a1B4TGd0MDJmQUJRMnM1S2lScGxyR1N5dVBSZEM2dU5SYzJXd2xFTmNlRHkwa2Rad0pnQVQyMHVKTzRqOHc0YjZFR3lEdjA5QVFnWE0yQXdIWVgxVkxURnB3TzJIODBMRWdGTG1yZVM5LXhLdmt3NlotWDYza0pia1Vvd0YxYk1oQUl2cThBZEFnams0UERkRnJWRGtDQUJjNEZB?oc=5" target="_blank">Les députés ont adopté la contribution française au budget de l'UE</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [En 1789, on a fait la révolution pour ne pas annuler la dette - Les Echos](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPS1drQWxVaHpfQjNhem9IUHlwTTc1bFJhZEl1MEtlWnowZE1GLTA2eUpIczRlNExYYXVqZmRnanRuZXpjSDNZa1J2WjRxYV9wUFhBUFVmUjFnMVh0VEI2SzJNUFdlNUUycEYzN0swZ0RSRUp4UW12bHc3cDdJb01nSnltNTFqZFQtR3JDMlZndzEtMjhfRFZtS3Vrd0hJWmFFUVh1N0R4SFVvY1FMb0FQMjhQOVRjbC11NllWdHlMVWd3Y0U?oc=5)
-
-`Thu, 15 Oct 2026 05:25:50 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxPS1drQWxVaHpfQjNhem9IUHlwTTc1bFJhZEl1MEtlWnowZE1GLTA2eUpIczRlNExYYXVqZmRnanRuZXpjSDNZa1J2WjRxYV9wUFhBUFVmUjFnMVh0VEI2SzJNUFdlNUUycEYzN0swZ0RSRUp4UW12bHc3cDdJb01nSnltNTFqZFQtR3JDMlZndzEtMjhfRFZtS3Vrd0hJWmFFUVh1N0R4SFVvY1FMb0FQMjhQOVRjbC11NllWdHlMVWd3Y0U?oc=5" target="_blank">En 1789, on a fait la révolution pour ne pas annuler la dette</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [EXCLUSIF - « L'entreprise est un refuge » : les salariés affichent leur confiance mais méconnaissent le dialogue social - Les Echos](https://news.google.com/rss/articles/CBMi-AFBVV95cUxOX2dqNjFBcGFtSXhpdHNzaG52eDdVZkNEV3pYYTllbVNVbXY4dXhGRVh4UVd5VXNUdU84WWVXbmRBT2N5eGxHMFVFMEZ3c1c0LUVpeHVicGZsRThyZnVMXzZtdFJET095WGFnRVhaYWl6bzVwWkxfOUwxeXJhQ1FQTmw5R3JsblZUTDZiQmQ3ZllReDFlYjNUdnBPMml0MWZiVWQ5SjZXb0xURTgySkZvUTlQTWN6SzUzRC1FNHJNRHQwYUI5am1FWDJjMENDOFVxQURjMjBTVFpWSzFvQVZ1MUpRZXJpczk5VEUzWGtmZ1NQVVNlbmkxbw?oc=5)
-
-`Thu, 15 Oct 2026 08:00:09 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi-AFBVV95cUxOX2dqNjFBcGFtSXhpdHNzaG52eDdVZkNEV3pYYTllbVNVbXY4dXhGRVh4UVd5VXNUdU84WWVXbmRBT2N5eGxHMFVFMEZ3c1c0LUVpeHVicGZsRThyZnVMXzZtdFJET095WGFnRVhaYWl6bzVwWkxfOUwxeXJhQ1FQTmw5R3JsblZUTDZiQmQ3ZllReDFlYjNUdnBPMml0MWZiVWQ5SjZXb0xURTgySkZvUTlQTWN6SzUzRC1FNHJNRHQwYUI5am1FWDJjMENDOFVxQURjMjBTVFpWSzFvQVZ1MUpRZXJpczk5VEUzWGtmZ1NQVVNlbmkxbw?oc=5" target="_blank">EXCLUSIF - « L'entreprise est un refuge » : les salariés affichent leur confiance mais méconnaissent le dialogue social</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
