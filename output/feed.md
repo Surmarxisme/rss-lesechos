@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Sat, 14 Nov 2026 15:39:12 +0000`
-> 110 articles (30 derniers jours)
+> Derniere mise a jour : `Sun, 15 Nov 2026 16:09:18 +0000`
+> 105 articles (30 derniers jours)
+
+---
+
+### [Mobilisation du 14 novembre : 106.000 manifestants en France selon l'Intérieur, 200.000 d'après les organisateurs - Les Echos](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQUzBYcy1NejhFUDVZTEdzYWFMRzdPVkVJb1FYMmNvd0dKbG1RdWVSZkdBRjZnSjdyRmhod2lHa2w4Tjh1elptYlhwbUIzTHBxZUIxTGhqcU1nd3owcDdXYTlJZnI2Q1dVT1Z0WHJkZVJJTFc0TnpfYkJqdW1sVkRBMGtCSEtjbFJhRmc1enhfaXZkLTgxM0VSOE9VUW1VdGl1VS1HVkstcmFIVVZ2b0NkSV8wUmUtZlBBNmxJSUR0ZG4yQ1FXTldBTURpa2dvUG9qTFhyRGNlY0hUSFpTRlNGQmhfbHFrekVCODc2SHdHZWxaWnM?oc=5)
+
+`Sat, 14 Nov 2026 17:15:19 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi8wFBVV95cUxQUzBYcy1NejhFUDVZTEdzYWFMRzdPVkVJb1FYMmNvd0dKbG1RdWVSZkdBRjZnSjdyRmhod2lHa2w4Tjh1elptYlhwbUIzTHBxZUIxTGhqcU1nd3owcDdXYTlJZnI2Q1dVT1Z0WHJkZVJJTFc0TnpfYkJqdW1sVkRBMGtCSEtjbFJhRmc1enhfaXZkLTgxM0VSOE9VUW1VdGl1VS1HVkstcmFIVVZ2b0NkSV8wUmUtZlBBNmxJSUR0ZG4yQ1FXTldBTURpa2dvUG9qTFhyRGNlY0hUSFpTRlNGQmhfbHFrekVCODc2SHdHZWxaWnM?oc=5" target="_blank">Mobilisation du 14 novembre : 106.000 manifestants en France selon l'Intérieur, 200.000 d'après les organisateurs</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -834,53 +842,5 @@
 `Sat, 17 Oct 2026 06:05:08 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi7AFBVV95cUxPa01MODRnM2V2d2RDcUtRQ3RETk1jZTNuWnZBUjM5WlQyTlFzVDN2NnNCZ2ZiMDVYYmsyMXhvTkNfREE5LTV2QjFGbkw0ZnRjdUQxdmQ2amJyODMxNXRtX0Z5WEdWeWsyNWh1VWQxanBkMmVaQTZHTXNlMjJFc3NHTVFtOGZVdG1pYmtveG10V3Y2X1JtQ2R2TmNSemJodDJfOXRWUHVJbFJIMHo4Vk9DR3pMUkY5WXp5Rk14VXcyR1ZaY19mZHFKdE5yeGhReFFZNnlBRHNBVk1NRk5aWEFheE1GT2t0YzgyNWtQSg?oc=5" target="_blank">Mobilisation du 17 octobre : la vie chère plus que jamais au coeur des préoccupations des Français</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Budget 2027 : les députés doublent à 100.000 euros le plafond d'exonération d'impôt pour les dons familiaux - Les Echos](https://news.google.com/rss/articles/CBMi-wFBVV95cUxOZnhyd3BrNUp2cU9fX2NXc1M5OWVqbTNCMUtMZUpxcGNncWRDSW9xTTFrUFJjYkJHbE8zcGpLSEV4MUItYnRKVXcxWktwXzV0VkZRMERwS2s1ZFJVaDF3c0pHdmVhVXJkR0N6U2hxNVBFeFdqSHhNZHZPRE15d0ExWlFjaldjZGxWSVZOUE1NUzQ4dGFLQWE1NGR2Vi00VVBpOEdzS09SbDlPQlFuS1BIb1lEd0dzQ1ZvU0lQM3M4eWNpbkpTMWZmV0Y3R2VCWThOcWJmcnpieEhfS3NKZWpIc3VZZlhQdlRaY2RuNjBxQzRkemFmaW1mcndRWQ?oc=5)
-
-`Fri, 16 Oct 2026 14:40:45 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi-wFBVV95cUxOZnhyd3BrNUp2cU9fX2NXc1M5OWVqbTNCMUtMZUpxcGNncWRDSW9xTTFrUFJjYkJHbE8zcGpLSEV4MUItYnRKVXcxWktwXzV0VkZRMERwS2s1ZFJVaDF3c0pHdmVhVXJkR0N6U2hxNVBFeFdqSHhNZHZPRE15d0ExWlFjaldjZGxWSVZOUE1NUzQ4dGFLQWE1NGR2Vi00VVBpOEdzS09SbDlPQlFuS1BIb1lEd0dzQ1ZvU0lQM3M4eWNpbkpTMWZmV0Y3R2VCWThOcWJmcnpieEhfS3NKZWpIc3VZZlhQdlRaY2RuNjBxQzRkemFmaW1mcndRWQ?oc=5" target="_blank">Budget 2027 : les députés doublent à 100.000 euros le plafond d'exonération d'impôt pour les dons familiaux</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Retraites : les députés rejettent la sous-indexation des pensions - Les Echos](https://news.google.com/rss/articles/CBMiugFBVV95cUxObDRhRmNEUk85OEswR0tVd21DMVcyLVMyVG9qSy02R0lORUpaUG1BcTF4Qjh0c1FFVm9tV0FnVHlhMlZ1Ul83NmYwNEhkMUhOSHZXUFBqUmhkUnFhQUxZT3AtTFp0T2pfQ096VVNKbW8zU0VFODlMYXJYb18xZjR4QnlLMlRXNk5NMjJ6bFFCeDhkQkMxQTZJQk5NNEhNb1kxQ2l1ZnVlWUV2MGZnSmhPcHpGc0k1dENqNkE?oc=5)
-
-`Fri, 16 Oct 2026 14:46:57 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxObDRhRmNEUk85OEswR0tVd21DMVcyLVMyVG9qSy02R0lORUpaUG1BcTF4Qjh0c1FFVm9tV0FnVHlhMlZ1Ul83NmYwNEhkMUhOSHZXUFBqUmhkUnFhQUxZT3AtTFp0T2pfQ096VVNKbW8zU0VFODlMYXJYb18xZjR4QnlLMlRXNk5NMjJ6bFFCeDhkQkMxQTZJQk5NNEhNb1kxQ2l1ZnVlWUV2MGZnSmhPcHpGc0k1dENqNkE?oc=5" target="_blank">Retraites : les députés rejettent la sous-indexation des pensions</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Pourquoi la création d'entreprise bat un nouveau record malgré l'incertitude économique - Les Echos](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQWUtYVDBsRHAwalF4UmFHd0VIMjFXSlBKd2FIVGthU0t2dC1XM3ZJYWVKM3BldU9hbHJVaFVaM0xvWXpYLXFNVVlQWEhKMEt0LU9tWm9OQ3JXLXhoR2xjUlIyaGcwQXBuLWIwZE5WSXRBZGxTQk5lS3NIbHBuVkRIYVRhQ2Q5Q2t1NThYdmVXTDlmOFl1REhSb09Sc09QaUg3WGhMNDhWd0kxRWVzX2xfaDhqWFJLTWVRWFJOTjhQblZ6QkhtQjhKS0M1UU42NjlHZ1ZlYnA0N3RHSzJGVVE?oc=5)
-
-`Fri, 16 Oct 2026 15:27:43 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi3gFBVV95cUxQWUtYVDBsRHAwalF4UmFHd0VIMjFXSlBKd2FIVGthU0t2dC1XM3ZJYWVKM3BldU9hbHJVaFVaM0xvWXpYLXFNVVlQWEhKMEt0LU9tWm9OQ3JXLXhoR2xjUlIyaGcwQXBuLWIwZE5WSXRBZGxTQk5lS3NIbHBuVkRIYVRhQ2Q5Q2t1NThYdmVXTDlmOFl1REhSb09Sc09QaUg3WGhMNDhWd0kxRWVzX2xfaDhqWFJLTWVRWFJOTjhQblZ6QkhtQjhKS0M1UU42NjlHZ1ZlYnA0N3RHSzJGVVE?oc=5" target="_blank">Pourquoi la création d'entreprise bat un nouveau record malgré l'incertitude économique</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Mobilisation du 17 octobre : des « gilets jaunes » à la « convergence des luttes », à quoi faut-il s'attendre - Les Echos](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOdG9SZ0EzMU9yblN0UWt2a0dLckd4MVdPQ2RCQmkzelJqTTJyUlZtN016LWphNVVmSFhOWHc3VUFFT0RFRDJxZFhhdFVZeHZuQ2hnUVVSbmVMMURTdUMzdmhYdFhwVnNvWXdMQU54TjFFRzhKYnd0Qy1UbTFHZTZvODdqdlNrVHZ3a1piMGVwTkhqeXZBaEUyQS1PcDhFMXZJVm1TLURmRFBXc3F6NDRwSDhnWW5fbk5nNFVteV9peFBZdjBjeGtDSFlnMUZCeGtJci10Z18wMnJ0SGVWanJFSUdpb1g1bHM?oc=5)
-
-`Fri, 16 Oct 2026 09:57:14 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi5wFBVV95cUxOdG9SZ0EzMU9yblN0UWt2a0dLckd4MVdPQ2RCQmkzelJqTTJyUlZtN016LWphNVVmSFhOWHc3VUFFT0RFRDJxZFhhdFVZeHZuQ2hnUVVSbmVMMURTdUMzdmhYdFhwVnNvWXdMQU54TjFFRzhKYnd0Qy1UbTFHZTZvODdqdlNrVHZ3a1piMGVwTkhqeXZBaEUyQS1PcDhFMXZJVm1TLURmRFBXc3F6NDRwSDhnWW5fbk5nNFVteV9peFBZdjBjeGtDSFlnMUZCeGtJci10Z18wMnJ0SGVWanJFSUdpb1g1bHM?oc=5" target="_blank">Mobilisation du 17 octobre : des « gilets jaunes » à la « convergence des luttes », à quoi faut-il s'attendre</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [La réforme décriée du cumul emploi retraite se confirme : ce qui va changer au 1er janvier - Les Echos](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZ0RaVnZPTDVieXRpNkVPU0c0MFdaekZhTEdWcGVrVC11UkdCbzNOTjd3MVlPZmhhRWQtaGd1bHFkQ01MVnh6dXhqb2tzUFJ1SWZwYXNLdjdPMTVjNFFUWjBZZndVMnhCYzB3NEpnLVVFMzBSLUJ2UkhRVV8yS1dkbGItN1RLaHNHVExwa0xVZDlVaGlnY1NXQ3VkQ1dqSXNlSmFfYWx3NzJQcjVVbzk4ZVE5MzJ1a2Utb01NOXdVdWJCOXo5QkE0OXIxc2tobTVJOFR6eGZFN2N2ZDQ?oc=5)
-
-`Fri, 16 Oct 2026 10:05:46 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZ0RaVnZPTDVieXRpNkVPU0c0MFdaekZhTEdWcGVrVC11UkdCbzNOTjd3MVlPZmhhRWQtaGd1bHFkQ01MVnh6dXhqb2tzUFJ1SWZwYXNLdjdPMTVjNFFUWjBZZndVMnhCYzB3NEpnLVVFMzBSLUJ2UkhRVV8yS1dkbGItN1RLaHNHVExwa0xVZDlVaGlnY1NXQ3VkQ1dqSXNlSmFfYWx3NzJQcjVVbzk4ZVE5MzJ1a2Utb01NOXdVdWJCOXo5QkE0OXIxc2tobTVJOFR6eGZFN2N2ZDQ?oc=5" target="_blank">La réforme décriée du cumul emploi retraite se confirme : ce qui va changer au 1er janvier</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [SONDAGE EXCLUSIF - Une courte majorité de Français favorable à l'adoption du budget 2027 malgré ses défauts - Les Echos](https://news.google.com/rss/articles/CBMi_gFBVV95cUxPNm9KZ1liLXdPSGZOdHV3b05uZFk3OGZlVkZkUnJUNFprbTdUVHQtd0xxa0F5VmE5QzFKV2RacGZ6QXozT215LTB1V28yYXIzbVpQZ3NxYmhmUkZQNGd0d084a2I0ZEtTajU3LXZha05sdEhwTWg5RnYyZEp6SUR5c3prUEpxR1JubDA0LTRxdFVIelRUWHl4eTFGTzBWc2ZGQVBwRm1ISVhwMTMtcVNiVFNWSlVTYldOZ1JRWkEwMVYySUNBNTJGVHNDSTZ5WDdnSnlaLUJrUlF0UHJ3a2s3bnp2aXE3STNnYVlwdGRIa0RiRVFEaTJmQU8yX0hCQQ?oc=5)
-
-`Thu, 15 Oct 2026 16:23:05 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi_gFBVV95cUxPNm9KZ1liLXdPSGZOdHV3b05uZFk3OGZlVkZkUnJUNFprbTdUVHQtd0xxa0F5VmE5QzFKV2RacGZ6QXozT215LTB1V28yYXIzbVpQZ3NxYmhmUkZQNGd0d084a2I0ZEtTajU3LXZha05sdEhwTWg5RnYyZEp6SUR5c3prUEpxR1JubDA0LTRxdFVIelRUWHl4eTFGTzBWc2ZGQVBwRm1ISVhwMTMtcVNiVFNWSlVTYldOZ1JRWkEwMVYySUNBNTJGVHNDSTZ5WDdnSnlaLUJrUlF0UHJ3a2s3bnp2aXE3STNnYVlwdGRIa0RiRVFEaTJmQU8yX0hCQQ?oc=5" target="_blank">SONDAGE EXCLUSIF - Une courte majorité de Français favorable à l'adoption du budget 2027 malgré ses défauts</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
