@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Sun, 15 Nov 2026 16:09:18 +0000`
-> 105 articles (30 derniers jours)
+> Derniere mise a jour : `Mon, 16 Nov 2026 14:03:24 +0000`
+> 103 articles (30 derniers jours)
+
+---
+
+### [« On n'est pas sereins » : les industriels veulent peser dans la campagne présidentielle - Les Echos](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNS1NmSmhneHIxLUJyZTROUHl5YktQSy12RkN6UmsyaUNvcG5WVzRoS3Q4aDlIaDhQcVFRUWpnTjJUck5WRGU1UVIyT08yNzJ2aGQ4eXctcEZ6TFNfR1Q2cjdWR0VIdDFrYWRLamNIc3lGOTNvcENzWjhVRDc2ay1hcFFscTU4LUg2TUFPZWtNUDJpWFRTQUpzX1NHZnUtUU5vVHU3bnJEcUpBU05RMEpCTWJ6Q3RhUmJDT3NLckhFNEFoZ3N4WFREX2xhTVpyWmcyZXc?oc=5)
+
+`Sun, 15 Nov 2026 16:39:36 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi0gFBVV95cUxNS1NmSmhneHIxLUJyZTROUHl5YktQSy12RkN6UmsyaUNvcG5WVzRoS3Q4aDlIaDhQcVFRUWpnTjJUck5WRGU1UVIyT08yNzJ2aGQ4eXctcEZ6TFNfR1Q2cjdWR0VIdDFrYWRLamNIc3lGOTNvcENzWjhVRDc2ay1hcFFscTU4LUg2TUFPZWtNUDJpWFRTQUpzX1NHZnUtUU5vVHU3bnJEcUpBU05RMEpCTWJ6Q3RhUmJDT3NLckhFNEFoZ3N4WFREX2xhTVpyWmcyZXc?oc=5" target="_blank">« On n'est pas sereins » : les industriels veulent peser dans la campagne présidentielle</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -818,29 +826,5 @@
 `Sun, 18 Oct 2026 09:16:54 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi9wFBVV95cUxNUkhPUDREeFJnVUU5YVpranAzZHh6RnRlNWw0MUpsY05kT1hQazVqVzVvY0JvMjZTWGE3ei1TZE91WFM5WnZqbEM4ODZITkZZUTBiUXlHZjctcjgtdnRPX1JoQjlhN0MxV1hUUjAwZktvUDduTy14bWJrT3MycTVlNG05MmhOaFNqOXROaHF2UGdyOUpCcFItSVlMcFBFMTYySTFuVWpKZWR2bnowdEdPaHMxRWIyNE5TWmtkU2duSXEzVV83TENOTDZGZzRJTTZDa3BvbEhKSmJhbFkyNjROdlFuV09aWUlBY1R5dC13a0t6dFd2Wm0w?oc=5" target="_blank">DIRECT - Mobilisation du 17 octobre : le pays se réveille groggy au lendemain d'une journée de chaos</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Les mots écos - Présidentielle 2027 : C'est quoi la dette publique et le déficit public ? - Les Echos](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOWjVYbUJRb0psOWpVRkJDRnJOcHZ5ZEc3bjJXZGxEMUNJV1VPSHpDMVRJNmJWMWVuOFFyUy1aMTJSem4taUhxYzRSd1cxcENlelBqc2pvSkxkUjg2aFRTMlVnM3psa04wMExBeVk3cGE0bUlJUFQtRmdMc05BX01kR29ueUdIeEhuaTRtTkk1QnBGSTJvcE1BXy1Rd2FGeGRWZ2NZNkZHVTR2QW1XWnFJbmxQQXAzNkNfajlIaEFya2puWTJWZ2xmb1NFQjJEVVNURnd4dzlGR2RfcHF4X3lOaw?oc=5)
-
-`Sat, 17 Oct 2026 08:00:09 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi4AFBVV95cUxOWjVYbUJRb0psOWpVRkJDRnJOcHZ5ZEc3bjJXZGxEMUNJV1VPSHpDMVRJNmJWMWVuOFFyUy1aMTJSem4taUhxYzRSd1cxcENlelBqc2pvSkxkUjg2aFRTMlVnM3psa04wMExBeVk3cGE0bUlJUFQtRmdMc05BX01kR29ueUdIeEhuaTRtTkk1QnBGSTJvcE1BXy1Rd2FGeGRWZ2NZNkZHVTR2QW1XWnFJbmxQQXAzNkNfajlIaEFya2puWTJWZ2xmb1NFQjJEVVNURnd4dzlGR2RfcHF4X3lOaw?oc=5" target="_blank">Les mots écos - Présidentielle 2027 : C'est quoi la dette publique et le déficit public ?</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [DIRECT - Mobilisation du 17 octobre : Des manifestants pénètrent dans le hall de la mairie de Marseille - Les Echos](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOX3RfbVNjOTJ5ZzRKQkZzZGRHd2hzMF9Ea2tHbzlZTl9WRTZFRGRET2JKQlBsUWtVbHhTb1d2bzJ0R1hDMU9QMTRLMkxTNEJ3RzJsMTUwVE5QcEZPdGpncnNLZXFiUFBYTUNFWHlBdDZlSmllM0RMSk1LcmNqV1lWME1SWk44UVBncVlJN0ctclREVnFnZDZ5WEhMbW83Q2RtXzMwS1dpNkhXRmswSEdvdE9DRkVsV0lJb0ZEZ1pkWDFwLUlIZjNXc01DYzBBNUl4V2lOWHFwRWh3Qktl?oc=5)
-
-`Sat, 17 Oct 2026 09:23:33 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi3AFBVV95cUxOX3RfbVNjOTJ5ZzRKQkZzZGRHd2hzMF9Ea2tHbzlZTl9WRTZFRGRET2JKQlBsUWtVbHhTb1d2bzJ0R1hDMU9QMTRLMkxTNEJ3RzJsMTUwVE5QcEZPdGpncnNLZXFiUFBYTUNFWHlBdDZlSmllM0RMSk1LcmNqV1lWME1SWk44UVBncVlJN0ctclREVnFnZDZ5WEhMbW83Q2RtXzMwS1dpNkhXRmswSEdvdE9DRkVsV0lJb0ZEZ1pkWDFwLUlIZjNXc01DYzBBNUl4V2lOWHFwRWh3Qktl?oc=5" target="_blank">DIRECT - Mobilisation du 17 octobre : Des manifestants pénètrent dans le hall de la mairie de Marseille</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Mobilisation du 17 octobre : la vie chère plus que jamais au coeur des préoccupations des Français - Les Echos](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPa01MODRnM2V2d2RDcUtRQ3RETk1jZTNuWnZBUjM5WlQyTlFzVDN2NnNCZ2ZiMDVYYmsyMXhvTkNfREE5LTV2QjFGbkw0ZnRjdUQxdmQ2amJyODMxNXRtX0Z5WEdWeWsyNWh1VWQxanBkMmVaQTZHTXNlMjJFc3NHTVFtOGZVdG1pYmtveG10V3Y2X1JtQ2R2TmNSemJodDJfOXRWUHVJbFJIMHo4Vk9DR3pMUkY5WXp5Rk14VXcyR1ZaY19mZHFKdE5yeGhReFFZNnlBRHNBVk1NRk5aWEFheE1GT2t0YzgyNWtQSg?oc=5)
-
-`Sat, 17 Oct 2026 06:05:08 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi7AFBVV95cUxPa01MODRnM2V2d2RDcUtRQ3RETk1jZTNuWnZBUjM5WlQyTlFzVDN2NnNCZ2ZiMDVYYmsyMXhvTkNfREE5LTV2QjFGbkw0ZnRjdUQxdmQ2amJyODMxNXRtX0Z5WEdWeWsyNWh1VWQxanBkMmVaQTZHTXNlMjJFc3NHTVFtOGZVdG1pYmtveG10V3Y2X1JtQ2R2TmNSemJodDJfOXRWUHVJbFJIMHo4Vk9DR3pMUkY5WXp5Rk14VXcyR1ZaY19mZHFKdE5yeGhReFFZNnlBRHNBVk1NRk5aWEFheE1GT2t0YzgyNWtQSg?oc=5" target="_blank">Mobilisation du 17 octobre : la vie chère plus que jamais au coeur des préoccupations des Français</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
