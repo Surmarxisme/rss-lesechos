@@ -1,7 +1,31 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Mon, 16 Nov 2026 14:03:24 +0000`
-> 103 articles (30 derniers jours)
+> Derniere mise a jour : `Mon, 16 Nov 2026 19:26:56 +0000`
+> 106 articles (30 derniers jours)
+
+---
+
+### [Budget 2027 : la facture des mesures anti-crise s'allonge dangereusement - Les Echos](https://news.google.com/rss/articles/CBMizwFBVV95cUxNVnlpSTgzakE1VVpvYmxuaTdFWmdndUxuMmRweW9pSTRZdWJ6RkJhY2ZKeDBPa1JDQUJLUVJSTVNnaVg1cEtXOUVrV3RtdEJaSHV5alNsMXVSZTNsS0h5OTNUdkJMeEx1aW1nT213RzNxbzdFRHozdmxaYk5rbmFnRVF2cUlfZmVCQ1prOEU5NS1YckxZQjVxMzk0R3c3T2U1WXV4OFF4R2N3VnZtMEdkR3Qybl9hMkdHTzdwejZqOHNCU2FiSW45NlpaeU0xS2s?oc=5)
+
+`Mon, 16 Nov 2026 16:49:15 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMizwFBVV95cUxNVnlpSTgzakE1VVpvYmxuaTdFWmdndUxuMmRweW9pSTRZdWJ6RkJhY2ZKeDBPa1JDQUJLUVJSTVNnaVg1cEtXOUVrV3RtdEJaSHV5alNsMXVSZTNsS0h5OTNUdkJMeEx1aW1nT213RzNxbzdFRHozdmxaYk5rbmFnRVF2cUlfZmVCQ1prOEU5NS1YckxZQjVxMzk0R3c3T2U1WXV4OFF4R2N3VnZtMEdkR3Qybl9hMkdHTzdwejZqOHNCU2FiSW45NlpaeU0xS2s?oc=5" target="_blank">Budget 2027 : la facture des mesures anti-crise s'allonge dangereusement</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Retraites : cette réforme censée profiter aux mères mais critiquée au sein de l'Armée - Les Echos](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWHMteFRxYy1kNVZmUkd1UUVaY3VGWm0tUlJMbTNqM3ZjckRHQzhJRmxrTlp1dENmZi1ZZGhfdjRwckZUcTdZLW85MGZKQzE5eVp5TDRmd1UxelowOF9OVWtGZHZQdkJNRGUxSmRHcHRXUUphUzBfOTdmVFFzc0Utb3VZRnFSYmhFWmoyTWdmdlU5SURMTWZ3ZjcweUtZdVJwOURQNDVQdHpTN2VUcWo5NzhnYjhJNG05dGNEaWtiN05ZXzB1TEp2WlV2SnBpOXBoLUx3?oc=5)
+
+`Mon, 16 Nov 2026 17:41:25 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWHMteFRxYy1kNVZmUkd1UUVaY3VGWm0tUlJMbTNqM3ZjckRHQzhJRmxrTlp1dENmZi1ZZGhfdjRwckZUcTdZLW85MGZKQzE5eVp5TDRmd1UxelowOF9OVWtGZHZQdkJNRGUxSmRHcHRXUUphUzBfOTdmVFFzc0Utb3VZRnFSYmhFWmoyTWdmdlU5SURMTWZ3ZjcweUtZdVJwOURQNDVQdHpTN2VUcWo5NzhnYjhJNG05dGNEaWtiN05ZXzB1TEp2WlV2SnBpOXBoLUx3?oc=5" target="_blank">Retraites : cette réforme censée profiter aux mères mais critiquée au sein de l'Armée</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Ecoles, transports, défilés… ce qu'il faut attendre de la nouvelle journée de grève mardi 17 novembre - Les Echos](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOUlpyNk9wUDRWVEhJTkVUaTNBNlF3TnZoaEFxWU9sWm9zZzV0R2lmR20tSXg5dk8yeGpZZFNzNmVPd3hMV0VyRVF2cWtnYWVsMG1EbzN1WWJJODN5WGtkSEtXaG8wU0FGaFZHUDRVUkl2LUxYZ2NXMmkwN3p0b2F1YVd2NkFkUzFldjJBYjVfdExQR1ZLMG5nMHJudTUzWWp1Rm1sUWtNUWpCWnVUdmJnSmdqN0FVWlFZWWhSb2U0NmxlQnd0NmZOdmZmSzJoN2MwREVBV1dzcGNPTlJzblJaRkdtT0ZjZHpJTFJ1MGtR?oc=5)
+
+`Mon, 16 Nov 2026 17:49:43 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi7gFBVV95cUxOUlpyNk9wUDRWVEhJTkVUaTNBNlF3TnZoaEFxWU9sWm9zZzV0R2lmR20tSXg5dk8yeGpZZFNzNmVPd3hMV0VyRVF2cWtnYWVsMG1EbzN1WWJJODN5WGtkSEtXaG8wU0FGaFZHUDRVUkl2LUxYZ2NXMmkwN3p0b2F1YVd2NkFkUzFldjJBYjVfdExQR1ZLMG5nMHJudTUzWWp1Rm1sUWtNUWpCWnVUdmJnSmdqN0FVWlFZWWhSb2U0NmxlQnd0NmZOdmZmSzJoN2MwREVBV1dzcGNPTlJzblJaRkdtT0ZjZHpJTFJ1MGtR?oc=5" target="_blank">Ecoles, transports, défilés… ce qu'il faut attendre de la nouvelle journée de grève mardi 17 novembre</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
