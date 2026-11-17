@@ -1,7 +1,23 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Tue, 17 Nov 2026 14:57:00 +0000`
-> 108 articles (30 derniers jours)
+> Derniere mise a jour : `Tue, 17 Nov 2026 18:21:05 +0000`
+> 110 articles (30 derniers jours)
+
+---
+
+### [Fiscalité : pourquoi il faut un big bang des impôts locaux - Les Echos](https://news.google.com/rss/articles/CBMivgFBVV95cUxQVm5aOThNbkFRclM0YnlRcDRRbXVTQWQ1cGdZRGk1MW91M3UyM2JxZnpsNk92QWpVdWJ3ZGN6dU1MUDZVaTdJMVVyYzNNdEs1c0g1anFCR3RpVVMtLS0wSklwbU1qMjM3Rk1lS0poYWkxdTFLbGhsMkJPdF8zTDdkUFNwNk9vU25Kb0JQTWFNYzVCLVNnbkJuNTJrVEtFZmUzS2R2N1o4SnZQQy1uV3B5eHVLdjZRMUQ1dm5WMlBn?oc=5)
+
+`Tue, 17 Nov 2026 15:33:13 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxQVm5aOThNbkFRclM0YnlRcDRRbXVTQWQ1cGdZRGk1MW91M3UyM2JxZnpsNk92QWpVdWJ3ZGN6dU1MUDZVaTdJMVVyYzNNdEs1c0g1anFCR3RpVVMtLS0wSklwbU1qMjM3Rk1lS0poYWkxdTFLbGhsMkJPdF8zTDdkUFNwNk9vU25Kb0JQTWFNYzVCLVNnbkJuNTJrVEtFZmUzS2R2N1o4SnZQQy1uV3B5eHVLdjZRMUQ1dm5WMlBn?oc=5" target="_blank">Fiscalité : pourquoi il faut un big bang des impôts locaux</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Pouvoir d'achat : la mobilisation des fonctionnaires fléchit - Les Echos](https://news.google.com/rss/articles/CBMisgFBVV95cUxNMzk1enVmREFkUHF3bjhRUkdQWWlZbmV5REh3T3h5MzkwMkFlRzNzQXgzeUM2Wng1VEpLUXVGVWVndzBQRFh2bjVfQlRCc2x1LWdweDNhXzBVZUI4YkY1a3ZDbm1ucW8yVUtoTW1henNTYjZsSm9ubE0tb1dQR0p0ZUNOSF8tc0lVWDJzSGJKNVZIUW9HdXQ4MXZHVHdhT3BkZGpDeHY3WDhVUFJhaVBvQzNn?oc=5)
+
+`Tue, 17 Nov 2026 17:43:00 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxNMzk1enVmREFkUHF3bjhRUkdQWWlZbmV5REh3T3h5MzkwMkFlRzNzQXgzeUM2Wng1VEpLUXVGVWVndzBQRFh2bjVfQlRCc2x1LWdweDNhXzBVZUI4YkY1a3ZDbm1ucW8yVUtoTW1henNTYjZsSm9ubE0tb1dQR0p0ZUNOSF8tc0lVWDJzSGJKNVZIUW9HdXQ4MXZHVHdhT3BkZGpDeHY3WDhVUFJhaVBvQzNn?oc=5" target="_blank">Pouvoir d'achat : la mobilisation des fonctionnaires fléchit</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
