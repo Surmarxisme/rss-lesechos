@@ -1,7 +1,31 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Tue, 17 Nov 2026 00:32:35 +0000`
-> 106 articles (30 derniers jours)
+> Derniere mise a jour : `Tue, 17 Nov 2026 14:57:00 +0000`
+> 108 articles (30 derniers jours)
+
+---
+
+### [Retraites : le gouvernement désavoué sur la réforme touchant les familles nombreuses en dépit de sa volte-face - Les Echos](https://news.google.com/rss/articles/CBMi9gFBVV95cUxNTW5IYUlLa1BrUmZzVmUyTzNyYVhxUE5Ed2pKWFc0cjNXSnhwWDJfeEsxYWxwUl9MTjBlMHhSU1FER2RJdmxTQnRWUjk0S2d2YVBRUkw5akt1SWxnd2RwZ3FqTno1a3dUc1pId2t2S3lRMTdfOEVQM0RBVWRGR18zQ19MYzBKWnZCbzRDRnNnVFdBNE1LSHRHeGFUVEJXaXh0eWs2SExwTUpJWkxUN0xlSmlTSFFTNjRLZDBtcWMxM2NiRFpWamlHSl9yRmh1cldXSnlOZW56ZW45bjlVLUlpdXpUOGgwT0JhVkF2a2VzRFhxOWVNSlE?oc=5)
+
+`Tue, 17 Nov 2026 05:15:51 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi9gFBVV95cUxNTW5IYUlLa1BrUmZzVmUyTzNyYVhxUE5Ed2pKWFc0cjNXSnhwWDJfeEsxYWxwUl9MTjBlMHhSU1FER2RJdmxTQnRWUjk0S2d2YVBRUkw5akt1SWxnd2RwZ3FqTno1a3dUc1pId2t2S3lRMTdfOEVQM0RBVWRGR18zQ19MYzBKWnZCbzRDRnNnVFdBNE1LSHRHeGFUVEJXaXh0eWs2SExwTUpJWkxUN0xlSmlTSFFTNjRLZDBtcWMxM2NiRFpWamlHSl9yRmh1cldXSnlOZW56ZW45bjlVLUlpdXpUOGgwT0JhVkF2a2VzRFhxOWVNSlE?oc=5" target="_blank">Retraites : le gouvernement désavoué sur la réforme touchant les familles nombreuses en dépit de sa volte-face</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Emploi des cadres : de très sombres perspectives d'embauches pour la fin 2026 - Les Echos](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOV1B6UkdyNDBtRGtKd2tPZHhvNVF6YnczY0dSMU9OUkdPQjN0eTFERmJLMmU4Tk1fWVQ0X09hbFFWR1ZkLWxBd3psQV9PTDFRb0RyZ2pVT3ZlV1NxQUhwc01ZdUJEdkpieXVrcDFxOVNlV3U3ZnJWdzBzYldpMUUtck1Ob3U4NUVlVWlrVnU4cFRaLVhhVExPVFhCekp2NnpxbGpnb0Rrd0xqYVdFcFNieHJEbXJOb19Galh0QmlJdUI5cDkxbXVHTQ?oc=5)
+
+`Tue, 17 Nov 2026 05:00:42 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxOV1B6UkdyNDBtRGtKd2tPZHhvNVF6YnczY0dSMU9OUkdPQjN0eTFERmJLMmU4Tk1fWVQ0X09hbFFWR1ZkLWxBd3psQV9PTDFRb0RyZ2pVT3ZlV1NxQUhwc01ZdUJEdkpieXVrcDFxOVNlV3U3ZnJWdzBzYldpMUUtck1Ob3U4NUVlVWlrVnU4cFRaLVhhVExPVFhCekp2NnpxbGpnb0Rrd0xqYVdFcFNieHJEbXJOb19Galh0QmlJdUI5cDkxbXVHTQ?oc=5" target="_blank">Emploi des cadres : de très sombres perspectives d'embauches pour la fin 2026</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Faut-il redouter un tsunami social ? France Travail dévoile une étude inédite sur les effets de l'IA - Les Echos](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQOGxtcGc1em5JN3N2ajk0OGt1ZFpwM09odkdtdlpDeGNkV0xRcU4xMDBMOTh5emxLSmdSeGpCcVA1SHgtVFdsOEIwVjJLTFJiRWNQcVc0TmxQMDlZQkowNWZCbUdESndZdnFPcHgxa3lYbEFfTXZ6YlNJSy0zd2xfQWxnVldXQk91UVJCLThtTnJVUDJ2Qk5wNmtscDdaRVdza0NMbW9Ec2g0OUQ0SXBER1kxanZ4VXcxRGE0T0lqZ1JIelg2dndQTXhGSlpKcEJXbVVaMk1xanA1aHhHWUFQeFdoSmZzLXM?oc=5)
+
+`Tue, 17 Nov 2026 07:00:09 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi5wFBVV95cUxQOGxtcGc1em5JN3N2ajk0OGt1ZFpwM09odkdtdlpDeGNkV0xRcU4xMDBMOTh5emxLSmdSeGpCcVA1SHgtVFdsOEIwVjJLTFJiRWNQcVc0TmxQMDlZQkowNWZCbUdESndZdnFPcHgxa3lYbEFfTXZ6YlNJSy0zd2xfQWxnVldXQk91UVJCLThtTnJVUDJ2Qk5wNmtscDdaRVdza0NMbW9Ec2g0OUQ0SXBER1kxanZ4VXcxRGE0T0lqZ1JIelg2dndQTXhGSlpKcEJXbVVaMk1xanA1aHhHWUFQeFdoSmZzLXM?oc=5" target="_blank">Faut-il redouter un tsunami social ? France Travail dévoile une étude inédite sur les effets de l'IA</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -842,13 +866,5 @@
 `Mon, 19 Oct 2026 15:55:34 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi2wFBVV95cUxNaXF1bnhmNFhBRnQ1MXVKc0Y5NFdfLWVQYkJ5M2dVcXMtWTVsQkpDVDV3QTkwTzE4UnVXcFZkbUxiM0pWNjNMT21hV0tCMW1lLVRVVTh2U3NiZzZnYkhQcGNUamhFSzhzWnU0dFREaXpoS1Q3ZGxUTm9QM3VUcHZQcGdYdnVLNmtCYlJtNFlZdldseW5NV2JfN2pRNlpfTDFUaWozQ2lmS3JkODJoWGE1M0JzeEFZczBSd0hvYXgyaHNkSGJxVzVCZ1M1TVFjdzVES3FUTURfUlIzZHc?oc=5" target="_blank">Budget 2027 : le coup de rabot prévu sur l'aide aux personnes âgées fragiles fait polémique</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [DIRECT - Mobilisation du 17 octobre : le pays se réveille groggy au lendemain d'une journée de chaos - Les Echos](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNUkhPUDREeFJnVUU5YVpranAzZHh6RnRlNWw0MUpsY05kT1hQazVqVzVvY0JvMjZTWGE3ei1TZE91WFM5WnZqbEM4ODZITkZZUTBiUXlHZjctcjgtdnRPX1JoQjlhN0MxV1hUUjAwZktvUDduTy14bWJrT3MycTVlNG05MmhOaFNqOXROaHF2UGdyOUpCcFItSVlMcFBFMTYySTFuVWpKZWR2bnowdEdPaHMxRWIyNE5TWmtkU2duSXEzVV83TENOTDZGZzRJTTZDa3BvbEhKSmJhbFkyNjROdlFuV09aWUlBY1R5dC13a0t6dFd2Wm0w?oc=5)
-
-`Sun, 18 Oct 2026 09:16:54 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi9wFBVV95cUxNUkhPUDREeFJnVUU5YVpranAzZHh6RnRlNWw0MUpsY05kT1hQazVqVzVvY0JvMjZTWGE3ei1TZE91WFM5WnZqbEM4ODZITkZZUTBiUXlHZjctcjgtdnRPX1JoQjlhN0MxV1hUUjAwZktvUDduTy14bWJrT3MycTVlNG05MmhOaFNqOXROaHF2UGdyOUpCcFItSVlMcFBFMTYySTFuVWpKZWR2bnowdEdPaHMxRWIyNE5TWmtkU2duSXEzVV83TENOTDZGZzRJTTZDa3BvbEhKSmJhbFkyNjROdlFuV09aWUlBY1R5dC13a0t6dFd2Wm0w?oc=5" target="_blank">DIRECT - Mobilisation du 17 octobre : le pays se réveille groggy au lendemain d'une journée de chaos</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
