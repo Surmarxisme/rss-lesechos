@@ -1,7 +1,47 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Wed, 18 Nov 2026 14:38:02 +0000`
-> 111 articles (30 derniers jours)
+> Derniere mise a jour : `Wed, 18 Nov 2026 17:54:20 +0000`
+> 115 articles (30 derniers jours)
+
+---
+
+### [Assurance-chômage : les bons résultats du méconnu dispositif de « démission-reconversion - Les Echos](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcG9RcmtTN2Nkajk1d3M2Zzg5anVBbmREdWNEaUJkdG5PM0dKV1RGb29KRHBMWW5DN0pETmV0dFlSRXdhLVRBMWVhNGJzc0ZjLWdGeTNxWjZOaFFJNWhtdnk0RGg3bEdoYU5lZnhmMTYtZkNENHlkNEJBT0JweGhLenR0Z1F6UE5MVXFtM2dxZlhpUjdoZ0xHanJCcXJFZTRlOGRqWjNGZUY4Q1VaNjJrTjBfNnE4U2MwZk01RzhfNm5TZzc2NWJGaHVPTkozT2ZQdHQ1TDZn?oc=5)
+
+`Wed, 18 Nov 2026 15:13:10 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcG9RcmtTN2Nkajk1d3M2Zzg5anVBbmREdWNEaUJkdG5PM0dKV1RGb29KRHBMWW5DN0pETmV0dFlSRXdhLVRBMWVhNGJzc0ZjLWdGeTNxWjZOaFFJNWhtdnk0RGg3bEdoYU5lZnhmMTYtZkNENHlkNEJBT0JweGhLenR0Z1F6UE5MVXFtM2dxZlhpUjdoZ0xHanJCcXJFZTRlOGRqWjNGZUY4Q1VaNjJrTjBfNnE4U2MwZk01RzhfNm5TZzc2NWJGaHVPTkozT2ZQdHQ1TDZn?oc=5" target="_blank">Assurance-chômage : les bons résultats du méconnu dispositif de « démission-reconversion</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [L'éclairage inédit de l'Insee sur la relation des Français à leurs services publics - Les Echos](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbXMtcWhiTGxwLWtzR19TZ3ItbFFqUWhtYjVIUUFNZUh0dzJ5cmxObnZMdWMxTFMxY1N1T2R1cWtDTXVOcG40cl9FODZLdmxUU1MxblFZQ3AxNldXY0hUVEdtTkJnbDhOc2ZncFJKODRnRmxoX05JY29oaDVVelVFTUhkLWZrNTQwMG5xdk5DMVNVQktPaER5OExKc2hQNEhuUDBGYlFPTVpjSUZJZks3dmZvODZuN0tqS2xjVVQ2aVdTVFJMMUd3WGdXWXJrVlBtZmlBV0tIeEo?oc=5)
+
+`Wed, 18 Nov 2026 17:12:15 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbXMtcWhiTGxwLWtzR19TZ3ItbFFqUWhtYjVIUUFNZUh0dzJ5cmxObnZMdWMxTFMxY1N1T2R1cWtDTXVOcG40cl9FODZLdmxUU1MxblFZQ3AxNldXY0hUVEdtTkJnbDhOc2ZncFJKODRnRmxoX05JY29oaDVVelVFTUhkLWZrNTQwMG5xdk5DMVNVQktPaER5OExKc2hQNEhuUDBGYlFPTVpjSUZJZks3dmZvODZuN0tqS2xjVVQ2aVdTVFJMMUd3WGdXWXJrVlBtZmlBV0tIeEo?oc=5" target="_blank">L'éclairage inédit de l'Insee sur la relation des Français à leurs services publics</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [« Toutes les cessions sont interrompues » : la réforme de l'apport-cession continue d'affoler les chefs d'entreprise - Les Echos](https://news.google.com/rss/articles/CBMiggJBVV95cUxPSkI3dFMzZ01lNTB0cWU5UmR0VVdPUXdxVllDS0JycjYzVE5RdDJndEctN25yMVdEdGluQUV1bmREYzREUXVpQUFxQl8tVHNPRWVERklxSkUydGxsUTdoR21nVy1NT1hidlJqaEhueEVVcHJSdHNhaDJFb0JsUC1wMDE2amZ4VTBPU0VOZm1pci0yMXFDTHNCVURsN0w0QmlpRUZ1Q2pmZXlxN2FIYU55cUs1NF93X2hQRDF0anZkamh0T093WWNHYWZHXzZVNFVjeVRMRW9Qak85QWd6NXBGMnVuODA5OGFBRmc2S0FobFd1dmJlMUU2enFZSnQzWUhUR1E?oc=5)
+
+`Wed, 18 Nov 2026 17:31:17 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiggJBVV95cUxPSkI3dFMzZ01lNTB0cWU5UmR0VVdPUXdxVllDS0JycjYzVE5RdDJndEctN25yMVdEdGluQUV1bmREYzREUXVpQUFxQl8tVHNPRWVERklxSkUydGxsUTdoR21nVy1NT1hidlJqaEhueEVVcHJSdHNhaDJFb0JsUC1wMDE2amZ4VTBPU0VOZm1pci0yMXFDTHNCVURsN0w0QmlpRUZ1Q2pmZXlxN2FIYU55cUs1NF93X2hQRDF0anZkamh0T093WWNHYWZHXzZVNFVjeVRMRW9Qak85QWd6NXBGMnVuODA5OGFBRmc2S0FobFd1dmJlMUU2enFZSnQzWUhUR1E?oc=5" target="_blank">« Toutes les cessions sont interrompues » : la réforme de l'apport-cession continue d'affoler les chefs d'entreprise</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Prix des carburants : rebond spectaculaire des ventes à la pompe, après un « octobre noir » - Les Echos](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVXYzcEYwY25WelR1UzVJelNFYkI1MThvZlZwcEJWZ2FSaG44V1lTSE1xZmlvT0QtbjI4aGg2LWhhLVcxN1RkNWNUSTJickIycGpfMG04RHlZQ0hfektmTXJyT2w0cGxoMDhxMFUwNnNRTG5POW15NDlTLWJqYmUxeUdRWkNaX3NEbnhib1k5NWg0akNlYWlqSm5JS0tCVTRKNTBSaUdnTGZ3cFZsYTJrdEFkX3FTV2MyeW1ldUw2QWY0UmpzWmdTZDBidU9ERWZ3NUFtU2x3emRaTlZJ?oc=5)
+
+`Wed, 18 Nov 2026 17:00:02 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVXYzcEYwY25WelR1UzVJelNFYkI1MThvZlZwcEJWZ2FSaG44V1lTSE1xZmlvT0QtbjI4aGg2LWhhLVcxN1RkNWNUSTJickIycGpfMG04RHlZQ0hfektmTXJyT2w0cGxoMDhxMFUwNnNRTG5POW15NDlTLWJqYmUxeUdRWkNaX3NEbnhib1k5NWg0akNlYWlqSm5JS0tCVTRKNTBSaUdnTGZ3cFZsYTJrdEFkX3FTV2MyeW1ldUw2QWY0UmpzWmdTZDBidU9ERWZ3NUFtU2x3emRaTlZJ?oc=5" target="_blank">Prix des carburants : rebond spectaculaire des ventes à la pompe, après un « octobre noir »</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Budget 2027 : pourquoi les retraités pourraient voir leur pension préservée, mais leurs impôts augmenter - Les Echos](https://news.google.com/rss/articles/CBMi-gFBVV95cUxOZDBzUnBVdDRPU09EMGVXX2I5OFBjbFVMVHk2a0QzZ3hNVEdTcHJwYVR0cTQ0UlhwMWpMcURKdHBMSS1GZjZMbU91RVZ2RFEycVlFRGRHNV9qX0xrdmw3cXEzLURGM1l6MVUxUm03Qk1tUlBXR3JXMzRzWG1LbzhYczVTTE9KZzdtU3EwcXROMG1mSWExZHluQzA0X25PNl9HM0ppaEh6T2xFR1RVY3NkZjBVTE93M29SUkJkbmVaZzlPTURjaUFGNnhDenljWURtb0pURG91V3NZdFNXQjNDNUdnMlRnMlVKMGFFbWFaOTlFVVJwT1FVUXZR?oc=5)
+
+`Wed, 18 Nov 2026 17:32:32 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi-gFBVV95cUxOZDBzUnBVdDRPU09EMGVXX2I5OFBjbFVMVHk2a0QzZ3hNVEdTcHJwYVR0cTQ0UlhwMWpMcURKdHBMSS1GZjZMbU91RVZ2RFEycVlFRGRHNV9qX0xrdmw3cXEzLURGM1l6MVUxUm03Qk1tUlBXR3JXMzRzWG1LbzhYczVTTE9KZzdtU3EwcXROMG1mSWExZHluQzA0X25PNl9HM0ppaEh6T2xFR1RVY3NkZjBVTE93M29SUkJkbmVaZzlPTURjaUFGNnhDenljWURtb0pURG91V3NZdFNXQjNDNUdnMlRnMlVKMGFFbWFaOTlFVVJwT1FVUXZR?oc=5" target="_blank">Budget 2027 : pourquoi les retraités pourraient voir leur pension préservée, mais leurs impôts augmenter</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -882,13 +922,5 @@
 `Tue, 20 Oct 2026 09:20:03 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi5gFBVV95cUxOLVE2bmRzc183X2ZRaElJd3NZWFM5Nmc3c2pCaERhZGdHQkY5N1RQUWVjYnM0dlR6VkhyaTY5T2hSZ05vOEhNcmRJRnpCRGR2M29VRk1UcGpiU0tzbjhOWVRZZDNRVk9tVFoycVBEN0dZRDltTkh1TlJETkduUWJpSjVRaG16cmlfSkJ0OXBYRzAtYmR0WTRabk1XVXJjeDF1dTJycWk0OEkwckVjMUtBZWlHbGswYUo1Yi11QmtGWG5uYW9QN3ZvUVJ0SVJJbmNSU0U1S1NBaldYU3RKcS1VdHI5dlQtZw?oc=5" target="_blank">Défense : pourquoi les Armées veulent éviter le « cauchemar » d'une absence de budget en 2027</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Budget 2027 : le coup de rabot prévu sur l'aide aux personnes âgées fragiles fait polémique - Les Echos](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNaXF1bnhmNFhBRnQ1MXVKc0Y5NFdfLWVQYkJ5M2dVcXMtWTVsQkpDVDV3QTkwTzE4UnVXcFZkbUxiM0pWNjNMT21hV0tCMW1lLVRVVTh2U3NiZzZnYkhQcGNUamhFSzhzWnU0dFREaXpoS1Q3ZGxUTm9QM3VUcHZQcGdYdnVLNmtCYlJtNFlZdldseW5NV2JfN2pRNlpfTDFUaWozQ2lmS3JkODJoWGE1M0JzeEFZczBSd0hvYXgyaHNkSGJxVzVCZ1M1TVFjdzVES3FUTURfUlIzZHc?oc=5)
-
-`Mon, 19 Oct 2026 15:55:34 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi2wFBVV95cUxNaXF1bnhmNFhBRnQ1MXVKc0Y5NFdfLWVQYkJ5M2dVcXMtWTVsQkpDVDV3QTkwTzE4UnVXcFZkbUxiM0pWNjNMT21hV0tCMW1lLVRVVTh2U3NiZzZnYkhQcGNUamhFSzhzWnU0dFREaXpoS1Q3ZGxUTm9QM3VUcHZQcGdYdnVLNmtCYlJtNFlZdldseW5NV2JfN2pRNlpfTDFUaWozQ2lmS3JkODJoWGE1M0JzeEFZczBSd0hvYXgyaHNkSGJxVzVCZ1M1TVFjdzVES3FUTURfUlIzZHc?oc=5" target="_blank">Budget 2027 : le coup de rabot prévu sur l'aide aux personnes âgées fragiles fait polémique</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
