@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Wed, 18 Nov 2026 23:11:42 +0000`
-> 115 articles (30 derniers jours)
+> Derniere mise a jour : `Thu, 19 Nov 2026 14:44:06 +0000`
+> 112 articles (30 derniers jours)
+
+---
+
+### [Fraude fiscale : ces centaines de millions d'euros des cryptomonnaies qui échappent à l'impôt - Les Echos](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQd2c0SnNXSVNWLUFxSU5wZ0FpLTlsMmtzNVhmYjhNQ1dDaTBXeUcxU081NlZqZjBxU3hjNEQxbDhfTGE3cDZ0aVpOV3g4S1BKV1dzMHJ3OTlPQm80c0xxOU9WMzd0SnNjdkxvOEF5eHdEa05sU2xwRTNXOVI4MDVGY0dWaF9oUHNnM2wyeUt2dWNQVG1YOUVMemx3RlFFQUtHREFnX1BZS0dmWjVtVUZHZHRJU09uSDNLb0tlUzB1dUVWbHRZWnU3X1ZtZjMzSW96bnB4aDdSVUtTYmJHXzhDaUhIV2dqdDFvZGc?oc=5)
+
+`Thu, 19 Nov 2026 14:11:55 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi6gFBVV95cUxQd2c0SnNXSVNWLUFxSU5wZ0FpLTlsMmtzNVhmYjhNQ1dDaTBXeUcxU081NlZqZjBxU3hjNEQxbDhfTGE3cDZ0aVpOV3g4S1BKV1dzMHJ3OTlPQm80c0xxOU9WMzd0SnNjdkxvOEF5eHdEa05sU2xwRTNXOVI4MDVGY0dWaF9oUHNnM2wyeUt2dWNQVG1YOUVMemx3RlFFQUtHREFnX1BZS0dmWjVtVUZHZHRJU09uSDNLb0tlUzB1dUVWbHRZWnU3X1ZtZjMzSW96bnB4aDdSVUtTYmJHXzhDaUhIV2dqdDFvZGc?oc=5" target="_blank">Fraude fiscale : ces centaines de millions d'euros des cryptomonnaies qui échappent à l'impôt</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -890,37 +898,5 @@
 `Tue, 20 Oct 2026 17:21:22 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi5gFBVV95cUxPUmdWVVBvUEM0d0Y4UGpKb0dpOUpwSUQtVllJYnRFWHdhSEN0dHI1V1RqdDhEbzhtR2RpcWstMFRQRXZuRXc5RnY0elluRkpUaUI4bEFtd19NYzZtNFNWbVRva0FwUXNwNlJHMjRtUUZCeFNEdVgwSFdVUTVHTHBoN2NLRDd5Y0E4QWFEa19SUldNQUk5d3gtNnB5YnVDSzVWQUhET3RWT3JnTTdfSDVENGI1Rk9aNW1TQUJXaFpJRmxmLS1kaC00a0NObE5udG1iekg3aDlfejA2RHU1d3UwcW5hRnhHUQ?oc=5" target="_blank">Derrière le déficit de la Sécurité sociale, l'épineuse question de son financement sur les marchés</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Canicules de l'été : quels secteurs d'activité ont été les plus impactés ? - Les Echos](https://news.google.com/rss/articles/CBMixwFBVV95cUxQLXg4NjBkX0wzakVtWjNHNWN2TGs3QVEyLWlHMHpIRjFWWHp4OG9zY0JXQ3RXZTZvc29XSDNuM2dfckxxVTRwVGVsZG91T3dCQ04xTUNBTTk2Z2lScml5ckRmVFZLUl9oQmdIUklNdFpNVndrei10RnhnSnJqcjdWRDRBb2JnZldtRFo4c01CQUZraHdVMUJBQ0V6SnEybW1BeVNHVzlFbHlTaldmazJaaHp6YTd0UzZkZHVJWWFfdUx2YWl1d0xV?oc=5)
-
-`Tue, 20 Oct 2026 12:51:26 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMixwFBVV95cUxQLXg4NjBkX0wzakVtWjNHNWN2TGs3QVEyLWlHMHpIRjFWWHp4OG9zY0JXQ3RXZTZvc29XSDNuM2dfckxxVTRwVGVsZG91T3dCQ04xTUNBTTk2Z2lScml5ckRmVFZLUl9oQmdIUklNdFpNVndrei10RnhnSnJqcjdWRDRBb2JnZldtRFo4c01CQUZraHdVMUJBQ0V6SnEybW1BeVNHVzlFbHlTaldmazJaaHp6YTd0UzZkZHVJWWFfdUx2YWl1d0xV?oc=5" target="_blank">Canicules de l'été : quels secteurs d'activité ont été les plus impactés ?</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Budget 2027 : les débats fiscaux s'éternisent à l'Assemblée nationale - Les Echos](https://news.google.com/rss/articles/CBMiygFBVV95cUxOUElsazEzUGNfem5uV1NGaURrNEZkMl9NWng3ZEpaemQ1Mm5sX3JhRkFPRlpQWDg1LTVvTVd5dUY1eF80djBxZnNUdDBidGY3S3FHWTl4Rk1Zc002T0VRZGptd3QyR0ZndVhJdEw1bzNVbDY0ZmM2cWxEdWp3RkptbFZibngxZEUxeGNhSFVxeUVzZ1p0V3Z1Q3ZvQ3RLUjhFTzVzQzlINUc5aDNjR3BKM25MQzdCck5XbmVHOWpMZmpoNEtEQ0ttMVhB?oc=5)
-
-`Tue, 20 Oct 2026 11:30:53 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxOUElsazEzUGNfem5uV1NGaURrNEZkMl9NWng3ZEpaemQ1Mm5sX3JhRkFPRlpQWDg1LTVvTVd5dUY1eF80djBxZnNUdDBidGY3S3FHWTl4Rk1Zc002T0VRZGptd3QyR0ZndVhJdEw1bzNVbDY0ZmM2cWxEdWp3RkptbFZibngxZEUxeGNhSFVxeUVzZ1p0V3Z1Q3ZvQ3RLUjhFTzVzQzlINUc5aDNjR3BKM25MQzdCck5XbmVHOWpMZmpoNEtEQ0ttMVhB?oc=5" target="_blank">Budget 2027 : les débats fiscaux s'éternisent à l'Assemblée nationale</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Fonction publique : les trois scénarios de réforme pour réinventer le modèle - Les Echos](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPT2QzdDFsSTFuQ3UyQ19XNHljaGUtcXVET3Y0cU5VajVKamFBbDh0TTNFRm5ZUlpKUWZQMXhxX3dJVGQzWmNWT0pUdldNTEZiMG9jclptMVByRmp4NnlPMk56clBWcV9oRjBUS2x2Qm84dTAxbENWcmp3Vk9kMW1PRDhLVUxqaGRmQjBhbVY0ZU9sbXdYZzFZSFVlZ2tESjRlNWFnTVpla0RUSmJ2dlp2T0J6OE5fY1UzVzRzNE9zd3pJRi05aDBFdw?oc=5)
-
-`Tue, 20 Oct 2026 04:00:08 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxPT2QzdDFsSTFuQ3UyQ19XNHljaGUtcXVET3Y0cU5VajVKamFBbDh0TTNFRm5ZUlpKUWZQMXhxX3dJVGQzWmNWT0pUdldNTEZiMG9jclptMVByRmp4NnlPMk56clBWcV9oRjBUS2x2Qm84dTAxbENWcmp3Vk9kMW1PRDhLVUxqaGRmQjBhbVY0ZU9sbXdYZzFZSFVlZ2tESjRlNWFnTVpla0RUSmJ2dlp2T0J6OE5fY1UzVzRzNE9zd3pJRi05aDBFdw?oc=5" target="_blank">Fonction publique : les trois scénarios de réforme pour réinventer le modèle</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Défense : pourquoi les Armées veulent éviter le « cauchemar » d'une absence de budget en 2027 - Les Echos](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOLVE2bmRzc183X2ZRaElJd3NZWFM5Nmc3c2pCaERhZGdHQkY5N1RQUWVjYnM0dlR6VkhyaTY5T2hSZ05vOEhNcmRJRnpCRGR2M29VRk1UcGpiU0tzbjhOWVRZZDNRVk9tVFoycVBEN0dZRDltTkh1TlJETkduUWJpSjVRaG16cmlfSkJ0OXBYRzAtYmR0WTRabk1XVXJjeDF1dTJycWk0OEkwckVjMUtBZWlHbGswYUo1Yi11QmtGWG5uYW9QN3ZvUVJ0SVJJbmNSU0U1S1NBaldYU3RKcS1VdHI5dlQtZw?oc=5)
-
-`Tue, 20 Oct 2026 09:20:03 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi5gFBVV95cUxOLVE2bmRzc183X2ZRaElJd3NZWFM5Nmc3c2pCaERhZGdHQkY5N1RQUWVjYnM0dlR6VkhyaTY5T2hSZ05vOEhNcmRJRnpCRGR2M29VRk1UcGpiU0tzbjhOWVRZZDNRVk9tVFoycVBEN0dZRDltTkh1TlJETkduUWJpSjVRaG16cmlfSkJ0OXBYRzAtYmR0WTRabk1XVXJjeDF1dTJycWk0OEkwckVjMUtBZWlHbGswYUo1Yi11QmtGWG5uYW9QN3ZvUVJ0SVJJbmNSU0U1S1NBaldYU3RKcS1VdHI5dlQtZw?oc=5" target="_blank">Défense : pourquoi les Armées veulent éviter le « cauchemar » d'une absence de budget en 2027</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
