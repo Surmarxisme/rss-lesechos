@@ -1,7 +1,23 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Thu, 19 Nov 2026 14:44:06 +0000`
-> 112 articles (30 derniers jours)
+> Derniere mise a jour : `Thu, 19 Nov 2026 18:06:36 +0000`
+> 113 articles (30 derniers jours)
+
+---
+
+### [Emploi : le dispositif « Territoire zéro chômeur » pérennisé - Les Echos](https://news.google.com/rss/articles/CBMirgFBVV95cUxPQjVyYXNMSU9oQmJSQ1BZVEh2XzhRbEVVQ1FaVGJ4RkRaRkU3WWtobEdFTFY4M08teGZIWjBUbzAyeE94bU9ISWdMWU1QeFFoVWRmWmREY2NUYjhSNHpYWDVsdUprX3NxWjhpTWpHWVRRYS1uZGp0NXkxb1lnUGJzZnVsaHQ2d0VmelFVZ1FhTVhxVHFZRkI0M040Y2dVNGZZS2RVbEhRZGxXMU5zQXc?oc=5)
+
+`Thu, 19 Nov 2026 14:52:19 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxPQjVyYXNMSU9oQmJSQ1BZVEh2XzhRbEVVQ1FaVGJ4RkRaRkU3WWtobEdFTFY4M08teGZIWjBUbzAyeE94bU9ISWdMWU1QeFFoVWRmWmREY2NUYjhSNHpYWDVsdUprX3NxWjhpTWpHWVRRYS1uZGp0NXkxb1lnUGJzZnVsaHQ2d0VmelFVZ1FhTVhxVHFZRkI0M040Y2dVNGZZS2RVbEhRZGxXMU5zQXc?oc=5" target="_blank">Emploi : le dispositif « Territoire zéro chômeur » pérennisé</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [L'attractivité de la France, grande absente du débat présidentiel - Les Echos](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQN2tNdEZMUFVHUzI1aW1Gczd2QzAybW5rODg3dTRpckVkZjAwT0dGWWVGdWRhMGNjTFZFbFV2c2RHRUI1WTd3ZnphRGV3QkZsTWxQSWVIaFNxckZFQlE3TjNTRGRLZDVMLWIyaEpkblVCOVlXZHBjYXZOYzdxdUZKcE9GZmhwRlgyaUtKRi1jaG9sdmU1S1ZEazBTTWhGdWdGRkRwUExMTGcyc053bDZVNVRYNHhlYkx5WWRtSnluQks?oc=5)
+
+`Thu, 19 Nov 2026 14:43:39 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxQN2tNdEZMUFVHUzI1aW1Gczd2QzAybW5rODg3dTRpckVkZjAwT0dGWWVGdWRhMGNjTFZFbFV2c2RHRUI1WTd3ZnphRGV3QkZsTWxQSWVIaFNxckZFQlE3TjNTRGRLZDVMLWIyaEpkblVCOVlXZHBjYXZOYzdxdUZKcE9GZmhwRlgyaUtKRi1jaG9sdmU1S1ZEazBTTWhGdWdGRkRwUExMTGcyc053bDZVNVRYNHhlYkx5WWRtSnluQks?oc=5" target="_blank">L'attractivité de la France, grande absente du débat présidentiel</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -890,13 +906,5 @@
 `Wed, 21 Oct 2026 04:00:09 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMigAJBVV95cUxQUTN1N184WjRYSTBLckwxT21IYVBDUFNldlJscHluamxmTFlpd09rT3BNZ3RBZjdEck45YU1sazI5cEo1d1lKVFVCbGtZeHVQNkhwS0FFTGlES191VnNOSWJwRDBrekhmbTdGNU4yQVZ3OWpTdWdUWFFDeGd6QkI2eWprd3U3VGZWaUlSOC1LR3IxalRVVnBuekNPbC1nU05QTmZZanBaZDM2VlhkRkk4QjhvVG9hdklVS2VodzFJa2E0dy1pOVhTVHBfaE8tVjRfOTYtNmdlVHlyS1JDWWlTSURvckNvMEtMZnIzRTJ3V1pPNWk5bC0zT1BIbm5qb1ZF?oc=5" target="_blank">Après la mobilisation du 17 octobre, les syndicats à Matignon pour tenter d'arracher des mesures sur le pouvoir d'achat</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Derrière le déficit de la Sécurité sociale, l'épineuse question de son financement sur les marchés - Les Echos](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPUmdWVVBvUEM0d0Y4UGpKb0dpOUpwSUQtVllJYnRFWHdhSEN0dHI1V1RqdDhEbzhtR2RpcWstMFRQRXZuRXc5RnY0elluRkpUaUI4bEFtd19NYzZtNFNWbVRva0FwUXNwNlJHMjRtUUZCeFNEdVgwSFdVUTVHTHBoN2NLRDd5Y0E4QWFEa19SUldNQUk5d3gtNnB5YnVDSzVWQUhET3RWT3JnTTdfSDVENGI1Rk9aNW1TQUJXaFpJRmxmLS1kaC00a0NObE5udG1iekg3aDlfejA2RHU1d3UwcW5hRnhHUQ?oc=5)
-
-`Tue, 20 Oct 2026 17:21:22 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi5gFBVV95cUxPUmdWVVBvUEM0d0Y4UGpKb0dpOUpwSUQtVllJYnRFWHdhSEN0dHI1V1RqdDhEbzhtR2RpcWstMFRQRXZuRXc5RnY0elluRkpUaUI4bEFtd19NYzZtNFNWbVRva0FwUXNwNlJHMjRtUUZCeFNEdVgwSFdVUTVHTHBoN2NLRDd5Y0E4QWFEa19SUldNQUk5d3gtNnB5YnVDSzVWQUhET3RWT3JnTTdfSDVENGI1Rk9aNW1TQUJXaFpJRmxmLS1kaC00a0NObE5udG1iekg3aDlfejA2RHU1d3UwcW5hRnhHUQ?oc=5" target="_blank">Derrière le déficit de la Sécurité sociale, l'épineuse question de son financement sur les marchés</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
