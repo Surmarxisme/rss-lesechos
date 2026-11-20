@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Fri, 20 Nov 2026 14:25:37 +0000`
-> 114 articles (30 derniers jours)
+> Derniere mise a jour : `Fri, 20 Nov 2026 17:40:10 +0000`
+> 115 articles (30 derniers jours)
+
+---
+
+### [« Les employeurs jouent la montre » : les syndicats relancent la mobilisation pour le pouvoir d'achat dans le privé et le public - Les Echos](https://news.google.com/rss/articles/CBMihwJBVV95cUxPY3ZBaHJieWM5em5GTmFWR1pFY1NQVFNjek1tQjRzNVhSVVhHTV8tZzdLNlU3VUVBT2FZQW9idUlvRHVNZ2c0Rjcxb3RDX1FxU3d4MkJZd1B1d0JGOXVfSkxTbzYzWkZfWlVLQnc4ZTZET0xDZktzeGs2LUZJYUxOSldORks3cm5zaFhrdnJzRXVLV1pmdkktYzh3LWhtdjFMN0swRHhtWGtiN3gzM3UxU2cwSmstVVR2ZTExR2FmX0lObnBabFVabVlHUUM1Z3BxRDlody1oYV9sVEg0QXl0VDljMVpwYmFWWm5Cb3lXZUMyZHprZTBMMTdrY0pyMUp1SDFnSTRLQQ?oc=5)
+
+`Fri, 20 Nov 2026 15:57:31 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMihwJBVV95cUxPY3ZBaHJieWM5em5GTmFWR1pFY1NQVFNjek1tQjRzNVhSVVhHTV8tZzdLNlU3VUVBT2FZQW9idUlvRHVNZ2c0Rjcxb3RDX1FxU3d4MkJZd1B1d0JGOXVfSkxTbzYzWkZfWlVLQnc4ZTZET0xDZktzeGs2LUZJYUxOSldORks3cm5zaFhrdnJzRXVLV1pmdkktYzh3LWhtdjFMN0swRHhtWGtiN3gzM3UxU2cwSmstVVR2ZTExR2FmX0lObnBabFVabVlHUUM1Z3BxRDlody1oYV9sVEg0QXl0VDljMVpwYmFWWm5Cb3lXZUMyZHprZTBMMTdrY0pyMUp1SDFnSTRLQQ?oc=5" target="_blank">« Les employeurs jouent la montre » : les syndicats relancent la mobilisation pour le pouvoir d'achat dans le privé et le public</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
