@@ -1,7 +1,23 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Thu, 19 Nov 2026 23:18:41 +0000`
-> 113 articles (30 derniers jours)
+> Derniere mise a jour : `Fri, 20 Nov 2026 14:25:37 +0000`
+> 114 articles (30 derniers jours)
+
+---
+
+### [Les patrons français s'enfoncent dans la déprime - Les Echos](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMjIza0tVdHdPZWgydnBZcXNMUDBjeWFIQmR1S2tpZVY1czJndkU4Zkp2VFdmakMwSS1nT2dHRzdyeTJFTmQyV2pramdWSHUxU29neWJQQUhqdFB6cXdpd1NfaU5FM3RZTnVUazF6MmZqSlh2bWJKQXYyOThINmRsY1h0MHhyTlB5cjJqV3E0eFRfcDU5RkxJUFlTSEhINzdmUHNRUlFMUF93cDA?oc=5)
+
+`Fri, 20 Nov 2026 10:39:27 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMjIza0tVdHdPZWgydnBZcXNMUDBjeWFIQmR1S2tpZVY1czJndkU4Zkp2VFdmakMwSS1nT2dHRzdyeTJFTmQyV2pramdWSHUxU29neWJQQUhqdFB6cXdpd1NfaU5FM3RZTnVUazF6MmZqSlh2bWJKQXYyOThINmRsY1h0MHhyTlB5cjJqV3E0eFRfcDU5RkxJUFlTSEhINzdmUHNRUlFMUF93cDA?oc=5" target="_blank">Les patrons français s'enfoncent dans la déprime</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Surtaxe sur les bénéfices, retraites, prime d'activité… les grands enjeux du débat sur le budget au Sénat - Les Echos](https://news.google.com/rss/articles/CBMi-gFBVV95cUxQTUc4M0x2ZWc4dzEtZEI5X3N6amY3bkcwQ2JMNFJrX2JTa01aUDd1eVRVeGdWdWQ5ZWRfZ1BCMktuZktIWmtPa3dlRmpNR1ZDdUtXelJJQi1wdUVfeUliVUJqTkhfTHIxZC1ydFlRU2czaTl4NkF3cy1ScGg5ZEJkSXhiV28tSjE5ZXpPVVNsNHVtZGVReUF4WmVkeVpqQ09DUm4xdDZEeHNhdzdCZlpMTHZRRk9WcUxGZFpjQTdVU3BwbGU1WmYwN2stUXpMOU5YZzBnNWY2b3E0Ti05dndfTV9EekhCWlp3NTI0STZKd25sc1BwRS1ZNVlB?oc=5)
+
+`Fri, 20 Nov 2026 05:15:08 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi-gFBVV95cUxQTUc4M0x2ZWc4dzEtZEI5X3N6amY3bkcwQ2JMNFJrX2JTa01aUDd1eVRVeGdWdWQ5ZWRfZ1BCMktuZktIWmtPa3dlRmpNR1ZDdUtXelJJQi1wdUVfeUliVUJqTkhfTHIxZC1ydFlRU2czaTl4NkF3cy1ScGg5ZEJkSXhiV28tSjE5ZXpPVVNsNHVtZGVReUF4WmVkeVpqQ09DUm4xdDZEeHNhdzdCZlpMTHZRRk9WcUxGZFpjQTdVU3BwbGU1WmYwN2stUXpMOU5YZzBnNWY2b3E0Ti05dndfTV9EekhCWlp3NTI0STZKd25sc1BwRS1ZNVlB?oc=5" target="_blank">Surtaxe sur les bénéfices, retraites, prime d'activité… les grands enjeux du débat sur le budget au Sénat</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -898,13 +914,5 @@
 `Wed, 21 Oct 2026 17:47:39 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi4AFBVV95cUxPcV9xa3ItYmFjcEhLcXFhZy03U3BSUlJyNDFWdnNwamxRcGRrVU9QZVlqc25zQzg5WU1jb0hrLUtqajFtZGREV2lPa2UtdTM5cVo5Z2xSVC14WVhmN3dYblNmSEo4b2RmMjI4TnV4QklIVktkbmhwelEzai13a3EwdTBVYjQyVmxMYnltUXlBRFpmVU1KN1JRN3JsQ3lCNWxhWWlldk5ZczlQekl4clZXaC12alFadmkzWndDckVneVJZM21LajZNYlNTcng2WDZubGdwbnFsQ0tyUHkzUFFScQ?oc=5" target="_blank">Dette de la France : la charge d'intérêts dépassera les 100 milliards d'euros dès 2028</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Après la mobilisation du 17 octobre, les syndicats à Matignon pour tenter d'arracher des mesures sur le pouvoir d'achat - Les Echos](https://news.google.com/rss/articles/CBMigAJBVV95cUxQUTN1N184WjRYSTBLckwxT21IYVBDUFNldlJscHluamxmTFlpd09rT3BNZ3RBZjdEck45YU1sazI5cEo1d1lKVFVCbGtZeHVQNkhwS0FFTGlES191VnNOSWJwRDBrekhmbTdGNU4yQVZ3OWpTdWdUWFFDeGd6QkI2eWprd3U3VGZWaUlSOC1LR3IxalRVVnBuekNPbC1nU05QTmZZanBaZDM2VlhkRkk4QjhvVG9hdklVS2VodzFJa2E0dy1pOVhTVHBfaE8tVjRfOTYtNmdlVHlyS1JDWWlTSURvckNvMEtMZnIzRTJ3V1pPNWk5bC0zT1BIbm5qb1ZF?oc=5)
-
-`Wed, 21 Oct 2026 04:00:09 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMigAJBVV95cUxQUTN1N184WjRYSTBLckwxT21IYVBDUFNldlJscHluamxmTFlpd09rT3BNZ3RBZjdEck45YU1sazI5cEo1d1lKVFVCbGtZeHVQNkhwS0FFTGlES191VnNOSWJwRDBrekhmbTdGNU4yQVZ3OWpTdWdUWFFDeGd6QkI2eWprd3U3VGZWaUlSOC1LR3IxalRVVnBuekNPbC1nU05QTmZZanBaZDM2VlhkRkk4QjhvVG9hdklVS2VodzFJa2E0dy1pOVhTVHBfaE8tVjRfOTYtNmdlVHlyS1JDWWlTSURvckNvMEtMZnIzRTJ3V1pPNWk5bC0zT1BIbm5qb1ZF?oc=5" target="_blank">Après la mobilisation du 17 octobre, les syndicats à Matignon pour tenter d'arracher des mesures sur le pouvoir d'achat</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
