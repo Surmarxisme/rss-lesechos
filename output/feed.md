@@ -1,7 +1,7 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Fri, 20 Nov 2026 17:40:10 +0000`
-> 115 articles (30 derniers jours)
+> Derniere mise a jour : `Fri, 20 Nov 2026 19:27:47 +0000`
+> 112 articles (30 derniers jours)
 
 ---
 
@@ -898,29 +898,5 @@
 `Thu, 22 Oct 2026 04:05:12 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxPZnBrVm9rVDRPNklZOWpRdm14bmkxYlp4RzFWNnNPYk15SGhHaGg4NmhHbml5ODFWQTFFQUxsTFhyckZPOWhVTnBJN181VHpRM3FnZGsxTzNPaHNQVzd5dTIySC0xQ1A3ZFlCZHRRM2ljQ0NpaDFFUU9BUk8wZi0tTGF4YlRqT05QcFQwSW1jN1VPVl91bmExaGVza1lXNVNqcm5PN0FWeVVvM3hYQjZZWEp0dFN6S2hfV1hqVmcyRWZmaHE4bnVjQmJB?oc=5" target="_blank">Transmission d'entreprise : un rapport pour lever les freins à la reprise</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Les syndicats très déçus à l'issue de leur rencontre à Matignon - Les Echos](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdEYyMHcxM2plTXkzZ1ZFbFFNT2tNbkVIT21fb28wcTlqaVBzaGhfdGg4R0Q5TE1yeGZwdWNuUUwtcFRFSlVEbGNBRFpBa3pWTU9iSjE3TWt5NWgtRkQ1ZmFQajd1emFXZlIyZG1iY09FdkEwNVM0TnczUWlTOS15R21SRUM0U0R4ZVdQbi05LXJlNW53LVhCSjQ1YzFmRFUydFp6bkI1cnFKUHRkUTFQM1Q2THBTWGh0?oc=5)
-
-`Wed, 21 Oct 2026 17:52:41 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdEYyMHcxM2plTXkzZ1ZFbFFNT2tNbkVIT21fb28wcTlqaVBzaGhfdGg4R0Q5TE1yeGZwdWNuUUwtcFRFSlVEbGNBRFpBa3pWTU9iSjE3TWt5NWgtRkQ1ZmFQajd1emFXZlIyZG1iY09FdkEwNVM0TnczUWlTOS15R21SRUM0U0R4ZVdQbi05LXJlNW53LVhCSjQ1YzFmRFUydFp6bkI1cnFKUHRkUTFQM1Q2THBTWGh0?oc=5" target="_blank">Les syndicats très déçus à l'issue de leur rencontre à Matignon</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [« Un squatteur qui se sert dans le frigo » : l'assurance-chômage dénonce la nouvelle ponction de l'Etat - Les Echos](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSXNtWFVXOWkzR2lsanI0bWpHTjZDX3UwRTlTUGVzVUhLMVFibXZUSHRsTFRMaE42NjZwamZkR3YyNVFJYkNPVTIySXpYemQxSzJpMnB1c0lmMzExREo2WXF6RHFoSTdVXzNRR1BoMGtFdDlhNDU0ald1aU45Zi13VWo4Wi02QVNHMlFVRjVnX1FDazhYd3N1UTE0MUNBa3Q2V2YwRENjNmoyMm5Nc2VrLWZObHRrTXA1ZFhlTDhGLUFQMHk4QU1YX3RXYW02TWd5VXJJaEVKTThfZVUzT1dfbm52WXQ?oc=5)
-
-`Wed, 21 Oct 2026 18:09:02 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSXNtWFVXOWkzR2lsanI0bWpHTjZDX3UwRTlTUGVzVUhLMVFibXZUSHRsTFRMaE42NjZwamZkR3YyNVFJYkNPVTIySXpYemQxSzJpMnB1c0lmMzExREo2WXF6RHFoSTdVXzNRR1BoMGtFdDlhNDU0ald1aU45Zi13VWo4Wi02QVNHMlFVRjVnX1FDazhYd3N1UTE0MUNBa3Q2V2YwRENjNmoyMm5Nc2VrLWZObHRrTXA1ZFhlTDhGLUFQMHk4QU1YX3RXYW02TWd5VXJJaEVKTThfZVUzT1dfbm52WXQ?oc=5" target="_blank">« Un squatteur qui se sert dans le frigo » : l'assurance-chômage dénonce la nouvelle ponction de l'Etat</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Dette de la France : la charge d'intérêts dépassera les 100 milliards d'euros dès 2028 - Les Echos](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPcV9xa3ItYmFjcEhLcXFhZy03U3BSUlJyNDFWdnNwamxRcGRrVU9QZVlqc25zQzg5WU1jb0hrLUtqajFtZGREV2lPa2UtdTM5cVo5Z2xSVC14WVhmN3dYblNmSEo4b2RmMjI4TnV4QklIVktkbmhwelEzai13a3EwdTBVYjQyVmxMYnltUXlBRFpmVU1KN1JRN3JsQ3lCNWxhWWlldk5ZczlQekl4clZXaC12alFadmkzWndDckVneVJZM21LajZNYlNTcng2WDZubGdwbnFsQ0tyUHkzUFFScQ?oc=5)
-
-`Wed, 21 Oct 2026 17:47:39 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi4AFBVV95cUxPcV9xa3ItYmFjcEhLcXFhZy03U3BSUlJyNDFWdnNwamxRcGRrVU9QZVlqc25zQzg5WU1jb0hrLUtqajFtZGREV2lPa2UtdTM5cVo5Z2xSVC14WVhmN3dYblNmSEo4b2RmMjI4TnV4QklIVktkbmhwelEzai13a3EwdTBVYjQyVmxMYnltUXlBRFpmVU1KN1JRN3JsQ3lCNWxhWWlldk5ZczlQekl4clZXaC12alFadmkzWndDckVneVJZM21LajZNYlNTcng2WDZubGdwbnFsQ0tyUHkzUFFScQ?oc=5" target="_blank">Dette de la France : la charge d'intérêts dépassera les 100 milliards d'euros dès 2028</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
