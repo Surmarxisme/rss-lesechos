@@ -1,7 +1,23 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Fri, 20 Nov 2026 22:51:05 +0000`
-> 112 articles (30 derniers jours)
+> Derniere mise a jour : `Sat, 21 Nov 2026 16:39:42 +0000`
+> 111 articles (30 derniers jours)
+
+---
+
+### [Comment fonctionne vraiment le SMIC ? - Les Echos](https://news.google.com/rss/articles/CBMilAFBVV95cUxPVDZ5TnZtU3Nzd2pPNDlsM0FxVzJFbHNMZXJXNlkxOENwb0NjZDg2di1keW9IOFlpdHM0LVlJZERWc2xZbGRGOTk5MXluZG1LdWgxVzh5SHlJbWFWdjJadWE0cjA2d2I5a1B0TkdtZHpQd2oxTmdYVldCQzY3cXlUYjV2dDc1V2RVTU5ZWndybHBtRlp4?oc=5)
+
+`Sat, 21 Nov 2026 09:00:09 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMilAFBVV95cUxPVDZ5TnZtU3Nzd2pPNDlsM0FxVzJFbHNMZXJXNlkxOENwb0NjZDg2di1keW9IOFlpdHM0LVlJZERWc2xZbGRGOTk5MXluZG1LdWgxVzh5SHlJbWFWdjJadWE0cjA2d2I5a1B0TkdtZHpQd2oxTmdYVldCQzY3cXlUYjV2dDc1V2RVTU5ZWndybHBtRlp4?oc=5" target="_blank">Comment fonctionne vraiment le SMIC ?</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Taxe Zucman : partisans et opposants fourbissent leurs armes en vue de la présidentielle - Les Echos](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNTnZ4YzNnWXpYWGE2b3dDeERtWjhsRC1rMlRiN1hZR3AzcHBIdUN3N3RZU2o0eHhpeXhaMjFtSFpOWGRmcmRVVmZRamNPaHkyM1ZUNFNCaUpkRmZHRnNOdWs4ZzVYRVFUdXZqWTh0V21BWEc3OFlyai0yNVdWazB5SkNSVHVQM2NSdW9hR3BqZXpXS2tvVG9BXzRyVFRNQURqZDk3UWtZS2VaVnRVdF8zRGlGSVNsU01GNk1SM1Q1dno5UmhxVnQyTVJSUllhRkd1eDR2NHVwbU1qenFoTkRlQmZENFNYdw?oc=5)
+
+`Sat, 21 Nov 2026 06:20:08 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi5gFBVV95cUxNTnZ4YzNnWXpYWGE2b3dDeERtWjhsRC1rMlRiN1hZR3AzcHBIdUN3N3RZU2o0eHhpeXhaMjFtSFpOWGRmcmRVVmZRamNPaHkyM1ZUNFNCaUpkRmZHRnNOdWs4ZzVYRVFUdXZqWTh0V21BWEc3OFlyai0yNVdWazB5SkNSVHVQM2NSdW9hR3BqZXpXS2tvVG9BXzRyVFRNQURqZDk3UWtZS2VaVnRVdF8zRGlGSVNsU01GNk1SM1Q1dno5UmhxVnQyTVJSUllhRkd1eDR2NHVwbU1qenFoTkRlQmZENFNYdw?oc=5" target="_blank">Taxe Zucman : partisans et opposants fourbissent leurs armes en vue de la présidentielle</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -874,29 +890,5 @@
 `Fri, 23 Oct 2026 04:15:10 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi7AFBVV95cUxNMEJOdXprcEIxSmdkUTNQMmZrb1llWnNfTUtZVUxMdWJqa0kzRUVrc2l6LW9BY2pLT1VFb2phZzNzNUtLSm1hM2xrbFFhZU1zZ0t5M2dyRnlTZ2hodUVBT0FybmhjNVF5dlNTWnNzYjc4YVhfQ092UlBSbjZfY1I5Q0pZZi1KZHYzWEZVR19rZ3MzNWtVbHNiNWI2NG83NEMzS3Y4NTgtM0d4QXJCS25WZl90aDVZc3pyYVVLbE1ScnFYeGF4WTdtWEg4SVdoYm1naXhXMVYyWmhMc0ROXzdQa1gxY25WR1N4Z3BLUA?oc=5" target="_blank">« Les tensions sociales changent déjà la donne » : l'économie française sous la menace d'un nouveau choc</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [« Pour lui, le budget, c'est de l'intendance » : le roman noir des années Macron, la décennie qui a mis le feu à la dette - Les Echos](https://news.google.com/rss/articles/CBMihgJBVV95cUxQRXZ3bGNkLWczZTAwYU1IR3JSSXFkTWVxZHRfZ0xyYzFKOGF6cHZZdGpGMEJXTnFPZkxYd3Q5andPYWV3ZjJrbTVVbm5rTTdaNjV6S21QZUVNcVpJck9QQnVQNHdSc0ZpTmw3TlU2Y0JEQmJqV2g1dVRLMW1iNU5jX1hOUXFoc2JsMF90WVMxaVozR3VlQkFMYUF2Vl9jM1VvaXo1RThROHVXYUNaZmVOay1TREstZS1xd0FaYzJzbzBlSVFRc3JldlJ1ZWw4TmJLWm51LXQ4aGdDVC1aOUtXM1VCTTNPVXhrQ2JfdjFyZUd5d0g3SkVWMXpVWE9GMU9FdVZzM2pR?oc=5)
-
-`Thu, 22 Oct 2026 04:20:14 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMihgJBVV95cUxQRXZ3bGNkLWczZTAwYU1IR3JSSXFkTWVxZHRfZ0xyYzFKOGF6cHZZdGpGMEJXTnFPZkxYd3Q5andPYWV3ZjJrbTVVbm5rTTdaNjV6S21QZUVNcVpJck9QQnVQNHdSc0ZpTmw3TlU2Y0JEQmJqV2g1dVRLMW1iNU5jX1hOUXFoc2JsMF90WVMxaVozR3VlQkFMYUF2Vl9jM1VvaXo1RThROHVXYUNaZmVOay1TREstZS1xd0FaYzJzbzBlSVFRc3JldlJ1ZWw4TmJLWm51LXQ4aGdDVC1aOUtXM1VCTTNPVXhrQ2JfdjFyZUd5d0g3SkVWMXpVWE9GMU9FdVZzM2pR?oc=5" target="_blank">« Pour lui, le budget, c'est de l'intendance » : le roman noir des années Macron, la décennie qui a mis le feu à la dette</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [EXCLUSIF - Pouvoir d'achat : le gouvernement étudie une hausse anticipée du SMIC - Les Echos](https://news.google.com/rss/articles/CBMiygFBVV95cUxNdDNzRmk0TU5EYXhDV2xucDZ3dU9mejZCYlgwTUtEY0xqcG1Ta1JkajZDSzVIOTRwUGZOVWhoVlV4dkNDa2VuMTRGU0NQa05XdVNzeUNrdGFTWEQzem9wTXlmZFoyNDFKbEVZX1l0b0xEM1lTS09TOHAwRTd1TnFJakRfa1g0a2lXSWpjUm5YblMyd21EdThEbm1hLWtwZlhyOHFyOC1fWFB4dmlDRFk1TnVHQjhfaXlCMmxobHNHU3VQc3V1d0dNakNn?oc=5)
-
-`Thu, 22 Oct 2026 10:25:37 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxNdDNzRmk0TU5EYXhDV2xucDZ3dU9mejZCYlgwTUtEY0xqcG1Ta1JkajZDSzVIOTRwUGZOVWhoVlV4dkNDa2VuMTRGU0NQa05XdVNzeUNrdGFTWEQzem9wTXlmZFoyNDFKbEVZX1l0b0xEM1lTS09TOHAwRTd1TnFJakRfa1g0a2lXSWpjUm5YblMyd21EdThEbm1hLWtwZlhyOHFyOC1fWFB4dmlDRFk1TnVHQjhfaXlCMmxobHNHU3VQc3V1d0dNakNn?oc=5" target="_blank">EXCLUSIF - Pouvoir d'achat : le gouvernement étudie une hausse anticipée du SMIC</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Transmission d'entreprise : un rapport pour lever les freins à la reprise - Les Echos](https://news.google.com/rss/articles/CBMiygFBVV95cUxPZnBrVm9rVDRPNklZOWpRdm14bmkxYlp4RzFWNnNPYk15SGhHaGg4NmhHbml5ODFWQTFFQUxsTFhyckZPOWhVTnBJN181VHpRM3FnZGsxTzNPaHNQVzd5dTIySC0xQ1A3ZFlCZHRRM2ljQ0NpaDFFUU9BUk8wZi0tTGF4YlRqT05QcFQwSW1jN1VPVl91bmExaGVza1lXNVNqcm5PN0FWeVVvM3hYQjZZWEp0dFN6S2hfV1hqVmcyRWZmaHE4bnVjQmJB?oc=5)
-
-`Thu, 22 Oct 2026 04:05:12 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxPZnBrVm9rVDRPNklZOWpRdm14bmkxYlp4RzFWNnNPYk15SGhHaGg4NmhHbml5ODFWQTFFQUxsTFhyckZPOWhVTnBJN181VHpRM3FnZGsxTzNPaHNQVzd5dTIySC0xQ1A3ZFlCZHRRM2ljQ0NpaDFFUU9BUk8wZi0tTGF4YlRqT05QcFQwSW1jN1VPVl91bmExaGVza1lXNVNqcm5PN0FWeVVvM3hYQjZZWEp0dFN6S2hfV1hqVmcyRWZmaHE4bnVjQmJB?oc=5" target="_blank">Transmission d'entreprise : un rapport pour lever les freins à la reprise</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
