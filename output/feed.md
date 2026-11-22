@@ -1,7 +1,47 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Sat, 21 Nov 2026 16:39:42 +0000`
-> 111 articles (30 derniers jours)
+> Derniere mise a jour : `Sun, 22 Nov 2026 16:58:09 +0000`
+> 112 articles (30 derniers jours)
+
+---
+
+### [Budget 2027 : la piste du 49.3 tient la corde - Les Echos](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQb1NpMzFQRnZRdzNaX3FuXzNQcTgwTlVLT3BQWWhDaEhVdEZDNmRHck5oLWJBbW9NakpYWXZYbGFzUWtMbko3ZEJSOTJPXzBTd25WaURjV042cFI2NjBNYzYtZG5uREtIOHFWcm4xYWRXV1F3dlA5aDRuM201QTBvUFo1ekZkWlV3WUJKUHVjY0o3LWJDM3VyQnQ2clFxNlhXT01fOExZVEJNOXc?oc=5)
+
+`Sun, 22 Nov 2026 08:05:09 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxQb1NpMzFQRnZRdzNaX3FuXzNQcTgwTlVLT3BQWWhDaEhVdEZDNmRHck5oLWJBbW9NakpYWXZYbGFzUWtMbko3ZEJSOTJPXzBTd25WaURjV042cFI2NjBNYzYtZG5uREtIOHFWcm4xYWRXV1F3dlA5aDRuM201QTBvUFo1ekZkWlV3WUJKUHVjY0o3LWJDM3VyQnQ2clFxNlhXT01fOExZVEJNOXc?oc=5" target="_blank">Budget 2027 : la piste du 49.3 tient la corde</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Choose France : l'investissement des entreprises, nouveau point noir de l'économie française - Les Echos](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOeUt0OHphSE5pWHRWQ2daaHdYdTVnTENDZ1ZiSmtUTTBwbV9jc2F2dk9RdlVpU1hNOE5KUERRT1VtclBsTU44cU1lSDJkRnY0MkUxaVdobmU0Y2Raem44SFdTQ3RLZDljU1FLekx5MWlYZEltQWFKb3gydHpnUVRWaVBOMlQ1M2RJajFROEFkM3pVLTh5MGJYSkVPWFBrSnBfd3dvdm03eHR3Zm5JUnRGTTF3cFpzaXZZOS02eWQxWHlVc2FSaXBpVFBmSHl2REVEeVdJTE9fRzVkbERBaTFMeA?oc=5)
+
+`Sun, 22 Nov 2026 08:35:09 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi4AFBVV95cUxOeUt0OHphSE5pWHRWQ2daaHdYdTVnTENDZ1ZiSmtUTTBwbV9jc2F2dk9RdlVpU1hNOE5KUERRT1VtclBsTU44cU1lSDJkRnY0MkUxaVdobmU0Y2Raem44SFdTQ3RLZDljU1FLekx5MWlYZEltQWFKb3gydHpnUVRWaVBOMlQ1M2RJajFROEFkM3pVLTh5MGJYSkVPWFBrSnBfd3dvdm03eHR3Zm5JUnRGTTF3cFpzaXZZOS02eWQxWHlVc2FSaXBpVFBmSHl2REVEeVdJTE9fRzVkbERBaTFMeA?oc=5" target="_blank">Choose France : l'investissement des entreprises, nouveau point noir de l'économie française</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Manifestations du 21 novembre : une mobilisation en baisse par rapport au samedi précédent - Les Echos](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQcWVQa1Brc0JhS09iS1c0ejNTU3dCeWVNY3BkQ01iUnZRbklEOEtSWUFxWEFQSGZaVzRRZk03eUV5ZmxTeTZLaGpySlVoZ1lSLXg4cFBYU3NQSlB4cUFBYnZNc1U4MkotdGZvM2FQeUh0aHhuMkFqdzhXaUZvd3liYVRwTFJGcElJel8wcnBxNjFCUWt6TV93RzdEd1lJYzNURTlQQ1U2VTlSM2RpalZQY1VzQkFVMWlDMlJWMEQ0NFZ4N1RHYUY1R3NPVlZCbEEyR3RjN2RqWlJ0MUU?oc=5)
+
+`Sat, 21 Nov 2026 18:06:54 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi2wFBVV95cUxQcWVQa1Brc0JhS09iS1c0ejNTU3dCeWVNY3BkQ01iUnZRbklEOEtSWUFxWEFQSGZaVzRRZk03eUV5ZmxTeTZLaGpySlVoZ1lSLXg4cFBYU3NQSlB4cUFBYnZNc1U4MkotdGZvM2FQeUh0aHhuMkFqdzhXaUZvd3liYVRwTFJGcElJel8wcnBxNjFCUWt6TV93RzdEd1lJYzNURTlQQ1U2VTlSM2RpalZQY1VzQkFVMWlDMlJWMEQ0NFZ4N1RHYUY1R3NPVlZCbEEyR3RjN2RqWlJ0MUU?oc=5" target="_blank">Manifestations du 21 novembre : une mobilisation en baisse par rapport au samedi précédent</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Budget : l'Elysée serait prêt à relancer le débat sur la règle d'or avant la présidentielle - Les Echos](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPazNQNHlPQjhtVkVWTzFPX3A3cjFrRWlDb3VFMV9rUmlkWXFMaF9RamRhN3NkeWwybm1xajAwelhJdXN0bS1yN3NoWFhPS1JGeUNBZ0hVOW1tSWVTLXpHX0EwM3p6cVVGei05NVNhazRGSDlNS1MxT3YxN1g3YzRVQWx3cVp4a3VTM3FSM1dWRVZYb0NYenlwVFYzc0VjNlJCdGVCdl9YbFZTSkpWMGp5dlA1LTM3b1M4VmJyWnByMnR0ZWRxTnhKVkVmendJS3lUUHpKZXdnUmE4STZpYm1tazk4amZSeXc?oc=5)
+
+`Sun, 22 Nov 2026 14:52:28 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi5wFBVV95cUxPazNQNHlPQjhtVkVWTzFPX3A3cjFrRWlDb3VFMV9rUmlkWXFMaF9RamRhN3NkeWwybm1xajAwelhJdXN0bS1yN3NoWFhPS1JGeUNBZ0hVOW1tSWVTLXpHX0EwM3p6cVVGei05NVNhazRGSDlNS1MxT3YxN1g3YzRVQWx3cVp4a3VTM3FSM1dWRVZYb0NYenlwVFYzc0VjNlJCdGVCdl9YbFZTSkpWMGp5dlA1LTM3b1M4VmJyWnByMnR0ZWRxTnhKVkVmendJS3lUUHpKZXdnUmE4STZpYm1tazk4amZSeXc?oc=5" target="_blank">Budget : l'Elysée serait prêt à relancer le débat sur la règle d'or avant la présidentielle</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [« La règle d'or, c'est à terme une dizaine de milliards d'euros économisés chaque année » - Les Echos](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOODBja21pRXJYbVB2Y0ZXVzVTd2xDbnoyY0lrVVJuQ1UzdV9yZk9qQ2xOeF9vWDlKNUpUdFdZZ1dUZ0xEbE1uOFRrMHRSaWxXUHAwV2RLdHZJZUc1ZllmN0RWazBSQy1JZHVVN21SZEFUSzR0M2FZTUZiVDlpOS02UUJPeUt0LTgxdnBPRnBrMGZ4cVY4OEFhakwxcFc2NW02YnBjQ2FBcWFtUlpobWV0VjBLSzVObkxHNk1xc0gweWx0RUduVEtwSDZ6UWUyUU9qTlRZdlBmSkM1NGlVd3NJ?oc=5)
+
+`Sun, 22 Nov 2026 15:55:42 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi3wFBVV95cUxOODBja21pRXJYbVB2Y0ZXVzVTd2xDbnoyY0lrVVJuQ1UzdV9yZk9qQ2xOeF9vWDlKNUpUdFdZZ1dUZ0xEbE1uOFRrMHRSaWxXUHAwV2RLdHZJZUc1ZllmN0RWazBSQy1JZHVVN21SZEFUSzR0M2FZTUZiVDlpOS02UUJPeUt0LTgxdnBPRnBrMGZ4cVY4OEFhakwxcFc2NW02YnBjQ2FBcWFtUlpobWV0VjBLSzVObkxHNk1xc0gweWx0RUduVEtwSDZ6UWUyUU9qTlRZdlBmSkM1NGlVd3NJ?oc=5" target="_blank">« La règle d'or, c'est à terme une dizaine de milliards d'euros économisés chaque année »</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -821,14 +861,6 @@
 
 ---
 
-### [Finances Publiques : actualités, analyses et vidéos - Les Echos | Page 1039 - Les Echos](https://news.google.com/rss/articles/CBMijgFBVV95cUxOQUFJMDBWY3o1WmliZk9DbW1UTkVaODBMNFZGLXBhMjFqVjNjUnI3Qm9LRUo0ZE5BbDY5VDY3LUlrVFhDMXRnRmwyWGxJMm9fdnhvdFZvZmoxZkF6VnBBcDEzT0lLZE5kNTVmWVdMbGpSdGcwS2s3b3hHQ2NXVTdGMWkzTlN3OVZ5VUVuX1FB?oc=5)
-
-`Fri, 23 Oct 2026 16:50:26 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMijgFBVV95cUxOQUFJMDBWY3o1WmliZk9DbW1UTkVaODBMNFZGLXBhMjFqVjNjUnI3Qm9LRUo0ZE5BbDY5VDY3LUlrVFhDMXRnRmwyWGxJMm9fdnhvdFZvZmoxZkF6VnBBcDEzT0lLZE5kNTVmWVdMbGpSdGcwS2s3b3hHQ2NXVTdGMWkzTlN3OVZ5VUVuX1FB?oc=5" target="_blank">Finances Publiques : actualités, analyses et vidéos - Les Echos | Page 1039</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
 ### [Crise du carburant : un décret en vue de la libération de stocks stratégiques de gazole publié - Les Echos](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNSHpvWjE5YUpVWUtkbFZkM3R4NEdTazNnN3lHSHlSYzd3NHo4V3huX1RXWGpNdmpyemdjTF9ERVUyZHhlVFE2Yjh0NllvaWR1ZjNHX3cyekdQR2FfR0llQi10d3ozUWVOMF9BNkQ0TWsyNDdkSGFfZjhXRU5fd2NzWmR5SGFDLU9vME4yVzBReWtxanI3QU8xUl9pZ0hHNU50eFBhekJpRTNLMlF1dXRYTktPVkgwVVQ3ZDVDczRFYXRrcXJibXVtOFFNN3JhUnVzdmFKVmN1RUJEN0l2ZFBsSA?oc=5)
 
 `Sat, 24 Oct 2026 14:29:00 GMT`
@@ -866,29 +898,5 @@
 `Fri, 23 Oct 2026 21:53:00 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi8wFBVV95cUxOWlZZakV2dHVHdkxXRjgwVjVlU1V5M29KNXhQWTIyWEQ3YnlBUGc4c3FKR1JyazlYQzc3cVpfenRfQjhoQnZzMkVvd2djZWlQNUcxbXFXSXN2aHczYkp6TGZIdVp6TEc0ZTdGQ0FKcU52eUM2eWxnNTMwYVdmbUloWkh6dFE4dkxmaW5SYklPS2lwZXQ2aXplV1VORlNpRWZLT3k3Ukg0QmRuSDZEMUdZWC14OWNLOUcyV0xxajVJV0NLX01CV3p6Mzd2QmdsQzNGNURRSzdSZmhhZlA3bWhLbEMwc19FVUxoLTNZSzFPYWV5b1k?oc=5" target="_blank">Dette publique : Moody's maintient la note de la France malgré les tensions budgétaires et sociales</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Pouvoir d'achat : le patronat veut voir Lecornu, les syndicats veulent un vrai coup de pouce au SMIC - Les Echos](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTkVYaW9QaWxCcHIzVG1uYk9XVlhWR2ZLRGdKckR2eHZ4MXNCWkZxcVZ2elp4ODAxQXpnSTJPNmIzenVwT3NTRVcwMzYwdlVTVXp6aWtxenpTLU53QjJnS0k5dnhmdnFFOHFVdDEzeGJ6b2k5OEN5blZjWFFQVDBMOUJzQy1UQWxKUllyY2FRRUlhRzE3MTdTZks1Vnl5T3VnQktCSFJ3bFZTZ3BDb2JDZWs0SGVsLTB0endYcFo3TDBLclE5YXJxclVMbVpPQm1jQlpNbW9lZ214eF90Tm9WZUcwdThyUQ?oc=5)
-
-`Fri, 23 Oct 2026 16:54:39 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTkVYaW9QaWxCcHIzVG1uYk9XVlhWR2ZLRGdKckR2eHZ4MXNCWkZxcVZ2elp4ODAxQXpnSTJPNmIzenVwT3NTRVcwMzYwdlVTVXp6aWtxenpTLU53QjJnS0k5dnhmdnFFOHFVdDEzeGJ6b2k5OEN5blZjWFFQVDBMOUJzQy1UQWxKUllyY2FRRUlhRzE3MTdTZks1Vnl5T3VnQktCSFJ3bFZTZ3BDb2JDZWs0SGVsLTB0endYcFo3TDBLclE5YXJxclVMbVpPQm1jQlpNbW9lZ214eF90Tm9WZUcwdThyUQ?oc=5" target="_blank">Pouvoir d'achat : le patronat veut voir Lecornu, les syndicats veulent un vrai coup de pouce au SMIC</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Les députés rejettent massivement le budget de la Sécurité sociale en première lecture - Les Echos](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSVotQWs1RXlpVFVKMGx5THFrZ3U1UHJoUGdtVUk3SlhDRkdkMkxFNGE4a2RucW9PS0lnck9MRFlQSnBLMGdDb3pNNEhmUW5XT1dlc1ZlOEYxdFVYRzFOc3ZfVGtSZDJnTTU3bFFyZWVVa2k1QmtmZmpwOEpRMTc3QUx3VTNrYUtRTmdXQ0ZqTTgyX2x1WmQycUJMa0N0T1VUT2V2d0ZySWQ3RFE3TEtWTEJ1ekRUdDNRcm11MU9RMUk0enZxSG9iaG9jbERpNWlaQ2FUR2dGQWk?oc=5)
-
-`Fri, 23 Oct 2026 13:29:43 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSVotQWs1RXlpVFVKMGx5THFrZ3U1UHJoUGdtVUk3SlhDRkdkMkxFNGE4a2RucW9PS0lnck9MRFlQSnBLMGdDb3pNNEhmUW5XT1dlc1ZlOEYxdFVYRzFOc3ZfVGtSZDJnTTU3bFFyZWVVa2k1QmtmZmpwOEpRMTc3QUx3VTNrYUtRTmdXQ0ZqTTgyX2x1WmQycUJMa0N0T1VUT2V2d0ZySWQ3RFE3TEtWTEJ1ekRUdDNRcm11MU9RMUk0enZxSG9iaG9jbERpNWlaQ2FUR2dGQWk?oc=5" target="_blank">Les députés rejettent massivement le budget de la Sécurité sociale en première lecture</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [« Les tensions sociales changent déjà la donne » : l'économie française sous la menace d'un nouveau choc - Les Echos](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNMEJOdXprcEIxSmdkUTNQMmZrb1llWnNfTUtZVUxMdWJqa0kzRUVrc2l6LW9BY2pLT1VFb2phZzNzNUtLSm1hM2xrbFFhZU1zZ0t5M2dyRnlTZ2hodUVBT0FybmhjNVF5dlNTWnNzYjc4YVhfQ092UlBSbjZfY1I5Q0pZZi1KZHYzWEZVR19rZ3MzNWtVbHNiNWI2NG83NEMzS3Y4NTgtM0d4QXJCS25WZl90aDVZc3pyYVVLbE1ScnFYeGF4WTdtWEg4SVdoYm1naXhXMVYyWmhMc0ROXzdQa1gxY25WR1N4Z3BLUA?oc=5)
-
-`Fri, 23 Oct 2026 04:15:10 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi7AFBVV95cUxNMEJOdXprcEIxSmdkUTNQMmZrb1llWnNfTUtZVUxMdWJqa0kzRUVrc2l6LW9BY2pLT1VFb2phZzNzNUtLSm1hM2xrbFFhZU1zZ0t5M2dyRnlTZ2hodUVBT0FybmhjNVF5dlNTWnNzYjc4YVhfQ092UlBSbjZfY1I5Q0pZZi1KZHYzWEZVR19rZ3MzNWtVbHNiNWI2NG83NEMzS3Y4NTgtM0d4QXJCS25WZl90aDVZc3pyYVVLbE1ScnFYeGF4WTdtWEg4SVdoYm1naXhXMVYyWmhMc0ROXzdQa1gxY25WR1N4Z3BLUA?oc=5" target="_blank">« Les tensions sociales changent déjà la donne » : l'économie française sous la menace d'un nouveau choc</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
