@@ -1,7 +1,7 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Tue, 24 Nov 2026 03:04:57 +0000`
-> 112 articles (30 derniers jours)
+> Derniere mise a jour : `Tue, 24 Nov 2026 16:31:35 +0000`
+> 110 articles (30 derniers jours)
 
 ---
 
@@ -882,21 +882,5 @@
 `Mon, 26 Oct 2026 18:34:11 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxQVVRQUjhUSG5BeE53Q3dSZzRoZlJpS09Tb2NDZE9sYnlMYmE4WU4zRFMtRmJNSkFaY2RvRnRrUDlZX3dycHJLUTM2MmVFcFhsZWJ4ZHloMElxeVFTYjdEbWNkVE9rSXFPOFFDaXdjRER2MjFyQW9mMFE2dlhwT1J0NEh5ZzF4Zm41MUNseHN5TDVLUFQyWDJ5bXg1UTdlMmVwTzBfc1cyU1FoUlp4RzhBYldyNVZwSmpZa3FBNWkxTzBwVHRkSGc?oc=5" target="_blank">Pouvoir d'achat : le gouvernement réfléchit à un vrai coup de pouce au SMIC</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Le gouvernement reste sous pression après une forte mobilisation sans chaos - Les Echos](https://news.google.com/rss/articles/CBMiygFBVV95cUxPMzNYTmV2YmpzeUJfb0JvQjRxa0J1OUwzQlo2WVlKb0J2X0RTSllmdWFBbFg0bGR0TEZ0WU5FbHV0RVpQSFhJVm5OU0tpWVlIbXc4dW9yTl9nTnhpWGFmTmk1U2JjeWN3eFBiTGRVMV95ckNYU0pxei10NUZWTlpHQVUxYUFuZFJyNElFRXEyekNhTmxPQU15dmFQUnVoN2hMRGdxY3NsZjEtdk1Zb1dOV1Uyd2U1RktobWdaSVBTLS1iZTliSnF4MVZn?oc=5)
-
-`Sun, 25 Oct 2026 14:45:57 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxPMzNYTmV2YmpzeUJfb0JvQjRxa0J1OUwzQlo2WVlKb0J2X0RTSllmdWFBbFg0bGR0TEZ0WU5FbHV0RVpQSFhJVm5OU0tpWVlIbXc4dW9yTl9nTnhpWGFmTmk1U2JjeWN3eFBiTGRVMV95ckNYU0pxei10NUZWTlpHQVUxYUFuZFJyNElFRXEyekNhTmxPQU15dmFQUnVoN2hMRGdxY3NsZjEtdk1Zb1dOV1Uyd2U1RktobWdaSVBTLS1iZTliSnF4MVZn?oc=5" target="_blank">Le gouvernement reste sous pression après une forte mobilisation sans chaos</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Manifestations du 24 octobre : une nouvelle forte mobilisation malgré les interdictions de manifester - Les Echos](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQRTE2bkVFUEpwaU03RDcxa3NQSlltWVNyam5rWTh0MGlVMVB6azI2aGltYWlyRGx2dDVIRkdadzlyT3FXdktpX0luTXhwdzZHTTF0cjlQVmhpa0R0UkxmMlhZZy1sVWpvbUhpZGpQY3VhUVlmSmRtUkVhUjJhM0RBV2Q3UHpJcHpuN2xERG5zUVFjd2lsZHhBTDNiT0R4SXZaQ2dyTmlDdkVETWh2OWFHQUtkNWliekVVNWluSXAzbGtTZjVJRGpGTFBwNGV2cW5WTGdodHVCbTdMOXFlck91TTNKc2Y3UHBpNkE?oc=5)
-
-`Sun, 25 Oct 2026 08:35:47 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi6gFBVV95cUxQRTE2bkVFUEpwaU03RDcxa3NQSlltWVNyam5rWTh0MGlVMVB6azI2aGltYWlyRGx2dDVIRkdadzlyT3FXdktpX0luTXhwdzZHTTF0cjlQVmhpa0R0UkxmMlhZZy1sVWpvbUhpZGpQY3VhUVlmSmRtUkVhUjJhM0RBV2Q3UHpJcHpuN2xERG5zUVFjd2lsZHhBTDNiT0R4SXZaQ2dyTmlDdkVETWh2OWFHQUtkNWliekVVNWluSXAzbGtTZjVJRGpGTFBwNGV2cW5WTGdodHVCbTdMOXFlck91TTNKc2Y3UHBpNkE?oc=5" target="_blank">Manifestations du 24 octobre : une nouvelle forte mobilisation malgré les interdictions de manifester</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
