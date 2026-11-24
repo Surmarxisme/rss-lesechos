@@ -1,7 +1,47 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Tue, 24 Nov 2026 16:31:35 +0000`
-> 110 articles (30 derniers jours)
+> Derniere mise a jour : `Tue, 24 Nov 2026 20:03:00 +0000`
+> 115 articles (30 derniers jours)
+
+---
+
+### [Le Parlement valide l'atterrissage du budget 2026 - Les Echos](https://news.google.com/rss/articles/CBMiswFBVV95cUxNOUxwbExBUWdMLXlubHRIRTBvS1hrZEV0NWlveG1oaFo5NWl2cHhJLVp0dEtsM2QySEZkUW1lcTlaNzJLVnFoNmhod2pZZ1pzRjFFNVpqcmdaNTdnSlRmRlYyS0dyTW9KNXhlT1UzLUdLQ3FBRHZNenlQak82ZnFLdnZoVUcxMTFRQmVnc09KX1oyd0VTbEFHWkNtS3pRbXhsQTBENGdrODNMMFdBajBWOEI2WQ?oc=5)
+
+`Tue, 24 Nov 2026 19:05:31 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxNOUxwbExBUWdMLXlubHRIRTBvS1hrZEV0NWlveG1oaFo5NWl2cHhJLVp0dEtsM2QySEZkUW1lcTlaNzJLVnFoNmhod2pZZ1pzRjFFNVpqcmdaNTdnSlRmRlYyS0dyTW9KNXhlT1UzLUdLQ3FBRHZNenlQak82ZnFLdnZoVUcxMTFRQmVnc09KX1oyd0VTbEFHWkNtS3pRbXhsQTBENGdrODNMMFdBajBWOEI2WQ?oc=5" target="_blank">Le Parlement valide l'atterrissage du budget 2026</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Elections dans la fonction publique : pourquoi la CFDT joue gros - Les Echos](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPb3ladlROcUd6QVpOZWw2SURnNldESWxlcFJwTDZ6TE14SjV3N2dleUY3VHNDcEVJOFZrU0pMVUg3TEFVXzRWX0JvdXpiNHIxWmVOMXdSSzFOZ3h0NU1mVDRYbFo5YjdldFF0b1V5NllHMXp2OGtYcUVyVFo5aXRoS2RoeDdhZ2s3MjZMUVNYYVJfSnI5TjhBc2g5ckNIVWhwZC1wUEdWbFl5OERMY0xlanFfUW5DQ043?oc=5)
+
+`Tue, 24 Nov 2026 16:49:42 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxPb3ladlROcUd6QVpOZWw2SURnNldESWxlcFJwTDZ6TE14SjV3N2dleUY3VHNDcEVJOFZrU0pMVUg3TEFVXzRWX0JvdXpiNHIxWmVOMXdSSzFOZ3h0NU1mVDRYbFo5YjdldFF0b1V5NllHMXp2OGtYcUVyVFo5aXRoS2RoeDdhZ2s3MjZMUVNYYVJfSnI5TjhBc2g5ckNIVWhwZC1wUEdWbFl5OERMY0xlanFfUW5DQ043?oc=5" target="_blank">Elections dans la fonction publique : pourquoi la CFDT joue gros</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Budget : pourquoi Bruxelles reste étonnamment indulgente avec la France - Les Echos](https://news.google.com/rss/articles/CBMizwFBVV95cUxOTm1TSWplVENEWm1SX2JsSG9Qc0ZlN0M2aFg4bzI3NHBJQkt3TW9SQTg1b0xRVEVTZFR5UllsT1ZUWExxekp6RGhKQmVBR2ZmYTZpWWhhT2F0RTU3anl4eUxhb1dKRjh2T2JqU0NaQ0wwUXJiZGxDdEFMZ3VJY3FhcmY3Zi03VVZyMEFyMDc5VTFMUmJ6TXJ1Mkt4ZzdaeUpjcW5Wa0JraWhjLWRhT3lLUy1IMVhLeEx5SDNObHRMbm1OaHVWTHpPc2Y0bEJDMjA?oc=5)
+
+`Tue, 24 Nov 2026 17:37:23 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMizwFBVV95cUxOTm1TSWplVENEWm1SX2JsSG9Qc0ZlN0M2aFg4bzI3NHBJQkt3TW9SQTg1b0xRVEVTZFR5UllsT1ZUWExxekp6RGhKQmVBR2ZmYTZpWWhhT2F0RTU3anl4eUxhb1dKRjh2T2JqU0NaQ0wwUXJiZGxDdEFMZ3VJY3FhcmY3Zi03VVZyMEFyMDc5VTFMUmJ6TXJ1Mkt4ZzdaeUpjcW5Wa0JraWhjLWRhT3lLUy1IMVhLeEx5SDNObHRMbm1OaHVWTHpPc2Y0bEJDMjA?oc=5" target="_blank">Budget : pourquoi Bruxelles reste étonnamment indulgente avec la France</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Budget 2027 : le Sénat réduit l'abattement fiscal des retraités, mais ne le supprime pas - Les Echos](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQRmhnak1RZVZmbUZZWE12UTJ3RGRwZ3Y3N1BlRDdxZUJuTU5NUkxBdk1qb1NIR0dHNTB6ZWRyYkwtUTNLTjZLNXFVMG5fd1FhX0ZTSVF6ZTlCQ0tVWmJvUUpuVGRjQktjQmZwZW5hRWhaQ1ZvUDExVGxWTDJ5ZUpsTGdZU3VsY1lWSlIwVHYxZ3lJdUs0Ti1FRFdZTmVCOVBaOWFLSVp1RzFaWG5nZjVhREJEZUU1NXBTcEdkZmIwU0tjOWgyS29Sbm9vTUc2dHFzRzM1ZEgwYUlYX3ZvemJka2lCbw?oc=5)
+
+`Tue, 24 Nov 2026 17:38:46 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi4wFBVV95cUxQRmhnak1RZVZmbUZZWE12UTJ3RGRwZ3Y3N1BlRDdxZUJuTU5NUkxBdk1qb1NIR0dHNTB6ZWRyYkwtUTNLTjZLNXFVMG5fd1FhX0ZTSVF6ZTlCQ0tVWmJvUUpuVGRjQktjQmZwZW5hRWhaQ1ZvUDExVGxWTDJ5ZUpsTGdZU3VsY1lWSlIwVHYxZ3lJdUs0Ti1FRFdZTmVCOVBaOWFLSVp1RzFaWG5nZjVhREJEZUU1NXBTcEdkZmIwU0tjOWgyS29Sbm9vTUc2dHFzRzM1ZEgwYUlYX3ZvemJka2lCbw?oc=5" target="_blank">Budget 2027 : le Sénat réduit l'abattement fiscal des retraités, mais ne le supprime pas</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Un Français sur deux part en retraite avant l'âge légal : le chiffre choc de la Cour des comptes - Les Echos](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNaDI0Q3hqZE5BbzlXZ1dFTV9iOVZ6bUw3M3ZhUnRScnlFSU5vUVM1azZwYlAzVE9FN2hqejhfX3hIWEZuNVVTeVVVbDJuN292VElHa004QU9ScHpobHQ2VDFuYnF6M2J1UGhFRUx2QWoyaVg4dXZqZUs4RkY2Y1lGbExNaXhkRW9fZkNHQlg1SGhPbi0zeEQyYXE2SkUtWldzbENfTjFTMndHc3ZKUjRBUEFtWGxYNHpMRHFXUlplOHdBdFg1UFRTckxvRVhPVll6WXpQRlJjMUgzX2FqQnNHVXRB?oc=5)
+
+`Tue, 24 Nov 2026 16:59:27 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi4gFBVV95cUxNaDI0Q3hqZE5BbzlXZ1dFTV9iOVZ6bUw3M3ZhUnRScnlFSU5vUVM1azZwYlAzVE9FN2hqejhfX3hIWEZuNVVTeVVVbDJuN292VElHa004QU9ScHpobHQ2VDFuYnF6M2J1UGhFRUx2QWoyaVg4dXZqZUs4RkY2Y1lGbExNaXhkRW9fZkNHQlg1SGhPbi0zeEQyYXE2SkUtWldzbENfTjFTMndHc3ZKUjRBUEFtWGxYNHpMRHFXUlplOHdBdFg1UFRTckxvRVhPVll6WXpQRlJjMUgzX2FqQnNHVXRB?oc=5" target="_blank">Un Français sur deux part en retraite avant l'âge légal : le chiffre choc de la Cour des comptes</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
