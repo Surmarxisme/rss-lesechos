@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Wed, 25 Nov 2026 01:10:50 +0000`
-> 115 articles (30 derniers jours)
+> Derniere mise a jour : `Wed, 25 Nov 2026 16:12:11 +0000`
+> 116 articles (30 derniers jours)
+
+---
+
+### [Faux apprentis, employeurs douteux, organismes de formation fantômes… le bilan cinglant de la Cour des comptes sur l'apprentissage - Les Echos](https://news.google.com/rss/articles/CBMijgJBVV95cUxQd04yNDJjUkhLdVZUYUdQV3V6bmhlUHpGTmo3dHM5MDJBWHNKZEF0MWRiVlROMUJCV2FjMm12dllMSWlBVGhoSmJLYzdUZ1E3eUxhdGx5NW0yT1U0QW94Tjh3UlJla2FYTEltMFVuTnRuQ2lZcG0yODdpRGJIWmFhUnQzT3UwdFhkb2Fqc2xlelczNXg4TV84eGk3cEVBbGlmZmtPY3F4cDBqNDJpdTlRTjJudTVoSjhlY1Y0b0JqNU5QZXFtY3JzbG5oam1VWjdmOXE5aWIxbTNSY0E0ZFhJSEdUMGJWQUpEMXZkQjNtZFp4R1l2VlZfOTY4bXdjYThnOWctNXd1NERYU2xVR0E?oc=5)
+
+`Wed, 25 Nov 2026 08:05:04 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMijgJBVV95cUxQd04yNDJjUkhLdVZUYUdQV3V6bmhlUHpGTmo3dHM5MDJBWHNKZEF0MWRiVlROMUJCV2FjMm12dllMSWlBVGhoSmJLYzdUZ1E3eUxhdGx5NW0yT1U0QW94Tjh3UlJla2FYTEltMFVuTnRuQ2lZcG0yODdpRGJIWmFhUnQzT3UwdFhkb2Fqc2xlelczNXg4TV84eGk3cEVBbGlmZmtPY3F4cDBqNDJpdTlRTjJudTVoSjhlY1Y0b0JqNU5QZXFtY3JzbG5oam1VWjdmOXE5aWIxbTNSY0E0ZFhJSEdUMGJWQUpEMXZkQjNtZFp4R1l2VlZfOTY4bXdjYThnOWctNXd1NERYU2xVR0E?oc=5" target="_blank">Faux apprentis, employeurs douteux, organismes de formation fantômes… le bilan cinglant de la Cour des comptes sur l'apprentissage</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
