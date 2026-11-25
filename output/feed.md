@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Wed, 25 Nov 2026 16:12:11 +0000`
+> Derniere mise a jour : `Wed, 25 Nov 2026 19:03:30 +0000`
 > 116 articles (30 derniers jours)
+
+---
+
+### [Santé : le projet de mutuelle pour les agents des hôpitaux dans le flou - Les Echos](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc0NNQjhNYXBsQTB2U3g2WXZzQzhQSTBtUXZGU1daWHhrNlpNczhfYm90SU1fOWpJZEotYW1JZmpQNXZjNXJEb1N0Y0FDRk5CM2hSM0pUVGc0RE5UYWxKQnZDUXpwWkxYczZfU1FucFg1bFlFM19Pc0s4TUM4SXo0SjNteEVueXVpdUF4WHRiaDhIcXU3SmdoSjZxZ18zTXNzQ3pBMnpLY1A0SmxaQURzelhkaWE1Z0hlWFlHbXRfY3FTUQ?oc=5)
+
+`Wed, 25 Nov 2026 18:55:01 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc0NNQjhNYXBsQTB2U3g2WXZzQzhQSTBtUXZGU1daWHhrNlpNczhfYm90SU1fOWpJZEotYW1JZmpQNXZjNXJEb1N0Y0FDRk5CM2hSM0pUVGc0RE5UYWxKQnZDUXpwWkxYczZfU1FucFg1bFlFM19Pc0s4TUM4SXo0SjNteEVueXVpdUF4WHRiaDhIcXU3SmdoSjZxZ18zTXNzQ3pBMnpLY1A0SmxaQURzelhkaWE1Z0hlWFlHbXRfY3FTUQ?oc=5" target="_blank">Santé : le projet de mutuelle pour les agents des hôpitaux dans le flou</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -922,13 +930,5 @@
 `Tue, 27 Oct 2026 09:16:09 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMingFBVV95cUxNTFhTX09iRjNGajVIYWpSamYydFlxRThmVUR0Q21tb3g4VkoyOUxDMm1DRHBuRkZabHR5SGZVMEF0SkpaSzFVWVgyUTB3MDBDZ1VfWm9uSE5JT3VVRXlQZ1FJOU5SV2dkVE1nU0FfcktRUE1hTkR2c1M4ekxZVDhVYTVoSDlXYktNZ1loMVItNVI3UWZTeVhFS1h2R2VPUQ?oc=5" target="_blank">Les Français gagnés par la sinistrose</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Pouvoir d'achat : le gouvernement réfléchit à un vrai coup de pouce au SMIC - Les Echos](https://news.google.com/rss/articles/CBMixgFBVV95cUxQVVRQUjhUSG5BeE53Q3dSZzRoZlJpS09Tb2NDZE9sYnlMYmE4WU4zRFMtRmJNSkFaY2RvRnRrUDlZX3dycHJLUTM2MmVFcFhsZWJ4ZHloMElxeVFTYjdEbWNkVE9rSXFPOFFDaXdjRER2MjFyQW9mMFE2dlhwT1J0NEh5ZzF4Zm41MUNseHN5TDVLUFQyWDJ5bXg1UTdlMmVwTzBfc1cyU1FoUlp4RzhBYldyNVZwSmpZa3FBNWkxTzBwVHRkSGc?oc=5)
-
-`Mon, 26 Oct 2026 18:34:11 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxQVVRQUjhUSG5BeE53Q3dSZzRoZlJpS09Tb2NDZE9sYnlMYmE4WU4zRFMtRmJNSkFaY2RvRnRrUDlZX3dycHJLUTM2MmVFcFhsZWJ4ZHloMElxeVFTYjdEbWNkVE9rSXFPOFFDaXdjRER2MjFyQW9mMFE2dlhwT1J0NEh5ZzF4Zm41MUNseHN5TDVLUFQyWDJ5bXg1UTdlMmVwTzBfc1cyU1FoUlp4RzhBYldyNVZwSmpZa3FBNWkxTzBwVHRkSGc?oc=5" target="_blank">Pouvoir d'achat : le gouvernement réfléchit à un vrai coup de pouce au SMIC</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
