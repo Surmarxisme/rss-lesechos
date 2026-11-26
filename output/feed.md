@@ -1,7 +1,23 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Thu, 26 Nov 2026 15:51:22 +0000`
-> 116 articles (30 derniers jours)
+> Derniere mise a jour : `Thu, 26 Nov 2026 18:54:34 +0000`
+> 115 articles (30 derniers jours)
+
+---
+
+### [Sans réforme des droits de succession, « vous allez produire une société d'héritiers et de rentiers - Les Echos](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQU3hPVDB6alZfNDZnMWNKOEl1Zkl0eGxQYlQ3Yk41V2lhYUtVUEtCbVZNSXdnaXhOMHdpUlh5THYtWVUtMnl1UENuVlRKc1BQZzdKOFhNdFRlZGdSa3VDTnBuYnZQZzM3Q2ZTUGJvVE9zYzFKNkFRTHRuSEdwbm5zRm83d19PSy1lcEhoUjZRa0lwY1pXRG1oYXBYdlFrOEJzSmFtVWxWTG40UkJTSU4xXy10ZWQteW5UR0FmaEdyd0hpeWxYc25rRENjRmlLMWVaS3hCZ1FZOFNSR1k5RVQyMG56eG1Bbm81dnpLaE85dFRNQQ?oc=5)
+
+`Thu, 26 Nov 2026 16:41:19 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi8gFBVV95cUxQU3hPVDB6alZfNDZnMWNKOEl1Zkl0eGxQYlQ3Yk41V2lhYUtVUEtCbVZNSXdnaXhOMHdpUlh5THYtWVUtMnl1UENuVlRKc1BQZzdKOFhNdFRlZGdSa3VDTnBuYnZQZzM3Q2ZTUGJvVE9zYzFKNkFRTHRuSEdwbm5zRm83d19PSy1lcEhoUjZRa0lwY1pXRG1oYXBYdlFrOEJzSmFtVWxWTG40UkJTSU4xXy10ZWQteW5UR0FmaEdyd0hpeWxYc25rRENjRmlLMWVaS3hCZ1FZOFNSR1k5RVQyMG56eG1Bbm81dnpLaE85dFRNQQ?oc=5" target="_blank">Sans réforme des droits de succession, « vous allez produire une société d'héritiers et de rentiers</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Budget de la Sécu : toujours divisés, les parlementaires attendent que Lecornu abatte ses cartes - Les Echos](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNRl9MVXB5Skg3dXlsUnVTMnFUWlVVdERFVGV5dlF5V3VidG8waVRMRUVPVmtMdDVGZ3kxdjFMQW9Kajd5ZG84WHpldjhqMm5vOTBSQ29FRWUyUkdHZHlCS1ZmT1JuTUdTeGhfZmdrVF9iMC1HX1Y2VGJweUNGRFN3d2hkVnJnbXg2Zmg2Y29hRTd4cFdPTTV2RXQ0bHdFMktMcTBhYnp4WFdMMk9RbUN1SnlnTkh6Tm1aeWh2bl9Pa3MyUDVHNjE5OUdUblU1SmZXVmhyN0JkOEFmdW9EOW1WbWVR?oc=5)
+
+`Thu, 26 Nov 2026 17:58:57 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi4gFBVV95cUxNRl9MVXB5Skg3dXlsUnVTMnFUWlVVdERFVGV5dlF5V3VidG8waVRMRUVPVmtMdDVGZ3kxdjFMQW9Kajd5ZG84WHpldjhqMm5vOTBSQ29FRWUyUkdHZHlCS1ZmT1JuTUdTeGhfZmdrVF9iMC1HX1Y2VGJweUNGRFN3d2hkVnJnbXg2Zmg2Y29hRTd4cFdPTTV2RXQ0bHdFMktMcTBhYnp4WFdMMk9RbUN1SnlnTkh6Tm1aeWh2bl9Pa3MyUDVHNjE5OUdUblU1SmZXVmhyN0JkOEFmdW9EOW1WbWVR?oc=5" target="_blank">Budget de la Sécu : toujours divisés, les parlementaires attendent que Lecornu abatte ses cartes</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -901,34 +917,10 @@
 
 ---
 
-### [Mesures pour les lycéens et étudiants : une facture limitée pour le budget 2027 - Les Echos](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQbk83bWpjZmpWaURCMWZ4LXM0eXp0Q1FyRVM5dVhXalEwTmdQd0Z4YklNS3pyS2VYbUY0Q1VYUktNV3h5ZzVVdkJFbDRjSGtWc21RM0IwcGc2Ri1DSFZfcWlmcng4dVlpVWRnZU40LS1uOGIxUG01a1ZLaGZFSjZnellJbDZFeDI2V1hmSDlOTXcyRktzUVVGUkFpS0NlOVFwUTg1TFl0VVRXdWFXY3pZQ1BTTzlMMWN0WG1yeDhRZHpDQlJDRm1weDR6ek1jUVJHZXE3WWtMMmNqZw?oc=5)
-
-`Tue, 27 Oct 2026 16:14:42 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi2gFBVV95cUxQbk83bWpjZmpWaURCMWZ4LXM0eXp0Q1FyRVM5dVhXalEwTmdQd0Z4YklNS3pyS2VYbUY0Q1VYUktNV3h5ZzVVdkJFbDRjSGtWc21RM0IwcGc2Ri1DSFZfcWlmcng4dVlpVWRnZU40LS1uOGIxUG01a1ZLaGZFSjZnellJbDZFeDI2V1hmSDlOTXcyRktzUVVGUkFpS0NlOVFwUTg1TFl0VVRXdWFXY3pZQ1BTTzlMMWN0WG1yeDhRZHpDQlJDRm1weDR6ek1jUVJHZXE3WWtMMmNqZw?oc=5" target="_blank">Mesures pour les lycéens et étudiants : une facture limitée pour le budget 2027</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
 ### [France 2030 : l'alerte de la Cour des comptes sur le « mur d'engagements » restant à financer - Les Echos](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPa2FQMUkyMnpkcWRfc1FjN3JlbXVlV2xnbV91LXhGTTlqUXVya3ItWE1pR3pfUG82T05GdHc2Y09GeGVrTGw1V215blJKM2FWZGhCWHAxX2hHVmNmbXo5T0NRVnVnelBKbUdTbU1fMlJRcjR5XzFrNkxHekFDeENBV09uaG95cE1Qd01NY3pwV0dheUY0T3gzY1hWTHdwT1YwbGZrNVBZQi10bFpVNzN2bEFjaWt0RF9SSTBELUFVaVQwNE5nZzhObk1TQW5fcE55WndaR21sY2pvaDFjOTZLd0V2bEY?oc=5)
 
 `Tue, 27 Oct 2026 19:00:09 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi5AFBVV95cUxPa2FQMUkyMnpkcWRfc1FjN3JlbXVlV2xnbV91LXhGTTlqUXVya3ItWE1pR3pfUG82T05GdHc2Y09GeGVrTGw1V215blJKM2FWZGhCWHAxX2hHVmNmbXo5T0NRVnVnelBKbUdTbU1fMlJRcjR5XzFrNkxHekFDeENBV09uaG95cE1Qd01NY3pwV0dheUY0T3gzY1hWTHdwT1YwbGZrNVBZQi10bFpVNzN2bEFjaWt0RF9SSTBELUFVaVQwNE5nZzhObk1TQW5fcE55WndaR21sY2pvaDFjOTZLd0V2bEY?oc=5" target="_blank">France 2030 : l'alerte de la Cour des comptes sur le « mur d'engagements » restant à financer</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Immigration et emploi : une contribution sous-estimée des non-Européens - Les Echos](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTmVYYmdqUkZQdk1FNk9xel91MWZuR296Tk5DN2lTTmtsRnRfOEhzemtGZHhxNFBodW9tdldyUDRJamhFVG11VEp2Z0ViVHEzTllpampfT2hVTVhLcDdCMUt4bmxCYm1zTXVUQXZ2cGVaa3FzQ1ItaWlwZ2lsQkJadmlET3VOWDhPMFFBMl9zR2N1VFVqcm16Ni11UnBtSFJJVVg2WEFtaVZURjFGSDJUMUZWTWgwT3I5a0FTZmlNS1l5UQ?oc=5)
-
-`Tue, 27 Oct 2026 17:18:17 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTmVYYmdqUkZQdk1FNk9xel91MWZuR296Tk5DN2lTTmtsRnRfOEhzemtGZHhxNFBodW9tdldyUDRJamhFVG11VEp2Z0ViVHEzTllpampfT2hVTVhLcDdCMUt4bmxCYm1zTXVUQXZ2cGVaa3FzQ1ItaWlwZ2lsQkJadmlET3VOWDhPMFFBMl9zR2N1VFVqcm16Ni11UnBtSFJJVVg2WEFtaVZURjFGSDJUMUZWTWgwT3I5a0FTZmlNS1l5UQ?oc=5" target="_blank">Immigration et emploi : une contribution sous-estimée des non-Européens</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Dette : comment la France est devenue le maillon faible de l'Europe - Les Echos](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQ0R1X2RxWk93M0pwOWpkTnlpR1gxVXYwX09WRFRWNjhiWm53SHg0YUIwdXRnMVNOTFFGVUhaQXU2alVfb3BwdTkwbkc2WFRJelZYVllzVjlqTE5UWUlad0JpTWNVanNxM0ZpeXYyai04REw2cTd0VF80c09OUV9PeWJ1S09wZ0xFYU00WWFrVVk3OEQ0UXVON09BSUVieHpnb3RpS2trTG9UdW9DTE9oR3ZDVzBNNktPV24tRXhPUWhtSVYzSFRXWg?oc=5)
-
-`Tue, 27 Oct 2026 16:00:25 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQ0R1X2RxWk93M0pwOWpkTnlpR1gxVXYwX09WRFRWNjhiWm53SHg0YUIwdXRnMVNOTFFGVUhaQXU2alVfb3BwdTkwbkc2WFRJelZYVllzVjlqTE5UWUlad0JpTWNVanNxM0ZpeXYyai04REw2cTd0VF80c09OUV9PeWJ1S09wZ0xFYU00WWFrVVk3OEQ0UXVON09BSUVieHpnb3RpS2trTG9UdW9DTE9oR3ZDVzBNNktPV24tRXhPUWhtSVYzSFRXWg?oc=5" target="_blank">Dette : comment la France est devenue le maillon faible de l'Europe</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
