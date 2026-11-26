@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Thu, 26 Nov 2026 00:45:10 +0000`
+> Derniere mise a jour : `Thu, 26 Nov 2026 15:51:22 +0000`
 > 116 articles (30 derniers jours)
+
+---
+
+### [Sophie Binet : « Il y a un blocage patronal sur les négociations de branche sur les salaires » - Les Echos](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZC13Nld6S2FFVkxXRlZmc2RUdXpUZWZZaTdXZUc0QXYyeTVpSk9LTGpzb2FYbWFJZXU1ZUpJT0ViclBhNU1uZXVqRExHWDNnTFNVQVljNzNFYmtCMkJ5eTE3bm5QX2VWWkxMX3YtUkk1UEV2MW5xTks2RkJaOTBHY1laU2p0QTdUUHJkUmg4bTNreEJudEdmSGdpM2k0UkpkU0d0cDRfVlRXclkwY1c5QW94MlhCODhzajdHZzFEYTJwdFR6VGt1RGtHcTBjNl9Hd2FJWHFQNjRGZ3M?oc=5)
+
+`Thu, 26 Nov 2026 05:30:32 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZC13Nld6S2FFVkxXRlZmc2RUdXpUZWZZaTdXZUc0QXYyeTVpSk9LTGpzb2FYbWFJZXU1ZUpJT0ViclBhNU1uZXVqRExHWDNnTFNVQVljNzNFYmtCMkJ5eTE3bm5QX2VWWkxMX3YtUkk1UEV2MW5xTks2RkJaOTBHY1laU2p0QTdUUHJkUmg4bTNreEJudEdmSGdpM2k0UkpkU0d0cDRfVlRXclkwY1c5QW94MlhCODhzajdHZzFEYTJwdFR6VGt1RGtHcTBjNl9Hd2FJWHFQNjRGZ3M?oc=5" target="_blank">Sophie Binet : « Il y a un blocage patronal sur les négociations de branche sur les salaires »</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -922,13 +930,5 @@
 `Tue, 27 Oct 2026 16:00:25 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQ0R1X2RxWk93M0pwOWpkTnlpR1gxVXYwX09WRFRWNjhiWm53SHg0YUIwdXRnMVNOTFFGVUhaQXU2alVfb3BwdTkwbkc2WFRJelZYVllzVjlqTE5UWUlad0JpTWNVanNxM0ZpeXYyai04REw2cTd0VF80c09OUV9PeWJ1S09wZ0xFYU00WWFrVVk3OEQ0UXVON09BSUVieHpnb3RpS2trTG9UdW9DTE9oR3ZDVzBNNktPV24tRXhPUWhtSVYzSFRXWg?oc=5" target="_blank">Dette : comment la France est devenue le maillon faible de l'Europe</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Les Français gagnés par la sinistrose - Les Echos](https://news.google.com/rss/articles/CBMingFBVV95cUxNTFhTX09iRjNGajVIYWpSamYydFlxRThmVUR0Q21tb3g4VkoyOUxDMm1DRHBuRkZabHR5SGZVMEF0SkpaSzFVWVgyUTB3MDBDZ1VfWm9uSE5JT3VVRXlQZ1FJOU5SV2dkVE1nU0FfcktRUE1hTkR2c1M4ekxZVDhVYTVoSDlXYktNZ1loMVItNVI3UWZTeVhFS1h2R2VPUQ?oc=5)
-
-`Tue, 27 Oct 2026 09:16:09 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMingFBVV95cUxNTFhTX09iRjNGajVIYWpSamYydFlxRThmVUR0Q21tb3g4VkoyOUxDMm1DRHBuRkZabHR5SGZVMEF0SkpaSzFVWVgyUTB3MDBDZ1VfWm9uSE5JT3VVRXlQZ1FJOU5SV2dkVE1nU0FfcktRUE1hTkR2c1M4ekxZVDhVYTVoSDlXYktNZ1loMVItNVI3UWZTeVhFS1h2R2VPUQ?oc=5" target="_blank">Les Français gagnés par la sinistrose</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
