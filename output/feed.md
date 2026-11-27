@@ -1,7 +1,7 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Thu, 26 Nov 2026 18:54:34 +0000`
-> 115 articles (30 derniers jours)
+> Derniere mise a jour : `Fri, 27 Nov 2026 00:51:29 +0000`
+> 114 articles (30 derniers jours)
 
 ---
 
@@ -914,13 +914,5 @@
 `Wed, 28 Oct 2026 10:44:12 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbU12TV83Vk85WV8xeVRaeFpBOWtVSDg0Y0xER2VCQ1JiZDFxUDgtaDFyQ2xZQVJZdjhkeTlqT3R4dnlkLVNwY2J3M1R2WVlXanNTeVhyRVJyNkowZDUtUDhUaXpCZTlpZTF1dDJxQUFLc3k4VTFJV1lua2FLVkY4cUtDdWJkQ2E3SG9HRVRiTWhMLXhjeWRmb2R3X2pTUjFKbElIcWg3Si15TnNkNHZJVzgxZFdWNkdmSElZa3lVSW5MOHlkZDEyaGxIYmpEcGhHOXVwYlhn?oc=5" target="_blank">La suspension de la réforme des retraites entraîne un afflux « exceptionnel » de départs</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [France 2030 : l'alerte de la Cour des comptes sur le « mur d'engagements » restant à financer - Les Echos](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPa2FQMUkyMnpkcWRfc1FjN3JlbXVlV2xnbV91LXhGTTlqUXVya3ItWE1pR3pfUG82T05GdHc2Y09GeGVrTGw1V215blJKM2FWZGhCWHAxX2hHVmNmbXo5T0NRVnVnelBKbUdTbU1fMlJRcjR5XzFrNkxHekFDeENBV09uaG95cE1Qd01NY3pwV0dheUY0T3gzY1hWTHdwT1YwbGZrNVBZQi10bFpVNzN2bEFjaWt0RF9SSTBELUFVaVQwNE5nZzhObk1TQW5fcE55WndaR21sY2pvaDFjOTZLd0V2bEY?oc=5)
-
-`Tue, 27 Oct 2026 19:00:09 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi5AFBVV95cUxPa2FQMUkyMnpkcWRfc1FjN3JlbXVlV2xnbV91LXhGTTlqUXVya3ItWE1pR3pfUG82T05GdHc2Y09GeGVrTGw1V215blJKM2FWZGhCWHAxX2hHVmNmbXo5T0NRVnVnelBKbUdTbU1fMlJRcjR5XzFrNkxHekFDeENBV09uaG95cE1Qd01NY3pwV0dheUY0T3gzY1hWTHdwT1YwbGZrNVBZQi10bFpVNzN2bEFjaWt0RF9SSTBELUFVaVQwNE5nZzhObk1TQW5fcE55WndaR21sY2pvaDFjOTZLd0V2bEY?oc=5" target="_blank">France 2030 : l'alerte de la Cour des comptes sur le « mur d'engagements » restant à financer</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
