@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Fri, 27 Nov 2026 15:40:00 +0000`
+> Derniere mise a jour : `Fri, 27 Nov 2026 18:47:01 +0000`
 > 113 articles (30 derniers jours)
+
+---
+
+### [Coût du travail : le gel du barème des allègements de charges va provoquer des destructions massives d'emplois, selon un rapport officiel - Les Echos](https://news.google.com/rss/articles/CBMilwJBVV95cUxQSWx5YnlLdEs5OUNWNENnR3h4c2ZaTUNkOGdYZkhUTC1uc2QyOGVuenhuZG16ZzBGMkoyWnVXNHdrSTlVMVJVR2cwSUQ0cUxfbTd1VmJrLW84QkFzNmp2dlR6TFZTWkZVeXdSUHh5TUMyM2JpNGVjQnozM0YzbzJVS29JNjRib3g3c1Bjd0J0TnRUa2RDcjNJN1R0ODRlWTVrWWswblpodnlpN2ZmeC1pS1JzNzJwWE9aWTZLTld4c0NkY2hnTFBOMWVfQzRYN01GT3oyV1lqRy1HTlV4VVRkMXJkMjdhc3FTSzlqNXkwWTBvd0FjeWo3UkNabUIzejlLZ2ljUi1rWWRjR2pFaEpYVzFnSDd1b0U?oc=5)
+
+`Fri, 27 Nov 2026 17:00:47 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMilwJBVV95cUxQSWx5YnlLdEs5OUNWNENnR3h4c2ZaTUNkOGdYZkhUTC1uc2QyOGVuenhuZG16ZzBGMkoyWnVXNHdrSTlVMVJVR2cwSUQ0cUxfbTd1VmJrLW84QkFzNmp2dlR6TFZTWkZVeXdSUHh5TUMyM2JpNGVjQnozM0YzbzJVS29JNjRib3g3c1Bjd0J0TnRUa2RDcjNJN1R0ODRlWTVrWWswblpodnlpN2ZmeC1pS1JzNzJwWE9aWTZLTld4c0NkY2hnTFBOMWVfQzRYN01GT3oyV1lqRy1HTlV4VVRkMXJkMjdhc3FTSzlqNXkwWTBvd0FjeWo3UkNabUIzejlLZ2ljUi1rWWRjR2pFaEpYVzFnSDd1b0U?oc=5" target="_blank">Coût du travail : le gel du barème des allègements de charges va provoquer des destructions massives d'emplois, selon un rapport officiel</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -898,13 +906,5 @@
 `Thu, 29 Oct 2026 11:18:09 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxPT1d4YmVHejNPbDlsWTl5Q252ZDZCcjBvOXdkMmxNSVV1N01GMnJlOFFta3l4MkFVU2gtUWQtanQ2c2xBcTBvS2xaUlJhUzRtZ01rMGR6WnJHdGVFMXJVRGRZZXdLLWFrSGxLd3oycFFqbU9TTUJabTBZY3pyamlEdkNDUlBLQ0FiUk94VWxVYklZcDZvcmRid0dFTVFmVUd0ZFFidVFmVFpLU2w4LXBwUkNibmRiMmFvUlpLZ0hfandQUQ?oc=5" target="_blank">SMIC : le gouvernement face à un dilemme entre pouvoir d'achat et emploi</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Impôts : la France reprend son titre de championne d'Europe - Les Echos](https://news.google.com/rss/articles/CBMivgFBVV95cUxOcFZUTXFrODRmWGdUOTNEbWRGUnJ0MVpSS1BHTDNBTmlEQnlSNm1iVklZclg0a1Vpd1JjaDZubGNvcXBaQ2laYmZFeU1Ybkh2OGhVOTgxUjdaSVNPRDVFcEg4MzFQMWFKOUxjQ1NEeTFHZFpad19vcGQxamJSM2o5RGxSbTdqWURlYzJDT1lqbHNYRHl3ZGRnaHo4TjFSSHdNb1g5R1BFMVdQSUhvSF96OHlOcmxJdWVLLTFlbHdn?oc=5)
-
-`Wed, 28 Oct 2026 16:15:55 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxOcFZUTXFrODRmWGdUOTNEbWRGUnJ0MVpSS1BHTDNBTmlEQnlSNm1iVklZclg0a1Vpd1JjaDZubGNvcXBaQ2laYmZFeU1Ybkh2OGhVOTgxUjdaSVNPRDVFcEg4MzFQMWFKOUxjQ1NEeTFHZFpad19vcGQxamJSM2o5RGxSbTdqWURlYzJDT1lqbHNYRHl3ZGRnaHo4TjFSSHdNb1g5R1BFMVdQSUhvSF96OHlOcmxJdWVLLTFlbHdn?oc=5" target="_blank">Impôts : la France reprend son titre de championne d'Europe</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
