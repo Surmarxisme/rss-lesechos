@@ -1,7 +1,31 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Fri, 27 Nov 2026 00:51:29 +0000`
-> 114 articles (30 derniers jours)
+> Derniere mise a jour : `Fri, 27 Nov 2026 15:40:00 +0000`
+> 113 articles (30 derniers jours)
+
+---
+
+### [La croissance française encore plus sombre que prévu - Les Echos](https://news.google.com/rss/articles/CBMisgFBVV95cUxNT2R0VEtzNk9RWjJPSG1lZTNldjM2VmllMDBScGwwT0lMNnE1RW1McTVOc1VvNWJ5S085c25jSHVnaXpWMWlQM0JhcThsWTdWcExwYi1DTVRxTGdqTGM1Q2lZTUZlTi1ONTA3TURpdVhoQVZtZjJKMXFxcnFBZGNSUGtBMzlyOVJfVE5pei1uOEZyV2R6MTIxREswUndxZElFaU9LZU1sMlA2eHVJb0N6MklR?oc=5)
+
+`Fri, 27 Nov 2026 08:12:23 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxNT2R0VEtzNk9RWjJPSG1lZTNldjM2VmllMDBScGwwT0lMNnE1RW1McTVOc1VvNWJ5S085c25jSHVnaXpWMWlQM0JhcThsWTdWcExwYi1DTVRxTGdqTGM1Q2lZTUZlTi1ONTA3TURpdVhoQVZtZjJKMXFxcnFBZGNSUGtBMzlyOVJfVE5pei1uOEZyV2R6MTIxREswUndxZElFaU9LZU1sMlA2eHVJb0N6MklR?oc=5" target="_blank">La croissance française encore plus sombre que prévu</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Budget 2027 : le Sénat fait marche arrière sur les économies proposées - Les Echos](https://news.google.com/rss/articles/CBMizgFBVV95cUxQa1FGS1lGQTlzUDBEU2NYNkZ3X2NtMV84N1p2dWdjRkQzZGQ0SkRkS1M5b0oxM2FVTUxPb0ZERzJfbi15NmtraTdfU1U2TUNFNjRzczR3SVJZYndMaDJmZXNLWTdHbjlCSFpvMW1XeXQ1N04tWUZhR1Z4U0hPR29WN0k4ZmxXRU5IejVsT1MyZm56SkZRdk1Id3paMjNJdHczZGhncDk5UzVscVRiN3JTS0dycms5Qy1jLVBTajQ5d2RqajdzamZ6OU1lRHk3Zw?oc=5)
+
+`Fri, 27 Nov 2026 05:20:09 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMizgFBVV95cUxQa1FGS1lGQTlzUDBEU2NYNkZ3X2NtMV84N1p2dWdjRkQzZGQ0SkRkS1M5b0oxM2FVTUxPb0ZERzJfbi15NmtraTdfU1U2TUNFNjRzczR3SVJZYndMaDJmZXNLWTdHbjlCSFpvMW1XeXQ1N04tWUZhR1Z4U0hPR29WN0k4ZmxXRU5IejVsT1MyZm56SkZRdk1Id3paMjNJdHczZGhncDk5UzVscVRiN3JTS0dycms5Qy1jLVBTajQ5d2RqajdzamZ6OU1lRHk3Zw?oc=5" target="_blank">Budget 2027 : le Sénat fait marche arrière sur les économies proposées</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
+
+---
+
+### [Auchan, Decathlon, Kiabi : quand la famille Mulliez prend la plume pour dénoncer la hausse du coût du travail prévue dans le budget 2027 - Les Echos](https://news.google.com/rss/articles/CBMiowJBVV95cUxOakRmSGdTekVyOGRsZVFNNndGVkFDT292TVRBUFdiQ2RXSEhDWHMyX29jdEc1UzI0T1FvU2Nuelp4XzBpRGJyWTlXMEVPQzRKUEU5dzBrQ1dyYndWLTBhdGswMG9Xbk5xLVdaRVlvb1VnUW0wX0FGcmdnNi1sS0F5VVBUcER3dTZfWVl5Q2xrNFVpaHJkUEpzM0I2Q1dySXdpUTBPYlNBS3l2QUVZSnk2VmtBMmJKaTg0Uk9obC1DM1ZTbGRxNFlpaEY3Sk5ybldsVThVS04zWllCMDlibEs5NzU3V2tpSmtiSGFabC01VHNtdkRwZURsTG9sbDNmNk1mOFJlNEh0TTl1YkxFNklzeEV3Rm0xa1IyX3l5SzVXTFpTX2s?oc=5)
+
+`Fri, 27 Nov 2026 12:05:22 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMiowJBVV95cUxOakRmSGdTekVyOGRsZVFNNndGVkFDT292TVRBUFdiQ2RXSEhDWHMyX29jdEc1UzI0T1FvU2Nuelp4XzBpRGJyWTlXMEVPQzRKUEU5dzBrQ1dyYndWLTBhdGswMG9Xbk5xLVdaRVlvb1VnUW0wX0FGcmdnNi1sS0F5VVBUcER3dTZfWVl5Q2xrNFVpaHJkUEpzM0I2Q1dySXdpUTBPYlNBS3l2QUVZSnk2VmtBMmJKaTg0Uk9obC1DM1ZTbGRxNFlpaEY3Sk5ybldsVThVS04zWllCMDlibEs5NzU3V2tpSmtiSGFabC01VHNtdkRwZURsTG9sbDNmNk1mOFJlNEh0TTl1YkxFNklzeEV3Rm0xa1IyX3l5SzVXTFpTX2s?oc=5" target="_blank">Auchan, Decathlon, Kiabi : quand la famille Mulliez prend la plume pour dénoncer la hausse du coût du travail prévue dans le budget 2027</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
@@ -882,37 +906,5 @@
 `Wed, 28 Oct 2026 16:15:55 GMT`
 
 <a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxOcFZUTXFrODRmWGdUOTNEbWRGUnJ0MVpSS1BHTDNBTmlEQnlSNm1iVklZclg0a1Vpd1JjaDZubGNvcXBaQ2laYmZFeU1Ybkh2OGhVOTgxUjdaSVNPRDVFcEg4MzFQMWFKOUxjQ1NEeTFHZFpad19vcGQxamJSM2o5RGxSbTdqWURlYzJDT1lqbHNYRHl3ZGRnaHo4TjFSSHdNb1g5R1BFMVdQSUhvSF96OHlOcmxJdWVLLTFlbHdn?oc=5" target="_blank">Impôts : la France reprend son titre de championne d'Europe</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [France Travail défend l'efficacité de ses réformes pour contenir la hausse du chômage - Les Echos](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVXNnRkwtOWd4UEx1dkhPSzRTSFp2MUN4Z05NNXlvU0lBRW8xVWhxTno4UFVSUlFmZ3ZDWE5JbkRrQXJUb1N3T3lWV0Fka0NuaWZTNUlLYXRiZzZsR1B4bzRkRTBuQjl2MFM1Q29sWkJ2cklFeHV4U0V4eTZEX2kxeWpGNTZtT25DQmVVLS1pT01keElGUUhFRDk1ODYwQ2I0MlV6SEFqWEM0UUpHSGNqRzRfZ1N2UFpTMXJuTGpwck5UMURTVEZCeHdnV2ZsdUU0WWNXWERR?oc=5)
-
-`Wed, 28 Oct 2026 15:34:48 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVXNnRkwtOWd4UEx1dkhPSzRTSFp2MUN4Z05NNXlvU0lBRW8xVWhxTno4UFVSUlFmZ3ZDWE5JbkRrQXJUb1N3T3lWV0Fka0NuaWZTNUlLYXRiZzZsR1B4bzRkRTBuQjl2MFM1Q29sWkJ2cklFeHV4U0V4eTZEX2kxeWpGNTZtT25DQmVVLS1pT01keElGUUhFRDk1ODYwQ2I0MlV6SEFqWEM0UUpHSGNqRzRfZ1N2UFpTMXJuTGpwck5UMURTVEZCeHdnV2ZsdUU0WWNXWERR?oc=5" target="_blank">France Travail défend l'efficacité de ses réformes pour contenir la hausse du chômage</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Budget 2027 : la surtaxe sur les grandes entreprises rejetée par les députés, nouveau revers pour le gouvernement - Les Echos](https://news.google.com/rss/articles/CBMihgJBVV95cUxPYWdYNWU4ZEVYZHYyM0hpVHlVOXR2UFludkFlcDc4UTFjLVNpSHlLdXUyY3ZwSU9pOWJzWkI3VURuei0wUXJ6UTlEcDZxYnpnUDB5R1hBbHpjY0wxNG9iNmxrZC1kR1daam13b2Q5bnZlM2pSb2xTaVB1Y1BrNUZBSHYtRDM1c21HX2FFa0wzZWd6UnJxS2RVRkpGS05PcFhaSlhQNU9nbUNNdDBZSEhRNHJaVkFtV3JJNEpJajBvNTVJMGZxVXgxSFRKLUprYU5vUmxrMkN4bVg5SlR0MWNxYXBlZTR4dkpGRmJwRXVzSjlwN2hmWVdxNWdGUXBUeTBGQzJteEZn?oc=5)
-
-`Wed, 28 Oct 2026 07:59:28 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMihgJBVV95cUxPYWdYNWU4ZEVYZHYyM0hpVHlVOXR2UFludkFlcDc4UTFjLVNpSHlLdXUyY3ZwSU9pOWJzWkI3VURuei0wUXJ6UTlEcDZxYnpnUDB5R1hBbHpjY0wxNG9iNmxrZC1kR1daam13b2Q5bnZlM2pSb2xTaVB1Y1BrNUZBSHYtRDM1c21HX2FFa0wzZWd6UnJxS2RVRkpGS05PcFhaSlhQNU9nbUNNdDBZSEhRNHJaVkFtV3JJNEpJajBvNTVJMGZxVXgxSFRKLUprYU5vUmxrMkN4bVg5SlR0MWNxYXBlZTR4dkpGRmJwRXVzSjlwN2hmWVdxNWdGUXBUeTBGQzJteEZn?oc=5" target="_blank">Budget 2027 : la surtaxe sur les grandes entreprises rejetée par les députés, nouveau revers pour le gouvernement</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [Budget 2027 : les retraités, premiers perdants de la copie gouvernementale - Les Echos](https://news.google.com/rss/articles/CBMiywFBVV95cUxORHhscmpTZ0t0cXpmUldZWWpJMUVaV0hReGE4bE5qdUpmUHdHWTlzckxkRGZEbEJGRFY5S2lQWHBmTVhjTkx3VEsxS19wZDREdFRCZkJQRUZ2akVBZkZ5NG5lQ0wtZG9xdVNWeWw2YVJrdk9pT3NRemVxUzlfQkpVOG84dG5qY21ZeDF3M0RDaDA2NnBFbXBveUx3Mlp1a21kbGE3bHIybU1XenFfeFBaWWs0bWwteWNqMVFwc1dxWmJKSVNYU0t1aWVJSQ?oc=5)
-
-`Wed, 28 Oct 2026 05:05:09 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMiywFBVV95cUxORHhscmpTZ0t0cXpmUldZWWpJMUVaV0hReGE4bE5qdUpmUHdHWTlzckxkRGZEbEJGRFY5S2lQWHBmTVhjTkx3VEsxS19wZDREdFRCZkJQRUZ2akVBZkZ5NG5lQ0wtZG9xdVNWeWw2YVJrdk9pT3NRemVxUzlfQkpVOG84dG5qY21ZeDF3M0RDaDA2NnBFbXBveUx3Mlp1a21kbGE3bHIybU1XenFfeFBaWWs0bWwteWNqMVFwc1dxWmJKSVNYU0t1aWVJSQ?oc=5" target="_blank">Budget 2027 : les retraités, premiers perdants de la copie gouvernementale</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
-
----
-
-### [La suspension de la réforme des retraites entraîne un afflux « exceptionnel » de départs - Les Echos](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbU12TV83Vk85WV8xeVRaeFpBOWtVSDg0Y0xER2VCQ1JiZDFxUDgtaDFyQ2xZQVJZdjhkeTlqT3R4dnlkLVNwY2J3M1R2WVlXanNTeVhyRVJyNkowZDUtUDhUaXpCZTlpZTF1dDJxQUFLc3k4VTFJV1lua2FLVkY4cUtDdWJkQ2E3SG9HRVRiTWhMLXhjeWRmb2R3X2pTUjFKbElIcWg3Si15TnNkNHZJVzgxZFdWNkdmSElZa3lVSW5MOHlkZDEyaGxIYmpEcGhHOXVwYlhn?oc=5)
-
-`Wed, 28 Oct 2026 10:44:12 GMT`
-
-<a href="https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbU12TV83Vk85WV8xeVRaeFpBOWtVSDg0Y0xER2VCQ1JiZDFxUDgtaDFyQ2xZQVJZdjhkeTlqT3R4dnlkLVNwY2J3M1R2WVlXanNTeVhyRVJyNkowZDUtUDhUaXpCZTlpZTF1dDJxQUFLc3k4VTFJV1lua2FLVkY4cUtDdWJkQ2E3SG9HRVRiTWhMLXhjeWRmb2R3X2pTUjFKbElIcWg3Si15TnNkNHZJVzgxZFdWNkdmSElZa3lVSW5MOHlkZDEyaGxIYmpEcGhHOXVwYlhn?oc=5" target="_blank">La suspension de la réforme des retraites entraîne un afflux « exceptionnel » de départs</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
