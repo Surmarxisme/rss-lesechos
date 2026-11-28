@@ -1,7 +1,15 @@
 # Les Echos - Economie France
 
-> Derniere mise a jour : `Fri, 27 Nov 2026 20:29:52 +0000`
-> 113 articles (30 derniers jours)
+> Derniere mise a jour : `Sat, 28 Nov 2026 00:16:17 +0000`
+> 114 articles (30 derniers jours)
+
+---
+
+### [Dette publique : S&P maintient la note de la France à A+, mais l'assortit d'une perspective négative - Les Echos](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQcmVQUXU4Mnl4QkhLSmJfZFhXQkVZZHY1WlFsMy1CeVNSM0ZSeGMzTzA0bnlWMTQ5clo4ZHhESG9IVkluZEFna1NiWDVRUzhVTkF2d2tfTUhNMjlEMVZjN0NKbnBUYmNMNkQ4T0VNVHZWOEVDUDlTQkRuaFcxT2VpeHZiamVsdzVrQjZwNHc2WjVWYzFnVkM3SUhrcUNUeFdaS1Z2bU01VnpkQ2dqWDVBN0E2OXZfdWhCNTJZci1Kam9LMWtaNEF2eWxZdXF0VmxIU3oyUjdPVWdQSGNfMTdJenNseWNPVzdNUEE?oc=5)
+
+`Fri, 27 Nov 2026 22:03:47 GMT`
+
+<a href="https://news.google.com/rss/articles/CBMi6gFBVV95cUxQcmVQUXU4Mnl4QkhLSmJfZFhXQkVZZHY1WlFsMy1CeVNSM0ZSeGMzTzA0bnlWMTQ5clo4ZHhESG9IVkluZEFna1NiWDVRUzhVTkF2d2tfTUhNMjlEMVZjN0NKbnBUYmNMNkQ4T0VNVHZWOEVDUDlTQkRuaFcxT2VpeHZiamVsdzVrQjZwNHc2WjVWYzFnVkM3SUhrcUNUeFdaS1Z2bU01VnpkQ2dqWDVBN0E2OXZfdWhCNTJZci1Kam9LMWtaNEF2eWxZdXF0VmxIU3oyUjdPVWdQSGNfMTdJenNseWNPVzdNUEE?oc=5" target="_blank">Dette publique : S&amp;P maintient la note de la France à A+, mais l'assortit d'une perspective négative</a>&nbsp;&nbsp;<font color="#6f6f6f">Les Echos</font>
 
 ---
 
